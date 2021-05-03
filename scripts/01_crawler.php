@@ -1,51 +1,43 @@
 <?php
 include dirname(__DIR__) . '/vendor/autoload.php';
+
 use Goutte\Client;
 use Symfony\Component\DomCrawler\Field\InputFormField;
-
-$cities = array(
-    '01' => '基隆市',
-    '02' => '臺北市',
-    '03' => '新北市',
-    '05' => '桃園市',
-    '06' => '新竹市',
-    '07' => '新竹縣',
-    '08' => '苗栗縣',
-    '09' => '臺中市',
-    '11' => '彰化縣',
-    '12' => '南投縣',
-    '13' => '雲林縣',
-    '14' => '嘉義市',
-    '15' => '嘉義縣',
-    '16' => '臺南市',
-    '18' => '高雄市',
-    '20' => '屏東縣',
-    '21' => '臺東縣',
-    '22' => '花蓮縣',
-    '04' => '宜蘭縣',
-    '23' => '澎湖縣',
-    '24' => '金門縣',
-    '25' => '連江縣',
-);
 
 $client = new Client();
 $client->setServerParameter('HTTP_USER_AGENT', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0');
 
-$crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/punishSearch.aspx');
+$crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/pubSearch.aspx');
 
 $dom = new \DOMDocument('1.0', 'utf-8');
 
 $rawPath = dirname(__DIR__) . '/raw';
-if(!file_exists($rawPath)) {
+if (!file_exists($rawPath)) {
     mkdir($rawPath, 0777);
 }
 
-foreach($cities AS $code => $city) {
-    $form = $crawler->selectButton('搜尋')->form();
-    $crawler = $client->submit($form, array('ddlCityS' => $code));
-    file_put_contents($rawPath . '/' . $city . '-1.html', $client->getResponse()->getContent());
-
-    // $form = $crawler->selectButton('搜尋')->form();
-    // $crawler = $client->submit($form, array('ddlCityS' => $code, '__EVENTTARGET' => 'PageControl1$lbNextPage'));
-    // file_put_contents(__DIR__ . '/tmp2.html', $client->getResponse()->getContent());
+$form = $crawler->selectButton('搜尋')->form();
+$crawler = $client->submit($form);
+$pageContent = $client->getResponse()->getContent();
+file_put_contents($rawPath . '/1.html', $pageContent);
+$currentPage = 1;
+$pageTotal = 2;
+$pageTotalDone = false;
+for ($i = 2; $i <= $pageTotal; $i++) {
+    if(false === $pageTotalDone) {
+        $pageTotalDone = true;
+        $pos = strpos($pageContent, 'PageControl1_lblTotalPage');
+        $pos = strpos($pageContent, '>', $pos) + 1;
+        $posEnd = strpos($pageContent, '</span>', $pos);
+        $pageTotal = intval(substr($pageContent, $pos, $posEnd - $pos));
+    }
+    $form = $crawler->filter('#form1')->form();
+    $crawler = $client->submit($form, [
+        'PageControl1$txtPages' => $currentPage,
+        '__EVENTTARGET' => 'PageControl1$lbNextPage',
+    ]);
+    $pageContent = $client->getResponse()->getContent();
+    file_put_contents($rawPath . '/' . $i . '.html', $pageContent);
+    echo "page {$i}\n";
+    ++$currentPage;
 }
