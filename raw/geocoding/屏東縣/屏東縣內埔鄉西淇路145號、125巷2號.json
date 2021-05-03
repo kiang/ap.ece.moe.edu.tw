@@ -1,0 +1,93 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣內埔鄉西淇路145號、125巷2號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "4",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:-1,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (內埔鄉)\t找到符合的[鄉鎮市區]，(西淇路)\t找到符合的[路街名]，(145號125巷)\t找不到符合的[巷]，(145號125巷)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(2號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 4 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "屏東縣內埔鄉黎明村3鄰西淇路12巷2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "內埔鄉",
+      "VILLAGE": "黎明村",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "西淇路",
+      "SECTION": "",
+      "LANE": "12巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "2號",
+      "X": 120.601654,
+      "Y": 22.687456
+    },
+    {
+      "FULL_ADDR": "屏東縣內埔鄉黎明村3鄰西淇路2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "內埔鄉",
+      "VILLAGE": "黎明村",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "西淇路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "2號",
+      "X": 120.601808,
+      "Y": 22.687100
+    },
+    {
+      "FULL_ADDR": "屏東縣內埔鄉黎明村4鄰西淇路125巷2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "內埔鄉",
+      "VILLAGE": "黎明村",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "西淇路",
+      "SECTION": "",
+      "LANE": "125巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "2號",
+      "X": 120.598460,
+      "Y": 22.686968
+    },
+    {
+      "FULL_ADDR": "屏東縣內埔鄉黎明村5鄰西淇路132巷2號",
+      "COUNTY": "屏東縣",
+      "TOWN": "內埔鄉",
+      "VILLAGE": "黎明村",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "西淇路",
+      "SECTION": "",
+      "LANE": "132巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "2號",
+      "X": 120.599180,
+      "Y": 22.687950
+    }
+  ]
+}

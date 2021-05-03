@@ -1,0 +1,77 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市平鎮區中豐路南勢2段223號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:-1,R:1,-S:0,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (平鎮區)\t找到符合的[鄉鎮市區]，(中豐路)\t找到符合的[路街名]，(南勢2段)\t找不到符合的[路段]，(223號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市平鎮區南勢里12鄰中豐路南勢二段223號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "南勢里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "中豐路",
+      "SECTION": "南勢二段",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "223號",
+      "X": 121.210656,
+      "Y": 24.913512
+    },
+    {
+      "FULL_ADDR": "桃園市平鎮區新貴里4鄰中豐路一段223號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "新貴里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "中豐路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "223號",
+      "X": 121.213291,
+      "Y": 24.927085
+    },
+    {
+      "FULL_ADDR": "桃園市平鎮區福林里14鄰中豐路山頂段223號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "福林里",
+      "NEIGHBORHOOD": "14鄰",
+      "ROAD": "中豐路",
+      "SECTION": "山頂段",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "223號",
+      "X": 121.211032,
+      "Y": 24.899196
+    }
+  ]
+}

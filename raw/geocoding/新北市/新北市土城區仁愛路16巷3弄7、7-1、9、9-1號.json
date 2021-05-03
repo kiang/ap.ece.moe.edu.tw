@@ -1,0 +1,45 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新北市土城區仁愛路16巷3弄7、7-1、9、9-1號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新北市]\tT:1,V:-1,R:1,S:-1,L:1,A:1,SA:-1,T:-1,AR:-1,NO:2,E:-1,N:-1",
+      "OutTraceInfo": "[新北市]\t { 模糊比對 } (土城區)\t找到符合的[鄉鎮市區]，(仁愛路)\t找到符合的[路街名]，(16巷)\t找到符合的[巷]，(3弄)\t找到符合的[弄]，(77-199-1號)\t找不到符合的[門牌號碼]，進行轉換搜尋[弄視為號]，轉換搜尋找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新北市土城區清水里16鄰仁愛路16巷3弄3號",
+      "COUNTY": "新北市",
+      "TOWN": "土城區",
+      "VILLAGE": "清水里",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "仁愛路",
+      "SECTION": "",
+      "LANE": "16巷",
+      "ALLEY": "3弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "3號",
+      "X": 121.460149,
+      "Y": 24.980253
+    }
+  ]
+}

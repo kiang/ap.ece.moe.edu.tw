@@ -1,0 +1,93 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新北市瑞芳區三爪子坑路國中新村18號1、2樓",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "4",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新北市]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[新北市]\t { 模糊比對 } (瑞芳區)\t找到符合的[鄉鎮市區]，(三爪子坑路)\t找到符合的[路街名]，(國中新村)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(18號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 4 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新北市瑞芳區爪峯里12鄰三爪子坑路正貿新村18號",
+      "COUNTY": "新北市",
+      "TOWN": "瑞芳區",
+      "VILLAGE": "爪峯里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "三爪子坑路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "18號",
+      "X": 121.813233,
+      "Y": 25.105926
+    },
+    {
+      "FULL_ADDR": "新北市瑞芳區爪峯里2鄰三爪子坑路18號",
+      "COUNTY": "新北市",
+      "TOWN": "瑞芳區",
+      "VILLAGE": "爪峯里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "三爪子坑路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "18號",
+      "X": 121.810338,
+      "Y": 25.106500
+    },
+    {
+      "FULL_ADDR": "新北市瑞芳區新峰里6鄰三爪子坑路18號",
+      "COUNTY": "新北市",
+      "TOWN": "瑞芳區",
+      "VILLAGE": "新峰里",
+      "NEIGHBORHOOD": "6鄰",
+      "ROAD": "三爪子坑路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "18號",
+      "X": 121.817058,
+      "Y": 25.107232
+    },
+    {
+      "FULL_ADDR": "新北市瑞芳區新峰里7鄰三爪子坑路民享新村18號",
+      "COUNTY": "新北市",
+      "TOWN": "瑞芳區",
+      "VILLAGE": "新峰里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "三爪子坑路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "18號",
+      "X": 121.816738,
+      "Y": 25.105868
+    }
+  ]
+}

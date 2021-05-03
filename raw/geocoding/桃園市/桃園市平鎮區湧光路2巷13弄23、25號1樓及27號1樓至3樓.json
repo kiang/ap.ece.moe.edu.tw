@@ -1,0 +1,77 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市平鎮區湧光路2巷13弄23、25號1樓及27號1樓至3樓",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:-1,R:1,S:-1,L:1,A:1,SA:-1,T:-1,AR:-1,NO:2(-2312),E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (平鎮區)\t找到符合的[鄉鎮市區]，(湧光路)\t找到符合的[路街名]，(2巷)\t找到符合的[巷]，(13弄)\t找到符合的[弄]，(2325號)\t找不到符合的[門牌號碼]，進行轉換搜尋[弄視為號]，轉換搜尋找到符合的[門牌號碼]，進行[單號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -2312 號，進行[找最小門牌的號之、之號]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市平鎮區湧光里13鄰湧光路2巷13弄13之1號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "湧光里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "湧光路",
+      "SECTION": "",
+      "LANE": "2巷",
+      "ALLEY": "13弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "13之1號",
+      "X": 121.210168,
+      "Y": 24.898930
+    },
+    {
+      "FULL_ADDR": "桃園市平鎮區湧光里13鄰湧光路2巷13弄13之2號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "湧光里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "湧光路",
+      "SECTION": "",
+      "LANE": "2巷",
+      "ALLEY": "13弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "13之2號",
+      "X": 121.210168,
+      "Y": 24.898930
+    },
+    {
+      "FULL_ADDR": "桃園市平鎮區湧光里13鄰湧光路2巷13弄13之3號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "湧光里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "湧光路",
+      "SECTION": "",
+      "LANE": "2巷",
+      "ALLEY": "13弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "13之3號",
+      "X": 121.210168,
+      "Y": 24.898930
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市平鎮區民族路二段193巷15弄57(1樓)、59號(1-2樓)",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:-1,R:1,S:1,L:1,A:1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (平鎮區)\t找到符合的[鄉鎮市區]，(民族路)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(193巷)\t找到符合的[巷]，(15弄)\t找到符合的[弄]，(五七(一樓))\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(59號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市平鎮區復興里33鄰民族路二段193巷15弄59號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "復興里",
+      "NEIGHBORHOOD": "33鄰",
+      "ROAD": "民族路",
+      "SECTION": "2",
+      "LANE": "193巷",
+      "ALLEY": "15弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "59號",
+      "X": 121.204597,
+      "Y": 24.956375
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣社頭鄉社石路760巷25弄26號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[彰化縣]\tFULL:1",
+      "OutTraceInfo": "[彰化縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣社頭鄉廣福村5鄰社石路760巷25弄26號",
+      "COUNTY": "彰化縣",
+      "TOWN": "社頭鄉",
+      "VILLAGE": "廣福村",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "社石路",
+      "SECTION": "",
+      "LANE": "760巷",
+      "ALLEY": "25弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "26號",
+      "X": 120.595374,
+      "Y": 23.903869
+    }
+  ]
+}

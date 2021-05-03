@@ -1,0 +1,61 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市安南區海佃路二段631號(1樓)、637號(1-3樓)、海環街715巷58號(1樓)",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:-1,R:1,S:1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (安南區)\t找到符合的[鄉鎮市區]，(海佃路)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(631號(1樓)637號(1-3樓)海環街715巷)\t找不到符合的[巷]，(631號(1樓)637號(1-3樓)海環街715巷)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(58號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市安南區大安里1鄰海佃路二段58號",
+      "COUNTY": "臺南市",
+      "TOWN": "安南區",
+      "VILLAGE": "大安里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "海佃路",
+      "SECTION": "2",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "58號",
+      "X": 120.190447,
+      "Y": 23.030812
+    },
+    {
+      "FULL_ADDR": "臺南市安南區海東里8鄰海佃路二段483巷58號",
+      "COUNTY": "臺南市",
+      "TOWN": "安南區",
+      "VILLAGE": "海東里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "海佃路",
+      "SECTION": "2",
+      "LANE": "483巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "58號",
+      "X": 120.185578,
+      "Y": 23.041312
+    }
+  ]
+}

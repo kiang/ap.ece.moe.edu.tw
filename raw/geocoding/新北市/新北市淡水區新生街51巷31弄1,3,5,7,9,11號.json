@@ -1,0 +1,45 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新北市淡水區新生街51巷31弄1,3,5,7,9,11號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新北市]\tT:1,V:-1,R:1,S:-1,L:1,A:1,SA:-1,T:-1,AR:-1,NO:0(-1357900),E:-1,N:-1",
+      "OutTraceInfo": "[新北市]\t { 模糊比對 } (淡水區)\t找到符合的[鄉鎮市區]，(新生街)\t找到符合的[路街名]，(51巷)\t找到符合的[巷]，(31弄)\t找到符合的[弄]，(1357911號)\t找不到符合的[門牌號碼]，進行轉換搜尋[弄視為號]，找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，進行[單號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -1357900 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新北市淡水區新義里2鄰新生街51巷31弄11號",
+      "COUNTY": "新北市",
+      "TOWN": "淡水區",
+      "VILLAGE": "新義里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "新生街",
+      "SECTION": "",
+      "LANE": "51巷",
+      "ALLEY": "31弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "11號",
+      "X": 121.440819,
+      "Y": 25.176380
+    }
+  ]
+}

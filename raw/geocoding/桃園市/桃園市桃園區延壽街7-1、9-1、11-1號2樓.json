@@ -1,0 +1,45 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市桃園區延壽街7-1、9-1、11-1號2樓",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1(+1),E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (桃園區)\t找到符合的[鄉鎮市區]，(延壽街)\t找到符合的[路街名]，(7-19-111-1號)\t找到符合的[門牌號碼]，進行[單號過濾]，進行[找大於且最接近門牌的號之、之號]，找到大於輸入的門牌的號之、之號 1 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市桃園區中路里2鄰延壽街7之1號",
+      "COUNTY": "桃園市",
+      "TOWN": "桃園區",
+      "VILLAGE": "中路里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "延壽街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "7之1號",
+      "X": 121.293411,
+      "Y": 24.991765
+    }
+  ]
+}

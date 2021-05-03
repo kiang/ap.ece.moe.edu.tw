@@ -1,0 +1,45 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市安南區長溪路2段570巷81弄14號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[臺南市]\tFULL:1",
+      "OutTraceInfo": "[臺南市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市安南區總頭里6鄰長溪路二段570巷81弄14號",
+      "COUNTY": "臺南市",
+      "TOWN": "安南區",
+      "VILLAGE": "總頭里",
+      "NEIGHBORHOOD": "6鄰",
+      "ROAD": "長溪路",
+      "SECTION": "2",
+      "LANE": "570巷",
+      "ALLEY": "81弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "14號",
+      "X": 120.204657,
+      "Y": 23.055119
+    }
+  ]
+}

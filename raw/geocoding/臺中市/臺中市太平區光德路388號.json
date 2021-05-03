@@ -1,0 +1,61 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市太平區光德路388號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+44)(-130),E:-1,N:-1",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (太平區)\t找到符合的[鄉鎮市區]，(光德路)\t找到符合的[路街名]，(388號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +44 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -130 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺中市太平區德隆里12鄰光德路258號",
+      "COUNTY": "臺中市",
+      "TOWN": "太平區",
+      "VILLAGE": "德隆里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "光德路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "258號",
+      "X": 120.723496,
+      "Y": 24.104626
+    },
+    {
+      "FULL_ADDR": "臺中市太平區永隆里1鄰光德路432號",
+      "COUNTY": "臺中市",
+      "TOWN": "太平區",
+      "VILLAGE": "永隆里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "光德路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "432號",
+      "X": 120.725005,
+      "Y": 24.107538
+    }
+  ]
+}
