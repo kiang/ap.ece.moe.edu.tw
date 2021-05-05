@@ -34,7 +34,7 @@ $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/pubSearch
 
 $form = $crawler->selectButton('搜尋')->form();
 $taskFound = false;
-foreach (glob($basePath . '/data/臺南市.csv') as $csvFile) {
+foreach (glob($basePath . '/data/*.csv') as $csvFile) {
     if (!$taskFound) {
         $fh = fopen($csvFile, 'r');
         $head = fgetcsv($fh, 2048);
