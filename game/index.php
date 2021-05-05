@@ -40,6 +40,9 @@ foreach (glob($basePath . '/data/臺南市.csv') as $csvFile) {
         $head = fgetcsv($fh, 2048);
         while ($line = fgetcsv($fh, 2048)) {
             $data = array_combine($head, $line);
+            if($data['has_slip'] === 'no') {
+                continue;
+            }
             $rawPath = $basePath . '/raw/slip/' . $data['city'];
             if (!file_exists($rawPath)) {
                 mkdir($rawPath, 0777, true);
@@ -74,8 +77,8 @@ foreach (glob($basePath . '/data/臺南市.csv') as $csvFile) {
                         <input type="submit" value="go" />
                     </form>
                     <script>
-document.getElementById("mytext").focus();
-</script>
+                        document.getElementById("mytext").focus();
+                    </script>
 
 <?php
                 }
