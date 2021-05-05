@@ -1,7 +1,7 @@
 <?php
 $posEnd = 0;
 $dataPath = dirname(__DIR__) . '/data';
-if(!file_exists($dataPath)) {
+if (!file_exists($dataPath)) {
     mkdir($dataPath, 0777);
 }
 $fh = [];
@@ -28,11 +28,11 @@ foreach (glob(dirname(__DIR__) . '/raw/*.html') as $htmlFile) {
             'tel' => '',
             'url' => '',
             'count_approved' => '',
-            'free5' => '',
             'pre_public' => '',
             'is_free5' => '',
             'is_after' => '',
             'penalty' => '',
+            'has_slip' => 'no',
         ];
         foreach ($lines as $k => $line) {
             switch ($line) {
@@ -53,15 +53,12 @@ foreach (glob(dirname(__DIR__) . '/raw/*.html') as $htmlFile) {
                     break;
                 case '園所網址：':
                     $data['url'] = $lines[$k + 1];
-                    if($data['url'] === '收費明細：') {
+                    if ($data['url'] === '收費明細：') {
                         $data['url'] = '';
                     }
                     break;
                 case '核定人數：':
                     $data['count_approved'] = $lines[$k + 1];
-                    break;
-                case '5歲免學費：':
-                    $data['free5'] = $lines[$k + 1];
                     break;
                 case '準公共幼兒園：':
                     $data['pre_public'] = $lines[$k + 1];
@@ -73,16 +70,18 @@ foreach (glob(dirname(__DIR__) . '/raw/*.html') as $htmlFile) {
                     $data['is_after'] = $lines[$k + 1];
                     break;
                 case '裁罰情形：':
-                    if($lines[$k + 1] !== '無') {
+                    if ($lines[$k + 1] !== '無') {
                         $data['penalty'] = '有';
                     } else {
                         $data['penalty'] = $lines[$k + 1];
                     }
-                    
+                    break;
+                case '收費明細：':
+                    $data['has_slip'] = 'yes';
                     break;
             }
         }
-        if(!isset($fh[$data['city']])) {
+        if (!isset($fh[$data['city']])) {
             $fh[$data['city']] = fopen($dataPath . '/' . $data['city'] . '.csv', 'w');
             fputcsv($fh[$data['city']], array_keys($data));
         }
