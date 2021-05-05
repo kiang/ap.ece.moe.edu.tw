@@ -34,7 +34,7 @@ $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/pubSearch
 
 $form = $crawler->selectButton('搜尋')->form();
 $taskFound = false;
-foreach (glob($basePath . '/data/*.csv') as $csvFile) {
+foreach (glob($basePath . '/data/臺南市.csv') as $csvFile) {
     if (!$taskFound) {
         $fh = fopen($csvFile, 'r');
         $head = fgetcsv($fh, 2048);
@@ -67,12 +67,16 @@ foreach (glob($basePath . '/data/*.csv') as $csvFile) {
                     $client->request('GET', $img);
                     file_put_contents(__DIR__ . '/qq.png', $client->getResponse()->getContent());
 ?>
-                    <img src="qq.png?<?php echo mt_rand(); ?>" />
+                    <img src="qq.png?<?php echo mt_rand(); ?>" width=300 />
                     <form method="post">
                         <textarea name="url"><?php echo $url; ?></textarea>
-                        <input type="text" name="v" />
+                        <input type="text" id="mytext" name="v" />
                         <input type="submit" value="go" />
                     </form>
+                    <script>
+document.getElementById("mytext").focus();
+</script>
+
 <?php
                 }
             }
