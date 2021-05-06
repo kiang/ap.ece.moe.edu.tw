@@ -8,7 +8,7 @@ while($line = fgetcsv($fh, 2048)) {
     $meta[$data['title']] = $data;
 }
 $counter = [];
-foreach (glob($basePath . '/raw/slip/臺南市/*.html') as $htmlFile) {
+foreach (glob($basePath . '/raw/slip/*/*.html') as $htmlFile) {
     $p = pathinfo($htmlFile);
     $targetPath = str_replace('raw/slip', 'data/slip', $p['dirname']);
     if (!file_exists($targetPath)) {
