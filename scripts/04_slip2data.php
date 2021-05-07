@@ -91,6 +91,20 @@ foreach (glob($basePath . '/raw/slip/*/*.html') as $htmlFile) {
                             '小計' => $cols[9]
                         ];
                         break;
+                    case '全學期總收費':
+                        if($pointMeta['type'] === '非營利') {
+                            $pageData['slip'][$ageFound]['上學期']['class']['全日班'][$cols[0]] = [
+                                '收費期間' => '學期',
+                                '單價' => $cols[1],
+                                '小計' => $cols[1]
+                            ];
+                            $pageData['slip'][$ageFound]['下學期']['class']['全日班'][$cols[0]] = [
+                                '收費期間' => '學期',
+                                '單價' => $cols[2],
+                                '小計' => $cols[2]
+                            ];
+                        }
+                        break;
                     case '代辦費':
                         $pageData['slip'][$ageFound]['上學期']['class']['半日班']['材料費'] = [
                             '收費期間' => $cols[2],
