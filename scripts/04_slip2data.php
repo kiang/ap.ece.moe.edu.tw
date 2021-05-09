@@ -41,6 +41,9 @@ foreach (glob($basePath . '/raw/slip/*/*.html') as $htmlFile) {
 
             if (false === $ageFound) {
                 $ageFound = intval($cols[0]);
+                if($ageFound < 2) {
+                    continue(2);
+                }
                 $pageData['slip'][$ageFound] = [];
             } elseif (false === $periodFound) {
                 $periodFound = true;
