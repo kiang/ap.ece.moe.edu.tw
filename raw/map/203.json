@@ -1,0 +1,98 @@
+[
+  {
+    "newsch": 1,
+    "lat": 25.13528,
+    "lng": 121.733921,
+    "sid": "MAAxADIAMAAzADAAMAAwADAAMQA=",
+    "name": "(私立)輔仁大學學校財團法人基隆市輔大聖心高級中學附設私立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.151087,
+    "lng": 121.724954,
+    "sid": "MAAxADIAMAAzADAAMAAwADAAMgA=",
+    "name": "(私立)基隆市私立蒙特梭利幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.147302,
+    "lng": 121.719628,
+    "sid": "MAAxADIAMAAzADAAMAAwADAAMwA=",
+    "name": "(準公共)基隆市私立愛米爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.150633,
+    "lng": 121.719939,
+    "sid": "MAAxADIAMAAzADAAMAAwADAANAA=",
+    "name": "(準公共)基隆市私立向日葵幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.149978,
+    "lng": 121.727835,
+    "sid": "MAAxADIAMAAzADAAMAAwADAANgA=",
+    "name": "(私立)私立經國管理暨健康學院附設基隆市幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.148264,
+    "lng": 121.727454,
+    "sid": "MAAxADIAMAAzADAAMAAwADAANwA=",
+    "name": "(私立)基隆市私立自立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.147198,
+    "lng": 121.74683,
+    "sid": "MAAxADIAMAAzADAAMAAwADAAOQA=",
+    "name": "(公立)基隆市中山區仙洞國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1365059,
+    "lng": 121.740201,
+    "sid": "MAAxADIAMAAzADAAMAAwADEAMAA=",
+    "name": "(公立)基隆市中山區港西國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1458302,
+    "lng": 121.7363247,
+    "sid": "MAAxADIAMAAzADAAMAAwADEAMQA=",
+    "name": "(公立)基隆市中山區中山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.146671,
+    "lng": 121.720374,
+    "sid": "MAAxADIAMAAzADAAMAAwADEAMgA=",
+    "name": "(公立)基隆市中山區中和國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.155293,
+    "lng": 121.731109,
+    "sid": "MAAxADIAMAAzADAAMAAwADEAMwA=",
+    "name": "(公立)基隆市中山區德和國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.149341,
+    "lng": 121.738735,
+    "sid": "MAAxADIAMAAzADAAMAAwADEANQA=",
+    "name": "(公立)基隆市中山區中華國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.072304,
+    "lng": 120.289872,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市立新市幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.093031,
+    "lng": 120.316525,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMQAtADAAMQA=",
+    "name": "(公立)臺南市立新市幼兒園大社分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.100596,
+    "lng": 120.307701,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMQAtADAAMgA=",
+    "name": "(公立)臺南市立新市幼兒園大營分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.075357,
+    "lng": 120.298362,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMQAtADAAMwA=",
+    "name": "(公立)臺南市立新市幼兒園港墘分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.078196,
+    "lng": 120.27836,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMQAtADAANAA=",
+    "name": "(公立)臺南市立新市幼兒園社內分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.100596,
+    "lng": 120.307701,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMgA=",
+    "name": "(準公共)臺南市私立心之寶幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.080034,
+    "lng": 120.294157,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMwA=",
+    "name": "(私立)臺南市私立愛迪生幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.062633,
+    "lng": 120.292697,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAANAA=",
+    "name": "(私立)臺南市私立蕃茄幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.079586,
+    "lng": 120.292729,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAANQA=",
+    "name": "(私立)臺南市私立德林國學幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.086828,
+    "lng": 120.319258,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAANgA=",
+    "name": "(公立)臺南市新市區大社國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.079039,
+    "lng": 120.295559,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAANwA=",
+    "name": "(公立)臺南市新市區新市國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.10569,
+    "lng": 120.289506,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAOAA=",
+    "name": "(私立)臺南市私立南科國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0801331,
+    "lng": 120.2972334,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAOQA=",
+    "name": "(私立)臺南市私立新寶幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.100507,
+    "lng": 120.288826,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEAMAA=",
+    "name": "(私立)臺南市私立麥迪兒南科幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.076549,
+    "lng": 120.319342,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEAMQA=",
+    "name": "(準公共)臺南市私立愛心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1050511,
+    "lng": 120.2628061,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEAMgA=",
+    "name": "(私立)臺南市私立活水樹谷幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1101895,
+    "lng": 120.3079595,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEAMwA=",
+    "name": "(私立)臺南市私立曉信幼兒園",
+    "type": "spub1"
+  }
+]

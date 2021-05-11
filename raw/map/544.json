@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.039819,
+    "lng": 120.852881,
+    "sid": "MQAyADUANAA0ADAAMAAwADAAMQA=",
+    "name": "(準公共)南投縣私立明德幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0569829,
+    "lng": 120.911505,
+    "sid": "MQAyADUANAA0ADAAMAAwADAAMwA=",
+    "name": "(公立)南投縣國姓鄉北港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.980824,
+    "lng": 120.876645,
+    "sid": "MQAyADUANAA0ADAAMAAwADAANAA=",
+    "name": "(公立)南投縣國姓鄉北山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0118329,
+    "lng": 120.822599,
+    "sid": "MQAyADUANAA0ADAAMAAwADAANQA=",
+    "name": "(公立)南投縣國姓鄉福龜國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.039159,
+    "lng": 120.857068,
+    "sid": "MQAyADUANAA0ADAAMAAwADAANgA=",
+    "name": "(公立)南投縣國姓鄉國姓國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.066026,
+    "lng": 120.876766,
+    "sid": "MQAyADUANAA0ADAAMAAwADAANwA=",
+    "name": "(公立)南投縣國姓鄉長流國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.950161,
+    "lng": 120.869359,
+    "sid": "MQAyADUANAA0ADAAMAAwADAAOQA=",
+    "name": "(公立)南投縣國姓鄉南港國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

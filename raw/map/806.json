@@ -1,0 +1,298 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.609102,
+    "lng": 120.320264,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADAAMQA=",
+    "name": "(準公共)高雄市私立嘉惠幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.604265,
+    "lng": 120.331396,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADAAMwA=",
+    "name": "(私立)高雄市私立中興幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.590276,
+    "lng": 120.320353,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADAANQA=",
+    "name": "(私立)高雄市私立聖文幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.5796513,
+    "lng": 120.3249913,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADAANgA=",
+    "name": "(準公共)高雄市私立松柏幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.589274,
+    "lng": 120.320801,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADAANwA=",
+    "name": "(私立)高雄市私立文文幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.605539,
+    "lng": 120.329562,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADAAOAA=",
+    "name": "(私立)高雄市私立愛迪生幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6069082,
+    "lng": 120.324303,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADAAOQA=",
+    "name": "(準公共)財團法人福智文教基金會附設高雄市私立妙善幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.59076,
+    "lng": 120.315593,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEAMAA=",
+    "name": "(私立)高雄市私立地球村幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.606933,
+    "lng": 120.304747,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEAMQA=",
+    "name": "(準公共)高雄市私立前鎮心心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.606812,
+    "lng": 120.3151122,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEAMgA=",
+    "name": "(私立)高雄市私立格銳幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.614507,
+    "lng": 120.318862,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEAMwA=",
+    "name": "(準公共)高雄市私立學成幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.576309,
+    "lng": 120.321987,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEANAA=",
+    "name": "(準公共)高雄市私立國民幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.575951,
+    "lng": 120.323432,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEANQA=",
+    "name": "(準公共)高雄市私立興學幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.585497,
+    "lng": 120.30848,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEANgA=",
+    "name": "(公立)高雄市前鎮區前鎮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.606235,
+    "lng": 120.307479,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEANwA=",
+    "name": "(公立)高雄市前鎮區獅甲國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.606189,
+    "lng": 120.337004,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEAOAA=",
+    "name": "(公立)高雄市前鎮區瑞豐國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.580361,
+    "lng": 120.326564,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADEAOQA=",
+    "name": "(公立)高雄市前鎮區明正國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6083352,
+    "lng": 120.3117222,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIAMAA=",
+    "name": "(公立)高雄市前鎮區復興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.613841,
+    "lng": 120.312245,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIAMQA=",
+    "name": "(公立)高雄市前鎮區愛群國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.572696,
+    "lng": 120.320954,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIAMgA=",
+    "name": "(公立)高雄市前鎮區佛公國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.582064,
+    "lng": 120.317298,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIAMwA=",
+    "name": "(公立)高雄市前鎮區仁愛國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.608266,
+    "lng": 120.314307,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIANAA=",
+    "name": "(公立)高雄市前鎮區民權國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.5904055,
+    "lng": 120.318145,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIANQA=",
+    "name": "(公立)高雄市前鎮區鎮昌國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.58383,
+    "lng": 120.3347024,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIANgA=",
+    "name": "(公立)高雄市前鎮區紅毛港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6074046,
+    "lng": 120.3234111,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIANwA=",
+    "name": "(公立)高雄市前鎮區樂群國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6154232,
+    "lng": 120.3201863,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIAOAA=",
+    "name": "(公立)高雄市前鎮區光華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.599365,
+    "lng": 120.327297,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADIAOQA=",
+    "name": "(私立)高雄市私立碧優庭幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.574402,
+    "lng": 120.323598,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADMAMAA=",
+    "name": "(私立)高雄市私立童話幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.589036,
+    "lng": 120.319617,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADMAMQA=",
+    "name": "(私立)高雄市私立立賢幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.608896,
+    "lng": 120.311975,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADMAMgA=",
+    "name": "(私立)高雄市私立偉立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.611485,
+    "lng": 120.328631,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADMAMwA=",
+    "name": "(私立)高雄市私立冠冠幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.609648,
+    "lng": 120.315694,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADMANAA=",
+    "name": "(私立)高雄市私立宏志幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.610981,
+    "lng": 120.3073,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADMANgA=",
+    "name": "(私立)高雄市私立林森幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.607759,
+    "lng": 120.332351,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADMANwA=",
+    "name": "(私立)高雄市私立宏馨幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.609315,
+    "lng": 120.328136,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADMAOAA=",
+    "name": "(私立)高雄市私立永祥幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.60566,
+    "lng": 120.331465,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADQAMAA=",
+    "name": "(私立)高雄市私立善導幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.5826842,
+    "lng": 120.3209996,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADQANQA=",
+    "name": "(非營利)高雄市前鎮非營利幼兒園（委託高雄市教保人員職業工會辦理）",
+    "type": "spub2"
+  }
+]

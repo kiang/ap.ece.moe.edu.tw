@@ -1,0 +1,138 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.978836,
+    "lng": 121.102485,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADAAMgA=",
+    "name": "(私立)桃園市私立新學屋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.978836,
+    "lng": 121.102485,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADAAMwA=",
+    "name": "(私立)桃園市私立新奇屋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.974357,
+    "lng": 121.025907,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADAANAA=",
+    "name": "(公立)桃園市新屋區笨港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.957766,
+    "lng": 121.115684,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADAANQA=",
+    "name": "(公立)桃園市新屋區埔頂國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9941212,
+    "lng": 121.0486015,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADAANgA=",
+    "name": "(私立)桃園市私立育亲堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9758402,
+    "lng": 121.1031784,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADEAMAA=",
+    "name": "(私立)桃園市私立紘彩幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.948349,
+    "lng": 121.008734,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADEAMgA=",
+    "name": "(公立)桃園市新屋區蚵間國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.977245,
+    "lng": 121.094216,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADEAMwA=",
+    "name": "(準公共)桃園市私立夏恩幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.972934,
+    "lng": 121.095225,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADEANQA=",
+    "name": "(準公共)桃園市私立艾力豪幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9709539,
+    "lng": 121.1185272,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADEANgA=",
+    "name": "(公立)桃園市立新屋幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9865069,
+    "lng": 121.04643,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADEANgAtADAAMQA=",
+    "name": "(公立)桃園市立新屋幼兒園永安分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9844391,
+    "lng": 121.106776,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADEANwA=",
+    "name": "(私立)景碩科技股份有限公司職工福利委員會附設桃園市私立景碩幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9733725,
+    "lng": 121.1012691,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADEAOAA=",
+    "name": "(公立)桃園市新屋區新屋國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9625488,
+    "lng": 121.1420887,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADEAOQA=",
+    "name": "(公立)桃園市新屋區頭洲國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9625488,
+    "lng": 121.1420887,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADIAMAA=",
+    "name": "(公立)桃園市新屋區大坡國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9871723,
+    "lng": 121.0466667,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADIAMQA=",
+    "name": "(公立)桃園市新屋區永安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9764403,
+    "lng": 121.0849674,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADIAMgA=",
+    "name": "(公立)桃園市新屋區東明國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

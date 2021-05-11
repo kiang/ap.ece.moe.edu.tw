@@ -1,0 +1,50 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.017668,
+    "lng": 121.609624,
+    "sid": "MgAyADkANwAxADAAMAAwADAAMgA=",
+    "name": "(準公共)花蓮縣私立培德幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.052501,
+    "lng": 121.607686,
+    "sid": "MgAyADkANwAxADAAMAAwADAAMwA=",
+    "name": "(公立)花蓮縣新城鄉康樂國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.032026,
+    "lng": 121.604866,
+    "sid": "MgAyADkANwAxADAAMAAwADAANAA=",
+    "name": "(公立)花蓮縣新城鄉北埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.049746,
+    "lng": 121.608684,
+    "sid": "MgAyADkANwAxADAAMAAwADAANQA=",
+    "name": "(公立)花蓮縣新城鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1273921,
+    "lng": 121.6509438,
+    "sid": "MgAyADkANwAxADAAMAAwADAANgA=",
+    "name": "(公立)花蓮縣新城鄉新城國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0074495,
+    "lng": 121.6135788,
+    "sid": "MgAyADkANwAxADAAMAAwADAANwA=",
+    "name": "(準公共)私立海星高級中學附屬花蓮縣海星幼兒園",
+    "type": "spub3"
+  }
+]

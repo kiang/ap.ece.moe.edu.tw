@@ -1,0 +1,130 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.7026521,
+    "lng": 120.359123,
+    "sid": "MQAzADYAMwAzADAAMAAwADAAMgA=",
+    "name": "(準公共)雲林縣私立青園幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.67612,
+    "lng": 120.392226,
+    "sid": "MQAzADYAMwAzADAAMAAwADAAMwA=",
+    "name": "(私立)雲林縣私立欣欣幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.675246,
+    "lng": 120.389501,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANAA=",
+    "name": "(公立)雲林縣土庫鎮土庫國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.678201,
+    "lng": 120.382826,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANQA=",
+    "name": "(準公共)雲林縣私立正大幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.679753,
+    "lng": 120.393049,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANgA=",
+    "name": "(私立)雲林縣私立上島幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.699057,
+    "lng": 120.371568,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.732732,
+    "lng": 120.3717607,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADAAMQA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園新庄分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.706924,
+    "lng": 120.357906,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADAAMgA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園東平分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.704469,
+    "lng": 120.353299,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADAAMwA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園南平分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.7051867,
+    "lng": 120.3521607,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADAANAA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園北平分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.685006,
+    "lng": 120.352132,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADAANQA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園崙內分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6878387,
+    "lng": 120.369492,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADAANgA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園大荖分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.671526,
+    "lng": 120.347566,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADAANwA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園埤腳分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.678801,
+    "lng": 120.362379,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADAAOAA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園扶朝分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.655908,
+    "lng": 120.347688,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADAAOQA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園秀潭分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.665762,
+    "lng": 120.372202,
+    "sid": "MQAzADYAMwAzADAAMAAwADAANwAtADEAMAA=",
+    "name": "(公立)雲林縣土庫鎮立幼兒園興新分班",
+    "type": "spub0"
+  }
+]

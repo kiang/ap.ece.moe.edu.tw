@@ -1,0 +1,34 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.101792,
+    "lng": 120.158935,
+    "sid": "MQA2ADcAMgA0ADAAMAAwADAAMgA=",
+    "name": "(公立)臺南市七股區竹橋國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.10222,
+    "lng": 120.117123,
+    "sid": "MQA2ADcAMgA0ADAAMAAwADAAMwA=",
+    "name": "(公立)臺南市七股區三股國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.142671,
+    "lng": 120.141263,
+    "sid": "MQA2ADcAMgA0ADAAMAAwADAANAA=",
+    "name": "(非營利)臺南市七股區農會附設臺南市私立七農非營利幼兒園（臺南市政府核准申請辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1872219,
+    "lng": 120.134416,
+    "sid": "MQA2ADcAMgA0ADAAMAAwADAANQA=",
+    "name": "(公立)臺南市七股區後港國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

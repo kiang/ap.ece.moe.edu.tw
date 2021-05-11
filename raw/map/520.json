@@ -1,0 +1,106 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.8446873,
+    "lng": 120.5711746,
+    "sid": "MQAxADUAMgAwADAAMAAwADAAMwA=",
+    "name": "(私立)彰化縣私立重愛幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8586758,
+    "lng": 120.5933558,
+    "sid": "MQAxADUAMgAwADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立田中成長幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.856913,
+    "lng": 120.5926142,
+    "sid": "MQAxADUAMgAwADAAMAAwADAANwA=",
+    "name": "(準公共)彰化縣私立愛笛兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.860612,
+    "lng": 120.5868453,
+    "sid": "MQAxADUAMgAwADAAMAAwADAAOAA=",
+    "name": "(私立)彰化縣私立榮星幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8646022,
+    "lng": 120.5877109,
+    "sid": "MQAxADUAMgAwADAAMAAwADAAOQA=",
+    "name": "(私立)彰化縣私立陳姊姊幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.852734,
+    "lng": 120.592479,
+    "sid": "MQAxADUAMgAwADAAMAAwADEAMAA=",
+    "name": "(私立)彰化縣私立向上心幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8526787,
+    "lng": 120.5852597,
+    "sid": "MQAxADUAMgAwADAAMAAwADEAMQA=",
+    "name": "(準公共)彰化縣私立嘉貝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8580635,
+    "lng": 120.5876094,
+    "sid": "MQAxADUAMgAwADAAMAAwADEAMgA=",
+    "name": "(公立)彰化縣田中鎮田中國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8546353,
+    "lng": 120.5989158,
+    "sid": "MQAxADUAMgAwADAAMAAwADEANAA=",
+    "name": "(公立)彰化縣田中鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.866017,
+    "lng": 120.5807223,
+    "sid": "MQAxADUAMgAwADAAMAAwADEANAAtADAAMQA=",
+    "name": "(公立)彰化縣田中鎮立幼兒園龍潭分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.876754,
+    "lng": 120.56639,
+    "sid": "MQAxADUAMgAwADAAMAAwADEANAAtADAAMgA=",
+    "name": "(公立)彰化縣田中鎮立幼兒園明禮分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8714823,
+    "lng": 120.5891337,
+    "sid": "MQAxADUAMgAwADAAMAAwADEANAAtADAAMwA=",
+    "name": "(公立)彰化縣田中鎮立幼兒園頂潭分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8507011,
+    "lng": 120.583458,
+    "sid": "MQAxADUAMgAwADAAMAAwADEANAAtADAANAA=",
+    "name": "(公立)彰化縣田中鎮立幼兒園舊街分班",
+    "type": "spub0"
+  }
+]

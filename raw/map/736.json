@@ -1,0 +1,82 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.284161,
+    "lng": 120.36904,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADAAMQA=",
+    "name": "(準公共)臺南市私立貝特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.276831,
+    "lng": 120.303597,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADAAMwA=",
+    "name": "(私立)臺南市私立華一幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.279083,
+    "lng": 120.318692,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADAANAA=",
+    "name": "(私立)臺南市私立夏綠蒂幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.275643,
+    "lng": 120.312687,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADAANQA=",
+    "name": "(公立)臺南市柳營區柳營國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.285863,
+    "lng": 120.364631,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADAANgA=",
+    "name": "(公立)臺南市柳營區重溪國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.266448,
+    "lng": 120.387773,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADAANwA=",
+    "name": "(公立)臺南市柳營區新山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.278294,
+    "lng": 120.312161,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADAAOAA=",
+    "name": "(準公共)臺南市私立小袋鼠幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.257779,
+    "lng": 120.372194,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADAAOQA=",
+    "name": "(公立)臺南市柳營區果毅國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.289918,
+    "lng": 120.32924,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADEAMAA=",
+    "name": "(公立)臺南市柳營區太康國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.268858,
+    "lng": 120.316644,
+    "sid": "MQA2ADcAMwA2ADAAMAAwADEAMQA=",
+    "name": "(私立)臺南市私立欣榮幼兒園",
+    "type": "spub1"
+  }
+]

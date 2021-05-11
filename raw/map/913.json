@@ -1,0 +1,130 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.591522,
+    "lng": 120.4703258,
+    "sid": "MgAwADkAMQAzADAAMAAwADAAMQA=",
+    "name": "(私立)屏東縣私立聚英幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6144193,
+    "lng": 120.4931113,
+    "sid": "MgAwADkAMQAzADAAMAAwADAAMgA=",
+    "name": "(準公共)屏東縣私立貝兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.591522,
+    "lng": 120.4703258,
+    "sid": "MgAwADkAMQAzADAAMAAwADAANAA=",
+    "name": "(準公共)屏東縣私立宏靜幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.583228,
+    "lng": 120.489003,
+    "sid": "MgAwADkAMQAzADAAMAAwADAANgA=",
+    "name": "(公立)屏東縣萬丹鄉萬丹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.561984,
+    "lng": 120.480591,
+    "sid": "MgAwADkAMQAzADAAMAAwADAANwA=",
+    "name": "(公立)屏東縣萬丹鄉新庄國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.591522,
+    "lng": 120.4703258,
+    "sid": "MgAwADkAMQAzADAAMAAwADAAOAA=",
+    "name": "(私立)屏東縣私立明蕙幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.582885,
+    "lng": 120.4865,
+    "sid": "MgAwADkAMQAzADAAMAAwADAAOQA=",
+    "name": "(準公共)財團法人天主教會高雄教區附設屏東縣私立玫瑰幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.549491,
+    "lng": 120.4995,
+    "sid": "MgAwADkAMQAzADAAMAAwADEAMAA=",
+    "name": "(公立)屏東縣萬丹鄉興化國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.583,
+    "lng": 120.492365,
+    "sid": "MgAwADkAMQAzADAAMAAwADEAMgA=",
+    "name": "(準公共)屏東縣私立心橋光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.574,
+    "lng": 120.491948,
+    "sid": "MgAwADkAMQAzADAAMAAwADEAMwA=",
+    "name": "(準公共)屏東縣私立立育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.5867,
+    "lng": 120.4861,
+    "sid": "MgAwADkAMQAzADAAMAAwADEANAA=",
+    "name": "(準公共)屏東縣私立萬丹培正幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.581618,
+    "lng": 120.489319,
+    "sid": "MgAwADkAMQAzADAAMAAwADEANgA=",
+    "name": "(準公共)屏東縣私立上品幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.5951111,
+    "lng": 120.4900472,
+    "sid": "MgAwADkAMQAzADAAMAAwADEANwA=",
+    "name": "(非營利)屏東縣四維非營利幼兒園(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.5706201,
+    "lng": 120.4588245,
+    "sid": "MgAwADkAMQAzADAAMAAwADEANwAtADAAMQA=",
+    "name": "(非營利)屏東縣四維非營利幼兒園(委託社團法人台灣公共托育協會辦理)新興分班",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6148849,
+    "lng": 120.467908,
+    "sid": "MgAwADkAMQAzADAAMAAwADEAOAA=",
+    "name": "(非營利)屏東縣社皮非營利幼兒園(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6149344,
+    "lng": 120.4906472,
+    "sid": "MgAwADkAMQAzADAAMAAwADEAOAAtADAAMQA=",
+    "name": "(非營利)屏東縣社皮非營利幼兒園(委託社團法人台灣公共托育協會辦理)廣安分班",
+    "type": "spub2"
+  }
+]

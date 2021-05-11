@@ -1,0 +1,90 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.3510363,
+    "lng": 120.4095592,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAAMgA=",
+    "name": "(準公共)臺南市私立舉人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.379309,
+    "lng": 120.416523,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAAMwA=",
+    "name": "(公立)臺南市白河區玉豐國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.344834,
+    "lng": 120.437461,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAANAA=",
+    "name": "(公立)臺南市白河區河東國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.367942,
+    "lng": 120.413155,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAANQA=",
+    "name": "(公立)臺南市白河區大竹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.352221,
+    "lng": 120.413859,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAANgA=",
+    "name": "(公立)臺南市白河區白河國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.397337,
+    "lng": 120.440478,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAANwA=",
+    "name": "(公立)臺南市白河區內角國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.151294,
+    "lng": 120.363925,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAAOQA=",
+    "name": "(私立)臺南市白河區農會附設臺南市私立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.3769445,
+    "lng": 120.4449593,
+    "sid": "MQA2ADcAMwAyADAAMAAwADEAMAA=",
+    "name": "(公立)臺南市白河區竹門國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.3581017,
+    "lng": 120.4214982,
+    "sid": "MQA2ADcAMwAyADAAMAAwADEAMQA=",
+    "name": "(準公共)臺南市私立日光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.3601954,
+    "lng": 120.4230111,
+    "sid": "MQA2ADcAMwAyADAAMAAwADEAMgA=",
+    "name": "(私立)臺南市私立金典幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.3449717,
+    "lng": 120.4740511,
+    "sid": "MQA2ADcAMwAyADAAMAAwADEAMwA=",
+    "name": "(公立)臺南市白河區仙草國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

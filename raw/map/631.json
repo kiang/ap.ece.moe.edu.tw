@@ -1,0 +1,34 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.645903,
+    "lng": 120.427885,
+    "sid": "MQAzADYAMwAxADAAMAAwADAAMQA=",
+    "name": "(準公共)雲林縣私立亞歷山大幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.645948,
+    "lng": 120.41712,
+    "sid": "MQAzADYAMwAxADAAMAAwADAAMgA=",
+    "name": "(準公共)雲林縣私立丹迪幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.661798,
+    "lng": 120.422689,
+    "sid": "MQAzADYAMwAxADAAMAAwADAAMwA=",
+    "name": "(公立)雲林縣大埤鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6448261,
+    "lng": 120.430532,
+    "sid": "MQAzADYAMwAxADAAMAAwADAANgA=",
+    "name": "(公立)雲林縣大埤鄉大埤國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

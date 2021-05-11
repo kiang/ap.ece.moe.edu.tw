@@ -1,0 +1,50 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.0496654,
+    "lng": 121.1637804,
+    "sid": "MgAxADkANQA2ADAAMAAwADAAMgA=",
+    "name": "(私立)臺東縣私立鴻德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.006093,
+    "lng": 121.172946,
+    "sid": "MgAxADkANQA2ADAAMAAwADAAMwA=",
+    "name": "(公立)臺東縣關山鎮電光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0741599,
+    "lng": 121.177984,
+    "sid": "MgAxADkANQA2ADAAMAAwADAANAA=",
+    "name": "(公立)臺東縣關山鎮德高國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0503771,
+    "lng": 121.164175,
+    "sid": "MgAxADkANQA2ADAAMAAwADAANQA=",
+    "name": "(公立)臺東縣關山鎮關山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.009382,
+    "lng": 121.149,
+    "sid": "MgAxADkANQA2ADAAMAAwADAANgA=",
+    "name": "(公立)臺東縣關山鎮月眉國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.047137,
+    "lng": 121.160037,
+    "sid": "MgAxADkANQA2ADAAMAAwADAANwA=",
+    "name": "(公立)臺東縣關山鎮立幼兒園",
+    "type": "spub0"
+  }
+]

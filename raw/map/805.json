@@ -1,0 +1,50 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.577435,
+    "lng": 120.29495,
+    "sid": "MQA4ADgAMAA1ADAAMAAwADAAMQA=",
+    "name": "(公立)高雄市旗津區中洲國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6085393,
+    "lng": 120.2718278,
+    "sid": "MQA4ADgAMAA1ADAAMAAwADAAMgA=",
+    "name": "(公立)高雄市旗津區旗津國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.60346,
+    "lng": 120.273586,
+    "sid": "MQA4ADgAMAA1ADAAMAAwADAAMwA=",
+    "name": "(私立)高雄市私立小恐龍幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.575801,
+    "lng": 120.296431,
+    "sid": "MQA4ADgAMAA1ADAAMAAwADAANAA=",
+    "name": "(私立)高雄市私立平原幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.593826,
+    "lng": 120.283479,
+    "sid": "MQA4ADgAMAA1ADAAMAAwADAANQA=",
+    "name": "(私立)財團法人天主教會高雄教區附設高雄市私立海星幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.585448,
+    "lng": 120.288562,
+    "sid": "MQA4ADgAMAA1ADAAMAAwADAANgA=",
+    "name": "(私立)高雄市私立旗津小恐龍幼兒園",
+    "type": "spub1"
+  }
+]

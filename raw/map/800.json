@@ -1,0 +1,66 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.634103,
+    "lng": 120.306968,
+    "sid": "MQA4ADgAMAAwADAAMAAwADAAMQA=",
+    "name": "(公立)高雄市新興區七賢國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.631571,
+    "lng": 120.311609,
+    "sid": "MQA4ADgAMAAwADAAMAAwADAAMgA=",
+    "name": "(公立)高雄市新興區信義國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.627912,
+    "lng": 120.298538,
+    "sid": "MQA4ADgAMAAwADAAMAAwADAAMwA=",
+    "name": "(公立)高雄市新興區大同國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.627171,
+    "lng": 120.305108,
+    "sid": "MQA4ADgAMAAwADAAMAAwADAANAA=",
+    "name": "(公立)高雄市新興區新興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6215632,
+    "lng": 120.3016738,
+    "sid": "MQA4ADgAMAAwADAAMAAwADAANQA=",
+    "name": "(私立)財團法人中華基督教衛理公會附設高雄市私立衛理幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.629797,
+    "lng": 120.310148,
+    "sid": "MQA4ADgAMAAwADAAMAAwADAANgA=",
+    "name": "(私立)高雄市私立景和幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.62824,
+    "lng": 120.313619,
+    "sid": "MQA4ADgAMAAwADAAMAAwADAANwA=",
+    "name": "(私立)高雄市私立優群五福幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.627733,
+    "lng": 120.307694,
+    "sid": "MQA4ADgAMAAwADAAMAAwADAAOAA=",
+    "name": "(準公共)高雄市私立華盛頓幼兒園",
+    "type": "spub3"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.30861,
+    "lng": 120.71273,
+    "sid": "MAA5ADQAMgAxADAAMAAwADAAMQA=",
+    "name": "(準公共)臺中市私立神奇寶貝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.303088,
+    "lng": 120.721002,
+    "sid": "MAA5ADQAMgAxADAAMAAwADAAMgA=",
+    "name": "(私立)臺中市私立來來幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.306369,
+    "lng": 120.711285,
+    "sid": "MAA5ADQAMgAxADAAMAAwADAAMwA=",
+    "name": "(準公共)臺中市私立艾迪生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.303827,
+    "lng": 120.71928,
+    "sid": "MAA5ADQAMgAxADAAMAAwADAANAA=",
+    "name": "(私立)臺中市私立日月昇幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.300306,
+    "lng": 120.737191,
+    "sid": "MAA5ADQAMgAxADAAMAAwADAANQA=",
+    "name": "(私立)臺中市私立采豆幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.316084,
+    "lng": 120.704532,
+    "sid": "MAA5ADQAMgAxADAAMAAwADAANgA=",
+    "name": "(準公共)臺中市私立一德幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2973941,
+    "lng": 120.7156789,
+    "sid": "MAA5ADQAMgAxADAAMAAwADAANwA=",
+    "name": "(私立)臺中市私立彼得堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.304129,
+    "lng": 120.718705,
+    "sid": "MAA5ADQAMgAxADAAMAAwADAAOAA=",
+    "name": "(私立)臺中市私立唐森幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3256589,
+    "lng": 120.729571,
+    "sid": "MAA5ADQAMgAxADAAMAAwADAAOQA=",
+    "name": "(準公共)臺中市私立后里三采幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.308155,
+    "lng": 120.728113,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEAMAA=",
+    "name": "(準公共)臺中市私立小幼優幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3143039,
+    "lng": 120.6907612,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEAMwA=",
+    "name": "(公立)臺中市后里區月眉國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.306623,
+    "lng": 120.711333,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEANAA=",
+    "name": "(公立)臺中市立后里幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.309395,
+    "lng": 120.731096,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEANAAtADAAMgA=",
+    "name": "(公立)臺中市立后里幼兒園義里分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3319771,
+    "lng": 120.7298593,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEANAAtADAANQA=",
+    "name": "(公立)臺中市立后里幼兒園公館分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.311253,
+    "lng": 120.68022,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEANAAtADAANgA=",
+    "name": "(公立)臺中市立后里幼兒園太平聯合分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3052588,
+    "lng": 120.7096799,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEANQA=",
+    "name": "(私立)臺中市私立挪威森林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3081412,
+    "lng": 120.7026978,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEANgA=",
+    "name": "(私立)臺中市私立欣來來藝術幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3078464,
+    "lng": 120.7131275,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEANwA=",
+    "name": "(私立)臺中市私立宸光幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3251326,
+    "lng": 120.7496013,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEAOAA=",
+    "name": "(公立)臺中市后里區泰安國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]
