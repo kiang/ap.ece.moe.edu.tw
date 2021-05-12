@@ -13,7 +13,12 @@ foreach(glob($basePath . '/data/summary1/*/*.csv') AS $csvFile) {
     $head = fgetcsv($fh, 2048);
     while($line = fgetcsv($fh, 2048)) {
         $data = array_combine($head, $line);
-        $monthly = $data['monthly1'] + $data['monthly2'];
+        if('準公共化' != $data['type']) {
+            $monthly = $data['monthly1'] + $data['monthly2'];
+        } else {
+            $monthly = 4500 + $data['monthly2'];
+        }
+        
         if(!isset($monthlyPool[$data['point']]) || $monthlyPool[$data['point']] > $monthly) {
             $monthlyPool[$data['point']] = $monthly;
         }
