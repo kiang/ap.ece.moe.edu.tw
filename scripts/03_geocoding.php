@@ -7,6 +7,19 @@ $fc = [
     'features' => [],
 ];
 
+$monthlyPool = [];
+foreach(glob($basePath . '/data/summary1/*/*.csv') AS $csvFile) {
+    $fh = fopen($csvFile, 'r');
+    $head = fgetcsv($fh, 2048);
+    while($line = fgetcsv($fh, 2048)) {
+        $data = array_combine($head, $line);
+        $monthly = $data['monthly1'] + $data['monthly2'];
+        if(!isset($monthlyPool[$data['point']]) || $monthlyPool[$data['point']] > $monthly) {
+            $monthlyPool[$data['point']] = $monthly;
+        }
+    }
+}
+
 $pool = [];
 foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
@@ -24,6 +37,12 @@ foreach (glob($basePath . '/data/*.csv') as $csvFile) {
     $head = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {
         $data = array_combine($head, $line);
+        if(isset($monthlyPool[$data['title']])) {
+            $data['monthly'] = $monthlyPool[$data['title']];
+        } else {
+            $data['monthly'] = '';
+        }
+        
         if (isset($pool[$data['title']])) {
             $fc['features'][] = [
                 'type' => 'Feature',
