@@ -1,0 +1,967 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	裁罰紀錄查詢-全國教保資訊網
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="author" content="漾丰有限公司 YangFong" /><meta name="description" content="全國教保資訊網 " /><meta name="keywords" content="ECE,全國教保資訊網" /><meta name="copyright" content="ECE,全國教保資訊網" />
+	
+	<!--Facebook meta-->
+	<meta property="og:title" content="裁罰結果查詢" /><meta property="og:description" /><meta property="og:site_name" content="全國教保資訊網" /><meta property="og:image" content="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/images/og-image.png" /><meta property="og:image:width" content="200" /><meta property="og:image:height" content="200" /><meta property="og:url" content="https://www.ece.moe.edu.tw/ch/query-preschool/evaluation/" /><meta property="og:type" content="website" /><link rel="shortcut icon" href="https://www.ece.moe.edu.tw/system/modules/com.thesys.project.ece/resources/images/favicon.ico" type="image/vnd.microsoft.icon" /><link rel="stylesheet" href="./css/font-awesome.min.css" /><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/style.css" /><link rel="stylesheet" href="./css/eceStyleSheet.css" /><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/owl.carousel.min.css" /><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/owl.theme.default.min.css" /><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/jslider.css" /><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/jslider.blue.css" /><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/jslider.round.css" /><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/jquery.mCustomScrollbar.css" /><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/bootstrap-nav-tab-scrollable.css" />
+	
+    <script src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/jquery.min.1.11.1.js"></script>
+	<script src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/bootstrap.min.js"></script>
+	<script src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/util.js"></script>
+	<script src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/jquery.sticky.js"></script>
+	<script src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/owl.carousel.min.js"></script>
+	<script src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/fill.box.js"></script>
+	<script type="text/javascript" src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/jslider/jshashtable-2.1_src.js"></script>
+	<script type="text/javascript" src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/jslider/jquery.numberformatter-1.2.3.js"></script>
+	<script type="text/javascript" src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/jslider/tmpl.js"></script>
+	<script type="text/javascript" src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/jslider/jquery.dependClass-0.1.js"></script>
+	<script type="text/javascript" src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/jslider/draggable-0.1.js"></script>
+	<script type="text/javascript" src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/jslider/jquery.slider.js"></script>
+	<script src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/jquery.mCustomScrollbar.js"></script>
+	<script src="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/scrollbar.js"></script>
+</head>
+<body>
+    <header id="headerBlock"></header>
+	<div class="mainBlk">
+		<div class="breadCrumbBlk">
+			<div class="wrapper">
+				<ul><li><a href="https://www.ece.moe.edu.tw/ch/">首頁</a></li><li><a href="https://www.ece.moe.edu.tw/ch/query-preschool/">幼兒園查詢</a></li><li><a href="https://www.ece.moe.edu.tw/ch/query-preschool/punishsearch/">裁罰紀錄查詢</a></li></ul>
+			</div>
+		</div>
+			
+		<div class="wrapper">
+					
+			<div class="centerCol">
+
+				<div class="div_c"><a accesskey="C" title=":::中央內容區塊" href="#C" name="C" id="content">:::</a></div>
+				<div class="titleBlk">
+					<div class="title"><h2>裁罰紀錄查詢</h2></div>
+				</div>
+				<div  id="centercontainer" class="userBlk" >
+                    <div class="userBlk">
+
+        <form method="post" action="./punishSearch.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/webecems/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZEkabuu3F-RUZ1rOnEtPz4NSxsblDyokhxoQnnax_53eeLih5A2&amp;t=637454356939909757" type="text/javascript"></script>
+
+
+<script src="/webecems/ScriptResource.axd?d=0y8MEsr3ao3EJ7P-lfA9Zzn3H_K29w8EB5nvlYF9Ozef2PvljFL6f2jXyHEA6yNeaLBZ-jmB3lB3cXlbIVg2hGwnfcFG3KX2Xn-i6pwMWyZvtSToNk-GTSoI3T-2f6nahui7Vm7yTQ4IZ5uL6W6FT7kIJnk1&amp;t=2fe674eb" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=qdfquaqc-_X8PA8h7-s-ScuH8h86gMDUo3baf8r9dgxNjsZmNyzecV7H1oBAItnjWz05dJQCwog1GVrtykqqfV2X2A-pzn4mEKx6mHYGXBFU7NVBqavFEUJzm8R0w0NZAJuVsfUc4dlxHeoe7Qg7WOXslXLrkC83EQL18rZEnIuQ9U230&amp;t=2fe674eb" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="69E2FD84" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="9p4wkV9Rjl/y/Qvd2T2mLjcnLOtCYU7rTR1SfZ8cGOkGZfKE4AUgVKvXcxiNxfpCFR+9lfFn4nkeyMOW0GOkCznKZ8WOQeX4cvdpyuF7/qurAQH6Tj0JSqRyCV1uXFNiGF35Y7GzwOn1vWOzoGUs02CpGKz39osHl105bDcQMAOQNAOh4qBdsWv1F32lFjg61/HXqhCgR7lxYMcveKkWffpdkJDPXe7QMdr/CmCS/QhvYWT78XA2ojk1W44sHsTcEyxJYkLv1u1P+PUnEtsf9EHRM0ED3nmUflIfFo7PWzr4x+pVU2Dq+pMCD9cXjJTRlCbALeTz5utONdltUAzDgWNYpoLXMCMvQnmBDt6Zucf4ksCapcIMDKXuHg/9s5aDoa/CKyAHRF3oB01LnrkjeMFtJPYRI2lnn08g+QJJS8x+rtRPRXwfCVMlJMmoZpriCnIgTgX1CfOI6/dnEn9Z3Tdx3TY4kKcFUsdMZsfxPH6BQiyWor4mM28I+IRdqcNOvdDWcVnWKzUByvTOkGuc7i+n/ygckBlU7tQGRHkhNduLYeE0D5EXKJQ5XefVDEr8vIuqtnlLMCmK/lbObpS/jU7Wnv8wWm8CTFKJnu1Z8l3sRLh/AGiNRAzG/OF9+JOywII2dWcdsQQyetvVJfkq78SlvnHvggGVlycUMfFhUcXbqS2uzb22FMnY5jLeGqqviM8mU8acrSPTQvcSZR6m4qVGcE0qsNnFXU0Tf7dPO3x8BmW24gYpMTIDtzuKFNQtbq5kaMUkk+6rIbu2SrN3G6mSCeWXIf+gMHRRXRBKLNbM6hTqDaDmJK54rcCt/OSqo4A7lU1pZiCikwBcGZR5bfh8ulHH8DZwcIWkH65x/BQYmrr+oVChu0ilJqQAcr5MK66odw8YIutUPt6WC1l9lTDT/X9WrxCMuy1NyBaiJFn1NH3H0I6VJkxjuQuYgZrPauxeFWrGC/zK7oStfVI1gAWSFidM0ZUYl2mefxa2a9M0TSZ08zXi3AAqwuXTzMAkGuqJ4A==" />
+</div>
+
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', 'form1', ['tUpdatePanel1','UpdatePanel1'], [], [], 90, '');
+//]]>
+</script>
+
+            <div id="UpdatePanel1">
+	
+                        <div class="filterBlk">
+                            <div class="row">
+                                <div class="toggle active">查詢條件</div>
+                                <div class="tgContainer active">
+                                    <div class="dflex">
+                                        <fieldset class="col">
+                                            <legend><label for="field_filter" class="col-form-label">關鍵字</label></legend>
+                                            <div class="block">
+                                                <select name="ddlKey" id="ddlKey">
+		<option selected="selected" value="school_name">幼兒園名稱（模糊比對）</option>
+		<option value="pobject">裁罰負責人或行為人（模糊比對）</option>
+
+	</select>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset class="col">
+                                            <legend><label for="field_hot" class="col-form-label">&nbsp;</label></legend>
+                                            <div class="block">
+                                                <input name="txtKeyNameS" type="text" id="txtKeyNameS" title="關鍵字" />
+                                            </div>
+                                        </fieldset>
+                                        <fieldset class="col">
+                                            <legend><label for="field_city" class="col-form-label">縣市</label></legend>
+                                            <div class="block">
+                                                <select name="ddlCityS" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ddlCityS\&#39;,\&#39;\&#39;)&#39;, 0)" id="ddlCityS">
+		<option value="">請選擇一個縣市</option>
+		<option selected="selected" value="01">基隆市</option>
+		<option value="02">臺北市</option>
+		<option value="03">新北市</option>
+		<option value="05">桃園市</option>
+		<option value="06">新竹市</option>
+		<option value="07">新竹縣</option>
+		<option value="08">苗栗縣</option>
+		<option value="09">臺中市</option>
+		<option value="11">彰化縣</option>
+		<option value="12">南投縣</option>
+		<option value="13">雲林縣</option>
+		<option value="14">嘉義市</option>
+		<option value="15">嘉義縣</option>
+		<option value="16">臺南市</option>
+		<option value="18">高雄市</option>
+		<option value="20">屏東縣</option>
+		<option value="21">臺東縣</option>
+		<option value="22">花蓮縣</option>
+		<option value="04">宜蘭縣</option>
+		<option value="23">澎湖縣</option>
+		<option value="24">金門縣</option>
+		<option value="25">連江縣</option>
+
+	</select>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset class="col">
+                                            <legend><label for="field_area" class="col-form-label">鄉鎮市區</label></legend>
+                                            <div class="block">
+                                                <select name="ddlAreaS" id="ddlAreaS">
+		<option selected="selected" value="">全部鄉鎮</option>
+		<option value="200">仁愛區</option>
+		<option value="201">信義區</option>
+		<option value="202">中正區</option>
+		<option value="203">中山區</option>
+		<option value="204">安樂區</option>
+		<option value="205">暖暖區</option>
+		<option value="206">七堵區</option>
+
+	</select>
+                                            </div>
+                                        </fieldset>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="btnBlk">
+                                <button title="重置" aria-label="重置" name="reset" class="btn btn-outline-primary">重置</button>
+                                <input type="submit" name="btnSearch" value="搜尋" onclick="return chkSearch();" id="btnSearch" class="btn btn-primary" aria-label="搜尋" />
+                            </div>
+                        </div>
+
+                        <noscript><div style="color:#333; width: 100%; height: 30px; text-align: center; clear: both;">您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態。</div></noscript>
+
+                        <div style="text-align:center;">
+                            
+                        </div>
+                        <div id="UpdateProgress1" style="display:none;">
+		
+                                
+<script type="text/javascript">
+    function showloading() {
+        var contentContainer = document.querySelector("#UpdatePanel1");
+        var parentPosition = getPosition(contentContainer);
+        var loadprog = document.getElementById("loadprog");
+
+        if (event) {
+            loadprog.style.left = (event.clientX - parentPosition.x - 60) + "px";
+            loadprog.style.top = (event.clientY - parentPosition.y - 50) + "px";
+        }
+        else {
+            loadprog.style.left = (parentPosition.x - 60) + "px";
+            loadprog.style.top = (parentPosition.y - 50) + "px";
+        }
+
+        var timespan = document.getElementById("timespan");
+        timespan.innerText = "000000";
+        playtime = setInterval(showtimespan, 100);
+    }
+    function getPosition(element) {
+        var xPosition = 0;
+        var yPosition = 0;
+
+        while (element) {
+            //xPosition += (element.offsetLeft - element.scrollLeft + element.clientLeft);
+            //yPosition += (element.offsetTop - element.scrollTop + element.clientTop);
+            xPosition += (element.offsetLeft + element.clientLeft);
+            yPosition += (element.offsetTop + element.clientTop);
+            element = element.offsetParent;
+        }
+
+        yPosition -= posTop();
+
+        return { x: xPosition, y: yPosition };
+    }
+    function posTop() {
+        return typeof window.pageYOffset != "undefined" ? window.pageYOffset : document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ? document.body.scrollTop : 0;
+    }
+    function showtimespan() {
+        var timespan = document.getElementById("timespan");
+        var n = "00000" + (formatFloat(parseFloat(timespan.innerText) + 0.1, 2));
+        timespan.innerText = n.substr(n.length - 6, 7);
+    }
+    function formatFloat(src, pos) {
+        return Math.round(src * Math.pow(10, pos)) / Math.pow(10, pos);
+    }
+</script>
+<div id="loadprog" style="position:absolute; left:400px; top:100px; height:85px;width:200px; z-index:10;">
+    <br style="line-height:5px;" />
+    <table style="height:100%; width:100%; border:solid 1px #009900; border-collapse:collapse;">
+        <tr style="background-color:White; font-size:12pt;">
+            <td style="text-align:center;">
+                <span id="schLoading_spanLoading" style="color:Red;">資料載入中 ......</span>
+                <br />
+                <span style="color:Red;" id="timespan"></span> 
+            </td>
+        </tr>
+    </table>
+</div>
+
+                            
+	</div>
+
+                        <div id="divResult">
+                            <div class="titleBlk">
+                                <div class="title"><h3>查詢結果</h3></div>
+                                
+                            </div>
+
+                            <div class="kdBlk">
+		                        <div>
+		<table cellspacing="0" rules="all" id="GridView1" style="border-width:0px;width:100%;border-collapse:collapse;">
+			<tr>
+				<td style="border-left:none; border-top:none; border-right:none; border-bottom: 2px solid #dbdbdb; padding: 0 0 1rem 0; margin: 0 0 1.5rem 0; display: flex; position: relative;">
+                                                <div class="kdCard-txt">
+                                                    <h4><span id="GridView1_lblSchName_0">基隆市私立文馨義一幼兒園</span></h4>
+                                                    
+                                                    <div class="left" style="width:50%;">
+                                                        <button type="button" class="btn btn-link ad" style="display:inline-flex;" title="顯示更多" aria-label="顯示更多">顯示更多</button>
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">縣市：</div>
+                                                                <div class="col-8"><span id="GridView1_lblCity_0">基隆市</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">鄉鎮：</div>
+                                                                <div class="col-8"><span id="GridView1_lblArea_0">中正區</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">設立別：</div>
+                                                                <div class="col-8"><span id="GridView1_lblPub_0">私立</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="blk ad">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">地址：</div>
+                                                                <div class="col-8"><a id="GridView1_hlAddr_0" class="icon-map" onclick="var PosX=(screen.width-600)/2; var PosY=(screen.height-500)/2; popwin=window.open(&#39;map/showmap.aspx?new=1&amp;sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHEAYQBEAEwAVgBpAFEASgBaAE0AbwBTAG4AVwBPAEMAQgBNAFoARgA4AHgAZQByAGkAagA0AGwAdgBVADUAMQB0AEQAMwBrAG8AYQBTAE8ASwB4AEsAdwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=500,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" href="#" target="_blank">[202]義一路130號2樓</a></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">電話：</div>
+                                                                <div class="col-8"><span id="GridView1_lblTel_0">(02)24254518</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">核定人數：</div>
+                                                                <div class="col-8"><span id="GridView1_lblGenStd_0">70</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">營運狀態：</div>
+                                                                <div class="col-8"><span id="GridView1_lblBStatus_0">正常</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="right" style="width:50%;">
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">裁罰情形：</div>
+                                                                <div class="col-8">
+                                                                    <a onclick="var PosX=(screen.width-1024)/2; var PosY=20; popwin=window.open(&#39;./dtl/punish_view.aspx?sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHEAYQBEAEwAVgBpAFEASgBaAE0AbwBTAG4AVwBPAEMAQgBNAFoARgA4AHgAZQByAGkAagA0AGwAdgBVADUAMQB0AEQAMwBrAG8AYQBTAE8ASwB4AEsAdwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024,height=600,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" id="GridView1_lbView_0" class="btn btn-sm btn-primary" href="javascript:__doPostBack(&#39;GridView1$ctl02$lbView&#39;,&#39;&#39;)">檢視</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+			</tr><tr>
+				<td style="border-left:none; border-top:none; border-right:none; border-bottom: 2px solid #dbdbdb; padding: 0 0 1rem 0; margin: 0 0 1.5rem 0; display: flex; position: relative;">
+                                                <div class="kdCard-txt">
+                                                    <h4><span id="GridView1_lblSchName_1">基隆市私立安琪兒幼兒園</span></h4>
+                                                    
+                                                    <div class="left" style="width:50%;">
+                                                        <button type="button" class="btn btn-link ad" style="display:inline-flex;" title="顯示更多" aria-label="顯示更多">顯示更多</button>
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">縣市：</div>
+                                                                <div class="col-8"><span id="GridView1_lblCity_1">基隆市</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">鄉鎮：</div>
+                                                                <div class="col-8"><span id="GridView1_lblArea_1">安樂區</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">設立別：</div>
+                                                                <div class="col-8"><span id="GridView1_lblPub_1">私立</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="blk ad">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">地址：</div>
+                                                                <div class="col-8"><a id="GridView1_hlAddr_1" class="icon-map" onclick="var PosX=(screen.width-600)/2; var PosY=(screen.height-500)/2; popwin=window.open(&#39;map/showmap.aspx?new=1&amp;sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIAaQBCAGcATwA0AFkAOQBrAG8ALwBCADgAWABrAHYAVwA0AGQAagAzAEsAMABwAEYAWQBIAHkAdABlAHMAKwBUAHUAYQBzAEMAUQBhADIAdQB5AFUAUQA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=500,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" href="#" target="_blank">[204]基金一路135巷13號</a></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">電話：</div>
+                                                                <div class="col-8"><span id="GridView1_lblTel_1">(02)24332095</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">核定人數：</div>
+                                                                <div class="col-8"><span id="GridView1_lblGenStd_1">40</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">營運狀態：</div>
+                                                                <div class="col-8"><span id="GridView1_lblBStatus_1">正常</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="right" style="width:50%;">
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">裁罰情形：</div>
+                                                                <div class="col-8">
+                                                                    <a onclick="var PosX=(screen.width-1024)/2; var PosY=20; popwin=window.open(&#39;./dtl/punish_view.aspx?sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIAaQBCAGcATwA0AFkAOQBrAG8ALwBCADgAWABrAHYAVwA0AGQAagAzAEsAMABwAEYAWQBIAHkAdABlAHMAKwBUAHUAYQBzAEMAUQBhADIAdQB5AFUAUQA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024,height=600,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" id="GridView1_lbView_1" class="btn btn-sm btn-primary" href="javascript:__doPostBack(&#39;GridView1$ctl03$lbView&#39;,&#39;&#39;)">檢視</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+			</tr><tr>
+				<td style="border-left:none; border-top:none; border-right:none; border-bottom: 2px solid #dbdbdb; padding: 0 0 1rem 0; margin: 0 0 1.5rem 0; display: flex; position: relative;">
+                                                <div class="kdCard-txt">
+                                                    <h4><span id="GridView1_lblSchName_2">基隆市私立耶魯幼兒園</span></h4>
+                                                    
+                                                    <div class="left" style="width:50%;">
+                                                        <button type="button" class="btn btn-link ad" style="display:inline-flex;" title="顯示更多" aria-label="顯示更多">顯示更多</button>
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">縣市：</div>
+                                                                <div class="col-8"><span id="GridView1_lblCity_2">基隆市</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">鄉鎮：</div>
+                                                                <div class="col-8"><span id="GridView1_lblArea_2">安樂區</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">設立別：</div>
+                                                                <div class="col-8"><span id="GridView1_lblPub_2">私立</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="blk ad">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">地址：</div>
+                                                                <div class="col-8"><a id="GridView1_hlAddr_2" class="icon-map" onclick="var PosX=(screen.width-600)/2; var PosY=(screen.height-500)/2; popwin=window.open(&#39;map/showmap.aspx?new=1&amp;sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIAaQBCAGcATwA0AFkAOQBrAG8ALwBCADgAWABrAHYAVwA0AGQAagAzAEsAaQBMADcAbABSAGwAcABWAGsAcQBCAEsAVABOAGYAZQBlAEUAdQB2AE8AUQA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=500,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" href="#" target="_blank">[204]武嶺街247之6-10，213之5-9，215，215之1-5號</a></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">電話：</div>
+                                                                <div class="col-8"><span id="GridView1_lblTel_2">(02)24312177</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">核定人數：</div>
+                                                                <div class="col-8"><span id="GridView1_lblGenStd_2">240</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">營運狀態：</div>
+                                                                <div class="col-8"><span id="GridView1_lblBStatus_2">正常</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="right" style="width:50%;">
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">裁罰情形：</div>
+                                                                <div class="col-8">
+                                                                    <a onclick="var PosX=(screen.width-1024)/2; var PosY=20; popwin=window.open(&#39;./dtl/punish_view.aspx?sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIAaQBCAGcATwA0AFkAOQBrAG8ALwBCADgAWABrAHYAVwA0AGQAagAzAEsAaQBMADcAbABSAGwAcABWAGsAcQBCAEsAVABOAGYAZQBlAEUAdQB2AE8AUQA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024,height=600,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" id="GridView1_lbView_2" class="btn btn-sm btn-primary" href="javascript:__doPostBack(&#39;GridView1$ctl04$lbView&#39;,&#39;&#39;)">檢視</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+			</tr><tr>
+				<td style="border-left:none; border-top:none; border-right:none; border-bottom: 2px solid #dbdbdb; padding: 0 0 1rem 0; margin: 0 0 1.5rem 0; display: flex; position: relative;">
+                                                <div class="kdCard-txt">
+                                                    <h4><span id="GridView1_lblSchName_3">基隆市私立長春藤幼兒園</span></h4>
+                                                    
+                                                    <div class="left" style="width:50%;">
+                                                        <button type="button" class="btn btn-link ad" style="display:inline-flex;" title="顯示更多" aria-label="顯示更多">顯示更多</button>
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">縣市：</div>
+                                                                <div class="col-8"><span id="GridView1_lblCity_3">基隆市</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">鄉鎮：</div>
+                                                                <div class="col-8"><span id="GridView1_lblArea_3">安樂區</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">設立別：</div>
+                                                                <div class="col-8"><span id="GridView1_lblPub_3">私立</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="blk ad">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">地址：</div>
+                                                                <div class="col-8"><a id="GridView1_hlAddr_3" class="icon-map" onclick="var PosX=(screen.width-600)/2; var PosY=(screen.height-500)/2; popwin=window.open(&#39;map/showmap.aspx?new=1&amp;sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHEALwA0ADMAdwAzADIAbABiAEcASgAxAEMAMQBRAEcASABDACsAQgBaAEkAcQBaAHQAUgBRAE4AMQB2ADcAbwBoAC8AZwAxAHcAWQA0AFcAUwBFADUAZwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=500,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" href="#" target="_blank">[204]樂利三街8巷33號1樓</a></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">電話：</div>
+                                                                <div class="col-8"><span id="GridView1_lblTel_3">(02)24331819</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">核定人數：</div>
+                                                                <div class="col-8"><span id="GridView1_lblGenStd_3">50</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">營運狀態：</div>
+                                                                <div class="col-8"><span id="GridView1_lblBStatus_3">正常</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="right" style="width:50%;">
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">裁罰情形：</div>
+                                                                <div class="col-8">
+                                                                    <a onclick="var PosX=(screen.width-1024)/2; var PosY=20; popwin=window.open(&#39;./dtl/punish_view.aspx?sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHEALwA0ADMAdwAzADIAbABiAEcASgAxAEMAMQBRAEcASABDACsAQgBaAEkAcQBaAHQAUgBRAE4AMQB2ADcAbwBoAC8AZwAxAHcAWQA0AFcAUwBFADUAZwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024,height=600,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" id="GridView1_lbView_3" class="btn btn-sm btn-primary" href="javascript:__doPostBack(&#39;GridView1$ctl05$lbView&#39;,&#39;&#39;)">檢視</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+			</tr><tr>
+				<td style="border-left:none; border-top:none; border-right:none; border-bottom: 2px solid #dbdbdb; padding: 0 0 1rem 0; margin: 0 0 1.5rem 0; display: flex; position: relative;">
+                                                <div class="kdCard-txt">
+                                                    <h4><span id="GridView1_lblSchName_4">基隆市私立小象幼兒藝術幼兒園</span></h4>
+                                                    
+                                                    <div class="left" style="width:50%;">
+                                                        <button type="button" class="btn btn-link ad" style="display:inline-flex;" title="顯示更多" aria-label="顯示更多">顯示更多</button>
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">縣市：</div>
+                                                                <div class="col-8"><span id="GridView1_lblCity_4">基隆市</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">鄉鎮：</div>
+                                                                <div class="col-8"><span id="GridView1_lblArea_4">暖暖區</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">設立別：</div>
+                                                                <div class="col-8"><span id="GridView1_lblPub_4">私立</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="blk ad">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">地址：</div>
+                                                                <div class="col-8"><a id="GridView1_hlAddr_4" class="icon-map" onclick="var PosX=(screen.width-600)/2; var PosY=(screen.height-500)/2; popwin=window.open(&#39;map/showmap.aspx?new=1&amp;sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIAcgB4AFQASgB4AHAATABuAGQAZwBOAE8ALwB0AFQAYgBvADIAMAA5AGkAYgB0AG0AUwBDAEgAaAB6AFAAMgB2AHAAZgB6AEMAdQBDAG8AKwBaAFIAdwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=500,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" href="#" target="_blank">[205]暖暖街52號</a></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">電話：</div>
+                                                                <div class="col-8"><span id="GridView1_lblTel_4">(02)24596888</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">核定人數：</div>
+                                                                <div class="col-8"><span id="GridView1_lblGenStd_4">30</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">營運狀態：</div>
+                                                                <div class="col-8"><span id="GridView1_lblBStatus_4">正常</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="right" style="width:50%;">
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">裁罰情形：</div>
+                                                                <div class="col-8">
+                                                                    <a onclick="var PosX=(screen.width-1024)/2; var PosY=20; popwin=window.open(&#39;./dtl/punish_view.aspx?sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIAcgB4AFQASgB4AHAATABuAGQAZwBOAE8ALwB0AFQAYgBvADIAMAA5AGkAYgB0AG0AUwBDAEgAaAB6AFAAMgB2AHAAZgB6AEMAdQBDAG8AKwBaAFIAdwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024,height=600,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" id="GridView1_lbView_4" class="btn btn-sm btn-primary" href="javascript:__doPostBack(&#39;GridView1$ctl06$lbView&#39;,&#39;&#39;)">檢視</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+			</tr><tr>
+				<td style="border-left:none; border-top:none; border-right:none; border-bottom: 2px solid #dbdbdb; padding: 0 0 1rem 0; margin: 0 0 1.5rem 0; display: flex; position: relative;">
+                                                <div class="kdCard-txt">
+                                                    <h4><span id="GridView1_lblSchName_5">基隆市私立幼新幼兒園</span></h4>
+                                                    
+                                                    <div class="left" style="width:50%;">
+                                                        <button type="button" class="btn btn-link ad" style="display:inline-flex;" title="顯示更多" aria-label="顯示更多">顯示更多</button>
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">縣市：</div>
+                                                                <div class="col-8"><span id="GridView1_lblCity_5">基隆市</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">鄉鎮：</div>
+                                                                <div class="col-8"><span id="GridView1_lblArea_5">暖暖區</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">設立別：</div>
+                                                                <div class="col-8"><span id="GridView1_lblPub_5">私立</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="blk ad">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">地址：</div>
+                                                                <div class="col-8"><a id="GridView1_hlAddr_5" class="icon-map" onclick="var PosX=(screen.width-600)/2; var PosY=(screen.height-500)/2; popwin=window.open(&#39;map/showmap.aspx?new=1&amp;sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIAcgB4AFQASgB4AHAATABuAGQAZwBOAE8ALwB0AFQAYgBvADIAMAA5AGkAQQB2AG8AUgBZAEUAbgBMADIAQgBxAGgAOQA0AGgANQBaAHUARgBtAFYAZwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=500,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" href="#" target="_blank">[205]碇內街5號、5之1號、7號、7之1號1樓</a></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">電話：</div>
+                                                                <div class="col-8"><span id="GridView1_lblTel_5">(02)24582988</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">核定人數：</div>
+                                                                <div class="col-8"><span id="GridView1_lblGenStd_5">80</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">營運狀態：</div>
+                                                                <div class="col-8"><span id="GridView1_lblBStatus_5">正常</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="right" style="width:50%;">
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">裁罰情形：</div>
+                                                                <div class="col-8">
+                                                                    <a onclick="var PosX=(screen.width-1024)/2; var PosY=20; popwin=window.open(&#39;./dtl/punish_view.aspx?sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIAcgB4AFQASgB4AHAATABuAGQAZwBOAE8ALwB0AFQAYgBvADIAMAA5AGkAQQB2AG8AUgBZAEUAbgBMADIAQgBxAGgAOQA0AGgANQBaAHUARgBtAFYAZwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024,height=600,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" id="GridView1_lbView_5" class="btn btn-sm btn-primary" href="javascript:__doPostBack(&#39;GridView1$ctl07$lbView&#39;,&#39;&#39;)">檢視</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+			</tr><tr>
+				<td style="border-left:none; border-top:none; border-right:none; border-bottom: 2px solid #dbdbdb; padding: 0 0 1rem 0; margin: 0 0 1.5rem 0; display: flex; position: relative;">
+                                                <div class="kdCard-txt">
+                                                    <h4><span id="GridView1_lblSchName_6">基隆市私立嘉仁幼兒園</span></h4>
+                                                    
+                                                    <div class="left" style="width:50%;">
+                                                        <button type="button" class="btn btn-link ad" style="display:inline-flex;" title="顯示更多" aria-label="顯示更多">顯示更多</button>
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">縣市：</div>
+                                                                <div class="col-8"><span id="GridView1_lblCity_6">基隆市</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">鄉鎮：</div>
+                                                                <div class="col-8"><span id="GridView1_lblArea_6">七堵區</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">設立別：</div>
+                                                                <div class="col-8"><span id="GridView1_lblPub_6">私立</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="blk ad">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">地址：</div>
+                                                                <div class="col-8"><a id="GridView1_hlAddr_6" class="icon-map" onclick="var PosX=(screen.width-600)/2; var PosY=(screen.height-500)/2; popwin=window.open(&#39;map/showmap.aspx?new=1&amp;sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHAAVgBGAGsAegBqAFgAcQAwAFgANwBFAFcARABHAFUAVgBXADIARQBXAEgAbAB2AEEAaQBTADkAUQBCAHoAZgBjAEYASABnAHoAbABBADEAbwA4AEgAdwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=500,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" href="#" target="_blank">[206]福五街174、174之1、174之2號、174號2樓之1</a></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">電話：</div>
+                                                                <div class="col-8"><span id="GridView1_lblTel_6">(02)24518885</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">核定人數：</div>
+                                                                <div class="col-8"><span id="GridView1_lblGenStd_6">100</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">營運狀態：</div>
+                                                                <div class="col-8"><span id="GridView1_lblBStatus_6">正常</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="right" style="width:50%;">
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">裁罰情形：</div>
+                                                                <div class="col-8">
+                                                                    <a onclick="var PosX=(screen.width-1024)/2; var PosY=20; popwin=window.open(&#39;./dtl/punish_view.aspx?sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHAAVgBGAGsAegBqAFgAcQAwAFgANwBFAFcARABHAFUAVgBXADIARQBXAEgAbAB2AEEAaQBTADkAUQBCAHoAZgBjAEYASABnAHoAbABBADEAbwA4AEgAdwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024,height=600,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" id="GridView1_lbView_6" class="btn btn-sm btn-primary" href="javascript:__doPostBack(&#39;GridView1$ctl08$lbView&#39;,&#39;&#39;)">檢視</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+			</tr><tr>
+				<td style="border-left:none; border-top:none; border-right:none; border-bottom: 2px solid #dbdbdb; padding: 0 0 1rem 0; margin: 0 0 1.5rem 0; display: flex; position: relative;">
+                                                <div class="kdCard-txt">
+                                                    <h4><span id="GridView1_lblSchName_7">基隆市私立名將幼兒園</span></h4>
+                                                    
+                                                    <div class="left" style="width:50%;">
+                                                        <button type="button" class="btn btn-link ad" style="display:inline-flex;" title="顯示更多" aria-label="顯示更多">顯示更多</button>
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">縣市：</div>
+                                                                <div class="col-8"><span id="GridView1_lblCity_7">基隆市</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">鄉鎮：</div>
+                                                                <div class="col-8"><span id="GridView1_lblArea_7">七堵區</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">設立別：</div>
+                                                                <div class="col-8"><span id="GridView1_lblPub_7">私立</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="blk ad">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">地址：</div>
+                                                                <div class="col-8"><a id="GridView1_hlAddr_7" class="icon-map" onclick="var PosX=(screen.width-600)/2; var PosY=(screen.height-500)/2; popwin=window.open(&#39;map/showmap.aspx?new=1&amp;sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIASQBIAFgANAB2AEUANgAwAE4AeQB3AE4ARQBzAHEAOABXAHEANQBJAFMANwBNAHoAawBnADEAcAA5AHYAbAAvAFIAQgBWAEcASQB2AGwAagBCAEgAdwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=500,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" href="#" target="_blank">[206]百七街66、70號</a></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">電話：</div>
+                                                                <div class="col-8"><span id="GridView1_lblTel_7">(02)24512222</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">核定人數：</div>
+                                                                <div class="col-8"><span id="GridView1_lblGenStd_7">50</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">營運狀態：</div>
+                                                                <div class="col-8"><span id="GridView1_lblBStatus_7">正常</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="right" style="width:50%;">
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">裁罰情形：</div>
+                                                                <div class="col-8">
+                                                                    <a onclick="var PosX=(screen.width-1024)/2; var PosY=20; popwin=window.open(&#39;./dtl/punish_view.aspx?sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHIASQBIAFgANAB2AEUANgAwAE4AeQB3AE4ARQBzAHEAOABXAHEANQBJAFMANwBNAHoAawBnADEAcAA5AHYAbAAvAFIAQgBWAEcASQB2AGwAagBCAEgAdwA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024,height=600,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" id="GridView1_lbView_7" class="btn btn-sm btn-primary" href="javascript:__doPostBack(&#39;GridView1$ctl09$lbView&#39;,&#39;&#39;)">檢視</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+			</tr><tr>
+				<td style="border-left:none; border-top:none; border-right:none; border-bottom: 2px solid #dbdbdb; padding: 0 0 1rem 0; margin: 0 0 1.5rem 0; display: flex; position: relative;">
+                                                <div class="kdCard-txt">
+                                                    <h4><span id="GridView1_lblSchName_8">基隆市私立小象文教幼兒園</span></h4>
+                                                    
+                                                    <div class="left" style="width:50%;">
+                                                        <button type="button" class="btn btn-link ad" style="display:inline-flex;" title="顯示更多" aria-label="顯示更多">顯示更多</button>
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">縣市：</div>
+                                                                <div class="col-8"><span id="GridView1_lblCity_8">基隆市</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">鄉鎮：</div>
+                                                                <div class="col-8"><span id="GridView1_lblArea_8">七堵區</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">設立別：</div>
+                                                                <div class="col-8"><span id="GridView1_lblPub_8">私立</span></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="blk ad">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">地址：</div>
+                                                                <div class="col-8"><a id="GridView1_hlAddr_8" class="icon-map" onclick="var PosX=(screen.width-600)/2; var PosY=(screen.height-500)/2; popwin=window.open(&#39;map/showmap.aspx?new=1&amp;sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHEAUwBPAEgAdwBNACsAYgBYAFoAbwBwADkAUAB6AHgANAAxAHcARABEAFIAaAAyAHcAYgAwAFEANQB2AE8ATABzAFQAeQAyAEYAMgB0AEIATAAxAFQAQQA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=500,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" href="#" target="_blank">[206]明德一路322號</a></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">電話：</div>
+                                                                <div class="col-8"><span id="GridView1_lblTel_8">(02)24558877</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">核定人數：</div>
+                                                                <div class="col-8"><span id="GridView1_lblGenStd_8">60</span></div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">營運狀態：</div>
+                                                                <div class="col-8"><span id="GridView1_lblBStatus_8">正常</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="right" style="width:50%;">
+                                                        <div class="blk">
+                                                            <div class="d-flex">
+                                                                <div class="col-4">裁罰情形：</div>
+                                                                <div class="col-8">
+                                                                    <a onclick="var PosX=(screen.width-1024)/2; var PosY=20; popwin=window.open(&#39;./dtl/punish_view.aspx?sch=UwByAEwAdAA5AFkAdABlAC8ARgBhAEgALwB1AG0AeABnAHMAcwBzAFYAbgBtAFoAdgA2AFYAcwB0AHUAWQBBAEIAdQBpAFQAVAByAHMAWgBKAFIAaAB5AEUAbQBYAHIAMgBNADAAagBVADAAYgB2AFQAMABaAHoAVwBoAEcAYgB1AEwARABBAFQAYQBuAGMAawAyAEoARAAzAG4AcAArAFQAVAAzAHkANwBHACsANgBLAHgAYwBqAFIAYQAwAFQAZgAzAGoAKwB5AHMAKwBsAGwARgBSAHMAbABPAGcAbwA2AHEAZwB2AFAAWgBVAE8AUQBaAFAAYgBRAE4AbwBxAGcASwBpAFIAawBMAG4AdgAwAFAATgBkAHUAdwBLAGcAYwAzAHkAegBWAGcAZABxACsAbQArAHQAUQBMAG4AawAwAE4AbQAvAEQAcQBEAEYAcwBYAHEAUwBPAEgAdwBNACsAYgBYAFoAbwBwADkAUAB6AHgANAAxAHcARABEAFIAaAAyAHcAYgAwAFEANQB2AE8ATABzAFQAeQAyAEYAMgB0AEIATAAxAFQAQQA9AD0A&#39;,&#39;&#39;,&#39;toolbar=no,location=no,locationbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024,height=600,top=&#39; + PosY + &#39;,left=&#39; + PosX); return false;" id="GridView1_lbView_8" class="btn btn-sm btn-primary" href="javascript:__doPostBack(&#39;GridView1$ctl10$lbView&#39;,&#39;&#39;)">檢視</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                            <div class="d-flex">
+                                                                <div class="col-4">&nbsp;</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+			</tr>
+		</table>
+	</div>
+                            </div>
+
+                            <div id="divLastRecCnt" class="titleBlk">
+                                
+                            </div>
+                            <noscript><div style="color:#333; width: 100%; height: 30px; text-align: center;">您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態。</div></noscript>
+
+                            
+
+                        </div>
+                
+</div>
+
+        
+
+<script type="text/javascript">
+//<![CDATA[
+jqueryInit();jqueryInit();Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"UpdatePanel1","displayAfter":500,"dynamicLayout":true}, null, null, $get("UpdateProgress1"));
+});
+//]]>
+</script>
+</form>
+
+                    </div>
+
+				</div>
+
+			</div>
+					
+		</div>
+
+	</div>
+
+	<footer id="footer"></footer>
+
+    <script>
+        // 若為由Line中點網址，強迫改用外部browser開
+        if (/Line/.test(navigator.userAgent)) {
+            location.href = location.href + '?openExternalBrowser=1';
+        }
+
+        function jqueryInit() {
+            var isMobile = false;
+
+            $(document).ready(function () {
+                /*check mobile*/
+                if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
+                    || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+                    isMobile = true;
+                }
+                //button reset function
+                $("button[name = 'reset']").click(function () {
+                    $(".filterBlk").find("input").each(function () {
+                        if ($(this).attr("type") == 'text') {
+                            $(this).val("");
+                        }
+                        if ($(this).attr("type") == 'checkbox') {
+                            $(this).removeAttr("checked");
+                        }
+                        if ($(this).attr("type") == 'radio') {
+                            $(this).removeAttr("checked");
+                        }
+                        if ($(this).attr("type") == 'slider') {
+                            $(this).slider("value", 0, 0)
+                        }
+                    });
+
+                    $(".filterBlk").find("select").each(function () {
+                        if ($(this).attr("id") == "ddlAreaS") {
+                            $(this).empty();
+                            $(this).append("<option value=''>全部鄉鎮</option>");
+                        }
+                        else {
+                            $(this).val("");
+                        }
+                    });
+
+                    return false;
+                });
+
+                $(".dropdownBlk .arrow").click(function () {
+                    $(this).parent().parent().toggleClass("active");
+                    $(this).parent().parent().siblings().removeClass("active");
+                });
+
+                $(".dropdownBlk .btnBlk .btn").click(function () {
+                    var item = $(this).attr("id");
+                    var itemVal = $("input[name = '" + item.substring(0, item.indexOf("_")) + "']").val();
+
+                    $(".dropdownBlk .tgContainer, .dropdownBlk>li").removeClass("active");
+                    $(this).parent().find('.dropdown').siblings().removeClass("active");
+                    $(this).parent().find('.dropdown').find('.dropdownValue').toggleClass("active");
+                    return false;
+                });
+
+            });
+
+            $(".single .value .fa").click(function () {
+                $(this).parent().parent('.dropdownValue.active').removeClass("active");
+                $(this).parent().parent().siblings('.dropdownTitle').removeClass("unactive");
+            });
+
+            $(".multi .value .fa").click(function () {
+                $(this).parent('.value').remove();
+                if (
+                    $('.multi .dropdownValue').find('.value').length < 1) {
+                    $('.dropdown.multi').removeClass("active");
+                    $(".dropdownBlk .dropdown.multi .dropdownValue").each(function () {
+                        $(this).removeClass("active");
+                        $(this).siblings('.dropdownTitle').removeClass("unactive");
+                    });
+                }
+            });
+
+            $("input:checkbox").on('click', function () {
+                var $box = $(this);
+                if ($box.is(":checked")) {
+                    var group = "input:checkbox[name='" + $box.attr("name") + "']";
+                    $(group).prop("checked", false);
+                    $box.prop("checked", true);
+                } else {
+                    $box.prop("checked", false);
+                }
+            });
+
+            $(".kdBlk .btn.ad").click(function () {
+                $(this).toggleClass("active");
+                if ($(this).hasClass("active")) {
+                    $(this).html("收合資料");
+                }
+                else {
+                    $(this).html("顯示更多");
+                }
+                $(this).parent('.left').toggleClass("active");
+                $(this).parent().siblings(".right").toggleClass("active");
+                $(this).parent().find(".blk.ad").slideToggle();
+                $(this).parent().siblings(".right").find(".blk.ad").slideToggle();
+            });
+
+        }
+
+        $(function () {
+            jqueryInit();
+        });
+
+    </script>
+
+    <script>
+	    $(function(){
+	        loadBlockHtml("headerBlock", "https://www.ece.moe.edu.tw/system/modules/com.thesys.project.ece/elements/header-new.jsp");
+	        loadBlockHtml("footer", "https://www.ece.moe.edu.tw/system/modules/com.thesys.project.ece/elements/footer-new.jsp");
+	    });
+
+	    function loadBlockHtml(id, url) { loadBlockHtml(id, url, null); }
+
+	    function loadBlockHtml(id, url, data) {
+		    $.ajax({
+			    url: url,
+			    data: data,
+			    type: "POST",
+			    dataType: "text",
+			    success: function(html) {
+				    $("#" + id).html(html);
+				    if(id=='headerBlock'){
+					    $("#headerBlock ul li:first").addClass("active");
+				    //}else if(id=='footer'){
+					    jQuery.ajax({
+						    url: 'https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/js/thesys.js',
+						    dataType: 'script',
+						    //success: callback,
+						    async: true
+					    });
+				    }
+			    }
+		    });
+	    }
+    </script>
+    <script>
+        function chkSearch() {
+            var ddlCityS = document.getElementById("ddlCityS");
+
+            if (ddlCityS.value == "") {
+                alert("查詢條件，請選擇一個縣市！");
+                return false;
+            }
+
+            showloading();
+        }
+    </script>
+
+</body>
+</html>
