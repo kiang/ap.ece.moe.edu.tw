@@ -42,8 +42,27 @@ foreach ($cities as $code => $city) {
     $crawler = $client->submit($form, ['ddlCityS' => $code]);
     $pageContent = $client->getResponse()->getContent();
     file_put_contents($rawPath . '/1.html', $pageContent);
+
+    $pos = strpos($pageContent, '<div class="kdCard-txt">');
+    while (false !== $pos) {
+        $nextPos = strpos($pageContent, '</td>', $pos + 1);
+        $block = substr($pageContent, $pos, $nextPos - $pos);
+        $urlPos = strpos($block, '/dtl/punish_view.aspx');
+        $urlPosEnd = strpos($block, '&#39;', $urlPos);
+        $url = 'https://ap.ece.moe.edu.tw/webecems' . substr($block, $urlPos, $urlPosEnd - $urlPos);
+
+        $text = strip_tags($block);
+        $text = str_replace('&nbsp;', ' ', $text);
+        $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
+
+        $client->request('GET', $url);
+        file_put_contents($rawPath . '/item_' . $lines[1] . '.html', $client->getResponse()->getContent());
+
+        $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
+    }
+
     $currentPage = 1;
-    while(false !== strpos($pageContent, 'PageControl1$lbNextPage')) {
+    while (false !== strpos($pageContent, 'PageControl1$lbNextPage')) {
         ++$currentPage;
         $form = $crawler->filter('#form1')->form();
         $crawler = $client->submit($form, [
@@ -51,5 +70,23 @@ foreach ($cities as $code => $city) {
         ]);
         $pageContent = $client->getResponse()->getContent();
         file_put_contents($rawPath . '/' . $currentPage . '.html', $pageContent);
+
+        $pos = strpos($pageContent, '<div class="kdCard-txt">');
+        while (false !== $pos) {
+            $nextPos = strpos($pageContent, '</td>', $pos + 1);
+            $block = substr($pageContent, $pos, $nextPos - $pos);
+            $urlPos = strpos($block, '/dtl/punish_view.aspx');
+            $urlPosEnd = strpos($block, '&#39;', $urlPos);
+            $url = 'https://ap.ece.moe.edu.tw/webecems' . substr($block, $urlPos, $urlPosEnd - $urlPos);
+
+            $text = strip_tags($block);
+            $text = str_replace('&nbsp;', ' ', $text);
+            $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
+
+            $client->request('GET', $url);
+            file_put_contents($rawPath . '/item_' . $lines[1] . '.html', $client->getResponse()->getContent());
+
+            $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
+        }
     }
 }
