@@ -134,5 +134,21 @@
     "sid": "MQA2ADcANAA0ADAAMAAwADEAMwA=",
     "name": "(私立)臺南市私立曉信幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0819825,
+    "lng": 120.2930971,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEANAA=",
+    "name": "(私立)臺南市私立幼兒佳幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.095818,
+    "lng": 120.291385,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEANQA=",
+    "name": "(私立)臺南市私立樂芙幼兒園",
+    "type": "spub1"
   }
 ]

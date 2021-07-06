@@ -241,6 +241,14 @@
   },
   {
     "newsch": 1,
+    "lat": 25.066637,
+    "lng": 121.4807926,
+    "sid": "MAAzADIANAAxADAAMAAwADMANgAtADAAMQA=",
+    "name": "(私立)新北市私立重愛幼兒園三民分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
     "lat": 25.084036,
     "lng": 121.495478,
     "sid": "MAAzADIANAAxADAAMAAwADMANwA=",
@@ -677,6 +685,14 @@
     "lng": 121.4900531,
     "sid": "MAAzADIANAAxADAAMAAwADkANAA=",
     "name": "(私立)新北市私立加州森林國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0857205,
+    "lng": 121.4857659,
+    "sid": "MAAzADIANAAxADAAMAAwADkANQA=",
+    "name": "(私立)新北市私立宇和幼兒園",
     "type": "spub1"
   }
 ]

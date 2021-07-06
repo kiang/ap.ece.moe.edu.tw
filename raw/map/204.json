@@ -150,5 +150,13 @@
     "sid": "MAAxADIAMAA0ADAAMAAwADIAMgA=",
     "name": "(私立)基隆市私立城上城幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1428808,
+    "lng": 121.7025164,
+    "sid": "MAAxADIAMAA0ADAAMAAwADIAMwA=",
+    "name": "(非營利)基隆市武崙非營利幼兒園(委託社團法人臺灣兒童教育發展協會辦理)",
+    "type": "spub2"
   }
 ]
