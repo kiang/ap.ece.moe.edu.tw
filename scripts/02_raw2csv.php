@@ -77,7 +77,7 @@ foreach (glob(dirname(__DIR__) . '/raw/*.html') as $htmlFile) {
                     }
                     break;
                 case '收費明細：':
-                    if('109學年度收費明細' === $lines[$k + 1]) {
+                    if('110學年度收費明細' === $lines[$k + 1]) {
                         $data['has_slip'] = 'yes';
                     }
                     break;
