@@ -1,19 +1,5 @@
 {
-    "meta": {
-        "title": "彰化縣私立吉的堡中興幼兒園",
-        "city": "彰化縣",
-        "town": "彰化市",
-        "type": "私立",
-        "address": "[500]華山路273巷25號",
-        "tel": "(04)7290539",
-        "url": "http:\/\/hipage.hinet.net\/JONGSHING",
-        "count_approved": "120",
-        "pre_public": "110-112",
-        "is_free5": "(109)",
-        "is_after": "無",
-        "penalty": "有",
-        "has_slip": "yes"
-    },
+    "meta": null,
     "slip": {
         "5": {
             "上學期": {
