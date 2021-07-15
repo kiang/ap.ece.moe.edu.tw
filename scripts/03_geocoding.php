@@ -25,7 +25,15 @@ foreach(glob($basePath . '/data/summary1/*/*.csv') AS $csvFile) {
     }
 }
 
-$pool = [];
+$pool = [
+    '桃園市私立華樂幼兒園' => [121.324484,25.005288],
+    '臺中市私立日光城堡幼兒園' => [120.722742,24.246432],
+    '臺南市私立萊德幼兒園' => [120.180611,23.025655],
+    '高雄市私立華威幼兒園' => [120.322247,22.644182],
+    '日月光集團聯合職工福利委員會附設高雄市私立三好幼兒園' => [120.302834,22.710302],
+    '高雄市鳳陽非營利幼兒園（委託社團法人高雄市關懷家庭教育發展協會辦理）' => [120.370153,22.561458],
+    '高雄市私立聰明幼兒園' => [120.436158,22.719569],
+];
 foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
     foreach ($json as $item) {
@@ -47,8 +55,10 @@ foreach (glob($basePath . '/data/*.csv') as $csvFile) {
         } else {
             $data['monthly'] = '';
         }
+        $pointFound = false;
         
         if (isset($pool[$data['title']])) {
+            $pointFound = true;
             $fc['features'][] = [
                 'type' => 'Feature',
                 'properties' => $data,
@@ -96,6 +106,7 @@ foreach (glob($basePath . '/data/*.csv') as $csvFile) {
             }
             $json = json_decode(file_get_contents($rawFile), true);
             if (!empty($json['AddressList'][0]['X'])) {
+                $pointFound = true;
                 $fc['features'][] = [
                     'type' => 'Feature',
                     'properties' => $data,
@@ -108,6 +119,9 @@ foreach (glob($basePath . '/data/*.csv') as $csvFile) {
                     ],
                 ];
             }
+        }
+        if(false === $pointFound) {
+            print_r($data);
         }
     }
 }
