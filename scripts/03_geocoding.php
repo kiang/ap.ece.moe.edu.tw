@@ -44,6 +44,7 @@ foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
         $pool[$item['name']] = [$item['lng'], $item['lat']];
     }
 }
+$pool['臺北市私立娃娃果幼兒園'] = [121.500215,25.032718];
 
 foreach (glob($basePath . '/data/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
