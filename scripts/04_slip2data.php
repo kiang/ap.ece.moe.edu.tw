@@ -17,6 +17,9 @@ foreach (glob($basePath . '/data/*.csv') as $csvFile) {
 foreach (glob($basePath . '/raw/slip/*/*.html') as $htmlFile) {
     $p = pathinfo($htmlFile);
     $city = pathinfo($p['dirname'])['filename'];
+    if(!isset($meta[$city][$p['filename']])) {
+        continue;
+    }
     $targetPath = str_replace('raw/slip', 'data/slip', $p['dirname']);
     if (!file_exists($targetPath)) {
         mkdir($targetPath, 0777, true);
