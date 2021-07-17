@@ -61,7 +61,12 @@ foreach ($cities as $code => $city) {
         $pos = strpos($page, '<div id="mainPanel">');
         $posEnd = strpos($page, '<input type="submit" name="btnExit"', $pos);
         $lines = explode('</tr>', substr($page, $pos, $posEnd - $pos));
-        $punishments = [];
+        $theFile = $dataPath . '/' . $blockLines[1] . '.json';
+        $punishments = json_decode(file_get_contents($theFile), true);
+        $keyPool = [];
+        foreach($punishments AS $punishment) {
+            $keyPool[$punishment[1]] = true;
+        }
         foreach ($lines as $line) {
             $cols = explode('</td>', $line);
             if (count($cols) === 7) {
@@ -69,10 +74,13 @@ foreach ($cities as $code => $city) {
                     $cols[$k] = trim(strip_tags($v));
                 }
                 array_pop($cols);
-                $punishments[] = $cols;
+                if(!isset($keyPool[$cols[1]])) {
+                    $punishments[] = $cols;
+                    $keyPool[$cols[1]] = true;
+                }
             }
         }
-        file_put_contents($dataPath . '/' . $blockLines[1] . '.json', json_encode($punishments, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        file_put_contents($theFile, json_encode($punishments, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
         $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
     }
