@@ -870,5 +870,13 @@
     "sid": "MAA1ADMAMwAwADAAMAAxADEANAA=",
     "name": "(非營利)桃園市文昌非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0053797,
+    "lng": 121.3245468,
+    "sid": "MAA1ADMAMwAwADAAMAAxADEANQA=",
+    "name": "(私立)桃園市私立華樂幼兒園",
+    "type": "spub1"
   }
 ]

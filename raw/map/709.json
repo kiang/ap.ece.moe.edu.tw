@@ -478,5 +478,13 @@
     "sid": "MQA2ADcAMAA5ADAAMAAwADUANwA=",
     "name": "(公立)國立臺南特殊教育學校幼兒部",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0263697,
+    "lng": 120.1820226,
+    "sid": "MQA2ADcAMAA5ADAAMAAwADUAOAA=",
+    "name": "(私立)臺南市私立萊德幼兒園",
+    "type": "spub1"
   }
 ]

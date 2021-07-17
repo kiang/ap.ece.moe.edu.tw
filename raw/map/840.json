@@ -118,5 +118,13 @@
     "sid": "MQA4ADgANAAwADAAMAAwADEANgA=",
     "name": "(公立)高雄市大樹區龍目國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7184546,
+    "lng": 120.4385892,
+    "sid": "MQA4ADgANAAwADAAMAAwADEANwA=",
+    "name": "(私立)高雄市私立聰明幼兒園",
+    "type": "spub1"
   }
 ]
