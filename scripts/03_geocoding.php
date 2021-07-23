@@ -8,34 +8,37 @@ $fc = [
 ];
 
 $monthlyPool = [];
-foreach(glob($basePath . '/data/summary1/*/*.csv') AS $csvFile) {
+foreach (glob($basePath . '/data/summary1/*/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
-    while($line = fgetcsv($fh, 2048)) {
+    while ($line = fgetcsv($fh, 2048)) {
         $data = array_combine($head, $line);
-        if('準公共化' != $data['type']) {
+        if ('準公共化' != $data['type']) {
             $monthly = $data['monthly1'] + $data['monthly2'];
         } else {
             $monthly = 4500 + $data['monthly2'];
         }
-        
-        if(!isset($monthlyPool[$data['point']]) || $monthlyPool[$data['point']] > $monthly) {
+
+        if (!isset($monthlyPool[$data['point']]) || $monthlyPool[$data['point']] > $monthly) {
             $monthlyPool[$data['point']] = $monthly;
         }
     }
 }
 
 $pool = [
-    '桃園市私立華樂幼兒園' => [121.324484,25.005288],
-    '臺中市私立日光城堡幼兒園' => [120.722742,24.246432],
-    '臺南市私立萊德幼兒園' => [120.180611,23.025655],
-    '高雄市私立華威幼兒園' => [120.322247,22.644182],
-    '日月光集團聯合職工福利委員會附設高雄市私立三好幼兒園' => [120.302834,22.710302],
-    '高雄市鳳陽非營利幼兒園（委託社團法人高雄市關懷家庭教育發展協會辦理）' => [120.370153,22.561458],
-    '高雄市私立聰明幼兒園' => [120.436158,22.719569],
-    '臺南市私立伊凡卡幼兒園' => [120.226284,22.971274],
-    '高雄市私立常春藤仁武幼兒園' => [120.341834,22.682608],
-    '彰化縣明倫非營利幼兒園（委託社團法人彰化縣親職福利服務協會辦理）' => [120.585749,23.947434],
+    '桃園市私立華樂幼兒園' => [121.324484, 25.005288],
+    '臺中市私立日光城堡幼兒園' => [120.722742, 24.246432],
+    '臺南市私立萊德幼兒園' => [120.180611, 23.025655],
+    '高雄市私立華威幼兒園' => [120.322247, 22.644182],
+    '日月光集團聯合職工福利委員會附設高雄市私立三好幼兒園' => [120.302834, 22.710302],
+    '高雄市鳳陽非營利幼兒園（委託社團法人高雄市關懷家庭教育發展協會辦理）' => [120.370153, 22.561458],
+    '高雄市私立聰明幼兒園' => [120.436158, 22.719569],
+    '臺南市私立伊凡卡幼兒園' => [120.226284, 22.971274],
+    '高雄市私立常春藤仁武幼兒園' => [120.341834, 22.682608],
+    '彰化縣明倫非營利幼兒園（委託社團法人彰化縣親職福利服務協會辦理）' => [120.585749, 23.947434],
+    '彰化縣萬興非營利幼兒園（委託社團法人彰化縣劍橋社會關懷協會辦理）' => [120.415117,23.956079],
+    '彰化縣三潭非營利幼兒園（委託社團法人彰化縣愛兒教育協會辦理）' => [120.585127,23.8653],
+    '彰化縣永興非營利幼兒園（委託社團法人彰化縣中華幼兒教保職涯發展協會辦理）' => [120.566865,23.925461],
 ];
 foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
@@ -47,20 +50,20 @@ foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
         $pool[$item['name']] = [$item['lng'], $item['lat']];
     }
 }
-$pool['臺北市私立娃娃果幼兒園'] = [121.500215,25.032718];
+$pool['臺北市私立娃娃果幼兒園'] = [121.500215, 25.032718];
 
 foreach (glob($basePath . '/data/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {
         $data = array_combine($head, $line);
-        if(isset($monthlyPool[$data['title']])) {
+        if (isset($monthlyPool[$data['title']])) {
             $data['monthly'] = $monthlyPool[$data['title']];
         } else {
             $data['monthly'] = '';
         }
         $pointFound = false;
-        
+
         if (isset($pool[$data['title']])) {
             $pointFound = true;
             $fc['features'][] = [
@@ -106,25 +109,30 @@ foreach (glob($basePath . '/data/*.csv') as $csvFile) {
                 $content = file_get_contents($apiUrl);
                 $pos = strpos($content, '{');
                 $posEnd = strrpos($content, '}') + 1;
-                file_put_contents($rawFile, substr($content, $pos, $posEnd - $pos));
+                $resultline = substr($content, $pos, $posEnd - $pos);
+                if (strlen($resultline) > 10) {
+                    file_put_contents($rawFile, substr($content, $pos, $posEnd - $pos));
+                }
             }
-            $json = json_decode(file_get_contents($rawFile), true);
-            if (!empty($json['AddressList'][0]['X'])) {
-                $pointFound = true;
-                $fc['features'][] = [
-                    'type' => 'Feature',
-                    'properties' => $data,
-                    'geometry' => [
-                        'type' => 'Point',
-                        'coordinates' => [
-                            $json['AddressList'][0]['X'],
-                            $json['AddressList'][0]['Y']
+            if (file_exists($rawFile)) {
+                $json = json_decode(file_get_contents($rawFile), true);
+                if (!empty($json['AddressList'][0]['X'])) {
+                    $pointFound = true;
+                    $fc['features'][] = [
+                        'type' => 'Feature',
+                        'properties' => $data,
+                        'geometry' => [
+                            'type' => 'Point',
+                            'coordinates' => [
+                                $json['AddressList'][0]['X'],
+                                $json['AddressList'][0]['Y']
+                            ],
                         ],
-                    ],
-                ];
+                    ];
+                }
             }
         }
-        if(false === $pointFound) {
+        if (false === $pointFound) {
             print_r($data);
         }
     }
