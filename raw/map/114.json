@@ -116,8 +116,8 @@
     "lat": 25.076077,
     "lng": 121.586508,
     "sid": "MAAyADEAMQA0ADAAMAAwADEANwA=",
-    "name": "(私立)臺北市私立森林學館幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立森林學館幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -132,8 +132,8 @@
     "lat": 25.0713111,
     "lng": 121.6130223,
     "sid": "MAAyADEAMQA0ADAAMAAwADIAMAA=",
-    "name": "(私立)臺北市私立惠登幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立惠登幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -148,8 +148,8 @@
     "lat": 25.0694192,
     "lng": 121.6203815,
     "sid": "MAAyADEAMQA0ADAAMAAwADIAMgA=",
-    "name": "(準公共)臺北市私立保進幼兒園",
-    "type": "spub3"
+    "name": "(私立)臺北市私立保進幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -508,8 +508,8 @@
     "lat": 25.0718119,
     "lng": 121.60762,
     "sid": "MAAyADEAMQA0ADAAMAAwADcANQA=",
-    "name": "(私立)臺北市私立卡爾維德幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立卡爾維德幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

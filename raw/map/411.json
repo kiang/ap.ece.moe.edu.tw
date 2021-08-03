@@ -52,8 +52,8 @@
     "lat": 24.112992,
     "lng": 120.704195,
     "sid": "MAA5ADQAMQAxADAAMAAwADAANwA=",
-    "name": "(準公共)臺中市私立全佑幼兒園",
-    "type": "spub3"
+    "name": "(私立)臺中市私立全佑幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -76,8 +76,8 @@
     "lat": 24.140676,
     "lng": 120.714302,
     "sid": "MAA5ADQAMQAxADAAMAAwADEAMQA=",
-    "name": "(私立)臺中市私立宜欣幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立宜欣幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -156,8 +156,8 @@
     "lat": 24.0993309,
     "lng": 120.723848,
     "sid": "MAA5ADQAMQAxADAAMAAwADIAMQA=",
-    "name": "(私立)臺中市私立美恩幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立美恩幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -204,8 +204,8 @@
     "lat": 24.105778,
     "lng": 120.727669,
     "sid": "MAA5ADQAMQAxADAAMAAwADIAOAA=",
-    "name": "(私立)私立慈明高級中學附設臺中市幼兒園",
-    "type": "spub1"
+    "name": "(準公共)私立慈明高級中學附設臺中市幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -308,8 +308,8 @@
     "lat": 24.129254,
     "lng": 120.7224771,
     "sid": "MAA5ADQAMQAxADAAMAAwADQAMwA=",
-    "name": "(私立)臺中市私立語晴幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立語晴幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

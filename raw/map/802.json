@@ -132,16 +132,16 @@
     "lat": 22.621265,
     "lng": 120.318171,
     "sid": "MQA4ADgAMAAyADAAMAAwADEANwA=",
-    "name": "(私立)高雄市私立普津幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立普津幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.630727,
     "lng": 120.32682,
     "sid": "MQA4ADgAMAAyADAAMAAwADEAOAA=",
-    "name": "(私立)高雄市私立感恩幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立感恩幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -156,8 +156,8 @@
     "lat": 22.618223,
     "lng": 120.301074,
     "sid": "MQA4ADgAMAAyADAAMAAwADIAMgA=",
-    "name": "(私立)高雄市私立四季幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立四季幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -180,16 +180,16 @@
     "lat": 22.614568,
     "lng": 120.297707,
     "sid": "MQA4ADgAMAAyADAAMAAwADIANgA=",
-    "name": "(私立)高雄市私立佳學幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立佳學幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.622736,
     "lng": 120.317111,
     "sid": "MQA4ADgAMAAyADAAMAAwADIANwA=",
-    "name": "(準公共)高雄市私立佳兒幼兒園",
-    "type": "spub3"
+    "name": "(私立)高雄市私立佳兒幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,

@@ -20,8 +20,8 @@
     "lat": 24.956628,
     "lng": 121.1721295,
     "sid": "MAA1ADMAMgA2ADAAMAAwADAAMwA=",
-    "name": "(準公共)桃園市私立蕙幼幼兒園",
-    "type": "spub3"
+    "name": "(私立)桃園市私立蕙幼幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -148,16 +148,16 @@
     "lat": 24.910342,
     "lng": 121.17951,
     "sid": "MAA1ADMAMgA2ADAAMAAwADEANQA=",
-    "name": "(私立)桃園市私立萊恩幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立萊恩幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.9989,
     "lng": 121.3131,
     "sid": "MAA1ADMAMgA2ADAAMAAwADEANgA=",
-    "name": "(私立)桃園市私立埔心幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立埔心幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -260,8 +260,8 @@
     "lat": 24.9046994,
     "lng": 121.1775011,
     "sid": "MAA1ADMAMgA2ADAAMAAwADMAMgA=",
-    "name": "(私立)桃園市私立金悅幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立金悅幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -316,8 +316,8 @@
     "lat": 24.9105791,
     "lng": 121.1579823,
     "sid": "MAA1ADMAMgA2ADAAMAAwADQAMQA=",
-    "name": "(私立)桃園市私立美加達幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立美加達幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

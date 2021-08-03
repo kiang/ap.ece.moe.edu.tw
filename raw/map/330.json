@@ -116,8 +116,8 @@
     "lat": 24.984163,
     "lng": 121.289798,
     "sid": "MAA1ADMAMwAwADAAMAAwADEANwA=",
-    "name": "(私立)桃園市私立美兒樂幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立美兒樂幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -164,8 +164,8 @@
     "lat": 24.994762,
     "lng": 121.297827,
     "sid": "MAA1ADMAMwAwADAAMAAwADIANAA=",
-    "name": "(私立)桃園市私立叡稚幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立叡稚幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -420,8 +420,8 @@
     "lat": 25.0177098,
     "lng": 121.3109552,
     "sid": "MAA1ADMAMwAwADAAMAAwADUAMwA=",
-    "name": "(私立)桃園市私立愛麗絲幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立愛麗絲幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -484,8 +484,8 @@
     "lat": 25.013306,
     "lng": 121.310035,
     "sid": "MAA1ADMAMwAwADAAMAAwADYAMwA=",
-    "name": "(私立)桃園市私立頂好幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立頂好幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -524,8 +524,8 @@
     "lat": 24.988225,
     "lng": 121.29414,
     "sid": "MAA1ADMAMwAwADAAMAAwADcAMAA=",
-    "name": "(私立)桃園市私立幼華幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立幼華幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -876,7 +876,7 @@
     "lat": 25.0053797,
     "lng": 121.3245468,
     "sid": "MAA1ADMAMwAwADAAMAAxADEANQA=",
-    "name": "(私立)桃園市私立華樂幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立華樂幼兒園",
+    "type": "spub3"
   }
 ]

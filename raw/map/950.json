@@ -164,8 +164,8 @@
     "lat": 22.7730049,
     "lng": 121.1235092,
     "sid": "MgAxADkANQAwADAAMAAwADIANQA=",
-    "name": "(私立)臺東縣私立高瞻幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺東縣私立高瞻幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -236,8 +236,8 @@
     "lat": 22.7635228,
     "lng": 121.1492759,
     "sid": "MgAxADkANQAwADAAMAAwADMANAA=",
-    "name": "(私立)臺東縣私立向日葵幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺東縣私立向日葵幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -292,15 +292,15 @@
     "lat": 22.7647659,
     "lng": 121.148005,
     "sid": "MgAxADkANQAwADAAMAAwADQAMQA=",
-    "name": "(私立)臺東縣私立牧牧幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺東縣私立牧牧幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.7648043,
     "lng": 121.1448797,
     "sid": "MgAxADkANQAwADAAMAAwADQAMgA=",
-    "name": "(私立)臺東縣私立蒲公英種子幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺東縣私立蒲公英種子幼兒園",
+    "type": "spub3"
   }
 ]

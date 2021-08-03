@@ -532,8 +532,8 @@
     "lat": 24.979576,
     "lng": 121.53641,
     "sid": "MAAzADIAMwAxADAAMAAwADcAMwA=",
-    "name": "(準公共)新北市私立嘉瑄幼兒園",
-    "type": "spub3"
+    "name": "(私立)新北市私立嘉瑄幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -580,8 +580,8 @@
     "lat": 24.9791579,
     "lng": 121.537801,
     "sid": "MAAzADIAMwAxADAAMAAwADgAMQA=",
-    "name": "(私立)新北市私立心象園幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立心象園幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

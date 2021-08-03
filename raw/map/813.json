@@ -4,8 +4,8 @@
     "lat": 22.6735653,
     "lng": 120.3132012,
     "sid": "MQA4ADgAMQAzADAAMAAwADAAMQA=",
-    "name": "(私立)高雄市私立丹苨薾幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立丹苨薾幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -28,8 +28,8 @@
     "lat": 22.6595947,
     "lng": 120.3039485,
     "sid": "MQA4ADgAMQAzADAAMAAwADAANgA=",
-    "name": "(私立)高雄市私立奧斯佛爾幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立奧斯佛爾幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -52,8 +52,8 @@
     "lat": 22.670334,
     "lng": 120.312507,
     "sid": "MQA4ADgAMQAzADAAMAAwADEAMAA=",
-    "name": "(私立)高雄市私立蠶寶寶幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立蠶寶寶幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -68,8 +68,8 @@
     "lat": 22.680362,
     "lng": 120.305479,
     "sid": "MQA4ADgAMQAzADAAMAAwADEAMgA=",
-    "name": "(私立)高雄市私立哈利幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立哈利幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -172,16 +172,16 @@
     "lat": 22.6855778,
     "lng": 120.3169813,
     "sid": "MQA4ADgAMQAzADAAMAAwADIANQA=",
-    "name": "(私立)高雄市私立福山可萊蒙幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立福山可萊蒙幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.67805,
     "lng": 120.31029,
     "sid": "MQA4ADgAMQAzADAAMAAwADIANgA=",
-    "name": "(私立)高雄市私立曼哈頓幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立曼哈頓幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -268,8 +268,8 @@
     "lat": 22.6778064,
     "lng": 120.3110512,
     "sid": "MQA4ADgAMQAzADAAMAAwADQAMwA=",
-    "name": "(私立)高雄市私立小天使幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立小天使幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -324,8 +324,8 @@
     "lat": 22.6756285,
     "lng": 120.3025652,
     "sid": "MQA4ADgAMQAzADAAMAAwADUAMgA=",
-    "name": "(私立)高雄市私立貝安幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立貝安幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -356,7 +356,7 @@
     "lat": 22.6765693,
     "lng": 120.3130321,
     "sid": "MQA4ADgAMQAzADAAMAAwADUAOAA=",
-    "name": "(非營利)社團法人台灣公共托育協會附設高雄市私立新民非營利幼兒園(高雄市政府委託辦理)",
+    "name": "(非營利)高雄市新民非營利幼兒園(委託社團法人台灣公共托育協會辦理)",
     "type": "spub2"
   },
   {
@@ -364,8 +364,8 @@
     "lat": 22.674287,
     "lng": 120.3081356,
     "sid": "MQA4ADgAMQAzADAAMAAwADUAOQA=",
-    "name": "(私立)高雄市私立羅曼頓幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立羅曼頓幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -404,8 +404,8 @@
     "lat": 22.6839861,
     "lng": 120.3104508,
     "sid": "MQA4ADgAMQAzADAAMAAwADYANAA=",
-    "name": "(私立)高雄市私立傑尼頓幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立傑尼頓幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -428,7 +428,7 @@
     "lat": 22.681064,
     "lng": 120.303725,
     "sid": "MQA4ADgAMQAzADAAMAAwADYANwA=",
-    "name": "(私立)高雄市私立威爾森政德幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立威爾森政德幼兒園",
+    "type": "spub3"
   }
 ]

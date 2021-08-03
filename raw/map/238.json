@@ -220,8 +220,8 @@
     "lat": 24.999191,
     "lng": 121.416706,
     "sid": "MAAzADIAMwA4ADAAMAAwADIAOQA=",
-    "name": "(私立)新北市私立育全保安幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立育全保安幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -252,8 +252,8 @@
     "lat": 24.983381,
     "lng": 121.419924,
     "sid": "MAAzADIAMwA4ADAAMAAwADMAMwA=",
-    "name": "(私立)新北市私立樹林匯文幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立樹林匯文幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -300,8 +300,8 @@
     "lat": 24.978946,
     "lng": 121.423898,
     "sid": "MAAzADIAMwA4ADAAMAAwADQANAA=",
-    "name": "(準公共)新北市私立名人幼兒園",
-    "type": "spub3"
+    "name": "(私立)新北市私立名人幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,

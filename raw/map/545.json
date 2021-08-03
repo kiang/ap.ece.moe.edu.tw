@@ -36,8 +36,8 @@
     "lat": 23.969341,
     "lng": 120.953795,
     "sid": "MQAyADUANAA1ADAAMAAwADAAOAA=",
-    "name": "(私立)南投縣私立文心幼兒園",
-    "type": "spub1"
+    "name": "(準公共)南投縣私立文心幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -156,8 +156,8 @@
     "lat": 23.973401,
     "lng": 120.951324,
     "sid": "MQAyADUANAA1ADAAMAAwADIANAA=",
-    "name": "(私立)南投縣私立貝林幼兒園",
-    "type": "spub1"
+    "name": "(準公共)南投縣私立貝林幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -180,7 +180,7 @@
     "lat": 23.9553096,
     "lng": 120.9654162,
     "sid": "MQAyADUANAA1ADAAMAAwADIANwA=",
-    "name": "(私立)南投縣私立加拿大幼兒園",
-    "type": "spub1"
+    "name": "(準公共)南投縣私立加拿大幼兒園",
+    "type": "spub3"
   }
 ]

@@ -4,16 +4,16 @@
     "lat": 24.6987141,
     "lng": 120.905883,
     "sid": "MAA4ADMANQAxADAAMAAwADAAMQA=",
-    "name": "(私立)苗栗縣私立欣欣幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立欣欣幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.6934907,
     "lng": 120.9267881,
     "sid": "MAA4ADMANQAxADAAMAAwADAAMwA=",
-    "name": "(準公共)苗栗縣私立牧羊幼兒園",
-    "type": "spub3"
+    "name": "(私立)苗栗縣私立牧羊幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -36,24 +36,24 @@
     "lat": 24.67083,
     "lng": 120.91663,
     "sid": "MAA4ADMANQAxADAAMAAwADAANgA=",
-    "name": "(私立)苗栗縣私立真正幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立真正幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.690996,
     "lng": 120.905293,
     "sid": "MAA4ADMANQAxADAAMAAwADAAOAA=",
-    "name": "(私立)苗栗縣私立百合幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立百合幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.6903675,
     "lng": 120.8968705,
     "sid": "MAA4ADMANQAxADAAMAAwADAAOQA=",
-    "name": "(私立)苗栗縣私立中大幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立中大幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -100,8 +100,8 @@
     "lat": 24.697719,
     "lng": 120.909954,
     "sid": "MAA4ADMANQAxADAAMAAwADEANgA=",
-    "name": "(私立)苗栗縣私立成功幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立成功幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -124,8 +124,8 @@
     "lat": 24.697642,
     "lng": 120.9100986,
     "sid": "MAA4ADMANQAxADAAMAAwADEAOQA=",
-    "name": "(私立)苗栗縣私立建國幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立建國幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -180,24 +180,24 @@
     "lat": 24.6626931,
     "lng": 120.879201,
     "sid": "MAA4ADMANQAxADAAMAAwADIAOAA=",
-    "name": "(私立)苗栗縣私立維果幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立維果幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.698071,
     "lng": 120.9012692,
     "sid": "MAA4ADMANQAxADAAMAAwADIAOQA=",
-    "name": "(私立)苗栗縣私立芝麻村幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立芝麻村幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.6962173,
     "lng": 120.9186053,
     "sid": "MAA4ADMANQAxADAAMAAwADMAMAA=",
-    "name": "(私立)苗栗縣私立諾爾堡幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立諾爾堡幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

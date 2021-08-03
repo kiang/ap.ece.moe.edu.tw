@@ -12,16 +12,16 @@
     "lat": 23.276831,
     "lng": 120.303597,
     "sid": "MQA2ADcAMwA2ADAAMAAwADAAMwA=",
-    "name": "(私立)臺南市私立華一幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立華一幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.279083,
     "lng": 120.318692,
     "sid": "MQA2ADcAMwA2ADAAMAAwADAANAA=",
-    "name": "(私立)臺南市私立夏綠蒂幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立夏綠蒂幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -76,7 +76,7 @@
     "lat": 23.268858,
     "lng": 120.316644,
     "sid": "MQA2ADcAMwA2ADAAMAAwADEAMQA=",
-    "name": "(私立)臺南市私立欣榮幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立欣榮幼兒園",
+    "type": "spub3"
   }
 ]

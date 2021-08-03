@@ -4,24 +4,24 @@
     "lat": 23.004041,
     "lng": 120.270076,
     "sid": "MQA2ADcAMQAwADAAMAAwADAAMQA=",
-    "name": "(私立)臺南市私立輔仁幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立輔仁幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.010169,
     "lng": 120.259534,
     "sid": "MQA2ADcAMQAwADAAMAAwADAAMgA=",
-    "name": "(私立)臺南市私立永康文心幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立永康文心幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.008093,
     "lng": 120.236933,
     "sid": "MQA2ADcAMQAwADAAMAAwADAAMwA=",
-    "name": "(私立)臺南市私立新生代幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立新生代幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -68,8 +68,8 @@
     "lat": 23.014126,
     "lng": 120.248995,
     "sid": "MQA2ADcAMQAwADAAMAAwADEAMQA=",
-    "name": "(私立)臺南市私立至真幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立至真幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -92,8 +92,8 @@
     "lat": 23.041341,
     "lng": 120.234364,
     "sid": "MQA2ADcAMQAwADAAMAAwADEANAA=",
-    "name": "(私立)臺南市私立艾迪斯幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立艾迪斯幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -212,16 +212,16 @@
     "lat": 23.012551,
     "lng": 120.235407,
     "sid": "MQA2ADcAMQAwADAAMAAwADIAOQA=",
-    "name": "(私立)臺南市私立萊恩幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立萊恩幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.007584,
     "lng": 120.23799,
     "sid": "MQA2ADcAMQAwADAAMAAwADMAMAA=",
-    "name": "(私立)臺南市私立敦煌幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立敦煌幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -236,8 +236,8 @@
     "lat": 23.010984,
     "lng": 120.262908,
     "sid": "MQA2ADcAMQAwADAAMAAwADMAMgA=",
-    "name": "(私立)臺南市私立童園幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立童園幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -252,8 +252,8 @@
     "lat": 23.031332,
     "lng": 120.250033,
     "sid": "MQA2ADcAMQAwADAAMAAwADMANAA=",
-    "name": "(私立)臺南市私立凱迪斯幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立凱迪斯幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -292,16 +292,16 @@
     "lat": 23.008799,
     "lng": 120.246552,
     "sid": "MQA2ADcAMQAwADAAMAAwADQAMQA=",
-    "name": "(私立)臺南市私立傑登幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立傑登幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.0291577,
     "lng": 120.2517125,
     "sid": "MQA2ADcAMQAwADAAMAAwADQAMgA=",
-    "name": "(私立)臺南市私立非凡幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立非凡幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -316,8 +316,8 @@
     "lat": 23.007234,
     "lng": 120.246133,
     "sid": "MQA2ADcAMQAwADAAMAAwADQANAA=",
-    "name": "(私立)臺南市私立傑尼爾幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立傑尼爾幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -364,8 +364,8 @@
     "lat": 23.016114,
     "lng": 120.247839,
     "sid": "MQA2ADcAMQAwADAAMAAwADUAMQA=",
-    "name": "(私立)臺南市私立愛森堡幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立愛森堡幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -396,16 +396,16 @@
     "lat": 23.006647,
     "lng": 120.260089,
     "sid": "MQA2ADcAMQAwADAAMAAwADUANQA=",
-    "name": "(私立)臺南市私立幼幼世界幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立幼幼世界幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.027967,
     "lng": 120.253913,
     "sid": "MQA2ADcAMQAwADAAMAAwADUANgA=",
-    "name": "(私立)臺南市私立智全幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立智全幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

@@ -140,8 +140,8 @@
     "lat": 24.95548,
     "lng": 121.356949,
     "sid": "MAAzADIAMwA5ADAAMAAwADEAOQA=",
-    "name": "(私立)新北市私立宏修幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立宏修幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -180,7 +180,7 @@
     "lat": 24.956435,
     "lng": 121.3474551,
     "sid": "MAAzADIAMwA5ADAAMAAwADIANwA=",
-    "name": "(私立)新北市私立精英國際幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立精英國際幼兒園",
+    "type": "spub3"
   }
 ]

@@ -172,8 +172,8 @@
     "lat": 24.134907,
     "lng": 120.65137,
     "sid": "MAA5ADQAMAA4ADAAMAAwADIANQA=",
-    "name": "(私立)臺中市私立劍橋幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立劍橋幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -188,8 +188,8 @@
     "lat": 24.14966,
     "lng": 120.644833,
     "sid": "MAA5ADQAMAA4ADAAMAAwADIANwA=",
-    "name": "(私立)臺中市私立傑揚幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立傑揚幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -268,8 +268,8 @@
     "lat": 24.129603,
     "lng": 120.649999,
     "sid": "MAA5ADQAMAA4ADAAMAAwADMAOAA=",
-    "name": "(準公共)臺中市私立群佳幼兒園",
-    "type": "spub3"
+    "name": "(私立)臺中市私立群佳幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,

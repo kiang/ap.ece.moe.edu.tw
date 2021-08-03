@@ -28,8 +28,8 @@
     "lat": 24.114408,
     "lng": 120.682641,
     "sid": "MAA5ADQAMQAyADAAMAAwADAANQA=",
-    "name": "(私立)臺中市私立聖偉幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立聖偉幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -44,8 +44,8 @@
     "lat": 24.0920208,
     "lng": 120.7035902,
     "sid": "MAA5ADQAMQAyADAAMAAwADAANwA=",
-    "name": "(私立)臺中市私立大愛幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立大愛幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -164,8 +164,8 @@
     "lat": 24.10792,
     "lng": 120.710182,
     "sid": "MAA5ADQAMQAyADAAMAAwADIAOAA=",
-    "name": "(私立)臺中市私立慧幼幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立慧幼幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -436,7 +436,7 @@
     "lat": 24.10838,
     "lng": 120.66758,
     "sid": "MAA5ADQAMQAyADAAMAAwADUAOAA=",
-    "name": "(私立)臺中市私立大里光明幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立大里光明幼兒園",
+    "type": "spub3"
   }
 ]

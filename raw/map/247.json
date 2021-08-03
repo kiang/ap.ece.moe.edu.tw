@@ -28,8 +28,8 @@
     "lat": 25.097942,
     "lng": 121.4719576,
     "sid": "MAAzADIANAA3ADAAMAAwADAANAA=",
-    "name": "(私立)新北市私立艾寶貝幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立艾寶貝幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -268,8 +268,8 @@
     "lat": 25.087596,
     "lng": 121.458,
     "sid": "MAAzADIANAA3ADAAMAAwADMANAA=",
-    "name": "(私立)新北市私立佳思美幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立佳思美幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -404,8 +404,8 @@
     "lat": 25.083734,
     "lng": 121.471244,
     "sid": "MAAzADIANAA3ADAAMAAwADUANQA=",
-    "name": "(準公共)新北市私立幸運草幼兒園",
-    "type": "spub3"
+    "name": "(私立)新北市私立幸運草幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,

@@ -44,8 +44,8 @@
     "lat": 25.007114,
     "lng": 121.539023,
     "sid": "MAAyADEAMQA2ADAAMAAwADAANwA=",
-    "name": "(私立)財團法人天主教會臺北教區附設臺北市私立若石幼兒園",
-    "type": "spub1"
+    "name": "(準公共)財團法人天主教會臺北教區附設臺北市私立若石幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -268,16 +268,16 @@
     "lat": 24.988475,
     "lng": 121.573328,
     "sid": "MAAyADEAMQA2ADAAMAAwADMANgA=",
-    "name": "(私立)財團法人台北市華亞之聲社中華基督教便以利教會附設臺北市私立華聲幼兒園",
-    "type": "spub1"
+    "name": "(準公共)財團法人台北市華亞之聲社中華基督教便以利教會附設臺北市私立華聲幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.99683,
     "lng": 121.545701,
     "sid": "MAAyADEAMQA2ADAAMAAwADMANwA=",
-    "name": "(私立)臺北市私立樹人幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立樹人幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -556,7 +556,7 @@
     "lat": 24.9842,
     "lng": 121.570749,
     "sid": "MAAyADEAMQA2ADAAMAAwADcANgA=",
-    "name": "(私立)臺北市私立梅爾森幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立梅爾森幼兒園",
+    "type": "spub3"
   }
 ]

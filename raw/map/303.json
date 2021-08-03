@@ -44,8 +44,8 @@
     "lat": 24.895541,
     "lng": 121.067673,
     "sid": "MAA3ADMAMAAzADAAMAAwADEAMQA=",
-    "name": "(私立)新竹縣私立佳佳幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新竹縣私立佳佳幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -100,8 +100,8 @@
     "lat": 24.891264,
     "lng": 121.051955,
     "sid": "MAA3ADMAMAAzADAAMAAwADEAOQA=",
-    "name": "(私立)新竹縣私立小太陽幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新竹縣私立小太陽幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -116,8 +116,8 @@
     "lat": 24.8678399,
     "lng": 121.027742,
     "sid": "MAA3ADMAMAAzADAAMAAwADIAMwA=",
-    "name": "(私立)新竹縣私立湖口鄉示範幼兒園（新竹縣湖口鄉公所委託新竹縣私立佳佳幼兒園辦理）",
-    "type": "spub1"
+    "name": "(準公共)新竹縣私立湖口鄉示範幼兒園（新竹縣湖口鄉公所委託新竹縣私立佳佳幼兒園辦理）",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -228,15 +228,15 @@
     "lat": 24.8964482,
     "lng": 121.0442556,
     "sid": "MAA3ADMAMAAzADAAMAAwADMANwA=",
-    "name": "(私立)新竹縣私立張遇文幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新竹縣私立張遇文幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.8964482,
     "lng": 121.0442556,
     "sid": "MAA3ADMAMAAzADAAMAAwADMAOAA=",
-    "name": "(私立)新竹縣私立張遇幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新竹縣私立張遇幼兒園",
+    "type": "spub3"
   }
 ]

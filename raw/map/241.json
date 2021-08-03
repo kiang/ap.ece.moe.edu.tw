@@ -204,8 +204,8 @@
     "lat": 25.0680789,
     "lng": 121.483424,
     "sid": "MAAzADIANAAxADAAMAAwADMAMQA=",
-    "name": "(私立)新北市私立三重忠孝幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立三重忠孝幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -244,8 +244,8 @@
     "lat": 25.066637,
     "lng": 121.4807926,
     "sid": "MAAzADIANAAxADAAMAAwADMANgAtADAAMQA=",
-    "name": "(私立)新北市私立重愛幼兒園三民分班",
-    "type": "spub1"
+    "name": "(準公共)新北市私立重愛幼兒園三民分班",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -332,8 +332,8 @@
     "lat": 25.052717,
     "lng": 121.490429,
     "sid": "MAAzADIANAAxADAAMAAwADQAOQA=",
-    "name": "(準公共)新北市私立愛箂兒幼兒園",
-    "type": "spub3"
+    "name": "(私立)新北市私立愛箂兒幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -508,8 +508,8 @@
     "lat": 25.070085,
     "lng": 121.486475,
     "sid": "MAAzADIANAAxADAAMAAwADYAOQA=",
-    "name": "(私立)新北市私立強森園幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立強森園幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

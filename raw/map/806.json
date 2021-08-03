@@ -52,8 +52,8 @@
     "lat": 22.6069082,
     "lng": 120.324303,
     "sid": "MQA4ADgAMAA2ADAAMAAwADAAOQA=",
-    "name": "(準公共)財團法人福智文教基金會附設高雄市私立妙善幼兒園",
-    "type": "spub3"
+    "name": "(私立)財團法人福智文教基金會附設高雄市私立妙善幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -92,8 +92,8 @@
     "lat": 22.576309,
     "lng": 120.321987,
     "sid": "MQA4ADgAMAA2ADAAMAAwADEANAA=",
-    "name": "(準公共)高雄市私立國民幼兒園",
-    "type": "spub3"
+    "name": "(私立)高雄市私立國民幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -212,8 +212,8 @@
     "lat": 22.599365,
     "lng": 120.327297,
     "sid": "MQA4ADgAMAA2ADAAMAAwADIAOQA=",
-    "name": "(私立)高雄市私立碧優庭幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立碧優庭幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -228,8 +228,8 @@
     "lat": 22.589036,
     "lng": 120.319617,
     "sid": "MQA4ADgAMAA2ADAAMAAwADMAMQA=",
-    "name": "(私立)高雄市私立立賢幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立立賢幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -244,8 +244,8 @@
     "lat": 22.611485,
     "lng": 120.328631,
     "sid": "MQA4ADgAMAA2ADAAMAAwADMAMwA=",
-    "name": "(私立)高雄市私立冠冠幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立冠冠幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -260,16 +260,16 @@
     "lat": 22.610981,
     "lng": 120.3073,
     "sid": "MQA4ADgAMAA2ADAAMAAwADMANgA=",
-    "name": "(私立)高雄市私立林森幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立林森幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.607759,
     "lng": 120.332351,
     "sid": "MQA4ADgAMAA2ADAAMAAwADMANwA=",
-    "name": "(私立)高雄市私立宏馨幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立宏馨幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -284,8 +284,8 @@
     "lat": 22.60566,
     "lng": 120.331465,
     "sid": "MQA4ADgAMAA2ADAAMAAwADQAMAA=",
-    "name": "(私立)高雄市私立善導幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立善導幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

@@ -4,16 +4,16 @@
     "lat": 22.612763,
     "lng": 120.334662,
     "sid": "MQA4ADgAMwAwADAAMAAwADAAMgA=",
-    "name": "(私立)高雄市私立明園幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立明園幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.589002,
     "lng": 120.324856,
     "sid": "MQA4ADgAMwAwADAAMAAwADAAMwA=",
-    "name": "(私立)高雄市私立仁仁幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立仁仁幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -76,8 +76,8 @@
     "lat": 22.62626,
     "lng": 120.36869,
     "sid": "MQA4ADgAMwAwADAAMAAwADEAMgA=",
-    "name": "(私立)高雄市私立忠信幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立忠信幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -108,8 +108,8 @@
     "lat": 22.610852,
     "lng": 120.343222,
     "sid": "MQA4ADgAMwAwADAAMAAwADEAOQA=",
-    "name": "(私立)高雄市私立巧博士幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立巧博士幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -132,8 +132,8 @@
     "lat": 22.6020973,
     "lng": 120.3530929,
     "sid": "MQA4ADgAMwAwADAAMAAwADIAMgA=",
-    "name": "(準公共)高雄市私立百特幼兒園",
-    "type": "spub3"
+    "name": "(私立)高雄市私立百特幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -156,8 +156,8 @@
     "lat": 22.6086883,
     "lng": 120.3423589,
     "sid": "MQA4ADgAMwAwADAAMAAwADIANQA=",
-    "name": "(私立)高雄市私立百佳幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立百佳幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -364,8 +364,8 @@
     "lat": 22.626374,
     "lng": 120.379326,
     "sid": "MQA4ADgAMwAwADAAMAAwADUAMgA=",
-    "name": "(私立)高雄市私立安德林幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立安德林幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -380,8 +380,8 @@
     "lat": 22.6276562,
     "lng": 120.3806323,
     "sid": "MQA4ADgAMwAwADAAMAAwADUANQA=",
-    "name": "(私立)高雄市私立威爾森幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立威爾森幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -428,8 +428,8 @@
     "lat": 22.623433,
     "lng": 120.365708,
     "sid": "MQA4ADgAMwAwADAAMAAwADYANAA=",
-    "name": "(私立)高雄市私立明善幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立明善幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -476,8 +476,8 @@
     "lat": 22.633225,
     "lng": 120.3573581,
     "sid": "MQA4ADgAMwAwADAAMAAwADcAMwA=",
-    "name": "(私立)高雄市私立又新幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立又新幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -572,7 +572,7 @@
     "lat": 22.5964521,
     "lng": 120.3415626,
     "sid": "MQA4ADgAMwAwADAAMAAwADgANwA=",
-    "name": "(私立)高雄市私立善敏智幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立善敏智幼兒園",
+    "type": "spub3"
   }
 ]

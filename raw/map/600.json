@@ -60,8 +60,8 @@
     "lat": 23.4559516,
     "lng": 120.4606115,
     "sid": "MQA0ADYAMAAwADAAMAAwADEAMwA=",
-    "name": "(準公共)嘉義市私立銘華幼兒園",
-    "type": "spub3"
+    "name": "(私立)嘉義市私立銘華幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -172,8 +172,8 @@
     "lat": 23.47029,
     "lng": 120.437905,
     "sid": "MQA0ADYAMAAwADAAMAAwADMAMAA=",
-    "name": "(私立)嘉義市私立佳寶幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立佳寶幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -332,8 +332,8 @@
     "lat": 23.491015,
     "lng": 120.465551,
     "sid": "MQA0ADYAMAAwADAAMAAwADUANAA=",
-    "name": "(私立)嘉義市私立慈幼幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立慈幼幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -348,8 +348,8 @@
     "lat": 23.492884,
     "lng": 120.443469,
     "sid": "MQA0ADYAMAAwADAAMAAwADUANgA=",
-    "name": "(私立)嘉義市私立忠樺幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立忠樺幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -364,16 +364,16 @@
     "lat": 23.484007,
     "lng": 120.452845,
     "sid": "MQA0ADYAMAAwADAAMAAwADUAOAA=",
-    "name": "(私立)嘉義市私立育志幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立育志幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.488613,
     "lng": 120.442807,
     "sid": "MQA0ADYAMAAwADAAMAAwADYAMAA=",
-    "name": "(私立)嘉義市私立幼華幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立幼華幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -436,8 +436,8 @@
     "lat": 23.4819,
     "lng": 120.457218,
     "sid": "MQA0ADYAMAAwADAAMAAwADcAMgA=",
-    "name": "(私立)嘉義市私立中正幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立中正幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -468,8 +468,8 @@
     "lat": 23.4903412,
     "lng": 120.4550215,
     "sid": "MQA0ADYAMAAwADAAMAAwADcANgA=",
-    "name": "(私立)嘉義市私立中國娃娃幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立中國娃娃幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -508,8 +508,8 @@
     "lat": 23.486533,
     "lng": 120.430863,
     "sid": "MQA0ADYAMAAwADAAMAAwADgAMgA=",
-    "name": "(私立)嘉義市私立美的幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立美的幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

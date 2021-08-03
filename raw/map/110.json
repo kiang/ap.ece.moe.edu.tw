@@ -20,16 +20,16 @@
     "lat": 25.036009,
     "lng": 121.576066,
     "sid": "MAAyADEAMQAwADAAMAAwADAAMwA=",
-    "name": "(私立)臺北市私立聖幼幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立聖幼幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 25.0413772,
     "lng": 121.5809151,
     "sid": "MAAyADEAMQAwADAAMAAwADAANAA=",
-    "name": "(私立)臺北市私立喬伊幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立喬伊幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -180,8 +180,8 @@
     "lat": 25.037588,
     "lng": 121.563764,
     "sid": "MAAyADEAMQAwADAAMAAwADIAMwA=",
-    "name": "(準公共)臺北市市政大樓員工子女非營利幼兒園(委託臺北市公務人員協會辦理)",
-    "type": "spub3"
+    "name": "(非營利)臺北市市政大樓員工子女非營利幼兒園(委託臺北市公務人員協會辦理)",
+    "type": "spub2"
   },
   {
     "newsch": 1,

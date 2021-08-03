@@ -204,8 +204,8 @@
     "lat": 25.0485649,
     "lng": 121.5404246,
     "sid": "MAAyADEAMAA0ADAAMAAwADMAMQA=",
-    "name": "(私立)臺北市私立荳荳園幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立荳荳園幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -324,16 +324,16 @@
     "lat": 25.065477,
     "lng": 121.541689,
     "sid": "MAAyADEAMAA0ADAAMAAwADUAMQA=",
-    "name": "(私立)臺北市私立龍江幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立龍江幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 25.0530409,
     "lng": 121.540048,
     "sid": "MAAyADEAMAA0ADAAMAAwADUAMgA=",
-    "name": "(私立)臺北市私立晨星蒙特梭利幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立晨星蒙特梭利幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -356,8 +356,8 @@
     "lat": 25.0779792,
     "lng": 121.5491412,
     "sid": "MAAyADEAMAA0ADAAMAAwADUANgA=",
-    "name": "(私立)臺北市私立大智幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立大智幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

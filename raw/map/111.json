@@ -308,8 +308,8 @@
     "lat": 25.088123,
     "lng": 121.518632,
     "sid": "MAAyADEAMQAxADAAMAAwADQANAA=",
-    "name": "(私立)臺北市私立幼天才幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立幼天才幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -372,8 +372,8 @@
     "lat": 25.091826,
     "lng": 121.525551,
     "sid": "MAAyADEAMQAxADAAMAAwADUAMgA=",
-    "name": "(私立)臺北市私立佳嬰幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立佳嬰幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -404,8 +404,8 @@
     "lat": 25.092028,
     "lng": 121.503378,
     "sid": "MAAyADEAMQAxADAAMAAwADUANgA=",
-    "name": "(準公共)臺北市私立比特幼兒園",
-    "type": "spub3"
+    "name": "(私立)臺北市私立比特幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -460,8 +460,8 @@
     "lat": 25.0878694,
     "lng": 121.5224116,
     "sid": "MAAyADEAMQAxADAAMAAwADYANQA=",
-    "name": "(私立)臺北市私立孩子國幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立孩子國幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

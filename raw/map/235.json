@@ -4,8 +4,8 @@
     "lat": 24.9933475,
     "lng": 121.5024721,
     "sid": "MAAzADIAMwA1ADAAMAAwADAAMQA=",
-    "name": "(私立)新北市私立布朗尼幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立布朗尼幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -28,8 +28,8 @@
     "lat": 24.9918844,
     "lng": 121.501622,
     "sid": "MAAzADIAMwA1ADAAMAAwADAANQA=",
-    "name": "(私立)新北市私立兆元幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立兆元幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -44,8 +44,8 @@
     "lat": 24.990493,
     "lng": 121.490914,
     "sid": "MAAzADIAMwA1ADAAMAAwADAAOAA=",
-    "name": "(私立)新北市私立貝吉堡幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立貝吉堡幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -68,8 +68,8 @@
     "lat": 24.9995649,
     "lng": 121.473928,
     "sid": "MAAzADIAMwA1ADAAMAAwADEAMQA=",
-    "name": "(私立)新北市私立中仁幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立中仁幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -108,8 +108,8 @@
     "lat": 24.9937239,
     "lng": 121.514903,
     "sid": "MAAzADIAMwA1ADAAMAAwADEAOQA=",
-    "name": "(私立)新北市私立芫銘幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立芫銘幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -156,8 +156,8 @@
     "lat": 24.9928882,
     "lng": 121.5061494,
     "sid": "MAAzADIAMwA1ADAAMAAwADIAOAA=",
-    "name": "(私立)財團法人天主教會臺北教區附設新北市私立玫瑰幼兒園",
-    "type": "spub1"
+    "name": "(準公共)財團法人天主教會臺北教區附設新北市私立玫瑰幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -204,8 +204,8 @@
     "lat": 24.9984712,
     "lng": 121.4828827,
     "sid": "MAAzADIAMwA1ADAAMAAwADMANQA=",
-    "name": "(私立)新北市私立勝利幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立勝利幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -220,8 +220,8 @@
     "lat": 25.0023862,
     "lng": 121.4840526,
     "sid": "MAAzADIAMwA1ADAAMAAwADMANwA=",
-    "name": "(私立)新北市私立普林斯頓幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立普林斯頓幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -260,8 +260,8 @@
     "lat": 24.989339,
     "lng": 121.491245,
     "sid": "MAAzADIAMwA1ADAAMAAwADQANQA=",
-    "name": "(私立)新北市私立創意蘋果幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立創意蘋果幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -484,8 +484,8 @@
     "lat": 24.993983,
     "lng": 121.466152,
     "sid": "MAAzADIAMwA1ADAAMAAwADcAMgA=",
-    "name": "(私立)新北市私立安欣幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立安欣幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -540,16 +540,16 @@
     "lat": 24.9964973,
     "lng": 121.5240387,
     "sid": "MAAzADIAMwA1ADAAMAAwADgAMAA=",
-    "name": "(私立)新北市私立忠合幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立忠合幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.99598,
     "lng": 121.513,
     "sid": "MAAzADIAMwA1ADAAMAAwADgAMgA=",
-    "name": "(私立)新北市私立逸德幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立逸德幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -564,8 +564,8 @@
     "lat": 24.995322,
     "lng": 121.501164,
     "sid": "MAAzADIAMwA1ADAAMAAwADgANAA=",
-    "name": "(私立)新北市私立安特幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立安特幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

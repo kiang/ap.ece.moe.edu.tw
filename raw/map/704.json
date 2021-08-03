@@ -28,8 +28,8 @@
     "lat": 23.005081,
     "lng": 120.195442,
     "sid": "MQA2ADcAMAA0ADAAMAAwADAAMgA=",
-    "name": "(私立)臺南市私立柏欣幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立柏欣幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -44,8 +44,8 @@
     "lat": 23.008256,
     "lng": 120.195998,
     "sid": "MQA2ADcAMAA0ADAAMAAwADAANQA=",
-    "name": "(私立)臺南市私立天資幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立天資幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -124,8 +124,8 @@
     "lat": 23.0080841,
     "lng": 120.19216,
     "sid": "MQA2ADcAMAA0ADAAMAAwADEANwA=",
-    "name": "(私立)臺南市私立而勇幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立而勇幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -260,7 +260,7 @@
     "lat": 23.0110042,
     "lng": 120.2263303,
     "sid": "MQA2ADcAMAA0ADAAMAAwADQAMAA=",
-    "name": "(私立)崑山國際學校財團法人臺南市崑山高級中等學校附設臺南市私立國際幼兒園",
-    "type": "spub1"
+    "name": "(準公共)崑山國際學校財團法人臺南市崑山高級中等學校附設臺南市私立國際幼兒園",
+    "type": "spub3"
   }
 ]

@@ -20,16 +20,16 @@
     "lat": 23.9685706,
     "lng": 121.5808335,
     "sid": "MgAyADkANwAzADAAMAAwADAANAA=",
-    "name": "(私立)花蓮縣私立丫丫幼兒園",
-    "type": "spub1"
+    "name": "(準公共)花蓮縣私立丫丫幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.969779,
     "lng": 121.584549,
     "sid": "MgAyADkANwAzADAAMAAwADAANwA=",
-    "name": "(私立)花蓮縣私立欣怡幼兒園",
-    "type": "spub1"
+    "name": "(準公共)花蓮縣私立欣怡幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -108,8 +108,8 @@
     "lat": 23.968531,
     "lng": 121.580849,
     "sid": "MgAyADkANwAzADAAMAAwADEANwA=",
-    "name": "(私立)花蓮縣私立小丫幼兒園",
-    "type": "spub1"
+    "name": "(準公共)花蓮縣私立小丫幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -148,16 +148,16 @@
     "lat": 23.9716099,
     "lng": 121.590187,
     "sid": "MgAyADkANwAzADAAMAAwADIAMgA=",
-    "name": "(私立)花蓮縣私立咪咪幼兒園",
-    "type": "spub1"
+    "name": "(準公共)花蓮縣私立咪咪幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.9787139,
     "lng": 121.5777874,
     "sid": "MgAyADkANwAzADAAMAAwADIAMwA=",
-    "name": "(私立)花蓮縣私立毛毛虫幼兒園",
-    "type": "spub1"
+    "name": "(準公共)花蓮縣私立毛毛虫幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -172,15 +172,15 @@
     "lat": 23.965786,
     "lng": 121.588277,
     "sid": "MgAyADkANwAzADAAMAAwADIANQA=",
-    "name": "(私立)花蓮縣私立幼華幼兒園",
-    "type": "spub1"
+    "name": "(準公共)花蓮縣私立幼華幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.9653879,
     "lng": 121.586082,
     "sid": "MgAyADkANwAzADAAMAAwADIANgA=",
-    "name": "(私立)花蓮縣私立森林幼兒園",
-    "type": "spub1"
+    "name": "(準公共)花蓮縣私立森林幼兒園",
+    "type": "spub3"
   }
 ]

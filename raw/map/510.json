@@ -60,8 +60,8 @@
     "lat": 23.9672269,
     "lng": 120.582014,
     "sid": "MQAxADUAMQAwADAAMAAwADAAOQA=",
-    "name": "(私立)彰化縣私立愛丁堡幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立愛丁堡幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -84,8 +84,8 @@
     "lat": 23.9633544,
     "lng": 120.5817486,
     "sid": "MQAxADUAMQAwADAAMAAwADEAMgA=",
-    "name": "(私立)彰化縣私立喜巧兒幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立喜巧兒幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -284,8 +284,8 @@
     "lat": 23.9705169,
     "lng": 120.573553,
     "sid": "MQAxADUAMQAwADAAMAAwADMANAA=",
-    "name": "(私立)彰化縣私立員林保進幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立員林保進幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -324,7 +324,7 @@
     "lat": 23.955813,
     "lng": 120.556083,
     "sid": "MQAxADUAMQAzADAAMAAwADAAMwA=",
-    "name": "(私立)彰化縣私立同心幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立同心幼兒園",
+    "type": "spub3"
   }
 ]
