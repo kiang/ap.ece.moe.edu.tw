@@ -1,0 +1,45 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市大園區海港路2巷87號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[桃園市]\tFULL:1",
+      "OutTraceInfo": "[桃園市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市大園區沙崙里2鄰海港路2巷87號",
+      "COUNTY": "桃園市",
+      "TOWN": "大園區",
+      "VILLAGE": "沙崙里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "海港路",
+      "SECTION": "",
+      "LANE": "2巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "87號",
+      "X": 121.238647,
+      "Y": 25.109701
+    }
+  ]
+}
