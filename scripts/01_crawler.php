@@ -79,7 +79,7 @@ function page2csv($page) {
                 case '準公共幼兒園：':
                     $data['pre_public'] = $lines[$k + 1];
                     break;
-                case '5歲免學費：':
+                case '5歲就學補助：':
                     $data['is_free5'] = $lines[$k + 1];
                     break;
                 case '兼辦國小課後：':
