@@ -4,6 +4,10 @@ $basePath = dirname(__DIR__);
 $fh = [];
 foreach (glob($basePath . '/data/slip/*/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
+    if(empty($json['meta'])) {
+        unlink($jsonFile);
+        continue;
+    }
     $city = $json['meta']['city'];
     $cityPath = $basePath . '/data/summary1/' . $json['meta']['city'];
     if (!file_exists($cityPath)) {
@@ -61,6 +65,14 @@ foreach (glob($basePath . '/data/slip/*/*.json') as $jsonFile) {
         } else {
             $type = $json['meta']['type'];
         }
-        fputcsv($fh[$city][$y], [$json['meta']['title'], $json['meta']['town'], $type, $yPrice['months'], $yPrice['total1'], $yPrice['total2'], $yPrice['monthly1'], $yPrice['monthly2']]);
+        fputcsv($fh[$city][$y], [
+            $json['meta']['title'],
+            $json['meta']['town'],
+            $type,
+            $yPrice['months'],
+            $yPrice['total1'],
+            $yPrice['total2'],
+            $yPrice['monthly1'],
+            $yPrice['monthly2']]);
     }
 }
