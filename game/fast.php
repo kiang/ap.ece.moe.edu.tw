@@ -24,6 +24,8 @@ $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/pubSearch
 
 $form = $crawler->selectButton('搜尋')->form();
 $taskFound = false;
+$countTotal = 0;
+$countFailed = 0;
 foreach (glob($basePath . '/data/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
@@ -38,6 +40,7 @@ foreach (glob($basePath . '/data/*.csv') as $csvFile) {
         }
         $rawFile = $rawPath . '/' . $data['title'] . '.html';
         if (!file_exists($rawFile)) {
+            ++$countTotal;
             $crawler = $client->submit($form, ['txtKeyNameS' => $data['title']]);
             $page = $client->getResponse()->getContent();
 
@@ -62,8 +65,12 @@ foreach (glob($basePath . '/data/*.csv') as $csvFile) {
                     $rawFile = $rawPath . '/' . $data['title'] . '.html';
                     file_put_contents($rawFile, $content);
                     echo "{$rawFile}\n";
+                } else {
+                    ++$countFailed;
                 }
             }
         }
     }
 }
+
+echo "{$countTotal} tasks, {$countFailed} failed\n";
