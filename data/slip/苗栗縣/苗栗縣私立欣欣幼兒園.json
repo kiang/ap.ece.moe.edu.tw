@@ -12,7 +12,7 @@
         "is_free5": "(110)",
         "is_after": "有",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {
