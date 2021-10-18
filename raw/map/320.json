@@ -73,14 +73,6 @@
   },
   {
     "newsch": 1,
-    "lat": 24.9521359,
-    "lng": 121.236987,
-    "sid": "MAA1ADMAMgAwADAAMAAwADEAMwA=",
-    "name": "(準公共)桃園市私立喜樂幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
     "lat": 24.9645459,
     "lng": 121.229542,
     "sid": "MAA1ADMAMgAwADAAMAAwADEANAA=",
@@ -381,14 +373,6 @@
     "lng": 121.2548398,
     "sid": "MAA1ADMAMgAwADAAMAAwADYAMQA=",
     "name": "(私立)桃園市私立乖乖幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.9732332,
-    "lng": 121.2550626,
-    "sid": "MAA1ADMAMgAwADAAMAAwADYAMgA=",
-    "name": "(私立)桃園市私立淯苗源幼兒園",
     "type": "spub1"
   },
   {
