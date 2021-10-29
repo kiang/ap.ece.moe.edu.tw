@@ -4,15 +4,15 @@
         "city": "臺北市",
         "town": "內湖區",
         "type": "非營利",
-        "address": "[114]星雲街161巷3號2樓",
-        "tel": "(02)87918776",
-        "url": "http:\/\/shinyuan.children.org.tw\/site\/page002.aspx",
-        "count_approved": "85",
+        "address": "[114]行善路179號",
+        "tel": "(02)8791-8776",
+        "url": "",
+        "count_approved": "16",
         "pre_public": "無",
-        "is_free5": "(110)",
+        "is_free5": "無",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": []
 }
