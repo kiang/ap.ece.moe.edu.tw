@@ -278,5 +278,21 @@
     "sid": "MQAyADUANAAwADAAMAAwADMANQA=",
     "name": "(非營利)南投縣營盤非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9249548,
+    "lng": 120.6813667,
+    "sid": "MQAyADUANAAwADAAMAAwADMANgA=",
+    "name": "(準公共)南投縣私立華陽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9064034,
+    "lng": 120.6380617,
+    "sid": "MQAyADUANAAwADAAMAAwADMANwA=",
+    "name": "(公立)南投縣南投市文山國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

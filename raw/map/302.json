@@ -710,5 +710,45 @@
     "sid": "MAA3ADMAMAAyADAAMAAxADAAMQA=",
     "name": "(私立)新竹縣私立國際蒙特梭利台大幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8064172,
+    "lng": 121.0316976,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAAMgA=",
+    "name": "(私立)新竹縣私立星康國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8267165,
+    "lng": 121.0302136,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAAMwA=",
+    "name": "(私立)新竹縣私立南瓜田幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8505409,
+    "lng": 120.9540894,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAANAA=",
+    "name": "(公立)新竹縣竹北市新港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8299323,
+    "lng": 121.0175755,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAANQA=",
+    "name": "(準公共)新竹縣私立芝麻村幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8377783,
+    "lng": 120.9974361,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAANgA=",
+    "name": "(私立)新竹縣私立育弘幼兒園",
+    "type": "spub1"
   }
 ]

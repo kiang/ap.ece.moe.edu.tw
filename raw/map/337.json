@@ -190,5 +190,29 @@
     "sid": "MAA1ADMAMwA3ADAAMAAwADIANQA=",
     "name": "(非營利)桃園市橫峰非營利幼兒園（委託社團法人中華民國城鄉形象協會辦理）",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.086556,
+    "lng": 121.1907017,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIANgA=",
+    "name": "(公立)桃園市大園區內海國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.023834,
+    "lng": 121.2308916,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIANwA=",
+    "name": "(公立)桃園市大園區五權國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1078196,
+    "lng": 121.2294405,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIAOAA=",
+    "name": "(公立)桃園市立竹圍國民中學附設幼兒園",
+    "type": "spub0"
   }
 ]

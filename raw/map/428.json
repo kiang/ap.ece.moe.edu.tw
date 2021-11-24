@@ -238,5 +238,13 @@
     "sid": "MAA5ADQAMgA4ADAAMAAwADMANAA=",
     "name": "(私立)臺中市私立惠明盲校幼兒部",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2239722,
+    "lng": 120.6498517,
+    "sid": "MAA5ADQAMgA4ADAAMAAwADMANQA=",
+    "name": "(非營利)臺中市大雅非營利幼兒園(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+    "type": "spub2"
   }
 ]

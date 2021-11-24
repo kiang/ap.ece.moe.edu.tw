@@ -622,5 +622,13 @@
     "sid": "MAAzADIAMwAxADAAMAAwADgAOQA=",
     "name": "(私立)新北市私立禾米國際幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9663658,
+    "lng": 121.5152131,
+    "sid": "MAAzADIAMwAxADAAMAAwADkAMAA=",
+    "name": "(非營利)新北市新店及人非營利幼兒園(財團法人新北市私立及人高級中學申請辦理)",
+    "type": "spub2"
   }
 ]

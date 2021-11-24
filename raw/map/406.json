@@ -446,5 +446,21 @@
     "sid": "MAA5ADQAMAA2ADAAMAAwADYAOQA=",
     "name": "(公立)臺中市北屯區四維國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1808056,
+    "lng": 120.6895564,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcAMAA=",
+    "name": "(公立)臺中市北屯區松竹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1863657,
+    "lng": 120.6836922,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcAMQA=",
+    "name": "(私立)臺中市私立仁美愛子幼兒園",
+    "type": "spub1"
   }
 ]

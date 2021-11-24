@@ -158,5 +158,13 @@
     "sid": "MgAwADkAMQAyADAAMAAwADIAMgA=",
     "name": "(私立)私立美和學校財團法人美和科技大學附設屏東縣美和幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6163164,
+    "lng": 120.5629779,
+    "sid": "MgAwADkAMQAyADAAMAAwADIAMwA=",
+    "name": "(非營利)屏東縣東寧非營利幼兒園（委託社團法人屏東縣博學教育協會辦理）",
+    "type": "spub2"
   }
 ]

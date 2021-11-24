@@ -94,5 +94,21 @@
     "sid": "MQA4ADgANAAzADAAMAAwADEANQA=",
     "name": "(非營利)高雄市瀰濃非營利幼兒園(委託財團法人樹德科技大學設立之樹德科技大學辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.8614068,
+    "lng": 120.5204681,
+    "sid": "MQA4ADgANAAzADAAMAAwADEANgA=",
+    "name": "(公立)高雄市美濃區吉洋國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.883998,
+    "lng": 120.5303368,
+    "sid": "MQA4ADgANAAzADAAMAAwADEANwA=",
+    "name": "(公立)高雄市美濃區中壇國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

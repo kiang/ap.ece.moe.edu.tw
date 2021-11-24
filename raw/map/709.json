@@ -494,5 +494,21 @@
     "sid": "MQA2ADcAMAA5ADAAMAAwADUAOAA=",
     "name": "(準公共)臺南市私立萊德幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0537053,
+    "lng": 120.1601854,
+    "sid": "MQA2ADcAMAA5ADAAMAAwADUAOQA=",
+    "name": "(準公共)臺南市私立台江幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0226618,
+    "lng": 120.1846308,
+    "sid": "MQA2ADcAMAA5ADAAMAAwADYAMAA=",
+    "name": "(公立)臺南市立九份子國民中小學附設幼兒園",
+    "type": "spub0"
   }
 ]

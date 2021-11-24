@@ -438,5 +438,13 @@
     "sid": "MAA5ADQAMAA4ADAAMAAwADYAMQA=",
     "name": "(公立)臺中市立臺中特殊教育學校幼兒部",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1465678,
+    "lng": 120.627598,
+    "sid": "MAA5ADQAMAA4ADAAMAAwADYAMgA=",
+    "name": "(私立)臺中市私立初心幼兒園",
+    "type": "spub1"
   }
 ]

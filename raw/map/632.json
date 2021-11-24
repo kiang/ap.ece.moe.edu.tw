@@ -126,5 +126,13 @@
     "sid": "MQAzADYAMwAyADAAMAAwADIAMAA=",
     "name": "(公立)雲林縣虎尾鎮中溪國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.7134647,
+    "lng": 120.4321899,
+    "sid": "MQAzADYAMwAyADAAMAAwADIAMQA=",
+    "name": "(非營利)雲林縣虎尾非營利幼兒園(委託環球學校財團法人辦理)",
+    "type": "spub2"
   }
 ]

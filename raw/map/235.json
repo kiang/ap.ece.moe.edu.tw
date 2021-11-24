@@ -702,5 +702,13 @@
     "sid": "MAAzADIAMwA1ADAAMAAxADAANgA=",
     "name": "(私立)新北市私立宏仁蒙特梭利幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.003019,
+    "lng": 121.4860758,
+    "sid": "MAAzADIAMwA1ADAAMAAxADAANwA=",
+    "name": "(準公共)新北市私立慈祐幼兒園",
+    "type": "spub3"
   }
 ]

@@ -382,5 +382,45 @@
     "sid": "MAAzADIANAA0ADAAMAAwADUAMgA=",
     "name": "(私立)新北市私立心萬美幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0803973,
+    "lng": 121.3842176,
+    "sid": "MAAzADIANAA0ADAAMAAwADUAMwA=",
+    "name": "(非營利)新北市佳林非營利幼兒園(委託社團法人臺灣兒童教育發展協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.073037,
+    "lng": 121.3712507,
+    "sid": "MAAzADIANAA0ADAAMAAwADUANAA=",
+    "name": "(私立)新北市私立萊恩思幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0676443,
+    "lng": 121.3561052,
+    "sid": "MAAzADIANAA0ADAAMAAwADUANQA=",
+    "name": "(私立)新北市私立禾森幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0743531,
+    "lng": 121.3663137,
+    "sid": "MAAzADIANAA0ADAAMAAwADUANgA=",
+    "name": "(私立)新北市私立夏哲森幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0702148,
+    "lng": 121.360172,
+    "sid": "MAAzADIANAA0ADAAMAAwADUANwA=",
+    "name": "(私立)新北市私立嘉聲幼兒園",
+    "type": "spub1"
   }
 ]

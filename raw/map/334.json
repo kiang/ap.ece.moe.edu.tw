@@ -294,5 +294,21 @@
     "sid": "MAA1ADMAMwA0ADAAMAAwADQAMgA=",
     "name": "(私立)桃園市私立森林寶貝幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9548246,
+    "lng": 121.2951892,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQAMwA=",
+    "name": "(非營利)桃園市大和非營利幼兒園(委託明新學校財團法人設立之明新科技大學辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9355504,
+    "lng": 121.2812312,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQANAA=",
+    "name": "(非營利)桃園市北青非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+    "type": "spub2"
   }
 ]

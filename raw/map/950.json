@@ -302,5 +302,13 @@
     "sid": "MgAxADkANQAwADAAMAAwADQAMgA=",
     "name": "(準公共)臺東縣私立蒲公英種子幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7654377,
+    "lng": 121.1354183,
+    "sid": "MgAxADkANQAwADAAMAAwADQAMwA=",
+    "name": "(公立)臺東縣臺東市馬蘭國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

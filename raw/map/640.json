@@ -262,5 +262,13 @@
     "sid": "MQAzADYANAAwADAAMAAwADMANwA=",
     "name": "(公立)雲林縣斗六市石榴國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.7081497,
+    "lng": 120.5549384,
+    "sid": "MQAzADYANAAwADAAMAAwADMAOAA=",
+    "name": "(私立)雲林縣私立斗六保進幼兒園",
+    "type": "spub1"
   }
 ]

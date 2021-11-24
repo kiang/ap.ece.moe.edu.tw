@@ -462,5 +462,21 @@
     "sid": "MQA4ADgAMAA3ADAAMAAwADYAOQA=",
     "name": "(準公共)高雄市私立華威幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6365463,
+    "lng": 120.2913573,
+    "sid": "MQA4ADgAMAA3ADAAMAAwADcAMAA=",
+    "name": "(非營利)高雄市三塊厝非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6445763,
+    "lng": 120.313442,
+    "sid": "MQA4ADgAMAA3ADAAMAAwADcAMQA=",
+    "name": "(非營利)高雄市璐可非營利幼兒園(委託社團法人高雄市社區美學教育發展協會辦理)",
+    "type": "spub2"
   }
 ]

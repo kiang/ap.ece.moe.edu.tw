@@ -406,5 +406,13 @@
     "sid": "MAA1ADMAMgA2ADAAMAAwADUAMgA=",
     "name": "(公立)桃園市楊梅區水美國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9094294,
+    "lng": 121.154622,
+    "sid": "MAA1ADMAMgA2ADAAMAAwADUAMwA=",
+    "name": "(準公共)桃園市私立明日之星幼兒園",
+    "type": "spub3"
   }
 ]

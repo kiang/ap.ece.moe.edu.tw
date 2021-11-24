@@ -430,5 +430,21 @@
     "sid": "MQA4ADgAMQAzADAAMAAwADYANwA=",
     "name": "(準公共)高雄市私立威爾森政德幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6722273,
+    "lng": 120.2937389,
+    "sid": "MQA4ADgAMQAzADAAMAAwADYAOAA=",
+    "name": "(非營利)高雄市大義非營利幼兒園(委託社團法人高雄市社區美學教育發展協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6738584,
+    "lng": 120.2957519,
+    "sid": "MQA4ADgAMQAzADAAMAAwADYAOQA=",
+    "name": "(非營利)高雄市左新非營利幼兒園(委託財團法人福智文教基金會辦理)",
+    "type": "spub2"
   }
 ]

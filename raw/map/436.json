@@ -174,5 +174,21 @@
     "sid": "MAA5ADQAMwA2ADAAMAAwADIAMgA=",
     "name": "(公立)臺中市清水區槺榔國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3123827,
+    "lng": 120.5628243,
+    "sid": "MAA5ADQAMwA2ADAAMAAwADIAMwA=",
+    "name": "(公立)臺中市清水區高美國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2626605,
+    "lng": 120.561621,
+    "sid": "MAA5ADQAMwA2ADAAMAAwADIANAA=",
+    "name": "(私立)臺中市私立清水怡安幼兒園",
+    "type": "spub1"
   }
 ]

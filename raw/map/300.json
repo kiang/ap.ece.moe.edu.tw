@@ -1294,5 +1294,29 @@
     "sid": "MAA2ADMAMAAwADAAMAAxADkAMgA=",
     "name": "(非營利)新竹市關埔非營利幼兒園(委託社團法人新竹市教保人員協會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7416234,
+    "lng": 120.9137002,
+    "sid": "MAA2ADMAMAAwADAAMAAxADkAMwA=",
+    "name": "(非營利)新竹市華德福非營利幼兒園(委託社團法人新竹人智哲學發展學會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8223318,
+    "lng": 120.9637424,
+    "sid": "MAA2ADMAMAAwADAAMAAxADkANAA=",
+    "name": "(私立)新竹市私立艾丁堡國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7910476,
+    "lng": 121.0163437,
+    "sid": "MAA2ADMAMAAwADAAMAAxADkANQA=",
+    "name": "(私立)新竹市私立米羅關埔幼兒園",
+    "type": "spub1"
   }
 ]

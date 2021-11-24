@@ -206,5 +206,21 @@
     "sid": "MAA5ADQAMwAzADAAMAAwADIAMgA=",
     "name": "(私立)臺中市私立加州幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2107881,
+    "lng": 120.5671128,
+    "sid": "MAA5ADQAMwAzADAAMAAwADIAMwA=",
+    "name": "(私立)臺中市私立頂尖合得鑫幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2223689,
+    "lng": 120.573294,
+    "sid": "MAA5ADQAMwAzADAAMAAwADIANAA=",
+    "name": "(私立)臺中市私立迷鹿森林幼兒園",
+    "type": "spub1"
   }
 ]

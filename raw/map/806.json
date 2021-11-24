@@ -286,5 +286,37 @@
     "sid": "MQA4ADgAMAA2ADAAMAAwADQANQA=",
     "name": "(非營利)高雄市前鎮非營利幼兒園（委託高雄市教保人員職業工會辦理）",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6008554,
+    "lng": 120.3271408,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADQANgA=",
+    "name": "(公立)高雄市前鎮區瑞祥國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6091193,
+    "lng": 120.3319772,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADQANwA=",
+    "name": "(非營利)高雄市瑞豐非營利幼兒園（委託社團法人東台灣幼兒教保專業促進協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.5861529,
+    "lng": 120.313349,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADQAOAA=",
+    "name": "(非營利)高雄市興仁非營利幼兒園（委託社團法人高雄市佳欣幼兒發展學會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6051691,
+    "lng": 120.3083121,
+    "sid": "MQA4ADgAMAA2ADAAMAAwADQAOQA=",
+    "name": "(非營利)高雄市獅甲非營利幼兒園(委託財團法人高雄市私立復華高級中學辦理)",
+    "type": "spub2"
   }
 ]

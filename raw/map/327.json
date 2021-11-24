@@ -134,5 +134,21 @@
     "sid": "MAA1ADMAMgA3ADAAMAAwADIAMgA=",
     "name": "(公立)桃園市新屋區東明國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.97899,
+    "lng": 121.11665,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADIAMwA=",
+    "name": "(公立)桃園市新屋區啟文國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.956797,
+    "lng": 121.0816765,
+    "sid": "MAA1ADMAMgA3ADAAMAAwADIANAA=",
+    "name": "(公立)桃園市新屋區社子國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

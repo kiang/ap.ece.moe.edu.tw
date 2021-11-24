@@ -694,5 +694,21 @@
     "sid": "MAAzADIANAAxADAAMAAwADkANQA=",
     "name": "(私立)新北市私立宇和幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0871742,
+    "lng": 121.488928,
+    "sid": "MAAzADIANAAxADAAMAAwADkANgA=",
+    "name": "(非營利)新北市碧城非營利幼兒園(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0635285,
+    "lng": 121.4813233,
+    "sid": "MAAzADIANAAxADAAMAAwADkANwA=",
+    "name": "(私立)新北市私立金吉邇幼兒園",
+    "type": "spub1"
   }
 ]

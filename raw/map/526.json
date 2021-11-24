@@ -78,5 +78,13 @@
     "sid": "MQAxADUAMgA2ADAAMAAwADEANAA=",
     "name": "(準公共)彰化縣私立芝麻街幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9554863,
+    "lng": 120.4158187,
+    "sid": "MQAxADUAMgA2ADAAMAAwADEANgA=",
+    "name": "(非營利)彰化縣萬興非營利幼兒園（委託社團法人彰化縣劍橋社會關懷協會辦理）",
+    "type": "spub2"
   }
 ]

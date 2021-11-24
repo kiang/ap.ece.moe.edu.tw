@@ -230,5 +230,29 @@
     "sid": "MAA4ADMANQAxADAAMAAwADMANAA=",
     "name": "(公立)苗栗縣頭份市新興國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6976192,
+    "lng": 120.8958197,
+    "sid": "MAA4ADMANQAxADAAMAAwADMANQA=",
+    "name": "(非營利)苗栗縣后庄非營利幼兒園（委託社團法人幼兒教保協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6851385,
+    "lng": 120.9008131,
+    "sid": "MAA4ADMANQAxADAAMAAwADMANgA=",
+    "name": "(非營利)苗栗縣六合非營利幼兒園（委託明新學校財團法人設立之明新科技大學辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6881437,
+    "lng": 120.9125727,
+    "sid": "MAA4ADMANQAxADAAMAAwADMANwA=",
+    "name": "(公立)苗栗縣頭份市頭份國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

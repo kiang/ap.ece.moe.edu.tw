@@ -302,5 +302,21 @@
     "sid": "MQA4ADgAMQAxADAAMAAwADQANgA=",
     "name": "(私立)日月光集團聯合職工福利委員會附設高雄市私立三好幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7407846,
+    "lng": 120.3359828,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQANwA=",
+    "name": "(私立)高雄市私立伊頓大地幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7166198,
+    "lng": 120.2932067,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQAOAA=",
+    "name": "(私立)高雄市私立星彩幼兒園",
+    "type": "spub1"
   }
 ]

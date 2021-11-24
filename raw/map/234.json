@@ -502,5 +502,13 @@
     "sid": "MAAzADIAMwA0ADAAMAAwADYANQA=",
     "name": "(私立)新北市私立三暉幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0074528,
+    "lng": 121.5057296,
+    "sid": "MAAzADIAMwA0ADAAMAAwADYANwA=",
+    "name": "(非營利)新北市育平非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+    "type": "spub2"
   }
 ]

@@ -262,5 +262,21 @@
     "sid": "MAAyADEAMQA1ADAAMAAwADQAMAA=",
     "name": "(私立)臺北市私立咪咪陳幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.059279124772264,
+    "lng": 121.61021449745392,
+    "sid": "MAAyADEAMQA1ADAAMAAwADQAMQA=",
+    "name": "(私立)臺北市私立經貿夢想幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.04759,
+    "lng": 121.5848322,
+    "sid": "MAAyADEAMQA1ADAAMAAwADQAMgA=",
+    "name": "(私立)財團法人天主教會台北教區附設臺北市私立萬福幼兒園",
+    "type": "spub1"
   }
 ]

@@ -286,5 +286,21 @@
     "sid": "MAA4ADMANQAwADAAMAAwADQAMgA=",
     "name": "(非營利)苗栗縣竹興非營利幼兒園（委託社團法人臺灣亞洲學前教育培訓協會辦理）",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6940785,
+    "lng": 120.8794497,
+    "sid": "MAA4ADMANQAwADAAMAAwADQAMwA=",
+    "name": "(非營利)苗栗縣照南非營利幼兒園（委託明新學校財團法人設立之明新科技大學辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7019155,
+    "lng": 120.878402,
+    "sid": "MAA4ADMANQAwADAAMAAwADQANAA=",
+    "name": "(非營利)苗栗縣山佳非營利幼兒園（委託社團法人新竹縣遠見多元教育發展協會辦理）",
+    "type": "spub2"
   }
 ]

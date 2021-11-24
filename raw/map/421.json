@@ -150,5 +150,21 @@
     "sid": "MAA5ADQAMgAxADAAMAAwADEAOAA=",
     "name": "(公立)臺中市后里區泰安國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.307963,
+    "lng": 120.6954847,
+    "sid": "MAA5ADQAMgAxADAAMAAwADEAOQA=",
+    "name": "(非營利)臺中市后里非營利幼兒園(委託財團法人臺中市健康全人教育基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3052514,
+    "lng": 120.7233196,
+    "sid": "MAA5ADQAMgAxADAAMAAwADIAMAA=",
+    "name": "(公立)臺中市立啟明學校幼兒部",
+    "type": "spub0"
   }
 ]

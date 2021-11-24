@@ -46,5 +46,13 @@
     "sid": "MQA4ADgAMQA1ADAAMAAwADAAOAA=",
     "name": "(私立)高雄市私立甜甜圈幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7301145,
+    "lng": 120.3457145,
+    "sid": "MQA4ADgAMQA1ADAAMAAwADEAMQA=",
+    "name": "(非營利)高雄市大社非營利幼兒園 (委託社團法人高雄市婦幼同心會辦理)",
+    "type": "spub2"
   }
 ]

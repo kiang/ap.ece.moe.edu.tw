@@ -878,5 +878,21 @@
     "sid": "MAA1ADMAMwAwADAAMAAxADEANQA=",
     "name": "(準公共)桃園市私立華樂幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9939464,
+    "lng": 121.2815997,
+    "sid": "MAA1ADMAMwAwADAAMAAxADEANgA=",
+    "name": "(非營利)桃園市國強非營利幼兒園(委託財團法人台灣兒童暨家庭扶助基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.001247,
+    "lng": 121.2933225,
+    "sid": "MAA1ADMAMwAwADAAMAAxADEANwA=",
+    "name": "(私立)桃園市私立風禾日光幼兒園",
+    "type": "spub1"
   }
 ]
