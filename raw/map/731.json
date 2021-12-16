@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.363394,
+    "lng": 120.365245,
+    "sid": "MQA2ADcAMwAxADAAMAAwADAAMQA=",
+    "name": "(準公共)臺南市私立開心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.384068,
+    "lng": 120.380641,
+    "sid": "MQA2ADcAMwAxADAAMAAwADAAMgA=",
+    "name": "(準公共)臺南市私立名人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.366474,
+    "lng": 120.366245,
+    "sid": "MQA2ADcAMwAxADAAMAAwADAAMwA=",
+    "name": "(公立)臺南市後壁區後壁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.333023,
+    "lng": 120.360817,
+    "sid": "MQA2ADcAMwAxADAAMAAwADAANAA=",
+    "name": "(公立)臺南市後壁區安溪國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.344916,
+    "lng": 120.316059,
+    "sid": "MQA2ADcAMwAxADAAMAAwADAANQA=",
+    "name": "(公立)臺南市後壁區新東國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.372605,
+    "lng": 120.310139,
+    "sid": "MQA2ADcAMwAxADAAMAAwADAANgA=",
+    "name": "(公立)臺南市後壁區新嘉國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.378909,
+    "lng": 120.339302,
+    "sid": "MQA2ADcAMwAxADAAMAAwADAANwA=",
+    "name": "(公立)臺南市後壁區菁寮國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

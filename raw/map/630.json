@@ -1,0 +1,66 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.678783,
+    "lng": 120.482571,
+    "sid": "MQAzADYAMwAwADAAMAAwADAAMgA=",
+    "name": "(準公共)財團法人天主教中華道明修女會附設雲林縣私立斗南幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.675004,
+    "lng": 120.478638,
+    "sid": "MQAzADYAMwAwADAAMAAwADAAMwA=",
+    "name": "(準公共)雲林縣私立博仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.676722,
+    "lng": 120.471369,
+    "sid": "MQAzADYAMwAwADAAMAAwADAANAA=",
+    "name": "(準公共)雲林縣私立中興幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.676287,
+    "lng": 120.447036,
+    "sid": "MQAzADYAMwAwADAAMAAwADAANQA=",
+    "name": "(公立)雲林縣斗南鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.642755,
+    "lng": 120.48231,
+    "sid": "MQAzADYAMwAwADAAMAAwADAANQAtADAAMQA=",
+    "name": "(公立)雲林縣斗南鎮立幼兒園靖興分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.691237,
+    "lng": 120.480301,
+    "sid": "MQAzADYAMwAwADAAMAAwADAANgA=",
+    "name": "(公立)雲林縣斗南鎮文安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.692451,
+    "lng": 120.484794,
+    "sid": "MQAzADYAMwAwADAAMAAwADAANwA=",
+    "name": "(準公共)雲林縣私立小天才幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6808911,
+    "lng": 120.430842,
+    "sid": "MQAzADYAMwAwADAAMAAwADAAOAA=",
+    "name": "(公立)國立雲林特殊教育學校幼兒部",
+    "type": "spub0"
+  }
+]

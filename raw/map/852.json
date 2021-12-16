@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.9034213,
+    "lng": 120.1830518,
+    "sid": "MQA4ADgANQAyADAAMAAwADAAMQA=",
+    "name": "(私立)財團法人台灣聖公會附設高雄市私立聖公會幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9033677,
+    "lng": 120.1830443,
+    "sid": "MQA4ADgANQAyADAAMAAwADAAMgA=",
+    "name": "(公立)高雄市茄萣區茄萣國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9134982,
+    "lng": 120.1825304,
+    "sid": "MQA4ADgANQAyADAAMAAwADAAMwA=",
+    "name": "(公立)高雄市茄萣區砂崙國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.888472,
+    "lng": 120.185485,
+    "sid": "MQA4ADgANQAyADAAMAAwADAANAA=",
+    "name": "(公立)高雄市茄萣區成功國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.8756381,
+    "lng": 120.196476,
+    "sid": "MQA4ADgANQAyADAAMAAwADAANQA=",
+    "name": "(公立)高雄市茄萣區興達國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.873128,
+    "lng": 120.194971,
+    "sid": "MQA4ADgANQAyADAAMAAwADAANgA=",
+    "name": "(私立)高雄市私立昱賢幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.871706,
+    "lng": 120.19264,
+    "sid": "MQA4ADgANQAyADAAMAAwADAANwA=",
+    "name": "(私立)高雄市私立正育幼兒園",
+    "type": "spub1"
+  }
+]

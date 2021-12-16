@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.803454,
+    "lng": 120.57941,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAAMQA=",
+    "name": "(準公共)屏東縣私立鳳成幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.8259228,
+    "lng": 120.5973845,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAAMwA=",
+    "name": "(準公共)屏東縣私立小太陽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.848551,
+    "lng": 120.609893,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAANAA=",
+    "name": "(公立)屏東縣高樹鄉舊寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.787965,
+    "lng": 120.614027,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAANQA=",
+    "name": "(公立)屏東縣高樹鄉泰山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.82582,
+    "lng": 120.598854,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAANgA=",
+    "name": "(公立)屏東縣高樹鄉高樹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.8040091,
+    "lng": 120.57758,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAANwA=",
+    "name": "(公立)屏東縣高樹鄉田子國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.80278,
+    "lng": 120.5768572,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAAOAA=",
+    "name": "(公立)屏東縣高樹鄉立幼兒園",
+    "type": "spub0"
+  }
+]

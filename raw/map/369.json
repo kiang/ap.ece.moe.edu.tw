@@ -1,0 +1,66 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.30759,
+    "lng": 120.831615,
+    "sid": "MAA4ADMANgA5ADAAMAAwADAAMQA=",
+    "name": "(準公共)苗栗縣私立多倫多幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.313593,
+    "lng": 120.827205,
+    "sid": "MAA4ADMANgA5ADAAMAAwADAAMgA=",
+    "name": "(私立)財團法人台灣省天主教會新竹教區附設苗栗縣私立培德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.324476,
+    "lng": 120.823723,
+    "sid": "MAA4ADMANgA5ADAAMAAwADAAMwA=",
+    "name": "(公立)苗栗縣卓蘭鎮豐田國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.299524,
+    "lng": 120.849372,
+    "sid": "MAA4ADMANgA5ADAAMAAwADAANAA=",
+    "name": "(公立)苗栗縣卓蘭鎮內灣國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.312768,
+    "lng": 120.824825,
+    "sid": "MAA4ADMANgA5ADAAMAAwADAANQA=",
+    "name": "(公立)苗栗縣卓蘭鎮卓蘭國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.302792,
+    "lng": 120.831657,
+    "sid": "MAA4ADMANgA5ADAAMAAwADAANgA=",
+    "name": "(公立)苗栗縣卓蘭鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.336139,
+    "lng": 120.876172,
+    "sid": "MAA4ADMANgA5ADAAMAAwADAANgAtADAAMgA=",
+    "name": "(公立)苗栗縣卓蘭鎮立幼兒園坪林分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.352971,
+    "lng": 120.865143,
+    "sid": "MAA4ADMANgA5ADAAMAAwADAANgAtADAAMwA=",
+    "name": "(公立)苗栗縣卓蘭鎮立幼兒園景山分班",
+    "type": "spub0"
+  }
+]

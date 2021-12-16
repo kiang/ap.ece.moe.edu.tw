@@ -1,0 +1,50 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.409313,
+    "lng": 120.525667,
+    "sid": "MgAwADkAMwAxADAAMAAwADAAMgA=",
+    "name": "(公立)屏東縣佳冬鄉塭子國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.4351952,
+    "lng": 120.5188816,
+    "sid": "MgAwADkAMwAxADAAMAAwADAAMwA=",
+    "name": "(準公共)屏東縣私立啟航幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.4216169,
+    "lng": 120.551859,
+    "sid": "MgAwADkAMwAxADAAMAAwADAANAA=",
+    "name": "(公立)屏東縣佳冬鄉佳冬國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.448245,
+    "lng": 120.560851,
+    "sid": "MgAwADkAMwAxADAAMAAwADAANQA=",
+    "name": "(準公共)屏東縣私立佳育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.42375,
+    "lng": 120.5730585,
+    "sid": "MgAwADkAMwAxADAAMAAwADAANgA=",
+    "name": "(公立)屏東縣佳冬鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.423779,
+    "lng": 120.55937,
+    "sid": "MgAwADkAMwAxADAAMAAwADAANwA=",
+    "name": "(準公共)屏東縣私立超聖幼兒園",
+    "type": "spub3"
+  }
+]

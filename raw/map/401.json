@@ -1,0 +1,194 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.1393998,
+    "lng": 120.7037828,
+    "sid": "MAA5ADQAMAAxADAAMAAwADAAMQA=",
+    "name": "(準公共)臺中市私立甲子園幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.145959,
+    "lng": 120.708527,
+    "sid": "MAA5ADQAMAAxADAAMAAwADAAMgA=",
+    "name": "(準公共)臺中市私立地球村幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.151001,
+    "lng": 120.695325,
+    "sid": "MAA5ADQAMAAxADAAMAAwADAAMwA=",
+    "name": "(準公共)財團法人中華基督教衛理公會附設臺中市私立衛道幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.129849,
+    "lng": 120.695737,
+    "sid": "MAA5ADQAMAAxADAAMAAwADAANAA=",
+    "name": "(私立)臺中市私立瑞光基金會附設瑞光幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1279756,
+    "lng": 120.700199,
+    "sid": "MAA5ADQAMAAxADAAMAAwADAANQA=",
+    "name": "(私立)臺中市私立東區劍橋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.131813,
+    "lng": 120.687026,
+    "sid": "MAA5ADQAMAAxADAAMAAwADAANgA=",
+    "name": "(準公共)財團法人台灣省國籍主顧傳教修女會附設臺中市私立德育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1461471,
+    "lng": 120.7095877,
+    "sid": "MAA5ADQAMAAxADAAMAAwADAANwA=",
+    "name": "(私立)臺中市私立探索幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.140325,
+    "lng": 120.7055339,
+    "sid": "MAA5ADQAMAAxADAAMAAwADAAOAA=",
+    "name": "(私立)臺中市私立米亞幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.127587,
+    "lng": 120.690722,
+    "sid": "MAA5ADQAMAAxADAAMAAwADEAMAA=",
+    "name": "(準公共)臺中市私立真善美幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.140176,
+    "lng": 120.708247,
+    "sid": "MAA5ADQAMAAxADAAMAAwADEAMQA=",
+    "name": "(準公共)臺中市私立常春藤幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1486519,
+    "lng": 120.71045,
+    "sid": "MAA5ADQAMAAxADAAMAAwADEAMgA=",
+    "name": "(私立)臺中市私立保進幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.127932,
+    "lng": 120.684926,
+    "sid": "MAA5ADQAMAAxADAAMAAwADEAMwA=",
+    "name": "(非營利)國立中興大學附屬臺中高級農業職業學校員工子女非營利幼兒園（委託臺中市興幼教育學會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1406893,
+    "lng": 120.7059995,
+    "sid": "MAA5ADQAMAAxADAAMAAwADEANAA=",
+    "name": "(私立)臺中市私立貝登堡東英幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.131676,
+    "lng": 120.68652,
+    "sid": "MAA5ADQAMAAxADAAMAAwADEANgA=",
+    "name": "(公立)臺中市東區臺中國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.128892,
+    "lng": 120.690533,
+    "sid": "MAA5ADQAMAAxADAAMAAwADEANwA=",
+    "name": "(公立)臺中市東區大智國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1370282,
+    "lng": 120.6994885,
+    "sid": "MAA5ADQAMAAxADAAMAAwADEAOAA=",
+    "name": "(公立)臺中市東區成功國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.15009,
+    "lng": 120.693216,
+    "sid": "MAA5ADQAMAAxADAAMAAwADEAOQA=",
+    "name": "(公立)臺中市東區力行國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1455049,
+    "lng": 120.694152,
+    "sid": "MAA5ADQAMAAxADAAMAAwADIAMAA=",
+    "name": "(公立)臺中市東區進德國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1381979,
+    "lng": 120.694776,
+    "sid": "MAA5ADQAMAAxADAAMAAwADIAMQA=",
+    "name": "(公立)臺中市東區樂業國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.149728,
+    "lng": 120.692824,
+    "sid": "MAA5ADQAMAAxADAAMAAwADIAMgA=",
+    "name": "(私立)臺中市私立德蕾莎幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1252394,
+    "lng": 120.7009265,
+    "sid": "MAA5ADQAMAAxADAAMAAwADIAMwA=",
+    "name": "(私立)臺中市私立天擎幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1312669,
+    "lng": 120.6862286,
+    "sid": "MAA5ADQAMAAxADAAMAAwADIANAA=",
+    "name": "(私立)臺中市私立世紀奎幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.126207,
+    "lng": 120.6858308,
+    "sid": "MAA5ADQAMAAxADAAMAAwADIANQA=",
+    "name": "(非營利)臺中市東峰非營利幼兒園(委託財團法人宏觀文教基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.140544,
+    "lng": 120.7094591,
+    "sid": "MAA5ADQAMAAxADAAMAAwADIANgA=",
+    "name": "(非營利)臺中市東英非營利幼兒園(委託財團法人宏觀文教基金會辦理)",
+    "type": "spub2"
+  }
+]

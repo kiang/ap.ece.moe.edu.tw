@@ -1,0 +1,258 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.976535,
+    "lng": 120.188603,
+    "sid": "MQA2ADcAMAAyADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市立第二幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.974804,
+    "lng": 120.201341,
+    "sid": "MQA2ADcAMAAyADAAMAAwADAAMQAtADAAMQA=",
+    "name": "(公立)臺南市立第二幼兒園明德分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.964214,
+    "lng": 120.190107,
+    "sid": "MQA2ADcAMAAyADAAMAAwADAAMgA=",
+    "name": "(準公共)臺南市私立新迪斯奈幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.940084,
+    "lng": 120.181457,
+    "sid": "MQA2ADcAMAAyADAAMAAwADAANQA=",
+    "name": "(私立)臺南市私立心馨園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.920174,
+    "lng": 120.183268,
+    "sid": "MQA2ADcAMAAyADAAMAAwADAANwA=",
+    "name": "(準公共)臺南市私立米爾頓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9820691,
+    "lng": 120.196822,
+    "sid": "MQA2ADcAMAAyADAAMAAwADAAOAA=",
+    "name": "(私立)臺南市私立金銀島幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.940007,
+    "lng": 120.181197,
+    "sid": "MQA2ADcAMAAyADAAMAAwADAAOQA=",
+    "name": "(私立)臺南市私立喜樹歸園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.973479,
+    "lng": 120.190533,
+    "sid": "MQA2ADcAMAAyADAAMAAwADEAMAA=",
+    "name": "(公立)臺南市南區日新國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.963869,
+    "lng": 120.186902,
+    "sid": "MQA2ADcAMAAyADAAMAAwADEAMQA=",
+    "name": "(公立)臺南市南區永華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9324041,
+    "lng": 120.180335,
+    "sid": "MQA2ADcAMAAyADAAMAAwADEAMgA=",
+    "name": "(公立)臺南市南區省躬國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9609051,
+    "lng": 120.169755,
+    "sid": "MQA2ADcAMAAyADAAMAAwADEAMwA=",
+    "name": "(公立)臺南市南區龍崗國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.982294,
+    "lng": 120.192648,
+    "sid": "MQA2ADcAMAAyADAAMAAwADEANAA=",
+    "name": "(準公共)臺南市私立新育光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.927009,
+    "lng": 120.17932,
+    "sid": "MQA2ADcAMAAyADAAMAAwADEANQA=",
+    "name": "(私立)臺南市私立甜甜幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.969433,
+    "lng": 120.191003,
+    "sid": "MQA2ADcAMAAyADAAMAAwADEANgA=",
+    "name": "(準公共)臺南市私立金蘋果幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.977115,
+    "lng": 120.192065,
+    "sid": "MQA2ADcAMAAyADAAMAAwADEAOAA=",
+    "name": "(私立)臺南市私立艾的佳幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.962804,
+    "lng": 120.189576,
+    "sid": "MQA2ADcAMAAyADAAMAAwADEAOQA=",
+    "name": "(準公共)臺南市私立幼芽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.974006,
+    "lng": 120.193036,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIAMAA=",
+    "name": "(準公共)臺南市私立大成幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.971808,
+    "lng": 120.195297,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIAMQA=",
+    "name": "(準公共)臺南市私立紅蘋果幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.921204,
+    "lng": 120.183901,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIAMgA=",
+    "name": "(私立)臺南市私立聖兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9424741,
+    "lng": 120.1796513,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIAMwA=",
+    "name": "(公立)臺南市南區喜樹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.975125,
+    "lng": 120.195317,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIANAA=",
+    "name": "(準公共)臺南市私立博學幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.981296,
+    "lng": 120.189781,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIANQA=",
+    "name": "(準公共)臺南市私立快樂幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9760475,
+    "lng": 120.1922772,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIANgA=",
+    "name": "(私立)臺南市私立長春藤幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9598829,
+    "lng": 120.195274,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIANwA=",
+    "name": "(準公共)臺南市私立勝利幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.967413,
+    "lng": 120.214165,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIAOAA=",
+    "name": "(準公共)臺南市私立欣惠群幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.968287,
+    "lng": 120.193753,
+    "sid": "MQA2ADcAMAAyADAAMAAwADIAOQA=",
+    "name": "(準公共)臺南市私立寶貝德蘭幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.979123,
+    "lng": 120.212463,
+    "sid": "MQA2ADcAMAAyADAAMAAwADMAMAA=",
+    "name": "(準公共)臺南市私立欣苗幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9792544,
+    "lng": 120.1963898,
+    "sid": "MQA2ADcAMAAyADAAMAAwADMAMQA=",
+    "name": "(公立)臺南市南區新興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9763689,
+    "lng": 120.2033948,
+    "sid": "MQA2ADcAMAAyADAAMAAwADMAMgA=",
+    "name": "(非營利)臺南市擇仁非營利幼兒園(委託財團法人福智文教基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9319768,
+    "lng": 120.1899421,
+    "sid": "MQA2ADcAMAAyADAAMAAwADMAMwA=",
+    "name": "(私立)臺南市私立卡羅幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9787508,
+    "lng": 120.1978573,
+    "sid": "MQA2ADcAMAAyADAAMAAwADMANAA=",
+    "name": "(非營利)臺南市水交社非營利幼兒園(委託台南市教保產業工會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.926799,
+    "lng": 120.182879,
+    "sid": "MQA2ADcAMAA4ADAAMAAwADAAMQAtADAAMgA=",
+    "name": "(公立)臺南市立第三幼兒園灣裡分班",
+    "type": "spub0"
+  }
+]
