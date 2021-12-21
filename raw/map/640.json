@@ -76,8 +76,8 @@
     "lat": 23.710919,
     "lng": 120.546358,
     "sid": "MQAzADYANAAwADAAMAAwADEAMQA=",
-    "name": "(私立)財團法人斗六基督教浸信會附設雲林縣私立真光幼兒園",
-    "type": "spub1"
+    "name": "(準公共)財團法人斗六基督教浸信會附設雲林縣私立真光幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -268,7 +268,7 @@
     "lat": 23.7081497,
     "lng": 120.5549384,
     "sid": "MQAzADYANAAwADAAMAAwADMAOAA=",
-    "name": "(私立)雲林縣私立斗六保進幼兒園",
-    "type": "spub1"
+    "name": "(準公共)雲林縣私立斗六保進幼兒園",
+    "type": "spub3"
   }
 ]
