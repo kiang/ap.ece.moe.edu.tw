@@ -16,7 +16,7 @@ foreach (glob($basePath . '/data/summary1/*/*.csv') as $csvFile) {
         if ('準公共化' != $data['type']) {
             $monthly = $data['monthly1'] + $data['monthly2'];
         } else {
-            $monthly = 4500 + $data['monthly2'];
+            $monthly = 3500 + $data['monthly2'];
         }
 
         if (!isset($monthlyPool[$data['point']]) || $monthlyPool[$data['point']] > $monthly) {
