@@ -21,6 +21,7 @@ foreach (glob($basePath . '/data/slip/*/*.json') as $jsonFile) {
             'months' => 0,
             'total1' => 0,
             'total2' => 0,
+            'total3' => 0,
             'monthly1' => 0,
             'monthly2' => 0,
         ];
@@ -28,7 +29,7 @@ foreach (glob($basePath . '/data/slip/*/*.json') as $jsonFile) {
             continue;
         }
         foreach ($l1 as $period => $l2) {
-            $yPrice['months'] += intval($l2['months']);
+            $yPrice['months'] += floatval($l2['months']);
             foreach ($l2['class'] as $class => $l3) {
                 if ($class === '全日班') {
                     foreach ($l3 as $item => $l4) {
@@ -40,8 +41,10 @@ foreach (glob($basePath . '/data/slip/*/*.json') as $jsonFile) {
                                 case '活動費':
                                 case '午餐費':
                                 case '點心費':
-                                case '全學期總收費':
                                     $yPrice['total1'] += intval($l4['小計']);
+                                    break;
+                                case '全學期總收費':
+                                    $yPrice['total3'] += intval($l4['小計']);
                                     break;
                                 case '課後延托費':
                                 case '家長會費':
@@ -53,11 +56,15 @@ foreach (glob($basePath . '/data/slip/*/*.json') as $jsonFile) {
                 }
             }
         }
-        $yPrice['monthly1'] = round($yPrice['total1'] / $yPrice['months']);
+        if(!empty($yPrice['total3'])) {
+            $yPrice['monthly1'] = round($yPrice['total3'] / $yPrice['months']);
+        } else {
+            $yPrice['monthly1'] = round($yPrice['total1'] / $yPrice['months']);
+        }        
         $yPrice['monthly2'] = round($yPrice['total2'] / $yPrice['months']);
         if (!isset($fh[$city][$y])) {
             $fh[$city][$y] = fopen($cityPath . '/' . $y . '.csv', 'w');
-            fputcsv($fh[$city][$y], ['point', 'area', 'type', 'months', 'total1', 'total2', 'monthly1', 'monthly2']);
+            fputcsv($fh[$city][$y], ['point', 'area', 'type', 'months', 'total1', 'total2', 'monthly1', 'monthly2', 'total3']);
         }
         $type = '';
         if ($json['meta']['pre_public'] !== '無') {
@@ -73,6 +80,8 @@ foreach (glob($basePath . '/data/slip/*/*.json') as $jsonFile) {
             $yPrice['total1'],
             $yPrice['total2'],
             $yPrice['monthly1'],
-            $yPrice['monthly2']]);
+            $yPrice['monthly2'],
+            $yPrice['total3'],
+        ]);
     }
 }
