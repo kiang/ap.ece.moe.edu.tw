@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.7790214,
+    "lng": 120.2500798,
+    "sid": "MQA4ADgAMgA3ADAAMAAwADAAMQA=",
+    "name": "(準公共)高雄市私立偉生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7768387,
+    "lng": 120.2490064,
+    "sid": "MQA4ADgAMgA3ADAAMAAwADAAMgA=",
+    "name": "(準公共)高雄市私立龍心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7955502,
+    "lng": 120.2330627,
+    "sid": "MQA4ADgAMgA3ADAAMAAwADAAMwA=",
+    "name": "(準公共)高雄市私立綵彤玲幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.795435,
+    "lng": 120.234125,
+    "sid": "MQA4ADgAMgA3ADAAMAAwADAANQA=",
+    "name": "(公立)高雄市彌陀區壽齡國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.783794,
+    "lng": 120.248055,
+    "sid": "MQA4ADgAMgA3ADAAMAAwADAANgA=",
+    "name": "(公立)高雄市彌陀區彌陀國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.763956,
+    "lng": 120.2432994,
+    "sid": "MQA4ADgAMgA3ADAAMAAwADAANwA=",
+    "name": "(公立)高雄市彌陀區南安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7608131,
+    "lng": 120.2367685,
+    "sid": "MQA4ADgAMgA3ADAAMAAwADAAOAA=",
+    "name": "(私立)高雄市私立小太陽哈佛幼兒園",
+    "type": "spub1"
+  }
+]

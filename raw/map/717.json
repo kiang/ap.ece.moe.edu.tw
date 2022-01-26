@@ -1,0 +1,194 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.947741,
+    "lng": 120.259764,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市立仁德幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.918097,
+    "lng": 120.214493,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADAAMgA=",
+    "name": "(私立)臺南市私立仁德聖兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.945859,
+    "lng": 120.253116,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADAANAA=",
+    "name": "(私立)臺南市私立愛迪堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.950801,
+    "lng": 120.258464,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADAANQA=",
+    "name": "(私立)臺南市私立維也納幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.965592,
+    "lng": 120.253813,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADAANgA=",
+    "name": "(準公共)臺南市私立仁義幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.971485,
+    "lng": 120.260309,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADAANwA=",
+    "name": "(私立)臺南市私立育昇幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.961614,
+    "lng": 120.253284,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADAAOAA=",
+    "name": "(私立)臺南市私立聖宜幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.004856,
+    "lng": 120.227135,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADAAOQA=",
+    "name": "(私立)臺南市私立寶琪幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.960922,
+    "lng": 120.243231,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEAMAA=",
+    "name": "(私立)私立中華醫事科技大學附設臺南市幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.989763,
+    "lng": 120.260794,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEAMQA=",
+    "name": "(私立)臺南市私立聖母幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.972132,
+    "lng": 120.258115,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEAMgA=",
+    "name": "(私立)臺南市私立大宗幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.960586,
+    "lng": 120.22213,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEAMwA=",
+    "name": "(公立)臺南市仁德區仁和國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.957252,
+    "lng": 120.228722,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEANAA=",
+    "name": "(私立)臺南市私立甜蜜幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.919314,
+    "lng": 120.216471,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEANQA=",
+    "name": "(公立)臺南市仁德區大甲國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.912666,
+    "lng": 120.261215,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEANgA=",
+    "name": "(公立)臺南市仁德區依仁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.969768,
+    "lng": 120.259405,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEANwA=",
+    "name": "(私立)財團法人中華民國佛教慈濟慈善事業基金會附設臺南市私立台南大愛幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.952241,
+    "lng": 120.247566,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEAOAA=",
+    "name": "(私立)臺南市私立小咪咪幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.989427,
+    "lng": 120.261722,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADEAOQA=",
+    "name": "(準公共)臺南市私立鴻仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.95441,
+    "lng": 120.242009,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADIAMAA=",
+    "name": "(準公共)臺南市私立熊寶寶幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9209971,
+    "lng": 120.2253459,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADIAMQA=",
+    "name": "(私立)嘉藥學校財團法人嘉南藥理大學附設臺南市私立嘉藥幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9690342,
+    "lng": 120.2585911,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADIAMgA=",
+    "name": "(準公共)臺南市私立明日之星幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9487815,
+    "lng": 120.2512444,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADIAMwA=",
+    "name": "(公立)臺南市仁德區德南國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9226284,
+    "lng": 120.2360945,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADIANAA=",
+    "name": "(公立)臺南市仁德區文賢國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9904249,
+    "lng": 120.2605322,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADIANQA=",
+    "name": "(公立)臺南市仁德區長興國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

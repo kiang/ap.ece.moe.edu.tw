@@ -1,0 +1,130 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.4705607,
+    "lng": 120.459314,
+    "sid": "MgAwADkAMgA4ADAAMAAwADAAMQA=",
+    "name": "(準公共)屏東縣私立育輝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.4646151,
+    "lng": 120.4598772,
+    "sid": "MgAwADkAMgA4ADAAMAAwADAAMgA=",
+    "name": "(準公共)屏東縣私立三朋幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.461346,
+    "lng": 120.464116,
+    "sid": "MgAwADkAMgA4ADAAMAAwADAAMwA=",
+    "name": "(準公共)屏東縣私立崇惠幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.478188,
+    "lng": 120.469811,
+    "sid": "MgAwADkAMgA4ADAAMAAwADAANAA=",
+    "name": "(私立)屏東縣私立佳群幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.46873,
+    "lng": 120.453094,
+    "sid": "MgAwADkAMgA4ADAAMAAwADAANQA=",
+    "name": "(私立)財團法人天主教會高雄教區附設屏東縣私立聖家幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.468975,
+    "lng": 120.459668,
+    "sid": "MgAwADkAMgA4ADAAMAAwADAANwA=",
+    "name": "(公立)屏東縣東港鎮東光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.462647,
+    "lng": 120.461333,
+    "sid": "MgAwADkAMgA4ADAAMAAwADAAOAA=",
+    "name": "(公立)屏東縣東港鎮以栗國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.4664755,
+    "lng": 120.4623758,
+    "sid": "MgAwADkAMgA4ADAAMAAwADAAOQA=",
+    "name": "(準公共)屏東縣私立日安幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.456393,
+    "lng": 120.495791,
+    "sid": "MgAwADkAMgA4ADAAMAAwADEAMAA=",
+    "name": "(公立)屏東縣東港鎮大潭國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.471088,
+    "lng": 120.454877,
+    "sid": "MgAwADkAMgA4ADAAMAAwADEAMQA=",
+    "name": "(公立)屏東縣東港鎮東港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.4690739,
+    "lng": 120.4559659,
+    "sid": "MgAwADkAMgA4ADAAMAAwADEAMgA=",
+    "name": "(準公共)屏東縣私立育光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.462367,
+    "lng": 120.444289,
+    "sid": "MgAwADkAMgA4ADAAMAAwADEAMwA=",
+    "name": "(準公共)屏東縣私立東港區漁會幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.4651,
+    "lng": 120.4613,
+    "sid": "MgAwADkAMgA4ADAAMAAwADEANAA=",
+    "name": "(準公共)屏東縣私立東港晴慧幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.46225,
+    "lng": 120.4935,
+    "sid": "MgAwADkAMgA4ADAAMAAwADEANgA=",
+    "name": "(準公共)屏東縣私立傳說幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.4784474,
+    "lng": 120.465331,
+    "sid": "MgAwADkAMgA4ADAAMAAwADEANwA=",
+    "name": "(非營利)屏東縣東興非營利幼兒園(委託財團法人輔英科技大學設立之輔英科技大學辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.4646865,
+    "lng": 120.442588,
+    "sid": "MgAwADkAMgA4ADAAMAAwADEAOAA=",
+    "name": "(非營利)屏東縣海濱非營利幼兒園(委託社團法人高雄市碩苗社會教育關懷協會辦理)",
+    "type": "spub2"
+  }
+]

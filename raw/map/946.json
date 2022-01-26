@@ -1,0 +1,66 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.010503,
+    "lng": 120.727106,
+    "sid": "MgAwADkANAA0ADAAMAAwADAAMgA=",
+    "name": "(準公共)屏東縣私立童心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.010862,
+    "lng": 120.7263001,
+    "sid": "MgAwADkANAA2ADAAMAAwADAAMQA=",
+    "name": "(私立)屏東縣私立懷恩幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.006827,
+    "lng": 120.747361,
+    "sid": "MgAwADkANAA2ADAAMAAwADAAMwA=",
+    "name": "(公立)屏東縣恆春鎮恆春國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 21.9435821,
+    "lng": 120.800778,
+    "sid": "MgAwADkANAA2ADAAMAAwADAANAA=",
+    "name": "(公立)屏東縣恆春鎮墾丁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 21.9703461,
+    "lng": 120.734505,
+    "sid": "MgAwADkANAA2ADAAMAAwADAANQA=",
+    "name": "(公立)屏東縣恆春鎮水泉國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.0050889,
+    "lng": 120.7464179,
+    "sid": "MgAwADkANAA2ADAAMAAwADAAOAA=",
+    "name": "(準公共)屏東縣私立慧橋幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.0064602,
+    "lng": 120.7431425,
+    "sid": "MgAwADkANAA2ADAAMAAwADAAOQA=",
+    "name": "(準公共)屏東縣私立恆春依莎貝兒藝術幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.0071411,
+    "lng": 120.743182,
+    "sid": "MgAwADkANAA2ADAAMAAwADEAMAA=",
+    "name": "(私立)屏東縣私立瑪利幼兒園",
+    "type": "spub1"
+  }
+]
