@@ -34,7 +34,7 @@ function page2csv($page)
             $finalBlock = true;
         }
         $text = strip_tags(substr($page, $pos, $nextPos - $pos));
-        $text = str_replace('&nbsp;', ' ', $text);
+        $text = str_replace(['&nbsp;', '\\'], [' ', ''], $text);
         $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
         $data = [
             'reg_no' => '',
