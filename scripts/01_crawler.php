@@ -21,7 +21,8 @@ if (!file_exists($dataPath)) {
 }
 
 $fh = [];
-function page2csv($page) {
+function page2csv($page)
+{
     global $fh, $dataPath;
     $posEnd = 0;
     $pos = strpos($page, '<h4><span id="GridView', $posEnd);
@@ -36,14 +37,23 @@ function page2csv($page) {
         $text = str_replace('&nbsp;', ' ', $text);
         $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
         $data = [
+            'reg_no' => '',
+            'reg_docno' => '',
+            'reg_date' => '',
             'title' => $lines[0],
+            'owner' => '',
             'city' => '',
             'town' => '',
             'type' => '',
             'address' => '',
+            'floor' => '',
+            'size' => '',
+            'size_in' => '',
+            'size_out' => '',
             'tel' => '',
             'url' => '',
             'count_approved' => '',
+            'shuttle' => '',
             'pre_public' => '',
             'is_free5' => '',
             'is_after' => '',
@@ -52,6 +62,24 @@ function page2csv($page) {
         ];
         foreach ($lines as $k => $line) {
             switch ($line) {
+                case '幼童專用車：':
+                    $data['shuttle'] = $lines[$k + 1];
+                    break;
+                case '使用樓層：':
+                    $data['floor'] = $lines[$k + 1];
+                    break;
+                case '全園總面積：':
+                    $data['size'] = $lines[$k + 1] . $lines[$k + 2];
+                    break;
+                case '室內總面積：':
+                    $data['size_in'] = $lines[$k + 1] . $lines[$k + 2];
+                    break;
+                case '室外活動空間總面積：':
+                    $data['size_out'] = $lines[$k + 1] . $lines[$k + 2];
+                    break;
+                case '負責人：':
+                    $data['owner'] = $lines[$k + 1];
+                    break;
                 case '縣市：':
                     $data['city'] = $lines[$k + 1];
                     break;
@@ -85,6 +113,15 @@ function page2csv($page) {
                 case '兼辦國小課後：':
                     $data['is_after'] = $lines[$k + 1];
                     break;
+                case '設立許可文號：':
+                    $data['reg_docno'] = $lines[$k + 1];
+                    break;
+                case '設立許可證號：':
+                    $data['reg_no'] = $lines[$k + 1];
+                    break;
+                case '核准設立日期：':
+                    $data['reg_date'] = $lines[$k + 1];
+                    break;
                 case '裁罰情形：':
                     if ($lines[$k + 1] !== '無') {
                         $data['penalty'] = '有';
@@ -93,7 +130,7 @@ function page2csv($page) {
                     }
                     break;
                 case '收費明細：':
-                    if('110學年度收費明細' === $lines[$k + 1]) {
+                    if ('110學年度收費明細' === $lines[$k + 1]) {
                         $data['has_slip'] = 'yes';
                     }
                     break;
@@ -120,7 +157,7 @@ $currentPage = 1;
 $pageTotal = 2;
 $pageTotalDone = false;
 for ($i = 2; $i <= $pageTotal; $i++) {
-    if(false === $pageTotalDone) {
+    if (false === $pageTotalDone) {
         $pageTotalDone = true;
         $pos = strpos($pageContent, 'PageControl1_lblTotalPage');
         $pos = strpos($pageContent, '>', $pos) + 1;
@@ -133,7 +170,7 @@ for ($i = 2; $i <= $pageTotal; $i++) {
         '__EVENTTARGET' => 'PageControl1$lbNextPage',
     ]);
     $pageContent = $client->getResponse()->getContent();
-    page2csv($pageContent);    
+    page2csv($pageContent);
     echo "page {$i}\n";
     ++$currentPage;
 }
