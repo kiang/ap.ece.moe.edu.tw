@@ -63,22 +63,34 @@ function page2csv($page)
         foreach ($lines as $k => $line) {
             switch ($line) {
                 case '幼童專用車：':
-                    $data['shuttle'] = $lines[$k + 1];
+                    if ('無' !== $lines[$k + 1]) {
+                        $data['shuttle'] = $lines[$k + 1];
+                    }
                     break;
                 case '使用樓層：':
-                    $data['floor'] = $lines[$k + 1];
+                    if ('幼童專用車：' !== $lines[$k + 1] && '無' !== $lines[$k + 1]) {
+                        $data['floor'] = $lines[$k + 1];
+                    }
                     break;
                 case '全園總面積：':
-                    $data['size'] = $lines[$k + 1] . $lines[$k + 2];
+                    if ('室內總面積：' !== $lines[$k + 1] && '無' !== $lines[$k + 1]) {
+                        $data['size'] = $lines[$k + 1] . $lines[$k + 2];
+                    }
                     break;
                 case '室內總面積：':
-                    $data['size_in'] = $lines[$k + 1] . $lines[$k + 2];
+                    if ('室外活動空間總面積：' !== $lines[$k + 1] && '無' !== $lines[$k + 1]) {
+                        $data['size_in'] = $lines[$k + 1] . $lines[$k + 2];
+                    }
                     break;
                 case '室外活動空間總面積：':
-                    $data['size_out'] = $lines[$k + 1] . $lines[$k + 2];
+                    if ('使用樓層：' !== $lines[$k + 1] && '無' !== $lines[$k + 1]) {
+                        $data['size_out'] = $lines[$k + 1] . $lines[$k + 2];
+                    }
                     break;
                 case '負責人：':
-                    $data['owner'] = $lines[$k + 1];
+                    if ('園所網址：' !== $lines[$k + 1] && '無' !== $lines[$k + 1]) {
+                        $data['owner'] = $lines[$k + 1];
+                    }
                     break;
                 case '縣市：':
                     $data['city'] = $lines[$k + 1];
@@ -96,9 +108,8 @@ function page2csv($page)
                     $data['tel'] = $lines[$k + 1];
                     break;
                 case '園所網址：':
-                    $data['url'] = $lines[$k + 1];
-                    if ($data['url'] === '收費明細：') {
-                        $data['url'] = '';
+                    if ('收費明細：' !== $lines[$k + 1] && '無' !== $lines[$k + 1]) {
+                        $data['url'] = $lines[$k + 1];
                     }
                     break;
                 case '核定人數：':
