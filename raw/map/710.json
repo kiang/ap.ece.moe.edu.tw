@@ -478,5 +478,29 @@
     "sid": "MQA2ADcAMQAwADAAMAAwADYAOQA=",
     "name": "(非營利)臺南市永仁非營利幼兒園 (委託社團法人台南市基督教青年會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.013669,
+    "lng": 120.2569294,
+    "sid": "MQA2ADcAMQAwADAAMAAwADcAMAA=",
+    "name": "(準公共)臺南市私立資優生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0139034,
+    "lng": 120.2592785,
+    "sid": "MQA2ADcAMQAwADAAMAAwADcAMQA=",
+    "name": "(私立)臺南市私立卓越幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0185499,
+    "lng": 120.2361132,
+    "sid": "MQA2ADcAMQAwADAAMAAwADcAMgA=",
+    "name": "(私立)臺南市私立青蘋果幼兒園",
+    "type": "spub1"
   }
 ]

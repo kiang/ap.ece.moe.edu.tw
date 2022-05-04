@@ -198,5 +198,13 @@
     "sid": "MAA5ADQAMQA0ADAAMAAwADIAMgA=",
     "name": "(公立)臺中市烏日區東園國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1122602,
+    "lng": 120.6411989,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIAMwA=",
+    "name": "(私立)歐森烏日教育事業股份有限公司附設臺中市私立鷗森烏日幼兒園",
+    "type": "spub1"
   }
 ]

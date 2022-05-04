@@ -454,5 +454,13 @@
     "sid": "MAAyADEAMAA1ADAAMAAwADYAMwA=",
     "name": "(私立)臺北市私立圓圓幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0598066,
+    "lng": 121.5667099,
+    "sid": "MAAyADEAMAA1ADAAMAAwADYANAA=",
+    "name": "(非營利)臺北市民生非營利幼兒園（委託財團法人台北市中華基督教青年會辦理）",
+    "type": "spub2"
   }
 ]

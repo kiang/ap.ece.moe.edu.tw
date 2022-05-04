@@ -182,5 +182,13 @@
     "sid": "MQA2ADcAMQA3ADAAMAAwADIANQA=",
     "name": "(公立)臺南市仁德區長興國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.943644,
+    "lng": 120.2303915,
+    "sid": "MQA2ADcAMQA3ADAAMAAwADIANgA=",
+    "name": "(準公共)臺南市私立初日幼兒園",
+    "type": "spub3"
   }
 ]

@@ -518,5 +518,13 @@
     "sid": "MAAzADIANAA3ADAAMAAwADcANAA=",
     "name": "(私立)新北市私立史丹力幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.088009,
+    "lng": 121.4654262,
+    "sid": "MAAzADIANAA3ADAAMAAwADcANQA=",
+    "name": "(準公共)新北市私立日日安幼兒園",
+    "type": "spub3"
   }
 ]

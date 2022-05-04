@@ -265,6 +265,14 @@
   },
   {
     "newsch": 1,
+    "lat": 24.9265986,
+    "lng": 121.2871053,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAOAAtADAAMQA=",
+    "name": "(私立)桃園市私立凱思堡幼兒園豐田分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
     "lat": 24.9567179,
     "lng": 121.3148929,
     "sid": "MAA1ADMAMwA0ADAAMAAwADMAOQA=",
@@ -310,5 +318,13 @@
     "sid": "MAA1ADMAMwA0ADAAMAAwADQANAA=",
     "name": "(非營利)桃園市北青非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9248982,
+    "lng": 121.287095,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQANQA=",
+    "name": "(私立)桃園市私立育全豐德幼兒園",
+    "type": "spub1"
   }
 ]
