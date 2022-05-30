@@ -1,7 +1,7 @@
 <?php
 return [
     'tgos' => [
-        'url' => 'http://addr.tgos.nat.gov.tw/addrws/v30/QueryAddr.asmx/QueryAddr',
+        'url' => 'https://addr.tgos.tw/addrws/v40/QueryAddr.asmx/QueryAddr',
         'APPID' => '',
         'APIKey' => '',
     ],
