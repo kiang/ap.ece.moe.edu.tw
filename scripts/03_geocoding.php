@@ -60,7 +60,14 @@ foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
         $pool[$item['name']] = [$item['lng'], $item['lat']];
     }
 }
-$pool['臺北市私立娃娃果幼兒園'] = [121.500215, 25.032718];
+
+$listRedo = ['臺北市私立娃娃果幼兒園', '新北市私立葳瑪藝術幼兒園'];
+
+foreach ($listRedo as $key) {
+    if (isset($pool[$key])) {
+        unset($pool[$key]);
+    }
+}
 
 $idPool = [];
 $idFile = $basePath . '/data/id/id.csv';
