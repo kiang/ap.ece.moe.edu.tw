@@ -63,7 +63,7 @@ foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
 $pool['臺北市私立娃娃果幼兒園'] = [121.500215, 25.032718];
 
 $idPool = [];
-$idFile = $basePath . '/data/id.csv';
+$idFile = $basePath . '/data/id/id.csv';
 if (file_exists($idFile)) {
     $fh = fopen($idFile, 'r');
     while ($line = fgetcsv($fh, 2048)) {
