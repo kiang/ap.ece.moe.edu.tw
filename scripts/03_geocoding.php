@@ -48,7 +48,7 @@ $pool = [
     '苗栗縣六合非營利幼兒園（委託明新學校財團法人設立之明新科技大學辦理）' => [120.901204, 24.68559],
     '苗栗縣后庄非營利幼兒園（委託社團法人幼兒教保協會辦理）' => [120.896318, 24.698128],
     '苗栗縣銅鑼鄉新隆國民小學附設幼兒園' => [120.809213, 24.430106],
-    '嘉義縣竹崎鄉圓崇國民小學附設幼兒園' => [120.504025,23.49023],
+    '嘉義縣竹崎鄉圓崇國民小學附設幼兒園' => [120.504025, 23.49023],
 ];
 foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
@@ -62,11 +62,30 @@ foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
 }
 $pool['臺北市私立娃娃果幼兒園'] = [121.500215, 25.032718];
 
+$idPool = [];
+$idFile = $basePath . '/data/id.csv';
+if (file_exists($idFile)) {
+    $fh = fopen($idFile, 'r');
+    while ($line = fgetcsv($fh, 2048)) {
+        $idPool[$line[0]] = $line[1];
+    }
+}
+$idFh = fopen($idFile, 'a+');
+
 foreach (glob($basePath . '/data/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {
         $data = array_combine($head, $line);
+        $key = $data['reg_no'] . $data['title'];
+        if (isset($idPool[$key])) {
+            $uuid = $idPool[$key];
+        } else {
+            $uuid = uuid_create();
+            $idPool[$key] = $uuid;
+            fputcsv($idFh, [$key, $uuid]);
+        }
+        $data['id'] = $uuid;
         if (isset($monthlyPool[$data['title']])) {
             $data['monthly'] = $monthlyPool[$data['title']];
         } else {
