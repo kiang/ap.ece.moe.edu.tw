@@ -61,7 +61,7 @@ foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
     }
 }
 
-$listRedo = ['臺北市私立娃娃果幼兒園', '新北市私立葳瑪藝術幼兒園'];
+$listRedo = ['臺北市私立娃娃果幼兒園', '新北市私立葳瑪藝術幼兒園', '臺中市私立光大幼兒園'];
 
 foreach ($listRedo as $key) {
     if (isset($pool[$key])) {
