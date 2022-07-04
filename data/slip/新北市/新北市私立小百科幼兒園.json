@@ -20,8 +20,8 @@
         "pre_public": "110-112",
         "is_free5": "(110)",
         "is_after": "無",
-        "penalty": "無",
-        "has_slip": "yes"
+        "penalty": "有",
+        "has_slip": "no"
     },
     "slip": {
         "5": {
