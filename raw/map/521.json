@@ -1,98 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.874473,
-    "lng": 120.518811,
-    "sid": "MQAxADUAMgAxADAAMAAwADAAMQA=",
-    "name": "(準公共)財團法人天主教會台中教區附設彰化縣私立聖神幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8652757,
-    "lng": 120.5258916,
-    "sid": "MQAxADUAMgAxADAAMAAwADAAMgA=",
-    "name": "(準公共)彰化縣私立佳新幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8737463,
-    "lng": 120.5174806,
-    "sid": "MQAxADUAMgAxADAAMAAwADAAMwA=",
-    "name": "(準公共)彰化縣私立貝比幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8707032,
-    "lng": 120.5417579,
-    "sid": "MQAxADUAMgAxADAAMAAwADAANwA=",
-    "name": "(私立)彰化縣私立領袖幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8697533,
-    "lng": 120.524719,
-    "sid": "MQAxADUAMgAxADAAMAAwADAAOAA=",
-    "name": "(準公共)彰化縣私立北斗育心幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.869876,
-    "lng": 120.523705,
-    "sid": "MQAxADUAMgAxADAAMAAwADEAMAA=",
-    "name": "(準公共)彰化縣私立小豆豆幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8756441,
-    "lng": 120.523318,
-    "sid": "MQAxADUAMgAxADAAMAAwADEAMQA=",
-    "name": "(公立)彰化縣北斗鎮北斗國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.878427,
-    "lng": 120.5042393,
-    "sid": "MQAxADUAMgAxADAAMAAwADEAMgA=",
-    "name": "(準公共)彰化縣私立華桀幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8717011,
-    "lng": 120.521837,
-    "sid": "MQAxADUAMgAxADAAMAAwADEAMwA=",
-    "name": "(公立)彰化縣北斗鎮立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.866601,
-    "lng": 120.527264,
-    "sid": "MQAxADUAMgAxADAAMAAwADEANAA=",
-    "name": "(準公共)彰化縣私立強森幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.878135,
-    "lng": 120.504738,
-    "sid": "MQAxADUAMgAxADAAMAAwADEANQA=",
-    "name": "(準公共)彰化縣私立理想園幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8703432,
-    "lng": 120.522212,
-    "sid": "MQAxADUAMgAxADAAMAAwADEANgA=",
-    "name": "(非營利)彰化縣萬來非營利幼兒園（委託社團法人彰化縣友善教育公益協會辦理）",
-    "type": "spub2"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

@@ -1,98 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.852846,
-    "lng": 120.4974781,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAAMgA=",
-    "name": "(公立)彰化縣溪州鄉溪州國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.855495,
-    "lng": 120.492319,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAAMwA=",
-    "name": "(準公共)彰化縣私立維格幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8256336,
-    "lng": 120.5455892,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.851424,
-    "lng": 120.505426,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAAtADAAMQA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園東州分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8148211,
-    "lng": 120.511892,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAAtADAAMgA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園張厝分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.829344,
-    "lng": 120.467989,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAAtADAAMwA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園水尾分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8530642,
-    "lng": 120.4919908,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAAtADAANAA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園溪厝分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.827634,
-    "lng": 120.494426,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAAtADAANQA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園三條分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8521855,
-    "lng": 120.5119696,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAAtADAANgA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園舊眉分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.838607,
-    "lng": 120.5229924,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAAtADAANwA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園圳寮分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8159375,
-    "lng": 120.5671918,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAAtADAAOAA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園大庄分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.847135,
-    "lng": 120.535605,
-    "sid": "MQAxADUAMgA0ADAAMAAwADAANAAtADAAOQA=",
-    "name": "(公立)彰化縣溪州鄉立幼兒園西畔分班",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

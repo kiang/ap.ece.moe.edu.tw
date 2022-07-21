@@ -1,90 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 24.475804,
-    "lng": 121.785071,
-    "sid": "MAA0ADIANwAyADAAMAAwADAAMQA=",
-    "name": "(公立)宜蘭縣南澳鄉碧候國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.329299,
-    "lng": 121.739885,
-    "sid": "MAA0ADIANwAyADAAMAAwADAAMgA=",
-    "name": "(公立)宜蘭縣南澳鄉澳花國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.521542,
-    "lng": 121.832977,
-    "sid": "MAA0ADIANwAyADAAMAAwADAAMwA=",
-    "name": "(公立)宜蘭縣南澳鄉東澳國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.467195,
-    "lng": 121.801165,
-    "sid": "MAA0ADIANwAyADAAMAAwADAANAA=",
-    "name": "(公立)宜蘭縣南澳鄉南澳國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.465207,
-    "lng": 121.799669,
-    "sid": "MAA0ADIANwAyADAAMAAwADAANQA=",
-    "name": "(公立)宜蘭縣南澳鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.47443,
-    "lng": 121.786995,
-    "sid": "MAA0ADIANwAyADAAMAAwADAANQAtADAAMQA=",
-    "name": "(公立)宜蘭縣南澳鄉立幼兒園碧候分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.47301,
-    "lng": 121.786156,
-    "sid": "MAA0ADIANwAyADAAMAAwADAANQAtADAAMgA=",
-    "name": "(公立)宜蘭縣南澳鄉立幼兒園金岳分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.444118,
-    "lng": 121.777394,
-    "sid": "MAA0ADIANwAyADAAMAAwADAANQAtADAAMwA=",
-    "name": "(公立)宜蘭縣南澳鄉立幼兒園武塔分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.4256148,
-    "lng": 121.7488791,
-    "sid": "MAA0ADIANwAyADAAMAAwADAANQAtADAANAA=",
-    "name": "(公立)宜蘭縣南澳鄉立幼兒園金洋分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.4262307,
-    "lng": 121.7493115,
-    "sid": "MAA0ADIANwAyADAAMAAwADAANgA=",
-    "name": "(公立)宜蘭縣南澳鄉金洋國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.4478041,
-    "lng": 121.777456,
-    "sid": "MAA0ADIANwAyADAAMAAwADAANwA=",
-    "name": "(公立)宜蘭縣南澳鄉武塔國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

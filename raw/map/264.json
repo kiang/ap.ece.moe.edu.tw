@@ -1,66 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 24.7188831,
-    "lng": 121.6875013,
-    "sid": "MAA0ADIANgA0ADAAMAAwADAAMQA=",
-    "name": "(公立)宜蘭縣立內城國民中小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.7232631,
-    "lng": 121.723851,
-    "sid": "MAA0ADIANgA0ADAAMAAwADAAMgA=",
-    "name": "(公立)宜蘭縣員山鄉深溝國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.744484,
-    "lng": 121.723078,
-    "sid": "MAA0ADIANgA0ADAAMAAwADAAMwA=",
-    "name": "(公立)宜蘭縣員山鄉員山國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.747604,
-    "lng": 121.69136,
-    "sid": "MAA0ADIANgA0ADAAMAAwADAANAA=",
-    "name": "(非營利)宜蘭縣大湖非營利幼兒園(委託財團法人靖娟兒童安全文教基金會辦理)",
-    "type": "spub2"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.747848,
-    "lng": 121.727724,
-    "sid": "MAA0ADIANgA0ADAAMAAwADAANQA=",
-    "name": "(私立)宜蘭縣私立愛德福幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.739292,
-    "lng": 121.722401,
-    "sid": "MAA0ADIANgA0ADAAMAAwADAANgA=",
-    "name": "(準公共)財團法人大三鬮慈惠寺附設宜蘭縣私立幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.7180261,
-    "lng": 121.719643,
-    "sid": "MAA0ADIANgA0ADAAMAAwADAANwA=",
-    "name": "(公立)宜蘭縣員山鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.7628117,
-    "lng": 121.7287858,
-    "sid": "MAA0ADIANgA0ADAAMAAwADAAOAA=",
-    "name": "(公立)宜蘭縣員山鄉同樂國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

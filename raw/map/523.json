@@ -1,58 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.9169139,
-    "lng": 120.4594107,
-    "sid": "MQAxADUAMgAzADAAMAAwADAAMQA=",
-    "name": "(準公共)彰化縣私立大統幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.869886,
-    "lng": 120.49485,
-    "sid": "MQAxADUAMgAzADAAMAAwADAAMgA=",
-    "name": "(準公共)明道學校財團法人明道大學附設彰化縣私立明道幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8984404,
-    "lng": 120.4507549,
-    "sid": "MQAxADUAMgAzADAAMAAwADAAMwA=",
-    "name": "(準公共)彰化縣私立青青幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8984404,
-    "lng": 120.4507549,
-    "sid": "MQAxADUAMgAzADAAMAAwADAANAA=",
-    "name": "(準公共)彰化縣私立和欣幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8940961,
-    "lng": 120.459395,
-    "sid": "MQAxADUAMgAzADAAMAAwADAANQA=",
-    "name": "(公立)彰化縣埤頭鄉合興國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8882681,
-    "lng": 120.4608404,
-    "sid": "MQAxADUAMgAzADAAMAAwADAANgA=",
-    "name": "(公立)彰化縣埤頭鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.8925036,
-    "lng": 120.4783515,
-    "sid": "MQAxADUAMgAzADAAMAAwADAANwA=",
-    "name": "(非營利)彰化縣埤頭非營利幼兒園（委託社團法人彰化縣芸生學前教保學會辦理）",
-    "type": "spub2"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

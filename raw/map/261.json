@@ -1,82 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 24.8559119,
-    "lng": 121.818482,
-    "sid": "MAA0ADIANgAxADAAMAAwADAAMQA=",
-    "name": "(準公共)宜蘭縣私立狄士尼幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.8284621,
-    "lng": 121.800981,
-    "sid": "MAA0ADIANgAxADAAMAAwADAAMgA=",
-    "name": "(準公共)宜蘭縣私立育立幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.860734,
-    "lng": 121.821121,
-    "sid": "MAA0ADIANgAxADAAMAAwADAAMwA=",
-    "name": "(準公共)宜蘭縣私立赫伯特幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.923457,
-    "lng": 121.8836015,
-    "sid": "MAA0ADIANgAxADAAMAAwADAANAA=",
-    "name": "(公立)宜蘭縣頭城鎮大溪國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.825115,
-    "lng": 121.820763,
-    "sid": "MAA0ADIANgAxADAAMAAwADAANQA=",
-    "name": "(公立)宜蘭縣頭城鎮竹安國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.854073,
-    "lng": 121.825125,
-    "sid": "MAA0ADIANgAxADAAMAAwADAANgA=",
-    "name": "(公立)宜蘭縣頭城鎮頭城國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.8508381,
-    "lng": 121.816464,
-    "sid": "MAA0ADIANgAxADAAMAAwADAANwA=",
-    "name": "(準公共)國立頭城高級家事商業職業學校附設宜蘭縣私立幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.855871,
-    "lng": 121.825297,
-    "sid": "MAA0ADIANgAxADAAMAAwADAAOAA=",
-    "name": "(準公共)宜蘭縣私立亞艾幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.8591489,
-    "lng": 121.824974,
-    "sid": "MAA0ADIANgAxADAAMAAwADEAMAA=",
-    "name": "(公立)宜蘭縣頭城鎮立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.834733,
-    "lng": 121.802733,
-    "sid": "MAA0ADIANgAxADAAMAAwADEAMAAtADAANAA=",
-    "name": "(公立)宜蘭縣頭城鎮立幼兒園中崙分班",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

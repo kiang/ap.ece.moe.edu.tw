@@ -1,90 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 24.146814,
-    "lng": 120.484607,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAAMgA=",
-    "name": "(私立)彰化縣私立台大幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.1464918,
-    "lng": 120.4927614,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAAMwA=",
-    "name": "(私立)彰化縣私立幼愛幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.14453,
-    "lng": 120.492972,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAANAA=",
-    "name": "(私立)彰化縣私立愛米亞幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.1670441,
-    "lng": 120.4798975,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAANQA=",
-    "name": "(準公共)彰化縣私立富樂比幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.1598703,
-    "lng": 120.4917114,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAANgA=",
-    "name": "(準公共)彰化縣私立伸港大同幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.145011,
-    "lng": 120.485751,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAANwA=",
-    "name": "(準公共)彰化縣私立亮亮幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.1452427,
-    "lng": 120.4862989,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAAOAA=",
-    "name": "(私立)彰化縣私立育苗幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.145897,
-    "lng": 120.482758,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAAOQA=",
-    "name": "(私立)彰化縣私立梅花幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.1485479,
-    "lng": 120.487447,
-    "sid": "MQAxADUAMAA5ADAAMAAwADEAMAA=",
-    "name": "(公立)彰化縣伸港鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.1512699,
-    "lng": 120.4933682,
-    "sid": "MQAxADUAMAA5ADAAMAAwADEAMQA=",
-    "name": "(準公共)彰化縣私立森田國際幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.1469854,
-    "lng": 120.4763804,
-    "sid": "MQAxADUAMAA5ADAAMAAwADEAMgA=",
-    "name": "(非營利)彰化縣伸仁非營利幼兒園（委託社團法人大中華社會企業創新策略發展協會辦理）",
-    "type": "spub2"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]
