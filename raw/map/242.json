@@ -1,10 +1,874 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 25.0164309,
+    "lng": 121.425785,
+    "sid": "MAAzADIANAAyADAAMAAwADAAMQA=",
+    "name": "(私立)新北市私立安安幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.025451,
+    "lng": 121.427395,
+    "sid": "MAAzADIANAAyADAAMAAwADAAMgA=",
+    "name": "(私立)新北市私立維尼芽幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0340429,
+    "lng": 121.4440261,
+    "sid": "MAAzADIANAAyADAAMAAwADAAMwA=",
+    "name": "(私立)新北市私立太陽花幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0477507,
+    "lng": 121.4593526,
+    "sid": "MAAzADIANAAyADAAMAAwADAANQA=",
+    "name": "(準公共)新北市私立思源幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.975565,
+    "lng": 121.438773,
+    "sid": "MAAzADIANAAyADAAMAAwADAANgA=",
+    "name": "(私立)新北市私立吉尼爾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.028673,
+    "lng": 121.444103,
+    "sid": "MAAzADIANAAyADAAMAAwADAANwA=",
+    "name": "(準公共)新北市私立生活家幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0519589,
+    "lng": 121.448654,
+    "sid": "MAAzADIANAAyADAAMAAwADAAOAA=",
+    "name": "(私立)新北市私立悠幼幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.025237,
+    "lng": 121.414978,
+    "sid": "MAAzADIANAAyADAAMAAwADAAOQA=",
+    "name": "(私立)新北市私立超級小太陽幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.053706,
+    "lng": 121.45353,
+    "sid": "MAAzADIANAAyADAAMAAwADEAMAA=",
+    "name": "(私立)新北市私立和智幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0358599,
+    "lng": 121.450682,
+    "sid": "MAAzADIANAAyADAAMAAwADEAMQA=",
+    "name": "(私立)財團法人天主教會台北教區附設新北市私立鳴遠幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.040913,
+    "lng": 121.458503,
+    "sid": "MAAzADIANAAyADAAMAAwADEAMgA=",
+    "name": "(準公共)新北市私立親親袋鼠幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.03653,
+    "lng": 121.455226,
+    "sid": "MAAzADIANAAyADAAMAAwADEAMwA=",
+    "name": "(準公共)新北市私立傑安幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.017051,
+    "lng": 121.428278,
+    "sid": "MAAzADIANAAyADAAMAAwADEANAA=",
+    "name": "(私立)新北市私立愛蜜立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0444939,
+    "lng": 121.4617608,
+    "sid": "MAAzADIANAAyADAAMAAwADEANgA=",
+    "name": "(私立)建豐建設股份有限公司附設新北市私立卡爾維德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.040672,
+    "lng": 121.456939,
+    "sid": "MAAzADIANAAyADAAMAAwADEANwA=",
+    "name": "(私立)新北市私立大世紀幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0284639,
+    "lng": 121.4148909,
+    "sid": "MAAzADIANAAyADAAMAAwADEAOAA=",
+    "name": "(私立)新北市私立晨光幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050514,
+    "lng": 121.447946,
+    "sid": "MAAzADIANAAyADAAMAAwADIAMQA=",
+    "name": "(私立)新北市私立新榮富新莊幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0510428,
+    "lng": 121.4572435,
+    "sid": "MAAzADIANAAyADAAMAAwADIAMwA=",
+    "name": "(私立)新北市私立何嘉仁昌隆幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.052479,
+    "lng": 121.467805,
+    "sid": "MAAzADIANAAyADAAMAAwADIANAA=",
+    "name": "(私立)新北市私立勵輝國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0197212,
+    "lng": 121.4208644,
+    "sid": "MAAzADIANAAyADAAMAAwADIANQA=",
+    "name": "(私立)新北市私立永錡裕民幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050847,
+    "lng": 121.446664,
+    "sid": "MAAzADIANAAyADAAMAAwADIANwA=",
+    "name": "(私立)新北市私立何嘉仁幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.05247,
+    "lng": 121.46781,
+    "sid": "MAAzADIANAAyADAAMAAwADIAOAA=",
+    "name": "(私立)新北市私立勵輝幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0235209,
+    "lng": 121.416358,
+    "sid": "MAAzADIANAAyADAAMAAwADIAOQA=",
+    "name": "(私立)新北市私立傑瑞兒童村幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050925,
+    "lng": 121.447355,
+    "sid": "MAAzADIANAAyADAAMAAwADMAMAA=",
+    "name": "(私立)新北市私立榮欣幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050937,
+    "lng": 121.448349,
+    "sid": "MAAzADIANAAyADAAMAAwADMAMQA=",
+    "name": "(私立)新北市私立新榮富幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0517479,
+    "lng": 121.467135,
+    "sid": "MAAzADIANAAyADAAMAAwADMAMgA=",
+    "name": "(準公共)新北市私立塏地安幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050704,
+    "lng": 121.455965,
+    "sid": "MAAzADIANAAyADAAMAAwADMAMwA=",
+    "name": "(私立)新北市私立文笙幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0358477,
+    "lng": 121.4505431,
+    "sid": "MAAzADIANAAyADAAMAAwADMANQA=",
+    "name": "(私立)新北市私立建和幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.045114,
+    "lng": 121.457355,
+    "sid": "MAAzADIANAAyADAAMAAwADMANwA=",
+    "name": "(私立)新北市私立民生幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.052453,
+    "lng": 121.456671,
+    "sid": "MAAzADIANAAyADAAMAAwADMAOAA=",
+    "name": "(準公共)新北市私立凱達格蘭幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.026647,
+    "lng": 121.429208,
+    "sid": "MAAzADIANAAyADAAMAAwADMAOQA=",
+    "name": "(私立)新北市私立惠文小熊森林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.054306,
+    "lng": 121.4506925,
+    "sid": "MAAzADIANAAyADAAMAAwADQAMAA=",
+    "name": "(私立)新北市私立喬聖幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.048697,
+    "lng": 121.465518,
+    "sid": "MAAzADIANAAyADAAMAAwADQAMQA=",
+    "name": "(準公共)新北市私立惠群幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.017875,
+    "lng": 121.4265915,
+    "sid": "MAAzADIANAAyADAAMAAwADQAMgA=",
+    "name": "(私立)新北市私立寧馨園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.054706,
+    "lng": 121.464061,
+    "sid": "MAAzADIANAAyADAAMAAwADQANAA=",
+    "name": "(準公共)新北市私立傑出幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.053239,
+    "lng": 121.466497,
+    "sid": "MAAzADIANAAyADAAMAAwADQANQA=",
+    "name": "(私立)新北市私立僑治亞頭前幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.026568,
+    "lng": 121.428232,
+    "sid": "MAAzADIANAAyADAAMAAwADQANgA=",
+    "name": "(準公共)新北市私立捷群幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0088949,
+    "lng": 121.428039,
+    "sid": "MAAzADIANAAyADAAMAAwADQANwA=",
+    "name": "(私立)新北市私立永錡光華幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.036966,
+    "lng": 121.445494,
+    "sid": "MAAzADIANAAyADAAMAAwADQAOAA=",
+    "name": "(準公共)新北市私立幼愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.041888,
+    "lng": 121.453756,
+    "sid": "MAAzADIANAAyADAAMAAwADUAMAA=",
+    "name": "(私立)新北市私立欣園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.05089,
+    "lng": 121.44669,
+    "sid": "MAAzADIANAAyADAAMAAwADUAMQA=",
+    "name": "(私立)新北市私立榮富幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.027923,
+    "lng": 121.432619,
+    "sid": "MAAzADIANAAyADAAMAAwADUAMgA=",
+    "name": "(私立)新北市私立意秋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.053828,
+    "lng": 121.447801,
+    "sid": "MAAzADIANAAyADAAMAAwADUAMwA=",
+    "name": "(準公共)新北市私立格登幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.047226,
+    "lng": 121.444167,
+    "sid": "MAAzADIANAAyADAAMAAwADUANAA=",
+    "name": "(私立)新北市私立慷乃兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0534402,
+    "lng": 121.4491895,
+    "sid": "MAAzADIANAAyADAAMAAwADUANQA=",
+    "name": "(準公共)新北市私立育誠幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.046001,
+    "lng": 121.451991,
+    "sid": "MAAzADIANAAyADAAMAAwADUANwA=",
+    "name": "(私立)新北市私立青園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.011272,
+    "lng": 121.428591,
+    "sid": "MAAzADIANAAyADAAMAAwADUAOAA=",
+    "name": "(私立)新北市私立永松幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0212811,
+    "lng": 121.4245805,
+    "sid": "MAAzADIANAAyADAAMAAwADYAMAA=",
+    "name": "(私立)新北市私立千暉幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0541128,
+    "lng": 121.455337,
+    "sid": "MAAzADIANAAyADAAMAAwADYAMQA=",
+    "name": "(私立)夏恩國際教育股份有限公司附設新北市私立夏恩昌隆幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0206169,
+    "lng": 121.417292,
+    "sid": "MAAzADIANAAyADAAMAAwADYAMgA=",
+    "name": "(準公共)新北市私立健群幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0444024,
+    "lng": 121.4482144,
+    "sid": "MAAzADIANAAyADAAMAAwADYAMwA=",
+    "name": "(私立)天億文教事業股份有限公司附設新北市私立皇家幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.024205,
+    "lng": 121.423618,
+    "sid": "MAAzADIANAAyADAAMAAwADYANAA=",
+    "name": "(私立)新北市私立奇異鳥幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.042638,
+    "lng": 121.445802,
+    "sid": "MAAzADIANAAyADAAMAAwADYANQA=",
+    "name": "(準公共)新北市私立宏仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.027737,
+    "lng": 121.418322,
+    "sid": "MAAzADIANAAyADAAMAAwADYANgA=",
+    "name": "(私立)新北市私立心慈幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0243772,
+    "lng": 121.4193618,
+    "sid": "MAAzADIANAAyADAAMAAwADYANwA=",
+    "name": "(私立)新北市私立育全幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.054008,
+    "lng": 121.450892,
+    "sid": "MAAzADIANAAyADAAMAAwADYAOAA=",
+    "name": "(私立)新北市私立僑治亞幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.054008,
+    "lng": 121.450892,
+    "sid": "MAAzADIANAAyADAAMAAwADYAOAAtADAAMQA=",
+    "name": "(私立)新北市私立僑治亞幼兒園中港分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.020578,
+    "lng": 121.429403,
+    "sid": "MAAzADIANAAyADAAMAAwADYAOQA=",
+    "name": "(私立)新北市私立成德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.023415,
+    "lng": 121.427342,
+    "sid": "MAAzADIANAAyADAAMAAwADcAMQA=",
+    "name": "(私立)新北市私立惠文領袖幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.045447,
+    "lng": 121.44449,
+    "sid": "MAAzADIANAAyADAAMAAwADcAMgA=",
+    "name": "(準公共)新北市私立尼爾生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.024249,
+    "lng": 121.4234987,
+    "sid": "MAAzADIANAAyADAAMAAwADcANAA=",
+    "name": "(私立)新北市私立成功幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.027381,
+    "lng": 121.426404,
+    "sid": "MAAzADIANAAyADAAMAAwADcANQA=",
+    "name": "(準公共)新北市私立杜克幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0451349,
+    "lng": 121.446941,
+    "sid": "MAAzADIANAAyADAAMAAwADcANgA=",
+    "name": "(公立)新北市新莊區中港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.051017,
+    "lng": 121.456075,
+    "sid": "MAAzADIANAAyADAAMAAwADcANwA=",
+    "name": "(公立)新北市新莊區昌隆國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.022039,
+    "lng": 121.428339,
+    "sid": "MAAzADIANAAyADAAMAAwADcAOAA=",
+    "name": "(公立)新北市新莊區民安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0341759,
+    "lng": 121.441958,
+    "sid": "MAAzADIANAAyADAAMAAwADcAOQA=",
+    "name": "(公立)新北市新莊區國泰國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0284648,
+    "lng": 121.4122412,
+    "sid": "MAAzADIANAAyADAAMAAwADgAMAA=",
+    "name": "(公立)新北市新莊區丹鳳國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.052798,
+    "lng": 121.466084,
+    "sid": "MAAzADIANAAyADAAMAAwADgAMQA=",
+    "name": "(公立)新北市新莊區頭前國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0370169,
+    "lng": 121.456441,
+    "sid": "MAAzADIANAAyADAAMAAwADgAMgA=",
+    "name": "(公立)新北市新莊區新莊國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.045682,
+    "lng": 121.457372,
+    "sid": "MAAzADIANAAyADAAMAAwADgAMwA=",
+    "name": "(公立)新北市新莊區思賢國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.021999,
+    "lng": 121.418143,
+    "sid": "MAAzADIANAAyADAAMAAwADgANAA=",
+    "name": "(公立)新北市新莊區裕民國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.04629,
+    "lng": 121.451873,
+    "sid": "MAAzADIANAAyADAAMAAwADgANQA=",
+    "name": "(公立)新北市立新莊幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.029391,
+    "lng": 121.427804,
+    "sid": "MAAzADIANAAyADAAMAAwADgANQAtADAAMgA=",
+    "name": "(公立)新北市立新莊幼兒園中心分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0309851,
+    "lng": 121.4487603,
+    "sid": "MAAzADIANAAyADAAMAAwADgANQAtADAAMwA=",
+    "name": "(公立)新北市立新莊幼兒園三合分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0383599,
+    "lng": 121.444025,
+    "sid": "MAAzADIANAAyADAAMAAwADgANgA=",
+    "name": "(公立)新北市新莊區新泰國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.051313,
+    "lng": 121.447297,
+    "sid": "MAAzADIANAAyADAAMAAwADgANwA=",
+    "name": "(公立)新北市新莊區榮富國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.056062,
+    "lng": 121.44802,
+    "sid": "MAAzADIANAAyADAAMAAwADgAOAA=",
+    "name": "(公立)新北市新莊區中信國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.065854,
+    "lng": 121.461594,
+    "sid": "MAAzADIANAAyADAAMAAwADgAOQA=",
+    "name": "(公立)新北市新莊區興化國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.031217,
+    "lng": 121.443369,
+    "sid": "MAAzADIANAAyADAAMAAwADkAMAA=",
+    "name": "(公立)新北市新莊區豐年國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.017455,
+    "lng": 121.425651,
+    "sid": "MAAzADIANAAyADAAMAAwADkAMQA=",
+    "name": "(公立)新北市新莊區光華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.055839,
+    "lng": 121.459546,
+    "sid": "MAAzADIANAAyADAAMAAwADkAMgA=",
+    "name": "(公立)新北市立頭前國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.042521,
+    "lng": 121.444175,
+    "sid": "MAAzADIANAAyADAAMAAwADkAMwA=",
+    "name": "(公立)新北市立新泰國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.035196,
+    "lng": 121.432019,
+    "sid": "MAAzADIANAAyADAAMAAwADkANAA=",
+    "name": "(私立)輔仁大學學校財團法人輔仁大學附設新北市私立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.053468,
+    "lng": 121.449077,
+    "sid": "MAAzADIANAAyADAAMAAwADkANQA=",
+    "name": "(準公共)新北市私立育誠中榮幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0088949,
+    "lng": 121.428039,
+    "sid": "MAAzADIANAAyADAAMAAwADkANgA=",
+    "name": "(私立)新北市私立永錡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050989,
+    "lng": 121.453944,
+    "sid": "MAAzADIANAAyADAAMAAwADkANwA=",
+    "name": "(私立)新北市私立勁寶兒晨星園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.046755,
+    "lng": 121.448436,
+    "sid": "MAAzADIANAAyADAAMAAwADkAOAA=",
+    "name": "(準公共)新北市私立文理幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.036539,
+    "lng": 121.45276,
+    "sid": "MAAzADIANAAyADAAMAAwADkAOQA=",
+    "name": "(私立)財團法人天主教會台北教區附設新北市私立恆毅幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.041403,
+    "lng": 121.457874,
+    "sid": "MAAzADIANAAyADAAMAAxADAAMQA=",
+    "name": "(準公共)新北市私立新育幼幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0338,
+    "lng": 121.448912,
+    "sid": "MAAzADIANAAyADAAMAAxADAAMgA=",
+    "name": "(私立)新北市私立妙博士幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0435452,
+    "lng": 121.45161,
+    "sid": "MAAzADIANAAyADAAMAAxADAAMwA=",
+    "name": "(私立)新北市私立福華幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.022137,
+    "lng": 121.417441,
+    "sid": "MAAzADIANAAyADAAMAAxADAANAA=",
+    "name": "(私立)新北市私立儒林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.048054,
+    "lng": 121.449273,
+    "sid": "MAAzADIANAAyADAAMAAxADAANQA=",
+    "name": "(準公共)新北市私立及人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.02551,
+    "lng": 121.4176,
+    "sid": "MAAzADIANAAyADAAMAAxADAANgA=",
+    "name": "(準公共)新北市私立惠園幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0232009,
+    "lng": 121.42581,
+    "sid": "MAAzADIANAAyADAAMAAxADAAOQA=",
+    "name": "(私立)新北市私立楷模幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.054088,
+    "lng": 121.455696,
+    "sid": "MAAzADIANAAyADAAMAAxADEAMAA=",
+    "name": "(私立)新北市私立大鵬鳥幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050511,
+    "lng": 121.45699,
+    "sid": "MAAzADIANAAyADAAMAAxADEAMgA=",
+    "name": "(私立)新北市私立互仁幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.032668,
+    "lng": 121.44959,
+    "sid": "MAAzADIANAAyADAAMAAxADEAMwA=",
+    "name": "(私立)新北市私立寶貝家族幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0172159,
+    "lng": 121.426451,
+    "sid": "MAAzADIANAAyADAAMAAxADEANAA=",
+    "name": "(私立)新北市私立民安幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.027424,
+    "lng": 121.443394,
+    "sid": "MAAzADIANAAyADAAMAAxADEANQA=",
+    "name": "(私立)新北市私立蓮育幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.021445,
+    "lng": 121.4270469,
+    "sid": "MAAzADIANAAyADAAMAAxADIAMQA=",
+    "name": "(私立)新北市私立永錡新莊幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0573104,
+    "lng": 121.4532083,
+    "sid": "MAAzADIANAAyADAAMAAxADIAMgA=",
+    "name": "(私立)新北市私立英勝幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0563864,
+    "lng": 121.4553489,
+    "sid": "MAAzADIANAAyADAAMAAxADIAMwA=",
+    "name": "(非營利)新北市昌平非營利幼兒園（委託財團法人三之三生命教育基金會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0205795,
+    "lng": 121.4299914,
+    "sid": "MAAzADIANAAyADAAMAAxADIANAA=",
+    "name": "(私立)新北市私立成德菁英幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0541244,
+    "lng": 121.4434393,
+    "sid": "MAAzADIANAAyADAAMAAxADIANQA=",
+    "name": "(非營利)新北市中平非營利幼兒園(委託社團法人新北市中華國際嬰幼兒發展學會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.056096,
+    "lng": 121.443924,
+    "sid": "MAAzADIANAAyADAAMAAxADIANgA=",
+    "name": "(私立)社團法人新竹市教保人員協會附設新北市私立新莊聯合幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.025323,
+    "lng": 121.422605,
+    "sid": "MAAzADIANAAyADAAMAAxADIANwA=",
+    "name": "(非營利)新北市福營非營利幼兒園(委託社團法人中華兆陽文教發展協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0577721,
+    "lng": 121.4567335,
+    "sid": "MAAzADIANAAyADAAMAAxADIAOAA=",
+    "name": "(私立)新北市私立育勝幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0405446,
+    "lng": 121.451806,
+    "sid": "MAAzADIANAAyADAAMAAxADIAOQA=",
+    "name": "(非營利)新北市新樂非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+    "type": "spub2"
   }
 ]

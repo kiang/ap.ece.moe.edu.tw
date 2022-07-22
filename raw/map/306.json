@@ -1,10 +1,90 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.778796,
+    "lng": 121.177335,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAAMgA=",
+    "name": "(準公共)新竹縣私立愛加倍幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.745532999999998,
+    "lng": 121.079093,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAAMwA=",
+    "name": "(準公共)新竹縣私立中國兒童幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.79308,
+    "lng": 121.17425,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAANAA=",
+    "name": "(準公共)新竹縣私立立人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.791933,
+    "lng": 121.174609,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAANQA=",
+    "name": "(公立)新竹縣關西鎮關西國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.789544,
+    "lng": 121.183408,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAANgA=",
+    "name": "(公立)新竹縣關西鎮東安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.758087,
+    "lng": 121.208749,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAANwA=",
+    "name": "(公立)新竹縣關西鎮玉山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.776106,
+    "lng": 121.17585,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAAOAA=",
+    "name": "(公立)新竹縣關西鎮東光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.81408,
+    "lng": 121.129666,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAAOQA=",
+    "name": "(公立)新竹縣關西鎮石光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.801276,
+    "lng": 121.140403,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADEAMgA=",
+    "name": "(公立)新竹縣關西鎮坪林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7884699,
+    "lng": 121.1857136,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADEAMwA=",
+    "name": "(準公共)新竹縣私立關高幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7691238,
+    "lng": 121.2251176,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADEANAA=",
+    "name": "(公立)新竹縣關西鎮錦山國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

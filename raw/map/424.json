@@ -1,10 +1,66 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.177121,
+    "lng": 120.979723,
+    "sid": "MAA5ADQAMgA0ADAAMAAwADAAMQA=",
+    "name": "(公立)臺中市和平區博愛國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.183185,
+    "lng": 120.930169,
+    "sid": "MAA5ADQAMgA0ADAAMAAwADAAMgA=",
+    "name": "(公立)臺中市和平區白冷國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.255649,
+    "lng": 121.259419,
+    "sid": "MAA5ADQAMgA0ADAAMAAwADAAMwA=",
+    "name": "(公立)臺中市立梨山國民中小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.177616,
+    "lng": 120.979981,
+    "sid": "MAA5ADQAMgA0ADAAMAAwADAANAA=",
+    "name": "(公立)臺中市和平區立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2922946,
+    "lng": 120.9109318,
+    "sid": "MAA5ADQAMgA0ADAAMAAwADAANAAtADAAMQA=",
+    "name": "(公立)臺中市和平區立幼兒園雙崎分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3056101,
+    "lng": 121.2847188,
+    "sid": "MAA5ADQAMgA0ADAAMAAwADAANAAtADAAMgA=",
+    "name": "(公立)臺中市和平區立幼兒園環山分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.328048,
+    "lng": 120.919784,
+    "sid": "MAA5ADQAMgA0ADAAMAAwADAANAAtADAAMwA=",
+    "name": "(公立)臺中市和平區立幼兒園達觀分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1711472,
+    "lng": 120.895757,
+    "sid": "MAA5ADQAMgA0ADAAMAAwADAANQA=",
+    "name": "(公立)臺中市和平區和平國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

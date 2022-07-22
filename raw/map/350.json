@@ -1,10 +1,306 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.68503,
+    "lng": 120.877508,
+    "sid": "MAA4ADMANQAwADAAMAAwADAAMQA=",
+    "name": "(準公共)財團法人苗栗縣私立文鳥幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.684407,
+    "lng": 120.871749,
+    "sid": "MAA4ADMANQAwADAAMAAwADAAMgA=",
+    "name": "(準公共)苗栗縣私立輔仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.702612,
+    "lng": 120.873229,
+    "sid": "MAA4ADMANQAwADAAMAAwADAANAA=",
+    "name": "(準公共)苗栗縣私立惠能幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6718901,
+    "lng": 120.8636981,
+    "sid": "MAA4ADMANQAwADAAMAAwADAANQA=",
+    "name": "(準公共)苗栗縣私立種子幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.697075,
+    "lng": 120.876386,
+    "sid": "MAA4ADMANQAwADAAMAAwADAANgA=",
+    "name": "(準公共)苗栗縣私立尼采幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.693123,
+    "lng": 120.88266,
+    "sid": "MAA4ADMANQAwADAAMAAwADAANwA=",
+    "name": "(準公共)苗栗縣私立佳聲幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6962341,
+    "lng": 120.874778,
+    "sid": "MAA4ADMANQAwADAAMAAwADAAOAA=",
+    "name": "(準公共)苗栗縣私立智慧幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.701898,
+    "lng": 120.884441,
+    "sid": "MAA4ADMANQAwADAAMAAwADEAMAA=",
+    "name": "(私立)苗栗縣私立民喬幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7138257,
+    "lng": 120.9181565,
+    "sid": "MAA4ADMANQAwADAAMAAwADEAMQA=",
+    "name": "(私立)苗栗縣私立藝禾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7009219,
+    "lng": 120.8786026,
+    "sid": "MAA4ADMANQAwADAAMAAwADEAMgA=",
+    "name": "(準公共)苗栗縣私立高爾夫幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7070819,
+    "lng": 120.9146404,
+    "sid": "MAA4ADMANQAwADAAMAAwADEAMwA=",
+    "name": "(準公共)財團法人國家衛生研究院附設苗栗縣私立幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6849051,
+    "lng": 120.86832,
+    "sid": "MAA4ADMANQAwADAAMAAwADEANAA=",
+    "name": "(私立)苗栗縣私立夏禾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6887646,
+    "lng": 120.8667778,
+    "sid": "MAA4ADMANQAwADAAMAAwADEANQA=",
+    "name": "(準公共)苗栗縣私立永一幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6885011,
+    "lng": 120.8745275,
+    "sid": "MAA4ADMANQAwADAAMAAwADEANgA=",
+    "name": "(準公共)苗栗縣私立惠揚幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6878775,
+    "lng": 120.874134,
+    "sid": "MAA4ADMANQAwADAAMAAwADEANwA=",
+    "name": "(準公共)苗栗縣私立惠揚小耶魯幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.691427,
+    "lng": 120.863926,
+    "sid": "MAA4ADMANQAwADAAMAAwADEAOAA=",
+    "name": "(準公共)苗栗縣私立奇奇幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6798799,
+    "lng": 120.87050009,
+    "sid": "MAA4ADMANQAwADAAMAAwADEAOQA=",
+    "name": "(準公共)苗栗縣私立康乃爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6789162,
+    "lng": 120.8592085,
+    "sid": "MAA4ADMANQAwADAAMAAwADIAMAA=",
+    "name": "(準公共)苗栗縣私立妙妙成長幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6917621,
+    "lng": 120.863706,
+    "sid": "MAA4ADMANQAwADAAMAAwADIAMQA=",
+    "name": "(準公共)苗栗縣私立巧兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.702290001,
+    "lng": 120.880101,
+    "sid": "MAA4ADMANQAwADAAMAAwADIAMgA=",
+    "name": "(準公共)苗栗縣私立佳佳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.699501,
+    "lng": 120.882843,
+    "sid": "MAA4ADMANQAwADAAMAAwADIANAA=",
+    "name": "(準公共)苗栗縣私立風車幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.67921,
+    "lng": 120.8636385,
+    "sid": "MAA4ADMANQAwADAAMAAwADIANQA=",
+    "name": "(準公共)苗栗縣私立珍珍蘿蔓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.690737,
+    "lng": 120.870937,
+    "sid": "MAA4ADMANQAwADAAMAAwADIANgA=",
+    "name": "(準公共)苗栗縣私立如興幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.699161,
+    "lng": 120.878489,
+    "sid": "MAA4ADMANQAwADAAMAAwADIANwA=",
+    "name": "(準公共)苗栗縣私立群林幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6922814,
+    "lng": 120.8748118,
+    "sid": "MAA4ADMANQAwADAAMAAwADIAOAA=",
+    "name": "(準公共)苗栗縣私立群立幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6995899,
+    "lng": 120.8871655,
+    "sid": "MAA4ADMANQAwADAAMAAwADMAMAA=",
+    "name": "(私立)苗栗縣私立史丹佛幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.693266,
+    "lng": 120.86477,
+    "sid": "MAA4ADMANQAwADAAMAAwADMAMgA=",
+    "name": "(公立)苗栗縣竹南鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.688299,
+    "lng": 120.884862,
+    "sid": "MAA4ADMANQAwADAAMAAwADMAMwA=",
+    "name": "(非營利)苗栗縣新南非營利幼兒園（委託財團法人幼兒教育基金會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.696352,
+    "lng": 120.878067,
+    "sid": "MAA4ADMANQAwADAAMAAwADMANAA=",
+    "name": "(準公共)苗栗縣私立青欣幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.708428,
+    "lng": 120.889798,
+    "sid": "MAA4ADMANQAwADAAMAAwADMANQA=",
+    "name": "(公立)苗栗縣竹南鎮大埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.709067,
+    "lng": 120.882466,
+    "sid": "MAA4ADMANQAwADAAMAAwADMANgA=",
+    "name": "(準公共)苗栗縣私立瑞彼特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.707849,
+    "lng": 120.9236554,
+    "sid": "MAA4ADMANQAwADAAMAAwADMAOAA=",
+    "name": "(公立)苗栗縣竹南鎮頂埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6732462,
+    "lng": 120.8664256,
+    "sid": "MAA4ADMANQAwADAAMAAwADMAOQA=",
+    "name": "(準公共)苗栗縣私立康乃薾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6751678,
+    "lng": 120.8613956,
+    "sid": "MAA4ADMANQAwADAAMAAwADQAMAA=",
+    "name": "(非營利)苗栗縣海口非營利幼兒園（委託社團法人苗栗縣惠揚關懷協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7056131,
+    "lng": 120.9033439,
+    "sid": "MAA4ADMANQAwADAAMAAwADQAMQA=",
+    "name": "(私立)苗栗縣私立真心幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6871198,
+    "lng": 120.8649731,
+    "sid": "MAA4ADMANQAwADAAMAAwADQAMgA=",
+    "name": "(非營利)苗栗縣竹興非營利幼兒園（委託社團法人臺灣亞洲學前教育培訓協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.6940785,
+    "lng": 120.8794497,
+    "sid": "MAA4ADMANQAwADAAMAAwADQAMwA=",
+    "name": "(非營利)苗栗縣照南非營利幼兒園（委託明新學校財團法人設立之明新科技大學辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7019155,
+    "lng": 120.878402,
+    "sid": "MAA4ADMANQAwADAAMAAwADQANAA=",
+    "name": "(非營利)苗栗縣山佳非營利幼兒園（委託社團法人新竹縣遠見多元教育發展協會辦理）",
+    "type": "spub2"
   }
 ]

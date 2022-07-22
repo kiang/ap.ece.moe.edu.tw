@@ -1,10 +1,58 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 25.222219,
+    "lng": 121.635915,
+    "sid": "MAAzADIAMAA4ADAAMAAwADAAMQA=",
+    "name": "(準公共)財團法人天主教聖母聖心會附設新北市私立天仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.222663,
+    "lng": 121.636674,
+    "sid": "MAAzADIAMAA4ADAAMAAwADAAMgA=",
+    "name": "(公立)新北市立金山幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.221564,
+    "lng": 121.632069,
+    "sid": "MAAzADIAMAA4ADAAMAAwADAAMgAtADAAMQA=",
+    "name": "(公立)新北市立金山幼兒園中正中華分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.222103,
+    "lng": 121.610791,
+    "sid": "MAAzADIAMAA4ADAAMAAwADAAMwA=",
+    "name": "(公立)新北市金山區三和國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.239585,
+    "lng": 121.630518,
+    "sid": "MAAzADIAMAA4ADAAMAAwADAANAA=",
+    "name": "(公立)新北市金山區中角國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.220878,
+    "lng": 121.63677,
+    "sid": "MAAzADIAMAA4ADAAMAAwADAANQA=",
+    "name": "(公立)新北市金山區金美國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.222637,
+    "lng": 121.636694,
+    "sid": "MAAzADIAMAA4ADAAMAAwADAANgA=",
+    "name": "(公立)新北市金山區金山國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

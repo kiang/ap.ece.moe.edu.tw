@@ -1,10 +1,58 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.491229,
+    "lng": 120.787802,
+    "sid": "MAA4ADMANgA2ADAAMAAwADAAMgA=",
+    "name": "(私立)財團法人台灣省天主教會新竹教區附設苗栗縣私立聖愛幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.462571,
+    "lng": 120.811623,
+    "sid": "MAA4ADMANgA2ADAAMAAwADAANAA=",
+    "name": "(公立)苗栗縣銅鑼鄉興隆國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.490281,
+    "lng": 120.790918,
+    "sid": "MAA4ADMANgA2ADAAMAAwADAANQA=",
+    "name": "(公立)苗栗縣銅鑼鄉銅鑼國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.473098,
+    "lng": 120.776556,
+    "sid": "MAA4ADMANgA2ADAAMAAwADAANwA=",
+    "name": "(公立)苗栗縣銅鑼鄉九湖國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.4618418,
+    "lng": 120.7879075,
+    "sid": "MAA4ADMANgA2ADAAMAAwADAAOAA=",
+    "name": "(公立)苗栗縣銅鑼鄉文峰國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.498317,
+    "lng": 120.809564,
+    "sid": "MAA4ADMANgA2ADAAMAAwADAAOQA=",
+    "name": "(公立)苗栗縣銅鑼鄉中興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.4296139,
+    "lng": 120.808993,
+    "sid": "MAA4ADMANgA2ADAAMAAwADEAMAA=",
+    "name": "(公立)苗栗縣銅鑼鄉新隆國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

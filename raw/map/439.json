@@ -1,10 +1,50 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.355556,
+    "lng": 120.5991695,
+    "sid": "MAA5ADQAMwA5ADAAMAAwADAAMQA=",
+    "name": "(準公共)臺中市私立我家幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.351417,
+    "lng": 120.584188,
+    "sid": "MAA5ADQAMwA5ADAAMAAwADAANAA=",
+    "name": "(準公共)臺中市私立美強生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.382261,
+    "lng": 120.606351,
+    "sid": "MAA5ADQAMwA5ADAAMAAwADAANQA=",
+    "name": "(公立)臺中市大安區永安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.348719,
+    "lng": 120.60823,
+    "sid": "MAA5ADQAMwA5ADAAMAAwADAANgA=",
+    "name": "(公立)臺中市立大安幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.345242,
+    "lng": 120.587603,
+    "sid": "MAA5ADQAMwA5ADAAMAAwADAANwA=",
+    "name": "(公立)臺中市大安區大安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.379049,
+    "lng": 120.588336,
+    "sid": "MAA5ADQAMwA5ADAAMAAwADAAOAA=",
+    "name": "(公立)臺中市大安區海墘國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

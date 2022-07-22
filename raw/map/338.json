@@ -1,10 +1,482 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 25.0220546,
+    "lng": 121.2646811,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADAAMQA=",
+    "name": "(私立)桃園市私立維妮兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0449079,
+    "lng": 121.2899,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADAAMwA=",
+    "name": "(私立)桃園市私立立得幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.040581,
+    "lng": 121.286816,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADAANAA=",
+    "name": "(準公共)桃園市私立方圓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.053658,
+    "lng": 121.3030793,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADAANQA=",
+    "name": "(私立)桃園市私立晨鐘幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.044119,
+    "lng": 121.296531,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADAANgA=",
+    "name": "(私立)桃園市私立長欣幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0400263,
+    "lng": 121.2913521,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADAANwA=",
+    "name": "(私立)桃園市私立春天幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.034916,
+    "lng": 121.252196,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADAAOAA=",
+    "name": "(私立)桃園市私立芳棋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0535262,
+    "lng": 121.3003952,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADAAOQA=",
+    "name": "(私立)桃園市私立日愛幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0482746,
+    "lng": 121.2916821,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEAMAA=",
+    "name": "(私立)桃園市私立桃園維多利亞幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0528976,
+    "lng": 121.2947167,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEAMQA=",
+    "name": "(準公共)桃園市私立康橋幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9952027,
+    "lng": 121.2740858,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEAMgA=",
+    "name": "(準公共)桃園市私立惠思頓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9752859,
+    "lng": 121.300557,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEAMwA=",
+    "name": "(私立)桃園市私立快樂營幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.025692,
+    "lng": 121.260338,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAA=",
+    "name": "(公立)桃園市立蘆竹幼兒園南竹分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.024089,
+    "lng": 121.248937,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADAAMwA=",
+    "name": "(公立)桃園市立蘆竹幼兒園新莊分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.023905,
+    "lng": 121.2615066,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADAANAA=",
+    "name": "(公立)桃園市立蘆竹幼兒園上竹分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.042523,
+    "lng": 121.286412,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADAANgA=",
+    "name": "(公立)桃園市立南崁幼兒園南興分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0432945,
+    "lng": 121.2937352,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADAAOAA=",
+    "name": "(公立)桃園市立南崁幼兒園南榮分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0531517,
+    "lng": 121.300051,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADAAOQA=",
+    "name": "(公立)桃園市立南崁幼兒園五福分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.070412,
+    "lng": 121.282852,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADEAMAA=",
+    "name": "(公立)桃園市立南崁幼兒園內厝分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.080117,
+    "lng": 121.28569,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADEAMQA=",
+    "name": "(公立)桃園市立南崁幼兒園山鼻分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.086981,
+    "lng": 121.286334,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADEAMgA=",
+    "name": "(公立)桃園市立蘆竹幼兒園山腳分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0824179,
+    "lng": 121.3056202,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADEANAA=",
+    "name": "(公立)桃園市立蘆竹幼兒園外社分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.091048,
+    "lng": 121.267353,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADEANQA=",
+    "name": "(公立)桃園市立蘆竹幼兒園坑口分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.102755,
+    "lng": 121.268625,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANAAtADEANgA=",
+    "name": "(公立)桃園市立蘆竹幼兒園海湖分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.088037,
+    "lng": 121.280898,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANQA=",
+    "name": "(準公共)桃園市私立蜻蜓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.047873,
+    "lng": 121.288735,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANgA=",
+    "name": "(私立)桃園市私立福祿貝爾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0549143,
+    "lng": 121.2965305,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEANwA=",
+    "name": "(私立)桃園市私立溫馨園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0350504,
+    "lng": 121.2844596,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADEAOQA=",
+    "name": "(私立)桃園市私立瑞恩帝兒南竹幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.02098,
+    "lng": 121.260517,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADIAMQA=",
+    "name": "(私立)桃園市私立蔚霖幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0083668,
+    "lng": 121.2648507,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADIAMgA=",
+    "name": "(公立)桃園市蘆竹區新興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0517753,
+    "lng": 121.2980749,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADIAMwA=",
+    "name": "(準公共)桃園市私立蘆竹小天使幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1060478,
+    "lng": 121.2575276,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADIANAA=",
+    "name": "(準公共)桃園市私立愛佳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0419668,
+    "lng": 121.2864625,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADIANQA=",
+    "name": "(私立)桃園市私立蘭亭序幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.054837,
+    "lng": 121.2942836,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADIANgA=",
+    "name": "(私立)桃園市私立愛迪兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0542308,
+    "lng": 121.2958877,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADIANwA=",
+    "name": "(私立)桃園市私立小朋友幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.051192,
+    "lng": 121.2960409,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADIAOAA=",
+    "name": "(私立)桃園市私立華納幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0185753,
+    "lng": 121.2633097,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADIAOQA=",
+    "name": "(私立)桃園市私立格林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.09378,
+    "lng": 121.288437,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADMAMAA=",
+    "name": "(私立)桃園市私立安德笙幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9911534,
+    "lng": 121.2663967,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADMAMgA=",
+    "name": "(準公共)桃園市私立育佳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0557998,
+    "lng": 121.2983302,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADMAMwA=",
+    "name": "(私立)桃園市私立嘉育幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.057834,
+    "lng": 121.297007,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADMANgA=",
+    "name": "(私立)桃園市私立嘉仁幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0228797,
+    "lng": 121.253712,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADMANwA=",
+    "name": "(私立)桃園市私立米其幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0359647,
+    "lng": 121.285826,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADMAOAA=",
+    "name": "(私立)桃園市私立衛斯理幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050087,
+    "lng": 121.295583,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADMAOQA=",
+    "name": "(準公共)桃園市私立家家幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.039255,
+    "lng": 121.2908631,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADQAMAA=",
+    "name": "(準公共)桃園市私立信華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0500869,
+    "lng": 121.3009642,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADQAMQA=",
+    "name": "(公立)桃園市蘆竹區南崁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.055813,
+    "lng": 121.297044,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADQAMwA=",
+    "name": "(私立)桃園市私立玫瑰莊園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0884462,
+    "lng": 121.2875282,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADQANAA=",
+    "name": "(公立)桃園市蘆竹區山腳國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1022275,
+    "lng": 121.2672255,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADQANQA=",
+    "name": "(公立)桃園市蘆竹區海湖國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.019852,
+    "lng": 121.2673,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADQANgA=",
+    "name": "(公立)桃園市立蘆竹幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.019735,
+    "lng": 121.257321,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADQAOAA=",
+    "name": "(準公共)桃園市私立囿柔幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9924491,
+    "lng": 121.273088,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADQAOQA=",
+    "name": "(公立)桃園市蘆竹區龍安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0506852,
+    "lng": 121.2670056,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADUAMAA=",
+    "name": "(公立)桃園市蘆竹區蘆竹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0385761,
+    "lng": 121.2542513,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADUAMQA=",
+    "name": "(公立)桃園市蘆竹區大華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0466438,
+    "lng": 121.2898255,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADUAMgA=",
+    "name": "(公立)桃園市蘆竹區錦興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0229601,
+    "lng": 121.2584651,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADUAMwA=",
+    "name": "(公立)桃園市立大竹國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0508883,
+    "lng": 121.2911784,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADUANAA=",
+    "name": "(公立)桃園市立南崁幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0718051,
+    "lng": 121.2857744,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADUANQA=",
+    "name": "(公立)桃園市蘆竹區公埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0779962,
+    "lng": 121.3201838,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADUANgA=",
+    "name": "(公立)桃園市蘆竹區頂社國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0819628,
+    "lng": 121.3065765,
+    "sid": "MAA1ADMAMwA4ADAAMAAwADUANwA=",
+    "name": "(非營利)桃園市外社非營利幼兒園（委託財團法人慈心兒童教育基金會辦理）",
+    "type": "spub2"
   }
 ]

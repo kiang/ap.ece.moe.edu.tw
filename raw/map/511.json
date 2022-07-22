@@ -1,10 +1,90 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.8909423,
+    "lng": 120.5886635,
+    "sid": "MQAxADUAMQAxADAAMAAwADAAMQA=",
+    "name": "(準公共)彰化縣私立小學儒品格幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8909423,
+    "lng": 120.5886635,
+    "sid": "MQAxADUAMQAxADAAMAAwADAANAA=",
+    "name": "(私立)彰化縣私立大自然幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.902665,
+    "lng": 120.596189,
+    "sid": "MQAxADUAMQAxADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立社頭小太陽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.897759,
+    "lng": 120.582955,
+    "sid": "MQAxADUAMQAxADAAMAAwADAAOAA=",
+    "name": "(準公共)彰化縣私立精英幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8954985,
+    "lng": 120.5855394,
+    "sid": "MQAxADUAMQAxADAAMAAwADEAMAA=",
+    "name": "(私立)彰化縣私立資優幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.889024,
+    "lng": 120.586613,
+    "sid": "MQAxADUAMQAxADAAMAAwADEAMQA=",
+    "name": "(公立)彰化縣社頭鄉崙雅國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.897423,
+    "lng": 120.58646,
+    "sid": "MQAxADUAMQAxADAAMAAwADEAMgA=",
+    "name": "(公立)彰化縣社頭鄉社頭國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9187641,
+    "lng": 120.582145,
+    "sid": "MQAxADUAMQAxADAAMAAwADEAMwA=",
+    "name": "(公立)彰化縣社頭鄉橋頭國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.887233,
+    "lng": 120.610625,
+    "sid": "MQAxADUAMQAxADAAMAAwADEANAA=",
+    "name": "(公立)彰化縣社頭鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9316781,
+    "lng": 120.603152,
+    "sid": "MQAxADUAMQAxADAAMAAwADEANAAtADAAMQA=",
+    "name": "(公立)彰化縣社頭鄉立幼兒園協和分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8926975,
+    "lng": 120.584279,
+    "sid": "MQAxADUAMQAxADAAMAAwADEANQA=",
+    "name": "(公立)國立彰化特殊教育學校幼兒部",
+    "type": "spub0"
   }
 ]

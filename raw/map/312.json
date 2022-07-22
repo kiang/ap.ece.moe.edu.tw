@@ -1,10 +1,66 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.723937,
+    "lng": 121.131839,
+    "sid": "MAA3ADMAMQAyADAAMAAwADAAMQA=",
+    "name": "(私立)新竹縣私立佳禾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.717385,
+    "lng": 121.140634,
+    "sid": "MAA3ADMAMQAyADAAMAAwADAAMgA=",
+    "name": "(私立)財團法人天主教耶穌肋傷女修會附設新竹縣私立育光幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.720901,
+    "lng": 121.113667,
+    "sid": "MAA3ADMAMQAyADAAMAAwADAAMwA=",
+    "name": "(私立)新竹縣私立愛兒堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.719412,
+    "lng": 121.139714,
+    "sid": "MAA3ADMAMQAyADAAMAAwADAANQA=",
+    "name": "(公立)新竹縣橫山鄉大肚國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7056051,
+    "lng": 121.105762,
+    "sid": "MAA3ADMAMQAyADAAMAAwADAANgA=",
+    "name": "(公立)新竹縣橫山鄉田寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7113011,
+    "lng": 121.1366715,
+    "sid": "MAA3ADMAMQAyADAAMAAwADAAOAA=",
+    "name": "(公立)新竹縣橫山鄉內灣國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.739621,
+    "lng": 121.162371,
+    "sid": "MAA3ADMAMQAyADAAMAAwADAAOQA=",
+    "name": "(公立)新竹縣橫山鄉沙坑國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.718694,
+    "lng": 121.115425,
+    "sid": "MAA3ADMAMQAyADAAMAAwADEAMAA=",
+    "name": "(公立)新竹縣橫山鄉橫山國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

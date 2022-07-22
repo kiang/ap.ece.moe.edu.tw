@@ -1,10 +1,442 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.096873,
+    "lng": 120.675951,
+    "sid": "MAA5ADQAMQAyADAAMAAwADAAMQA=",
+    "name": "(私立)臺中市私立大中幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.110089,
+    "lng": 120.676553,
+    "sid": "MAA5ADQAMQAyADAAMAAwADAAMwA=",
+    "name": "(私立)臺中市私立丹尼兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.100536,
+    "lng": 120.689346,
+    "sid": "MAA5ADQAMQAyADAAMAAwADAANAA=",
+    "name": "(私立)臺中市私立麥米倫幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.114408,
+    "lng": 120.682641,
+    "sid": "MAA5ADQAMQAyADAAMAAwADAANQA=",
+    "name": "(準公共)臺中市私立聖偉幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1095872,
+    "lng": 120.6749846,
+    "sid": "MAA5ADQAMQAyADAAMAAwADAANgA=",
+    "name": "(私立)臺中市私立南海幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0920208,
+    "lng": 120.7035902,
+    "sid": "MAA5ADQAMQAyADAAMAAwADAANwA=",
+    "name": "(準公共)臺中市私立大愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.107401,
+    "lng": 120.68571,
+    "sid": "MAA5ADQAMQAyADAAMAAwADAAOAA=",
+    "name": "(準公共)臺中市私立永佳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.106194,
+    "lng": 120.690267,
+    "sid": "MAA5ADQAMQAyADAAMAAwADEAMAA=",
+    "name": "(私立)臺中市私立益成幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.090891,
+    "lng": 120.700687,
+    "sid": "MAA5ADQAMQAyADAAMAAwADEAMQA=",
+    "name": "(私立)臺中市私立東華幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.099632,
+    "lng": 120.687997,
+    "sid": "MAA5ADQAMQAyADAAMAAwADEAMgA=",
+    "name": "(私立)臺中市私立常愛幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.105372,
+    "lng": 120.678948,
+    "sid": "MAA5ADQAMQAyADAAMAAwADEAMwA=",
+    "name": "(準公共)臺中市私立至聖幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1058619,
+    "lng": 120.706757,
+    "sid": "MAA5ADQAMQAyADAAMAAwADEANAA=",
+    "name": "(私立)臺中市私立乖乖幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.111034,
+    "lng": 120.68611,
+    "sid": "MAA5ADQAMQAyADAAMAAwADEANgA=",
+    "name": "(準公共)臺中市私立寶比幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.117659,
+    "lng": 120.692386,
+    "sid": "MAA5ADQAMQAyADAAMAAwADEAOAA=",
+    "name": "(私立)臺中市私立多倫多幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0852009,
+    "lng": 120.6981019,
+    "sid": "MAA5ADQAMQAyADAAMAAwADEAOQA=",
+    "name": "(私立)臺中市私立大里東昇幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.114949,
+    "lng": 120.672334,
+    "sid": "MAA5ADQAMQAyADAAMAAwADIAMQA=",
+    "name": "(私立)臺中市私立喬治亞幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.080247,
+    "lng": 120.691584,
+    "sid": "MAA5ADQAMQAyADAAMAAwADIAMgA=",
+    "name": "(私立)臺中市私立光仁幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.084488,
+    "lng": 120.711068,
+    "sid": "MAA5ADQAMQAyADAAMAAwADIANQA=",
+    "name": "(私立)臺中市私立華人幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.113097,
+    "lng": 120.684545,
+    "sid": "MAA5ADQAMQAyADAAMAAwADIANgA=",
+    "name": "(準公共)臺中市私立恐龍幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.103871,
+    "lng": 120.688829,
+    "sid": "MAA5ADQAMQAyADAAMAAwADIANwA=",
+    "name": "(私立)臺中市私立大里陽光幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.10792,
+    "lng": 120.710182,
+    "sid": "MAA5ADQAMQAyADAAMAAwADIAOAA=",
+    "name": "(準公共)臺中市私立双葉幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.104157,
+    "lng": 120.687982,
+    "sid": "MAA5ADQAMQAyADAAMAAwADIAOQA=",
+    "name": "(私立)臺中市私立童心園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.101694,
+    "lng": 120.68303,
+    "sid": "MAA5ADQAMQAyADAAMAAwADMAMQA=",
+    "name": "(私立)臺中市私立發現幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.107502,
+    "lng": 120.676684,
+    "sid": "MAA5ADQAMQAyADAAMAAwADMAMgA=",
+    "name": "(私立)臺中市私立耕心園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.112169,
+    "lng": 120.678039,
+    "sid": "MAA5ADQAMQAyADAAMAAwADMAMwA=",
+    "name": "(私立)臺中市私立大里好兒美幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.108219,
+    "lng": 120.676596,
+    "sid": "MAA5ADQAMQAyADAAMAAwADMANAA=",
+    "name": "(私立)臺中市私立喜悅兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.106052,
+    "lng": 120.682912,
+    "sid": "MAA5ADQAMQAyADAAMAAwADMANQA=",
+    "name": "(私立)臺中市私立兒幼幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.102764,
+    "lng": 120.697766,
+    "sid": "MAA5ADQAMQAyADAAMAAwADMANgA=",
+    "name": "(私立)臺中市私立大里優斯特幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.078156,
+    "lng": 120.692338,
+    "sid": "MAA5ADQAMQAyADAAMAAwADMANwA=",
+    "name": "(準公共)臺中市私立東南幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.104495,
+    "lng": 120.688711,
+    "sid": "MAA5ADQAMQAyADAAMAAwADMAOAA=",
+    "name": "(私立)臺中市私立梵尼爾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.106921,
+    "lng": 120.703227,
+    "sid": "MAA5ADQAMQAyADAAMAAwADMAOQA=",
+    "name": "(私立)臺中市私立佳園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0927119,
+    "lng": 120.702612,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQAMwA=",
+    "name": "(私立)臺中市私立綠第亞幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0926269,
+    "lng": 120.702593,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQAMwAtADAAMQA=",
+    "name": "(私立)臺中市私立綠第亞幼兒園仁愛分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.089516,
+    "lng": 120.729086,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANAA=",
+    "name": "(公立)臺中市大里區健民國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.100477,
+    "lng": 120.677055,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANQA=",
+    "name": "(公立)臺中市大里區大里國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1006829,
+    "lng": 120.689739,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANgA=",
+    "name": "(公立)臺中市大里區大元國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0996,
+    "lng": 120.678933,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANwA=",
+    "name": "(公立)臺中市立大里幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1182688,
+    "lng": 120.6924298,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANwAtADAAMQA=",
+    "name": "(公立)臺中市立大里幼兒園日新分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1123254,
+    "lng": 120.6814868,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANwAtADAAMgA=",
+    "name": "(公立)臺中市立大里幼兒園東興分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.090504,
+    "lng": 120.695292,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANwAtADAAMwA=",
+    "name": "(公立)臺中市立大里幼兒園金城分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0863342,
+    "lng": 120.6959767,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANwAtADAANAA=",
+    "name": "(公立)臺中市立大里幼兒園草湖分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.08653,
+    "lng": 120.7217,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANwAtADAANQA=",
+    "name": "(公立)臺中市立大里幼兒園塗城分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0924866,
+    "lng": 120.7000669,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANwAtADAANgA=",
+    "name": "(公立)臺中市立大里幼兒園仁化分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1084552,
+    "lng": 120.667638,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQANwAtADAANwA=",
+    "name": "(公立)臺中市立大里幼兒園樹王分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1054161,
+    "lng": 120.6996579,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQAOAA=",
+    "name": "(公立)臺中市大里區立新國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1086189,
+    "lng": 120.6790499,
+    "sid": "MAA5ADQAMQAyADAAMAAwADQAOQA=",
+    "name": "(私立)財團法人臺中市弘明佛教基金會附設臺中市私立大里弘明幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1117531,
+    "lng": 120.6948598,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUAMAA=",
+    "name": "(公立)臺中市大里區內新國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0782086,
+    "lng": 120.690052,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUAMQA=",
+    "name": "(公立)臺中市大里區草湖國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0841547,
+    "lng": 120.7088582,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUAMgA=",
+    "name": "(公立)臺中市大里區美群國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0860899,
+    "lng": 120.7028425,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUAMwA=",
+    "name": "(公立)臺中市大里區瑞城國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1151411,
+    "lng": 120.6845633,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUANAA=",
+    "name": "(公立)臺中市大里區崇光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0922302,
+    "lng": 120.6994505,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUANQA=",
+    "name": "(私立)臺中市私立奇妙玩得福幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0997183,
+    "lng": 120.6953239,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUANgA=",
+    "name": "(非營利)臺中市大里非營利幼兒園(委託財團法人台灣兒童暨家庭扶助基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1114738,
+    "lng": 120.6745475,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUANwA=",
+    "name": "(私立)臺中市私立頂尖地真美幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.10838,
+    "lng": 120.66758,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUAOAA=",
+    "name": "(準公共)臺中市私立大里光明幼兒園",
+    "type": "spub3"
   }
 ]

@@ -1,10 +1,58 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.331904,
+    "lng": 120.654535,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAAMgA=",
+    "name": "(準公共)臺中市私立欣達幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.325889,
+    "lng": 120.636805,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAANAA=",
+    "name": "(公立)臺中市外埔區水美國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.340952,
+    "lng": 120.6422773,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAANQA=",
+    "name": "(公立)臺中市立外埔幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.333906,
+    "lng": 120.6819336,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAANgA=",
+    "name": "(公立)臺中市外埔區外埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3387282,
+    "lng": 120.6641613,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAANwA=",
+    "name": "(公立)臺中市外埔區馬鳴國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3455253,
+    "lng": 120.7050217,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAAOAA=",
+    "name": "(公立)臺中市外埔區安定國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3490332,
+    "lng": 120.6566936,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAAOQA=",
+    "name": "(公立)臺中市外埔區鐵山國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

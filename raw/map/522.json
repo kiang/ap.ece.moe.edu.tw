@@ -1,10 +1,50 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.8892039,
+    "lng": 120.5301674,
+    "sid": "MQAxADUAMgAyADAAMAAwADAAMQA=",
+    "name": "(準公共)彰化縣私立嘉年華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.885124,
+    "lng": 120.529662,
+    "sid": "MQAxADUAMgAyADAAMAAwADAAMgA=",
+    "name": "(準公共)彰化縣私立仁仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.891444,
+    "lng": 120.518888,
+    "sid": "MQAxADUAMgAyADAAMAAwADAAMwA=",
+    "name": "(私立)彰化縣私立親美幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8892039,
+    "lng": 120.5301674,
+    "sid": "MQAxADUAMgAyADAAMAAwADAANAA=",
+    "name": "(私立)彰化縣私立名威幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.891176,
+    "lng": 120.527958,
+    "sid": "MQAxADUAMgAyADAAMAAwADAANQA=",
+    "name": "(公立)彰化縣田尾鄉田尾國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.886034,
+    "lng": 120.549544,
+    "sid": "MQAxADUAMgAyADAAMAAwADAANgA=",
+    "name": "(公立)彰化縣田尾鄉立幼兒園",
+    "type": "spub0"
   }
 ]
