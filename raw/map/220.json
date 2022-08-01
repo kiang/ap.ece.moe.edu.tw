@@ -572,8 +572,8 @@
     "lat": 25.008442,
     "lng": 121.444523,
     "sid": "MAAzADIAMgAwADAAMAAwADgANAA=",
-    "name": "(私立)新北市私立興名陽幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立興名陽幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -740,8 +740,8 @@
     "lat": 25.0122349,
     "lng": 121.465541,
     "sid": "MAAzADIAMgAwADAAMAAxADAANQA=",
-    "name": "(私立)財團法人台北基督教女青年會附設新北市私立員工實驗幼兒園（新北市政府委託辦理）",
-    "type": "spub1"
+    "name": "(非營利)新北市政府板橋員工子女非營利幼兒園（委託財團法人台北基督教女青年會辦理）",
+    "type": "spub2"
   },
   {
     "newsch": 1,

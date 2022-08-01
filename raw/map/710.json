@@ -92,8 +92,8 @@
     "lat": 23.0016671,
     "lng": 120.251917,
     "sid": "MQA2ADcAMQAwADAAMAAwADEANQA=",
-    "name": "(私立)臺南市私立育智幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立育智幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -276,8 +276,8 @@
     "lat": 23.0086991,
     "lng": 120.234294,
     "sid": "MQA2ADcAMQAwADAAMAAwADMAOQA=",
-    "name": "(私立)臺南市私立中華幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立中華幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -492,15 +492,15 @@
     "lat": 23.0139034,
     "lng": 120.2592785,
     "sid": "MQA2ADcAMQAwADAAMAAwADcAMQA=",
-    "name": "(私立)臺南市私立卓越幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立卓越幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.0185499,
     "lng": 120.2361132,
     "sid": "MQA2ADcAMQAwADAAMAAwADcAMgA=",
-    "name": "(私立)臺南市私立青蘋果幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立青蘋果幼兒園",
+    "type": "spub3"
   }
 ]

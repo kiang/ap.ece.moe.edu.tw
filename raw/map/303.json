@@ -4,8 +4,8 @@
     "lat": 24.902128,
     "lng": 121.049652,
     "sid": "MAA3ADMAMAAzADAAMAAwADAAMQA=",
-    "name": "(私立)新竹縣私立盧森堡幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新竹縣私立盧森堡幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -36,8 +36,8 @@
     "lat": 24.867958,
     "lng": 121.0245,
     "sid": "MAA3ADMAMAAzADAAMAAwADAANQA=",
-    "name": "(私立)新竹縣私立張逸幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新竹縣私立張逸幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -92,8 +92,8 @@
     "lat": 24.862061,
     "lng": 121.024344,
     "sid": "MAA3ADMAMAAzADAAMAAwADEAOAA=",
-    "name": "(私立)新竹縣私立大同幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新竹縣私立大同幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -204,8 +204,8 @@
     "lat": 24.860536,
     "lng": 121.02121,
     "sid": "MAA3ADMAMAAzADAAMAAwADMANQA=",
-    "name": "(私立)財團法人新竹縣天主教耶穌聖心烏蘇拉傳教修女會附設新竹縣私立博愛幼兒園",
-    "type": "spub1"
+    "name": "(準公共)財團法人新竹縣天主教耶穌聖心烏蘇拉傳教修女會附設新竹縣私立博愛幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -244,7 +244,7 @@
     "lat": 24.8960467,
     "lng": 121.0461668,
     "sid": "MAA3ADMAMAAzADAAMAAwADQAMAA=",
-    "name": "(私立)新竹縣私立喬大幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新竹縣私立喬大幼兒園",
+    "type": "spub3"
   }
 ]

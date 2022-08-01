@@ -204,7 +204,7 @@
     "lat": 25.0732086,
     "lng": 121.5195399,
     "sid": "MAAyADEAMAAzADAAMAAwADMAMQA=",
-    "name": "(非營利)臺北市明倫非營利幼兒園（委託社團法人中華兆陽文教發展協會辦理）",
+    "name": "(非營利)臺北市明倫非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
     "type": "spub2"
   },
   {
@@ -212,7 +212,7 @@
     "lat": 25.0623907,
     "lng": 121.5111276,
     "sid": "MAAyADEAMAAzADAAMAAwADMAMgA=",
-    "name": "(私立)臺北市私立海格斯幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立海格斯幼兒園",
+    "type": "spub3"
   }
 ]
