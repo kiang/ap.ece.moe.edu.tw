@@ -175,4 +175,4 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
         }
     }
 }
-file_put_contents($basePath . '/preschools.json', json_encode($fc, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+file_put_contents($basePath . '/docs/preschools.json', json_encode($fc, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
