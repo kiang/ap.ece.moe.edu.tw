@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市中正區仁愛路一段42號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[臺北市]\tFULL:1",
+      "OutTraceInfo": "[臺北市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市中正區東門里15鄰仁愛路一段42號",
+      "COUNTY": "臺北市",
+      "TOWN": "中正區",
+      "VILLAGE": "東門里",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "仁愛路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "42號",
+      "X": 121.523816,
+      "Y": 25.038153,
+      "CODEBASE": "A6305-0224-00",
+      "CODE1": "A6305-06-007",
+      "CODE2": "A6305-06"
+    }
+  ]
+}
