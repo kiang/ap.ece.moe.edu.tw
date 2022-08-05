@@ -4,7 +4,7 @@ $count = [
     'monthly1' => [],
     'monthly2' => [],
 ];
-foreach (glob($basePath . '/data/summary1/*/*.csv') as $csvFile) {
+foreach (glob($basePath . '/docs/data/summary1/*/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     while($line = fgetcsv($fh, 2048)) {

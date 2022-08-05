@@ -1,12 +1,12 @@
 <?php
 $basePath = dirname(__DIR__);
-$cityPath = $basePath . '/data/summary3';
+$cityPath = $basePath . '/docs/data/summary3';
 if(!file_exists($cityPath)) {
     mkdir($cityPath, 0777, true);
 }
 
 $fh = [];
-foreach (glob($basePath . '/data/slip/*/*.json') as $jsonFile) {
+foreach (glob($basePath . '/docs/data/slip/*/*.json') as $jsonFile) {
     $jsonFile109 = str_replace('/slip/', '/slip109/', $jsonFile);
     if(file_exists($jsonFile109)) {
         $json = json_decode(file_get_contents($jsonFile), true);

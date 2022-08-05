@@ -2,10 +2,10 @@
 $basePath = dirname(__DIR__);
 
 $fh = [];
-foreach (glob($basePath . '/data/slip/*/*.json') as $jsonFile) {
+foreach (glob($basePath . '/docs/data/slip/*/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
     $city = $json['meta']['city'];
-    $cityPath = $basePath . '/data/summary2';
+    $cityPath = $basePath . '/docs/data/summary2';
     if (!file_exists($cityPath)) {
         mkdir($cityPath, 0777, true);
     }

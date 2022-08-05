@@ -1,7 +1,7 @@
 <?php
 foreach (glob(dirname(__DIR__) . '/raw/punish/*/item_*.html') as $htmlFile) {
     $p = pathinfo($htmlFile);
-    $p['dirname'] = str_replace('/raw/', '/data/', $p['dirname']);
+    $p['dirname'] = str_replace('/raw/', '/docs/data/', $p['dirname']);
     $p['filename'] = substr($p['filename'], 5);
     if(!file_exists($p['dirname'])) {
         mkdir($p['dirname'], 0777, true);

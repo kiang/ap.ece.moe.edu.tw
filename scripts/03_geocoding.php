@@ -8,7 +8,7 @@ $fc = [
 ];
 
 $monthlyPool = [];
-foreach (glob($basePath . '/data/summary1/*/*.csv') as $csvFile) {
+foreach (glob($basePath . '/docs/data/summary1/*/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {
@@ -70,7 +70,7 @@ foreach ($listRedo as $key) {
 }
 
 $idPool = [];
-$idFile = $basePath . '/data/id/id.csv';
+$idFile = $basePath . '/docs/data/id/id.csv';
 if (file_exists($idFile)) {
     $fh = fopen($idFile, 'r');
     while ($line = fgetcsv($fh, 2048)) {
@@ -79,7 +79,7 @@ if (file_exists($idFile)) {
 }
 $idFh = fopen($idFile, 'a+');
 
-foreach (glob($basePath . '/data/*.csv') as $csvFile) {
+foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {

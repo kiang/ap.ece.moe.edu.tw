@@ -34,7 +34,7 @@ $cities = [
 $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/punishSearch.aspx');
 
 foreach ($cities as $code => $city) {
-    $dataPath = $basePath . '/data/punish/' . $city;
+    $dataPath = $basePath . '/docs/data/punish/' . $city;
     if (!file_exists($dataPath)) {
         mkdir($dataPath, 0777, true);
     }

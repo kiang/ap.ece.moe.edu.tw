@@ -15,7 +15,7 @@ $rawPath = dirname(__DIR__) . '/raw';
 if (!file_exists($rawPath)) {
     mkdir($rawPath, 0777);
 }
-$dataPath = dirname(__DIR__) . '/data';
+$dataPath = dirname(__DIR__) . '/docs/data';
 if (!file_exists($dataPath)) {
     mkdir($dataPath, 0777);
 }
