@@ -1,0 +1,26 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.8197279,
+    "lng": 120.6162112,
+    "sid": "MQAxADUAMwAwADAAMAAwADAAMQA=",
+    "name": "(公立)彰化縣二水鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8110278,
+    "lng": 120.619766,
+    "sid": "MQAxADUAMwAwADAAMAAwADAAMwA=",
+    "name": "(私立)彰化縣私立親親幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8110751,
+    "lng": 120.616646,
+    "sid": "MQAxADUAMwAwADAAMAAwADAANAA=",
+    "name": "(公立)彰化縣二水鄉二水國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]
