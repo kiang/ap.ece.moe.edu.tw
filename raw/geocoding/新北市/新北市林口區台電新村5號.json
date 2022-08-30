@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新北市林口區台電新村5號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新北市]\tT:1,V:-1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:1,NO:0(+2)(-4),E:-1,N:-1",
+      "OutTraceInfo": "[新北市]\t { 模糊比對 } (林口區)\t找到符合的[鄉鎮市區]，(臺電新村)\t找到符合的[地區]，(5號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -4 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新北市林口區菁湖里16鄰臺電新村1號",
+      "COUNTY": "新北市",
+      "TOWN": "林口區",
+      "VILLAGE": "菁湖里",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "臺電新村",
+      "NUMBER": "1號",
+      "X": 121.387490,
+      "Y": 25.085343,
+      "CODEBASE": "A6517-0104-00",
+      "CODE1": "A6517-03-007",
+      "CODE2": "A6517-03"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新北市林口區菁湖里16鄰臺電新村7號",
+      "COUNTY": "新北市",
+      "TOWN": "林口區",
+      "VILLAGE": "菁湖里",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "臺電新村",
+      "NUMBER": "7號",
+      "X": 121.387282,
+      "Y": 25.085781,
+      "CODEBASE": "A6517-0118-00",
+      "CODE1": "A6517-03-007",
+      "CODE2": "A6517-03"
+    }
+  ]
+}
