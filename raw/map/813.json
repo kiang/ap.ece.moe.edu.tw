@@ -454,5 +454,21 @@
     "sid": "MQA4ADgAMQAzADAAMAAwADcAMAA=",
     "name": "(私立)高雄市私立名恩幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6841624,
+    "lng": 120.2798052,
+    "sid": "MQA4ADgAMQAzADAAMAAwADcAMQA=",
+    "name": "(非營利)國防部海軍司令部海光員工子女非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6936097,
+    "lng": 120.2960773,
+    "sid": "MQA4ADgAMQAzADAAMAAwADcAMgA=",
+    "name": "(非營利)國防部海軍司令部海育員工子女非營利幼兒園（委託社團法人高雄市社區教育協會辦理）",
+    "type": "spub2"
   }
 ]

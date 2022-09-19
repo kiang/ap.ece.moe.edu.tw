@@ -318,5 +318,29 @@
     "sid": "MQA4ADgAMQAxADAAMAAwADQAOAA=",
     "name": "(私立)高雄市私立星彩幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7283484,
+    "lng": 120.313224,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQAOQA=",
+    "name": "(公立)高雄市立楠梓特殊學校幼兒部",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7366382,
+    "lng": 120.3255823,
+    "sid": "MQA4ADgAMQAxADAAMAAwADUAMAA=",
+    "name": "(私立)衛生福利部南區兒童之家職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7159302,
+    "lng": 120.3030519,
+    "sid": "MQA4ADgAMQAxADAAMAAwADUAMQA=",
+    "name": "(非營利)國軍退除役官兵輔導委員會高雄榮譽國民之家員工子女非營利幼兒園(委託社團法人台灣公共托育協會辦理）",
+    "type": "spub2"
   }
 ]

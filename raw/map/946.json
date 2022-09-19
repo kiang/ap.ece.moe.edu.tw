@@ -62,5 +62,21 @@
     "sid": "MgAwADkANAA2ADAAMAAwADEAMAA=",
     "name": "(私立)屏東縣私立瑪利幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.0008277,
+    "lng": 120.7447638,
+    "sid": "MgAwADkANAA2ADAAMAAwADEAMQA=",
+    "name": "(非營利)屏東縣僑勇非營利幼兒園（委託社團法人屏東縣宥薰教育協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 21.9511306,
+    "lng": 120.7398445,
+    "sid": "MgAwADkANAA2ADAAMAAwADEAMgA=",
+    "name": "(公立)屏東縣恆春鎮大光國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

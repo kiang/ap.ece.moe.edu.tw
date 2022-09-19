@@ -414,5 +414,21 @@
     "sid": "MAAzADIANAA0ADAAMAAwADUANwA=",
     "name": "(私立)新北市私立嘉聲幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.08693,
+    "lng": 121.386859,
+    "sid": "MAAzADIANAA0ADAAMAAwADUAOAA=",
+    "name": "(私立)台電公司林口發電廠職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0748077,
+    "lng": 121.3813701,
+    "sid": "MAAzADIANAA0ADAAMAAwADUAOQA=",
+    "name": "(非營利)新北市東湖非營利幼兒園(委託社團法人新北市巧湖溫馨關懷發展協會辦理)",
+    "type": "spub2"
   }
 ]

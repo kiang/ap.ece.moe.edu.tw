@@ -166,5 +166,13 @@
     "sid": "MAAxADIAMAA2ADAAMAAwADIAMQA=",
     "name": "(私立)基隆市私立小象文教幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1120099,
+    "lng": 121.726295,
+    "sid": "MAAxADIAMAA2ADAAMAAwADIAMgA=",
+    "name": "(公立)基隆市七堵區尚仁國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

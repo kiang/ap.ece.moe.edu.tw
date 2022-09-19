@@ -358,5 +358,21 @@
     "sid": "MAAzADIAMwA3ADAAMAAwADQAOAA=",
     "name": "(私立)清福長照社團法人附設新北市私立清福幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9333461,
+    "lng": 121.3752693,
+    "sid": "MAAzADIAMwA3ADAAMAAwADQAOQA=",
+    "name": "(私立)新北市私立佳宜幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9369833,
+    "lng": 121.3765692,
+    "sid": "MAAzADIAMwA3ADAAMAAwADUAMAA=",
+    "name": "(非營利)國家教育研究院員工子女非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+    "type": "spub2"
   }
 ]

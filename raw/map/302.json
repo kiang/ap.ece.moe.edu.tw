@@ -742,5 +742,21 @@
     "sid": "MAA3ADMAMAAyADAAMAAxADAANgA=",
     "name": "(私立)新竹縣私立育弘幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8287547,
+    "lng": 121.0109218,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAANwA=",
+    "name": "(私立)中華郵政公司竹北光明郵局職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.842286,
+    "lng": 120.9645107,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAAOAA=",
+    "name": "(公立)新竹縣竹北市豐田國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

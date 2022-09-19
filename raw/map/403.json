@@ -230,5 +230,21 @@
     "sid": "MAA5ADQAMAAzADAAMAAwADMANAA=",
     "name": "(私立)衛生福利部中區兒童之家職場互助教保服務中心 (委託社團法人幼兒教保協會辦理)",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.145066,
+    "lng": 120.667645,
+    "sid": "MAA5ADQAMAAzADAAMAAwADMANQA=",
+    "name": "(私立)財政部中區國稅局職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.132924,
+    "lng": 120.674285,
+    "sid": "MAA5ADQAMAAzADAAMAAwADMANgA=",
+    "name": "(私立)臺灣高等檢察署臺中職場互助教保服務中心(委託財團法人臺中市蒙特梭利教育基金會辦理)",
+    "type": "spub1"
   }
 ]

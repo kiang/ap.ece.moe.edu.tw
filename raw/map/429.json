@@ -206,5 +206,13 @@
     "sid": "MAA5ADQAMgA5ADAAMAAwADIANQA=",
     "name": "(私立)臺中市星光教育發展協會附設臺中市私立星光國際幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2609985,
+    "lng": 120.6586229,
+    "sid": "MAA5ADQAMgA5ADAAMAAwADIANgA=",
+    "name": "(非營利)臺中市神圳非營利幼兒園(委託財團法人仁德醫護管理專科學校設立之仁德醫護管理專科學校辦理)",
+    "type": "spub2"
   }
 ]

@@ -30,5 +30,21 @@
     "sid": "MQAzADYAMwAxADAAMAAwADAANgA=",
     "name": "(公立)雲林縣大埤鄉大埤國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6332344,
+    "lng": 120.4016465,
+    "sid": "MQAzADYAMwAxADAAMAAwADAANwA=",
+    "name": "(公立)雲林縣大埤鄉舊庄國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6615845,
+    "lng": 120.4227132,
+    "sid": "MQAzADYAMwAxADAAMAAwADAAOAA=",
+    "name": "(公立)雲林縣大埤鄉仁和國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

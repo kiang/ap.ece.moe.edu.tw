@@ -174,5 +174,21 @@
     "sid": "MAA5ADQAMwA3ADAAMAAwADIAMwA=",
     "name": "(公立)臺中市大甲區文武國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.389674,
+    "lng": 120.6542663,
+    "sid": "MAA5ADQAMwA3ADAAMAAwADIANAA=",
+    "name": "(公立)臺中市大甲區日南國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3405583,
+    "lng": 120.6295399,
+    "sid": "MAA5ADQAMwA3ADAAMAAwADIANQA=",
+    "name": "(公立)臺中市大甲區東陽國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

@@ -182,5 +182,21 @@
     "sid": "MAA0ADIANgA1ADAAMAAwADIANAA=",
     "name": "(準公共)宜蘭縣私立育霖幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.678912,
+    "lng": 121.769111,
+    "sid": "MAA0ADIANgA1ADAAMAAwADIANgA=",
+    "name": "(私立)臺灣土地銀行羅東分行職場互助教保服務中心（委託社團法人宜蘭縣善集合教育文化學會辦理）",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.669993,
+    "lng": 121.7716252,
+    "sid": "MAA0ADIANgA1ADAAMAAwADIANwA=",
+    "name": "(私立)中華郵政公司羅東南門郵局職場互助教保服務中心（委託財團法人聖母醫護管理專科學校辦理）",
+    "type": "spub1"
   }
 ]

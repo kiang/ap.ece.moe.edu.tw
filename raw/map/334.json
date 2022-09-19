@@ -326,5 +326,13 @@
     "sid": "MAA1ADMAMwA0ADAAMAAwADQANQA=",
     "name": "(私立)桃園市私立育全豐德幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9452776,
+    "lng": 121.2833942,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQANgA=",
+    "name": "(公立)桃園市八德區廣興國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

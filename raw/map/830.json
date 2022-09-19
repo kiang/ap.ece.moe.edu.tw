@@ -566,5 +566,45 @@
     "sid": "MQA4ADgAMwAwADAAMAAwADgANwA=",
     "name": "(準公共)高雄市私立善敏智幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6450095,
+    "lng": 120.373356,
+    "sid": "MQA4ADgAMwAwADAAMAAwADgAOAA=",
+    "name": "(準公共)高雄市私立幸運草幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6062645,
+    "lng": 120.3590576,
+    "sid": "MQA4ADgAMwAwADAAMAAwADgAOQA=",
+    "name": "(非營利)中正預校員工子女非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6280363,
+    "lng": 120.3727812,
+    "sid": "MQA4ADgAMwAwADAAMAAwADkAMAA=",
+    "name": "(私立)國軍退除役官兵輔導委員會高雄市榮民服務處職場互助教保服務中心(委託高雄市教保人員職業工會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.629009,
+    "lng": 120.3738572,
+    "sid": "MQA4ADgAMwAwADAAMAAwADkAMQA=",
+    "name": "(私立)國軍高雄總醫院職場互助教保服務中心(委託高雄市教保人員職業工會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6291624,
+    "lng": 120.3572669,
+    "sid": "MQA4ADgAMwAwADAAMAAwADkAMgA=",
+    "name": "(私立)臺灣銀行鳳山分行職場互助教保服務中心(委託社團法人尚仁教育發展協會辦理)",
+    "type": "spub1"
   }
 ]

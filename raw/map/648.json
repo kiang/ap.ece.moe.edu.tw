@@ -62,5 +62,21 @@
     "sid": "MQAzADYANAA4ADAAMAAwADAAOAA=",
     "name": "(公立)雲林縣西螺鎮中山國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.7755286,
+    "lng": 120.447285,
+    "sid": "MQAzADYANAA4ADAAMAAwADAAOQA=",
+    "name": "(公立)雲林縣西螺鎮廣興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.7880152,
+    "lng": 120.4446361,
+    "sid": "MQAzADYANAA4ADAAMAAwADEAMAA=",
+    "name": "(公立)雲林縣西螺鎮文興國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

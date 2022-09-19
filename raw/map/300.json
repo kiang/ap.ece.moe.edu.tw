@@ -1310,5 +1310,29 @@
     "sid": "MAA2ADMAMAAwADAAMAAxADkANQA=",
     "name": "(私立)新竹市私立米羅關埔幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7870443,
+    "lng": 121.0095652,
+    "sid": "MAA2ADMAMAAwADAAMAAxADkANgA=",
+    "name": "(私立)新竹市私立奇達國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7699488,
+    "lng": 121.0253671,
+    "sid": "MAA2ADMAMAAwADAAMAAxADkANwA=",
+    "name": "(非營利)國家科學及技術委員會新竹科學園區管理局篤行員工子女非營利幼兒園(委託社團法人新竹市教保人員協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.7951227,
+    "lng": 121.0043995,
+    "sid": "MAA2ADMAMAAwADAAMAAxADkAOAA=",
+    "name": "(私立)國防部全動署後備指揮部世紀鑫城職場互助教保服務中心(委託社團法人新竹市教保人員協會辦理)",
+    "type": "spub1"
   }
 ]

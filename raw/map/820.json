@@ -262,5 +262,21 @@
     "sid": "MQA4ADgAMgAwADAAMAAwADQAMwA=",
     "name": "(非營利)高雄市岡中非營利幼兒園(委託社團法人高雄市童馨關懷成長協會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.79245,
+    "lng": 120.2830817,
+    "sid": "MQA4ADgAMgAwADAAMAAwADQANAA=",
+    "name": "(非營利)高雄市前峰非營利幼兒園(委託社團法人高雄市碩苗社會教育關懷協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7899848,
+    "lng": 120.2960885,
+    "sid": "MQA4ADgAMgAwADAAMAAwADQANQA=",
+    "name": "(準公共)高雄市私立岡山精英幼兒園",
+    "type": "spub3"
   }
 ]

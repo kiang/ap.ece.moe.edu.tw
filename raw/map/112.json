@@ -502,5 +502,29 @@
     "sid": "MAAyADEAMQAyADAAMAAwADcAMAA=",
     "name": "(私立)臺北市私立愛德恩幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1226405,
+    "lng": 121.5249151,
+    "sid": "MAAyADEAMQAyADAAMAAwADcAMQA=",
+    "name": "(私立)臺北市私立石牌微笑音符幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1043045,
+    "lng": 121.5193511,
+    "sid": "MAAyADEAMQAyADAAMAAwADcAMgA=",
+    "name": "(私立)國防部軍備局慈光五村職場互助教保服務中心(委託社團法人臺北市教保托育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.135568,
+    "lng": 121.503175,
+    "sid": "MAAyADEAMQAyADAAMAAwADcAMwA=",
+    "name": "(私立)臺北市中華電信北投職場互助教保服務中心（委託社團法人台灣幼兒早期教育協會辦理）",
+    "type": "spub1"
   }
 ]

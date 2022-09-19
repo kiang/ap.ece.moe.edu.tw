@@ -406,5 +406,13 @@
     "sid": "MAA1ADMAMwAzADAAMAAwADUANwA=",
     "name": "(私立)桃園市私立彩虹島幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0483353,
+    "lng": 121.3800453,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUAOAA=",
+    "name": "(私立)桃園市私立嘉捷幼兒園",
+    "type": "spub1"
   }
 ]

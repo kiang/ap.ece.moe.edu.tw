@@ -710,5 +710,13 @@
     "sid": "MAAzADIANAAxADAAMAAwADkANwA=",
     "name": "(私立)新北市私立金吉邇幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0559393,
+    "lng": 121.4838739,
+    "sid": "MAAzADIANAAxADAAMAAwADkAOAA=",
+    "name": "(私立)新北市私立富群幼兒園",
+    "type": "spub1"
   }
 ]

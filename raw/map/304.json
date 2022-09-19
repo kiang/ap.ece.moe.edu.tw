@@ -198,5 +198,13 @@
     "sid": "MAA3ADMAMAA0ADAAMAAwADIAOQA=",
     "name": "(私立)新竹縣私立愛丁堡國際蒙特梭利幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9307305,
+    "lng": 121.0378972,
+    "sid": "MAA3ADMAMAA0ADAAMAAwADMAMAA=",
+    "name": "(公立)新竹縣新豐鄉福龍國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

@@ -254,5 +254,69 @@
     "sid": "MAAyADEAMAAwADAAMAAwADMANQA=",
     "name": "(私立)教育部忠孝大樓職場互助教保服務中心(委託社團法人台北市教保人員協會辦理)",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0400769,
+    "lng": 121.5251699,
+    "sid": "MAAyADEAMAAwADAAMAAwADMANgA=",
+    "name": "(私立)教育部徐州大樓職場互助教保服務中心（委託社團法人台北市教保人員協會辦理）",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0416173,
+    "lng": 121.5103238,
+    "sid": "MAAyADEAMAAwADAAMAAwADMANwA=",
+    "name": "(私立)臺灣銀行桃源大樓職場互助教保服務中心（委託社團法人台灣公共托育協會辦理）",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0379911,
+    "lng": 121.5237376,
+    "sid": "MAAyADEAMAAwADAAMAAwADMAOAA=",
+    "name": "(私立)臺北市中華電信仁愛職場互助教保服務中心（委託社團法人台灣幼兒早期教育協會辦理）",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0384755,
+    "lng": 121.5077819,
+    "sid": "MAAyADEAMAAwADAAMAAwADMAOQA=",
+    "name": "(私立)行政院環境保護署職場互助教保服務中心（委託社團法人金字塔幼兒教育研究學會辦理）",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0359751,
+    "lng": 121.52260389999999,
+    "sid": "MAAyADEAMAAwADAAMAAwADQAMAA=",
+    "name": "(私立)國立中正紀念堂管理處職場互助教保服務中心（委託社團法人台北市教保人員協會辦理）",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0287773,
+    "lng": 121.5175033,
+    "sid": "MAAyADEAMAAwADAAMAAwADQAMQA=",
+    "name": "(私立)台電公司輸變電工程處職場互助教保服務中心（委託社團法人台灣公共托育協會辦理）",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0359291,
+    "lng": 121.5082551,
+    "sid": "MAAyADEAMAAwADAAMAAwADQAMgA=",
+    "name": "(私立)內政部移民署職場互助教保服務中心（委託社團法人臺北市飛亞特全人福利服務文教發展協會辦理）",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0479239,
+    "lng": 121.517081,
+    "sid": "MAAyADEAMAAwADAAMAAwADQAMwA=",
+    "name": "(私立)交通部臺灣鐵路管理局臺北車站職場互助教保服務中心（委託社團法人臺灣兒童教育發展協會辦理）",
+    "type": "spub1"
   }
 ]

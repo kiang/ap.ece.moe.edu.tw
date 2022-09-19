@@ -766,5 +766,29 @@
     "sid": "MAA1ADMAMgAwADAAMAAxADEAOAA=",
     "name": "(公立)桃園市中壢區忠福國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9355274,
+    "lng": 121.2551123,
+    "sid": "MAA1ADMAMgAwADAAMAAxADEAOQA=",
+    "name": "(非營利)桃園市龍福非營利幼兒園(委託南亞科技學校財團法人設立之南亞技術學院辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9562574,
+    "lng": 121.2381452,
+    "sid": "MAA1ADMAMgAwADAAMAAxADIAMAA=",
+    "name": "(公立)桃園市中壢區中原國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0078753,
+    "lng": 121.2151197,
+    "sid": "MAA1ADMAMgAwADAAMAAxADIAMQA=",
+    "name": "(公立)桃園市中壢區青埔國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

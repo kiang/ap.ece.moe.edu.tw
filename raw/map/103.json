@@ -214,5 +214,13 @@
     "sid": "MAAyADEAMAAzADAAMAAwADMAMgA=",
     "name": "(準公共)臺北市私立海格斯幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0512958,
+    "lng": 121.510611,
+    "sid": "MAAyADEAMAAzADAAMAAwADMAMwA=",
+    "name": "(非營利)財政部關務署員工子女非營利幼兒園（委託財團法人彭婉如文教基金辦理）",
+    "type": "spub2"
   }
 ]

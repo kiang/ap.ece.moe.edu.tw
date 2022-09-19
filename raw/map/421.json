@@ -158,5 +158,13 @@
     "sid": "MAA5ADQAMgAxADAAMAAwADIAMAA=",
     "name": "(公立)臺中市立啟明學校幼兒部",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.3038894,
+    "lng": 120.7103437,
+    "sid": "MAA5ADQAMgAxADAAMAAwADIAMQA=",
+    "name": "(私立)臺中市私立彩虹森林幼兒園",
+    "type": "spub1"
   }
 ]

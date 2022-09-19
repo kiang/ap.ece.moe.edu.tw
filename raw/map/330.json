@@ -894,5 +894,45 @@
     "sid": "MAA1ADMAMwAwADAAMAAxADEANwA=",
     "name": "(私立)桃園市私立風禾日光幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9970176,
+    "lng": 121.3187319,
+    "sid": "MAA1ADMAMwAwADAAMAAxADEAOAA=",
+    "name": "(公立)桃園市立青溪國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9909999,
+    "lng": 121.3130067,
+    "sid": "MAA1ADMAMwAwADAAMAAxADEAOQA=",
+    "name": "(私立)臺灣銀行桃園分行職場互助教保服務中心(委託社團法人桃園市教保服務人員協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0138111,
+    "lng": 121.2865039,
+    "sid": "MAA1ADMAMwAwADAAMAAxADIAMAA=",
+    "name": "(私立)桃園市中華電信富國職場互助教保服務中心(委託社團法人台灣幼兒早期教育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0036078,
+    "lng": 121.3217411,
+    "sid": "MAA1ADMAMwAwADAAMAAxADIAMQA=",
+    "name": "(私立)財政部北區國稅局職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0059998,
+    "lng": 121.3235067,
+    "sid": "MAA1ADMAMwAwADAAMAAxADIAMgA=",
+    "name": "(私立)憲兵指揮部慈平一村職場互助教保服務中心(委託財團法人彭婉如文教基金會辦理)",
+    "type": "spub1"
   }
 ]

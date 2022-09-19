@@ -182,5 +182,21 @@
     "sid": "MAA1ADMAMgA4ADAAMAAwADIANQA=",
     "name": "(公立)桃園市觀音區上大國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0007098,
+    "lng": 121.1619558,
+    "sid": "MAA1ADMAMgA4ADAAMAAwADIANgA=",
+    "name": "(公立)桃園市觀音區崙坪國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0132163,
+    "lng": 121.102518,
+    "sid": "MAA1ADMAMgA4ADAAMAAwADIANwA=",
+    "name": "(公立)桃園市觀音區育仁國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

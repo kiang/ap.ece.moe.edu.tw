@@ -462,5 +462,21 @@
     "sid": "MAAyADEAMAA1ADAAMAAwADYANAA=",
     "name": "(非營利)臺北市民生非營利幼兒園（委託財團法人台北市中華基督教青年會辦理）",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0475057,
+    "lng": 121.5444487,
+    "sid": "MAAyADEAMAA1ADAAMAAwADYANQA=",
+    "name": "(私立)內政部營建署職場互助教保服務中心（委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理）",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.054423,
+    "lng": 121.5630142,
+    "sid": "MAAyADEAMAA1ADAAMAAwADYANgA=",
+    "name": "(私立)國防部軍備局健安新城職場互助教保服務中心（委託社團法人新竹市教保人員協會辦理）",
+    "type": "spub1"
   }
 ]

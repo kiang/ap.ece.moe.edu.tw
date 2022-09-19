@@ -294,5 +294,21 @@
     "sid": "MQAyADUANAAwADAAMAAwADMANwA=",
     "name": "(公立)南投縣南投市文山國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9064138,
+    "lng": 120.6779165,
+    "sid": "MQAyADUANAAwADAAMAAwADMAOAA=",
+    "name": "(私立)國防部全動署後備指揮部明德營區職場互助教保服務中心(委託社團法人臺灣兒童發展早療育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9036144,
+    "lng": 120.6896373,
+    "sid": "MQAyADUANAAwADAAMAAwADMAOQA=",
+    "name": "(私立)臺灣南投地方檢察署職場互助教保服務中心(委託社團法人中華宏觀專業幼童教保福利學會辦理)",
+    "type": "spub1"
   }
 ]

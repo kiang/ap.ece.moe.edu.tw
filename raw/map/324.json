@@ -470,5 +470,21 @@
     "sid": "MAA1ADMAMgA0ADAAMAAwADYANQA=",
     "name": "(公立)桃園市平鎮區新榮國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9531576,
+    "lng": 121.2033332,
+    "sid": "MAA1ADMAMgA0ADAAMAAwADYANgA=",
+    "name": "(公立)桃園市平鎮區文化國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9419971,
+    "lng": 121.1826324,
+    "sid": "MAA1ADMAMgA0ADAAMAAwADYANwA=",
+    "name": "(私立)國防部陸軍司令部第六軍團指揮部金鷹職場互助教保服務中心(委託社團法人桃園市領航國際嬰幼兒文化教育協會辦理)",
+    "type": "spub1"
   }
 ]

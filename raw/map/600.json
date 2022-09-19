@@ -542,5 +542,37 @@
     "sid": "MQA0ADYAMAAwADAAMAAwADgAOQA=",
     "name": "(公立)國立嘉義特殊教育學校幼兒部",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.4833952,
+    "lng": 120.461032,
+    "sid": "MQA0ADYAMAAwADAAMAAwADkAMAA=",
+    "name": "(私立)台電公司嘉義區營業處職場互助教保服務中心(委託社團法人中華育英社會教育關懷協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.4823593,
+    "lng": 120.4541932,
+    "sid": "MQA0ADYAMAAwADAAMAAwADkAMQA=",
+    "name": "(私立)國防部全動署後備指揮部安樂營區職場互助教保服務中心(委託社團法人臺灣兒童及少年福利促進學會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.485424,
+    "lng": 120.4594134,
+    "sid": "MQA0ADYAMAAwADAAMAAwADkAMgA=",
+    "name": "(私立)法務部嘉義維新職場互助教保服務中心(委託社團法人中華宏觀專業幼童教保福利學會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.4779289,
+    "lng": 120.4500827,
+    "sid": "MQA0ADYAMAAwADAAMAAwADkAMwA=",
+    "name": "(私立)中華郵政公司嘉義文化路郵局職場互助教保服務中心(委託社團法人東台灣幼兒教保專業促進協會辦理)",
+    "type": "spub1"
   }
 ]

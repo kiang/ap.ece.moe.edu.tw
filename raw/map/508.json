@@ -193,6 +193,14 @@
   },
   {
     "newsch": 1,
+    "lat": 24.1265701,
+    "lng": 120.5128877,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIANQAtADAANAA=",
+    "name": "(公立)彰化縣和美鎮立幼兒園嘉寶分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
     "lat": 24.106904,
     "lng": 120.530876,
     "sid": "MQAxADUAMAA4ADAAMAAwADIANgA=",
@@ -238,5 +246,13 @@
     "sid": "MQAxADUAMAA4ADAAMAAwADMAMQA=",
     "name": "(公立)國立和美實驗學校幼兒部",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.110668,
+    "lng": 120.531935,
+    "sid": "MQAxADUAMAA4ADAAMAAwADMAMgA=",
+    "name": "(準公共)彰化縣私立哈波特幼兒園",
+    "type": "spub3"
   }
 ]

@@ -478,5 +478,29 @@
     "sid": "MQA4ADgAMAA3ADAAMAAwADcAMQA=",
     "name": "(非營利)高雄市璐可非營利幼兒園(委託社團法人高雄市社區美學教育發展協會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6382925,
+    "lng": 120.3219739,
+    "sid": "MQA4ADgAMAA3ADAAMAAwADcAMgA=",
+    "name": "(非營利)國立科學工藝博物館員工子女非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6397894,
+    "lng": 120.3330719,
+    "sid": "MQA4ADgAMAA3ADAAMAAwADcAMwA=",
+    "name": "(非營利)高雄市大昌非營利幼兒園（委託高雄市教保人員職業工會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6484371,
+    "lng": 120.2925085,
+    "sid": "MQA4ADgAMAA3ADAAMAAwADcANAA=",
+    "name": "(私立)台電公司高屏供電區營運處職場互助教保服務中心(委託社團法人高雄市社區美學教育發展協會辦理)",
+    "type": "spub1"
   }
 ]

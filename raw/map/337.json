@@ -190,5 +190,13 @@
     "sid": "MAA1ADMAMwA3ADAAMAAwADIAOAA=",
     "name": "(公立)桃園市立竹圍國民中學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0815967,
+    "lng": 121.237939,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIAOQA=",
+    "name": "(私立)桃園國際機場愛兒寶職場互助教保服務中心(委託社團法人台灣幼兒早期教育協會辦理)",
+    "type": "spub1"
   }
 ]
