@@ -1,0 +1,82 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.0351881,
+    "lng": 120.5083561,
+    "sid": "MQAxADUAMAA0ADAAMAAwADAAMQA=",
+    "name": "(私立)彰化縣私立劍橋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.033183,
+    "lng": 120.494284,
+    "sid": "MQAxADUAMAA0ADAAMAAwADAAMgA=",
+    "name": "(私立)彰化縣私立維多利亞幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0627639,
+    "lng": 120.500278,
+    "sid": "MQAxADUAMAA0ADAAMAAwADAANAA=",
+    "name": "(準公共)彰化縣私立牛頓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.030804,
+    "lng": 120.490863,
+    "sid": "MQAxADUAMAA0ADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立福安幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0269999,
+    "lng": 120.493364,
+    "sid": "MQAxADUAMAA0ADAAMAAwADAANgA=",
+    "name": "(準公共)彰化縣私立哈佛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0392064,
+    "lng": 120.5003266,
+    "sid": "MQAxADUAMAA0ADAAMAAwADAANwA=",
+    "name": "(私立)彰化縣私立愛兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0350454,
+    "lng": 120.5023602,
+    "sid": "MQAxADUAMAA0ADAAMAAwADAAOAA=",
+    "name": "(私立)彰化縣私立英橋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.030333,
+    "lng": 120.498401,
+    "sid": "MQAxADUAMAA0ADAAMAAwADEAMAA=",
+    "name": "(公立)彰化縣秀水鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0041548,
+    "lng": 120.505408,
+    "sid": "MQAxADUAMAA0ADAAMAAwADEAMQA=",
+    "name": "(非營利)彰化縣育民非營利幼兒園（委託社團法人彰化縣友善教育公益協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.02408,
+    "lng": 120.4944408,
+    "sid": "MQAxADUAMAA0ADAAMAAwADEAMgA=",
+    "name": "(私立)彰化縣私立和德幼兒園",
+    "type": "spub1"
+  }
+]

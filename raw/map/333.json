@@ -1,0 +1,418 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.997152,
+    "lng": 121.339402,
+    "sid": "MAA1ADMAMwAzADAAMAAwADAAMQA=",
+    "name": "(私立)桃園市私立愛彌兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9906789,
+    "lng": 121.335671,
+    "sid": "MAA1ADMAMwAzADAAMAAwADAAMgA=",
+    "name": "(私立)桃園市私立慧兒園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.989262,
+    "lng": 121.357192,
+    "sid": "MAA1ADMAMwAzADAAMAAwADAAMwA=",
+    "name": "(公立)桃園市龜山區福源國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0577967,
+    "lng": 121.3694502,
+    "sid": "MAA1ADMAMwAzADAAMAAwADAANAA=",
+    "name": "(私立)桃園市私立丞格幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.990647,
+    "lng": 121.327019,
+    "sid": "MAA1ADMAMwAzADAAMAAwADAANQA=",
+    "name": "(準公共)桃園市私立立群幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9936021,
+    "lng": 121.3421659,
+    "sid": "MAA1ADMAMwAzADAAMAAwADAANgA=",
+    "name": "(準公共)桃園市私立六合幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9998578,
+    "lng": 121.367885,
+    "sid": "MAA1ADMAMwAzADAAMAAwADAANwA=",
+    "name": "(準公共)桃園市私立清心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9912265,
+    "lng": 121.3361816,
+    "sid": "MAA1ADMAMwAzADAAMAAwADAAOAA=",
+    "name": "(準公共)桃園市私立文馨幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.999993,
+    "lng": 121.368139,
+    "sid": "MAA1ADMAMwAzADAAMAAwADAAOQA=",
+    "name": "(準公共)桃園市私立清心新嶺幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0045695,
+    "lng": 121.345113,
+    "sid": "MAA1ADMAMwAzADAAMAAwADEAMAA=",
+    "name": "(私立)桃園市私立諾貝爾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9886172,
+    "lng": 121.3300164,
+    "sid": "MAA1ADMAMwAzADAAMAAwADEAMgA=",
+    "name": "(準公共)桃園市私立領航幸福幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0020339,
+    "lng": 121.363392,
+    "sid": "MAA1ADMAMwAzADAAMAAwADEAMwA=",
+    "name": "(公立)桃園市龜山區龜山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0183224,
+    "lng": 121.4071513,
+    "sid": "MAA1ADMAMwAzADAAMAAwADEANAA=",
+    "name": "(準公共)桃園市私立南華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0438249,
+    "lng": 121.3771043,
+    "sid": "MAA1ADMAMwAzADAAMAAwADEANQA=",
+    "name": "(私立)奇異園股份有限公司附設桃園市私立奇異鳥科園區幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.030119,
+    "lng": 121.375527,
+    "sid": "MAA1ADMAMwAzADAAMAAwADEANgA=",
+    "name": "(公立)桃園市龜山區大埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9917532,
+    "lng": 121.3296928,
+    "sid": "MAA1ADMAMwAzADAAMAAwADEANwA=",
+    "name": "(私立)桃園市私立馨兒園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.991062199999998,
+    "lng": 121.3439571,
+    "sid": "MAA1ADMAMwAzADAAMAAwADEAOAA=",
+    "name": "(準公共)桃園市私立皇冠幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.988838,
+    "lng": 121.330327,
+    "sid": "MAA1ADMAMwAzADAAMAAwADEAOQA=",
+    "name": "(公立)桃園市龜山區幸福國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.058377,
+    "lng": 121.384139,
+    "sid": "MAA1ADMAMwAzADAAMAAwADIAMAA=",
+    "name": "(私立)長庚醫療財團法人林口長庚紀念醫院附設桃園市私立長庚幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9930776,
+    "lng": 121.3348,
+    "sid": "MAA1ADMAMwAzADAAMAAwADIAMQA=",
+    "name": "(準公共)桃園市私立快樂斑比蒙特梭利幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.052246,
+    "lng": 121.357616,
+    "sid": "MAA1ADMAMwAzADAAMAAwADIAMgA=",
+    "name": "(公立)桃園市龜山區大崗國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050436,
+    "lng": 121.357039,
+    "sid": "MAA1ADMAMwAzADAAMAAwADIANAA=",
+    "name": "(私立)桃園市私立愛愛幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9956729,
+    "lng": 121.337738,
+    "sid": "MAA1ADMAMwAzADAAMAAwADIANQA=",
+    "name": "(準公共)桃園市私立永佳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0028569,
+    "lng": 121.3518402,
+    "sid": "MAA1ADMAMwAzADAAMAAwADIANgA=",
+    "name": "(公立)桃園市龜山區壽山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.010803,
+    "lng": 121.387908,
+    "sid": "MAA1ADMAMwAzADAAMAAwADIANwA=",
+    "name": "(公立)桃園市龜山區龍壽國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.03053,
+    "lng": 121.389559,
+    "sid": "MAA1ADMAMwAzADAAMAAwADIAOAA=",
+    "name": "(準公共)私立長庚學校財團法人長庚科技大學附設桃園市實驗幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.995494,
+    "lng": 121.33628,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMAMAA=",
+    "name": "(公立)桃園市龜山區新路國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.986996,
+    "lng": 121.329658,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMAMQA=",
+    "name": "(公立)桃園市立龜山幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.050766,
+    "lng": 121.359722,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMAMQAtADAAMgA=",
+    "name": "(公立)桃園市立龜山幼兒園苓林分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.01659,
+    "lng": 121.3993189,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMAMgA=",
+    "name": "(準公共)桃園市私立育全迴龍幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.989916,
+    "lng": 121.333395,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMAMwA=",
+    "name": "(準公共)桃園市私立福星幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.044589,
+    "lng": 121.31472,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMANAA=",
+    "name": "(公立)桃園市龜山區大坑國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.996837,
+    "lng": 121.345114,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMANQA=",
+    "name": "(私立)桃園市私立欣興幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0531579,
+    "lng": 121.366075,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMANgA=",
+    "name": "(私立)桃園市私立喬立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.05741,
+    "lng": 121.371964,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMANwA=",
+    "name": "(非營利)桃園市文欣非營利幼兒園（委託財團法人靖娟兒童安全文教基金會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0537738,
+    "lng": 121.3816714,
+    "sid": "MAA1ADMAMwAzADAAMAAwADMAOAA=",
+    "name": "(非營利)桃園市文德非營利幼兒園（委託財團法人靖娟兒童安全文教基金會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.018662,
+    "lng": 121.403348,
+    "sid": "MAA1ADMAMwAzADAAMAAwADQAMAA=",
+    "name": "(私立)私立光啟學校財團法人桃園市光啟高級中學附設幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9918894,
+    "lng": 121.3277232,
+    "sid": "MAA1ADMAMwAzADAAMAAwADQAMgA=",
+    "name": "(公立)桃園市龜山區山頂國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.053231,
+    "lng": 121.359453,
+    "sid": "MAA1ADMAMwAzADAAMAAwADQANAA=",
+    "name": "(準公共)桃園市私立慈心園幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.019347,
+    "lng": 121.405135,
+    "sid": "MAA1ADMAMwAzADAAMAAwADQANwA=",
+    "name": "(公立)桃園市立迴龍國民中小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0477761,
+    "lng": 121.2969074,
+    "sid": "MAA1ADMAMwAzADAAMAAwADQAOAA=",
+    "name": "(公立)桃園市龜山區南美國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0520377,
+    "lng": 121.3827215,
+    "sid": "MAA1ADMAMwAzADAAMAAwADQAOQA=",
+    "name": "(公立)桃園市龜山區樂善國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9975371,
+    "lng": 121.3453726,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUAMAA=",
+    "name": "(公立)桃園市龜山區自強國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0579744,
+    "lng": 121.3600016,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUAMQA=",
+    "name": "(公立)桃園市龜山區大湖國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0465893,
+    "lng": 121.3550861,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUAMgA=",
+    "name": "(私立)桃園市私立馨笭光幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.005908,
+    "lng": 121.3431056,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUAMwA=",
+    "name": "(公立)桃園市龜山區楓樹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0514515,
+    "lng": 121.3650787,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUANAA=",
+    "name": "(非營利)桃園市文華非營利幼兒園（委託財團法人三之三生命教育基金會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0520753,
+    "lng": 121.3597804,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUANQA=",
+    "name": "(私立)桃園市私立心藝幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9984688,
+    "lng": 121.3391635,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUANgA=",
+    "name": "(非營利)桃園市光峰非營利幼兒園（委託社團法人新北市巧湖溫馨關懷發展協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9880026,
+    "lng": 121.3318389,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUANgAtADAAMQA=",
+    "name": "(非營利)桃園市光峰非營利幼兒園（委託社團法人新北市巧湖溫馨關懷發展協會辦理）幸福分班",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0393405,
+    "lng": 121.3878768,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUANwA=",
+    "name": "(私立)桃園市私立彩虹島幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0483353,
+    "lng": 121.3800453,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUAOAA=",
+    "name": "(私立)桃園市私立嘉捷幼兒園",
+    "type": "spub1"
+  }
+]

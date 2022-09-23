@@ -1,0 +1,202 @@
+[
+  {
+    "newsch": 1,
+    "lat": 25.0587108,
+    "lng": 121.1983918,
+    "sid": "MAA1ADMAMwAwADAAMAAwADUAOAA=",
+    "name": "(私立)桃園市私立哈囉凱蒂幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.080669,
+    "lng": 121.215001,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADAANQA=",
+    "name": "(公立)桃園市大園區后厝國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0619649,
+    "lng": 121.202275,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADAANgA=",
+    "name": "(準公共)桃園市私立大中華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.061748,
+    "lng": 121.202195,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADAANwA=",
+    "name": "(準公共)桃園市私立中華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0471631,
+    "lng": 121.1874711,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADAAOAA=",
+    "name": "(公立)桃園市大園區溪海國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.048443,
+    "lng": 121.226066,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADAAOQA=",
+    "name": "(公立)桃園市大園區埔心國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0690623,
+    "lng": 121.1944166,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEAMwA=",
+    "name": "(私立)桃園市私立格林國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0638309,
+    "lng": 121.193094,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEANAA=",
+    "name": "(私立)桃園市私立惠翔幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.065935,
+    "lng": 121.19916,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEANQA=",
+    "name": "(公立)桃園市立大園幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0617093,
+    "lng": 121.1736126,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEANQAtADAAMQA=",
+    "name": "(公立)桃園市立大園幼兒園南港分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.023912,
+    "lng": 121.2309122,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEANQAtADAAMgA=",
+    "name": "(公立)桃園市立大園幼兒園五權分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.05141,
+    "lng": 121.219711,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEANQAtADAANAA=",
+    "name": "(公立)桃園市立大園幼兒園埔心分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0729389,
+    "lng": 121.25922,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEANQAtADAANgA=",
+    "name": "(公立)桃園市立大園幼兒園三和分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.108577,
+    "lng": 121.241822,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEANQAtADAAOAA=",
+    "name": "(公立)桃園市立大園幼兒園海口分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0294101,
+    "lng": 121.1959306,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEANgA=",
+    "name": "(準公共)桃園市私立溪海大自然幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.881383,
+    "lng": 121.291184,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADEAOAA=",
+    "name": "(私立)桃園市私立培英幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.065256,
+    "lng": 121.172533,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIAMQA=",
+    "name": "(公立)桃園市大園區潮音國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.058577,
+    "lng": 121.195332,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIAMgA=",
+    "name": "(私立)桃園市私立佛利亞華興幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.077166,
+    "lng": 121.25622,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIAMwA=",
+    "name": "(公立)桃園市大園區菓林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0246496,
+    "lng": 121.2200874,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIANAA=",
+    "name": "(非營利)桃園市桃捷非營利幼兒園(委託社團法人台灣幸福園親子教育推廣學會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0590851,
+    "lng": 121.2026707,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIANQA=",
+    "name": "(非營利)桃園市橫峰非營利幼兒園（委託社團法人中華民國城鄉形象協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.086556,
+    "lng": 121.1907017,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIANgA=",
+    "name": "(公立)桃園市大園區內海國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.023834,
+    "lng": 121.2308916,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIANwA=",
+    "name": "(公立)桃園市大園區五權國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1078196,
+    "lng": 121.2294405,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIAOAA=",
+    "name": "(公立)桃園市立竹圍國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0815967,
+    "lng": 121.237939,
+    "sid": "MAA1ADMAMwA3ADAAMAAwADIAOQA=",
+    "name": "(私立)桃園國際機場愛兒寶職場互助教保服務中心(委託社團法人台灣幼兒早期教育協會辦理)",
+    "type": "spub1"
+  }
+]
