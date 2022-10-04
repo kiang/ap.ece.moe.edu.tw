@@ -1,0 +1,122 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.9038211,
+    "lng": 121.1431405,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADAAMQA=",
+    "name": "(準公共)新竹縣私立興盛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.826586,
+    "lng": 121.084648,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADAAMwA=",
+    "name": "(準公共)新竹縣私立芮蒂幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.827706,
+    "lng": 121.072932,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADAANAA=",
+    "name": "(準公共)新竹縣私立貝爾實驗幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.823911,
+    "lng": 121.077747,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADAANwA=",
+    "name": "(私立)新竹縣私立祐昇幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.827066,
+    "lng": 121.072385,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADAAOAA=",
+    "name": "(準公共)新竹縣私立仁美幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.829886,
+    "lng": 121.07333,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADAAOQA=",
+    "name": "(公立)新竹縣新埔鎮新星國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8280601,
+    "lng": 121.079366,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEAMAA=",
+    "name": "(公立)新竹縣新埔鎮新埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.816361,
+    "lng": 121.078832,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEAMQA=",
+    "name": "(準公共)新竹縣私立親愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8296121,
+    "lng": 121.066851,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEAMgA=",
+    "name": "(準公共)新竹縣私立源興幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.855077,
+    "lng": 121.115682,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEANAA=",
+    "name": "(公立)新竹縣新埔鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8291587,
+    "lng": 121.0392043,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEANAAtADAAMQA=",
+    "name": "(公立)新竹縣新埔鎮立幼兒園文山分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.829548,
+    "lng": 121.035579,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEANQA=",
+    "name": "(私立)新竹縣私立檸檬樹幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8367524,
+    "lng": 121.0514671,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEANgA=",
+    "name": "(公立)新竹縣新埔鎮枋寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8261639,
+    "lng": 121.0727722,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEANwA=",
+    "name": "(私立)財團法人新竹縣照海至陽教育基金會附設私立照海幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8255196,
+    "lng": 121.0479429,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEAOAA=",
+    "name": "(公立)新竹縣新埔鎮文山國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

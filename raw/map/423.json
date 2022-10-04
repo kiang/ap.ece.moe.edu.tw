@@ -1,0 +1,138 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.1630396,
+    "lng": 120.8470133,
+    "sid": "MAA5ADQAMgAzADAAMAAwADAAMQA=",
+    "name": "(準公共)臺中市私立藍天幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.250988,
+    "lng": 120.833302,
+    "sid": "MAA5ADQAMgAzADAAMAAwADAAMgA=",
+    "name": "(準公共)臺中市私立新家家幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.264316,
+    "lng": 120.824803,
+    "sid": "MAA5ADQAMgAzADAAMAAwADAAMwA=",
+    "name": "(私立)臺中市私立一心園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1693751,
+    "lng": 120.8419594,
+    "sid": "MAA5ADQAMgAzADAAMAAwADAANAA=",
+    "name": "(準公共)臺中市私立米堤幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.259319,
+    "lng": 120.829852,
+    "sid": "MAA5ADQAMgAzADAAMAAwADAANQA=",
+    "name": "(準公共)臺中市私立江老師幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.25222,
+    "lng": 120.830817,
+    "sid": "MAA5ADQAMgAzADAAMAAwADAANgA=",
+    "name": "(私立)臺中市私立東勢芝蔴街幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2625821,
+    "lng": 120.8247691,
+    "sid": "MAA5ADQAMgAzADAAMAAwADAAOAA=",
+    "name": "(準公共)臺中市私立吉麗幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.286281,
+    "lng": 120.792279,
+    "sid": "MAA5ADQAMgAzADAAMAAwADAAOQA=",
+    "name": "(公立)臺中市東勢區石城國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2606759,
+    "lng": 120.827314,
+    "sid": "MAA5ADQAMgAzADAAMAAwADEAMAA=",
+    "name": "(公立)臺中市東勢區東新國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.257111,
+    "lng": 120.825499,
+    "sid": "MAA5ADQAMgAzADAAMAAwADEAMQA=",
+    "name": "(公立)臺中市立東勢幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1807474,
+    "lng": 120.8394961,
+    "sid": "MAA5ADQAMgAzADAAMAAwADEAMgA=",
+    "name": "(公立)臺中市東勢區成功國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.238109,
+    "lng": 120.850373,
+    "sid": "MAA5ADQAMgAzADAAMAAwADEAMwA=",
+    "name": "(公立)臺中市東勢區石角國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2435149,
+    "lng": 120.8318331,
+    "sid": "MAA5ADQAMgAzADAAMAAwADEANAA=",
+    "name": "(公立)臺中市東勢區新盛國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2520849,
+    "lng": 120.8424487,
+    "sid": "MAA5ADQAMgAzADAAMAAwADEANQA=",
+    "name": "(公立)臺中市東勢區中科國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2529395,
+    "lng": 120.8351134,
+    "sid": "MAA5ADQAMgAzADAAMAAwADEANgA=",
+    "name": "(公立)臺中市東勢區中山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2163305,
+    "lng": 120.838262,
+    "sid": "MAA5ADQAMgAzADAAMAAwADEANwA=",
+    "name": "(公立)臺中市東勢區新成國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.2585133,
+    "lng": 120.8307672,
+    "sid": "MAA5ADQAMgAzADAAMAAwADEAOAA=",
+    "name": "(公立)臺中市東勢區東勢國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

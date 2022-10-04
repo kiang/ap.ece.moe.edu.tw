@@ -1,0 +1,338 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.976314,
+    "lng": 121.273587,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADAAMQA=",
+    "name": "(準公共)桃園市私立高城快樂斑比蒙氏幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.969812,
+    "lng": 121.2956308,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADAAMgA=",
+    "name": "(私立)桃園市私立瑞恩帝兒桃德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.958433,
+    "lng": 121.298278,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADAAMwA=",
+    "name": "(公立)桃園市八德區大成國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.946583,
+    "lng": 121.287945,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADAANgA=",
+    "name": "(準公共)桃園市私立樂兒國幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.933525,
+    "lng": 121.300043,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADAANwA=",
+    "name": "(準公共)桃園市私立貝果幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9618417,
+    "lng": 121.3054691,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADAAOAA=",
+    "name": "(私立)桃園市私立愛兒群幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9330619,
+    "lng": 121.267135,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADAAOQA=",
+    "name": "(準公共)桃園市私立悅興幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9753948,
+    "lng": 121.3008922,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADEAMQA=",
+    "name": "(私立)桃園市私立田喬幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9651739,
+    "lng": 121.3118748,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADEAMwA=",
+    "name": "(準公共)桃園市私立欣妍幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.929053,
+    "lng": 121.283963,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADEANAA=",
+    "name": "(公立)桃園市八德區八德國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.976957,
+    "lng": 121.276188,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADEANQA=",
+    "name": "(準公共)桃園市私立三立幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9651136,
+    "lng": 121.3082918,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADEANgA=",
+    "name": "(準公共)桃園市私立溫德爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9588399,
+    "lng": 121.294488,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADEANwA=",
+    "name": "(私立)桃園市私立廣福幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.935752,
+    "lng": 121.299116,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADEAOAA=",
+    "name": "(公立)桃園市八德區瑞豐國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9880828,
+    "lng": 121.278504,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADEAOQA=",
+    "name": "(私立)桃園市私立英國皇家萊恩幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9395659,
+    "lng": 121.2991429,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADIAMAA=",
+    "name": "(私立)桃園市私立加貝爾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.951049,
+    "lng": 121.284526,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADIAMQA=",
+    "name": "(私立)桃園市私立優德威幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.957894,
+    "lng": 121.293958,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADIAMgA=",
+    "name": "(準公共)桃園市私立優比幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.964896,
+    "lng": 121.307089,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADIAMwA=",
+    "name": "(私立)桃園市私立小牛津幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9754979,
+    "lng": 121.301894,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADIANAA=",
+    "name": "(準公共)桃園市私立明新幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9331809,
+    "lng": 121.267329,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADIANQA=",
+    "name": "(準公共)桃園市私立德育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9772201,
+    "lng": 121.2753375,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADIANgA=",
+    "name": "(準公共)桃園市私立集賢幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.970048,
+    "lng": 121.3214019,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADIANwA=",
+    "name": "(準公共)桃園市私立名人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.980719,
+    "lng": 121.280188,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAMAA=",
+    "name": "(準公共)桃園市私立佳和幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.959857,
+    "lng": 121.292199,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAMQA=",
+    "name": "(準公共)桃園市私立英國皇家幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.95395,
+    "lng": 121.326458,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAMgA=",
+    "name": "(公立)桃園市立八德幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9575479,
+    "lng": 121.2987553,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAMgAtADAAMQA=",
+    "name": "(公立)桃園市立八德幼兒園大成分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.961542,
+    "lng": 121.297463,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAMgAtADAAMgA=",
+    "name": "(公立)桃園市立八德幼兒園大同分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.96824,
+    "lng": 121.303632,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAMgAtADAAMwA=",
+    "name": "(公立)桃園市立八德幼兒園大勇分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9647066,
+    "lng": 121.2785116,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAMwA=",
+    "name": "(公立)桃園市八德區茄苳國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9594342,
+    "lng": 121.3056774,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMANAA=",
+    "name": "(準公共)桃園市私立偵娣幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.936214,
+    "lng": 121.264596,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMANwA=",
+    "name": "(公立)桃園市八德區霄裡國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9251167,
+    "lng": 121.2872219,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAOAA=",
+    "name": "(私立)桃園市私立凱思堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9265986,
+    "lng": 121.2871053,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAOAAtADAAMQA=",
+    "name": "(私立)桃園市私立凱思堡幼兒園豐田分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9567179,
+    "lng": 121.3148929,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADMAOQA=",
+    "name": "(公立)桃園市八德區大安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9329992,
+    "lng": 121.2682728,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQAMAA=",
+    "name": "(私立)桃園市私立虹橋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.945367,
+    "lng": 121.2885757,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQAMQA=",
+    "name": "(準公共)桃園市私立育欣幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9591515,
+    "lng": 121.3001536,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQAMgA=",
+    "name": "(私立)桃園市私立森林寶貝幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9548246,
+    "lng": 121.2951892,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQAMwA=",
+    "name": "(非營利)桃園市大和非營利幼兒園(委託明新學校財團法人設立之明新科技大學辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9355504,
+    "lng": 121.2812312,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQANAA=",
+    "name": "(非營利)桃園市北青非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9248982,
+    "lng": 121.287095,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQANQA=",
+    "name": "(私立)桃園市私立育全豐德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9452776,
+    "lng": 121.2833942,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQANgA=",
+    "name": "(公立)桃園市八德區廣興國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]
