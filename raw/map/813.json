@@ -25,26 +25,10 @@
   },
   {
     "newsch": 1,
-    "lat": 22.6595947,
-    "lng": 120.3039485,
-    "sid": "MQA4ADgAMQAzADAAMAAwADAANgA=",
-    "name": "(私立)高雄市私立奧斯佛爾幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
     "lat": 22.684267,
     "lng": 120.312375,
     "sid": "MQA4ADgAMQAzADAAMAAwADAANwA=",
     "name": "(私立)高雄市私立明倫幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.682013,
-    "lng": 120.313763,
-    "sid": "MQA4ADgAMQAzADAAMAAwADAAOQA=",
-    "name": "(私立)高雄市私立芝蔴街幼兒園",
     "type": "spub1"
   },
   {
@@ -270,14 +254,6 @@
     "sid": "MQA4ADgAMQAzADAAMAAwADQAMwA=",
     "name": "(準公共)高雄市私立小天使幼兒園",
     "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.679341,
-    "lng": 120.312624,
-    "sid": "MQA4ADgAMQAzADAAMAAwADQANAA=",
-    "name": "(私立)高雄市私立愛仁幼兒園",
-    "type": "spub1"
   },
   {
     "newsch": 1,

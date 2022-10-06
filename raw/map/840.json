@@ -1,14 +1,6 @@
 [
   {
     "newsch": 1,
-    "lat": 22.6586379,
-    "lng": 120.4192816,
-    "sid": "MQA4ADgANAAwADAAMAAwADAAMgA=",
-    "name": "(私立)高雄市私立育大幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
     "lat": 22.729358,
     "lng": 120.402984,
     "sid": "MQA4ADgANAAwADAAMAAwADAAMwA=",
@@ -86,14 +78,6 @@
     "sid": "MQA4ADgANAAwADAAMAAwADEAMwA=",
     "name": "(準公共)高雄市私立愛慈兒幼兒園",
     "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.6568786,
-    "lng": 120.4167827,
-    "sid": "MQA4ADgANAAwADAAMAAwADEANAA=",
-    "name": "(私立)高雄市私立育才幼兒園",
-    "type": "spub1"
   },
   {
     "newsch": 1,
