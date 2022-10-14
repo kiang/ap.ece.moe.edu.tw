@@ -526,5 +526,13 @@
     "sid": "MAAyADEAMQAyADAAMAAwADcAMwA=",
     "name": "(私立)臺北市中華電信北投職場互助教保服務中心（委託社團法人台灣幼兒早期教育協會辦理）",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.134939,
+    "lng": 121.5046099,
+    "sid": "MAAyADEAMQAyADAAMAAwADcANAA=",
+    "name": "(非營利)臺北市北溫非營利幼兒園(委託社團法人台北市教保人員協會辦理)",
+    "type": "spub2"
   }
 ]

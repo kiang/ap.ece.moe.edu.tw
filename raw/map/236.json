@@ -478,5 +478,13 @@
     "sid": "MAAzADIAMwA2ADAAMAAwADcANwA=",
     "name": "(私立)新北市私立愛迪爾國際幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9888254,
+    "lng": 121.4575132,
+    "sid": "MAAzADIAMwA2ADAAMAAwADcAOAA=",
+    "name": "(私立)新北市私立有一天幼兒園",
+    "type": "spub1"
   }
 ]

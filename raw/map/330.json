@@ -934,5 +934,45 @@
     "sid": "MAA1ADMAMwAwADAAMAAxADIAMgA=",
     "name": "(私立)憲兵指揮部慈平一村職場互助教保服務中心(委託財團法人彭婉如文教基金會辦理)",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9933106,
+    "lng": 121.2968588,
+    "sid": "MAA1ADMAMwAwADAAMAAxADIAMwA=",
+    "name": "(私立)行政院農業委員會農田水利署桃園管理處職場互助教保服務中心(委託社團法人桃園市全能多元文教發展協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9948219,
+    "lng": 121.2917492,
+    "sid": "MAA1ADMAMwAwADAAMAAxADIANAA=",
+    "name": "(私立)臺灣桃園地方檢察署職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9983963,
+    "lng": 121.2887942,
+    "sid": "MAA1ADMAMwAwADAAMAAxADIANQA=",
+    "name": "(私立)桃園市私立福祿貝爾國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.989146,
+    "lng": 121.305873,
+    "sid": "MAA1ADMAMwAwADAAMAAxADIANgA=",
+    "name": "(非營利)桃園市復興非營利幼兒園 (委託社團法人桃園市全能多元文教發展協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9965652,
+    "lng": 121.3056913,
+    "sid": "MAA1ADMAMwAwADAAMAAxADIANwA=",
+    "name": "(非營利)桃園市中福非營利幼兒園 (委託社團法人中華啟幼思學會辦理)",
+    "type": "spub2"
   }
 ]
