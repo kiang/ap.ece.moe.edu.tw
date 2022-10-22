@@ -414,5 +414,13 @@
     "sid": "MAA1ADMAMwAzADAAMAAwADUAOAA=",
     "name": "(私立)桃園市私立嘉捷幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.046967,
+    "lng": 121.3520797,
+    "sid": "MAA1ADMAMwAzADAAMAAwADUAOQA=",
+    "name": "(非營利)中央警察大學誠園員工子女非營利幼兒園(委託社團法人桃園市教保服務人員協會辦理)",
+    "type": "spub2"
   }
 ]
