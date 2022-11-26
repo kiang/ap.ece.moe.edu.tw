@@ -534,5 +534,13 @@
     "sid": "MAAyADEAMQAyADAAMAAwADcANAA=",
     "name": "(非營利)臺北市北溫非營利幼兒園(委託社團法人台北市教保人員協會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1189315,
+    "lng": 121.5170686,
+    "sid": "MAAyADEAMQAyADAAMAAwADcANQA=",
+    "name": "(私立)內政部警政署保安警察第一總隊職場互助教保服務中心（委託社團法人臺北市教保托育協會辦理）",
+    "type": "spub1"
   }
 ]

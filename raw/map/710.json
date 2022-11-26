@@ -502,5 +502,13 @@
     "sid": "MQA2ADcAMQAwADAAMAAwADcAMgA=",
     "name": "(準公共)臺南市私立青蘋果幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9981643,
+    "lng": 120.2523608,
+    "sid": "MQA2ADcAMQAwADAAMAAwADcAMwA=",
+    "name": "(私立)私立崑山科技大學附屬臺南市崑山哈佛幼兒園",
+    "type": "spub1"
   }
 ]
