@@ -1,0 +1,242 @@
+[
+  {
+    "newsch": 1,
+    "lat": 25.072366,
+    "lng": 121.4342529,
+    "sid": "MAAzADIANAA4ADAAMAAwADAAMQA=",
+    "name": "(準公共)新北市私立薇妮幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1022173,
+    "lng": 121.450889,
+    "sid": "MAAzADIANAA4ADAAMAAwADAAMgA=",
+    "name": "(準公共)新北市私立良華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0973839,
+    "lng": 121.4489378,
+    "sid": "MAAzADIANAA4ADAAMAAwADAAMwA=",
+    "name": "(準公共)新北市私立強生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0961937,
+    "lng": 121.4490167,
+    "sid": "MAAzADIANAA4ADAAMAAwADAANQA=",
+    "name": "(準公共)新北市私立聖雅幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0698947,
+    "lng": 121.4355011,
+    "sid": "MAAzADIANAA4ADAAMAAwADAANgA=",
+    "name": "(私立)新北市私立華盛頓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.073089,
+    "lng": 121.434197,
+    "sid": "MAAzADIANAA4ADAAMAAwADAANwA=",
+    "name": "(私立)新北市私立德寶幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.103394,
+    "lng": 121.450278,
+    "sid": "MAAzADIANAA4ADAAMAAwADAAOAA=",
+    "name": "(準公共)新北市私立星辰幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0844254,
+    "lng": 121.4375468,
+    "sid": "MAAzADIANAA4ADAAMAAwADEAMQA=",
+    "name": "(私立)新北市私立成泰幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0983522,
+    "lng": 121.4495352,
+    "sid": "MAAzADIANAA4ADAAMAAwADEAMgA=",
+    "name": "(私立)新北市私立維珍妮幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0908468,
+    "lng": 121.4322232,
+    "sid": "MAAzADIANAA4ADAAMAAwADEANAA=",
+    "name": "(準公共)新北市私立優質幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.099591,
+    "lng": 121.450571,
+    "sid": "MAAzADIANAA4ADAAMAAwADEANQA=",
+    "name": "(公立)新北市五股區成州國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.070873,
+    "lng": 121.467339,
+    "sid": "MAAzADIANAA4ADAAMAAwADEANgA=",
+    "name": "(公立)新北市五股區更寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.08242,
+    "lng": 121.437354,
+    "sid": "MAAzADIANAA4ADAAMAAwADEANwA=",
+    "name": "(公立)新北市五股區五股國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.071544,
+    "lng": 121.434951,
+    "sid": "MAAzADIANAA4ADAAMAAwADEAOAA=",
+    "name": "(公立)新北市五股區德音國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0888058,
+    "lng": 121.43419,
+    "sid": "MAAzADIANAA4ADAAMAAwADEAOQA=",
+    "name": "(公立)新北市立五股幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0713246,
+    "lng": 121.4305157,
+    "sid": "MAAzADIANAA4ADAAMAAwADEAOQAtADAAMQA=",
+    "name": "(公立)新北市立五股幼兒園水碓分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0794437,
+    "lng": 121.4571909,
+    "sid": "MAAzADIANAA4ADAAMAAwADEAOQAtADAAMgA=",
+    "name": "(公立)新北市立五股幼兒園更新分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0899377,
+    "lng": 121.4425655,
+    "sid": "MAAzADIANAA4ADAAMAAwADEAOQAtADAAMwA=",
+    "name": "(公立)新北市立五股幼兒園成州分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.080524,
+    "lng": 121.435758,
+    "sid": "MAAzADIANAA4ADAAMAAwADEAOQAtADAANAA=",
+    "name": "(公立)新北市立五股幼兒園德音分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0895262,
+    "lng": 121.4318377,
+    "sid": "MAAzADIANAA4ADAAMAAwADEAOQAtADAANQA=",
+    "name": "(公立)新北市立五股幼兒園陸一分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.084322,
+    "lng": 121.4384313,
+    "sid": "MAAzADIANAA4ADAAMAAwADIAMAA=",
+    "name": "(私立)新北市私立凱怡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.07132,
+    "lng": 121.4332807,
+    "sid": "MAAzADIANAA4ADAAMAAwADIAMQA=",
+    "name": "(私立)新北市私立振鋒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.083433,
+    "lng": 121.438384,
+    "sid": "MAAzADIANAA4ADAAMAAwADIAMgA=",
+    "name": "(私立)新北市私立威爾斯幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0832184,
+    "lng": 121.4394565,
+    "sid": "MAAzADIANAA4ADAAMAAwADIAMwA=",
+    "name": "(私立)新北市私立學華幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0706053,
+    "lng": 121.4270427,
+    "sid": "MAAzADIANAA4ADAAMAAwADIANAA=",
+    "name": "(私立)新北市私立新邦仁幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.09837,
+    "lng": 121.4492711,
+    "sid": "MAAzADIANAA4ADAAMAAwADIANQA=",
+    "name": "(私立)新北市私立小百科幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0768139,
+    "lng": 121.4352223,
+    "sid": "MAAzADIANAA4ADAAMAAwADIANgA=",
+    "name": "(私立)新北市私立溫德爾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0853918,
+    "lng": 121.4351562,
+    "sid": "MAAzADIANAA4ADAAMAAwADIANwA=",
+    "name": "(準公共)新北市私立文愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0860055,
+    "lng": 121.4348643,
+    "sid": "MAAzADIANAA4ADAAMAAwADIAOAA=",
+    "name": "(私立)新北市私立菲米力幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0894177,
+    "lng": 121.4312058,
+    "sid": "MAAzADIANAA4ADAAMAAwADIAOQA=",
+    "name": "(私立)國防部陸軍司令部第六軍團指揮部前鋒職場互助教保服務中心(委託財團法人三之三生命教育基金會辦理)",
+    "type": "spub1"
+  }
+]
