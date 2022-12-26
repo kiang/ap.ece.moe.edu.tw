@@ -1,0 +1,138 @@
+[
+  {
+    "newsch": 1,
+    "lat": 25.1322659,
+    "lng": 121.7819941,
+    "sid": "MAAxADIAMAAxADAAMAAwADAAMQA=",
+    "name": "(私立)基隆市私立新美幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.131997,
+    "lng": 121.769572,
+    "sid": "MAAxADIAMAAxADAAMAAwADAAMwA=",
+    "name": "(私立)基隆市私立道生幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.127872,
+    "lng": 121.755262,
+    "sid": "MAAxADIAMAAxADAAMAAwADAANAA=",
+    "name": "(私立)基隆市私立柴爾德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.129008,
+    "lng": 121.762812,
+    "sid": "MAAxADIAMAAxADAAMAAwADAANQA=",
+    "name": "(公立)基隆市信義區東光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.131379,
+    "lng": 121.760529,
+    "sid": "MAAxADIAMAAxADAAMAAwADAANgA=",
+    "name": "(公立)基隆市信義區東信國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1368353,
+    "lng": 121.7780014,
+    "sid": "MAAxADIAMAAxADAAMAAwADAANwA=",
+    "name": "(私立)基隆市私立哈博士幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.130062,
+    "lng": 121.757335,
+    "sid": "MAAxADIAMAAxADAAMAAwADAAOAA=",
+    "name": "(公立)基隆市信義區中興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1259693,
+    "lng": 121.7863223,
+    "sid": "MAAxADIAMAAxADAAMAAwADAAOQA=",
+    "name": "(公立)基隆市信義區深澳國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.137193,
+    "lng": 121.778441,
+    "sid": "MAAxADIAMAAxADAAMAAwADEAMAA=",
+    "name": "(公立)基隆市信義區深美國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.128501,
+    "lng": 121.752154,
+    "sid": "MAAxADIAMAAxADAAMAAwADEAMQA=",
+    "name": "(私立)財團法人天主教會台北教區基隆市私立若石幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.132707,
+    "lng": 121.781644,
+    "sid": "MAAxADIAMAAxADAAMAAwADEAMgA=",
+    "name": "(準公共)基隆市私立培利園幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.134644,
+    "lng": 121.7825515,
+    "sid": "MAAxADIAMAAxADAAMAAwADEANQA=",
+    "name": "(準公共)基隆市私立森美幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.131599,
+    "lng": 121.761528,
+    "sid": "MAAxADIAMAAxADAAMAAwADEANgA=",
+    "name": "(準公共)基隆市私立啟賢幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1325751,
+    "lng": 121.782372,
+    "sid": "MAAxADIAMAAxADAAMAAwADEAOAA=",
+    "name": "(私立)基隆市私立嘉美幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1288919,
+    "lng": 121.768463,
+    "sid": "MAAxADIAMAAxADAAMAAwADIAMAA=",
+    "name": "(非營利)基隆市信義非營利幼兒園(委託社團法人台北市教保人員協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1280514,
+    "lng": 121.7770181,
+    "sid": "MAAxADIAMAAxADAAMAAwADIAMQA=",
+    "name": "(私立)基隆市私立薇莘幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.129648,
+    "lng": 121.7466488,
+    "sid": "MAAxADIAMAAxADAAMAAwADIAMgA=",
+    "name": "(私立)基隆市陽明海運職場互助教保服務中心(委託社團法人臺灣兒童教育發展協會辦理)",
+    "type": "spub1"
+  }
+]
