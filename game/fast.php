@@ -26,7 +26,7 @@ $form = $crawler->selectButton('搜尋')->form();
 $taskFound = false;
 $countTotal = 0;
 $countFailed = 0;
-foreach (glob($basePath . '/data/*.csv') as $csvFile) {
+foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {
