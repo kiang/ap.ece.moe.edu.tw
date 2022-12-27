@@ -52,12 +52,14 @@ $pool = [
 ];
 foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
-    foreach ($json as $item) {
-        $pos = strpos($item['name'], ')');
-        if (false !== $pos) {
-            $item['name'] = substr($item['name'], $pos + 1);
+    if (!empty($json)) {
+        foreach ($json as $item) {
+            $pos = strpos($item['name'], ')');
+            if (false !== $pos) {
+                $item['name'] = substr($item['name'], $pos + 1);
+            }
+            $pool[$item['name']] = [$item['lng'], $item['lat']];
         }
-        $pool[$item['name']] = [$item['lng'], $item['lat']];
     }
 }
 
