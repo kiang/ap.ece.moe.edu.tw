@@ -142,5 +142,13 @@
     "sid": "MAA5ADQAMwA0ADAAMAAwADEANQA=",
     "name": "(公立)臺中市龍井區龍津國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1801407,
+    "lng": 120.5441768,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEANgA=",
+    "name": "(私立)臺中市私立欣東森幼兒園",
+    "type": "spub1"
   }
 ]

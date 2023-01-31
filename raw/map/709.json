@@ -534,5 +534,21 @@
     "sid": "MQA2ADcAMAA5ADAAMAAwADYAMwA=",
     "name": "(非營利)臺南市中信員工子女非營利幼兒園(中信學校財團法人申請辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0172664,
+    "lng": 120.180471,
+    "sid": "MQA2ADcAMAA5ADAAMAAwADYANAA=",
+    "name": "(私立)臺南市私立光漢幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0297065,
+    "lng": 120.2079495,
+    "sid": "MQA2ADcAMAA5ADAAMAAwADYANQA=",
+    "name": "(私立)臺南市私立貝思樂人文藝術幼兒園",
+    "type": "spub1"
   }
 ]

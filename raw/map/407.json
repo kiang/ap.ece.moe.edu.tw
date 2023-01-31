@@ -550,5 +550,21 @@
     "sid": "MAA5ADQAMAA3ADAAMAAwADgAOAA=",
     "name": "(私立)臺中市私立福樂蒙特梭利幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1751127,
+    "lng": 120.6618306,
+    "sid": "MAA5ADQAMAA3ADAAMAAwADgAOQA=",
+    "name": "(私立)國防部陸軍司令部崑崙職場互助教保服務中心(委託社團法人幼兒教保協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1749157,
+    "lng": 120.6617892,
+    "sid": "MAA5ADQAMAA3ADAAMAAwADkAMAA=",
+    "name": "(私立)國防部陸軍司令部虎威職場互助教保服務中心(委託社團法人幼兒教保協會辦理)",
+    "type": "spub1"
   }
 ]

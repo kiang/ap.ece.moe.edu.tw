@@ -950,5 +950,13 @@
     "sid": "MAA1ADMAMwAwADAAMAAxADIANwA=",
     "name": "(非營利)桃園市中福非營利幼兒園 (委託社團法人中華啟幼思學會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0104464,
+    "lng": 121.2881268,
+    "sid": "MAA1ADMAMwAwADAAMAAxADIAOAA=",
+    "name": "(私立)桃園市私立暖暖幼兒園",
+    "type": "spub1"
   }
 ]
