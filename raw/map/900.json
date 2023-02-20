@@ -438,5 +438,21 @@
     "sid": "MgAwADkAMAAwADAAMAAwADYANgA=",
     "name": "(私立)台電公司屏東區營業處職場互助教保服務中心（委託社團法人中華幼兒教育改革研究會辦理）",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6796743,
+    "lng": 120.4918103,
+    "sid": "MgAwADkAMAAwADAAMAAwADYANwA=",
+    "name": "(私立)臺灣屏東地方檢察署職場互助教保服務中心(委託社團法人東台灣幼兒教保專業促進協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6783502,
+    "lng": 120.4704808,
+    "sid": "MgAwADkAMAAwADAAMAAwADYAOAA=",
+    "name": "(非營利)國防部空軍司令部屏東員工子女非營利幼兒園(委託社團法人高雄市碩苗社會教育關懷協會辦理)",
+    "type": "spub2"
   }
 ]
