@@ -68,7 +68,7 @@
     "lat": 24.693433,
     "lng": 120.903918,
     "sid": "MAA4ADMANQAxADAAMAAwADEAMgA=",
-    "name": "(準公共)苗栗縣私立名人幼兒園",
+    "name": "(準公共)苗栗縣私立格林名人幼兒園",
     "type": "spub3"
   },
   {
@@ -261,14 +261,6 @@
     "lng": 120.880598,
     "sid": "MAA4ADMANQAxADAAMAAwADMAOAA=",
     "name": "(私立)苗栗縣私立格林幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.6884438,
-    "lng": 120.9024836,
-    "sid": "MAA4ADMANQAxADAAMAAwADMAOQA=",
-    "name": "(私立)苗栗縣私立格林名人幼兒園",
     "type": "spub1"
   }
 ]
