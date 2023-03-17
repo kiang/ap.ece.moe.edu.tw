@@ -574,5 +574,13 @@
     "sid": "MQA0ADYAMAAwADAAMAAwADkANAA=",
     "name": "(私立)嘉義市私立步芮幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.4656354,
+    "lng": 120.4535152,
+    "sid": "MQA0ADYAMAAwADAAMAAwADkANQA=",
+    "name": "(非營利)嘉義市中油員工子女非營利幼兒園（財團法人台灣中油股份有限公司職工福利委員會申請辦理）",
+    "type": "spub2"
   }
 ]
