@@ -110,5 +110,13 @@
     "sid": "MQAyADUANQA3ADAAMAAwADEAOAA=",
     "name": "(準公共)南投縣私立哈波特幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8121438,
+    "lng": 120.7381344,
+    "sid": "MQAyADUANQA3ADAAMAAwADEAOQA=",
+    "name": "(公立)南投縣竹山鎮中州國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]
