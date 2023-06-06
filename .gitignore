@@ -2,5 +2,6 @@
 vendor
 config.php
 game/qq.png
+game/qq.txt
 game/cookies.json
 game/task.json

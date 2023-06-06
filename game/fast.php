@@ -58,10 +58,19 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
                 $img = 'https://ap.ece.moe.edu.tw/webecems/' . substr($page, $pos, $posEnd - $pos);
                 $client->request('GET', $img);
                 file_put_contents(__DIR__ . '/qq.png', $client->getResponse()->getContent());
-                $ans = exec('/usr/bin/php -q /home/kiang/public_html/ap.ece.moe.captcha/crack.php ' . __DIR__ . '/qq.png');
+                $img = new Imagick(__DIR__ . '/qq.png');
+                // set the image to black and white
+                $img->setImageType(Imagick::IMGTYPE_GRAYSCALE);
+                $img->adaptiveResizeImage(300, 300, true);
+                $img->medianFilterImage(15);                
+                $img->blackThresholdImage("rgb(254, 254, 254)");
+                
+                $img->writeImage(__DIR__ . '/qq.png');
+                exec('/usr/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq nobatch letters');
+                $ans = trim(file_get_contents(__DIR__ . '/qq.txt'));
                 $client->request('GET', $url . trim($ans));
                 $content = $client->getResponse()->getContent();
-                if(false === strpos($content, '驗證碼錯誤，請重新輸入')) {
+                if (false === strpos($content, '驗證碼錯誤，請重新輸入')) {
                     $rawFile = $rawPath . '/' . $data['title'] . '.html';
                     file_put_contents($rawFile, $content);
                     echo "{$rawFile}\n";
