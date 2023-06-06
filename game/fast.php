@@ -64,8 +64,12 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
                 $img->adaptiveResizeImage(300, 300, true);
                 $img->medianFilterImage(15);                
                 $img->blackThresholdImage("rgb(254, 254, 254)");
-                
+
                 $img->writeImage(__DIR__ . '/qq.png');
+                /**
+                 * add /usr/share/tesseract-ocr/5/tessdata/configs/letters with the line
+                 * tessedit_char_whitelist abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+                */
                 exec('/usr/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq nobatch letters');
                 $ans = trim(file_get_contents(__DIR__ . '/qq.txt'));
                 $client->request('GET', $url . trim($ans));
