@@ -50,6 +50,8 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
 
             $pos = strpos($page, '/dtl/chglist.aspx');
             if (false !== $pos) {
+                $borderWidth = 20;
+                $borderColor = 'rgba(255, 255, 255, 1)';
                 $posEnd = strpos($page, '&amp;', $pos);
                 $url = 'https://ap.ece.moe.edu.tw/webecems' . substr($page, $pos, $posEnd - $pos) . '&v=';
 
@@ -70,7 +72,30 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
                         $img->medianFilterImage(15);
                         $img->adaptiveSharpenImage(19, 15);
                         $img->blackThresholdImage("rgb(254, 254, 254)");
-                        $img->writeImage(__DIR__ . '/qq.png');
+                        $imageWidth = $img->getImageWidth() + (2 * ($borderWidth));
+                        $imageHeight = $img->getImageHeight() + (2 * ($borderWidth));
+                        $image = new Imagick();
+                        $image->newImage($imageWidth, $imageHeight, new ImagickPixel('none'));
+                        $border = new ImagickDraw();
+                        $border->setStrokeColor(new ImagickPixel($borderColor));
+                        $border->setStrokeWidth($borderWidth);
+                        $border->setStrokeAntialias(false);
+                        // Draw border
+                        $border->rectangle(
+                            $borderWidth / 2 - 1,
+                            $borderWidth / 2 - 1,
+                            $imageWidth - (($borderWidth / 2)),
+                            $imageHeight - (($borderWidth / 2))
+                        );
+                        // Apply drawed border to final image
+                        $image->drawImage($border);
+                        $image->setImageFormat('png');
+                        $image->compositeImage(
+                            $img, Imagick::COMPOSITE_DEFAULT,
+                            $borderWidth,
+                            $borderWidth
+                        );
+                        $image->writeImage(__DIR__ . '/qq.png');
 
                         /**
                          * add /usr/share/tesseract-ocr/5/tessdata/configs/letters with the line
