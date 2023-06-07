@@ -55,32 +55,44 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
 
                 $pos = strpos($page, 'ChgValidateCode.aspx');
                 $posEnd = strpos($page, '"', $pos);
-                $img = 'https://ap.ece.moe.edu.tw/webecems/' . substr($page, $pos, $posEnd - $pos);
-                $client->request('GET', $img);
-                file_put_contents(__DIR__ . '/qq.png', $client->getResponse()->getContent());
-                $img = new Imagick(__DIR__ . '/qq.png');
-                // set the image to black and white
-                $img->setImageType(Imagick::IMGTYPE_GRAYSCALE);
-                $img->adaptiveResizeImage(300, 300, true);
-                $img->medianFilterImage(15);                
-                $img->blackThresholdImage("rgb(254, 254, 254)");
+                $imgUrl = 'https://ap.ece.moe.edu.tw/webecems/' . substr($page, $pos, $posEnd - $pos);
+                $ansDone = false;
+                for ($k = 0; $k < 5; $k++) {
+                    if (false === $ansDone) {
+                        $client->request('GET', $imgUrl);
+                        file_put_contents(__DIR__ . '/qq.png', $client->getResponse()->getContent());
+                        copy(__DIR__ . '/qq.png', __DIR__ . '/qq_orig.png');
+                        $img = new Imagick(__DIR__ . '/qq.png');
 
-                $img->writeImage(__DIR__ . '/qq.png');
-                /**
-                 * add /usr/share/tesseract-ocr/5/tessdata/configs/letters with the line
-                 * tessedit_char_whitelist abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
-                */
-                exec('/usr/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq nobatch letters');
-                $ans = trim(file_get_contents(__DIR__ . '/qq.txt'));
-                $client->request('GET', $url . trim($ans));
-                $content = $client->getResponse()->getContent();
-                if (false === strpos($content, '驗證碼錯誤，請重新輸入')) {
-                    $rawFile = $rawPath . '/' . $data['title'] . '.html';
-                    file_put_contents($rawFile, $content);
-                    echo "{$rawFile}\n";
-                } else {
+                        // set the image to black and white
+                        $img->setImageType(Imagick::IMGTYPE_GRAYSCALE);
+                        $img->adaptiveResizeImage(300, 300, true);
+                        $img->medianFilterImage(15);
+                        $img->adaptiveSharpenImage(19, 15);
+                        $img->blackThresholdImage("rgb(254, 254, 254)");
+                        $img->writeImage(__DIR__ . '/qq.png');
+                        
+                        /**
+                         * add /usr/share/tesseract-ocr/5/tessdata/configs/letters with the line
+                         * tessedit_char_whitelist abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+                         */
+                        exec('/usr/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq nobatch letters');
+                        $ans = trim(file_get_contents(__DIR__ . '/qq.txt'));
+                        $client->request('GET', $url . trim($ans));
+                        $content = $client->getResponse()->getContent();
+                        if (false === strpos($content, '驗證碼錯誤，請重新輸入')) {
+                            $ansDone = true;
+                            copy(__DIR__ . '/qq_orig.png', __DIR__ . '/base/' . $ans . '.png');
+                            $rawFile = $rawPath . '/' . $data['title'] . '.html';
+                            file_put_contents($rawFile, $content);
+                            echo "{$rawFile}\n";
+                        }
+                    }
+                }
+                if (false === $ansDone) {
                     ++$countFailed;
                 }
+
             }
         }
     }
