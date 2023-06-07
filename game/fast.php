@@ -71,21 +71,24 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
                         $img->adaptiveSharpenImage(19, 15);
                         $img->blackThresholdImage("rgb(254, 254, 254)");
                         $img->writeImage(__DIR__ . '/qq.png');
-                        
+
                         /**
                          * add /usr/share/tesseract-ocr/5/tessdata/configs/letters with the line
                          * tessedit_char_whitelist abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
                          */
                         exec('/usr/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq nobatch letters');
-                        $ans = trim(file_get_contents(__DIR__ . '/qq.txt'));
-                        $client->request('GET', $url . trim($ans));
-                        $content = $client->getResponse()->getContent();
-                        if (false === strpos($content, '驗證碼錯誤，請重新輸入')) {
-                            $ansDone = true;
-                            copy(__DIR__ . '/qq_orig.png', __DIR__ . '/base/' . $ans . '.png');
-                            $rawFile = $rawPath . '/' . $data['title'] . '.html';
-                            file_put_contents($rawFile, $content);
-                            echo "{$rawFile}\n";
+                        $ans = file_get_contents(__DIR__ . '/qq.txt');
+                        $ans = preg_replace('/[^0-9a-z]+/i', '', $ans);
+                        if (strlen($ans) === 4) {
+                            $client->request('GET', $url . trim($ans));
+                            $content = $client->getResponse()->getContent();
+                            if (false === strpos($content, '驗證碼錯誤，請重新輸入')) {
+                                $ansDone = true;
+                                copy(__DIR__ . '/qq_orig.png', __DIR__ . '/base/' . $ans . '.png');
+                                $rawFile = $rawPath . '/' . $data['title'] . '.html';
+                                file_put_contents($rawFile, $content);
+                                echo "{$rawFile}\n";
+                            }
                         }
                     }
                 }
