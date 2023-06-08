@@ -1,63 +1,33 @@
-<script>alert('請依合法管道使用本系統，謝謝您！');window.close();</script>
+
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><title>
 	收費明細
 </title><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/style.css" /><link href="../css/eceStyleSheet.css" rel="Stylesheet" type="text/css" /></head>
 <body>
-<form method="post" action="./chglist.aspx?sch=YgBSAE4AcAA1AG0ATQB5AFIANwBnAFgAbgBZADYAZgBGAGIAVQB0AEQAeQBDADMAMwBMAGsAYQBVAEgAWQByAFcANABSAGgAeQBNAEIATABqAEUAZwA0AGUANwB6AGQASAB6AGsAYQAvADcATQBFAEkASAAxAGIANwBEAGIARgB6ADIANwAxADEASAAzAHgAYQBiACsAQQBkAEwAcgAvAEkAUQBlAHoAZAB3AE4AdQBoAFMANgBOAHcAVgB2AGkAdwBlAEoAUABjAFAAVwB0AEkAdwBTAEoAQgAyAGsAVQBMAG0AQwBFADcAUAB1AGUASQBKACsATABoADMASABwAGwANwBOAGgAcgBaADQAUABsAEoAbgAyADMAQwBhAFcAWABvAFAAVAB3AGUAVgBFAEcATgBBADQAbQB3ADgAWQBPAGYASAA5AGYASgBzAE4AWgBMADkAMwBjAHMAUgB4AEkAYwAwAEMANwBGAFoAUQAyADEARgA1AFkASQB5AFYAWABiAGYAZABrAEoAMABsADkAeQA0AFoAZgA5AHoAbwBjAGIAMQBSAFgAQQA9AD0A&amp;v=1163" id="form1">
+<form method="post" action="./chglist.aspx?sch=OQArAEgAdQB3AHQAbgBsAGcASQAxAHAATQBBAHMAOQBKAEoAMgBPAGQAbABMAFkAdwBDAHYAZABPAG0AegBlAFAAQQBTAEMASwB4AFAATwArAC8ARgBLAGwANgBGAEIAdwBwAGQAcABBAHQAegBZAEQAeABXAEEAbwBvAEMAZwBvAFQAbQA0AHcATgA2AHIAOQBqAE0AdgB3ADUASABuAFUAZABwAEoAZABPAGUARgBrADkAbABxAGIAdwAzAGwAUgAxAGkAVQBjADkATgAzAEcAZgBFAEkANQB1AHQASgBaAEQAeABrAFQAMwBwAFgAUwBaAGgAcgBWAGcAcABmAEUAeABkAHgAYgBJAC8ANgBHAHAATgA0AG8ANgA5AG0AdQBmAE8ATAA2AE8AcABkAEQARAA0AFMALwBpAGUAQQBSAHYAaQBCAGkAagA1ACsAcwBsAFUAbABjADEAZABjAFoAYwBJAG8AeQB6AG4AbwBNADcASwBhAEEANQBUAFQAMQB4ADkAYgBlAGQAcgA2AGQAWQBZAGYAQQBxAG0AcQA3AFEAagBSAGQAZwA9AD0A&amp;v=r2Cu" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="iZ3UZFv5GvH7HUJijXRXDBvZmMR+qDyf++lsWVxRJd6NHsuKeojw7OYteHpXV6oyLCeaSKbwaiIcDKYLA/MPgGrz3/HrmADKMkvjPLJj++TjVt90iZCvf/avFND7DDoiyR6LApY573phbNl7qXvfuUq+SmyH69REBuLY9pv70ko7eswOXUtxX4bXP5NztxGFnet0dJGkPx8grk8kOZPzrtmEBUVN7LxWGk+pH8BLr4nESgnZYjgt1yiRTU8ogTBlUmKsROMKs217PPzmVFqiYVEjyRsF6q8sd6ihcJKOU2GC0vG0r0DmggBY5DLVO7GBSIad0FM1oHHDNaUHmMZiFOM2tjU=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
 </div>
 
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7D08E65C" />
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="hiUUxMEYDFkRivFvX94HNdsNwBr4jZU8dA+0T2USRRpZ6idQlbzAtwLP5C3rh7LH/YSL7VbnlmOP1NStJLUc4snRlcpsL6/WOtBROWbHo8PYWmlYjdiR2l8dWMAAD8AolHMHKe623yYB7AziNCeksVM1O28=" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="VPxM6d6gIu3/5E27615/JjK2+ftECrMEJvqLcYnxWQO+1GTyq1IBI9Xw9LGTPvJOk3gNnFvyBykdWRIlbuiwDGIScv8t8C98zdimrDRiUjMobHc3HRj/zX/7jDjL0kSnkikTsgorMJrW/Fxi34LXmUCiKzk=" />
 </div>
 		<table style="width:99%; border:none; margin:auto;">
             <tr>
                 <td style="text-align:center;">
-                    <div id="divIsPub1">
-                        <table class="aptable" style="border:none;">
-                            <tr>
-                                <td colspan="3" style="text-align:center; font-weight:bold; font-size:12pt; padding-top:10px; padding-bottom:10px; font-weight:bold; border-top:none; border-left:none; border-right:none;">
-					                <div class="schName"><span id="lblSchName"></span></div>
-                                    <span id="lblSYear" style="color:Blue;"></span>&nbsp;學年度收費情形(單位：新臺幣元)<br />
-                                    <span style="color:red;">收費如有疑義請逕洽直轄市、縣（市）政府教育局（處）</span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="rowBg_l" style="font-weight:bold;"></td>
-                                <td class="rowBg_l" style="width:30%; font-weight:bold;">全日制</td>
-                                <td class="rowBg_l" style="width:30%; font-weight:bold;">半日制</td>
-                            </tr>
-                            <tr>
-                                <td class="rowBg_l" style="font-weight:bold;">學費</td>
-                                <td style="text-align:center; font-weight:bold;"><span id="lblGenFee"></span></td>
-                                <td style="text-align:center; font-weight:bold;"><span id="lblGenFee1"></span></td>
-                            </tr>
-                            <tr>
-                                <td class="rowBg_l" style="font-weight:bold;">學費以外之其他費用(含月費、雜費)</td>
-                                <td style="text-align:center; font-weight:bold;"><span id="lblGenOFee"></span></td>
-                                <td style="text-align:center; font-weight:bold;"><span id="lblGenOFee1"></span></td>
-                            </tr>
-                            <tr>
-                                <td class="rowBg_l" style="font-weight:bold;">全學期總收費</td>
-                                <td style="text-align:center; font-weight:bold;"><span id="lblGenTotal"></span></td>
-                                <td style="text-align:center; font-weight:bold;"><span id="lblGenTotal1"></span></td>
-                            </tr>
-                        </table>
-                    </div>
+                    
                     <div id="divIsPub2">
-		                <input type="hidden" name="hTabCount" id="hTabCount" value="1" />
+		                <input type="hidden" name="hTabCount" id="hTabCount" value="4" />
 		                <input type="hidden" name="hOItmCnt" id="hOItmCnt" value="0" />
 		                <table class="aptable" style="border:none;">
 			                <tr>
 				                <td style="text-align:center; font-weight:bold; font-size:12pt; padding-top:10px; padding-bottom:10px; border-top:none; border-left:none; border-bottom:none; border-right:none;" colspan="2">
-					                <div class="schName"><span id="lblSchName102"></span></div>
-					                <span id="lblNowSYear102" style="color:Blue;"></span>&nbsp;學年度收費情形(單位：新臺幣元)<br />
+					                <div class="schName"><span id="lblSchName102">新北市私立立大幼兒園</span></div>
+					                <span id="lblNowSYear102" style="color:Blue;">111</span>&nbsp;學年度收費情形(單位：新臺幣元)<br />
                                     <span style="color:red;">收費如有疑義請逕洽直轄市、縣（市）政府教育局（處）</span>
 			                    </td>
 			                </tr>
@@ -87,7 +57,7 @@
 				                </td>
 				                <td style="text-align:center; width:20%; height:30px; color:rgb(0,30,140); font-size:16px;">
                                     <b>
-                                        適用年齡：<span id="lblAge1"></span>&nbsp;歲
+                                        適用年齡：<span id="lblAge1">5</span>&nbsp;歲
                                     </b>
 				                </td>
 			                </tr>
@@ -99,25 +69,460 @@
 				                <td class="listHd_c" style="text-align:center; height:25px; width:38%; border:1px solid #fff;">
                                     <b>
                                         上學期計&nbsp;
-						                <span id="lblMonth11" style="font-weight:bold;"></span>&nbsp; 
+						                <span id="lblMonth11" style="font-weight:bold;">6</span>&nbsp; 
 						                個月
                                     </b>
 				                </td>
 				                <td class="listHd_c" style="text-align:center; width:38%; border:1px solid #fff;">
                                     <b>
                                         下學期計&nbsp;
-						                <span id="lblMonth12" style="font-weight:bold;"></span>&nbsp; 
+						                <span id="lblMonth12" style="font-weight:bold;">6</span>&nbsp; 
 						                個月
                                     </b>
 				                </td>
 			                </tr>
 		                </table>
 		                <div>
-
+	<table class="aptable" cellspacing="0" cellpadding="0" rules="all" id="GridView1" style="border-color:#000FFF;border-width:0px;border-collapse:collapse;">
+		<tr class="listHd_c">
+			<th align="center" colspan="2" scope="col" style="font-weight:bold;">收費項目</th><th align="center" scope="col" style="font-weight:bold;width:9%;">收費期間</th><th align="center" scope="col" style="font-weight:bold;width:9%;">半日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">全日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">半日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">全日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+						                <span id="GridView1_lblDGItem1_0">學費</span>
+					                </td><td align="center" valign="middle">
+						                <div id="GridView1_divPType1_0">
+                                            <span id="GridView1_lblPT11_0">學期</span>
+                                            
+							                
+						                </div>
+						                <div style="text-align:center;">
+							                
+                                        </div>
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit11_0">15,000</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull11_0" style="font-weight:bold;">15,000</span>
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit12_0">15,000</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull12_0" style="font-weight:bold;">15,000</span>
+						                
+					                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+						                <span id="GridView1_lblDGItem1_1">雜費</span>
+					                </td><td align="center" valign="middle">
+						                <div id="GridView1_divPType1_1">
+                                            
+                                            <span id="GridView1_lblPT12_1">月</span>
+							                
+						                </div>
+						                <div style="text-align:center;">
+							                
+                                        </div>
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit11_1">1,450</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull11_1" style="font-weight:bold;">8,700</span>
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit12_1">1,450</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull12_1" style="font-weight:bold;">8,700</span>
+						                
+					                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" rowspan="4">
+                                        <span id="GridView1_lblDGItemGroup_2" style="font-weight:bold;">代<br />辦<br />費</span>
+					                </td><td class="rowBg_l" align="center" valign="middle">
+						                <span id="GridView1_lblDGItem1_2">材料費</span>
+					                </td><td align="center" valign="middle">
+						                <div id="GridView1_divPType1_2">
+                                            
+                                            <span id="GridView1_lblPT12_2">月</span>
+							                
+						                </div>
+						                <div style="text-align:center;">
+							                
+                                        </div>
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit11_2">800</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull11_2" style="font-weight:bold;">4,800</span>
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit12_2">800</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull12_2" style="font-weight:bold;">4,800</span>
+						                
+					                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+						                <span id="GridView1_lblDGItem1_3">活動費</span>
+					                </td><td align="center" valign="middle">
+						                <div id="GridView1_divPType1_3">
+                                            
+                                            <span id="GridView1_lblPT12_3">月</span>
+							                
+						                </div>
+						                <div style="text-align:center;">
+							                
+                                        </div>
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit11_3">3,800</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull11_3" style="font-weight:bold;">22,800</span>
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit12_3">3,800</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull12_3" style="font-weight:bold;">22,800</span>
+						                
+					                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+						                <span id="GridView1_lblDGItem1_4">午餐費</span>
+					                </td><td align="center" valign="middle">
+						                <div id="GridView1_divPType1_4">
+                                            
+                                            <span id="GridView1_lblPT12_4">月</span>
+							                
+						                </div>
+						                <div style="text-align:center;">
+							                
+                                        </div>
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit11_4">800</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull11_4" style="font-weight:bold;">4,800</span>
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit12_4">800</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull12_4" style="font-weight:bold;">4,800</span>
+						                
+					                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+						                <span id="GridView1_lblDGItem1_5">點心費</span>
+					                </td><td align="center" valign="middle">
+						                <div id="GridView1_divPType1_5">
+                                            
+                                            <span id="GridView1_lblPT12_5">月</span>
+							                
+						                </div>
+						                <div style="text-align:center;">
+							                
+                                        </div>
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit11_5">900</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull11_5" style="font-weight:bold;">5,400</span>
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit12_5">900</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull12_5" style="font-weight:bold;">5,400</span>
+						                
+					                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+						                <span id="GridView1_lblDGItem1_6" style="color:#001E8C;">全學期總收費</span>
+					                </td><td align="center" valign="middle" style="color:#001E8C;background-color:#F5F5F5;font-weight:bold;">
+						                
+						                <div style="text-align:center;">
+							                <span id="GridView1_lblPType1_6">總計</span>
+                                        </div>
+					                </td><td align="center" valign="middle" colspan="2" style="height:30px;">
+						                
+						                
+					                </td><td align="center" valign="middle" colspan="2">
+						                <span id="GridView1_lblFull11_6" style="color:#001E8C;font-weight:bold;">61,500</span>
+						                
+					                </td><td align="center" valign="middle" colspan="2">
+						                
+						                
+					                </td><td align="center" valign="middle" colspan="2">
+						                <span id="GridView1_lblFull12_6" style="color:#001E8C;font-weight:bold;">61,500</span>
+						                
+					                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+						                <span id="GridView1_lblDGItem1_7">交通費</span>
+					                </td><td align="center" valign="middle">
+						                <div id="GridView1_divPType1_7">
+                                            
+                                            
+							                <div id="GridView1_divPT134_7">
+                                                
+                                                
+							                </div>
+						                </div>
+						                <div style="text-align:center;">
+							                
+                                        </div>
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit11_7">0<br></span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull11_7" style="font-weight:bold;">0<br></span>
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit12_7">0<br></span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull12_7" style="font-weight:bold;">0<br></span>
+						                
+					                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+						                <span id="GridView1_lblDGItem1_8">課後延托費</span>
+					                </td><td align="center" valign="middle">
+						                <div id="GridView1_divPType1_8">
+                                            
+                                            <span id="GridView1_lblPT12_8">月</span>
+							                
+						                </div>
+						                <div style="text-align:center;">
+							                
+                                        </div>
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit11_8">2,200</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull11_8" style="font-weight:bold;">13,200</span>
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                <span id="GridView1_lblFUnit12_8">2,200</span>
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                <span id="GridView1_lblFull12_8" style="font-weight:bold;">13,200</span>
+						                
+					                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+						                <span id="GridView1_lblDGItem1_9">家長會費</span>
+					                </td><td align="center" valign="middle">
+						                <div id="GridView1_divPType1_9">
+                                            
+                                            
+							                
+						                </div>
+						                <div style="text-align:center;">
+							                
+                                        </div>
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+						                
+						                
+					                </td><td align="center" valign="middle">
+						                
+						                
+					                </td>
+		</tr>
+	</table>
 </div>
                         </div>
                         
-		                <div id="divTbl2" style="display:none;"><br />
+		                <div id="divTbl2"><br />
 		                    <table class="nbtable">
 				                <tr>
 					                <td>
@@ -125,7 +530,7 @@
 					                </td>
 					                <td style="text-align:center; width:20%; height:30px; color:rgb(0,30,140); font-size:16px;">
                                         <b>
-                                            適用年齡：<span id="lblAge2"></span>&nbsp;歲
+                                            適用年齡：<span id="lblAge2">4</span>&nbsp;歲
                                         </b>
 					                </td>
 				                </tr>
@@ -137,26 +542,461 @@
 					                <td class="listHd_c" style="text-align:center; height:25px; width:38%; border:1px solid #fff;">
                                         <b>
                                             上學期計&nbsp;
-							                <span id="lblMonth21" style="font-weight:bold;"></span>&nbsp; 
+							                <span id="lblMonth21" style="font-weight:bold;">6</span>&nbsp; 
 							                個月
                                         </B>
 					                </td>
 					                <td class="listHd_c" style="text-align:center; width:38%; border:1px solid #fff;">
                                         <b>
                                             下學期計&nbsp;
-							                <span id="lblMonth22" style="font-weight:bold;"></span>&nbsp; 
+							                <span id="lblMonth22" style="font-weight:bold;">6</span>&nbsp; 
 							                個月
                                         </b>
 					                </td>
 				                </tr>
 			                </table>
 		                    <div>
-
+	<table class="aptable" cellspacing="0" cellpadding="0" rules="all" id="GridView2" style="border-color:#9BD1E6;border-width:0px;border-collapse:collapse;">
+		<tr class="listHd_c">
+			<th align="center" colspan="2" scope="col" style="font-weight:bold;">收費項目</th><th align="center" scope="col" style="font-weight:bold;width:9%;">收費期間</th><th align="center" scope="col" style="font-weight:bold;width:9%;">半日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">全日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">半日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">全日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+							                <span id="GridView2_lblDGItem2_0">學費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView2_divPType2_0">
+                                                <span id="GridView2_lblPT21_0">學期</span>
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit21_0">20,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull21_0" style="font-weight:bold;">20,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit22_0">20,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull22_0" style="font-weight:bold;">20,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+							                <span id="GridView2_lblDGItem2_1">雜費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView2_divPType2_1">
+                                                
+                                                <span id="GridView2_lblPT22_1">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit21_1">6,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull21_1" style="font-weight:bold;">36,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit22_1">6,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull22_1" style="font-weight:bold;">36,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" rowspan="4">
+                                            <span id="GridView2_lblDGItemGroup_2" style="font-weight:bold;">代<br />辦<br />費</span>
+						                </td><td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView2_lblDGItem2_2">材料費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView2_divPType2_2">
+                                                <span id="GridView2_lblPT21_2">學期</span>
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit21_2">8,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull21_2" style="font-weight:bold;">8,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit22_2">8,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull22_2" style="font-weight:bold;">8,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView2_lblDGItem2_3">活動費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView2_divPType2_3">
+                                                
+                                                <span id="GridView2_lblPT22_3">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit21_3">1,200</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull21_3" style="font-weight:bold;">7,200</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit22_3">1,200</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull22_3" style="font-weight:bold;">7,200</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView2_lblDGItem2_4">午餐費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView2_divPType2_4">
+                                                
+                                                <span id="GridView2_lblPT22_4">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit21_4">2,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull21_4" style="font-weight:bold;">12,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit22_4">2,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull22_4" style="font-weight:bold;">12,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView2_lblDGItem2_5">點心費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView2_divPType2_5">
+                                                
+                                                <span id="GridView2_lblPT22_5">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit21_5">1,800</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull21_5" style="font-weight:bold;">10,800</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView2_lblFUnit22_5">1,800</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView2_lblFull22_5" style="font-weight:bold;">10,800</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+							                <span id="GridView2_lblDGItem2_6" style="color:#001E8C;">全學期總收費</span>
+						                </td><td align="center" valign="middle" style="color:#001E8C;background-color:#F5F5F5;font-weight:bold;">
+							                
+							                <div style="text-align:center;">
+								                <span id="GridView2_lblPType2_6">總計</span>
+                                            </div>
+						                </td><td align="center" valign="middle" colspan="2" style="height:30px;">
+							                
+							                
+						                </td><td align="center" valign="middle" colspan="2">
+							                <span id="GridView2_lblFull21_6" style="color:#001E8C;font-weight:bold;">94,000</span>
+							                
+						                </td><td align="center" valign="middle" colspan="2">
+							                
+							                
+						                </td><td align="center" valign="middle" colspan="2">
+							                <span id="GridView2_lblFull22_6" style="color:#001E8C;font-weight:bold;">94,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+							                <span id="GridView2_lblDGItem2_7">交通費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView2_divPType2_7">
+                                                
+                                                
+								                <div id="GridView2_divPT234_7">
+                                                    
+                                                    
+								                </div>
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+							                <span id="GridView2_lblDGItem2_8">課後延托費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView2_divPType2_8">
+                                                
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+							                <span id="GridView2_lblDGItem2_9">家長會費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView2_divPType2_9">
+                                                
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td>
+		</tr>
+	</table>
 </div>
                             </div>
                             
 		                </div>
-		                <div id="divTbl3" style="display:none;"><br />
+		                <div id="divTbl3"><br />
 			                <table class="nbtable">
 				                <tr>
 					                <td>
@@ -164,7 +1004,7 @@
 					                </td>
 					                <td style="text-align:center; width:20%; height:30px; color:rgb(0,30,140); font-size:16px;">
                                         <b>
-                                            適用年齡：<span id="lblAge3"></span>&nbsp;歲
+                                            適用年齡：<span id="lblAge3">3</span>&nbsp;歲
                                         </b>
 					                </td>
 				                </tr>
@@ -176,26 +1016,461 @@
 					                <td class="listHd_c" style="text-align:center; height:25px; width:38%; border:1px solid #fff;">
                                         <b>
                                             上學期計&nbsp;
-							                <span id="lblMonth31" style="font-weight:bold;"></span>&nbsp; 
+							                <span id="lblMonth31" style="font-weight:bold;">6</span>&nbsp; 
 							                個月
                                         </b>
 					                </td>
 					                <td class="listHd_c" style="text-align:center; width:38%; border:1px solid #fff;">
                                         <b>
                                             下學期計&nbsp;
-							                <span id="lblMonth32" style="font-weight:bold;"></span>&nbsp; 
+							                <span id="lblMonth32" style="font-weight:bold;">6</span>&nbsp; 
 							                個月
                                         </b>
 					                </td>
 				                </tr>
 			                </table>
 		                    <div>
-
+	<table class="aptable" cellspacing="0" cellpadding="0" rules="all" id="GridView3" style="border-color:#9BD1E6;border-width:0px;border-collapse:collapse;">
+		<tr class="listHd_c">
+			<th align="center" colspan="2" scope="col" style="font-weight:bold;">收費項目</th><th align="center" scope="col" style="font-weight:bold;width:9%;">收費期間</th><th align="center" scope="col" style="font-weight:bold;width:9%;">半日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">全日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">半日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">全日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+							                <span id="GridView3_lblDGItem3_0">學費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView3_divPType3_0">
+                                                <span id="GridView3_lblPT31_0">學期</span>
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit31_0">20,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull31_0" style="font-weight:bold;">20,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit32_0">18,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull32_0" style="font-weight:bold;">18,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+							                <span id="GridView3_lblDGItem3_1">雜費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView3_divPType3_1">
+                                                
+                                                <span id="GridView3_lblPT32_1">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit31_1">6,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull31_1" style="font-weight:bold;">36,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit32_1">6,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull32_1" style="font-weight:bold;">36,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" rowspan="4">
+                                            <span id="GridView3_lblDGItemGroup_2" style="font-weight:bold;">代<br />辦<br />費</span>
+						                </td><td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView3_lblDGItem3_2">材料費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView3_divPType3_2">
+                                                <span id="GridView3_lblPT31_2">學期</span>
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit31_2">8,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull31_2" style="font-weight:bold;">8,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit32_2">8,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull32_2" style="font-weight:bold;">8,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView3_lblDGItem3_3">活動費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView3_divPType3_3">
+                                                
+                                                <span id="GridView3_lblPT32_3">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit31_3">1,200</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull31_3" style="font-weight:bold;">7,200</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit32_3">1,200</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull32_3" style="font-weight:bold;">7,200</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView3_lblDGItem3_4">午餐費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView3_divPType3_4">
+                                                
+                                                <span id="GridView3_lblPT32_4">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit31_4">2,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull31_4" style="font-weight:bold;">12,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit32_4">2,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull32_4" style="font-weight:bold;">12,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView3_lblDGItem3_5">點心費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView3_divPType3_5">
+                                                
+                                                <span id="GridView3_lblPT32_5">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit31_5">1,800</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull31_5" style="font-weight:bold;">10,800</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView3_lblFUnit32_5">1,800</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView3_lblFull32_5" style="font-weight:bold;">10,800</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+							                <span id="GridView3_lblDGItem3_6" style="color:#001E8C;">全學期總收費</span>
+						                </td><td align="center" valign="middle" style="color:#001E8C;background-color:#F5F5F5;font-weight:bold;">
+							                
+							                <div style="text-align:center;">
+								                <span id="GridView3_lblPType3_6">總計</span>
+                                            </div>
+						                </td><td align="center" valign="middle" colspan="2" style="height:30px;">
+							                
+							                
+						                </td><td align="center" valign="middle" colspan="2">
+							                <span id="GridView3_lblFull31_6" style="color:#001E8C;font-weight:bold;">94,000</span>
+							                
+						                </td><td align="center" valign="middle" colspan="2">
+							                
+							                
+						                </td><td align="center" valign="middle" colspan="2">
+							                <span id="GridView3_lblFull32_6" style="color:#001E8C;font-weight:bold;">92,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+							                <span id="GridView3_lblDGItem3_7">交通費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView3_divPType3_7">
+                                                
+                                                
+								                <div id="GridView3_divPT334_7">
+                                                    
+                                                    
+								                </div>
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+							                <span id="GridView3_lblDGItem3_8">課後延托費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView3_divPType3_8">
+                                                
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+							                <span id="GridView3_lblDGItem3_9">家長會費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView3_divPType3_9">
+                                                
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td>
+		</tr>
+	</table>
 </div>
                             </div>
                             
 		                </div>
-		                <div id="divTbl4" style="display:none;"><br />
+		                <div id="divTbl4"><br />
 			                <table class="nbtable">
 				                <tr>
 					                <td>
@@ -203,7 +1478,7 @@
 					                </td>
 					                <td style="text-align:center; width:20%; height:30px; color:rgb(0,30,140); font-size:16px;">
                                         <b>
-                                            適用年齡：<span id="lblAge4"></span>&nbsp;歲
+                                            適用年齡：<span id="lblAge4">2</span>&nbsp;歲
                                         </b>
 					                </td>
 				                </tr>
@@ -215,20 +1490,455 @@
 					                <td class="listHd_c" style="text-align:center; height:25px; width:38%; border:1px solid #fff;">
                                         <B>
                                             上學期計&nbsp;
-							                <span id="lblMonth41" style="font-weight:bold;"></span>&nbsp; 
+							                <span id="lblMonth41" style="font-weight:bold;">6</span>&nbsp; 
 							                個月</b>
 					                </td>
 					                <td class="listHd_c" style="text-align:center; width:38%; border:1px solid #fff;">
                                         <b>
                                             下學期計&nbsp;
-							                <span id="lblMonth42" style="font-weight:bold;"></span>&nbsp; 
+							                <span id="lblMonth42" style="font-weight:bold;">6</span>&nbsp; 
 							                個月
                                         </b>
 					                </td>
 				                </tr>
 			                </table>
 		                    <div>
-
+	<table class="aptable" cellspacing="0" cellpadding="0" rules="all" id="GridView4" style="border-color:#9BD1E6;border-width:0px;border-collapse:collapse;">
+		<tr class="listHd_c">
+			<th align="center" colspan="2" scope="col" style="font-weight:bold;">收費項目</th><th align="center" scope="col" style="font-weight:bold;width:9%;">收費期間</th><th align="center" scope="col" style="font-weight:bold;width:9%;">半日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">全日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">半日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th><th align="center" scope="col" style="font-weight:bold;width:9%;">全日班</th><th align="center" scope="col" style="font-weight:bold;width:10%;">小計</th>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+							                <span id="GridView4_lblDGItem4_0">學費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView4_divPType4_0">
+                                                <span id="GridView4_lblPT41_0">學期</span>
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit41_0">22,800</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull41_0" style="font-weight:bold;">22,800</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit42_0">22,800</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull42_0" style="font-weight:bold;">22,800</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+							                <span id="GridView4_lblDGItem4_1">雜費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView4_divPType4_1">
+                                                
+                                                <span id="GridView4_lblPT42_1">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit41_1">9,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull41_1" style="font-weight:bold;">54,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit42_1">9,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull42_1" style="font-weight:bold;">54,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" rowspan="4">
+                                            <span id="GridView4_lblDGItemGroup_2" style="font-weight:bold;">代<br />辦<br />費</span>
+						                </td><td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView4_lblDGItem4_2">材料費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView4_divPType4_2">
+                                                <span id="GridView4_lblPT41_2">學期</span>
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit41_2">8,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull41_2" style="font-weight:bold;">8,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit42_2">8,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull42_2" style="font-weight:bold;">8,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView4_lblDGItem4_3">活動費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView4_divPType4_3">
+                                                
+                                                <span id="GridView4_lblPT42_3">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit41_3">2,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull41_3" style="font-weight:bold;">12,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit42_3">2,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull42_3" style="font-weight:bold;">12,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView4_lblDGItem4_4">午餐費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView4_divPType4_4">
+                                                
+                                                <span id="GridView4_lblPT42_4">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit41_4">2,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull41_4" style="font-weight:bold;">12,000</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit42_4">2,000</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull42_4" style="font-weight:bold;">12,000</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle">
+							                <span id="GridView4_lblDGItem4_5">點心費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView4_divPType4_5">
+                                                
+                                                <span id="GridView4_lblPT42_5">月</span>
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit41_5">1,800</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull41_5" style="font-weight:bold;">10,800</span>
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                <span id="GridView4_lblFUnit42_5">1,800</span>
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                <span id="GridView4_lblFull42_5" style="font-weight:bold;">10,800</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2" style="font-weight:bold;">
+							                <span id="GridView4_lblDGItem4_6" style="color:#001E8C;">全學期總收費</span>
+						                </td><td align="center" valign="middle" style="color:#001E8C;background-color:#F5F5F5;font-weight:bold;">
+							                
+							                <div style="text-align:center;">
+								                <span id="GridView4_lblPType4_6">總計</span>
+                                            </div>
+						                </td><td align="center" valign="middle" colspan="2" style="height:30px;">
+							                
+							                
+						                </td><td align="center" valign="middle" colspan="2">
+							                <span id="GridView4_lblFull41_6" style="color:#001E8C;font-weight:bold;">119,600</span>
+							                
+						                </td><td align="center" valign="middle" colspan="2">
+							                
+							                
+						                </td><td align="center" valign="middle" colspan="2">
+							                <span id="GridView4_lblFull42_6" style="color:#001E8C;font-weight:bold;">119,600</span>
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+							                <span id="GridView4_lblDGItem4_7">交通費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView4_divPType4_7">
+                                                
+                                                
+								                <div id="GridView4_divPT434_7">
+                                                    
+                                                    
+								                </div>
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+							                <span id="GridView4_lblDGItem4_8">課後延托費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView4_divPType4_8">
+                                                
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td>
+		</tr><tr>
+			<td class="rowBg_l" align="center" valign="middle" colspan="2">
+							                <span id="GridView4_lblDGItem4_9">家長會費</span>
+						                </td><td align="center" valign="middle">
+							                <div id="GridView4_divPType4_9">
+                                                
+                                                
+								                
+							                </div>
+							                <div style="text-align:center;">
+								                
+                                            </div>
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+							                
+							                
+						                </td><td align="center" valign="middle">
+							                
+							                
+						                </td>
+		</tr>
+	</table>
 </div>
                             </div>
                             
@@ -239,7 +1949,7 @@
 			<tr>
 				<td style="text-align:center;">
 		            <br />
-					<input type="submit" name="btnExit" value="關　閉" id="btnExit" class="btn btn-primary" />
+					<input type="submit" name="btnExit" value="關　閉" onclick="window.close();return false;" id="btnExit" class="btn btn-primary" />
                 </td>
 			</tr>
 		</table>

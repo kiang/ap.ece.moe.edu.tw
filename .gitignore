@@ -3,5 +3,7 @@ vendor
 config.php
 game/qq.png
 game/qq.txt
+game/qq_orig.png
+game/base
 game/cookies.json
 game/task.json
