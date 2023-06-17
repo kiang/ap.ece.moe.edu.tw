@@ -422,5 +422,13 @@
     "sid": "MAA5ADQAMQAyADAAMAAwADUAOAA=",
     "name": "(準公共)臺中市私立大里光明幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0852131,
+    "lng": 120.7053868,
+    "sid": "MAA5ADQAMQAyADAAMAAwADUAOQA=",
+    "name": "(私立)臺中市私立芠菓人文藝術幼兒園",
+    "type": "spub1"
   }
 ]

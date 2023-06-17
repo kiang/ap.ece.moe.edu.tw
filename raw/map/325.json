@@ -265,6 +265,22 @@
   },
   {
     "newsch": 1,
+    "lat": 24.8691115,
+    "lng": 121.2272629,
+    "sid": "MAA1ADMAMgA1ADAAMAAwADMAOQA=",
+    "name": "(私立)桃園市私立愛兒群愛森幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8430609,
+    "lng": 121.1832933,
+    "sid": "MAA1ADMAMgA1ADAAMAAwADQAMAA=",
+    "name": "(私立)桃園市私立嘉德琳渴望幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
     "lat": 24.854372,
     "lng": 121.2138395,
     "sid": "MAA1ADMAMwAwADAAMAAxADAANgA=",
