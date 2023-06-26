@@ -702,5 +702,13 @@
     "sid": "MAAyADEAMQA0ADAAMAAxADAANwA=",
     "name": "(非營利)臺北市東中非營利幼兒園（委託社團法人台北市幼兒園協會辦理）",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0682977,
+    "lng": 121.5922751,
+    "sid": "MAAyADEAMQA0ADAAMAAxADAAOAA=",
+    "name": "(私立)臺北市私立人川幼兒園",
+    "type": "spub1"
   }
 ]
