@@ -9,10 +9,10 @@
         "town": "莿桐鄉",
         "type": "公立",
         "address": "[647]饒平路1號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓",
+        "size": "446平方公尺",
+        "size_in": "126平方公尺",
+        "size_out": "320平方公尺",
         "tel": "(05)5842071",
         "url": "",
         "count_approved": "46",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

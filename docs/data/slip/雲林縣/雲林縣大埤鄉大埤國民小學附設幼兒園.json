@@ -9,10 +9,10 @@
         "town": "大埤鄉",
         "type": "公立",
         "address": "[631]中正路23號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "2樓",
+        "size": "6,766.26平方公尺",
+        "size_in": "266.26平方公尺",
+        "size_out": "6,500平方公尺",
         "tel": "(05)6341132#551",
         "url": "",
         "count_approved": "60",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

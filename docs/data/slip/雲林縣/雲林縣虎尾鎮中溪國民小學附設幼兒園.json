@@ -9,10 +9,10 @@
         "town": "虎尾鎮",
         "type": "公立",
         "address": "[632]過溪63號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓",
+        "size": "17,126平方公尺",
+        "size_in": "126平方公尺",
+        "size_out": "17,000平方公尺",
         "tel": "(05)6222385",
         "url": "https:\/\/jses.ylc.edu.tw",
         "count_approved": "46",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

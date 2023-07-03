@@ -9,10 +9,10 @@
         "town": "元長鄉",
         "type": "公立",
         "address": "[655]龍岩１４８號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓",
+        "size": "298.4平方公尺",
+        "size_in": "145.4平方公尺",
+        "size_out": "153平方公尺",
         "tel": "(05)7881765",
         "url": "",
         "count_approved": "46",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

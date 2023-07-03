@@ -9,10 +9,10 @@
         "town": "西螺鎮",
         "type": "私立",
         "address": "[648]中山路308號、延平路383號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "一樓",
+        "size": "2,556.77平方公尺",
+        "size_in": "400.23平方公尺",
+        "size_out": "2,156.54平方公尺",
         "tel": "(05)5862310",
         "url": "",
         "count_approved": "150",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

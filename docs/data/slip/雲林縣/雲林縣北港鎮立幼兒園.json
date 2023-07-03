@@ -9,10 +9,10 @@
         "town": "北港鎮",
         "type": "公立",
         "address": "[651]民治路40號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓、2樓",
+        "size": "4,013.49平方公尺",
+        "size_in": "1,552.58平方公尺",
+        "size_out": "2,460.91平方公尺",
         "tel": "(05)7826641",
         "url": "beigang.topschool.com.tw",
         "count_approved": "315",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

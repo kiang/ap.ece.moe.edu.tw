@@ -9,10 +9,10 @@
         "town": "斗六市",
         "type": "公立",
         "address": "[640]南仁路51號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓",
+        "size": "6,393平方公尺",
+        "size_in": "189平方公尺",
+        "size_out": "6,204平方公尺",
         "tel": "(05)5573386",
         "url": "",
         "count_approved": "60",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

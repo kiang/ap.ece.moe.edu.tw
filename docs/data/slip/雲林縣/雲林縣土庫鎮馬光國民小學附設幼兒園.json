@@ -9,10 +9,10 @@
         "town": "土庫鎮",
         "type": "公立",
         "address": "[633]馬光路174號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓",
+        "size": "1,189平方公尺",
+        "size_in": "189平方公尺",
+        "size_out": "1,000平方公尺",
         "tel": "(05)6653864#103",
         "url": "",
         "count_approved": "76",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

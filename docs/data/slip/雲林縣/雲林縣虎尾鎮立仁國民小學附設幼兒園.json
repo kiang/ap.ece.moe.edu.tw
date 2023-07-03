@@ -9,10 +9,10 @@
         "town": "虎尾鎮",
         "type": "公立",
         "address": "[632]立仁街40號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓",
+        "size": "828平方公尺",
+        "size_in": "252平方公尺",
+        "size_out": "576平方公尺",
         "tel": "(05)6341202#619",
         "url": "https:\/\/ljes.ylc.edu.tw\/",
         "count_approved": "76",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {
