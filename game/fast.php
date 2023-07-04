@@ -24,8 +24,6 @@ $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/pubSearch
 
 $form = $crawler->selectButton('搜尋')->form();
 $taskFound = false;
-$countTotal = 0;
-$countFailed = 0;
 foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
@@ -40,7 +38,6 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
         }
         $rawFile = $rawPath . '/' . $data['title'] . '.html';
         if (!file_exists($rawFile)) {
-            ++$countTotal;
             $crawler = $client->submit($form, ['txtKeyNameS' => $data['title']]);
             $page = $client->getResponse()->getContent();
 
@@ -59,71 +56,63 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
                 $posEnd = strpos($page, '"', $pos);
                 $imgUrl = 'https://ap.ece.moe.edu.tw/webecems/' . substr($page, $pos, $posEnd - $pos);
                 $ansDone = false;
-                for ($k = 0; $k < 5; $k++) {
-                    if (false === $ansDone) {
-                        $client->request('GET', $imgUrl);
-                        file_put_contents(__DIR__ . '/qq.png', $client->getResponse()->getContent());
-                        copy(__DIR__ . '/qq.png', __DIR__ . '/qq_orig.png');
-                        $img = new Imagick(__DIR__ . '/qq.png');
+                while (false === $ansDone) {
+                    $client->request('GET', $imgUrl);
+                    file_put_contents(__DIR__ . '/qq.png', $client->getResponse()->getContent());
+                    copy(__DIR__ . '/qq.png', __DIR__ . '/qq_orig.png');
+                    $img = new Imagick(__DIR__ . '/qq.png');
 
-                        // set the image to black and white
-                        $img->setImageType(Imagick::IMGTYPE_GRAYSCALE);
-                        $img->adaptiveResizeImage(300, 300, true);
-                        $img->medianFilterImage(15);
-                        $img->adaptiveSharpenImage(19, 15);
-                        $img->blackThresholdImage("rgb(254, 254, 254)");
-                        $imageWidth = $img->getImageWidth() + (2 * ($borderWidth));
-                        $imageHeight = $img->getImageHeight() + (2 * ($borderWidth));
-                        $image = new Imagick();
-                        $image->newImage($imageWidth, $imageHeight, new ImagickPixel('none'));
-                        $border = new ImagickDraw();
-                        $border->setStrokeColor(new ImagickPixel($borderColor));
-                        $border->setStrokeWidth($borderWidth);
-                        $border->setStrokeAntialias(false);
-                        // Draw border
-                        $border->rectangle(
-                            $borderWidth / 2 - 1,
-                            $borderWidth / 2 - 1,
-                            $imageWidth - (($borderWidth / 2)),
-                            $imageHeight - (($borderWidth / 2))
-                        );
-                        // Apply drawed border to final image
-                        $image->drawImage($border);
-                        $image->setImageFormat('png');
-                        $image->compositeImage(
-                            $img, Imagick::COMPOSITE_DEFAULT,
-                            $borderWidth,
-                            $borderWidth
-                        );
-                        $image->writeImage(__DIR__ . '/qq.png');
+                    // set the image to black and white
+                    $img->setImageType(Imagick::IMGTYPE_GRAYSCALE);
+                    $img->adaptiveResizeImage(300, 300, true);
+                    $img->medianFilterImage(15);
+                    $img->adaptiveSharpenImage(19, 15);
+                    $img->blackThresholdImage("rgb(254, 254, 254)");
+                    $imageWidth = $img->getImageWidth() + (2 * ($borderWidth));
+                    $imageHeight = $img->getImageHeight() + (2 * ($borderWidth));
+                    $image = new Imagick();
+                    $image->newImage($imageWidth, $imageHeight, new ImagickPixel('none'));
+                    $border = new ImagickDraw();
+                    $border->setStrokeColor(new ImagickPixel($borderColor));
+                    $border->setStrokeWidth($borderWidth);
+                    $border->setStrokeAntialias(false);
+                    // Draw border
+                    $border->rectangle(
+                        $borderWidth / 2 - 1,
+                        $borderWidth / 2 - 1,
+                        $imageWidth - (($borderWidth / 2)),
+                        $imageHeight - (($borderWidth / 2))
+                    );
+                    // Apply drawed border to final image
+                    $image->drawImage($border);
+                    $image->setImageFormat('png');
+                    $image->compositeImage(
+                        $img, Imagick::COMPOSITE_DEFAULT,
+                        $borderWidth,
+                        $borderWidth
+                    );
+                    $image->writeImage(__DIR__ . '/qq.png');
 
-                        /**
-                         * add /usr/share/tesseract-ocr/5/tessdata/configs/letters with the line
-                         * tessedit_char_whitelist abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
-                         */
-                        exec('/usr/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq nobatch letters');
-                        $ans = file_get_contents(__DIR__ . '/qq.txt');
-                        $ans = preg_replace('/[^0-9a-z]+/i', '', $ans);
-                        if (strlen($ans) === 4) {
-                            $client->request('GET', $url . trim($ans));
-                            $content = $client->getResponse()->getContent();
-                            if (false === strpos($content, '驗證碼錯誤，請重新輸入')) {
-                                $ansDone = true;
-                                copy(__DIR__ . '/qq_orig.png', __DIR__ . '/base/' . $ans . '.png');
-                                $rawFile = $rawPath . '/' . $data['title'] . '.html';
-                                file_put_contents($rawFile, $content);
-                                echo "{$rawFile}\n";
-                            }
+                    /**
+                     * add /usr/share/tesseract-ocr/5/tessdata/configs/letters with the line
+                     * tessedit_char_whitelist abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+                     */
+                    exec('/usr/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq nobatch letters');
+                    $ans = file_get_contents(__DIR__ . '/qq.txt');
+                    $ans = preg_replace('/[^0-9a-z]+/i', '', $ans);
+                    if (strlen($ans) === 4) {
+                        $client->request('GET', $url . trim($ans));
+                        $content = $client->getResponse()->getContent();
+                        if (false === strpos($content, '驗證碼錯誤，請重新輸入')) {
+                            $ansDone = true;
+                            copy(__DIR__ . '/qq_orig.png', __DIR__ . '/base/' . $ans . '.png');
+                            $rawFile = $rawPath . '/' . $data['title'] . '.html';
+                            file_put_contents($rawFile, $content);
+                            echo "{$rawFile}\n";
                         }
                     }
                 }
-                if (false === $ansDone) {
-                    ++$countFailed;
-                }
-
             }
         }
     }
 }
-
-echo "{$countTotal} tasks, {$countFailed} failed\n";
