@@ -1,6 +1,5 @@
 <?php
-$basePath = dirname(__DIR__);
-include $basePath . '/vendor/autoload.php';
+include dirname(__DIR__) . '/vendor/autoload.php';
 
 use Goutte\Client;
 
@@ -32,16 +31,17 @@ $cities = [
 ];
 
 $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/punishSearch.aspx');
+$pageLimit = 4;
 
 foreach ($cities as $code => $city) {
-    $dataPath = $basePath . '/docs/data/punish/' . $city;
-    if (!file_exists($dataPath)) {
-        mkdir($dataPath, 0777, true);
+    $rawPath = dirname(__DIR__) . '/raw/punish/' . $city;
+    if (!file_exists($rawPath)) {
+        mkdir($rawPath, 0777, true);
     }
-
     $form = $crawler->selectButton('搜尋')->form();
     $crawler = $client->submit($form, ['ddlCityS' => $code]);
     $pageContent = $client->getResponse()->getContent();
+    file_put_contents($rawPath . '/1.html', $pageContent);
 
     $pos = strpos($pageContent, '<div class="kdCard-txt">');
     while (false !== $pos) {
@@ -53,35 +53,40 @@ foreach ($cities as $code => $city) {
 
         $text = strip_tags($block);
         $text = str_replace('&nbsp;', ' ', $text);
-        $blockLines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
+        $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
 
         $client->request('GET', $url);
-        $page = $client->getResponse()->getContent();
-        $page = str_replace('&nbsp;', '', $page);
-        $pos = strpos($page, '<div id="mainPanel">');
-        $posEnd = strpos($page, '<input type="submit" name="btnExit"', $pos);
-        $lines = explode('</tr>', substr($page, $pos, $posEnd - $pos));
-        $theFile = $dataPath . '/' . $blockLines[1] . '.json';
-        $punishments = json_decode(file_get_contents($theFile), true);
-        $keyPool = [];
-        foreach($punishments AS $punishment) {
-            $keyPool[$punishment[1]] = true;
-        }
-        foreach ($lines as $line) {
-            $cols = explode('</td>', $line);
-            if (count($cols) === 7) {
-                foreach ($cols as $k => $v) {
-                    $cols[$k] = trim(strip_tags($v));
-                }
-                array_pop($cols);
-                if(!isset($keyPool[$cols[1]])) {
-                    $punishments[] = $cols;
-                    $keyPool[$cols[1]] = true;
-                }
-            }
-        }
-        file_put_contents($theFile, json_encode($punishments, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        file_put_contents($rawPath . '/item_' . $lines[1] . '.html', $client->getResponse()->getContent());
 
         $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
+    }
+
+    $currentPage = 1;
+    while (false !== strpos($pageContent, 'PageControl1$lbNextPage') && $currentPage < $pageLimit) {
+        ++$currentPage;
+        $form = $crawler->filter('#form1')->form();
+        $crawler = $client->submit($form, [
+            '__EVENTTARGET' => 'PageControl1$lbNextPage',
+        ]);
+        $pageContent = $client->getResponse()->getContent();
+        file_put_contents($rawPath . '/' . $currentPage . '.html', $pageContent);
+
+        $pos = strpos($pageContent, '<div class="kdCard-txt">');
+        while (false !== $pos) {
+            $nextPos = strpos($pageContent, '</td>', $pos + 1);
+            $block = substr($pageContent, $pos, $nextPos - $pos);
+            $urlPos = strpos($block, '/dtl/punish_view.aspx');
+            $urlPosEnd = strpos($block, '&#39;', $urlPos);
+            $url = 'https://ap.ece.moe.edu.tw/webecems' . substr($block, $urlPos, $urlPosEnd - $urlPos);
+
+            $text = strip_tags($block);
+            $text = str_replace('&nbsp;', ' ', $text);
+            $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
+
+            $client->request('GET', $url);
+            file_put_contents($rawPath . '/item_' . $lines[1] . '.html', $client->getResponse()->getContent());
+
+            $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
+        }
     }
 }
