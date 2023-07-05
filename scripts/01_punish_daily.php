@@ -1,5 +1,6 @@
 <?php
-include dirname(__DIR__) . '/vendor/autoload.php';
+$basePath = dirname(__DIR__);
+include $basePath . '/vendor/autoload.php';
 
 use Goutte\Client;
 
@@ -34,7 +35,7 @@ $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/punishSea
 $pageLimit = 4;
 
 foreach ($cities as $code => $city) {
-    $rawPath = dirname(__DIR__) . '/raw/punish/' . $city;
+    $rawPath = $basePath . '/raw/punish/' . $city;
     if (!file_exists($rawPath)) {
         mkdir($rawPath, 0777, true);
     }
