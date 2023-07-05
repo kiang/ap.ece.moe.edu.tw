@@ -58,7 +58,7 @@ foreach ($cities as $code => $city) {
 
         $text = strip_tags($block);
         $text = str_replace('&nbsp;', ' ', $text);
-        $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
+        $blockLines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
 
         $client->request('GET', $url);
         $page = $client->getResponse()->getContent();
@@ -114,7 +114,7 @@ foreach ($cities as $code => $city) {
 
             $text = strip_tags($block);
             $text = str_replace('&nbsp;', ' ', $text);
-            $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
+            $blockLines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
 
             $client->request('GET', $url);
             $page = $client->getResponse()->getContent();
