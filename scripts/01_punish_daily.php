@@ -35,10 +35,6 @@ $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/punishSea
 $pageLimit = 4;
 
 foreach ($cities as $code => $city) {
-    $rawPath = $basePath . '/raw/punish/' . $city;
-    if (!file_exists($rawPath)) {
-        mkdir($rawPath, 0777, true);
-    }
     $dataPath = $basePath . '/docs/data/punish/' . $city;
     if (!file_exists($dataPath)) {
         mkdir($dataPath, 0777, true);
@@ -46,7 +42,6 @@ foreach ($cities as $code => $city) {
     $form = $crawler->selectButton('搜尋')->form();
     $crawler = $client->submit($form, ['ddlCityS' => $code]);
     $pageContent = $client->getResponse()->getContent();
-    file_put_contents($rawPath . '/1.html', $pageContent);
 
     $pos = strpos($pageContent, '<div class="kdCard-txt">');
     while (false !== $pos) {
@@ -102,7 +97,6 @@ foreach ($cities as $code => $city) {
             '__EVENTTARGET' => 'PageControl1$lbNextPage',
         ]);
         $pageContent = $client->getResponse()->getContent();
-        file_put_contents($rawPath . '/' . $currentPage . '.html', $pageContent);
 
         $pos = strpos($pageContent, '<div class="kdCard-txt">');
         while (false !== $pos) {
