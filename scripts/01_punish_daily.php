@@ -38,6 +38,10 @@ foreach ($cities as $code => $city) {
     if (!file_exists($rawPath)) {
         mkdir($rawPath, 0777, true);
     }
+    $dataPath = $basePath . '/docs/data/punish/' . $city;
+    if (!file_exists($dataPath)) {
+        mkdir($dataPath, 0777, true);
+    }
     $form = $crawler->selectButton('搜尋')->form();
     $crawler = $client->submit($form, ['ddlCityS' => $code]);
     $pageContent = $client->getResponse()->getContent();
@@ -56,7 +60,35 @@ foreach ($cities as $code => $city) {
         $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
 
         $client->request('GET', $url);
-        file_put_contents($rawPath . '/item_' . $lines[1] . '.html', $client->getResponse()->getContent());
+        $page = $client->getResponse()->getContent();
+        $page = str_replace('&nbsp;', '', $page);
+        $pos = strpos($page, '<div id="mainPanel">');
+        $posEnd = strpos($page, '<input type="submit" name="btnExit"', $pos);
+        $lines = explode('</tr>', substr($page, $pos, $posEnd - $pos));
+        $theFile = $dataPath . '/' . $blockLines[1] . '.json';
+        $keyPool = [];
+        if (file_exists($theFile)) {
+            $punishments = json_decode(file_get_contents($theFile), true);
+            foreach ($punishments as $punishment) {
+                $keyPool[$punishment[1]] = true;
+            }
+        } else {
+            $punishments = [];
+        }
+        foreach ($lines as $line) {
+            $cols = explode('</td>', $line);
+            if (count($cols) === 7) {
+                foreach ($cols as $k => $v) {
+                    $cols[$k] = trim(strip_tags($v));
+                }
+                array_pop($cols);
+                if (!isset($keyPool[$cols[1]])) {
+                    $punishments[] = $cols;
+                    $keyPool[$cols[1]] = true;
+                }
+            }
+        }
+        file_put_contents($theFile, json_encode($punishments, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
         $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
     }
@@ -84,7 +116,35 @@ foreach ($cities as $code => $city) {
             $lines = explode("\n", preg_replace('/[ \n\r]+/', "\n", $text));
 
             $client->request('GET', $url);
-            file_put_contents($rawPath . '/item_' . $lines[1] . '.html', $client->getResponse()->getContent());
+            $page = $client->getResponse()->getContent();
+            $page = str_replace('&nbsp;', '', $page);
+            $pos = strpos($page, '<div id="mainPanel">');
+            $posEnd = strpos($page, '<input type="submit" name="btnExit"', $pos);
+            $lines = explode('</tr>', substr($page, $pos, $posEnd - $pos));
+            $theFile = $dataPath . '/' . $blockLines[1] . '.json';
+            $keyPool = [];
+            if (file_exists($theFile)) {
+                $punishments = json_decode(file_get_contents($theFile), true);
+                foreach ($punishments as $punishment) {
+                    $keyPool[$punishment[1]] = true;
+                }
+            } else {
+                $punishments = [];
+            }
+            foreach ($lines as $line) {
+                $cols = explode('</td>', $line);
+                if (count($cols) === 7) {
+                    foreach ($cols as $k => $v) {
+                        $cols[$k] = trim(strip_tags($v));
+                    }
+                    array_pop($cols);
+                    if (!isset($keyPool[$cols[1]])) {
+                        $punishments[] = $cols;
+                        $keyPool[$cols[1]] = true;
+                    }
+                }
+            }
+            file_put_contents($theFile, json_encode($punishments, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
             $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
         }
