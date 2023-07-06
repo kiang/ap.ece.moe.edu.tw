@@ -100,7 +100,7 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
                     exec('/usr/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq nobatch letters');
                     $ans = file_get_contents(__DIR__ . '/qq.txt');
                     $ans = preg_replace('/[^0-9a-z]+/i', '', $ans);
-                    if (strlen($ans) === 4) {
+                    if (strlen($ans) === 5) {
                         $client->request('GET', $url . trim($ans));
                         $content = $client->getResponse()->getContent();
                         if (false === strpos($content, '驗證碼錯誤，請重新輸入')) {
