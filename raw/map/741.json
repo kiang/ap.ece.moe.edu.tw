@@ -110,5 +110,13 @@
     "sid": "MQA2ADcANAAxADAAMAAwADEAOQA=",
     "name": "(準公共)臺南市私立知恩幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1161971,
+    "lng": 120.3083684,
+    "sid": "MQA2ADcANAAxADAAMAAwADIAMAA=",
+    "name": "(公立)臺南市立蓮潭國民中小學附設幼兒園",
+    "type": "spub0"
   }
 ]

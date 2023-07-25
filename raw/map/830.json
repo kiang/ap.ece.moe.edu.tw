@@ -614,5 +614,13 @@
     "sid": "MQA4ADgAMwAwADAAMAAwADkANAA=",
     "name": "(私立)高雄市私立威爾森鳳翔幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.6329664,
+    "lng": 120.3712794,
+    "sid": "MQA4ADgAMwAwADAAMAAwADkANQA=",
+    "name": "(非營利)高雄市自強非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+    "type": "spub2"
   }
 ]
