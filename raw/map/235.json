@@ -164,16 +164,16 @@
     "lat": 24.9967679,
     "lng": 121.5117807,
     "sid": "MAAzADIAMwA1ADAAMAAwADIAOQA=",
-    "name": "(私立)新北市私立弘儒幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立弘儒幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.9900459,
     "lng": 121.504391,
     "sid": "MAAzADIAMwA1ADAAMAAwADMAMAA=",
-    "name": "(私立)新北市私立泡泡龍幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立泡泡龍幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -596,8 +596,8 @@
     "lat": 24.9918844,
     "lng": 121.501622,
     "sid": "MAAzADIAMwA1ADAAMAAwADkAMAA=",
-    "name": "(私立)新北市私立辰修幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立辰修幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

@@ -180,8 +180,8 @@
     "lat": 23.039108,
     "lng": 120.202651,
     "sid": "MQA2ADcAMAA5ADAAMAAwADEAMwA=",
-    "name": "(私立)臺南市私立華德幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立華德幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -532,23 +532,23 @@
     "lat": 23.0172664,
     "lng": 120.180471,
     "sid": "MQA2ADcAMAA5ADAAMAAwADYANAA=",
-    "name": "(私立)臺南市私立光漢幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立光漢幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.0297065,
     "lng": 120.2079495,
     "sid": "MQA2ADcAMAA5ADAAMAAwADYANQA=",
-    "name": "(私立)臺南市私立貝思樂人文藝術幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立貝思樂人文藝術幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.0571655,
     "lng": 120.2177565,
     "sid": "MQA2ADcAMAA5ADAAMAAwADYANgA=",
-    "name": "(私立)臺南市私立愛森國際幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立愛森國際幼兒園",
+    "type": "spub3"
   }
 ]

@@ -204,16 +204,16 @@
     "lat": 24.19601,
     "lng": 120.678996,
     "sid": "MAA5ADQAMAA2ADAAMAAwADMAOQA=",
-    "name": "(私立)臺中市私立悅心幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立悅心幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.1786148,
     "lng": 120.6933024,
     "sid": "MAA5ADQAMAA2ADAAMAAwADQAMQA=",
-    "name": "(私立)臺中市私立文太幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立文太幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -476,8 +476,8 @@
     "lat": 24.1966327,
     "lng": 120.6773342,
     "sid": "MAA5ADQAMAA2ADAAMAAwADcANAA=",
-    "name": "(私立)臺中市私立滿天星幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立滿天星幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

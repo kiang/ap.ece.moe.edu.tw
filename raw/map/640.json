@@ -188,16 +188,16 @@
     "lat": 23.713672,
     "lng": 120.539502,
     "sid": "MQAzADYANAAwADAAMAAwADIANwA=",
-    "name": "(私立)雲林縣私立兒皇宮幼兒園",
-    "type": "spub1"
+    "name": "(準公共)雲林縣私立兒皇宮幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.740274,
     "lng": 120.556112,
     "sid": "MQAzADYANAAwADAAMAAwADIAOAA=",
-    "name": "(私立)雲林縣私立建國幼兒園",
-    "type": "spub1"
+    "name": "(準公共)雲林縣私立建國幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -292,7 +292,7 @@
     "lat": 23.7135842,
     "lng": 120.5400967,
     "sid": "MQAzADYANAAwADAAMAAwADQAMgA=",
-    "name": "(私立)雲林縣私立蒂兒拉幼兒園",
-    "type": "spub1"
+    "name": "(準公共)雲林縣私立蒂兒拉幼兒園",
+    "type": "spub3"
   }
 ]

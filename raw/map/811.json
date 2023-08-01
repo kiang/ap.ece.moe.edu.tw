@@ -12,8 +12,8 @@
     "lat": 22.7369889,
     "lng": 120.3306109,
     "sid": "MQA4ADgAMQAxADAAMAAwADAAMgA=",
-    "name": "(私立)高雄市私立吉米亨利幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立吉米亨利幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -212,8 +212,8 @@
     "lat": 22.71177,
     "lng": 120.2902679,
     "sid": "MQA4ADgAMQAxADAAMAAwADMAMQA=",
-    "name": "(私立)高雄市私立右昌麥米倫幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立右昌麥米倫幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -348,7 +348,7 @@
     "lat": 22.7256809,
     "lng": 120.2852353,
     "sid": "MQA4ADgAMQAxADAAMAAwADUAMgA=",
-    "name": "(私立)高雄市私立新資優生楠梓幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立新資優生楠梓幼兒園",
+    "type": "spub3"
   }
 ]

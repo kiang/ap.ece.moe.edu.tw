@@ -212,8 +212,8 @@
     "lat": 24.986597,
     "lng": 121.464613,
     "sid": "MAAzADIAMwA2ADAAMAAwADMANwA=",
-    "name": "(私立)新北市私立全球幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立全球幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -436,8 +436,8 @@
     "lat": 24.96487,
     "lng": 121.430957,
     "sid": "MAAzADIAMwA2ADAAMAAwADcAMQA=",
-    "name": "(私立)新北市私立凱樂幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立凱樂幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -484,7 +484,7 @@
     "lat": 24.9888254,
     "lng": 121.4575132,
     "sid": "MAAzADIAMwA2ADAAMAAwADcAOAA=",
-    "name": "(私立)新北市私立有一天幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立有一天幼兒園",
+    "type": "spub3"
   }
 ]

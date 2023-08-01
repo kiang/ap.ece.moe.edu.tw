@@ -76,8 +76,8 @@
     "lat": 23.478397,
     "lng": 120.473888,
     "sid": "MQA0ADYAMAAwADAAMAAwADEANwA=",
-    "name": "(私立)嘉義市私立種子幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立種子幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -364,8 +364,8 @@
     "lat": 23.477708,
     "lng": 120.449767,
     "sid": "MQA0ADYAMAAwADAAMAAwADYAMQA=",
-    "name": "(私立)財團法人中華基督教嘉義浸信會附設嘉義市私立慈光幼兒園",
-    "type": "spub1"
+    "name": "(準公共)財團法人中華基督教嘉義浸信會附設嘉義市私立慈光幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -596,7 +596,7 @@
     "lat": 23.4722991,
     "lng": 120.4559006,
     "sid": "MQA0ADYAMAAwADAAMAAwADkANwA=",
-    "name": "(私立)嘉義市私立哈波特幼兒園",
-    "type": "spub1"
+    "name": "(準公共)嘉義市私立哈波特幼兒園",
+    "type": "spub3"
   }
 ]

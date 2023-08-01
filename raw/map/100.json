@@ -124,8 +124,8 @@
     "lat": 25.0362398,
     "lng": 121.51249,
     "sid": "MAAyADEAMAAwADAAMAAwADEAOAA=",
-    "name": "(私立)法務部附設臺北市私立員工子女幼兒園",
-    "type": "spub1"
+    "name": "(準公共)法務部附設臺北市私立員工子女幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -180,8 +180,8 @@
     "lat": 25.027827,
     "lng": 121.521596,
     "sid": "MAAyADEAMAAwADAAMAAwADIANgA=",
-    "name": "(私立)臺北市私立智寶園幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立智寶園幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -212,8 +212,8 @@
     "lat": 25.036632,
     "lng": 121.525383,
     "sid": "MAAyADEAMAAwADAAMAAwADMAMQA=",
-    "name": "(私立)臺北市私立家緣蒙特梭利幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立家緣蒙特梭利幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -276,7 +276,7 @@
     "lat": 25.0384755,
     "lng": 121.5077819,
     "sid": "MAAyADEAMAAwADAAMAAwADMAOQA=",
-    "name": "(私立)行政院環境保護署職場互助教保服務中心（委託社團法人金字塔幼兒教育研究學會辦理）",
+    "name": "(私立)環境部職場互助教保服務中心（委託社團法人金字塔幼兒教育研究學會辦理）",
     "type": "spub1"
   },
   {

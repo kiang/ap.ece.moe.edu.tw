@@ -60,8 +60,8 @@
     "lat": 23.927092,
     "lng": 120.552004,
     "sid": "MQAxADUAMQAyADAAMAAwADEAMAA=",
-    "name": "(準公共)彰化縣私立寶貝幼兒園",
-    "type": "spub3"
+    "name": "(私立)彰化縣私立寶貝幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -92,7 +92,7 @@
     "lat": 23.9237465,
     "lng": 120.5441922,
     "sid": "MQAxADUAMQAyADAAMAAwADEANQA=",
-    "name": "(私立)彰化縣私立寶貝永靖幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立寶貝永靖幼兒園",
+    "type": "spub3"
   }
 ]
