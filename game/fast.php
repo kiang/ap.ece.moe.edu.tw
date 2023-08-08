@@ -24,6 +24,7 @@ $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/pubSearch
 
 $form = $crawler->selectButton('搜尋')->form();
 $taskFound = false;
+$domDocument = new \DOMDocument;
 foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
@@ -39,20 +40,31 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
         $rawFile = $rawPath . '/' . $data['title'] . '.html';
         if (!file_exists($rawFile)) {
             $crawler = $client->submit($form, ['txtKeyNameS' => $data['title']]);
+            $subForm = $crawler->selectButton('搜尋')->form();
+
+
+            // $domInput = $domDocument->createElement('input');
+            // $domInput->setAttribute('name', 'PageControl1$txtPages');
+            // $domInput->setAttribute('value', '1');
+            // $formInput = new \Symfony\Component\DomCrawler\Field\InputFormField($domInput);
+            // $subForm->set($formInput);
+
+            $subForm->remove('btnSearch');
+
+            $crawler = $client->submit($subForm, [
+                'txtKeyNameS' => '',
+                '__EVENTTARGET' => 'GridView1$ctl02$lbChgList',
+            ]);
             $page = $client->getResponse()->getContent();
 
             $cookies = $client->getCookieJar()->all();
             $cookies = array_map('strval', $cookies); // Cookie::__toString
             file_put_contents($cookieFile, json_encode($cookies));
 
-            $pos = strpos($page, '/dtl/chglist.aspx');
+            $pos = strpos($page, 'ChgValidateCode.aspx');
             if (false !== $pos) {
                 $borderWidth = 20;
                 $borderColor = 'rgba(255, 255, 255, 1)';
-                $posEnd = strpos($page, '&amp;', $pos);
-                $url = 'https://ap.ece.moe.edu.tw/webecems' . substr($page, $pos, $posEnd - $pos) . '&v=';
-
-                $pos = strpos($page, 'ChgValidateCode.aspx');
                 $posEnd = strpos($page, '"', $pos);
                 $imgUrl = 'https://ap.ece.moe.edu.tw/webecems/' . substr($page, $pos, $posEnd - $pos);
                 $ansDone = false;
@@ -101,14 +113,42 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
                     $ans = file_get_contents(__DIR__ . '/qq.txt');
                     $ans = preg_replace('/[^0-9a-z]+/i', '', $ans);
                     if (strlen($ans) === 5) {
-                        $client->request('GET', $url . trim($ans));
+                        $subForm = $crawler->selectButton('搜尋')->form();
+
+                        $domInput = $domDocument->createElement('input');
+                        $domInput->setAttribute('name', 'ScriptManager1');
+                        $domInput->setAttribute('value', 'UpdatePanel1|btnNext');
+                        $formInput = new \Symfony\Component\DomCrawler\Field\InputFormField($domInput);
+                        $subForm->set($formInput);
+
+                        $domInput = $domDocument->createElement('input');
+                        $domInput->setAttribute('name', 'txtVerify');
+                        $domInput->setAttribute('value', $ans);
+                        $formInput = new \Symfony\Component\DomCrawler\Field\InputFormField($domInput);
+                        $subForm->set($formInput);
+
+                        $domInput = $domDocument->createElement('input');
+                        $domInput->setAttribute('name', 'btnNext');
+                        $domInput->setAttribute('value', 'Next');
+                        $formInput = new \Symfony\Component\DomCrawler\Field\InputFormField($domInput);
+                        $subForm->set($formInput);
+
+                        $subForm->remove('btnSearch');
+
+                        $crawler = $client->submit($subForm, [
+                            'txtKeyNameS' => '',
+                            '__EVENTTARGET' => '',
+                        ]);
+
                         $content = $client->getResponse()->getContent();
                         if (false === strpos($content, '驗證碼錯誤，請重新輸入')) {
                             $ansDone = true;
                             copy(__DIR__ . '/qq_orig.png', __DIR__ . '/base/' . $ans . '.png');
-                            $rawFile = $rawPath . '/' . $data['title'] . '.html';
-                            file_put_contents($rawFile, $content);
-                            echo "{$rawFile}\n";
+                            if (false === strpos($content, '幼生系統收費登載取得錯誤')) {
+                                $rawFile = $rawPath . '/' . $data['title'] . '.html';
+                                file_put_contents($rawFile, $content);
+                                echo "{$rawFile}\n";
+                            }
                         }
                     }
                 }
