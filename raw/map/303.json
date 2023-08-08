@@ -246,5 +246,13 @@
     "sid": "MAA3ADMAMAAzADAAMAAwADQAMAA=",
     "name": "(準公共)新竹縣私立喬大幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8964745,
+    "lng": 121.044144,
+    "sid": "MAA3ADMAMAAzADAAMAAwADQAMQA=",
+    "name": "(私立)新竹縣私立張遇心幼兒園",
+    "type": "spub1"
   }
 ]

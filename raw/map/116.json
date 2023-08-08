@@ -598,5 +598,13 @@
     "sid": "MAAyADEAMQA2ADAAMAAwADgAMQA=",
     "name": "(私立)國防部資通電軍指揮部崇德隆盛職場互助教保服務中心（委託財團法人三之三生命教育基金會辦理）",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.000512,
+    "lng": 121.5492877,
+    "sid": "MAAyADEAMQA2ADAAMAAwADgAMgA=",
+    "name": "(非營利)臺北市興岩非營利幼兒園（委託社團法人台北市兒童托育協會辦理）",
+    "type": "spub2"
   }
 ]

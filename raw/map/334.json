@@ -342,5 +342,13 @@
     "sid": "MAA1ADMAMwA0ADAAMAAwADQANwA=",
     "name": "(私立)桃園市私立英橋國際幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9324099,
+    "lng": 121.3050411,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADQAOAA=",
+    "name": "(非營利)國防大學率真校區員工子女非營利幼兒園(委託社團法人桃園市教保服務人員協會辦理)",
+    "type": "spub2"
   }
 ]
