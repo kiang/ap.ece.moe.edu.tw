@@ -958,5 +958,21 @@
     "sid": "MAA1ADMAMwAwADAAMAAxADIAOQA=",
     "name": "(私立)桃園市私立韋爾斯利幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.012437,
+    "lng": 121.3208736,
+    "sid": "MAA1ADMAMwAwADAAMAAxADMAMAA=",
+    "name": "(非營利)桃園市梯田非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0076106,
+    "lng": 121.2874058,
+    "sid": "MAA1ADMAMwAwADAAMAAxADMAMQA=",
+    "name": "(非營利)桃園市中埔非營利幼兒園(委託社團法人向日葵教育文化協會辦理)",
+    "type": "spub2"
   }
 ]
