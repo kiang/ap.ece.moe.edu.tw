@@ -430,5 +430,13 @@
     "sid": "MAA5ADQAMQAyADAAMAAwADYAMAA=",
     "name": "(私立)灝學股份有限公司附設臺中市私立欣丹尼兒幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1082757,
+    "lng": 120.6868543,
+    "sid": "MAA5ADQAMQAyADAAMAAwADYAMQA=",
+    "name": "(非營利)臺中市益民非營利幼兒園(委託財團法人中臺科技大學設立之中臺科技大學辦理)",
+    "type": "spub2"
   }
 ]

@@ -742,5 +742,13 @@
     "sid": "MAA3ADMAMAAyADAAMAAxADEAMAA=",
     "name": "(私立)新竹縣私立薇森幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8613665,
+    "lng": 120.9643393,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEAMQA=",
+    "name": "(公立)新竹縣竹北市鳳岡國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

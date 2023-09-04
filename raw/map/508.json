@@ -254,5 +254,13 @@
     "sid": "MQAxADUAMAA4ADAAMAAwADMAMgA=",
     "name": "(準公共)彰化縣私立哈波特幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1044061,
+    "lng": 120.5335991,
+    "sid": "MQAxADUAMAA4ADAAMAAwADMAMwA=",
+    "name": "(非營利)彰化縣新庄非營利幼兒園（委託社團法人彰化縣樂說多元專業服務發展協會辦理）",
+    "type": "spub2"
   }
 ]

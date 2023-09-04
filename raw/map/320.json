@@ -798,5 +798,13 @@
     "sid": "MAA1ADMAMgAwADAAMAAxADIAMwA=",
     "name": "(私立)桃園市私立世懿幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0190153,
+    "lng": 121.2193443,
+    "sid": "MAA1ADMAMgAwADAAMAAxADIANAA=",
+    "name": "(非營利)桃園市青園非營利幼兒園(委託財團法人何嘉仁文教基金會辦理)",
+    "type": "spub2"
   }
 ]

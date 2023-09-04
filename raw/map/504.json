@@ -78,5 +78,13 @@
     "sid": "MQAxADUAMAA0ADAAMAAwADEAMgA=",
     "name": "(私立)彰化縣私立和德幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0163717,
+    "lng": 120.4896714,
+    "sid": "MQAxADUAMAA0ADAAMAAwADEAMwA=",
+    "name": "(非營利)彰化縣陝西非營利幼兒園（委託社團法人彰化縣友善教育公益協會辦理）",
+    "type": "spub2"
   }
 ]
