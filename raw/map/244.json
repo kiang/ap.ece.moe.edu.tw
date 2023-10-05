@@ -137,6 +137,14 @@
   },
   {
     "newsch": 1,
+    "lat": 25.0780625,
+    "lng": 121.3661941,
+    "sid": "MAAzADIANAA0ADAAMAAwADEANwAtADAAMwA=",
+    "name": "(公立)新北市立林口幼兒園文化分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
     "lat": 25.108337,
     "lng": 121.339555,
     "sid": "MAAzADIANAA0ADAAMAAwADEAOQA=",

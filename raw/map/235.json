@@ -694,5 +694,13 @@
     "sid": "MAAzADIAMwA1ADAAMAAxADEAMAA=",
     "name": "(私立)新北市私立禾芮幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0050059,
+    "lng": 121.503575,
+    "sid": "MAAzADIAMwA1ADAAMAAxADEAMQA=",
+    "name": "(非營利)新北市佳和非營利幼兒園(委託康寧學校財團法人康寧大學辦理)",
+    "type": "spub2"
   }
 ]
