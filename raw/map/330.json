@@ -65,14 +65,6 @@
   },
   {
     "newsch": 1,
-    "lat": 25.0052655,
-    "lng": 121.3054352,
-    "sid": "MAA1ADMAMwAwADAAMAAwADEAMQA=",
-    "name": "(私立)桃園市私立偉恩幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
     "lat": 24.9798183,
     "lng": 121.3138477,
     "sid": "MAA1ADMAMwAwADAAMAAwADEAMgA=",
@@ -550,22 +542,6 @@
     "sid": "MAA1ADMAMwAwADAAMAAwADgAMAA=",
     "name": "(準公共)桃園市私立松果幼兒園",
     "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.981893,
-    "lng": 121.3191471,
-    "sid": "MAA1ADMAMwAwADAAMAAwADgAMQA=",
-    "name": "(私立)財團法人桃園市桃企教育事務基金會附設桃園市私立薇爾幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.9921106,
-    "lng": 121.2782998,
-    "sid": "MAA1ADMAMwAwADAAMAAwADgAMgA=",
-    "name": "(私立)桃園市私立樂航幼兒園",
-    "type": "spub1"
   },
   {
     "newsch": 1,
