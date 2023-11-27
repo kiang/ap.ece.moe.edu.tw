@@ -422,5 +422,13 @@
     "sid": "MAAzADIANQAxADAAMAAwADUAOAA=",
     "name": "(非營利)新北市淡海非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1975751,
+    "lng": 121.4270508,
+    "sid": "MAAzADIANQAxADAAMAAwADUAOQA=",
+    "name": "(私立)新北市私立吾米幼兒園",
+    "type": "spub1"
   }
 ]
