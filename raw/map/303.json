@@ -1,0 +1,258 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.902128,
+    "lng": 121.049652,
+    "sid": "MAA3ADMAMAAzADAAMAAwADAAMQA=",
+    "name": "(準公共)新竹縣私立盧森堡幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.871214,
+    "lng": 121.033635,
+    "sid": "MAA3ADMAMAAzADAAMAAwADAAMgA=",
+    "name": "(準公共)新竹縣私立威佑幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.907241,
+    "lng": 121.05207,
+    "sid": "MAA3ADMAMAAzADAAMAAwADAAMwA=",
+    "name": "(準公共)新竹縣私立民生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.902266,
+    "lng": 121.038572,
+    "sid": "MAA3ADMAMAAzADAAMAAwADAANAA=",
+    "name": "(準公共)新竹縣私立明明幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.867958,
+    "lng": 121.0245,
+    "sid": "MAA3ADMAMAAzADAAMAAwADAANQA=",
+    "name": "(準公共)新竹縣私立張逸幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.904723,
+    "lng": 121.051386,
+    "sid": "MAA3ADMAMAAzADAAMAAwADEAMAA=",
+    "name": "(準公共)新竹縣私立小瓢蟲幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.895541,
+    "lng": 121.067673,
+    "sid": "MAA3ADMAMAAzADAAMAAwADEAMQA=",
+    "name": "(準公共)新竹縣私立佳佳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.868381,
+    "lng": 121.027426,
+    "sid": "MAA3ADMAMAAzADAAMAAwADEAMwA=",
+    "name": "(私立)新竹縣私立古佳幼幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.899117,
+    "lng": 121.038795,
+    "sid": "MAA3ADMAMAAzADAAMAAwADEANQA=",
+    "name": "(公立)新竹縣湖口鄉信勢國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.887084,
+    "lng": 121.095261,
+    "sid": "MAA3ADMAMAAzADAAMAAwADEANgA=",
+    "name": "(公立)新竹縣湖口鄉長安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.905953,
+    "lng": 121.047594,
+    "sid": "MAA3ADMAMAAzADAAMAAwADEANwA=",
+    "name": "(公立)新竹縣湖口鄉新湖國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.862061,
+    "lng": 121.024344,
+    "sid": "MAA3ADMAMAAzADAAMAAwADEAOAA=",
+    "name": "(準公共)新竹縣私立大同幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.891264,
+    "lng": 121.051955,
+    "sid": "MAA3ADMAMAAzADAAMAAwADEAOQA=",
+    "name": "(準公共)新竹縣私立小太陽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.916869,
+    "lng": 121.047589,
+    "sid": "MAA3ADMAMAAzADAAMAAwADIAMAA=",
+    "name": "(準公共)新竹縣私立精英幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8678399,
+    "lng": 121.027742,
+    "sid": "MAA3ADMAMAAzADAAMAAwADIAMwA=",
+    "name": "(準公共)新竹縣私立湖口鄉示範幼兒園（新竹縣湖口鄉公所委託新竹縣私立威佑幼兒園辦理）",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9064177,
+    "lng": 121.0491719,
+    "sid": "MAA3ADMAMAAzADAAMAAwADIANQA=",
+    "name": "(公立)新竹縣湖口鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.878406,
+    "lng": 121.0573517,
+    "sid": "MAA3ADMAMAAzADAAMAAwADIANQAtADAAMQA=",
+    "name": "(公立)新竹縣湖口鄉立幼兒園湖口分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9008263,
+    "lng": 121.0453143,
+    "sid": "MAA3ADMAMAAzADAAMAAwADIANgA=",
+    "name": "(私立)新竹縣私立士林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9063219,
+    "lng": 121.047391,
+    "sid": "MAA3ADMAMAAzADAAMAAwADIANwA=",
+    "name": "(私立)新竹縣私立古佳正幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.897766,
+    "lng": 121.04874,
+    "sid": "MAA3ADMAMAAzADAAMAAwADIAOAA=",
+    "name": "(準公共)新竹縣私立故事島幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9050114,
+    "lng": 121.0494853,
+    "sid": "MAA3ADMAMAAzADAAMAAwADIAOQA=",
+    "name": "(準公共)新竹縣私立宏儒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.896744,
+    "lng": 121.044261,
+    "sid": "MAA3ADMAMAAzADAAMAAwADMAMAA=",
+    "name": "(私立)新竹縣私立偉大人物幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9273014,
+    "lng": 121.0383644,
+    "sid": "MAA3ADMAMAAzADAAMAAwADMAMQA=",
+    "name": "(公立)新竹縣湖口鄉和興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8742049,
+    "lng": 121.020084,
+    "sid": "MAA3ADMAMAAzADAAMAAwADMAMgA=",
+    "name": "(公立)新竹縣湖口鄉華興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9036399,
+    "lng": 121.046214,
+    "sid": "MAA3ADMAMAAzADAAMAAwADMANAA=",
+    "name": "(準公共)財團法人新竹縣天主教耶穌聖心烏蘇拉傳教修女會附設新竹縣私立聖心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.860536,
+    "lng": 121.02121,
+    "sid": "MAA3ADMAMAAzADAAMAAwADMANQA=",
+    "name": "(準公共)財團法人新竹縣天主教耶穌聖心烏蘇拉傳教修女會附設新竹縣私立博愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.878466,
+    "lng": 121.060464,
+    "sid": "MAA3ADMAMAAzADAAMAAwADMANgA=",
+    "name": "(公立)新竹縣湖口鄉湖口國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8964482,
+    "lng": 121.0442556,
+    "sid": "MAA3ADMAMAAzADAAMAAwADMANwA=",
+    "name": "(準公共)新竹縣私立張遇文幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8964482,
+    "lng": 121.0442556,
+    "sid": "MAA3ADMAMAAzADAAMAAwADMAOAA=",
+    "name": "(準公共)新竹縣私立張遇幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8720567,
+    "lng": 121.0099327,
+    "sid": "MAA3ADMAMAAzADAAMAAwADMAOQA=",
+    "name": "(私立)經濟部新竹產業園區服務中心職場互助教保服務中心(委託社團法人臺灣亞洲學前教育培訓協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8960467,
+    "lng": 121.0461668,
+    "sid": "MAA3ADMAMAAzADAAMAAwADQAMAA=",
+    "name": "(準公共)新竹縣私立喬大幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8964745,
+    "lng": 121.044144,
+    "sid": "MAA3ADMAMAAzADAAMAAwADQAMQA=",
+    "name": "(私立)新竹縣私立張遇心幼兒園",
+    "type": "spub1"
+  }
+]

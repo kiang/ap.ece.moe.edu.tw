@@ -1,0 +1,82 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.9960893,
+    "lng": 120.5450848,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAAMQA=",
+    "name": "(準公共)彰化縣私立日光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9856876,
+    "lng": 120.5428962,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAAMwA=",
+    "name": "(準公共)彰化縣私立喬森幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9899989,
+    "lng": 120.537373,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAANAA=",
+    "name": "(準公共)彰化縣私立芝麻街大村幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9870929,
+    "lng": 120.565776,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立大村鵝媽媽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.994609,
+    "lng": 120.547225,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAANgA=",
+    "name": "(私立)彰化縣私立快樂寶貝幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9911111,
+    "lng": 120.5394444,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAANwA=",
+    "name": "(準公共)彰化縣私立大村安麒兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9882877,
+    "lng": 120.5667143,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAAOAA=",
+    "name": "(公立)彰化縣大村鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.995487,
+    "lng": 120.547764,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAAOQA=",
+    "name": "(私立)彰化縣私立快樂寶貝中正幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9846804,
+    "lng": 120.5255336,
+    "sid": "MQAxADUAMQA1ADAAMAAwADEAMAA=",
+    "name": "(非營利)彰化縣大西非營利幼兒園（委託社團法人彰化縣樂說多元專業服務發展協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9940585,
+    "lng": 120.5821827,
+    "sid": "MQAxADUAMQA1ADAAMAAwADEAMQA=",
+    "name": "(非營利)彰化縣村東非營利幼兒園（委託社團法人彰化縣親職福利服務協會辦理）",
+    "type": "spub2"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.80887001,
+    "lng": 120.85670001,
+    "sid": "MQAyADUANQAzADAAMAAwADAAMQA=",
+    "name": "(準公共)南投縣私立小名人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.884033,
+    "lng": 120.871187,
+    "sid": "MQAyADUANQAzADAAMAAwADAAMgA=",
+    "name": "(公立)南投縣水里鄉新興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8105982,
+    "lng": 120.8549251,
+    "sid": "MQAyADUANQAzADAAMAAwADAAMwA=",
+    "name": "(公立)南投縣水里鄉水里國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.8041001,
+    "lng": 120.837191,
+    "sid": "MQAyADUANQAzADAAMAAwADAANAA=",
+    "name": "(公立)南投縣水里鄉立幼兒園",
+    "type": "spub0"
+  }
+]

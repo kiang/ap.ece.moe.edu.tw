@@ -1,0 +1,50 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.996718,
+    "lng": 120.634416,
+    "sid": "MQA4ADgANAA0ADAAMAAwADAAMQA=",
+    "name": "(公立)高雄市六龜區六龜國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.073125,
+    "lng": 120.672548,
+    "sid": "MQA4ADgANAA0ADAAMAAwADAAMgA=",
+    "name": "(公立)高雄市六龜區荖濃國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.8983421,
+    "lng": 120.6270981,
+    "sid": "MQA4ADgANAA0ADAAMAAwADAAMwA=",
+    "name": "(公立)高雄市六龜區新威國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.109078,
+    "lng": 120.701048,
+    "sid": "MQA4ADgANAA0ADAAMAAwADAANAA=",
+    "name": "(公立)高雄市六龜區寶來國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.000822,
+    "lng": 120.644783,
+    "sid": "MQA4ADgANAA0ADAAMAAwADAAOAA=",
+    "name": "(私立)高雄市私立安倪幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.993434,
+    "lng": 120.645163,
+    "sid": "MQA4ADgANAA0ADAAMAAwADAAOQA=",
+    "name": "(公立)高雄市六龜區龍興國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

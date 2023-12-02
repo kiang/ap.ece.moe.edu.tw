@@ -1,0 +1,290 @@
+[
+  {
+    "newsch": 1,
+    "lat": 25.0338919,
+    "lng": 121.613469,
+    "sid": "MAAyADEAMQA1ADAAMAAwADAAMgA=",
+    "name": "(私立)臺北市私立大方凌雲幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.046389,
+    "lng": 121.61599,
+    "sid": "MAAyADEAMQA1ADAAMAAwADAANAA=",
+    "name": "(私立)臺北市私立新莒光幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.044158,
+    "lng": 121.6177832,
+    "sid": "MAAyADEAMQA1ADAAMAAwADAANQA=",
+    "name": "(私立)臺北市私立南光幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.056042,
+    "lng": 121.60211,
+    "sid": "MAAyADEAMQA1ADAAMAAwADAANgA=",
+    "name": "(公立)臺北市南港區東新國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.045522,
+    "lng": 121.589522,
+    "sid": "MAAyADEAMQA1ADAAMAAwADAANwA=",
+    "name": "(公立)臺北市南港區修德國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0570551,
+    "lng": 121.6103467,
+    "sid": "MAAyADEAMQA1ADAAMAAwADAAOAA=",
+    "name": "(公立)臺北市南港區南港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.05369,
+    "lng": 121.594625,
+    "sid": "MAAyADEAMQA1ADAAMAAwADAAOQA=",
+    "name": "(公立)臺北市南港區玉成國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.046914,
+    "lng": 121.586992,
+    "sid": "MAAyADEAMQA1ADAAMAAwADEAMAA=",
+    "name": "(公立)臺北市南港區成德國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.057824007470273,
+    "lng": 121.59883686427069,
+    "sid": "MAAyADEAMQA1ADAAMAAwADEAMQA=",
+    "name": "(公立)臺北市立南港幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0402906,
+    "lng": 121.6194992,
+    "sid": "MAAyADEAMQA1ADAAMAAwADEAMgA=",
+    "name": "(公立)臺北市南港區舊莊國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0397928,
+    "lng": 121.6216094,
+    "sid": "MAAyADEAMQA1ADAAMAAwADEAMwA=",
+    "name": "(準公共)臺北市私立莒光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.045707,
+    "lng": 121.587486,
+    "sid": "MAAyADEAMQA1ADAAMAAwADEANAA=",
+    "name": "(準公共)臺北市私立樹德幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.042952,
+    "lng": 121.585858,
+    "sid": "MAAyADEAMQA1ADAAMAAwADEANgA=",
+    "name": "(私立)臺北市私立龍華幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.048309,
+    "lng": 121.581417,
+    "sid": "MAAyADEAMQA1ADAAMAAwADEANwA=",
+    "name": "(私立)臺北市私立大大樹幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.053782,
+    "lng": 121.600503,
+    "sid": "MAAyADEAMQA1ADAAMAAwADEAOQA=",
+    "name": "(私立)財團法人國光慈善事業基金會附設臺北市私立三軍幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.056594,
+    "lng": 121.592463,
+    "sid": "MAAyADEAMQA1ADAAMAAwADIAMAA=",
+    "name": "(私立)世平興業股份有限公司附設臺北市私立員工子女幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0420624,
+    "lng": 121.6191307,
+    "sid": "MAAyADEAMQA1ADAAMAAwADIAMQA=",
+    "name": "(準公共)臺北市私立惠群幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.04808,
+    "lng": 121.5871449,
+    "sid": "MAAyADEAMQA1ADAAMAAwADIANAA=",
+    "name": "(準公共)臺北市私立大華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.040441,
+    "lng": 121.587367,
+    "sid": "MAAyADEAMQA1ADAAMAAwADIANQA=",
+    "name": "(準公共)臺北市私立海格斯大千幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0470387,
+    "lng": 121.6137901,
+    "sid": "MAAyADEAMQA1ADAAMAAwADIANgA=",
+    "name": "(私立)臺北市私立欣苗幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.039977,
+    "lng": 121.589263,
+    "sid": "MAAyADEAMQA1ADAAMAAwADIANwA=",
+    "name": "(私立)臺北市私立傑生寶華國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0571095,
+    "lng": 121.6043876,
+    "sid": "MAAyADEAMQA1ADAAMAAwADIAOAA=",
+    "name": "(私立)臺北市私立東美幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.047469,
+    "lng": 121.6131463,
+    "sid": "MAAyADEAMQA1ADAAMAAwADIAOQA=",
+    "name": "(私立)中央研究院附設臺北市私立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.055176,
+    "lng": 121.6058079,
+    "sid": "MAAyADEAMQA1ADAAMAAwADMAMAA=",
+    "name": "(私立)臺北市私立達芬奇多元智能幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.040908,
+    "lng": 121.588615,
+    "sid": "MAAyADEAMQA1ADAAMAAwADMAMQA=",
+    "name": "(準公共)臺北市私立小騎士幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0389739,
+    "lng": 121.592136,
+    "sid": "MAAyADEAMQA1ADAAMAAwADMAMwA=",
+    "name": "(非營利)臺北市港福非營利幼兒園(委託中華學校財團法人辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.052168,
+    "lng": 121.594967,
+    "sid": "MAAyADEAMQA1ADAAMAAwADMANAA=",
+    "name": "(準公共)臺北市立南港高級中學教師會附設臺北市私立員工子女幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0541903,
+    "lng": 121.6052808,
+    "sid": "MAAyADEAMQA1ADAAMAAwADMANQA=",
+    "name": "(私立)臺北市私立甘霖幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.047146,
+    "lng": 121.614206,
+    "sid": "MAAyADEAMQA1ADAAMAAwADMANgA=",
+    "name": "(私立)臺北市私立欣苗寶貝幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.056801,
+    "lng": 121.599036,
+    "sid": "MAAyADEAMQA1ADAAMAAwADMANwA=",
+    "name": "(私立)臺北市私立道生南港幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0423894,
+    "lng": 121.6172346,
+    "sid": "MAAyADEAMQA1ADAAMAAwADMAOAA=",
+    "name": "(非營利)臺北市胡適非營利幼兒園（委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0535818,
+    "lng": 121.5947692,
+    "sid": "MAAyADEAMQA1ADAAMAAwADMAOQA=",
+    "name": "(非營利)臺北市向陽非營利幼兒園（委託社團法人嬰幼兒教育與家庭發展協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0631301,
+    "lng": 121.6140619,
+    "sid": "MAAyADEAMQA1ADAAMAAwADQAMAA=",
+    "name": "(私立)臺北市私立咪咪陳幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.059279124772264,
+    "lng": 121.61021449745392,
+    "sid": "MAAyADEAMQA1ADAAMAAwADQAMQA=",
+    "name": "(私立)臺北市私立經貿夢想幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.04759,
+    "lng": 121.5848322,
+    "sid": "MAAyADEAMQA1ADAAMAAwADQAMgA=",
+    "name": "(私立)財團法人天主教會台北教區附設臺北市私立萬福幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0486374,
+    "lng": 121.5973006,
+    "sid": "MAAyADEAMQA1ADAAMAAwADQAMwA=",
+    "name": "(私立)國防部軍備局光華營區職場互助教保服務中心（委託財團法人三之三生命教育基金會辦理）",
+    "type": "spub1"
+  }
+]

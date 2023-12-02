@@ -1,0 +1,106 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.959969,
+    "lng": 120.324169,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市立關廟幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9557917,
+    "lng": 120.3312619,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADAAMgA=",
+    "name": "(私立)臺南市私立真善美幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.968144,
+    "lng": 120.336737,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADAAMwA=",
+    "name": "(準公共)臺南市私立正大幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.963814,
+    "lng": 120.326106,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADAANAA=",
+    "name": "(公立)臺南市關廟區關廟國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.958902,
+    "lng": 120.33374,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADAANQA=",
+    "name": "(公立)臺南市關廟區五甲國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.919311,
+    "lng": 120.347336,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADAANgA=",
+    "name": "(公立)臺南市關廟區文和實驗小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.939815,
+    "lng": 120.333595,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADAANwA=",
+    "name": "(公立)臺南市關廟區深坑國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.994228,
+    "lng": 120.309265,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADAAOAA=",
+    "name": "(公立)臺南市關廟區保東國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9041601,
+    "lng": 120.351831,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADAAOQA=",
+    "name": "(公立)臺南市關廟區崇和國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.964444,
+    "lng": 120.334788,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADEAMAA=",
+    "name": "(準公共)臺南市私立昇良幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.956351,
+    "lng": 120.336848,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADEAMQA=",
+    "name": "(私立)臺南市私立松安幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.960302,
+    "lng": 120.334555,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADEAMwA=",
+    "name": "(私立)臺南市私立明德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9566249,
+    "lng": 120.33629,
+    "sid": "MQA2ADcAMQA4ADAAMAAwADEANAA=",
+    "name": "(準公共)臺南市私立安格堡幼兒園",
+    "type": "spub3"
+  }
+]

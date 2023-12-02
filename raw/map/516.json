@@ -1,0 +1,42 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.002273,
+    "lng": 120.4706405,
+    "sid": "MQAxADUAMQA2ADAAMAAwADAAMgA=",
+    "name": "(準公共)彰化縣私立巧冠幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0078641,
+    "lng": 120.4595277,
+    "sid": "MQAxADUAMQA2ADAAMAAwADAAMwA=",
+    "name": "(準公共)彰化縣私立獅子王幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0073029,
+    "lng": 120.459635,
+    "sid": "MQAxADUAMQA2ADAAMAAwADAANAA=",
+    "name": "(公立)彰化縣埔鹽鄉好修國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.985699,
+    "lng": 120.442385,
+    "sid": "MQAxADUAMQA2ADAAMAAwADAANQA=",
+    "name": "(公立)彰化縣埔鹽鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9816159,
+    "lng": 120.4783573,
+    "sid": "MQAxADUAMQA2ADAAMAAwADAANgA=",
+    "name": "(私立)彰化縣私立惠來熊國際蒙特梭利幼兒園",
+    "type": "spub1"
+  }
+]

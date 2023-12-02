@@ -1,0 +1,178 @@
+[
+  {
+    "newsch": 1,
+    "lat": 25.09053,
+    "lng": 121.702053,
+    "sid": "MAAxADIAMAA0ADAAMAAwADEANwAtADAANAA=",
+    "name": "(公立)基隆市立安心幼兒園六堵分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.081109,
+    "lng": 121.69958,
+    "sid": "MAAxADIAMAA0ADAAMAAwADEANwAtADAANgA=",
+    "name": "(公立)基隆市立安心幼兒園百福分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.097971,
+    "lng": 121.715378,
+    "sid": "MAAxADIAMAA2ADAAMAAwADAAMQA=",
+    "name": "(準公共)基隆市私立小象幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.096792,
+    "lng": 121.712384,
+    "sid": "MAAxADIAMAA2ADAAMAAwADAAMgA=",
+    "name": "(準公共)基隆市私立神奇寶貝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.087695,
+    "lng": 121.697917,
+    "sid": "MAAxADIAMAA2ADAAMAAwADAANAA=",
+    "name": "(私立)基隆市私立嘉仁幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0920329,
+    "lng": 121.713239,
+    "sid": "MAAxADIAMAA2ADAAMAAwADAANQA=",
+    "name": "(公立)基隆市七堵區長興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.079866,
+    "lng": 121.693311,
+    "sid": "MAAxADIAMAA2ADAAMAAwADAANgA=",
+    "name": "(公立)基隆市七堵區五堵國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.083468,
+    "lng": 121.692191,
+    "sid": "MAAxADIAMAA2ADAAMAAwADAANwA=",
+    "name": "(公立)基隆市七堵區堵南國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0977669,
+    "lng": 121.71362,
+    "sid": "MAAxADIAMAA2ADAAMAAwADAAOAA=",
+    "name": "(公立)基隆市七堵區七堵國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.110212,
+    "lng": 121.68891,
+    "sid": "MAAxADIAMAA2ADAAMAAwADAAOQA=",
+    "name": "(公立)基隆市七堵區瑪陵國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.107302,
+    "lng": 121.665497,
+    "sid": "MAAxADIAMAA2ADAAMAAwADEAMAA=",
+    "name": "(公立)基隆市七堵區復興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.087844,
+    "lng": 121.708084,
+    "sid": "MAAxADIAMAA2ADAAMAAwADEAMQA=",
+    "name": "(公立)基隆市七堵區華興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0819922,
+    "lng": 121.6970869,
+    "sid": "MAAxADIAMAA2ADAAMAAwADEAMgA=",
+    "name": "(準公共)基隆市私立名人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.09378,
+    "lng": 121.719685,
+    "sid": "MAAxADIAMAA2ADAAMAAwADEAMwA=",
+    "name": "(私立)基隆市私立全美幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.099474,
+    "lng": 121.712323,
+    "sid": "MAAxADIAMAA2ADAAMAAwADEANAA=",
+    "name": "(準公共)基隆市私立貝貝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.08513,
+    "lng": 121.695395,
+    "sid": "MAAxADIAMAA2ADAAMAAwADEANQA=",
+    "name": "(準公共)基隆市私立小象童寶幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.084885,
+    "lng": 121.696782,
+    "sid": "MAAxADIAMAA2ADAAMAAwADEANgA=",
+    "name": "(準公共)基隆市私立安特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0869266,
+    "lng": 121.6974716,
+    "sid": "MAAxADIAMAA2ADAAMAAwADEAOAA=",
+    "name": "(準公共)基隆市私立名將幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.083616,
+    "lng": 121.699232,
+    "sid": "MAAxADIAMAA2ADAAMAAwADEAOQA=",
+    "name": "(準公共)基隆市私立艾佛頓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0834942,
+    "lng": 121.6987486,
+    "sid": "MAAxADIAMAA2ADAAMAAwADIAMAA=",
+    "name": "(非營利)基隆市百福非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.0937787,
+    "lng": 121.7103663,
+    "sid": "MAAxADIAMAA2ADAAMAAwADIAMQA=",
+    "name": "(私立)基隆市私立小象文教幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.1120099,
+    "lng": 121.726295,
+    "sid": "MAAxADIAMAA2ADAAMAAwADIAMgA=",
+    "name": "(公立)基隆市七堵區尚仁國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

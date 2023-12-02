@@ -1,0 +1,50 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.809686,
+    "lng": 120.504262,
+    "sid": "MgAwADkAMAA1ADAAMAAwADAAMQA=",
+    "name": "(準公共)屏東縣私立向日葵幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.775089,
+    "lng": 120.494237,
+    "sid": "MgAwADkAMAA1ADAAMAAwADAAMwA=",
+    "name": "(準公共)里港基督長老教會附設屏東縣私立聖愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.807754,
+    "lng": 120.492348,
+    "sid": "MgAwADkAMAA1ADAAMAAwADAANQA=",
+    "name": "(公立)屏東縣里港鄉土庫國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.781024,
+    "lng": 120.495064,
+    "sid": "MgAwADkAMAA1ADAAMAAwADAANgA=",
+    "name": "(公立)屏東縣里港鄉里港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.780377,
+    "lng": 120.493377,
+    "sid": "MgAwADkAMAA1ADAAMAAwADAAOQA=",
+    "name": "(公立)屏東縣里港鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7743518,
+    "lng": 120.4907112,
+    "sid": "MgAwADkAMAA1ADAAMAAwADEAMAA=",
+    "name": "(非營利)屏東縣玉田非營利幼兒園(委託社團法人東台灣幼兒教保專業促進協會辦理)",
+    "type": "spub2"
+  }
+]
