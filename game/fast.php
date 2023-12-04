@@ -76,10 +76,12 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
                     exec("/usr/bin/convert {$origImgFile} \( +clone -threshold 70% -negate -type bilevel -define connected-components:area-threshold=5 -define connected-components:mean-color=true -connected-components 1 \) -alpha off -compose copy_opacity -composite -compose over -background white -flatten {$imgFile}");
 
                     /**
-                     * add /usr/share/tesseract-ocr/5/tessdata/configs/letters with the line
+                     * add /usr/share/tesseract-ocr/5/tessdata/configs/letters with the line (apt installed version)
+                     * add ~/snap/tesseract/common/configs/letters with the line (snap installed version)
+                     * 
                      * tessedit_char_whitelist abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
                      */
-                    exec('/snap/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq nobatch letters');
+                    exec('/snap/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq letters');
                     $ans = file_get_contents(__DIR__ . '/qq.txt');
                     $ans = preg_replace('/[^0-9a-z]+/i', '', $ans);
                     if (strlen($ans) === 5) {
