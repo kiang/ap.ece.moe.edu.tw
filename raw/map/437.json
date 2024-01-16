@@ -206,5 +206,13 @@
     "sid": "MAA5ADQAMwA3ADAAMAAwADIANwA=",
     "name": "(公立)臺中市大甲區東明國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.352535,
+    "lng": 120.6177504,
+    "sid": "MAA5ADQAMwA3ADAAMAAwADIAOAA=",
+    "name": "(私立)無限開發股份有限公司附設臺中市私立大甲優生幼兒園",
+    "type": "spub1"
   }
 ]
