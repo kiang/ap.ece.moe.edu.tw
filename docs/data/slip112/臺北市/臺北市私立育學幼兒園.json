@@ -9,9 +9,9 @@
         "town": "大同區",
         "type": "私立",
         "address": "[103]民族西路162巷3號1樓",
-        "floor": "1樓",
-        "size": "155.14平方公尺",
-        "size_in": "155.14平方公尺",
+        "floor": "",
+        "size": "",
+        "size_in": "",
         "size_out": "",
         "tel": "(02)25986967",
         "url": "yushyue99@yahoo.com.tw",
@@ -20,7 +20,7 @@
         "pre_public": "110-112",
         "is_free5": "",
         "is_after": "有，人數：7",
-        "penalty": "無",
+        "penalty": "有",
         "has_slip": "yes"
     },
     "slip": {

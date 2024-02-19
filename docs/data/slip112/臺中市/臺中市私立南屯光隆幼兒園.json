@@ -9,10 +9,10 @@
         "town": "南屯區",
         "type": "私立",
         "address": "[408]向心南路981巷34號",
-        "floor": "1~2樓",
-        "size": "1,560平方公尺",
-        "size_in": "367平方公尺",
-        "size_out": "1,193平方公尺",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
         "tel": "(04)23898338",
         "url": "",
         "count_approved": "190",
@@ -20,7 +20,7 @@
         "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
-        "penalty": "無",
+        "penalty": "有",
         "has_slip": "yes"
     },
     "slip": {
