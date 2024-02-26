@@ -1,0 +1,74 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.647598,
+    "lng": 120.314645,
+    "sid": "MQAzADYANQA1ADAAMAAwADAAMQA=",
+    "name": "(準公共)雲林縣私立啟芳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.646866,
+    "lng": 120.313052,
+    "sid": "MQAzADYANQA1ADAAMAAwADAAMgA=",
+    "name": "(準公共)雲林縣私立宏祐幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.651394,
+    "lng": 120.31026,
+    "sid": "MQAzADYANQA1ADAAMAAwADAAMwA=",
+    "name": "(準公共)雲林縣私立班米羅幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6516634,
+    "lng": 120.3094165,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6587127,
+    "lng": 120.3362674,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAAMQA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園和平分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6285572,
+    "lng": 120.3345917,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAAMgA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園客厝分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6563534,
+    "lng": 120.2803165,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAANAA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園信義分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6208122,
+    "lng": 120.3149964,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAANgA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園忠孝分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.6386945,
+    "lng": 120.3599151,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAAOAA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園新生分班",
+    "type": "spub0"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.107241,
+    "lng": 120.532537,
+    "sid": "MQAxADUAMAA4ADAAMAAwADAAMQA=",
+    "name": "(準公共)彰化縣私立英倫幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.112644,
+    "lng": 120.5040571,
+    "sid": "MQAxADUAMAA4ADAAMAAwADAAMwA=",
+    "name": "(準公共)彰化縣私立發現藝術幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.105377,
+    "lng": 120.534997,
+    "sid": "MQAxADUAMAA4ADAAMAAwADAANAA=",
+    "name": "(準公共)彰化縣私立小太陽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1076453,
+    "lng": 120.5008217,
+    "sid": "MQAxADUAMAA4ADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立史丹福幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1307946,
+    "lng": 120.4866848,
+    "sid": "MQAxADUAMAA4ADAAMAAwADAANgA=",
+    "name": "(準公共)彰化縣私立巧宜家幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1037329,
+    "lng": 120.51593,
+    "sid": "MQAxADUAMAA4ADAAMAAwADAANwA=",
+    "name": "(私立)彰化縣私立美爾頓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1086486,
+    "lng": 120.5036895,
+    "sid": "MQAxADUAMAA4ADAAMAAwADAAOAA=",
+    "name": "(準公共)彰化縣私立小叮噹幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1083748,
+    "lng": 120.4926783,
+    "sid": "MQAxADUAMAA4ADAAMAAwADAAOQA=",
+    "name": "(私立)彰化縣私立寶貝樂幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1062595,
+    "lng": 120.4896971,
+    "sid": "MQAxADUAMAA4ADAAMAAwADEAMAA=",
+    "name": "(私立)彰化縣私立聖保羅幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1052972,
+    "lng": 120.4957696,
+    "sid": "MQAxADUAMAA4ADAAMAAwADEAMQA=",
+    "name": "(私立)彰化縣私立惠兒園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.109549,
+    "lng": 120.532594,
+    "sid": "MQAxADUAMAA4ADAAMAAwADEAMgA=",
+    "name": "(私立)彰化縣私立東陽幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1031012,
+    "lng": 120.4927481,
+    "sid": "MQAxADUAMAA4ADAAMAAwADEANQA=",
+    "name": "(準公共)彰化縣私立博思特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1179559,
+    "lng": 120.4989466,
+    "sid": "MQAxADUAMAA4ADAAMAAwADEANgA=",
+    "name": "(準公共)彰化縣私立晨光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0936122,
+    "lng": 120.5383702,
+    "sid": "MQAxADUAMAA4ADAAMAAwADEANwA=",
+    "name": "(準公共)彰化縣私立小博士幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1033384,
+    "lng": 120.5352837,
+    "sid": "MQAxADUAMAA4ADAAMAAwADEAOAA=",
+    "name": "(私立)彰化縣私立薇尼爾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1043729,
+    "lng": 120.495021,
+    "sid": "MQAxADUAMAA4ADAAMAAwADEAOQA=",
+    "name": "(公立)彰化縣和美鎮和仁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1116469,
+    "lng": 120.495808,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIAMAA=",
+    "name": "(公立)彰化縣和美鎮和美國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1344829,
+    "lng": 120.510876,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIAMQA=",
+    "name": "(公立)彰化縣和美鎮培英國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.090453,
+    "lng": 120.534302,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIAMwA=",
+    "name": "(準公共)彰化縣私立約克幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1115719,
+    "lng": 120.518379,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIANAA=",
+    "name": "(準公共)彰化縣私立米强生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.110991,
+    "lng": 120.500288,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIANQA=",
+    "name": "(公立)彰化縣和美鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.085348,
+    "lng": 120.511916,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIANQAtADAAMQA=",
+    "name": "(公立)彰化縣和美鎮立幼兒園源埤分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1032169,
+    "lng": 120.5278836,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIANQAtADAAMgA=",
+    "name": "(公立)彰化縣和美鎮立幼兒園犁盛分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.111282,
+    "lng": 120.514836,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIANQAtADAAMwA=",
+    "name": "(公立)彰化縣和美鎮立幼兒園柑井分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1265701,
+    "lng": 120.5128877,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIANQAtADAANAA=",
+    "name": "(公立)彰化縣和美鎮立幼兒園嘉寶分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.106904,
+    "lng": 120.530876,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIANgA=",
+    "name": "(私立)彰化縣私立彰化弘明幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.097554,
+    "lng": 120.540181,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIANwA=",
+    "name": "(準公共)彰化縣私立探索東谷幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0967927,
+    "lng": 120.5117119,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIAOAA=",
+    "name": "(公立)彰化縣和美鎮大嘉國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.11672,
+    "lng": 120.4980628,
+    "sid": "MQAxADUAMAA4ADAAMAAwADIAOQA=",
+    "name": "(準公共)彰化縣私立和美保進幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0881629,
+    "lng": 120.5017955,
+    "sid": "MQAxADUAMAA4ADAAMAAwADMAMAA=",
+    "name": "(非營利)彰化縣大榮非營利幼兒園（委託社團法人彰化縣中華幼兒教保職涯發展協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1048156,
+    "lng": 120.4922754,
+    "sid": "MQAxADUAMAA4ADAAMAAwADMAMQA=",
+    "name": "(公立)國立和美實驗學校幼兒部",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.110668,
+    "lng": 120.531935,
+    "sid": "MQAxADUAMAA4ADAAMAAwADMAMgA=",
+    "name": "(準公共)彰化縣私立哈波特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1044061,
+    "lng": 120.5335991,
+    "sid": "MQAxADUAMAA4ADAAMAAwADMAMwA=",
+    "name": "(非營利)彰化縣新庄非營利幼兒園（委託社團法人彰化縣樂說多元專業服務發展協會辦理）",
+    "type": "spub2"
+  }
+]

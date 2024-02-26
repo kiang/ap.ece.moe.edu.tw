@@ -1,0 +1,74 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.1024994,
+    "lng": 121.3724088,
+    "sid": "MgAxADkANgAxADAAMAAwADAAMQA=",
+    "name": "(公立)臺東縣成功鎮三民國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0753615,
+    "lng": 121.3521037,
+    "sid": "MgAxADkANgAxADAAMAAwADAAMQAtADAAMQA=",
+    "name": "(公立)臺東縣成功鎮三民國民小學附設幼兒園和平分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1570879,
+    "lng": 121.399823,
+    "sid": "MgAxADkANgAxADAAMAAwADAAMgA=",
+    "name": "(公立)臺東縣成功鎮忠孝國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1919436,
+    "lng": 121.3959126,
+    "sid": "MgAxADkANgAxADAAMAAwADAAMgAtADAAMQA=",
+    "name": "(公立)臺東縣成功鎮忠孝國民小學附設幼兒園博愛分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1006724,
+    "lng": 121.3830932,
+    "sid": "MgAxADkANgAxADAAMAAwADAAMwA=",
+    "name": "(公立)臺東縣成功鎮成功國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1208799,
+    "lng": 121.393751,
+    "sid": "MgAxADkANgAxADAAMAAwADAANAA=",
+    "name": "(公立)臺東縣成功鎮三仙國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0261451,
+    "lng": 121.330912,
+    "sid": "MgAxADkANgAxADAAMAAwADAANgA=",
+    "name": "(公立)臺東縣成功鎮信義國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.10419,
+    "lng": 121.374003,
+    "sid": "MgAxADkANgAxADAAMAAwADAAOAA=",
+    "name": "(準公共)臺東縣私立博愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.101168,
+    "lng": 121.374947,
+    "sid": "MgAxADkANgAxADAAMAAwADAAOQA=",
+    "name": "(公立)臺東縣成功鎮立幼兒園",
+    "type": "spub0"
+  }
+]

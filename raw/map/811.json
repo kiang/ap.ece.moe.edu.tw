@@ -1,0 +1,354 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.711245,
+    "lng": 120.291059,
+    "sid": "MQA4ADgAMQAxADAAMAAwADAAMQA=",
+    "name": "(準公共)高雄市私立育志幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7369889,
+    "lng": 120.3306109,
+    "sid": "MQA4ADgAMQAxADAAMAAwADAAMgA=",
+    "name": "(準公共)高雄市私立吉米亨利幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.728969,
+    "lng": 120.328846,
+    "sid": "MQA4ADgAMQAxADAAMAAwADAAMwA=",
+    "name": "(準公共)高雄市私立愛吉兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7374256,
+    "lng": 120.3392547,
+    "sid": "MQA4ADgAMQAxADAAMAAwADAANAA=",
+    "name": "(準公共)高雄市私立乖寶貝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7136083,
+    "lng": 120.2979659,
+    "sid": "MQA4ADgAMQAxADAAMAAwADAANQA=",
+    "name": "(私立)高雄市私立野鳥幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7132241,
+    "lng": 120.292476,
+    "sid": "MQA4ADgAMQAxADAAMAAwADAANgA=",
+    "name": "(準公共)高雄市私立小豆豆幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.711684,
+    "lng": 120.289933,
+    "sid": "MQA4ADgAMQAxADAAMAAwADAANwA=",
+    "name": "(私立)高雄市私立英倫幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.724859,
+    "lng": 120.2982461,
+    "sid": "MQA4ADgAMQAxADAAMAAwADAAOQA=",
+    "name": "(準公共)高雄市私立百立幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.717962,
+    "lng": 120.285271,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEAMAA=",
+    "name": "(私立)高雄市私立達仁幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.727866,
+    "lng": 120.278262,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEAMQA=",
+    "name": "(公立)高雄市楠梓區援中國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7333601,
+    "lng": 120.328074,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEAMgA=",
+    "name": "(公立)高雄市楠梓區楠梓國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.72486,
+    "lng": 120.330968,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEAMwA=",
+    "name": "(公立)高雄市楠梓區楠陽國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.721584,
+    "lng": 120.314051,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEANAA=",
+    "name": "(公立)高雄市楠梓區後勁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.721101,
+    "lng": 120.296258,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEANQA=",
+    "name": "(公立)高雄市楠梓區加昌國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.713683,
+    "lng": 120.292147,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEANgA=",
+    "name": "(公立)高雄市楠梓區右昌國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.711522,
+    "lng": 120.295324,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEANwA=",
+    "name": "(公立)高雄市楠梓區莒光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.750902,
+    "lng": 120.33145,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEAOAA=",
+    "name": "(私立)高雄市私立成就非凡楠梓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.727056,
+    "lng": 120.303123,
+    "sid": "MQA4ADgAMQAxADAAMAAwADEAOQA=",
+    "name": "(準公共)高雄市私立牛頓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.727182,
+    "lng": 120.30407,
+    "sid": "MQA4ADgAMQAxADAAMAAwADIAMAA=",
+    "name": "(準公共)高雄市私立楠梓長春藤幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.72709,
+    "lng": 120.291588,
+    "sid": "MQA4ADgAMQAxADAAMAAwADIANAA=",
+    "name": "(私立)高雄市私立學儒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.735963,
+    "lng": 120.336925,
+    "sid": "MQA4ADgAMQAxADAAMAAwADIANQA=",
+    "name": "(準公共)高雄市私立小種籽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.721618,
+    "lng": 120.295615,
+    "sid": "MQA4ADgAMQAxADAAMAAwADIANgA=",
+    "name": "(非營利)經濟部產業園區管理局楠梓示範員工子女非營利幼兒園(委託台灣科技產業園區產業工會聯合會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7185471,
+    "lng": 120.312019,
+    "sid": "MQA4ADgAMQAxADAAMAAwADIANwA=",
+    "name": "(準公共)高雄市私立育正幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.724658,
+    "lng": 120.328459,
+    "sid": "MQA4ADgAMQAxADAAMAAwADIAOQA=",
+    "name": "(準公共)高雄市私立嘉欣幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.725432,
+    "lng": 120.327993,
+    "sid": "MQA4ADgAMQAxADAAMAAwADMAMAA=",
+    "name": "(私立)高雄市私立楠梓童心園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.71177,
+    "lng": 120.2902679,
+    "sid": "MQA4ADgAMQAxADAAMAAwADMAMQA=",
+    "name": "(準公共)高雄市私立右昌麥米倫幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7123928,
+    "lng": 120.2916518,
+    "sid": "MQA4ADgAMQAxADAAMAAwADMAMgA=",
+    "name": "(準公共)右昌基督長老教會附設高雄市私立右光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.718558,
+    "lng": 120.297176,
+    "sid": "MQA4ADgAMQAxADAAMAAwADMANAA=",
+    "name": "(準公共)高雄市私立貝吉田幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.713934,
+    "lng": 120.303916,
+    "sid": "MQA4ADgAMQAxADAAMAAwADMANwA=",
+    "name": "(非營利)高雄市煉油廠員工子女非營利幼兒園(財團法人台灣中油股份有限公司職工福利委員會申請辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7089574,
+    "lng": 120.3025756,
+    "sid": "MQA4ADgAMQAxADAAMAAwADMAOQA=",
+    "name": "(公立)高雄市楠梓區油廠國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7391925,
+    "lng": 120.3294325,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQAMAA=",
+    "name": "(準公共)高雄市私立威廉王子幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7282461,
+    "lng": 120.2995409,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQAMQA=",
+    "name": "(非營利)高雄市翠屏非營利幼兒園(委託財團法人樹德科技大學設立之樹德科技大學辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.730158,
+    "lng": 120.328807,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQAMgA=",
+    "name": "(準公共)高雄市私立愛萌兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.713852,
+    "lng": 120.286649,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQAMwA=",
+    "name": "(非營利)高雄市右昌非營利幼兒園（委託社團法人高雄市婦幼培訓關懷協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7224816,
+    "lng": 120.3159563,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQANAA=",
+    "name": "(非營利)高雄市後勁非營利幼兒園(委託社團法人高雄市碩苗社會教育關懷協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7284857,
+    "lng": 120.2904457,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQANQA=",
+    "name": "(私立)高雄市私立何嘉仁楠梓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.711824,
+    "lng": 120.3023476,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQANgA=",
+    "name": "(準公共)日月光集團聯合職工福利委員會附設高雄市私立三好幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7407846,
+    "lng": 120.3359828,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQANwA=",
+    "name": "(私立)高雄市私立伊頓大地幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7166198,
+    "lng": 120.2932067,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQAOAA=",
+    "name": "(私立)高雄市私立星彩幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7283484,
+    "lng": 120.313224,
+    "sid": "MQA4ADgAMQAxADAAMAAwADQAOQA=",
+    "name": "(公立)高雄市立楠梓特殊學校幼兒部",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7366382,
+    "lng": 120.3255823,
+    "sid": "MQA4ADgAMQAxADAAMAAwADUAMAA=",
+    "name": "(私立)衛生福利部南區兒童之家職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7256809,
+    "lng": 120.2852353,
+    "sid": "MQA4ADgAMQAxADAAMAAwADUAMgA=",
+    "name": "(準公共)高雄市私立新資優生楠梓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7159302,
+    "lng": 120.3030519,
+    "sid": "MQA4ADgAMQAxADAAMAAwADUAMwA=",
+    "name": "(私立)國軍退除役官兵輔導委員會高雄榮譽國民之家職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.7216684,
+    "lng": 120.3141014,
+    "sid": "MQA4ADgAMQAxADAAMAAwADUANAA=",
+    "name": "(非營利)高雄市和平非營利幼兒園(委託社團法人高雄市幼童教育關懷協會辦理)",
+    "type": "spub2"
+  }
+]

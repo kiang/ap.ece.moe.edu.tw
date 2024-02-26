@@ -1,0 +1,178 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.992681,
+    "lng": 120.189826,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAAMQA=",
+    "name": "(準公共)臺南市私立佳恩幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.995257,
+    "lng": 120.2029468,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAAMgA=",
+    "name": "(私立)臺南市私立興文齋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.989568,
+    "lng": 120.205798,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAAMwA=",
+    "name": "(準公共)臺南市私立小牛頓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0048806,
+    "lng": 120.19029,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAANQA=",
+    "name": "(準公共)臺南市私立武聖幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.984587,
+    "lng": 120.205251,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAANgA=",
+    "name": "(準公共)臺南市私立寶寶幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.986879,
+    "lng": 120.207995,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAANwA=",
+    "name": "(私立)臺南市私立知多幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.996566,
+    "lng": 120.193584,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAAOAA=",
+    "name": "(私立)社團法人台南市基督教青年會附設臺南市私立青年會幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.998805,
+    "lng": 120.20336,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAAOQA=",
+    "name": "(公立)臺南市中西區成功國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.997241,
+    "lng": 120.194083,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAMAA=",
+    "name": "(公立)臺南市中西區協進國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9849899,
+    "lng": 120.200963,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAMQA=",
+    "name": "(公立)臺南市中西區進學國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9882911,
+    "lng": 120.204456,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAMwA=",
+    "name": "(公立)臺南市立第一幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.989504,
+    "lng": 120.203298,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEANAA=",
+    "name": "(公立)臺南市中西區忠義國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9857741,
+    "lng": 120.209146,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEANQA=",
+    "name": "(公立)國立臺南大學附設實驗國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.000056,
+    "lng": 120.184764,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEANgA=",
+    "name": "(準公共)臺南市私立愛迪生資優幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.984052,
+    "lng": 120.19821,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEANwA=",
+    "name": "(準公共)臺南市私立新大華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.986498,
+    "lng": 120.200439,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAOAA=",
+    "name": "(私立)臺南市私立哈佛蒙特梭利幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9862611,
+    "lng": 120.2003841,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAOAAtADAAMQA=",
+    "name": "(私立)臺南市私立哈佛蒙特梭利幼兒園小小分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.981466,
+    "lng": 120.199565,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIAMAA=",
+    "name": "(準公共)財團法人中華基督教衛理公會附設臺南市私立衛理幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9848031,
+    "lng": 120.2032338,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIAMgA=",
+    "name": "(公立)臺南市立中山國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9933303,
+    "lng": 120.2115888,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIAMwA=",
+    "name": "(公立)國立臺南大學附屬啟聰學校幼兒部",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9909908,
+    "lng": 120.1871855,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIANAA=",
+    "name": "(私立)國立臺南生活美學館職場互助教保服務中心(委託財團法人彭婉如文教基金會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9922409,
+    "lng": 120.2033507,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIANQA=",
+    "name": "(私立)臺灣土地銀行臺南分行職場互助教保服務中心(委託社團法人中華育英社會教育關懷協會辦理)",
+    "type": "spub1"
+  }
+]

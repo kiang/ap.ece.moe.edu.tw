@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.234278,
+    "lng": 120.266218,
+    "sid": "MQA2ADcAMwA1ADAAMAAwADAAMgA=",
+    "name": "(私立)臺南市私立欽智幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.2364316,
+    "lng": 120.2630477,
+    "sid": "MQA2ADcAMwA1ADAAMAAwADAAMwA=",
+    "name": "(準公共)臺南市私立小圓圓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.230391,
+    "lng": 120.258659,
+    "sid": "MQA2ADcAMwA1ADAAMAAwADAANAA=",
+    "name": "(私立)臺南市私立群英幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.212951,
+    "lng": 120.276646,
+    "sid": "MQA2ADcAMwA1ADAAMAAwADAANQA=",
+    "name": "(公立)臺南市下營區中營國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.254706,
+    "lng": 120.296025,
+    "sid": "MQA2ADcAMwA1ADAAMAAwADAANgA=",
+    "name": "(公立)臺南市下營區賀建國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.238721,
+    "lng": 120.267583,
+    "sid": "MQA2ADcAMwA1ADAAMAAwADAANwA=",
+    "name": "(公立)臺南市下營區東興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.230662,
+    "lng": 120.262076,
+    "sid": "MQA2ADcAMwA1ADAAMAAwADAAOAA=",
+    "name": "(公立)臺南市下營區下營國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

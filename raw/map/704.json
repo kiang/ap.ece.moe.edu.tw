@@ -1,0 +1,290 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.991558,
+    "lng": 120.22893,
+    "sid": "MQA2ADcAMAAxADAAMAAwADUANAA=",
+    "name": "(私立)臺南市私立寶貝家庭幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.017044,
+    "lng": 120.220778,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市立小康幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.009969,
+    "lng": 120.194399,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADAAMQAtADAAMQA=",
+    "name": "(公立)臺南市立小康幼兒園文元分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.005081,
+    "lng": 120.195442,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADAAMgA=",
+    "name": "(準公共)臺南市私立柏欣幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.018296,
+    "lng": 120.213137,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADAANAA=",
+    "name": "(準公共)財團法人眼淨和尚然妙和尚文教基金會附設臺南市私立正覺幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.008256,
+    "lng": 120.195998,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADAANQA=",
+    "name": "(準公共)臺南市私立天資幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.018768,
+    "lng": 120.216522,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADAANwA=",
+    "name": "(準公共)臺南市私立群力幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0119871,
+    "lng": 120.195586,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADAAOAA=",
+    "name": "(私立)臺南市私立皇佳幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.011201,
+    "lng": 120.222366,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEAMAA=",
+    "name": "(準公共)臺南市私立開元幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.005325,
+    "lng": 120.228563,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEAMQA=",
+    "name": "(私立)臺南市私立寶仁幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.013233,
+    "lng": 120.18863,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEAMgA=",
+    "name": "(公立)臺南市北區大港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.00045,
+    "lng": 120.208766,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEAMwA=",
+    "name": "(公立)臺南市北區公園國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0153471,
+    "lng": 120.199843,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEANAA=",
+    "name": "(公立)臺南市北區文元國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.007987,
+    "lng": 120.216866,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEANQA=",
+    "name": "(公立)臺南市北區開元國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.001118,
+    "lng": 120.201966,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEANgA=",
+    "name": "(公立)臺南市北區立人國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0080841,
+    "lng": 120.19216,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEANwA=",
+    "name": "(準公共)臺南市私立而勇幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.016538,
+    "lng": 120.20006,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEAOAA=",
+    "name": "(私立)臺南市私立愛普樂斯幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.012646,
+    "lng": 120.217997,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADEAOQA=",
+    "name": "(公立)臺南市北區大光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.007927,
+    "lng": 120.180363,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADIAMAA=",
+    "name": "(私立)臺南市私立奧斯汀國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.011172,
+    "lng": 120.188228,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADIAMgA=",
+    "name": "(準公共)臺南市私立葛瑞特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.005668,
+    "lng": 120.224912,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADIAMwA=",
+    "name": "(準公共)臺南市私立東松幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.014876,
+    "lng": 120.196916,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADIANQA=",
+    "name": "(私立)臺南市私立方圓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0188573,
+    "lng": 120.2055054,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADIANgA=",
+    "name": "(私立)臺南市私立安得誼幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.014444,
+    "lng": 120.187516,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADIANwA=",
+    "name": "(私立)臺南市私立育多幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.012603,
+    "lng": 120.211304,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADIAOQA=",
+    "name": "(私立)社團法人台南市基督教青年會附設臺南市私立公園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.005429,
+    "lng": 120.193223,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADMAMAA=",
+    "name": "(準公共)臺南市私立向日葵幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.020609,
+    "lng": 120.202942,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADMAMgA=",
+    "name": "(準公共)臺南市私立沛愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.9992227,
+    "lng": 120.2026296,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADMANAA=",
+    "name": "(準公共)臺南市私立康德爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.013413,
+    "lng": 120.205112,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADMANQA=",
+    "name": "(私立)臺南市私立愛麗絲幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.007182,
+    "lng": 120.183971,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADMANwA=",
+    "name": "(準公共)臺南市私立德妮湖美幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0138714,
+    "lng": 120.2164433,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADMAOAA=",
+    "name": "(準公共)臺南市私立快樂讀經幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0075927,
+    "lng": 120.1789866,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADMAOQA=",
+    "name": "(公立)臺南市北區賢北國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0110042,
+    "lng": 120.2263303,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADQAMAA=",
+    "name": "(準公共)崑山國際學校財團法人臺南市崑山高級中等學校附設臺南市私立國際幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0107145,
+    "lng": 120.2207162,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADQAMQA=",
+    "name": "(私立)社團法人台灣樂仁國際蒙特梭利推廣教育協會附設臺南市私立聖功幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0000967,
+    "lng": 120.23261,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADQAMgA=",
+    "name": "(私立)國防部陸軍司令部陸軍第八軍團指揮部湯山職場互助教保服務中心(委託社團法人臺灣兒童及少年福利促進學會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.0067,
+    "lng": 120.2166536,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADQAMwA=",
+    "name": "(私立)臺南市私立哈波特幼兒園",
+    "type": "spub1"
+  }
+]

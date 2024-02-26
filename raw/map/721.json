@@ -1,0 +1,130 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.173361,
+    "lng": 120.256465,
+    "sid": "MQA2ADcAMgAxADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市立麻豆幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.190789,
+    "lng": 120.253032,
+    "sid": "MQA2ADcAMgAxADAAMAAwADAANAA=",
+    "name": "(私立)臺南市私立福祐幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.175004,
+    "lng": 120.248019,
+    "sid": "MQA2ADcAMgAxADAAMAAwADAANQA=",
+    "name": "(私立)臺南市私立小天使幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1857989,
+    "lng": 120.252768,
+    "sid": "MQA2ADcAMgAxADAAMAAwADAANgA=",
+    "name": "(公立)臺南市麻豆區麻豆國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.187825,
+    "lng": 120.265534,
+    "sid": "MQA2ADcAMgAxADAAMAAwADAANwA=",
+    "name": "(公立)臺南市麻豆區文正國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.2054959,
+    "lng": 120.240135,
+    "sid": "MQA2ADcAMgAxADAAMAAwADAAOAA=",
+    "name": "(公立)臺南市麻豆區北勢國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.191339,
+    "lng": 120.220519,
+    "sid": "MQA2ADcAMgAxADAAMAAwADAAOQA=",
+    "name": "(公立)臺南市麻豆區大山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.178581,
+    "lng": 120.243567,
+    "sid": "MQA2ADcAMgAxADAAMAAwADEAMAA=",
+    "name": "(公立)臺南市麻豆區培文國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.151064,
+    "lng": 120.237591,
+    "sid": "MQA2ADcAMgAxADAAMAAwADEAMQA=",
+    "name": "(公立)臺南市麻豆區紀安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.205275,
+    "lng": 120.206694,
+    "sid": "MQA2ADcAMgAxADAAMAAwADEAMgA=",
+    "name": "(公立)臺南市麻豆區港尾國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.183367,
+    "lng": 120.247045,
+    "sid": "MQA2ADcAMgAxADAAMAAwADEAMwA=",
+    "name": "(私立)財團法人天主教方濟各會附設臺南市私立麻豆樂人幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.178767,
+    "lng": 120.244798,
+    "sid": "MQA2ADcAMgAxADAAMAAwADEANAA=",
+    "name": "(私立)國立曾文高級家事商業職業學校附設臺南市私立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.1833333,
+    "lng": 120.25,
+    "sid": "MQA2ADcAMgAxADAAMAAwADEANQA=",
+    "name": "(準公共)臺南市私立大地暘光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.177134,
+    "lng": 120.252608,
+    "sid": "MQA2ADcAMgAxADAAMAAwADEANwA=",
+    "name": "(準公共)臺南市私立皮卡丘幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.160416,
+    "lng": 120.246058,
+    "sid": "MQA2ADcAMgAxADAAMAAwADEAOAA=",
+    "name": "(公立)臺南市麻豆區安業國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.18105,
+    "lng": 120.2599556,
+    "sid": "MQA2ADcAMgAxADAAMAAwADEAOQA=",
+    "name": "(非營利)臺南市西拉雅非營利幼兒園(委託社團法人臺南市兒童體能藝術人文教育發展協會辦理)",
+    "type": "spub2"
+  }
+]
