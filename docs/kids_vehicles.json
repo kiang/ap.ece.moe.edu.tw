@@ -7971,26 +7971,6 @@
             "txn_name": "本區新領"
         }
     ],
-    "913b2f90-d9c2-45f9-a1e6-72c472909089": [
-        {
-            "plate_no": "AWL-1251",
-            "on_production_date": "201803",
-            "next_exam_dt": "20240503",
-            "txn_name": "本區新領"
-        },
-        {
-            "plate_no": "BGR-8717",
-            "on_production_date": "202101",
-            "next_exam_dt": "20240204",
-            "txn_name": "本區新領"
-        },
-        {
-            "plate_no": "BLV-7693",
-            "on_production_date": "202105",
-            "next_exam_dt": "20240622",
-            "txn_name": "本區新領"
-        }
-    ],
     "b6ff72a9-79c7-469c-9153-12cc6f078514": [
         {
             "plate_no": "AXG-9262",
@@ -8895,26 +8875,6 @@
             "on_production_date": "201209",
             "next_exam_dt": "20221126",
             "txn_name": "一般報廢"
-        }
-    ],
-    "97f95129-8160-443e-a21d-8df3ebfbba0d": [
-        {
-            "plate_no": "BLV-7393",
-            "on_production_date": "202105",
-            "next_exam_dt": "20240615",
-            "txn_name": "本區新領"
-        },
-        {
-            "plate_no": "ANF-5830",
-            "on_production_date": "201508",
-            "next_exam_dt": "20230930",
-            "txn_name": "本區新領"
-        },
-        {
-            "plate_no": "ANF-5837",
-            "on_production_date": "201508",
-            "next_exam_dt": "20230930",
-            "txn_name": "本區新領"
         }
     ],
     "fb062da3-0980-4728-ac84-af6d283db0cd": [
@@ -20213,7 +20173,7 @@
             "txn_name": "停駛轉繳銷"
         }
     ],
-    "1d405e79-877f-494e-b0a2-dfc8fd537244": [
+    "a92cf7ed-d9ac-4c03-89fe-4715c741efd9": [
         {
             "plate_no": "BRZ-9773",
             "on_production_date": "202302",
