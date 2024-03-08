@@ -1749,20 +1749,6 @@
             "txn_name": "本區新領"
         }
     ],
-    "577ca78d-5cda-4056-a6ae-e4525e4ad6dc": [
-        {
-            "plate_no": "BKK-1062",
-            "on_production_date": "202110",
-            "next_exam_dt": "20231029",
-            "txn_name": "本區新領"
-        },
-        {
-            "plate_no": "4867-KL",
-            "on_production_date": "200502",
-            "next_exam_dt": "20140225",
-            "txn_name": "一般報廢"
-        }
-    ],
     "8321ddc7-ed0b-4342-9499-5ce9cded3adb": [
         {
             "plate_no": "BPM-5507",
@@ -13167,7 +13153,7 @@
             "txn_name": "本區新領"
         }
     ],
-    "25b34361-71ab-4b00-ae79-b0c757d817ff": [
+    "efac8833-48d7-4d20-86da-c10f8c979a66": [
         {
             "plate_no": "BRX-6587",
             "on_production_date": "202307",
@@ -16123,7 +16109,7 @@
             "txn_name": "本區新領"
         }
     ],
-    "c149893e-1b4b-4e2f-8d40-283b7563bfb5": [
+    "005353bd-3646-415f-a6cf-5ebbf7cf73b0": [
         {
             "plate_no": "ALR-5996",
             "on_production_date": "201410",
