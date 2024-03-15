@@ -17087,7 +17087,7 @@
             "txn_name": "本區新領"
         }
     ],
-    "45972190-caf8-446b-93b5-7d5824a058d6": [
+    "cd4fbe7a-d900-4325-b300-9ea42a334f2f": [
         {
             "plate_no": "BMB-5992",
             "on_production_date": "202110",
@@ -19636,14 +19636,6 @@
             "plate_no": "AME-3837",
             "on_production_date": "201410",
             "next_exam_dt": "20231031",
-            "txn_name": "本區新領"
-        }
-    ],
-    "c644f1b3-068a-43a8-b1a3-11486839b1a2": [
-        {
-            "plate_no": "AHU-3565",
-            "on_production_date": "201401",
-            "next_exam_dt": "20240129",
             "txn_name": "本區新領"
         }
     ],
