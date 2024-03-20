@@ -32,7 +32,6 @@ $cities = [
 ];
 
 $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/punishSearch.aspx');
-$pageLimit = 4;
 
 foreach ($cities as $code => $city) {
     $dataPath = $basePath . '/docs/data/punish/' . $city;
@@ -89,9 +88,7 @@ foreach ($cities as $code => $city) {
         $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
     }
 
-    $currentPage = 1;
-    while (false !== strpos($pageContent, 'PageControl1$lbNextPage') && $currentPage < $pageLimit) {
-        ++$currentPage;
+    while (false !== strpos($pageContent, 'PageControl1$lbNextPage')) {
         $form = $crawler->filter('#form1')->form();
         $crawler = $client->submit($form, [
             '__EVENTTARGET' => 'PageControl1$lbNextPage',
