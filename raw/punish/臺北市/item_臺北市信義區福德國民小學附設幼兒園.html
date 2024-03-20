@@ -1,0 +1,179 @@
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><title>
+	裁罰結果檢視
+</title><link rel="stylesheet" href="https://www.ece.moe.edu.tw/export/system/modules/com.thesys.project.ece/resources/css/style.css" /><link rel="stylesheet" href="../css/eceStyleSheet.css" />
+    <style>
+        a:hover{text-decoration: underline;}
+        .modalBackground {
+	        background-color:Gray;
+	        filter:alpha(opacity=70);
+	        opacity:0.7;
+        }
+    </style>
+<link href="/webecems/WebResource.axd?d=hcXDZhXiidgsQUtEo5iT3z-9yrCFPI99gMfv9nzRAaTuYv-PbYkA8klx-m6gu8J7VSfQJQXO1A7HI_bomuJqR4cqatZm_H7NdRl9TpdoxueOUrdpl2feHR8IMwMuRGjco8Vdaow4-MnFf8Z37xzL3jJ61rU1&amp;t=636366873052995923" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form method="post" action="./punish_view.aspx?sch=UgBWAE0ASQBKAEEAawBXAGMAWQBYAHMAQQBkAGoAbwBLAGkAbwBmAHUAWQArAGMAeABlAFMAUABnAEUAUABlAGsARQBNAGcAbgBOAEIASQByAGEAdgBBAGYAeABnAFcATABUAHMAaAA0AEYAbwBBAGQANABBAHkAdwBTADEAegBNAC8AQwBiAHkAMwArAEMAZABIADgAYQBYADUAdABDAC8AdgBpAGgARQBzAGgAZgBiAGgAMwBIAGMAWQA5AG8AMwBCAEoAaQAxAFMAYwB3AEEATwBtADMAdQBEAEsAQQBNADIASgB4AGMAWABTADEAOQBhAHUATQByAFQATABPAEMASQBXADAAcwBPAHMAQwA5AEEANQA4AE0AdgBDADkANQBpAEcAUgB4AGQARQBNAGcASABsAEoAVwBOADkATgBHAGkAbQB3AEUANABKAGoANQBuADYAcgBmAFkANwBuADYASQAxAEoAVgBSADIAZQBOAGsAVABSAGkAWABrAEkAeQBoAC8ANgBsAC8AVwBwAHUAUABFADgAQQBZADAAegBHAFEAdwAyADIAUQA9AD0A" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="h6ln4bQePWUAnO5k/C2fqnNYt9EcePNKxIHUGgc4jyZfY4InOTmpDfrPELwwdGY/EYHfrp4MgLSR6SThTgHgMZuRPlBGTOlOcTDsmSyz9itsL7ZlBxSJ/Nmtn6gQu2ZChduF1sdQSQqWJ53q5UZNK5r0GLn839o+AD0w0v4wsBmcy4iTjmkSflgfvJOxZWxzsLgx4+GSa5bQPAqFP1VHu2lZLHE0tgnSBdiTDpwcew6HH4nF3b2pZur3dc1VK0EdkQLYn0auXs8/Rll3Vn77fPeSOoLWSmU7iuEsfKC3CLC/pP2eyTsENNGLetKsX7LMj3Wt3Un1tphaitvCP/HVdGJ9tTFx3QfbCy9chhzs1Wunpesv61GQmVYNMhONUyYcIzgkrCmGA/6xEU8SGTpET+eMC+l3EBYo7HMM8xnqyGde17G3YuiaWtkeu2wdHSVG5EMKbEUl+kIHT8FNgjBhfRizeDNXmI3dytf+kGLk9oSidIc+8dxZxFRvdxs/GxuoabiQaW8MoFdfPnkkT8ACrROy9UiluK5i7rQy1L2alCOtsZM8s3FzPegCT30DbPuHkDJ0EUbsCHsEHH/Vi4OkxYMM+T1/M/iuJEaqbnBr1QLCmvC6Jzdgl4SKKeFS5bNhrxzq/q6DiH2I8Trd5A1R42eR1YVxTYM0UY9ql640oKYBW6lNn6zIHRivLZVJQAscad/++lQXjh4Maj+eJPBa4CQLifZKX0+WWNUZ8B5yKEkmVcf8w429EaMHrsbieOi/M/FEn1Fb0QlfkbblM6cXN6tCTljlMkc3zkOL2jnQRLMNqZm9INUYFxoHyddCyfM63YCEG2sWmg2DpyCMbJHuJKKi42+9I6GnVO09qwkQ4yFEvvS+8SUmD+99uO5I69n3qqtFjfLg/zjnAvv6wVnQMP0aEXKi37Dv2+Tv05nTpJD9qMQKoomt9WKmuXyvAsfEDGGi9Te8F0YDoiTWcvuuoN9kk2NwFCL2rd5kZixWtXbEJ5z9/at1IZeECD1glovKDQgPyiOboUWce2RmzwiRe6QOvl4in2XrC0ZX8NoI0Gb3qKWfKw571XdxQkwKkA+iyNoDHKovC537TdKTkcFZddUh9Jvt7Udlhavy0rYEv9bwlqH7m6wexVsEAsAwyBFUss8MCZxTmu3/X+uuWggHG5TD+bk/z0ivgT8Da9609H8Je133Z9bxXWGbum+5222OZtm+I6zABwS9O3M5dEfKM4fOfnt8vtjn/hGbjUoJOArdrZIcCvOfGiSXECUOJFXJRVQ/TAXpInT5yK9PmgQkGmJmZX5pltoMeT4TCyBrNupyQHc9noYDYU5mq3gad0Fyc2jXcmIcyAIWhkIlrjXQygmruTpCMYAuGvdwX7PPmWiI28f2FO0un6sEoaprsOMUocK7wRhrL8lX6O2XttgNazq2W0DHxKwRMYirj/JhUtfYW2wfWum/12XNkt/VIBm/WjDw8ikHCbxIqi4zDFenAFjWJo2t/sLjb7S0+xodSBm5SbHYmi8Jnhyagk9VUZqC6EvVWxd4pQMiStISAlZhaYpxNIZeDVfBotuwCv+nQvlOl196mvOTj9jCClc4r/Zm8LyhR5tF7NnxX0f9FP52F8pDGlzEDrKVmSUgqkM727ycdKksv9vhzqzQMeh1I5+AaJxwB3yQk2MNH8x19sTEgqOHwni7JbzRf78M5/Ia2rjoFWMIqXfiGLlR9WJyZnwFZ5jCC2/LfYXQRlpyRBYL7H/9ZuQzUVKH415xqzkw5dpTS+cQkerlUjNGa338txc/gpfBPQpNDHmXwjyYsfEQtVgc+/YNRbRWB8+KH692BNG1baBqJ03eF5uvjeEnak+VkzSivMx/XYIPOn9KgQCwldTtWo+D4jiyKGici8F6E8l2dMeW" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/webecems/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZGLb3NTNvhYj08c3wKhpRK6Ls2hDU1A_vizyFkXvcUmXT-2c-w2&amp;t=638369492483918269" type="text/javascript"></script>
+
+
+<script src="/webecems/ScriptResource.axd?d=0y8MEsr3ao3EJ7P-lfA9Z6bNlg-phkuNyVE3whqkKN8yT_jnUaAtM6nJn06ihZozXlptMq0j_v06DdPx-JUxiYb7Dac-o8qDUdyEqJTdI-NCfTuGr4qGnVF2qqlzlJqs1-PmdNxSMHl2hTb4yvt0RpAehgI1&amp;t=fffffffff055ad03" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=qdfquaqc-_X8PA8h7-s-SdVBt5XMzF7BU7XVk3bQ5Ow-heS85B4J1hPSWNA8IhZ0vLV4x2AH0nWktNCCI8OxESIspabIemgmcUnGORubOGUXvrcrcIEMwhJb-OLjsDb7m-vvkpWJ5_5vwEbqA7VsJnx-yZ3XDa3lw5LfCWqoyvKkfyeG0&amp;t=fffffffff055ad03" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=eE6V8nDbUVn0gtG6hKNX_IA1iu7jDl_-TtIAoFfllIH5-I3aZvTkz3iW3T2pKyVO1WjN_jBBkwV7K_8RIyJWtZFDhzZz4Q-wJ0eAfgxRyNjerbgt0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=mcAASOSteirJeuV-3by3Ua57H9NE6uvmo38gWQkt3LZLSAVadnQZySs8pY_AT5kFiQZM_gLHDuXnvbCqyw85zXjOvwU1&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=jwf4VSQi7LeShc44FJ-gAaHGWa_zyQMfqTyFrwLP-MUrfwPfJK0ya1Wc1v3nq5g-iAGfgs02G2SwpKOQB466RU6fzTF2C1Wz6ulFJ8e3RMAMZ8qW0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=nai7mGcYyE2dix_TwveLDWDDnAO2auX1FdWYAsqbx8v6KrbZeZxFIV01z4GUYeDKW3QNfC7ZuHqGREb_m0iox9aXtVbtGFauyl8mqlRHFSqFAmKu0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=yDT7ulzE00Yqzs5zd38bJ9LEyF2wqTXwEKNnyQtOUDUF2k0aNCQjkkoGPeGS2Mh5C1NZ4pyDNx9zCZNkYHQ8vz3ZX3LuH3qTiEVx4yeJ40mW7Lke0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=HEFpVKbnoeQjkjHkFKu3MK_WcWHC5EfsbUHFqA_AhyY9lDOvh4LLRCzt5enVCZaHugTbsLytDzklKnWaPhLWy6DOmTuKrv_Xq3IvS1pKmyyHFX-V0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=5ib3lCcyinHeLQmkwMF7ErLS7SxeG17f7ljYcxOAtvSt8GmOCSbIRCMBjZ892lM0hbBuJpH3S0fJyR3GqMXIENdsbenlRUzDU5Utof8ag1Rw_l8P0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=iON9Jxe8QCRam1nkdNLgkd_h79QtxlqIY1OgOLfqXudlaW3Yng70hC1ffDKSi196EmUgMl5rXGMUqWjWIHMTNlpUFAKg_osNXsSblGhu1Mmw4q_C0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=xGmPTKfsNy0_1Sr5I58kO4dDBAybS_p9x1j-xyQHAeASEfClh7aEwuyrneVnmaYvoQKyaZKOFRb67o5DrHBFauciPZFBBoXhFQtzq1-kVz6ghtHy0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=LQ1q2RBSthBAZhliMjtG_2zCeMNsKiSKY_xBkMd52yv-7iLEh0NG0Cn_1b9k0kMkiraw23zVpgsJGl1YIwa4lXQLxdimJy1elA1AgsRskpdveA8Q0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=VOYD8Xe7kQA0lniBYXVpAgW9hZZ593NxKA34YyeSkiChYnqyzQU4gAAjjUut2Re6YbDU7MC1OFpC89Knkr7q9o7WELjLlATOu2HBQs1UdQxkHGfX0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=hOeJu0xhC-uW6Gf8ooKdXs9IZJgjeSDFNAGquwDAwXRxm3I-5pxude1WTOL6KBkhIV1zmEDm1lF8cPLrOhp7BXn7l4B02m7IPblIKzaH4cjsn-Pu0&amp;t=2009a88" type="text/javascript"></script>
+<script src="/webecems/ScriptResource.axd?d=XlV9GqTk6b5uqDuL38kZ4O6afX-OvGCrNwOLx3KwRb1dCtkAC2J1SXtt9qZIVsEkWxzDqS8F87jyxJ8WDdPfQ7xoR4EHM8RkcGeUKIpNFAjUUmxd0&amp;t=2009a88" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBFBD0D1" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="LMHrAmTUSANI21oHd8ulhP44tIjenQeIgSXRWzhVlN4MHbemEjqNUuBVj4QtN/KQfvHqXSBz8bEkAI0m48MvTHJhNtLqS2kxV5beI2Je9U7UfNIyVOT5xt5vLd6y0rcqfkBXThyVijYJK4JOIqhGFk0sADk=" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', 'form1', [], [], [], 90, '');
+//]]>
+</script>
+
+        <div id="mainPanel">
+	
+		    <table style="width:99%; border:none; margin:auto; margin-top:10px;">
+                <tr>
+                    <td style="text-align:center;">
+                        <div class="schName"><span id="lblSchName">臺北市信義區福德國民小學附設幼兒園</span><br /><span id="lblTitle">裁罰結果</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;">
+		                <div>
+		<table class="aptable" cellspacing="0" cellpadding="0" rules="all" id="GridView1" style="border-color:#000FFF;border-width:0px;border-collapse:collapse;">
+			<tr class="listHd_c">
+				<th align="center" scope="col" style="width:10%;">處分日期</th><th align="center" scope="col" style="width:15%;">裁處文號</th><th align="center" scope="col" style="width:18%;">處分依據</th><th align="center" scope="col">違反之規定</th><th align="center" scope="col" style="width:12%;">負責人/行為人</th><th align="center" scope="col" style="width:12%;">處分內容</th>
+			</tr><tr>
+				<td align="center">
+                                        <span id="GridView1_lblPDate_0">2024/01/26</span>
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPGNum_0">北市教前字第11330013402號</span>
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPName_0">教保服務人員條例<br>第40條第2款(111/6/29修正公布)</span>
+                                    </td><td align="center">
+                                        
+                                        <span id="GridView1_lblPDetail_0">第33條第1項<br>教保服務人員對幼兒有不當對待行為。</span>
+                                        
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPObject_0">行為人：黃琬茹</span>
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPContent_0">罰鍰：60,000&nbsp;元</span>
+                                    </td>
+			</tr><tr style="background-color:WhiteSmoke;">
+				<td align="center">
+                                        <span id="GridView1_lblPDate_1">2023/12/08</span>
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPGNum_1">北市教前字第11231021945號</span>
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPName_1">教保服務人員條例<br>第46條第2項(111/6/29修正公布)</span>
+                                    </td><td align="center">
+                                        
+                                        <span id="GridView1_lblPDetail_1">第33條第1項<br>教保服務人員對幼兒有非屬情節重大之不當對待行為。</span>
+                                        
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPObject_1">行為人：葉依婷</span>
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPContent_1">罰鍰：6,000&nbsp;元</span>
+                                    </td>
+			</tr><tr>
+				<td align="center">
+                                        <span id="GridView1_lblPDate_2">2023/12/08</span>
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPGNum_2">北市教前字第11231021943號</span>
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPName_2">教保服務人員條例<br>第46條第1項第3款(111/6/29修正公布)</span>
+                                    </td><td align="center">
+                                        
+                                        <span id="GridView1_lblPDetail_2">第33條第1項<br>教保服務機構有教保服務人員對幼兒不當對待行為。</span>
+                                        
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPObject_2">負責人：褚希雯</span>
+                                    </td><td align="center">
+                                        <span id="GridView1_lblPContent_2">罰鍰：6,000&nbsp;元</span>
+                                    </td>
+			</tr>
+		</table>
+	</div>
+                    </td>
+                </tr>
+			    <tr>
+				    <td style="text-align:center;">
+		                <br />
+					    <input type="submit" name="btnExit" value="關　閉" onclick="window.close();return false;" id="btnExit" class="btn btn-primary" />
+                    </td>
+			    </tr>
+            </table>
+        
+</div>
+        <div id="MsgPanel" class="modalPopup" style="height:380px;width:500px;display: none;">
+	
+            <div id="divTitle" style="cursor:move; height:35px; text-align:center; padding-top:8px; border-top-left-radius:7px; border-top-right-radius:7px; vertical-align:middle; font-size:18px; font-weight:bold; background-color: rgb(204, 231, 251); border: 2px solid #96d5ef; color: rgb(0,30,140);">
+                法規內容
+            </div>
+            <div style="height:345px; vertical-align:top; font-size:12pt; color:#222; background:#e6ecd1; padding:10px; border: 2px solid #d0e38a; border-bottom-left-radius:7px; border-bottom-right-radius:7px; overflow:auto;">
+                <span id="lblMsg"></span>
+            </div>
+		    <div style="text-align:center;">
+                <input type="submit" name="btnClose" value="關　閉" id="btnClose" class="btn btn-primary" />
+		    </div>
+            
+            <input type="submit" name="btnChg" value="" id="btnChg" style="display:none;" />
+            <script type="text/javascript">
+                function chgOK() {
+                    var btnChg = document.getElementById("btnChg");
+                    btnChg.click();
+                }
+            </script>
+        
+</div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","cancelControlID":"btnClose","dynamicServicePath":"/webecems/dtl/punish_view.aspx","id":"ModalPopupMsg","okControlID":"btnChg","onOkScript":"chgOK()","popupControlID":"MsgPanel","popupDragHandleControlID":"divTitle","x":200,"y":100}, null, null, $get("btnChg"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
