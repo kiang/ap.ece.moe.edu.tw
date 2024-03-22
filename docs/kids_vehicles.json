@@ -69,14 +69,6 @@
             "txn_name": "本區新領"
         }
     ],
-    "a0fdd6f4-1c9b-4602-b510-3e6f55b35969": [
-        {
-            "plate_no": "AKQ-6331",
-            "on_production_date": "201506",
-            "next_exam_dt": "20231215",
-            "txn_name": "本區新領"
-        }
-    ],
     "0248f52e-9037-4945-8582-c8aa7dd01496": [
         {
             "plate_no": "AJJ-6522",
@@ -5657,7 +5649,7 @@
             "txn_name": "註銷轉報廢"
         }
     ],
-    "f293effc-d33b-469e-ba25-72b40df60242": [
+    "5341113f-80c4-4c14-ab6d-11f2693bf5e4": [
         {
             "plate_no": "5382-L5",
             "on_production_date": "201205",
