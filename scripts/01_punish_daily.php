@@ -33,6 +33,14 @@ $cities = [
 
 $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/punishSearch.aspx');
 
+function punishmentCmp($a, $b)
+{
+    if ($a[0] == $b[0]) {
+        return 0;
+    }
+    return ($a[0] < $b[0]) ? -1 : 1;
+}
+
 foreach ($cities as $code => $city) {
     $dataPath = $basePath . '/docs/data/punish/' . $city;
     if (!file_exists($dataPath)) {
@@ -136,6 +144,7 @@ foreach ($cities as $code => $city) {
                     }
                 }
             }
+            usort($punishments, 'punishmentCmp');
             file_put_contents($theFile, json_encode($punishments, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
             $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
