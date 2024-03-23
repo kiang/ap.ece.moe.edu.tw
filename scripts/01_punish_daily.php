@@ -118,7 +118,7 @@ foreach ($cities as $code => $city) {
             if (file_exists($theFile)) {
                 $punishments = json_decode(file_get_contents($theFile), true);
                 foreach ($punishments as $punishment) {
-                    $keyPool[$punishment[1]] = true;
+                    $keyPool[$punishment[1] . $punishment[3]] = true;
                 }
             } else {
                 $punishments = [];
@@ -130,7 +130,7 @@ foreach ($cities as $code => $city) {
                         $cols[$k] = trim(strip_tags($v));
                     }
                     array_pop($cols);
-                    if (!isset($keyPool[$cols[1]])) {
+                    if (!isset($keyPool[$cols[1] . $cols[3]])) {
                         $punishments[] = $cols;
                         $keyPool[$cols[1]] = true;
                     }
