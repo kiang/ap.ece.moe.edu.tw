@@ -798,5 +798,13 @@
     "sid": "MAA1ADMAMgAwADAAMAAxADIANAA=",
     "name": "(非營利)桃園市青園非營利幼兒園(委託財團法人何嘉仁文教基金會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.95722,
+    "lng": 121.245362,
+    "sid": "MAA1ADMAMgAwADAAMAAxADIANQA=",
+    "name": "(私立)桃園市私立妍樂幼兒園",
+    "type": "spub1"
   }
 ]
