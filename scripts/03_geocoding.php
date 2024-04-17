@@ -89,7 +89,7 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
         if (false !== strpos($data['reg_no'], '負責人')) {
             continue;
         }
-        $key = $data['reg_no'] . $data['title'];
+        $key = $data['reg_docno'] . $data['title'];
         if (isset($idPool[$key])) {
             $uuid = $idPool[$key];
         } else {
