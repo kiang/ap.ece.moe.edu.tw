@@ -14455,20 +14455,6 @@
             "txn_name": "外站新領"
         }
     ],
-    "bd620923-f369-463c-9ec7-88882d2a2403": [
-        {
-            "plate_no": "BVG-7212",
-            "on_production_date": "202308",
-            "next_exam_dt": "20240814",
-            "txn_name": "停駛轉繳銷"
-        },
-        {
-            "plate_no": "BVG-7215",
-            "on_production_date": "202308",
-            "next_exam_dt": "20240814",
-            "txn_name": "停駛轉繳銷"
-        }
-    ],
     "7cc0c66b-a57e-4d42-afd0-2220cc91af9f": [
         {
             "plate_no": "ON-7881",
