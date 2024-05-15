@@ -486,5 +486,13 @@
     "sid": "MAAzADIAMwA2ADAAMAAwADcAOAA=",
     "name": "(準公共)新北市私立有一天幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.97678,
+    "lng": 121.44605,
+    "sid": "MAAzADIAMwA2ADAAMAAwADcAOQA=",
+    "name": "(私立)新北市私立佳學幼兒園",
+    "type": "spub1"
   }
 ]
