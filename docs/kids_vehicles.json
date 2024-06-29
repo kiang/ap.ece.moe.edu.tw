@@ -5369,32 +5369,6 @@
             "txn_name": "一般報廢"
         }
     ],
-    "d5fe4214-cb9e-456e-b923-0666c2549a46": [
-        {
-            "plate_no": "AGT-2096",
-            "on_production_date": "201408",
-            "next_exam_dt": "20240909",
-            "txn_name": "本區新領"
-        },
-        {
-            "plate_no": "AGT-2095",
-            "on_production_date": "201408",
-            "next_exam_dt": "20240909",
-            "txn_name": "本區新領"
-        },
-        {
-            "plate_no": "ATK-6322",
-            "on_production_date": "201707",
-            "next_exam_dt": "20240815",
-            "txn_name": "外區新領"
-        },
-        {
-            "plate_no": "BNV-7683",
-            "on_production_date": "202203",
-            "next_exam_dt": "20250318",
-            "txn_name": "外區新領"
-        }
-    ],
     "a7bf3887-0892-4aad-8e84-da9137dde0f5": [
         {
             "plate_no": "ASC-2922",
