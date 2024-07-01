@@ -17,11 +17,11 @@
         "url": "彰化縣北斗鎮光復路10號",
         "count_approved": "70",
         "shuttle": "\t\t",
-        "pre_public": "110-112",
+        "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

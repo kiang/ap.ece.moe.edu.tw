@@ -9,7 +9,7 @@
         "town": "伸港鄉",
         "type": "私立",
         "address": "[509]中華路301、303號",
-        "floor": "1樓至2樓",
+        "floor": "1樓、2樓",
         "size": "255.87平方公尺",
         "size_in": "141.76平方公尺",
         "size_out": "32.25平方公尺",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "有，人數：10",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

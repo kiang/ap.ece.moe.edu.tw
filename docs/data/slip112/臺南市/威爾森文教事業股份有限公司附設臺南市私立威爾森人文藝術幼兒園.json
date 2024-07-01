@@ -16,12 +16,12 @@
         "tel": "(06)3357718",
         "url": "",
         "count_approved": "350",
-        "shuttle": "\t\t",
+        "shuttle": "",
         "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

@@ -17,11 +17,11 @@
         "url": "",
         "count_approved": "105",
         "shuttle": "\t\t",
-        "pre_public": "111-112",
+        "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

@@ -17,11 +17,11 @@
         "url": "台南市楠西區信義路57巷40號",
         "count_approved": "120",
         "shuttle": "\t\t",
-        "pre_public": "110-112",
+        "pre_public": "113-115",
         "is_free5": "",
         "is_after": "有，人數：18",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {
