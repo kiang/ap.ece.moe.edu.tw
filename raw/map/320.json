@@ -806,5 +806,21 @@
     "sid": "MAA1ADMAMgAwADAAMAAxADIANQA=",
     "name": "(私立)桃園市私立妍樂幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.957445,
+    "lng": 121.245252,
+    "sid": "MAA1ADMAMgAwADAAMAAxADIANQAtADAAMQA=",
+    "name": "(私立)桃園市私立妍樂幼兒園中原分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.94121,
+    "lng": 121.24185,
+    "sid": "MAA1ADMAMgAwADAAMAAxADIANgA=",
+    "name": "(私立)桃園市私立諾亞喜波幼兒園",
+    "type": "spub1"
   }
 ]

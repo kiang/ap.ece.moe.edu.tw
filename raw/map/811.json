@@ -350,5 +350,21 @@
     "sid": "MQA4ADgAMQAxADAAMAAwADUANAA=",
     "name": "(非營利)高雄市和平非營利幼兒園(委託社團法人高雄市幼童教育關懷協會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.726938,
+    "lng": 120.28958,
+    "sid": "MQA4ADgAMQAxADAAMAAwADUANQA=",
+    "name": "(私立)高雄市私立楠梓哈波特幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.729305,
+    "lng": 120.28755,
+    "sid": "MQA4ADgAMQAxADAAMAAwADUANgA=",
+    "name": "(私立)高雄市私立保進菁華幼兒園",
+    "type": "spub1"
   }
 ]
