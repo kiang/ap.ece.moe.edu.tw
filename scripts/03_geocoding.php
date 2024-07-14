@@ -186,7 +186,7 @@ EOD;
                 $json = json_decode(file_get_contents($rawFile), true);
                 if (!empty($json['AddressList'][0]['X'])) {
                     $pointFound = true;
-                    $fc['features'][] = [
+                    $f = [
                         'type' => 'Feature',
                         'properties' => $data,
                         'geometry' => [
@@ -197,6 +197,8 @@ EOD;
                             ],
                         ],
                     ];
+                    file_put_contents($basePath . '/docs/data/features/' . $data['id'] . '.json', json_encode($f, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+                    $fc['features'][] = $f;
                 }
             }
         }
