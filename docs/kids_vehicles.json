@@ -1691,6 +1691,14 @@
             "txn_name": "本區新領"
         }
     ],
+    "577ca78d-5cda-4056-a6ae-e4525e4ad6dc": [
+        {
+            "plate_no": "4867-KL",
+            "on_production_date": "200502",
+            "next_exam_dt": "20140225",
+            "txn_name": "一般報廢"
+        }
+    ],
     "c6fa8332-935e-443c-9a3f-37d5e0a07001": [
         {
             "plate_no": "AJJ-8653",
@@ -3021,6 +3029,14 @@
             "txn_name": "外區新領"
         }
     ],
+    "6a8a7c53-8479-4dae-a6b2-53ffab98fb98": [
+        {
+            "plate_no": "ARF-1892",
+            "on_production_date": "201604",
+            "next_exam_dt": "20240426",
+            "txn_name": "外區新領"
+        }
+    ],
     "790ca435-d9fe-44dc-af25-924d582ee5c0": [
         {
             "plate_no": "APM-6706",
@@ -3161,6 +3177,14 @@
             "on_production_date": "202011",
             "next_exam_dt": "20241125",
             "txn_name": "外區新領"
+        }
+    ],
+    "36b3a9ab-a08e-4c9a-bc96-caf3d01a0319": [
+        {
+            "plate_no": "AGT-5901",
+            "on_production_date": "201409",
+            "next_exam_dt": "20240326",
+            "txn_name": "本區新領"
         }
     ],
     "021f761f-1453-478b-acef-67ba962aefc4": [
@@ -4991,6 +5015,14 @@
             "txn_name": "外區新領"
         }
     ],
+    "f294f12d-ada0-4830-aba8-743f8da44daa": [
+        {
+            "plate_no": "BBD-8360",
+            "on_production_date": "201903",
+            "next_exam_dt": "20250326",
+            "txn_name": "外區新領"
+        }
+    ],
     "36a014b1-3d58-4545-8278-e55f113ade7b": [
         {
             "plate_no": "AXS-2951",
@@ -5367,6 +5399,32 @@
             "on_production_date": "201302",
             "next_exam_dt": "20230227",
             "txn_name": "一般報廢"
+        }
+    ],
+    "d5fe4214-cb9e-456e-b923-0666c2549a46": [
+        {
+            "plate_no": "AGT-2096",
+            "on_production_date": "201408",
+            "next_exam_dt": "20240909",
+            "txn_name": "本區新領"
+        },
+        {
+            "plate_no": "AGT-2095",
+            "on_production_date": "201408",
+            "next_exam_dt": "20240909",
+            "txn_name": "本區新領"
+        },
+        {
+            "plate_no": "ATK-6322",
+            "on_production_date": "201707",
+            "next_exam_dt": "20240815",
+            "txn_name": "外區新領"
+        },
+        {
+            "plate_no": "BNV-7683",
+            "on_production_date": "202203",
+            "next_exam_dt": "20250318",
+            "txn_name": "外區新領"
         }
     ],
     "a7bf3887-0892-4aad-8e84-da9137dde0f5": [
@@ -6797,6 +6855,14 @@
             "on_production_date": "201806",
             "next_exam_dt": "20240629",
             "txn_name": "外站新領"
+        }
+    ],
+    "2e49f5bb-39f9-4605-8cc4-bf6a4892e960": [
+        {
+            "plate_no": "3673-B8",
+            "on_production_date": "201008",
+            "next_exam_dt": "20200308",
+            "txn_name": "環保回收轉報廢"
         }
     ],
     "d28efa7c-b4f8-4c02-ab14-0faa96f56ad9": [
@@ -9853,6 +9919,14 @@
             "txn_name": "外站新領"
         }
     ],
+    "a1ba178a-503d-4f92-88aa-36b8c956b992": [
+        {
+            "plate_no": "0406-TU",
+            "on_production_date": "200805",
+            "next_exam_dt": "20180725",
+            "txn_name": "一般報廢"
+        }
+    ],
     "2ca39150-79d1-460b-80c3-70b786bab854": [
         {
             "plate_no": "3507-YX",
@@ -10359,6 +10433,14 @@
             "on_production_date": "201803",
             "next_exam_dt": "20240613",
             "txn_name": "本區新領"
+        }
+    ],
+    "a4e9246c-cae9-47a4-9c14-fc10ef729dc2": [
+        {
+            "plate_no": "BCJ-3961",
+            "on_production_date": "202007",
+            "next_exam_dt": "20240812",
+            "txn_name": "外站新領"
         }
     ],
     "85cb9000-69c4-44de-a4a6-3ed29b731192": [
@@ -12291,6 +12373,20 @@
             "txn_name": "本區新領"
         }
     ],
+    "ff2f6f8a-f0fa-443d-a2c8-c920e5fd0e86": [
+        {
+            "plate_no": "ALQ-0073",
+            "on_production_date": "201501",
+            "next_exam_dt": "20240825",
+            "txn_name": "本區新領"
+        },
+        {
+            "plate_no": "BKB-1071",
+            "on_production_date": "202101",
+            "next_exam_dt": "20250202",
+            "txn_name": "本區新領"
+        }
+    ],
     "133e5ec6-a15d-4178-aa23-f34e2598efce": [
         {
             "plate_no": "ALQ-0877",
@@ -12903,6 +12999,14 @@
             "txn_name": "本區新領"
         }
     ],
+    "f78c1058-ab60-4ff7-9292-447429e5e329": [
+        {
+            "plate_no": "BGU-3082",
+            "on_production_date": "202009",
+            "next_exam_dt": "20240930",
+            "txn_name": "本區新領"
+        }
+    ],
     "98796fcf-494f-471a-aa82-35c32e35f12a": [
         {
             "plate_no": "AJM-6059",
@@ -13206,6 +13310,14 @@
             "plate_no": "AHN-1287",
             "on_production_date": "201403",
             "next_exam_dt": "20240625",
+            "txn_name": "本區新領"
+        }
+    ],
+    "09b73012-e625-4b2d-9fb6-e52071b48a96": [
+        {
+            "plate_no": "APY-6825",
+            "on_production_date": "201510",
+            "next_exam_dt": "20240530",
             "txn_name": "本區新領"
         }
     ],
@@ -13581,6 +13693,20 @@
             "on_production_date": "202402",
             "next_exam_dt": "20250223",
             "txn_name": "外區新領"
+        }
+    ],
+    "bf32fce1-e57d-4594-8f8d-8d3ef9b0879b": [
+        {
+            "plate_no": "5696-LP",
+            "on_production_date": "200504",
+            "next_exam_dt": "20150511",
+            "txn_name": "一般報廢"
+        },
+        {
+            "plate_no": "4991-PS",
+            "on_production_date": "200608",
+            "next_exam_dt": "20160929",
+            "txn_name": "一般報廢"
         }
     ],
     "5811baf3-c2f8-4a4a-a425-98171c25fcd5": [
@@ -14413,6 +14539,20 @@
             "txn_name": "外站新領"
         }
     ],
+    "bd620923-f369-463c-9ec7-88882d2a2403": [
+        {
+            "plate_no": "BVG-7212",
+            "on_production_date": "202308",
+            "next_exam_dt": "20240814",
+            "txn_name": "停駛轉繳銷"
+        },
+        {
+            "plate_no": "BVG-7215",
+            "on_production_date": "202308",
+            "next_exam_dt": "20240814",
+            "txn_name": "停駛轉繳銷"
+        }
+    ],
     "7cc0c66b-a57e-4d42-afd0-2220cc91af9f": [
         {
             "plate_no": "ON-7881",
@@ -15077,6 +15217,20 @@
             "txn_name": "外區新領"
         }
     ],
+    "a853b661-ae58-4864-8a4f-6ee988431cff": [
+        {
+            "plate_no": "R5-9433",
+            "on_production_date": "199707",
+            "next_exam_dt": "20130722",
+            "txn_name": "停駛轉報廢"
+        },
+        {
+            "plate_no": "X5-0613",
+            "on_production_date": "199907",
+            "next_exam_dt": "20150130",
+            "txn_name": "繳銷"
+        }
+    ],
     "de0de14c-5c79-4b03-b242-bc513c9ab2bc": [
         {
             "plate_no": "APY-5318",
@@ -15648,6 +15802,14 @@
             "plate_no": "ALR-1036",
             "on_production_date": "201410",
             "next_exam_dt": "20240430",
+            "txn_name": "本區新領"
+        }
+    ],
+    "ce026944-a4e3-4061-90ea-38874195d33a": [
+        {
+            "plate_no": "ANH-0916",
+            "on_production_date": "201506",
+            "next_exam_dt": "20240630",
             "txn_name": "本區新領"
         }
     ],
@@ -19517,6 +19679,14 @@
             "txn_name": "本區新領"
         }
     ],
+    "c644f1b3-068a-43a8-b1a3-11486839b1a2": [
+        {
+            "plate_no": "AHU-3565",
+            "on_production_date": "201401",
+            "next_exam_dt": "20240129",
+            "txn_name": "本區新領"
+        }
+    ],
     "5bc6433d-fbb0-4dda-9aec-6c9b838bd917": [
         {
             "plate_no": "ATV-2395",
@@ -21013,6 +21183,14 @@
             "txn_name": "本區新領"
         }
     ],
+    "3e76529e-244e-462c-be86-4f681c5180e5": [
+        {
+            "plate_no": "0535-QR",
+            "on_production_date": "200612",
+            "next_exam_dt": "20170104",
+            "txn_name": "註銷轉報廢"
+        }
+    ],
     "8d341acc-061f-4e15-be92-617434c58bc3": [
         {
             "plate_no": "AJC-7551",
@@ -21187,6 +21365,20 @@
             "on_production_date": "202006",
             "next_exam_dt": "20240630",
             "txn_name": "本區新領"
+        }
+    ],
+    "79fd600e-d498-4de7-a31a-77cd45d94ad2": [
+        {
+            "plate_no": "BFQ-0826",
+            "on_production_date": "202004",
+            "next_exam_dt": "20240420",
+            "txn_name": "外區新領"
+        },
+        {
+            "plate_no": "BTV-2816",
+            "on_production_date": "202307",
+            "next_exam_dt": "20240802",
+            "txn_name": "外區新領"
         }
     ],
     "016cc701-ac12-4f88-9457-5eb6431ed449": [
@@ -21668,6 +21860,14 @@
             "plate_no": "BAG-9771",
             "on_production_date": "201905",
             "next_exam_dt": "20240516",
+            "txn_name": "本區新領"
+        }
+    ],
+    "101f153b-f03a-4a9f-a0cf-f8fea8663c3b": [
+        {
+            "plate_no": "BDX-5696",
+            "on_production_date": "201908",
+            "next_exam_dt": "20240823",
             "txn_name": "本區新領"
         }
     ],
@@ -22785,6 +22985,14 @@
             "txn_name": "外區新領"
         }
     ],
+    "34359166-9661-4460-9067-44df272af0fe": [
+        {
+            "plate_no": "5167-WY",
+            "on_production_date": "200907",
+            "next_exam_dt": "20190811",
+            "txn_name": "註銷轉報廢"
+        }
+    ],
     "1d99c155-fe90-427e-b7fb-7f0706bfbcdf": [
         {
             "plate_no": "AMW-2325",
@@ -23703,6 +23911,14 @@
             "on_production_date": "202403",
             "next_exam_dt": "20250321",
             "txn_name": "外區新領"
+        }
+    ],
+    "d62a2a19-bf42-4002-b657-bbfffaa5139d": [
+        {
+            "plate_no": "AJL-5260",
+            "on_production_date": "201603",
+            "next_exam_dt": "20240407",
+            "txn_name": "本區新領"
         }
     ],
     "c95beb71-5444-4309-9209-818a6bb0c6b4": [

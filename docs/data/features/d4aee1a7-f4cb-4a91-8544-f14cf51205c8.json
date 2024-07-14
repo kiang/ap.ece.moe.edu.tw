@@ -24,7 +24,8 @@
         "penalty": "有",
         "has_slip": "no",
         "id": "d4aee1a7-f4cb-4a91-8544-f14cf51205c8",
-        "monthly": 8450
+        "monthly": 8450,
+        "is_active": 1
     },
     "geometry": {
         "type": "Point",
