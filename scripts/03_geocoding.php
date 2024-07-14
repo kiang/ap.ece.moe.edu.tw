@@ -2,10 +2,6 @@
 $basePath = dirname(__DIR__);
 $config = require $basePath . '/config.php';
 $rawPath = $basePath . '/raw/geocoding';
-$fc = [
-    'type' => 'FeatureCollection',
-    'features' => [],
-];
 
 $monthlyPool = [];
 foreach (glob($basePath . '/docs/data/summary1/*/*.csv') as $csvFile) {
@@ -107,7 +103,8 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
 
         if (isset($pool[$data['title']])) {
             $pointFound = true;
-            $fc['features'][] = [
+            $data['is_active'] = 1;
+            $f = [
                 'type' => 'Feature',
                 'properties' => $data,
                 'geometry' => [
@@ -185,6 +182,7 @@ EOD;
             if (file_exists($rawFile)) {
                 $json = json_decode(file_get_contents($rawFile), true);
                 if (!empty($json['AddressList'][0]['X'])) {
+                    $data['is_active'] = 1;
                     $pointFound = true;
                     $f = [
                         'type' => 'Feature',
@@ -197,14 +195,25 @@ EOD;
                             ],
                         ],
                     ];
-                    file_put_contents($basePath . '/docs/data/features/' . $data['id'] . '.json', json_encode($f, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
-                    $fc['features'][] = $f;
                 }
             }
         }
-        if (false === $pointFound) {
-            print_r($data);
+        if ($pointFound) {
+            file_put_contents($basePath . '/docs/data/features/' . $data['id'] . '.json', json_encode($f, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
         }
     }
 }
+$fc = [
+    'type' => 'FeatureCollection',
+    'features' => [],
+];
+foreach (glob($basePath . '/docs/data/features/*.json') as $jsonFile) {
+    $json = json_decode(file_get_contents($jsonFile), true);
+    if (empty($json['properties']['is_active'])) {
+        $json['properties']['is_active'] = 0;
+    }
+    $fc['features'][$json['properties']['id']] = $json;
+}
+ksort($fc['features']);
+$fc['features'] = array_values($fc['features']);
 file_put_contents($basePath . '/docs/preschools.json', json_encode($fc, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
