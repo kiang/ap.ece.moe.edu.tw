@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11151755700號",
+        "reg_docno": "屏府教前字第11151755700號",
+        "reg_date": "2022\/08\/04",
+        "title": "屏東縣僑勇非營利幼兒園（委託社團法人屏東縣宥薰教育協會辦理）",
+        "owner": "許靜芳",
+        "city": "屏東縣",
+        "town": "恆春鎮",
+        "type": "非營利",
+        "address": "[946]西門路146號",
+        "floor": "1樓",
+        "size": "1,507.42平方公尺",
+        "size_in": "757.42平方公尺",
+        "size_out": "750平方公尺",
+        "tel": "(08)8880748",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1dc91de2-66ff-494f-8363-ada1c0b028a9",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7447638,
+            22.0008277
+        ]
+    }
+}

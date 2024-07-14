@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010018187號",
+        "reg_docno": "八一府社福字第18834號",
+        "reg_date": "1992\/09\/15",
+        "title": "新竹縣私立大同幼兒園",
+        "owner": "彭廷鳳",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "私立",
+        "address": "[303]138巷4之8號",
+        "floor": "1",
+        "size": "635.78平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "254平方公尺",
+        "tel": "(03)5982655",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "aa3318fc-d0c5-44da-8d13-a176d374dba3",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.024344,
+            24.862061
+        ]
+    }
+}

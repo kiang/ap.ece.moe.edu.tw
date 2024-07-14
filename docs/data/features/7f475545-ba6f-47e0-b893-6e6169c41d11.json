@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130184529號",
+        "reg_docno": "75府教學字第177460號",
+        "reg_date": "1986\/12\/24",
+        "title": "桃園市私立桃人幼兒園",
+        "owner": "陳麗卿",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]樹林五街46號",
+        "floor": "1",
+        "size": "2,109平方公尺",
+        "size_in": "307平方公尺",
+        "size_out": "1,802平方公尺",
+        "tel": "(03)3616063",
+        "url": "http:\/\/tau-jen.topschool.com.tw\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7f475545-ba6f-47e0-b893-6e6169c41d11",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3138477,
+            24.9798183
+        ]
+    }
+}

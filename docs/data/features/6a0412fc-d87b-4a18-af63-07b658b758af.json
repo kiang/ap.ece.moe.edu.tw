@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620蘆洲0039號",
+        "reg_docno": "北府社兒字第0930396834號",
+        "reg_date": "2004\/05\/25",
+        "title": "新北市私立環愛幼兒園",
+        "owner": "張淑津",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]長安街375巷3號1~2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28470618",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6a0412fc-d87b-4a18-af63-07b658b758af",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.456912,
+            25.0877989
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒證字第74-1號",
+        "reg_docno": "北市社婦幼字第09931077000號",
+        "reg_date": "2004\/08\/20",
+        "title": "臺北市私立明昶幼兒園",
+        "owner": "蔡明昶",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "私立",
+        "address": "[114]康寧路3段99巷10弄6號1樓及2樓",
+        "floor": "1，2樓",
+        "size": "157.56平方公尺",
+        "size_in": "157.56平方公尺",
+        "size_out": "",
+        "tel": "(02)26323564",
+        "url": "",
+        "count_approved": "34",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：9",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3983b1f2-927a-45a7-b0eb-e763960c38f2",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.610408,
+            25.072505
+        ]
+    }
+}

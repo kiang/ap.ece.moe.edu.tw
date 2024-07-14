@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第16-1號",
+        "reg_docno": "北市教前字第11130117601號",
+        "reg_date": "2022\/08\/01",
+        "title": "內政部國土管理署職場互助教保服務中心（委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理）",
+        "owner": "邱健凱",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]八德路二段342號",
+        "floor": "1樓",
+        "size": "190.21平方公尺",
+        "size_in": "190.21平方公尺",
+        "size_out": "",
+        "tel": "(02)87721616",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "512ec827-2d14-495a-ba9a-37b6de9027fa",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5444487,
+            25.0475057
+        ]
+    }
+}

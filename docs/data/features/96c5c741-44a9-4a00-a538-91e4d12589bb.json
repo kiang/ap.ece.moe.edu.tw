@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10875732600號",
+        "reg_docno": "屏府教國字第89625號",
+        "reg_date": "1996\/06\/08",
+        "title": "屏東縣琉球鄉天南國民小學附設幼兒園",
+        "owner": "陳國民",
+        "city": "屏東縣",
+        "town": "琉球鄉",
+        "type": "公立",
+        "address": "[929]忠孝路27號",
+        "floor": "1樓",
+        "size": "14,255平方公尺",
+        "size_in": "130平方公尺",
+        "size_out": "14,125平方公尺",
+        "tel": "(08)8612300#15",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "96c5c741-44a9-4a00-a538-91e4d12589bb",
+        "monthly": 2816
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.363317,
+            22.330323
+        ]
+    }
+}

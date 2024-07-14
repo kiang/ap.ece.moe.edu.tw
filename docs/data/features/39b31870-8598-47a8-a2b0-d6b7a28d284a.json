@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120048106號",
+        "reg_docno": "中市府社婦字第9301號",
+        "reg_date": "2004\/01\/29",
+        "title": "臺中市私立貝登堡幼兒園",
+        "owner": "陳朝國",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]松竹路一段758號1至2樓",
+        "floor": "1至2樓",
+        "size": "4,138.35平方公尺",
+        "size_in": "2,732.8平方公尺",
+        "size_out": "1,405.55平方公尺",
+        "tel": "(04)22393455",
+        "url": "0422393455.topschool.com",
+        "count_approved": "437",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：45",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "39b31870-8598-47a8-a2b0-d6b7a28d284a",
+        "monthly": 9500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.717331,
+            24.182464
+        ]
+    }
+}

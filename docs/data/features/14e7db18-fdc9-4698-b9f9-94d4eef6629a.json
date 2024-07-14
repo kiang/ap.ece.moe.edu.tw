@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080018803號",
+        "reg_docno": "府社兒婦字第0990076107號",
+        "reg_date": "1995\/04\/19",
+        "title": "宜蘭縣大同鄉立幼兒園",
+        "owner": "何勝立",
+        "city": "宜蘭縣",
+        "town": "大同鄉",
+        "type": "公立",
+        "address": "[267]寒溪巷5號",
+        "floor": "1樓",
+        "size": "431.61平方公尺",
+        "size_in": "216平方公尺",
+        "size_out": "215.6平方公尺",
+        "tel": "(03)9801083",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "14e7db18-fdc9-4698-b9f9-94d4eef6629a",
+        "monthly": 3000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.68611,
+            24.6090571
+        ]
+    }
+}

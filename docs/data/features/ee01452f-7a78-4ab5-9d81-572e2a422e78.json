@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040023045號",
+        "reg_docno": "府社婦字第0950279339號",
+        "reg_date": "2006\/09\/19",
+        "title": "桃園市私立金向日葵幼兒園",
+        "owner": "張鳳",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]宏昌十二街175號",
+        "floor": "1",
+        "size": "473.76平方公尺",
+        "size_in": "344.15平方公尺",
+        "size_out": "129.61平方公尺",
+        "tel": "(03)2200782",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ee01452f-7a78-4ab5-9d81-572e2a422e78",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.293018,
+            24.985213
+        ]
+    }
+}

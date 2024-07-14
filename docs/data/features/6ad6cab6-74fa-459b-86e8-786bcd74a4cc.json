@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1102415551號",
+        "reg_docno": "北府社兒字第0920094215號",
+        "reg_date": "2003\/02\/27",
+        "title": "新北市私立真理蒙特梭利幼兒園",
+        "owner": "梁曉嵐",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]興南路一段34巷2號1、2、3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29495671",
+        "url": "新北市中和區興南路一段34巷2號",
+        "count_approved": "93",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "6ad6cab6-74fa-459b-86e8-786bcd74a4cc",
+        "monthly": 11545
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.51087,
+            24.991331
+        ]
+    }
+}

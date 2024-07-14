@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136072400號",
+        "reg_docno": "高市教幼字第10535647700號",
+        "reg_date": "2016\/08\/01",
+        "title": "高雄市三民區河堤國民小學附設幼兒園",
+        "owner": "杜昌霖",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "公立",
+        "address": "[807]裕誠路3號",
+        "floor": "1樓",
+        "size": "1,185.46平方公尺",
+        "size_in": "152.87平方公尺",
+        "size_out": "1,032.59平方公尺",
+        "tel": "(07)3436556#816",
+        "url": "高雄市三民區裕誠路3號",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2829e054-b43c-4d2f-ab40-8949188066b9",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3146897,
+            22.6637418
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11235081300號",
+        "reg_docno": "72府教國字第67524號",
+        "reg_date": "1983\/06\/30",
+        "title": "財團法人天主教奧思會附設高雄市私立奧思幼兒園",
+        "owner": "錢盛義",
+        "city": "高雄市",
+        "town": "大寮區",
+        "type": "私立",
+        "address": "[831]中正路4號",
+        "floor": "1樓、2樓",
+        "size": "1,182.24平方公尺",
+        "size_in": "337.98平方公尺",
+        "size_out": "844.26平方公尺",
+        "tel": "(07)7816520",
+        "url": "",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7b0578b8-aba5-4827-abbe-cf6022799a53",
+        "monthly": 7900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3866906,
+            22.6180527
+        ]
+    }
+}

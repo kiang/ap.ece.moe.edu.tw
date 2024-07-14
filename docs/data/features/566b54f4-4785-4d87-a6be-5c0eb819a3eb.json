@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1071612288號",
+        "reg_docno": "北府社兒字第0940575064號",
+        "reg_date": "2005\/07\/28",
+        "title": "新北市私立翊華幼兒園",
+        "owner": "葉耿華",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]民族路167巷3號1樓及2樓",
+        "floor": "1.2樓",
+        "size": "329平方公尺",
+        "size_in": "209平方公尺",
+        "size_out": "120平方公尺",
+        "tel": "(02)28487265",
+        "url": "http:\/\/www.yihua-kindergarten.com\/",
+        "count_approved": "59",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "566b54f4-4785-4d87-a6be-5c0eb819a3eb",
+        "monthly": 9000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4788288,
+            25.0882454
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0109號",
+        "reg_docno": "88北府社四字第88165932號",
+        "reg_date": "1999\/05\/03",
+        "title": "新北市私立智翔幼兒園",
+        "owner": "葉惠玲",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]陽明街134號及136號1樓、2樓",
+        "floor": "1.2",
+        "size": "4,473.899平方公尺",
+        "size_in": "4,473.899平方公尺",
+        "size_out": "",
+        "tel": "(02)22596441",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "dc329e9e-5763-4912-917f-4b3edf80cdb1",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.463639,
+            25.023755
+        ]
+    }
+}

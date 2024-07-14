@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620蘆洲0020號",
+        "reg_docno": "北府社兒字第0910671542號",
+        "reg_date": "2002\/11\/15",
+        "title": "新北市私立美敦幼兒園",
+        "owner": "彭愛主",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]中原路21巷4號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22882099",
+        "url": "http:\/\/modern.blogkids.net\/",
+        "count_approved": "47",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ca6aa335-2f20-4e75-b392-7f981b4c6e4c",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4605808,
+            25.0826569
+        ]
+    }
+}

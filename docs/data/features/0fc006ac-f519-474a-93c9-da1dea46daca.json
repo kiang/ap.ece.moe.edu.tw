@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10935803500號",
+        "reg_docno": "高市教幼字第10935803500號",
+        "reg_date": "2020\/07\/29",
+        "title": "高雄市私立寶貝明星幼兒園",
+        "owner": "簡光明",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "私立",
+        "address": "[812]桂華街303號",
+        "floor": "1樓",
+        "size": "830.41平方公尺",
+        "size_in": "379.91平方公尺",
+        "size_out": "450.5平方公尺",
+        "tel": "(07)7912977",
+        "url": "",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0fc006ac-f519-474a-93c9-da1dea46daca",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.354427,
+            22.583306
+        ]
+    }
+}

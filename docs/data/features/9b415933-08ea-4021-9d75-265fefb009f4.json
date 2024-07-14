@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11223228100號",
+        "reg_docno": "屏府社福字第0960109366號",
+        "reg_date": "2004\/07\/30",
+        "title": "屏東縣私立東港晴慧幼兒園",
+        "owner": "凃晴慧",
+        "city": "屏東縣",
+        "town": "東港鎮",
+        "type": "私立",
+        "address": "[928]水源一街37號",
+        "floor": "1-3",
+        "size": "659.91平方公尺",
+        "size_in": "367.91平方公尺",
+        "size_out": "292平方公尺",
+        "tel": "(08)8335805",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9b415933-08ea-4021-9d75-265fefb009f4",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4613,
+            22.4651
+        ]
+    }
+}

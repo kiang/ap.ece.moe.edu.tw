@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090000801號",
+        "reg_docno": "府教幼字第1070191378號",
+        "reg_date": "2018\/07\/31",
+        "title": "桃園市楊光非營利幼兒園（委託社團法人新竹市教保人員協會辦理）",
+        "owner": "許玉齡",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "非營利",
+        "address": "[326]瑞溪路一段88號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4810085",
+        "url": "www.facebook.com\/profile.php?id=100064044040148",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f3bfb2dd-357d-42aa-9030-d87b279bfd7a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1680588,
+            24.9071013
+        ]
+    }
+}

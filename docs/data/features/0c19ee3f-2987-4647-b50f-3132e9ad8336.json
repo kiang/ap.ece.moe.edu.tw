@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010027479號",
+        "reg_docno": "中市府社婦字第8915號",
+        "reg_date": "2000\/05\/09",
+        "title": "臺中市私立貴麟幼兒園",
+        "owner": "歐志良",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]大墩十街184號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23261998",
+        "url": "台中市大墩十街184",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0c19ee3f-2987-4647-b50f-3132e9ad8336",
+        "monthly": 8500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6502376,
+            24.1477719
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第643-4號",
+        "reg_docno": "北市社五字第00193號",
+        "reg_date": "1997\/01\/16",
+        "title": "臺北市私立聖安幼兒園",
+        "owner": "吳樺蓁",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "私立",
+        "address": "[114]民權東路六段296巷75號1樓",
+        "floor": "1樓",
+        "size": "166.39平方公尺",
+        "size_in": "166.39平方公尺",
+        "size_out": "",
+        "tel": "(02)26329810",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "37975c23-5fd3-43e8-802a-b2e41547eab6",
+        "monthly": 4000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.60776,
+            25.070927
+        ]
+    }
+}

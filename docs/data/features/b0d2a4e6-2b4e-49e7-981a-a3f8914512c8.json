@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136145600號",
+        "reg_docno": "85府教學字第97743號",
+        "reg_date": "1996\/05\/24",
+        "title": "高雄市大社區觀音國民小學附設幼兒園",
+        "owner": "何淑貞",
+        "city": "高雄市",
+        "town": "大社區",
+        "type": "公立",
+        "address": "[815]文明路100號",
+        "floor": "1樓",
+        "size": "659.616平方公尺",
+        "size_in": "185.816平方公尺",
+        "size_out": "473.8平方公尺",
+        "tel": "(07)3525583#51",
+        "url": "http:\/\/www.gi.ks.edu.tw",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b0d2a4e6-2b4e-49e7-981a-a3f8914512c8",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.356116,
+            22.723493
+        ]
+    }
+}

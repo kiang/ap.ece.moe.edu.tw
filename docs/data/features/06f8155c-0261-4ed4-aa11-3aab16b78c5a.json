@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010711370號",
+        "reg_docno": "府社福字第0920188115號",
+        "reg_date": "2003\/11\/05",
+        "title": "臺南市北門區農會附設臺南市私立幼兒園",
+        "owner": "洪明農",
+        "city": "臺南市",
+        "town": "北門區",
+        "type": "私立",
+        "address": "[727]118-1號",
+        "floor": "1~2",
+        "size": "1,084.78平方公尺",
+        "size_in": "754.2平方公尺",
+        "size_out": "330.58平方公尺",
+        "tel": "(06)7860472",
+        "url": "www.beimen.org.tw",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "06f8155c-0261-4ed4-aa11-3aab16b78c5a",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1261063,
+            23.2702637
+        ]
+    }
+}

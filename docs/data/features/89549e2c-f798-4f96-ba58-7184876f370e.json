@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1110835622號",
+        "reg_docno": "南市教特(一)字第1110835622號",
+        "reg_date": "2022\/07\/04",
+        "title": "臺南市私立荷本藝術幼兒園",
+        "owner": "蔡謦蓮",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]裕英街101號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)3316367",
+        "url": "",
+        "count_approved": "31",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "89549e2c-f798-4f96-ba58-7184876f370e",
+        "monthly": 14900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2431174,
+            22.9868695
+        ]
+    }
+}

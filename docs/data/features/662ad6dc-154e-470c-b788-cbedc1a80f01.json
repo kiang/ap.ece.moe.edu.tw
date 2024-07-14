@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120351409號",
+        "reg_docno": "七三彰府教學字第97393號",
+        "reg_date": "1984\/05\/18",
+        "title": "彰化縣田中鎮田中國民小學附設幼兒園",
+        "owner": "陳泗正",
+        "city": "彰化縣",
+        "town": "田中鎮",
+        "type": "公立",
+        "address": "[520]中州路一段177號",
+        "floor": "1樓",
+        "size": "1,426.78平方公尺",
+        "size_in": "581.58平方公尺",
+        "size_out": "845.2平方公尺",
+        "tel": "(04)8742013#775",
+        "url": "http:\/\/www.tjes.chc.edu.tw\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "662ad6dc-154e-470c-b788-cbedc1a80f01",
+        "monthly": 3542
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5876094,
+            23.8580635
+        ]
+    }
+}

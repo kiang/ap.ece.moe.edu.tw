@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第132-3號",
+        "reg_docno": "北市社五字第09133890000號",
+        "reg_date": "2002\/05\/27",
+        "title": "財團法人福智文教基金會附設臺北市私立妙慧幼兒園",
+        "owner": "盧克宙",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]南京東路4段133巷5弄25號1至2樓",
+        "floor": "1樓、2樓",
+        "size": "191.16平方公尺",
+        "size_in": "191.16平方公尺",
+        "size_out": "",
+        "tel": "(02)25451307",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "82c3082a-5266-4566-9a6f-138f1149a065",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.556071,
+            25.052151
+        ]
+    }
+}

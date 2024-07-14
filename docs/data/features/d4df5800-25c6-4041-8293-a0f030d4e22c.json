@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040026145號",
+        "reg_docno": "府社婦字第0920293327號",
+        "reg_date": "2003\/12\/19",
+        "title": "桃園市私立奇德爾幼兒園",
+        "owner": "古佳立",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "私立",
+        "address": "[326]新農街226巷1號1樓、3號1-2樓",
+        "floor": "1~2",
+        "size": "249.02平方公尺",
+        "size_in": "168.5平方公尺",
+        "size_out": "80.52平方公尺",
+        "tel": "(03)4854222",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d4df5800-25c6-4041-8293-a0f030d4e22c",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.152343,
+            24.909637
+        ]
+    }
+}

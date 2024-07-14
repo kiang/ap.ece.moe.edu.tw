@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110293949號",
+        "reg_docno": "府社兒字第0990279121號",
+        "reg_date": "1995\/10\/24",
+        "title": "桃園市立大園幼兒園",
+        "owner": "鐘靜芬",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "公立",
+        "address": "[337]忠孝三街19號",
+        "floor": "2.3樓",
+        "size": "2,144.24平方公尺",
+        "size_in": "1,241.66平方公尺",
+        "size_out": "",
+        "tel": "(03)3864025",
+        "url": "http:\/\/preschool.tyc.edu.tw\/dayuan\/index.php",
+        "count_approved": "240",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a8349f40-d2fd-4b84-a0b1-c27b2ba29222",
+        "monthly": 5212
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.19916,
+            25.065935
+        ]
+    }
+}

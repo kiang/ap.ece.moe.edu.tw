@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120174407號",
+        "reg_docno": "府教特字第0953009921號",
+        "reg_date": "2006\/04\/13",
+        "title": "臺東縣大武鄉尚武國民小學附設幼兒園",
+        "owner": "李治國",
+        "city": "臺東縣",
+        "town": "大武鄉",
+        "type": "公立",
+        "address": "[965]學府路7號",
+        "floor": "1樓",
+        "size": "5,040平方公尺",
+        "size_in": "107平方公尺",
+        "size_out": "4,933平方公尺",
+        "tel": "(089)791458#28",
+        "url": "http:\/\/www.swps.ttct.edu.tw\/front\/bin\/home.phtml",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "402cab51-657b-4c15-be4a-92c80d7361d8",
+        "monthly": 4056
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.889208,
+            22.340003
+        ]
+    }
+}

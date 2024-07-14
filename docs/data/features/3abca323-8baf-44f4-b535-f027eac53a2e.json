@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0028號",
+        "reg_docno": "八九北府社兒字第418058號",
+        "reg_date": "1987\/02\/01",
+        "title": "新北市立三重幼兒園崇德分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "公立",
+        "address": "[241]仁孝街62號1樓",
+        "floor": "1樓",
+        "size": "310.9平方公尺",
+        "size_in": "310.9平方公尺",
+        "size_out": "",
+        "tel": "(02)29725078",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3abca323-8baf-44f4-b535-f027eac53a2e",
+        "monthly": 3706
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.497257,
+            25.07462
+        ]
+    }
+}

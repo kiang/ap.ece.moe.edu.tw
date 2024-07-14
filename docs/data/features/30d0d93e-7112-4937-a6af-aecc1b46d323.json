@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11332469800號",
+        "reg_docno": "高市教幼字第11137307000號",
+        "reg_date": "2022\/09\/22",
+        "title": "勞動部勞動力發展署高屏澎東分署職場互助教保服務中心(委託社團法人高雄市社區教育協會辦理)",
+        "owner": "郭貽婷",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "私立",
+        "address": "[806]凱旋四路105號",
+        "floor": "1樓",
+        "size": "129.54平方公尺",
+        "size_in": "129.54平方公尺",
+        "size_out": "",
+        "tel": "(07)8230080",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100082965237552",
+        "count_approved": "24",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "30d0d93e-7112-4937-a6af-aecc1b46d323",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3085599,
+            22.5933786
+        ]
+    }
+}

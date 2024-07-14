@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122438512號",
+        "reg_docno": "府教特一字第1112431754號",
+        "reg_date": "2022\/07\/06",
+        "title": "雲林縣莿桐鄉饒平國民小學附設幼兒園",
+        "owner": "陳茂雄",
+        "city": "雲林縣",
+        "town": "莿桐鄉",
+        "type": "公立",
+        "address": "[647]饒平路1號",
+        "floor": "1樓",
+        "size": "446平方公尺",
+        "size_in": "126平方公尺",
+        "size_out": "320平方公尺",
+        "tel": "(05)5842071",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "572b2df7-76d5-438f-9ade-170fea8f1616",
+        "monthly": 4075
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.522261,
+            23.7772576
+        ]
+    }
+}

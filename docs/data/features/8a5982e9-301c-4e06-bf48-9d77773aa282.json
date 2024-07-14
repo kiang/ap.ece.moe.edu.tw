@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1130847863號",
+        "reg_docno": "府教特字第111121號",
+        "reg_date": "2001\/07\/30",
+        "title": "臺南市私立仁愛幼兒園",
+        "owner": "張淑伶",
+        "city": "臺南市",
+        "town": "歸仁區",
+        "type": "私立",
+        "address": "[711]沙崙北路550號",
+        "floor": "1-2樓",
+        "size": "1,411.32平方公尺",
+        "size_in": "734.64平方公尺",
+        "size_out": "676.68平方公尺",
+        "tel": "(06)3303222",
+        "url": "http:\/\/tw.myblog.yahoo.com\/top-kids",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8a5982e9-301c-4e06-bf48-9d77773aa282",
+        "monthly": 7100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.302806,
+            22.957277
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第316-2號",
+        "reg_docno": "北市教幼字第09740513900號",
+        "reg_date": "1970\/01\/01",
+        "title": "臺北市中山區大佳國民小學附設幼兒園",
+        "owner": "李鍾慧",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "公立",
+        "address": "[104]濱江街107號2樓",
+        "floor": "2樓",
+        "size": "904.095平方公尺",
+        "size_in": "304.095平方公尺",
+        "size_out": "600平方公尺",
+        "tel": "(02)25059744",
+        "url": "http:\/\/www.djes.tp.edu.tw\/幼稚園\/index.html",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7c49a409-ed5a-42a1-bb58-e84c41011b67",
+        "monthly": 6601
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5363674,
+            25.073294
+        ]
+    }
+}

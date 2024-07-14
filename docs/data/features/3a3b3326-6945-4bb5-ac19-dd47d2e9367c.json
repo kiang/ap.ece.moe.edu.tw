@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1040182246號",
+        "reg_docno": "府社福字第0960130877號",
+        "reg_date": "2007\/09\/04",
+        "title": "苗栗縣私立幼竹幼兒園",
+        "owner": "葉仙凡",
+        "city": "苗栗縣",
+        "town": "苗栗市",
+        "type": "私立",
+        "address": "[360]自治路466號",
+        "floor": "1樓、1",
+        "size": "467.45平方公尺",
+        "size_in": "128.12平方公尺",
+        "size_out": "339.33平方公尺",
+        "tel": "(037)368388",
+        "url": "",
+        "count_approved": "108",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3a3b3326-6945-4bb5-ac19-dd47d2e9367c",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8172644,
+            24.5709286
+        ]
+    }
+}

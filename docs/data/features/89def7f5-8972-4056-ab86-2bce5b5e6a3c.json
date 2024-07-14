@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0092號",
+        "reg_docno": "北府教幼字第1023337227號",
+        "reg_date": "2014\/02\/21",
+        "title": "新北市私立新二重幼兒園",
+        "owner": "金瑃美",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]忠孝路三段93巷6號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)89815751",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "89def7f5-8972-4056-ab86-2bce5b5e6a3c",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.481988,
+            25.067506
+        ]
+    }
+}

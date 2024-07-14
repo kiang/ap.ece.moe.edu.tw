@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110158203號",
+        "reg_docno": "府教學前字第1110158203號",
+        "reg_date": "2022\/08\/01",
+        "title": "苗栗縣大湖鄉東興國民小學附設幼兒園",
+        "owner": "陳亭儒",
+        "city": "苗栗縣",
+        "town": "大湖鄉",
+        "type": "公立",
+        "address": "[364]下湖37號",
+        "floor": "1樓",
+        "size": "1,675.29平方公尺",
+        "size_in": "135.29平方公尺",
+        "size_out": "1,540平方公尺",
+        "tel": "(037)992815#19",
+        "url": "https:\/\/dss.mlc.edu.tw\/Home\/Index.php",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ae091d7c-d497-4cb4-8c84-519c8de148b4",
+        "monthly": 3655
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8828384,
+            24.3806184
+        ]
+    }
+}

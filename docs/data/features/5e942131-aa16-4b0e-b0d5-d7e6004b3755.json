@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122405886號",
+        "reg_docno": "八四考台組貳一字第02400號",
+        "reg_date": "1995\/04\/12",
+        "title": "雲林縣四湖鄉立幼兒園",
+        "owner": "吳勁葦",
+        "city": "雲林縣",
+        "town": "四湖鄉",
+        "type": "公立",
+        "address": "[654]中洋南路10-2號",
+        "floor": "1樓、2樓",
+        "size": "4,806.67平方公尺",
+        "size_in": "2,396.85平方公尺",
+        "size_out": "2,409.82平方公尺",
+        "tel": "(05)7873623",
+        "url": "",
+        "count_approved": "250",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5e942131-aa16-4b0e-b0d5-d7e6004b3755",
+        "monthly": 3147
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.197859,
+            23.639072
+        ]
+    }
+}

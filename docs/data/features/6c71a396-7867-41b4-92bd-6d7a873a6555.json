@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110296829號",
+        "reg_docno": "府教幼字第1060209661號",
+        "reg_date": "2017\/08\/30",
+        "title": "桃園市大有非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+        "owner": "郭淑雅",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "非營利",
+        "address": "[330]大有路220號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3560567",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6c71a396-7867-41b4-92bd-6d7a873a6555",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3200763,
+            25.0095664
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1120078871號",
+        "reg_docno": "府教學前字第1080144922號",
+        "reg_date": "2019\/08\/01",
+        "title": "苗栗縣僑善非營利幼兒園（委託財團法人福榮融合教育推廣基金會辦理）",
+        "owner": "吳淑美",
+        "city": "苗栗縣",
+        "town": "頭份市",
+        "type": "非營利",
+        "address": "[351]中正一路395號",
+        "floor": "1樓",
+        "size": "1,607.72平方公尺",
+        "size_in": "402.72平方公尺",
+        "size_out": "1,205平方公尺",
+        "tel": "(037)680639",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "04617fec-64e0-4da0-a214-9a75dc97be59",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9348653,
+            24.6860977
+        ]
+    }
+}

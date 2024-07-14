@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第782號",
+        "reg_docno": "北市教前字第1083089878號",
+        "reg_date": "2019\/12\/06",
+        "title": "臺北市私立愛德恩幼兒園",
+        "owner": "李宏珍",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]石牌路二段303號",
+        "floor": "1樓",
+        "size": "318.9平方公尺",
+        "size_in": "191.52平方公尺",
+        "size_out": "127.38平方公尺",
+        "tel": "(02)28755589",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "33afc21c-8995-4234-8c28-a7fa247e8cad",
+        "monthly": 33600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.522816,
+            25.1214519
+        ]
+    }
+}

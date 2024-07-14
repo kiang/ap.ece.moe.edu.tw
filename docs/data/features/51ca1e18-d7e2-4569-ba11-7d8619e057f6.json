@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120071020號",
+        "reg_docno": "(75)府社福托字第83865號",
+        "reg_date": "1986\/09\/30",
+        "title": "新竹市私立華興幼兒園",
+        "owner": "白欣蓉",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]東山街22號1-2樓",
+        "floor": "1-2",
+        "size": "265.5平方公尺",
+        "size_in": "167平方公尺",
+        "size_out": "98.5平方公尺",
+        "tel": "(03)5714730",
+        "url": "",
+        "count_approved": "69",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "51ca1e18-d7e2-4569-ba11-7d8619e057f6",
+        "monthly": 5650
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.980266,
+            24.795983
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110119227號",
+        "reg_docno": "七四府教國字第80392號",
+        "reg_date": "1985\/09\/01",
+        "title": "新竹市北區北門國民小學附設幼兒園",
+        "owner": "李敦仁",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "公立",
+        "address": "[300]水田街33號",
+        "floor": "1樓、2樓",
+        "size": "3,137.29平方公尺",
+        "size_in": "1,120.29平方公尺",
+        "size_out": "2,017平方公尺",
+        "tel": "(03)5316668#510",
+        "url": "https:\/\/reurl.cc\/2DG1mr",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "378765ed-250d-416f-b079-5b73d97d0ea6",
+        "monthly": 3729
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.965668,
+            24.813708
+        ]
+    }
+}

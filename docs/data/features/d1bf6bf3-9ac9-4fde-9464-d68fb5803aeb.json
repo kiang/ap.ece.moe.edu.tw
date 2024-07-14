@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第1133493660號",
+        "reg_docno": "高市教幼字第10936478900號",
+        "reg_date": "2020\/09\/29",
+        "title": "高雄市私立柏恩格幼兒園",
+        "owner": "蔣湄蓁",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]重信路146巷9號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,005.78平方公尺",
+        "size_in": "660.39平方公尺",
+        "size_out": "345.39平方公尺",
+        "tel": "(07)3497699",
+        "url": "",
+        "count_approved": "115",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d1bf6bf3-9ac9-4fde-9464-d68fb5803aeb",
+        "monthly": 23500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3154295,
+            22.6816726
+        ]
+    }
+}

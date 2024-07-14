@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070067145號",
+        "reg_docno": "六六彰府教國字第63302號",
+        "reg_date": "1977\/07\/04",
+        "title": "彰化縣溪湖鎮湖東國民小學附設幼兒園",
+        "owner": "王麗惠",
+        "city": "彰化縣",
+        "town": "溪湖鎮",
+        "type": "公立",
+        "address": "[514]大溪路二段423號",
+        "floor": "1樓",
+        "size": "1,342.36平方公尺",
+        "size_in": "670.36平方公尺",
+        "size_out": "672平方公尺",
+        "tel": "(04)8852062#21",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a81b71bd-e4bc-433f-bdbb-90c4c3d1ddb8",
+        "monthly": 3542
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.482419,
+            23.963789
+        ]
+    }
+}

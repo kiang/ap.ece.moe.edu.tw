@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620淡水0033號",
+        "reg_docno": "北府社兒字第0920455840號",
+        "reg_date": "2003\/07\/14",
+        "title": "新北市私立快樂家族幼兒園",
+        "owner": "康淑惠",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "私立",
+        "address": "[251]八勢一街40號1樓、2樓",
+        "floor": "1.2樓",
+        "size": "157.96平方公尺",
+        "size_in": "157.96平方公尺",
+        "size_out": "",
+        "tel": "(02)28085878",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ffcb9cfb-cf6f-4c26-8e26-1856c13b2d3c",
+        "monthly": 5040
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4613146,
+            25.1548826
+        ]
+    }
+}

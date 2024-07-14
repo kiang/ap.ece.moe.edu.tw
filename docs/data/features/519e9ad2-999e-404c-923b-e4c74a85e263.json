@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10337377700號",
+        "reg_docno": "89府社福字第8900153085號",
+        "reg_date": "2000\/09\/07",
+        "title": "高雄市私立潛能幼兒園",
+        "owner": "郭哲雄",
+        "city": "高雄市",
+        "town": "橋頭區",
+        "type": "私立",
+        "address": "[825]大仁路16、30號",
+        "floor": "1至2樓",
+        "size": "1,653.23平方公尺",
+        "size_in": "491.03平方公尺",
+        "size_out": "1,162.2平方公尺",
+        "tel": "(07)6111824",
+        "url": "http:\/\/clworld.myweb.hinet.net",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "519e9ad2-999e-404c-923b-e4c74a85e263",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.301723,
+            22.747932
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10136736700號",
+        "reg_docno": "高市教育三字第28714號",
+        "reg_date": "1989\/09\/05",
+        "title": "高雄市私立美佳園幼兒園",
+        "owner": "江保樺",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]臥龍路23巷20號",
+        "floor": "1-2樓",
+        "size": "2,729.29平方公尺",
+        "size_in": "643平方公尺",
+        "size_out": "2,086.29平方公尺",
+        "tel": "(07)3846316",
+        "url": "www.bowjinn.com.tw\/homepage\/Default.asp",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "af72a890-1b08-49bc-9c49-9af9b446471a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.32877,
+            22.638102
+        ]
+    }
+}

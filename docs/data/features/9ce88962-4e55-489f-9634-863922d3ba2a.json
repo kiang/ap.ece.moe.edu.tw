@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120274295號",
+        "reg_docno": "府教幼字第1120202306號",
+        "reg_date": "2023\/07\/28",
+        "title": "桃園市金龍非營利幼兒園(委託社團法人臺灣亞洲學前教育培訓協會辦理)",
+        "owner": "趙婉娟",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "非營利",
+        "address": "[326]中興路238號C棟1樓",
+        "floor": "1樓",
+        "size": "1,914.69平方公尺",
+        "size_in": "1,619.29平方公尺",
+        "size_out": "295.4平方公尺",
+        "tel": "(03)4314281",
+        "url": "評鑑情形：",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9ce88962-4e55-489f-9634-863922d3ba2a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1866048,
+            24.9143617
+        ]
+    }
+}

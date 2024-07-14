@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11201703100號",
+        "reg_docno": "屏府社婦字第1000322323號",
+        "reg_date": "1979\/07\/01",
+        "title": "屏東縣瑪家鄉立幼兒園",
+        "owner": "羅清仁",
+        "city": "屏東縣",
+        "town": "瑪家鄉",
+        "type": "公立",
+        "address": "[903]風景路1-18號1樓",
+        "floor": "1樓",
+        "size": "410.2平方公尺",
+        "size_in": "355.45平方公尺",
+        "size_out": "54.75平方公尺",
+        "tel": "(08)7994441",
+        "url": "屏東縣瑪家鄉北葉村風景1-18號",
+        "count_approved": "40",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f30c1337-de6e-4937-8ce2-9f5b601a7268",
+        "monthly": 2346
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6494041,
+            22.7086764
+        ]
+    }
+}

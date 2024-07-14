@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第353-3號",
+        "reg_docno": "北市教三字第71382號",
+        "reg_date": "1986\/01\/16",
+        "title": "臺北市私立上群蒙特梭利忠孝幼兒園",
+        "owner": "邱瓊儀",
+        "city": "臺北市",
+        "town": "信義區",
+        "type": "私立",
+        "address": "[110]忠孝東路5段207號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27693636",
+        "url": "http:\/\/www.scm-children.com.tw\/",
+        "count_approved": "70",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：10",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cb19c061-51d6-44d5-bbda-7111b09d7ca5",
+        "monthly": 15900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5697957,
+            25.0411044
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教特字第10134452100號",
+        "reg_docno": "屏府社福字第0950015923號",
+        "reg_date": "2006\/01\/19",
+        "title": "屏東縣私立信華幼兒園",
+        "owner": "潘金物",
+        "city": "屏東縣",
+        "town": "鹽埔鄉",
+        "type": "私立",
+        "address": "[907]民生路2號",
+        "floor": "1樓、2樓",
+        "size": "313.84平方公尺",
+        "size_in": "150.45平方公尺",
+        "size_out": "163.39平方公尺",
+        "tel": "(08)7939988",
+        "url": "http:\/\/www.iyp.com.tw\/087939988\/?main=info&func=storeinfo",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9b6712c1-1880-4332-b5ab-a0a045c79f57",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5837,
+            22.7402
+        ]
+    }
+}

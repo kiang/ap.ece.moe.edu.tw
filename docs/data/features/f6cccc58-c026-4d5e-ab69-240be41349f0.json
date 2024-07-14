@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第11102833601號",
+        "reg_docno": "89府教國字第77341號",
+        "reg_date": "2000\/07\/04",
+        "title": "財團法人天主教會嘉義教區附設嘉義縣私立星海幼兒園",
+        "owner": "",
+        "city": "嘉義縣",
+        "town": "義竹鄉",
+        "type": "私立",
+        "address": "[624]423-2號",
+        "floor": "1~3樓",
+        "size": "1,646.52平方公尺",
+        "size_in": "910.89平方公尺",
+        "size_out": "735.63平方公尺",
+        "tel": "(05)3411108",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f6cccc58-c026-4d5e-ab69-240be41349f0",
+        "monthly": 4700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.242534,
+            23.336929
+        ]
+    }
+}

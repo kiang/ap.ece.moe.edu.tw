@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070076590號",
+        "reg_docno": "74府教國字第111902號",
+        "reg_date": "1985\/07\/03",
+        "title": "臺中市龍井區龍峰國民小學附設幼兒園",
+        "owner": "張素蓉",
+        "city": "臺中市",
+        "town": "龍井區",
+        "type": "公立",
+        "address": "[434]中沙路2號",
+        "floor": "1樓、2樓",
+        "size": "1,987.84平方公尺",
+        "size_in": "1,627.84平方公尺",
+        "size_out": "360平方公尺",
+        "tel": "(04)26313018#702",
+        "url": "http:\/\/css000000243305.tw.class.uschoolnet.com\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "89f95b5a-c259-470e-a94c-91c82d1ffcef",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.575694,
+            24.181186
+        ]
+    }
+}

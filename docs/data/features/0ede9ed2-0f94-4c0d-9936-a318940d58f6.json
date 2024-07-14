@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120225644號",
+        "reg_docno": "府教幼字第1100187510號",
+        "reg_date": "2021\/08\/01",
+        "title": "桃園市新屋區啟文國民小學附設幼兒園",
+        "owner": "盧文平",
+        "city": "桃園市",
+        "town": "新屋區",
+        "type": "公立",
+        "address": "[327]新文路762號",
+        "floor": "1樓",
+        "size": "213平方公尺",
+        "size_in": "113平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(03)4772077#28",
+        "url": "www.kves.tyc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0ede9ed2-0f94-4c0d-9936-a318940d58f6",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.11665,
+            24.97899
+        ]
+    }
+}

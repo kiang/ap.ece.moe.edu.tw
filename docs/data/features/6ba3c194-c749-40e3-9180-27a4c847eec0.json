@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138895700號",
+        "reg_docno": "府社福字第0920171595號",
+        "reg_date": "2003\/09\/24",
+        "title": "高雄市私立棨揚幼兒園",
+        "owner": "傅陳雲芳",
+        "city": "高雄市",
+        "town": "大寮區",
+        "type": "私立",
+        "address": "[831]內厝路130號1至3樓",
+        "floor": "1-3樓",
+        "size": "109.84平方公尺",
+        "size_in": "109.84平方公尺",
+        "size_out": "",
+        "tel": "(07)7830861",
+        "url": "",
+        "count_approved": "25",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "630edacb-85eb-41c5-bf01-894fbf9726b3",
+        "monthly": 4833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3922383,
+            22.6074256
+        ]
+    }
+}

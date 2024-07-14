@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010570728號",
+        "reg_docno": "南市社福字第13642號",
+        "reg_date": "1997\/04\/22",
+        "title": "臺南市私立娘親幼兒園",
+        "owner": "陳忠志",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]安中路4段240巷11號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2479998",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4740b97c-331b-40e4-b5ff-085ba2c5f97d",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.167512,
+            23.051313
+        ]
+    }
+}

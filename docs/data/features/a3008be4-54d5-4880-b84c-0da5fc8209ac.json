@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680鶯歌0006之3號",
+        "reg_docno": "八九北府教社字第020579號",
+        "reg_date": "2000\/01\/13",
+        "title": "新北市鶯歌區中湖國民小學附設幼兒園",
+        "owner": "陳進德",
+        "city": "新北市",
+        "town": "鶯歌區",
+        "type": "公立",
+        "address": "[239]中湖街25號",
+        "floor": "1樓",
+        "size": "561.6平方公尺",
+        "size_in": "331.6平方公尺",
+        "size_out": "230平方公尺",
+        "tel": "(02)86775640",
+        "url": "https:\/\/www.facebook.com\/chueskidergarten\/",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a3008be4-54d5-4880-b84c-0da5fc8209ac",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.348355,
+            24.972962
+        ]
+    }
+}

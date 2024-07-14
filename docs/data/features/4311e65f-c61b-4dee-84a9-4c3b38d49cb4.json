@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11234790600號",
+        "reg_docno": "高市教幼字第11135976800號",
+        "reg_date": "2023\/08\/01",
+        "title": "國軍退除役官兵輔導委員會高雄榮譽國民之家職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+        "owner": "呂佳旻",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "私立",
+        "address": "[811]加昌路631號",
+        "floor": "1樓",
+        "size": "9,168.16平方公尺",
+        "size_in": "245.1平方公尺",
+        "size_out": "8,923.06平方公尺",
+        "tel": "(07)3012100",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4311e65f-c61b-4dee-84a9-4c3b38d49cb4",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3030519,
+            22.7159302
+        ]
+    }
+}

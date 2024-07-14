@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第632-3號",
+        "reg_docno": "北市社婦幼字第09741618300號",
+        "reg_date": "2008\/11\/03",
+        "title": "臺北市私立宛的弗幼兒園",
+        "owner": "劉湫香",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]忠順街二段26及26之1號1樓至2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29391207",
+        "url": "http:\/\/wonder.blogkids.net\/",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：18",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ff30a3bd-1388-4951-aec5-e04e34775c1d",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.563526,
+            24.984721
+        ]
+    }
+}

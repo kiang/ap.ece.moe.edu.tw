@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599淡水0059號",
+        "reg_docno": "新北府教幼字第1111320833號",
+        "reg_date": "2022\/08\/01",
+        "title": "經濟部台灣自來水公司第一區管理處職場互助教保服務中心(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "私立",
+        "address": "[251]淡金路一段497號",
+        "floor": "1樓",
+        "size": "167.9平方公尺",
+        "size_in": "167.9平方公尺",
+        "size_out": "",
+        "tel": "(02)26221690",
+        "url": "http:\/\/www.3-3life.org.tw\/index.php?m=Yzy&a=msList&eId=72&sId=12",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f983a143-021d-4c5d-99bd-765242d5e97d",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4542327,
+            25.1783385
+        ]
+    }
+}

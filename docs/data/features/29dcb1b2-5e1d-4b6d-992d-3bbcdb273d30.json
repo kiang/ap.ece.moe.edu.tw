@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1011505425號",
+        "reg_docno": "府教特字第0940111251號",
+        "reg_date": "2005\/10\/12",
+        "title": "嘉義市私立貝萊登幼兒園",
+        "owner": "李琇如",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]林森東路539號",
+        "floor": "1樓、2樓",
+        "size": "967.25平方公尺",
+        "size_in": "544.5平方公尺",
+        "size_out": "407.75平方公尺",
+        "tel": "(05)2752988",
+        "url": "tina081783@yahoo.com.tw",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "29dcb1b2-5e1d-4b6d-992d-3bbcdb273d30",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4759888,
+            23.4922948
+        ]
+    }
+}

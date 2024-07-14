@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620林口0018號",
+        "reg_docno": "九十北府社兒字第90030888號",
+        "reg_date": "2001\/01\/17",
+        "title": "新北市私立林口愛丁堡幼兒園",
+        "owner": "蘇惠娟",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]中興街30號1、2樓",
+        "floor": "2",
+        "size": "165.6平方公尺",
+        "size_in": "165.6平方公尺",
+        "size_out": "",
+        "tel": "(02)26014082",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b73b224d-b0fc-4798-815e-5eb3277e5993",
+        "monthly": 7900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.38888,
+            25.077128
+        ]
+    }
+}

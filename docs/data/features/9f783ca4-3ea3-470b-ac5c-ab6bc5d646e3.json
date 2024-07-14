@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070150976號",
+        "reg_docno": "71府社福字第65928號",
+        "reg_date": "1982\/09\/27",
+        "title": "宜蘭縣私立安康幼兒園",
+        "owner": "吳松輝",
+        "city": "宜蘭縣",
+        "town": "宜蘭市",
+        "type": "私立",
+        "address": "[260]金六結路155號",
+        "floor": "1樓",
+        "size": "5,812.5平方公尺",
+        "size_in": "1,270.94平方公尺",
+        "size_out": "4,541.56平方公尺",
+        "tel": "(03)9323564",
+        "url": "http:\/\/ankan.com.tw\/",
+        "count_approved": "200",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9f783ca4-3ea3-470b-ac5c-ab6bc5d646e3",
+        "monthly": 13100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.739862,
+            24.753885
+        ]
+    }
+}

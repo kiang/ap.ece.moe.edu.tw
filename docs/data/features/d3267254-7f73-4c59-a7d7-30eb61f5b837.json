@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新店0082號",
+        "reg_docno": "新北府教幼字第1090020203號",
+        "reg_date": "2020\/02\/14",
+        "title": "新北市私立禾米國際幼兒園",
+        "owner": "吳政勲",
+        "city": "新北市",
+        "town": "新店區",
+        "type": "私立",
+        "address": "[231]復興路10-2號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29161730",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d3267254-7f73-4c59-a7d7-30eb61f5b837",
+        "monthly": 22400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5403413,
+            24.9868905
+        ]
+    }
+}

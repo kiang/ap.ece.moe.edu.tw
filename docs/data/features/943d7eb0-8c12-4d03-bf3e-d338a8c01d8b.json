@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120196764號",
+        "reg_docno": "府教國字第52063號",
+        "reg_date": "1988\/08\/08",
+        "title": "嘉義縣朴子市大鄉國民小學附設幼兒園",
+        "owner": "曾南薰",
+        "city": "嘉義縣",
+        "town": "朴子市",
+        "type": "公立",
+        "address": "[613]大槺榔560號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3792952",
+        "url": "http:\/\/www.dsps.cyc.edu.tw",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "943d7eb0-8c12-4d03-bf3e-d338a8c01d8b",
+        "monthly": 3790
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.261282,
+            23.453082
+        ]
+    }
+}

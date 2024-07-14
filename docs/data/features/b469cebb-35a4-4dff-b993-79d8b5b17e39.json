@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680五股0013之1號",
+        "reg_docno": "北府社兒字第0910154122號",
+        "reg_date": "2002\/04\/16",
+        "title": "新北市立五股幼兒園更新分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "五股區",
+        "type": "公立",
+        "address": "[248]更洲路47號2樓",
+        "floor": "2樓",
+        "size": "274.75平方公尺",
+        "size_in": "274.75平方公尺",
+        "size_out": "",
+        "tel": "(02)29826950#11",
+        "url": "http:\/\/www.daycare-wugu.ntpc.gov.tw\/_file\/3012\/SG\/44449\/47875.html",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b469cebb-35a4-4dff-b993-79d8b5b17e39",
+        "monthly": 3706
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4571909,
+            25.0794437
+        ]
+    }
+}

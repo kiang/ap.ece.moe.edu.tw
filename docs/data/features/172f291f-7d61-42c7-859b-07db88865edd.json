@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070073526號",
+        "reg_docno": "中市教幼字第1060073634號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺中市北屯區僑孝國民小學附設幼兒園",
+        "owner": "游榮祥",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "公立",
+        "address": "[406]北屯路435號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22447049#771",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "172f291f-7d61-42c7-859b-07db88865edd",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7001072,
+            24.1781991
+        ]
+    }
+}

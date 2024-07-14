@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1120330505號",
+        "reg_docno": "府社婦幼字第1000007606H號",
+        "reg_date": "1976\/08\/25",
+        "title": "新竹縣新埔鎮立幼兒園",
+        "owner": "陳英樓",
+        "city": "新竹縣",
+        "town": "新埔鎮",
+        "type": "公立",
+        "address": "[305]照鏡30-2號",
+        "floor": "1樓、2樓",
+        "size": "556.3平方公尺",
+        "size_in": "366.3平方公尺",
+        "size_out": "190平方公尺",
+        "tel": "(03)5898187",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0e706bce-7c05-4d04-95a7-84c8025321e6",
+        "monthly": 3600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.115682,
+            24.855077
+        ]
+    }
+}

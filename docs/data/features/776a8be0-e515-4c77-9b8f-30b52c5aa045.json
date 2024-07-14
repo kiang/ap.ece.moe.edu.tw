@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120016855號",
+        "reg_docno": "府人一字第68452號",
+        "reg_date": "1996\/06\/17",
+        "title": "嘉義縣布袋鎮立布袋幼兒園",
+        "owner": "蔡瑋傑",
+        "city": "嘉義縣",
+        "town": "布袋鎮",
+        "type": "公立",
+        "address": "[625]東港130號之21",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3478391",
+        "url": "http:\/\/www.life.budai.gov.tw\/BDNS\/02\/0201.aspx",
+        "count_approved": "200",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "776a8be0-e515-4c77-9b8f-30b52c5aa045",
+        "monthly": 2955
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.190846,
+            23.381948
+        ]
+    }
+}

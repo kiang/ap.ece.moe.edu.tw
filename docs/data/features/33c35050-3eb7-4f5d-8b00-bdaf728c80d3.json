@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090186821號",
+        "reg_docno": "府教學字第09400837780號",
+        "reg_date": "2005\/04\/27",
+        "title": "南投縣仁愛鄉力行國民小學附設幼兒園",
+        "owner": "吳松輝",
+        "city": "南投縣",
+        "town": "仁愛鄉",
+        "type": "公立",
+        "address": "[546]新望洋67號",
+        "floor": "1樓",
+        "size": "597平方公尺",
+        "size_in": "105平方公尺",
+        "size_out": "",
+        "tel": "(049)2955078#21",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "33c35050-3eb7-4f5d-8b00-bdaf728c80d3",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.188925,
+            24.148185
+        ]
+    }
+}

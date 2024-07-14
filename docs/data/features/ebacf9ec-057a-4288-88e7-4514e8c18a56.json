@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100184985號",
+        "reg_docno": "府教國字第15267號",
+        "reg_date": "1988\/04\/01",
+        "title": "嘉義縣鹿草鄉後塘國民小學附設幼兒園",
+        "owner": "蔡志榮",
+        "city": "嘉義縣",
+        "town": "鹿草鄉",
+        "type": "公立",
+        "address": "[611]毛蟹行11號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3752548",
+        "url": "www.htes.cyc.edu.tw",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ebacf9ec-057a-4288-88e7-4514e8c18a56",
+        "monthly": 3435
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.336886,
+            23.404407
+        ]
+    }
+}

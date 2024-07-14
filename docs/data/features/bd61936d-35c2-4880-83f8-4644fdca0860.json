@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0090號",
+        "reg_docno": "八九北府社兒字第89235023號",
+        "reg_date": "2000\/06\/17",
+        "title": "新北市私立子禕天地幼兒園",
+        "owner": "舒德玟",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]光興街2號1、2樓",
+        "floor": "一.二樓",
+        "size": "130.53平方公尺",
+        "size_in": "130.53平方公尺",
+        "size_out": "",
+        "tel": "(02)29736113",
+        "url": "",
+        "count_approved": "37",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bd61936d-35c2-4880-83f8-4644fdca0860",
+        "monthly": 6580
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4981,
+            25.0598319
+        ]
+    }
+}

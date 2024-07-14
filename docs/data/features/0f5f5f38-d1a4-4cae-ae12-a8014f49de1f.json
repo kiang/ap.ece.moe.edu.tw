@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129550002號",
+        "reg_docno": "府教特字第0960112590號",
+        "reg_date": "2007\/08\/10",
+        "title": "新竹縣私立康乃薾幼兒園",
+        "owner": "",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]嘉勤南路158號",
+        "floor": "1樓、2樓、3樓",
+        "size": "5,334.95平方公尺",
+        "size_in": "3,840.55平方公尺",
+        "size_out": "1,494.4平方公尺",
+        "tel": "(03)5587752#218",
+        "url": "http:\/\/www.korrnell.com.tw",
+        "count_approved": "452",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "0f5f5f38-d1a4-4cae-ae12-a8014f49de1f",
+        "monthly": 12100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.013629,
+            24.819731
+        ]
+    }
+}

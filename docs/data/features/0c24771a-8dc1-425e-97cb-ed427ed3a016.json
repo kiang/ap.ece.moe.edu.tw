@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050021175號",
+        "reg_docno": "中市教幼字第1050021175號",
+        "reg_date": "2016\/04\/15",
+        "title": "臺中市私立宸光幼兒園",
+        "owner": "黃振卿",
+        "city": "臺中市",
+        "town": "后里區",
+        "type": "私立",
+        "address": "[421]文化路54號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25582066",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "9574708b-9d51-448e-ab27-4d0402cc699e",
+        "monthly": 8500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7131275,
+            24.3078464
+        ]
+    }
+}

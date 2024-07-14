@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第31號",
+        "reg_docno": "北市教前字第11230352791號",
+        "reg_date": "2023\/04\/14",
+        "title": "內政部警政署職場互助教保服務中心（委託社團法人中華創造力訓練發展協會辦理）",
+        "owner": "陳龍安",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]忠孝東路一段7號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)77553707",
+        "url": "https:\/\/www.facebook.com\/npakids",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9004d942-91fb-46a8-ad18-d8e0e38cf2cf",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5226462,
+            25.0452184
+        ]
+    }
+}

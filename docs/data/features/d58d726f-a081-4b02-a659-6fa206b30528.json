@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10836458600號",
+        "reg_docno": "府社福字第102848號",
+        "reg_date": "1977\/11\/23",
+        "title": "高雄市私立心心幼兒園",
+        "owner": "呂劉麗紅",
+        "city": "高雄市",
+        "town": "旗山區",
+        "type": "私立",
+        "address": "[842]延平一路688巷23號",
+        "floor": "1樓",
+        "size": "716.21平方公尺",
+        "size_in": "349.7平方公尺",
+        "size_out": "366.51平方公尺",
+        "tel": "(07)6613883",
+        "url": "",
+        "count_approved": "130",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d58d726f-a081-4b02-a659-6fa206b30528",
+        "monthly": 9437
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.480952,
+            22.899467
+        ]
+    }
+}

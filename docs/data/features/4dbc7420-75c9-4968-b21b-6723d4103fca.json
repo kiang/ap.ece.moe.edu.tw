@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060070971號",
+        "reg_docno": "87府社幼字第0153號",
+        "reg_date": "1998\/11\/10",
+        "title": "臺中市私立大甲愛兒堡幼兒園",
+        "owner": "曾振偉",
+        "city": "臺中市",
+        "town": "大甲區",
+        "type": "私立",
+        "address": "[437]三民路二二八號",
+        "floor": "1樓、2樓",
+        "size": "1,375.47平方公尺",
+        "size_in": "886.2平方公尺",
+        "size_out": "489.27平方公尺",
+        "tel": "(04)26804123",
+        "url": "https:\/\/tceirbo.nde.tw\/",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4dbc7420-75c9-4968-b21b-6723d4103fca",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.62271,
+            24.35043
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新莊0057之6號",
+        "reg_docno": "八三北府教二字第043127號",
+        "reg_date": "1994\/02\/05",
+        "title": "新北市新莊區中港國民小學附設幼兒園",
+        "owner": "李後榮",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "公立",
+        "address": "[242]中港一街142號",
+        "floor": "1樓、2樓",
+        "size": "2,246平方公尺",
+        "size_in": "1,327平方公尺",
+        "size_out": "919平方公尺",
+        "tel": "(02)89790730#900",
+        "url": "http:\/\/120.102.234.86\/eduwebsystem\/?home=jgpskid",
+        "count_approved": "212",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fe8e739a-b6bd-42b6-94d0-10b473c70f3a",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.446941,
+            25.0451349
+        ]
+    }
+}

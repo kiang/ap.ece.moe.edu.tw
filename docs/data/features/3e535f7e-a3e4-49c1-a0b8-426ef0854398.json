@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0033號",
+        "reg_docno": "七三北府社三字第73281266號",
+        "reg_date": "1984\/08\/01",
+        "title": "新北市私立聯合幼兒園",
+        "owner": "翁允嫻",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]翠峰街2巷2號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26424215",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3e535f7e-a3e4-49c1-a0b8-426ef0854398",
+        "monthly": 4820
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.642014,
+            25.076049
+        ]
+    }
+}

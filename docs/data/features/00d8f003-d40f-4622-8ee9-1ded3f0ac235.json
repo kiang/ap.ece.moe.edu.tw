@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11334623800號",
+        "reg_docno": "高市教幼字第11334623800號",
+        "reg_date": "2024\/06\/18",
+        "title": "高雄市私立楠梓哈波特幼兒園",
+        "owner": "許明旗",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "私立",
+        "address": "[811]大學東路115、117號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3640839",
+        "url": "",
+        "count_approved": "344",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "00d8f003-d40f-4622-8ee9-1ded3f0ac235",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.28958,
+            22.726938
+        ]
+    }
+}

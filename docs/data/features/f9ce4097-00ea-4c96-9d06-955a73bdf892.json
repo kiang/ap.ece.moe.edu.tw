@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010937814號",
+        "reg_docno": "府社福字第181315號",
+        "reg_date": "1996\/10\/18",
+        "title": "臺南市私立智全幼兒園",
+        "owner": "林振嘉",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]永正路130號、中正路1巷76號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2322762",
+        "url": "http:\/\/chih-chuan.topschool.com.tw\/",
+        "count_approved": "125",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f9ce4097-00ea-4c96-9d06-955a73bdf892",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.253913,
+            23.027967
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1050134644號",
+        "reg_docno": "八二府教國字第92263號",
+        "reg_date": "1992\/11\/26",
+        "title": "新竹市私立天福幼兒園",
+        "owner": "吳俊明",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]明湖路143號",
+        "floor": "1樓",
+        "size": "379.72平方公尺",
+        "size_in": "162.72平方公尺",
+        "size_out": "217平方公尺",
+        "tel": "(03)5234125",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7d45c6ca-abf5-41ba-b28c-2726f1e78634",
+        "monthly": 15300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.968466,
+            24.793112
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080189726號",
+        "reg_docno": "88府教特字第82353號",
+        "reg_date": "1999\/04\/29",
+        "title": "桃園市私立大業幼兒園",
+        "owner": "黃建興",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]民有十三街85號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,647.76平方公尺",
+        "size_in": "1,347.01平方公尺",
+        "size_out": "815.25平方公尺",
+        "tel": "(03)3256232",
+        "url": "http:\/\/www.dayepreschool.com",
+        "count_approved": "235",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "99f5d0a3-250e-426f-aaf1-33af9f8ae79c",
+        "monthly": 13200
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.31421,
+            25.013848
+        ]
+    }
+}

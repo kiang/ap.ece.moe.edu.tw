@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11334673200號",
+        "reg_docno": "高市教幼字第11334673200號",
+        "reg_date": "2024\/06\/18",
+        "title": "高雄市私立路兒幼兒園",
+        "owner": "王界明",
+        "city": "高雄市",
+        "town": "路竹區",
+        "type": "私立",
+        "address": "[821]路科五路19號",
+        "floor": "1樓、2樓",
+        "size": "13,714.13平方公尺",
+        "size_in": "1,214平方公尺",
+        "size_out": "12,500.13平方公尺",
+        "tel": "(092)6652552",
+        "url": "",
+        "count_approved": "212",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "52840207-a70d-4ad2-80f7-e4366c02a5a9",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.256222,
+            22.831731
+        ]
+    }
+}

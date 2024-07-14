@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120073830號",
+        "reg_docno": "76府教國字第85473號",
+        "reg_date": "1987\/05\/27",
+        "title": "臺中市清水區三田國民小學附設幼兒園",
+        "owner": "林坤燑",
+        "city": "臺中市",
+        "town": "清水區",
+        "type": "公立",
+        "address": "[436]三田路4號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26271452",
+        "url": "http:\/\/www.stps.tcc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f74af925-8f80-4bc0-b3ae-cfeae9f1faec",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5813885,
+            24.2906256
+        ]
+    }
+}

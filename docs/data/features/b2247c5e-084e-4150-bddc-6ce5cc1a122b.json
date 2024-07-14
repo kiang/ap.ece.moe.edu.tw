@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1030037260號",
+        "reg_docno": "85府社福字第333907號",
+        "reg_date": "1996\/12\/30",
+        "title": "臺中市私立石竹村幼兒園",
+        "owner": "朱吉盛",
+        "city": "臺中市",
+        "town": "大雅區",
+        "type": "私立",
+        "address": "[428]民生路四段151號1、2樓",
+        "floor": "1樓至2樓",
+        "size": "1,827.7平方公尺",
+        "size_in": "1,471.4平方公尺",
+        "size_out": "356.3平方公尺",
+        "tel": "(04)25675893",
+        "url": "",
+        "count_approved": "240",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b2247c5e-084e-4150-bddc-6ce5cc1a122b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.669727,
+            24.238104
+        ]
+    }
+}

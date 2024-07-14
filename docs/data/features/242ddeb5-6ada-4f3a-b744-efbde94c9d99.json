@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第258-1號",
+        "reg_docno": "北市婦幼字第09846672200號",
+        "reg_date": "1997\/08\/26",
+        "title": "臺北市私立長青幼兒園",
+        "owner": "陳貞如",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]基隆路二段232號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27327056",
+        "url": "",
+        "count_approved": "65",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "242ddeb5-6ada-4f3a-b744-efbde94c9d99",
+        "monthly": 22639
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.55096,
+            25.023234
+        ]
+    }
+}

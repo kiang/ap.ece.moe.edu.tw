@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111023213號",
+        "reg_docno": "府社福字第41516號",
+        "reg_date": "2001\/03\/21",
+        "title": "國立曾文高級家事商業職業學校附設臺南市私立幼兒園",
+        "owner": "洪思農",
+        "city": "臺南市",
+        "town": "麻豆區",
+        "type": "私立",
+        "address": "[721]和平路9號",
+        "floor": "1-2樓",
+        "size": "1,348.02平方公尺",
+        "size_in": "695.8平方公尺",
+        "size_out": "652.22平方公尺",
+        "tel": "(06)5712484",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3bc01a0a-fd2e-4d8c-a59d-cf4a49113cc1",
+        "monthly": 11166
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.244798,
+            23.178767
+        ]
+    }
+}

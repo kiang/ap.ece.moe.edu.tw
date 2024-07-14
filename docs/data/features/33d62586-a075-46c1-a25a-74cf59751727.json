@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1020001134號",
+        "reg_docno": "中市府社婦字第9308號",
+        "reg_date": "2004\/04\/02",
+        "title": "臺中市私立采禾幼兒園",
+        "owner": "林麗娟",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[402]復興北路400號",
+        "floor": "地上層一層",
+        "size": "1,366.24平方公尺",
+        "size_in": "720.24平方公尺",
+        "size_out": "646平方公尺",
+        "tel": "(04)22657670",
+        "url": "http:\/\/www.chi-he.com.tw",
+        "count_approved": "240",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "33d62586-a075-46c1-a25a-74cf59751727",
+        "monthly": 11592
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6528404,
+            24.1179633
+        ]
+    }
+}

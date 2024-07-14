@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10937796600號",
+        "reg_docno": "府教特字第0940059647號",
+        "reg_date": "2005\/03\/24",
+        "title": "高雄市大寮區後庄國民小學附設幼兒園",
+        "owner": "陳俊延",
+        "city": "高雄市",
+        "town": "大寮區",
+        "type": "公立",
+        "address": "[831]民揚路28號",
+        "floor": "1樓",
+        "size": "798.64平方公尺",
+        "size_in": "215.04平方公尺",
+        "size_out": "583.6平方公尺",
+        "tel": "(07)7016910",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "553823d1-a0e2-46e2-a8ec-2ea1850af965",
+        "monthly": 3914
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.389952,
+            22.637586
+        ]
+    }
+}

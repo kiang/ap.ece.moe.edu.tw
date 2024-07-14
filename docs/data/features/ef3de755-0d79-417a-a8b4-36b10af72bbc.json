@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第764-1號",
+        "reg_docno": "北市教前字第1076035098號",
+        "reg_date": "2018\/08\/30",
+        "title": "臺北市三民亦禮非營利幼兒園（委託財團法人中華民國唐氏症基金會辦理）",
+        "owner": "林正俠",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "非營利",
+        "address": "[114]民權東路六段45號",
+        "floor": "1樓、2樓",
+        "size": "1,096.8平方公尺",
+        "size_in": "856.8平方公尺",
+        "size_out": "240平方公尺",
+        "tel": "(02)2796-8321",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ef3de755-0d79-417a-a8b4-36b10af72bbc",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5864073,
+            25.069154
+        ]
+    }
+}

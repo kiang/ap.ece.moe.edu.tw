@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010151241號",
+        "reg_docno": "府教國字第16402號",
+        "reg_date": "1997\/03\/08",
+        "title": "新竹市私立蒲公英精實幼兒園",
+        "owner": "史皓珍",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]明湖路400巷2-1號",
+        "floor": "一~二樓",
+        "size": "817.32平方公尺",
+        "size_in": "489.97平方公尺",
+        "size_out": "327.35平方公尺",
+        "tel": "(03)5202999",
+        "url": "http:\/\/dandelion2.urb.com.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "55494dfd-3401-47cd-980e-500ae0593066",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.967433,
+            24.785731
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市教前字第1123029758號",
+        "reg_docno": "北市教前字第10760173771號",
+        "reg_date": "2018\/08\/30",
+        "title": "臺北市吉中非營利幼兒園(委託財團法人台北基督教女青年會辦理)",
+        "owner": "王德頻",
+        "city": "臺北市",
+        "town": "信義區",
+        "type": "非營利",
+        "address": "[110]松隆路161號",
+        "floor": "1樓、2樓",
+        "size": "2,653.78平方公尺",
+        "size_in": "1,503.65平方公尺",
+        "size_out": "1,150.13平方公尺",
+        "tel": "(02)2768-1159#6610",
+        "url": "評鑑情形：",
+        "count_approved": "212",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4b001f89-a48c-46c8-8070-7efa6d2e09f1",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.573896,
+            25.048281
+        ]
+    }
+}

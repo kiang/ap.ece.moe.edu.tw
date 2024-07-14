@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第7之1號",
+        "reg_docno": "北市社五字第8921520600號",
+        "reg_date": "2000\/03\/20",
+        "title": "臺北市私立凱思幼兒園",
+        "owner": "莊榕逸",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]光復北路100巷8號2樓",
+        "floor": "2",
+        "size": "149.16平方公尺",
+        "size_in": "149.16平方公尺",
+        "size_out": "",
+        "tel": "(02)25791350",
+        "url": "",
+        "count_approved": "31",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "153cd2ce-2956-4e91-b3c1-9c08d232a7ad",
+        "monthly": 16833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.557302,
+            25.0504439
+        ]
+    }
+}

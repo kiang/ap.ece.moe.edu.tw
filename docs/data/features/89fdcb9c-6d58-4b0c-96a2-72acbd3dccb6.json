@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110191282號",
+        "reg_docno": "府教幼字第1110191282號",
+        "reg_date": "2022\/08\/10",
+        "title": "臺灣南投地方檢察署職場互助教保服務中心(委託社團法人中華宏觀專業幼童教保福利學會辦理)",
+        "owner": "蕭芳華",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "私立",
+        "address": "[540]三和一路8號2樓",
+        "floor": "2樓",
+        "size": "328.1平方公尺",
+        "size_in": "174.4平方公尺",
+        "size_out": "",
+        "tel": "(049)2221082",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "89fdcb9c-6d58-4b0c-96a2-72acbd3dccb6",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6896373,
+            23.9036144
+        ]
+    }
+}

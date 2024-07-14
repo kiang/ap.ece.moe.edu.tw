@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120053562號",
+        "reg_docno": "八七彰府教國字第82648號",
+        "reg_date": "1998\/05\/08",
+        "title": "彰化縣私立貝斯特幼兒園",
+        "owner": "陳雅惠",
+        "city": "彰化縣",
+        "town": "鹿港鎮",
+        "type": "私立",
+        "address": "[505]立德街1之1號",
+        "floor": "1樓、2樓",
+        "size": "1,335.62平方公尺",
+        "size_in": "884.46平方公尺",
+        "size_out": "451.16平方公尺",
+        "tel": "(04)7770169",
+        "url": "",
+        "count_approved": "146",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "20902f77-fa07-4ede-a4b2-f37730ad4830",
+        "monthly": 4300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.439081,
+            24.0542989
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119550149號",
+        "reg_docno": "府教幼字第1103718506號",
+        "reg_date": "2021\/10\/12",
+        "title": "新竹縣私立育弘幼兒園",
+        "owner": "莊昆霈",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]新光一街49號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,339.38平方公尺",
+        "size_in": "766.14平方公尺",
+        "size_out": "380.4平方公尺",
+        "tel": "(03)5511683",
+        "url": "",
+        "count_approved": "165",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7db120ed-de51-46eb-b040-0c16e4af5742",
+        "monthly": 20600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9974361,
+            24.8377783
+        ]
+    }
+}

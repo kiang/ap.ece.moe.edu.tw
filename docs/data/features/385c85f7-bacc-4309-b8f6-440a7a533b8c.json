@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教國字第1120914237號",
+        "reg_docno": "澎府人一字第55155號",
+        "reg_date": "1996\/10\/02",
+        "title": "澎湖縣馬公市立幼兒園",
+        "owner": "黃健忠",
+        "city": "澎湖縣",
+        "town": "馬公市",
+        "type": "公立",
+        "address": "[880]104-14號",
+        "floor": "2樓",
+        "size": "3,497.16平方公尺",
+        "size_in": "2,238.33平方公尺",
+        "size_out": "1,165.5平方公尺",
+        "tel": "(06)9274645",
+        "url": "event.penghu.gov.tw\/Kmarkun\/index.jsp",
+        "count_approved": "350",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "385c85f7-bacc-4309-b8f6-440a7a533b8c",
+        "monthly": 4323
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.579449,
+            23.565829
+        ]
+    }
+}

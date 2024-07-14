@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070082736號",
+        "reg_docno": "中市教幼字第1050062475號",
+        "reg_date": "2016\/08\/01",
+        "title": "臺中市霧峰區吉峰國民小學附設幼兒園",
+        "owner": "林雅盛",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "公立",
+        "address": "[413]民生路349號",
+        "floor": "1樓",
+        "size": "1,453.28平方公尺",
+        "size_in": "248平方公尺",
+        "size_out": "1,205.28平方公尺",
+        "tel": "(04)23300883",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8df29cb4-7050-4082-9d02-d14494e43c96",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7183249,
+            24.0786064
+        ]
+    }
+}

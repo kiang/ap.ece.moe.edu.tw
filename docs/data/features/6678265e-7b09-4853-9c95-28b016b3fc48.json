@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040042528號",
+        "reg_docno": "府教國字第96523號",
+        "reg_date": "1999\/07\/12",
+        "title": "臺中市私立種子幼兒園",
+        "owner": "傅沂本",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]三和街32號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,924.27平方公尺",
+        "size_in": "2,312.07平方公尺",
+        "size_out": "612.2平方公尺",
+        "tel": "(04)23871399",
+        "url": "www.happy-seeds.com.tw",
+        "count_approved": "325",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6678265e-7b09-4853-9c95-28b016b3fc48",
+        "monthly": 12800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.637515,
+            24.145593
+        ]
+    }
+}

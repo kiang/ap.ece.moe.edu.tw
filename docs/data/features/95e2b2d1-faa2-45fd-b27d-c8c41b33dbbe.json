@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010019660號",
+        "reg_docno": "八一府教國字第70073號",
+        "reg_date": "1992\/01\/06",
+        "title": "新竹市私立延平幼兒園",
+        "owner": "黃嘉慧",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]延平路二段246號",
+        "floor": "1",
+        "size": "381.26平方公尺",
+        "size_in": "281.26平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(03)5307869",
+        "url": "www.ypkd.hc.edu.tw",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "95e2b2d1-faa2-45fd-b27d-c8c41b33dbbe",
+        "monthly": 23800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.936174,
+            24.806893
+        ]
+    }
+}

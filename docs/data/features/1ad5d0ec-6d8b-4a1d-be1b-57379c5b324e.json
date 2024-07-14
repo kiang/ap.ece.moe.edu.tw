@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060301091號",
+        "reg_docno": "七0彰府教國字第8744號",
+        "reg_date": "1981\/08\/11",
+        "title": "彰化縣鹿港鎮頂番國民小學附設幼兒園",
+        "owner": "陳艷紅",
+        "city": "彰化縣",
+        "town": "鹿港鎮",
+        "type": "公立",
+        "address": "[505]頂草路一段100號",
+        "floor": "1樓",
+        "size": "1,305.63平方公尺",
+        "size_in": "444.9平方公尺",
+        "size_out": "860.73平方公尺",
+        "tel": "(04)7718157#14",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1ad5d0ec-6d8b-4a1d-be1b-57379c5b324e",
+        "monthly": 4231
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.479914,
+            24.088556
+        ]
+    }
+}

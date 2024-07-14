@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010360002號",
+        "reg_docno": "府社福字第9708號",
+        "reg_date": "1995\/01\/19",
+        "title": "臺南市私立福祺幼兒園",
+        "owner": "陳李雪芳",
+        "city": "臺南市",
+        "town": "西港區",
+        "type": "私立",
+        "address": "[723]中州27-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)7952436",
+        "url": "http:\/\/fuchi.topschool.tw",
+        "count_approved": "170",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dd6c4e47-67bc-4acb-8ba8-cf4ed4ff78a1",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.193025,
+            23.126967
+        ]
+    }
+}

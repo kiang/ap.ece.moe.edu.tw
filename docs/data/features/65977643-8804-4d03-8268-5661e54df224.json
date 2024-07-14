@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100048164號",
+        "reg_docno": "府教特字第0970034501號",
+        "reg_date": "1950\/08\/01",
+        "title": "新竹縣關西鎮關西國民小學附設幼兒園",
+        "owner": "陳顯智",
+        "city": "新竹縣",
+        "town": "關西鎮",
+        "type": "公立",
+        "address": "[306]中山路126號",
+        "floor": "1樓",
+        "size": "1,153平方公尺",
+        "size_in": "288平方公尺",
+        "size_out": "865平方公尺",
+        "tel": "(03)5872028#802",
+        "url": "https:\/\/gses.hcc.edu.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "65977643-8804-4d03-8268-5661e54df224",
+        "monthly": 3676
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.174609,
+            24.791933
+        ]
+    }
+}

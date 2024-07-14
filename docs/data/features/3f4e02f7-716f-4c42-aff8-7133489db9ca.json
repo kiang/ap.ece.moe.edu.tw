@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10132353200號",
+        "reg_docno": "高市教三字第25383號",
+        "reg_date": "1999\/08\/03",
+        "title": "高雄市私立聖文幼兒園",
+        "owner": "錢秀梅",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "私立",
+        "address": "[806]翠享北路281號",
+        "floor": "1樓",
+        "size": "1,389.64平方公尺",
+        "size_in": "687.07平方公尺",
+        "size_out": "702.57平方公尺",
+        "tel": "(07)8138669",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3f4e02f7-716f-4c42-aff8-7133489db9ca",
+        "monthly": 8900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.320353,
+            22.590276
+        ]
+    }
+}

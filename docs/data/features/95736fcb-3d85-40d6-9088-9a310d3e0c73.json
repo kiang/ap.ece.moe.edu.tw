@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080076116號",
+        "reg_docno": "中市教幼字第1080076116號",
+        "reg_date": "2019\/08\/01",
+        "title": "臺中市大甲區文武國民小學附設幼兒園",
+        "owner": "許君良",
+        "city": "臺中市",
+        "town": "大甲區",
+        "type": "公立",
+        "address": "[437]文曲路61號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26710928#217",
+        "url": "台中市大甲區武陵里文曲路61號",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "95736fcb-3d85-40d6-9088-9a310d3e0c73",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6007773,
+            24.3359958
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010022834號",
+        "reg_docno": "府社幼字第0930005621號",
+        "reg_date": "2004\/01\/05",
+        "title": "臺中市私立真愛幼兒園",
+        "owner": "王心柔",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "私立",
+        "address": "[420]愛國街8號",
+        "floor": "1,2樓",
+        "size": "320.27平方公尺",
+        "size_in": "148.36平方公尺",
+        "size_out": "171.91平方公尺",
+        "tel": "(04)25293035",
+        "url": "http:\/\/tw.myblog.yahoo.com\/gaojie-stanford\/",
+        "count_approved": "78",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：18",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "45d3018d-bc28-4540-bccb-266626251332",
+        "monthly": 9383
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7256049,
+            24.2474683
+        ]
+    }
+}

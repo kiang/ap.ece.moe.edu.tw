@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第76號",
+        "reg_docno": "北市社五字第08724832500號",
+        "reg_date": "1998\/09\/21",
+        "title": "臺北市私立寶馨幼兒園",
+        "owner": "李淑琴",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]溪口街85巷7弄6號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)86635966",
+        "url": "",
+        "count_approved": "17",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5563458e-cc19-4752-a4bd-121076789b4f",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.538464,
+            24.994795
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11035667800號",
+        "reg_docno": "高市教三字第0970036449(補)號",
+        "reg_date": "1996\/08\/01",
+        "title": "高雄市左營區明德國民小學附設幼兒園",
+        "owner": "陳慶盛",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "公立",
+        "address": "[813]海富路2號",
+        "floor": "1樓、1樓",
+        "size": "1,371.332平方公尺",
+        "size_in": "453.492平方公尺",
+        "size_out": "917.84平方公尺",
+        "tel": "(07)5855059",
+        "url": "http:\/\/www.mdps.kh.edu.tw",
+        "count_approved": "122",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4e5ec481-150e-45a3-bb95-12da87810a4e",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.289378,
+            22.688056
+        ]
+    }
+}

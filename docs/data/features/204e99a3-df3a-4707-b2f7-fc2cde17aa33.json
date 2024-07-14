@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120234035號",
+        "reg_docno": "府教幼字第1100187104號",
+        "reg_date": "2021\/08\/01",
+        "title": "桃園市大園區五權國民小學附設幼兒園",
+        "owner": "林錦杏",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "公立",
+        "address": "[337]中正東路二段539號",
+        "floor": "1樓",
+        "size": "483.8平方公尺",
+        "size_in": "303.8平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(03)3812803#120",
+        "url": "http:\/\/163.30.77.237\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "204e99a3-df3a-4707-b2f7-fc2cde17aa33",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2308916,
+            25.023834
+        ]
+    }
+}

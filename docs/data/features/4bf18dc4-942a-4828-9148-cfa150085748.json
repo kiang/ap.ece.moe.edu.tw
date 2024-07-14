@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599林口0057號",
+        "reg_docno": "新北府教幼字第1111316317號",
+        "reg_date": "2022\/08\/30",
+        "title": "新北市東湖非營利幼兒園(委託社團法人新北市巧湖溫馨關懷發展協會辦理)",
+        "owner": "張志誠",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "非營利",
+        "address": "[244]四維路201號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26010201",
+        "url": "評鑑情形：",
+        "count_approved": "242",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4bf18dc4-942a-4828-9148-cfa150085748",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3813701,
+            25.0748077
+        ]
+    }
+}

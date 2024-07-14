@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080024957號",
+        "reg_docno": "府社兒婦字第0990065568號",
+        "reg_date": "1996\/04\/26",
+        "title": "宜蘭縣南澳鄉立幼兒園金洋分班",
+        "owner": "",
+        "city": "宜蘭縣",
+        "town": "南澳鄉",
+        "type": "公立",
+        "address": "[272]博愛路3號",
+        "floor": "1樓",
+        "size": "1,142.98平方公尺",
+        "size_in": "182.98平方公尺",
+        "size_out": "960平方公尺",
+        "tel": "(03)9982721",
+        "url": "http:\/\/www.nanao.e-land.gov.tw\/home.php",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1a78d74d-f149-46d1-84d0-535ffa52ebae",
+        "monthly": 3900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7488791,
+            24.4256148
+        ]
+    }
+}

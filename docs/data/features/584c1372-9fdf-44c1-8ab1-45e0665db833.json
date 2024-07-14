@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060107362號",
+        "reg_docno": "桃府教國字第35145號",
+        "reg_date": "1976\/04\/19",
+        "title": "桃園市私立幼幼幼兒園",
+        "owner": "游貴惠",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]珠江街45號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4574696",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "584c1372-9fdf-44c1-8ab1-45e0665db833",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.231571,
+            24.9482799
+        ]
+    }
+}

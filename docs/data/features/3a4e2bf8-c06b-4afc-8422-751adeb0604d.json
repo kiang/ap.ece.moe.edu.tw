@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市教前字第1083000472號",
+        "reg_docno": "北市社婦幼字第09931687800號",
+        "reg_date": "2010\/03\/01",
+        "title": "臺北市私立小荳荳幼兒園",
+        "owner": "沈淑芬",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "私立",
+        "address": "[114]民權東路六段172號1至3樓",
+        "floor": "1~3",
+        "size": "270.68平方公尺",
+        "size_in": "270.68平方公尺",
+        "size_out": "",
+        "tel": "(02)27937710",
+        "url": "",
+        "count_approved": "51",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：10",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3a4e2bf8-c06b-4afc-8422-751adeb0604d",
+        "monthly": 28666
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.591539,
+            25.0682709
+        ]
+    }
+}

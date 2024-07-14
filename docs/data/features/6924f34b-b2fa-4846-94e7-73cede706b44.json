@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138480400號",
+        "reg_docno": "高市社三托證字第011號",
+        "reg_date": "1970\/12\/14",
+        "title": "舊城基督長老教會附設高雄市私立左營幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]左營大路20號1樓",
+        "floor": "1樓、1樓",
+        "size": "554.8平方公尺",
+        "size_in": "202.91平方公尺",
+        "size_out": "351.89平方公尺",
+        "tel": "(07)5837970",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6924f34b-b2fa-4846-94e7-73cede706b44",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.288077,
+            22.680782
+        ]
+    }
+}

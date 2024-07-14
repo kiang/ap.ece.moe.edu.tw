@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120112164號",
+        "reg_docno": "84年3月3日84府社褔字第0201號",
+        "reg_date": "1995\/03\/03",
+        "title": "臺中市私立欣冠鈞幼兒園",
+        "owner": "陳永杉",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "私立",
+        "address": "[427]福潭路520號",
+        "floor": "一、二樓",
+        "size": "2,536.98平方公尺",
+        "size_in": "994.71平方公尺",
+        "size_out": "1,542.27平方公尺",
+        "tel": "(04)25363069",
+        "url": "http:\/\/Champion",
+        "count_approved": "252",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6c16cd9a-b6f6-45f1-bd0c-d10a3829d20a",
+        "monthly": 11800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7113721,
+            24.206808
+        ]
+    }
+}

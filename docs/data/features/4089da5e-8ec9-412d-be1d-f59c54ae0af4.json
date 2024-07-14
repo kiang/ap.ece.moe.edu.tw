@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1070238220號",
+        "reg_docno": "基府社福字第050161號",
+        "reg_date": "2000\/09\/22",
+        "title": "基隆市私立小象童寶幼兒園",
+        "owner": "張秀宇",
+        "city": "基隆市",
+        "town": "七堵區",
+        "type": "私立",
+        "address": "[206]百六街90、92號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24522288",
+        "url": "",
+        "count_approved": "55",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4089da5e-8ec9-412d-be1d-f59c54ae0af4",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.695395,
+            25.08513
+        ]
+    }
+}

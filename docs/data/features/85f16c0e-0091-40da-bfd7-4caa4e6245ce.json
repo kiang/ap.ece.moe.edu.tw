@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100180512號",
+        "reg_docno": "府教國字第74812號",
+        "reg_date": "1985\/09\/24",
+        "title": "嘉義縣義竹鄉南興國民小學附設幼兒園東華分班",
+        "owner": "",
+        "city": "嘉義縣",
+        "town": "義竹鄉",
+        "type": "公立",
+        "address": "[624]安溪寮1號",
+        "floor": "1樓",
+        "size": "420平方公尺",
+        "size_in": "90平方公尺",
+        "size_out": "330平方公尺",
+        "tel": "(05)3426194#11",
+        "url": "http:\/\/darplayer.tw.class.uschoolnet.com\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "85f16c0e-0091-40da-bfd7-4caa4e6245ce",
+        "monthly": 3545
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.220653,
+            23.3571049
+        ]
+    }
+}

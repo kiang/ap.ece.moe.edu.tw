@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080069526號",
+        "reg_docno": "83府教國字第183294號",
+        "reg_date": "1994\/11\/24",
+        "title": "桃園市私立瑞智蒙特梭利幼兒園",
+        "owner": "陳正偉",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]中華路一段644巷40、42號1樓",
+        "floor": "1F",
+        "size": "360.36平方公尺",
+        "size_in": "249.16平方公尺",
+        "size_out": "",
+        "tel": "(03)4616999",
+        "url": "",
+        "count_approved": "49",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "332a63a2-4dd5-4676-baf4-8b2ce6641fad",
+        "monthly": 12498
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2496099,
+            24.9707369
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070145004號",
+        "reg_docno": "86府教國字第198813號",
+        "reg_date": "1997\/10\/09",
+        "title": "桃園市私立綠蒂幼兒園",
+        "owner": "徐",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]華勛街476號",
+        "floor": "1-2樓",
+        "size": "1,920平方公尺",
+        "size_in": "720平方公尺",
+        "size_out": "1,200平方公尺",
+        "tel": "(03)4366868",
+        "url": "",
+        "count_approved": "360",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8de675aa-3f38-497e-9363-96c8371cc30b",
+        "monthly": 12900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.259193,
+            24.943762
+        ]
+    }
+}

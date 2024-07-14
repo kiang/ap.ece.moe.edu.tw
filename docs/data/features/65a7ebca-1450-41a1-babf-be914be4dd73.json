@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120253344號",
+        "reg_docno": "府教幼字第1040200959號",
+        "reg_date": "2015\/08\/01",
+        "title": "桃園市中壢區華勛國民小學附設幼兒園",
+        "owner": "游淑珍",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "公立",
+        "address": "[320]榮民南路205號",
+        "floor": "1樓、2樓",
+        "size": "852平方公尺",
+        "size_in": "492平方公尺",
+        "size_out": "360平方公尺",
+        "tel": "(03)4661587#217",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "65a7ebca-1450-41a1-babf-be914be4dd73",
+        "monthly": 5825
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2572559,
+            24.9539075
+        ]
+    }
+}

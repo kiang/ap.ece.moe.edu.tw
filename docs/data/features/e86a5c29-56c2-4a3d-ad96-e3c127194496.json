@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599汐止0072號",
+        "reg_docno": "新北府教幼字第1080570148號",
+        "reg_date": "2019\/04\/19",
+        "title": "新北市私立維格爾欣悅幼兒園",
+        "owner": "李婉瑜",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]工建路358號",
+        "floor": "1樓",
+        "size": "437.26平方公尺",
+        "size_in": "235.7平方公尺",
+        "size_out": "201.56平方公尺",
+        "tel": "(02)26498369",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e86a5c29-56c2-4a3d-ad96-e3c127194496",
+        "monthly": 17500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6340247,
+            25.0603335
+        ]
+    }
+}

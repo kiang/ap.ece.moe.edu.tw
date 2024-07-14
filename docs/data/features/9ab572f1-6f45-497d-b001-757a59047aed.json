@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620林口0036號",
+        "reg_docno": "北府教幼字第1023252833號",
+        "reg_date": "2014\/01\/07",
+        "title": "財團法人華山愛德教育基金會附設新北市私立林口愛德幼兒園",
+        "owner": "林琦敏",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]忠孝路542巷11弄2之5號1樓至3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26002908",
+        "url": "https:\/\/www.hsed.tw\/",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9ab572f1-6f45-497d-b001-757a59047aed",
+        "monthly": 21615
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3721204,
+            25.0668216
+        ]
+    }
+}

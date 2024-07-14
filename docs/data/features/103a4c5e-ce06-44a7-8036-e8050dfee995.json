@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第691號",
+        "reg_docno": "北市社五字第09333464100號",
+        "reg_date": "2004\/04\/22",
+        "title": "臺北市私立甘霖幼兒園",
+        "owner": "廖竹凡",
+        "city": "臺北市",
+        "town": "南港區",
+        "type": "私立",
+        "address": "[115]南港路二段30、32號3樓至4樓及34、34之1號1樓至4樓",
+        "floor": "1-4",
+        "size": "419.68平方公尺",
+        "size_in": "419.68平方公尺",
+        "size_out": "",
+        "tel": "(02)27826308",
+        "url": "",
+        "count_approved": "95",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：47",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "d9dab019-efb2-4789-adb8-46dc214d14f4",
+        "monthly": 22156
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6052808,
+            25.0541903
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120073123號",
+        "reg_docno": "府教幼字第1120073123號",
+        "reg_date": "2023\/03\/28",
+        "title": "桃園市私立瑞智蒙特梭利幼兒園長樂分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]長樂五街28號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4620722",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ad9c033b-5bfd-499b-b391-2c4879cfdd5a",
+        "monthly": 17363
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.248859,
+            24.975897
+        ]
+    }
+}

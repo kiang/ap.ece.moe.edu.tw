@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1030085449號",
+        "reg_docno": "府教特字第0940013382號",
+        "reg_date": "2005\/01\/20",
+        "title": "臺中市私立善美真幼兒園",
+        "owner": "顏杏如",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]臺灣大道四段1966號",
+        "floor": "1-2樓",
+        "size": "1,942.78平方公尺",
+        "size_in": "569.6平方公尺",
+        "size_out": "1,373.18平方公尺",
+        "tel": "(04)23506869",
+        "url": "http:\/\/waldorf-gbt.org.tw\/",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "751ada0b-2129-42ba-a548-4897efb75b6b",
+        "monthly": 17533
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.598422,
+            24.182231
+        ]
+    }
+}

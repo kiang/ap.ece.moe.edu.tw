@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680新莊0104之2號",
+        "reg_docno": "北府社兒字第0930546309號",
+        "reg_date": "2004\/07\/15",
+        "title": "新北市私立傑出幼兒園",
+        "owner": "顏佩瑜",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]中原東路50號1~2樓",
+        "floor": "2",
+        "size": "159.82平方公尺",
+        "size_in": "134.91平方公尺",
+        "size_out": "",
+        "tel": "(02)85212182",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9b381e64-ea03-42cb-8474-cc5f4b068a1d",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.464061,
+            25.054706
+        ]
+    }
+}

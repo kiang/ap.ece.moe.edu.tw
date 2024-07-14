@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120199545號",
+        "reg_docno": "府教國字第1600號",
+        "reg_date": "1983\/08\/27",
+        "title": "嘉義縣民雄鄉民雄國民小學附設幼兒園",
+        "owner": "蔡明昇",
+        "city": "嘉義縣",
+        "town": "民雄鄉",
+        "type": "公立",
+        "address": "[621]民族路43號",
+        "floor": "1樓",
+        "size": "2,150平方公尺",
+        "size_in": "490平方公尺",
+        "size_out": "1,660平方公尺",
+        "tel": "(05)2262022#61",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000165035",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "24d6f47f-a4a4-4ba1-ae9b-feaafe76f0e0",
+        "monthly": 3769
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.429307,
+            23.555341
+        ]
+    }
+}

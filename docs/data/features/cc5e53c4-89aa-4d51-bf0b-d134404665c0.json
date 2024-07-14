@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080037905D號",
+        "reg_docno": "府社幼字第1000392368號",
+        "reg_date": "1994\/11\/02",
+        "title": "彰化縣田中鎮立幼兒園舊街分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "田中鎮",
+        "type": "公立",
+        "address": "[520]沙崙路281號",
+        "floor": "1樓",
+        "size": "229.01平方公尺",
+        "size_in": "158.86平方公尺",
+        "size_out": "",
+        "tel": "(04)8761122#261",
+        "url": "http:\/\/www.tienchun.gov.tw",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "4634562f-2184-421d-b5af-9a6e6ed40660",
+        "monthly": 4182
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.583458,
+            23.8507011
+        ]
+    }
+}

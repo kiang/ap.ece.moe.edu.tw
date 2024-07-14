@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120321274號",
+        "reg_docno": "府教幼字第1120321274號",
+        "reg_date": "2023\/08\/15",
+        "title": "彰化縣員林非營利幼兒園（委託社團法人彰化縣全方位教育協會辦理）",
+        "owner": "梁嫣玲",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "非營利",
+        "address": "[510]三民東街221號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,138.15平方公尺",
+        "size_in": "766.6平方公尺",
+        "size_out": "371.55平方公尺",
+        "tel": "(04)8337036",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6948cfa6-d89c-46f4-bcf3-f3fc1568cc8f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.579169,
+            23.9600698
+        ]
+    }
+}

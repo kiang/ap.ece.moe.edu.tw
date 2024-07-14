@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110214554號",
+        "reg_docno": "府教特字第1110214554號",
+        "reg_date": "2022\/10\/03",
+        "title": "文化部國立臺東生活美學館職場互助教保服務中心（委託社團法人台灣蒙特梭利教育協會辦理）",
+        "owner": "劉富森",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "私立",
+        "address": "[950]大同路254號",
+        "floor": "1樓",
+        "size": "260.39平方公尺",
+        "size_in": "115.98平方公尺",
+        "size_out": "",
+        "tel": "(089)333253",
+        "url": "評鑑情形：",
+        "count_approved": "34",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "79be32ee-470e-484c-9283-5ef1c07f4fd6",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1510514,
+            22.7552485
+        ]
+    }
+}

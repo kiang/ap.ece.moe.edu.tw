@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11137651900號",
+        "reg_docno": "高市教三字第0970036449(補)號",
+        "reg_date": "1989\/02\/01",
+        "title": "高雄市左營區永清國民小學附設幼兒園",
+        "owner": "葉麗錦",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "公立",
+        "address": "[813]左營大路2之2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)5822830#705",
+        "url": "https:\/\/class.kh.edu.tw\/13787\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "da817d1d-fecd-4842-93a9-82af68a8b7d3",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.288512,
+            22.673786
+        ]
+    }
+}

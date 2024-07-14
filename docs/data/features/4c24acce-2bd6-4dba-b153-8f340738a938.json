@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080020995號",
+        "reg_docno": "中市府社婦字第9317號",
+        "reg_date": "2004\/10\/19",
+        "title": "臺中市私立北屯格瑞特幼兒園",
+        "owner": "黃貴蘭",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]松竹北路236號1,2,3樓",
+        "floor": "1-3",
+        "size": "1,441.47平方公尺",
+        "size_in": "964.03平方公尺",
+        "size_out": "477.44平方公尺",
+        "tel": "(04)22413133",
+        "url": "http:\/\/www.great236.com\/",
+        "count_approved": "410",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：90",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4c24acce-2bd6-4dba-b153-8f340738a938",
+        "monthly": 11570
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.696382,
+            24.185411
+        ]
+    }
+}

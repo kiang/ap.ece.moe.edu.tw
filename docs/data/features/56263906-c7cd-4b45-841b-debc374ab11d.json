@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010050906號",
+        "reg_docno": "府教國字第36934號",
+        "reg_date": "1999\/05\/27",
+        "title": "新竹市私立華德幼兒園",
+        "owner": "李文貴",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]光華東街76巷26號",
+        "floor": "1-3樓",
+        "size": "1,532.96平方公尺",
+        "size_in": "1,254.24平方公尺",
+        "size_out": "278.72平方公尺",
+        "tel": "(03)5428866",
+        "url": "http:\/\/035428866.topschool.tw",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "56263906-c7cd-4b45-841b-debc374ab11d",
+        "monthly": 19433
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.976128,
+            24.817585
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教國字第1110917355號",
+        "reg_docno": "府教國字第09808009193號",
+        "reg_date": "1993\/12\/28",
+        "title": "澎湖縣望安鄉花嶼國民小學附設幼兒園",
+        "owner": "許慧晶",
+        "city": "澎湖縣",
+        "town": "望安鄉",
+        "type": "公立",
+        "address": "[882]2號",
+        "floor": "1樓",
+        "size": "4,844平方公尺",
+        "size_in": "1,302平方公尺",
+        "size_out": "682平方公尺",
+        "tel": "(06)9991740",
+        "url": "http:\/\/www.hyps.phc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "934dbb40-d4b7-4afb-8af4-29d160f4ada6",
+        "monthly": 3780
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.323159,
+            23.400121
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010012397號",
+        "reg_docno": "府教國字第142395號",
+        "reg_date": "1999\/10\/14",
+        "title": "臺中市私立地球村幼兒園",
+        "owner": "廖萬池",
+        "city": "臺中市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[401]東英十五街155號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22133931",
+        "url": "http:\/\/www.jzyuan.org\/",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dc44e6f4-f4c1-4e2b-82f8-595d59eabd57",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.708527,
+            24.145959
+        ]
+    }
+}

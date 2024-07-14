@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138625300號",
+        "reg_docno": "43高府教國字第11855號",
+        "reg_date": "1954\/03\/05",
+        "title": "高雄市私立仁慈幼兒園",
+        "owner": "王志傑",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]中山路5巷8號",
+        "floor": "1樓、2樓",
+        "size": "420平方公尺",
+        "size_in": "180平方公尺",
+        "size_out": "240平方公尺",
+        "tel": "(07)7451617",
+        "url": "http:\/\/w2104152740.wowch.co",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e77d0987-f6d2-4101-a8a0-1682587a33ae",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.361954,
+            22.619716
+        ]
+    }
+}

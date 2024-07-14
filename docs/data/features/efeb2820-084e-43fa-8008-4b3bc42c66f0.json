@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0008號",
+        "reg_docno": "89北府社兒字第89367195號",
+        "reg_date": "2000\/09\/21",
+        "title": "新北市私立寶仁幼兒園",
+        "owner": "褚家雯",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]文化路二段182巷1弄8號2樓、3弄9號1樓",
+        "floor": "1樓+2樓",
+        "size": "365.56平方公尺",
+        "size_in": "365.56平方公尺",
+        "size_out": "",
+        "tel": "(02)22500102",
+        "url": "http:\/\/www.paoren.com.tw",
+        "count_approved": "82",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "9f38c456-1d35-4dd2-83d4-2945a210d44f",
+        "monthly": 17747
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.471794,
+            25.028303
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10136811500號",
+        "reg_docno": "高市府社五字第35071號",
+        "reg_date": "2001\/08\/31",
+        "title": "高雄市私立偉立幼兒園",
+        "owner": "周雅婷",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "私立",
+        "address": "[806]民興街2號2樓",
+        "floor": "2樓",
+        "size": "446.3平方公尺",
+        "size_in": "446.3平方公尺",
+        "size_out": "",
+        "tel": "(07)5362071",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "112-112",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "bc0976ce-c012-4f45-9d20-b344396def25",
+        "monthly": 8367
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.311975,
+            22.608896
+        ]
+    }
+}

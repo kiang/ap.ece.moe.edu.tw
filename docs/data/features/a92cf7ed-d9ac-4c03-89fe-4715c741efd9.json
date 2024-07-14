@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1130287123號",
+        "reg_docno": "府教國字第109360號",
+        "reg_date": "1978\/10\/19",
+        "title": "臺南市私立培德幼兒園",
+        "owner": "黃敏正",
+        "city": "臺南市",
+        "town": "官田區",
+        "type": "私立",
+        "address": "[720]興隆街101號",
+        "floor": "1",
+        "size": "244平方公尺",
+        "size_in": "114.84平方公尺",
+        "size_out": "129.16平方公尺",
+        "tel": "(06)5791294",
+        "url": "http:\/\/www.catholic.org.tw\/tn-petite\/index.htm",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a92cf7ed-d9ac-4c03-89fe-4715c741efd9",
+        "monthly": 8279
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.314208,
+            23.197785
+        ]
+    }
+}

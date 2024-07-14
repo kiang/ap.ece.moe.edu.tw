@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070015722號",
+        "reg_docno": "中市府社婦字第8928號",
+        "reg_date": "2000\/08\/17",
+        "title": "臺中市私立博思特幼兒園",
+        "owner": "蔡銘薰",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[402]和昌街30號",
+        "floor": "1樓-3樓",
+        "size": "865.6平方公尺",
+        "size_in": "661.64平方公尺",
+        "size_out": "203.96平方公尺",
+        "tel": "(04)22601836",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "26177b58-8d0a-4056-967f-8786aa203b13",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6638916,
+            24.121127
+        ]
+    }
+}

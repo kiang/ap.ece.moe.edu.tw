@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120069202號",
+        "reg_docno": "教國字第44444號",
+        "reg_date": "1975\/08\/02",
+        "title": "臺中市西區中正國民小學附設幼兒園",
+        "owner": "梅家云",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "公立",
+        "address": "[403]英才路423號",
+        "floor": "1樓",
+        "size": "5,308平方公尺",
+        "size_in": "1,769平方公尺",
+        "size_out": "3,539平方公尺",
+        "tel": "(04)23212042#10",
+        "url": "http:\/\/www.cces.tc.edu.tw\/default.asp",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4764174e-cde5-4649-aee6-8139205d7de0",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.665885,
+            24.151956
+        ]
+    }
+}

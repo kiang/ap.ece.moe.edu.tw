@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1130207632號",
+        "reg_docno": "基府教前參字第1110238392號",
+        "reg_date": "2022\/08\/15",
+        "title": "台電公司基隆區營業處職場互助教保服務中心(委託德育學校財團法人德育護理健康學院辦理)",
+        "owner": "蔣初泰",
+        "city": "基隆市",
+        "town": "仁愛區",
+        "type": "私立",
+        "address": "[200]仁一路301號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24286616",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a57c7806-3e49-4863-8720-8259d8d52dc8",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7454551,
+            25.1295186
+        ]
+    }
+}

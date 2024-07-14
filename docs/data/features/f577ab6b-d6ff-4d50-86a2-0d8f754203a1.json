@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080071616號",
+        "reg_docno": "府教特字第0920071657號",
+        "reg_date": "2003\/04\/18",
+        "title": "彰化縣員林市僑信國民小學附設幼兒園",
+        "owner": "黃榮森",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "公立",
+        "address": "[510]中山路二段280號",
+        "floor": "1樓、2樓",
+        "size": "356.92平方公尺",
+        "size_in": "198.17平方公尺",
+        "size_out": "158.75平方公尺",
+        "tel": "(04)8320810#22",
+        "url": "http:\/\/www.csps.chc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f577ab6b-d6ff-4d50-86a2-0d8f754203a1",
+        "monthly": 3542
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.571454,
+            23.9670599
+        ]
+    }
+}

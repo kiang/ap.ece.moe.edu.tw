@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120064284號",
+        "reg_docno": "中市教幼字第1120064284號",
+        "reg_date": "2023\/08\/01",
+        "title": "臺中市內埔非營利幼兒園(委託財團法人臺中市健康全人教育基金會辦理)",
+        "owner": "杜明達",
+        "city": "臺中市",
+        "town": "后里區",
+        "type": "非營利",
+        "address": "[421]文化路30號",
+        "floor": "2樓",
+        "size": "1,116.65平方公尺",
+        "size_in": "837.38平方公尺",
+        "size_out": "",
+        "tel": "(04)25583585",
+        "url": "臺中市后里區文化路30號",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "02559944-d9ec-4e36-8ff9-4b1a368e0c41",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.714965,
+            24.3070668
+        ]
+    }
+}

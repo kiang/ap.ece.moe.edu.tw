@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110017655號",
+        "reg_docno": "府特教字第0910239718號",
+        "reg_date": "2002\/11\/07",
+        "title": "桃園市私立環愛森林幼兒園",
+        "owner": "陳和順",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]普忠路248號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4637000",
+        "url": "",
+        "count_approved": "165",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "151a4cf0-3bc1-41c9-baff-172c9d028cb6",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.245326,
+            24.960744
+        ]
+    }
+}

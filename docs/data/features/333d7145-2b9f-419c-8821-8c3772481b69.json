@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100187629號",
+        "reg_docno": "府教學字第09800612330號",
+        "reg_date": "1979\/10\/03",
+        "title": "南投縣名間鄉僑興國民小學附設幼兒園",
+        "owner": "謝澄賢",
+        "city": "南投縣",
+        "town": "名間鄉",
+        "type": "公立",
+        "address": "[551]彰南路259號",
+        "floor": "1樓",
+        "size": "513平方公尺",
+        "size_in": "189平方公尺",
+        "size_out": "324平方公尺",
+        "tel": "(049)2731974",
+        "url": "163.22.141.129",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "333d7145-2b9f-419c-8821-8c3772481b69",
+        "monthly": 2950
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.694671,
+            23.858542
+        ]
+    }
+}

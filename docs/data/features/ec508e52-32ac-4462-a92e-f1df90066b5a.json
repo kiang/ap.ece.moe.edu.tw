@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010475984號",
+        "reg_docno": "府教國字第026291號",
+        "reg_date": "1995\/02\/22",
+        "title": "臺南市私立永康芝蔴街幼兒園",
+        "owner": "李正錟",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]復國一路90巷41號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)3129904",
+        "url": "www.abc-school.com.tw",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ec508e52-32ac-4462-a92e-f1df90066b5a",
+        "monthly": 16521
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.247185,
+            23.004133
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1100869199號",
+        "reg_docno": "南市社福字第16072號",
+        "reg_date": "1985\/08\/27",
+        "title": "臺南市私立欣惠群幼兒園",
+        "owner": "鍾金珠",
+        "city": "臺南市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[702]國民路67號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2677722",
+        "url": "hcbaby67@yahoo.com.tw",
+        "count_approved": "115",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "82c5d2ee-f063-4720-8c8d-6024e7feb05f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.214165,
+            22.967413
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120185144號",
+        "reg_docno": "投府教國字第651028號",
+        "reg_date": "1976\/08\/01",
+        "title": "南投縣南投市嘉和國民小學附設幼兒園",
+        "owner": "陳秀玲",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "公立",
+        "address": "[540]彰南路一段639巷80號",
+        "floor": "1樓",
+        "size": "271平方公尺",
+        "size_in": "148平方公尺",
+        "size_out": "122平方公尺",
+        "tel": "(049)2222430#117",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6e8c64ce-b3b5-4cfd-b79d-1e83e2f14c80",
+        "monthly": 3070
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.684493,
+            23.8961611
+        ]
+    }
+}

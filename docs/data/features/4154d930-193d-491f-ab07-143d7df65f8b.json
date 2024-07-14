@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130031127號",
+        "reg_docno": "府社兒字第1000419682號",
+        "reg_date": "2011\/10\/14",
+        "title": "桃園市私立原明欣幼兒園",
+        "owner": "呂昭輝",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]仁慈路310-1號1-3樓",
+        "floor": "1到3樓",
+        "size": "2,191.93平方公尺",
+        "size_in": "1,023.16平方公尺",
+        "size_out": "1,168.77平方公尺",
+        "tel": "(03)4564601",
+        "url": "",
+        "count_approved": "520",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4154d930-193d-491f-ab07-143d7df65f8b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2524913,
+            24.9456242
+        ]
+    }
+}

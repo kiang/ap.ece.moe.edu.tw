@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第1093721400號",
+        "reg_docno": "高市教三字第0970036449(補)號",
+        "reg_date": "1996\/08\/01",
+        "title": "高雄市前鎮區光華國民小學附設幼兒園",
+        "owner": "李淑惠",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "公立",
+        "address": "[806]廣西路57號",
+        "floor": "1~2樓",
+        "size": "1,410.4平方公尺",
+        "size_in": "665.42平方公尺",
+        "size_out": "744.98平方公尺",
+        "tel": "(07)7222846#27",
+        "url": "www.khps.edu.tw",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0c000394-d62b-45af-8303-c3490c349e51",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3201863,
+            22.6154232
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1103716875號",
+        "reg_docno": "八七府教學字第15543號",
+        "reg_date": "1998\/03\/02",
+        "title": "新竹縣竹北市竹北國民小學附設幼兒園",
+        "owner": "康靜慧",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "公立",
+        "address": "[302]中央路98號",
+        "floor": "1樓",
+        "size": "277.28平方公尺",
+        "size_in": "134.48平方公尺",
+        "size_out": "142.8平方公尺",
+        "tel": "(03)5552047#137",
+        "url": "http:\/\/www.cbes.hcc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "141dbf94-ac3f-419d-9159-2f2e929ebf1f",
+        "monthly": 3686
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.002181,
+            24.837946
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080044385號",
+        "reg_docno": "中市教幼字第1080044385號",
+        "reg_date": "2019\/06\/06",
+        "title": "臺中市私立精彩幼兒園",
+        "owner": "詹叡達",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]龍富路三段690號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23802108",
+        "url": "",
+        "count_approved": "258",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a4ec1afa-6e99-4fa7-b649-5e833c91b2eb",
+        "monthly": 30530
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6257869,
+            24.1396815
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010227563號",
+        "reg_docno": "八五彰府社福字第005585號",
+        "reg_date": "1996\/01\/10",
+        "title": "彰化縣私立育光幼兒園",
+        "owner": "徐世光",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "私立",
+        "address": "[510]員水路二段421巷50號",
+        "floor": "1樓至2樓",
+        "size": "1,022.7平方公尺",
+        "size_in": "415.7平方公尺",
+        "size_out": "377平方公尺",
+        "tel": "(04)8342033",
+        "url": "http:\/\/www.ykce.com.tw\/",
+        "count_approved": "220",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7b62deea-08f1-4efa-87af-23c57e3fb9dc",
+        "monthly": 17350
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5793334,
+            23.953976
+        ]
+    }
+}

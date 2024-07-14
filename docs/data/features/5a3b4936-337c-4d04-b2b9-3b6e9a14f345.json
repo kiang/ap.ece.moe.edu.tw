@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110000883號",
+        "reg_docno": "八七府社幼字第254345號",
+        "reg_date": "1998\/09\/28",
+        "title": "臺中市私立皇冠幼兒園",
+        "owner": "陳瓊芬",
+        "city": "臺中市",
+        "town": "大肚區",
+        "type": "私立",
+        "address": "[432]王福街937巷61號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26933276",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5a3b4936-337c-4d04-b2b9-3b6e9a14f345",
+        "monthly": 12453
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5650443,
+            24.1247903
+        ]
+    }
+}

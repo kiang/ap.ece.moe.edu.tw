@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1120904975號",
+        "reg_docno": "南市教國字第26037號",
+        "reg_date": "1994\/08\/13",
+        "title": "國立成功大學員工子女非營利幼兒園(委託財團法人國立成功大學文教基金會辦理)",
+        "owner": "郭耀煌",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "非營利",
+        "address": "[701]林森路2段251號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,671.11平方公尺",
+        "size_in": "2,118.86平方公尺",
+        "size_out": "552.25平方公尺",
+        "tel": "(06)2757575#36030",
+        "url": "http:\/\/tw.school.uschoolnet.com\/?id=es10001939",
+        "count_approved": "182",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "50c9a6cd-c30e-4d37-928f-8a6ee987e1f4",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.218599,
+            22.999417
+        ]
+    }
+}

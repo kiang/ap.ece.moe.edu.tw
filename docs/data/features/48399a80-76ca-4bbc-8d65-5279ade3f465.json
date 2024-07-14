@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080073360號",
+        "reg_docno": "(89)府社婦字第065268號",
+        "reg_date": "1990\/06\/28",
+        "title": "花蓮縣私立迦南美地幼兒園",
+        "owner": "蔡志堅",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "私立",
+        "address": "[970]民權7街12號",
+        "floor": "1樓",
+        "size": "101.01平方公尺",
+        "size_in": "59.43平方公尺",
+        "size_out": "41.58平方公尺",
+        "tel": "(03)8234965",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "48399a80-76ca-4bbc-8d65-5279ade3f465",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.623378,
+            23.987718
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第6-1號",
+        "reg_docno": "北市社婦幼字第10048117300號",
+        "reg_date": "2011\/12\/30",
+        "title": "臺北市私立凱思寶幼兒園",
+        "owner": "莊榕逸",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]光復北路100巷8號3樓",
+        "floor": "3",
+        "size": "168.49平方公尺",
+        "size_in": "168.49平方公尺",
+        "size_out": "",
+        "tel": "(02)25791349",
+        "url": "",
+        "count_approved": "33",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：8",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8dd04c14-c8f0-49cc-b0e4-82ced850e24d",
+        "monthly": 16833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.557302,
+            25.0504439
+        ]
+    }
+}

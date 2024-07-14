@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1090003537號",
+        "reg_docno": "府教特字第20048號",
+        "reg_date": "2002\/03\/07",
+        "title": "苗栗縣私立三之三寶貝幼兒園",
+        "owner": "葉柏君",
+        "city": "苗栗縣",
+        "town": "苗栗市",
+        "type": "私立",
+        "address": "[360]勝利路146號",
+        "floor": "1-2",
+        "size": "3,890平方公尺",
+        "size_in": "1,920平方公尺",
+        "size_out": "1,970平方公尺",
+        "tel": "(037)367222",
+        "url": "miaoli33baby@gmail.com",
+        "count_approved": "313",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8b359ec7-5ce7-4549-990a-95b8ec0b734a",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.822383,
+            24.5461821
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11334536900號",
+        "reg_docno": "高市教幼字第11036327900號",
+        "reg_date": "2021\/09\/03",
+        "title": "高雄市私立星彩幼兒園",
+        "owner": "楊文田",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "私立",
+        "address": "[811]加宏路208號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3011100",
+        "url": "",
+        "count_approved": "143",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "aba0ae9d-2ea4-4c8b-ba78-3ada163cfc2c",
+        "monthly": 13800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2932067,
+            22.7166198
+        ]
+    }
+}

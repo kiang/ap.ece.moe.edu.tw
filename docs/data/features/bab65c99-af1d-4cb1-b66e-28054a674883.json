@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1100069807號",
+        "reg_docno": "府教特字第0940124460號",
+        "reg_date": "2005\/10\/28",
+        "title": "苗栗縣私立惠能幼兒園",
+        "owner": "林錦霞",
+        "city": "苗栗縣",
+        "town": "竹南鎮",
+        "type": "私立",
+        "address": "[350]龍好街92號",
+        "floor": "1樓、2樓",
+        "size": "1,059平方公尺",
+        "size_in": "660平方公尺",
+        "size_out": "399平方公尺",
+        "tel": "(037)552598",
+        "url": "http:\/\/www.hueinerng.com",
+        "count_approved": "105",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "bab65c99-af1d-4cb1-b66e-28054a674883",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.873229,
+            24.702612
+        ]
+    }
+}

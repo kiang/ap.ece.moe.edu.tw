@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010030652號",
+        "reg_docno": "九二府社幼字第0920129112號",
+        "reg_date": "2003\/05\/15",
+        "title": "臺中市私立桃太郎幼兒園",
+        "owner": "宋淑珍",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "私立",
+        "address": "[420]中正路543號3樓",
+        "floor": "3樓",
+        "size": "167.43平方公尺",
+        "size_in": "167.43平方公尺",
+        "size_out": "",
+        "tel": "(04)25283530",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1f0a4599-52ac-4751-8d90-3aba07723a92",
+        "monthly": 12000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7098192,
+            24.249977
+        ]
+    }
+}

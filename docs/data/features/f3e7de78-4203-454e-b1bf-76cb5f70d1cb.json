@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120067935號",
+        "reg_docno": "70府教國字第124632號",
+        "reg_date": "1981\/08\/13",
+        "title": "臺中市豐原區富春國民小學附設幼兒園",
+        "owner": "吳夢竹",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "公立",
+        "address": "[420]中山路455號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25222542#761",
+        "url": "https:\/\/sites.google.com\/fcps.tc.edu.tw\/338899",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f3e7de78-4203-454e-b1bf-76cb5f70d1cb",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.714079,
+            24.2520869
+        ]
+    }
+}

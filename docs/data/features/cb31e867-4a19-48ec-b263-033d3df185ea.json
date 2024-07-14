@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121109422號",
+        "reg_docno": "府教國字第112219號",
+        "reg_date": "1977\/10\/19",
+        "title": "臺南市玉井區玉井國民小學附設幼兒園",
+        "owner": "李信達",
+        "city": "臺南市",
+        "town": "玉井區",
+        "type": "公立",
+        "address": "[714]中正路1號",
+        "floor": "1樓",
+        "size": "880平方公尺",
+        "size_in": "220平方公尺",
+        "size_out": "660平方公尺",
+        "tel": "(06)5742047#201",
+        "url": "http:\/\/dns.yj1es.tnc.edu.tw\/xoops\/",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cb31e867-4a19-48ec-b263-033d3df185ea",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.458317,
+            23.119872
+        ]
+    }
+}

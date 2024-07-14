@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1060281555號",
+        "reg_docno": "府教國字第49532號",
+        "reg_date": "1984\/05\/17",
+        "title": "臺南市私立永康幼兒園",
+        "owner": "",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]永大路二段1220號",
+        "floor": "1樓至2樓",
+        "size": "1,839.38平方公尺",
+        "size_in": "707.78平方公尺",
+        "size_out": "1,131.6平方公尺",
+        "tel": "(06)2011565",
+        "url": "臺南市永康區永大路二段1220號",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ba6a6a57-010c-44f7-af0e-3c3fbc9772b4",
+        "monthly": 5883
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2618953,
+            23.0207038
+        ]
+    }
+}

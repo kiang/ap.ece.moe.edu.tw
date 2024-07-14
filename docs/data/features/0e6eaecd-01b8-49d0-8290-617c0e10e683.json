@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10870617500號",
+        "reg_docno": "屏府教特字第10316360800號",
+        "reg_date": "2014\/06\/03",
+        "title": "屏東縣私立上品幼兒園",
+        "owner": "林泰良",
+        "city": "屏東縣",
+        "town": "萬丹鄉",
+        "type": "私立",
+        "address": "[913]萬新路1518號",
+        "floor": "1樓",
+        "size": "540.44平方公尺",
+        "size_in": "171.72平方公尺",
+        "size_out": "368.72平方公尺",
+        "tel": "(08)7775818",
+        "url": "",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0e6eaecd-01b8-49d0-8290-617c0e10e683",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.489319,
+            22.581618
+        ]
+    }
+}

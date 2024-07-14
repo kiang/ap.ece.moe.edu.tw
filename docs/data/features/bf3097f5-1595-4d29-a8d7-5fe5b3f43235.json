@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138516200號",
+        "reg_docno": "府社福字第0910169513號",
+        "reg_date": "2002\/09\/27",
+        "title": "高雄市私立台上幼兒園",
+        "owner": "劉麗綉",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]台上路37號",
+        "floor": "1",
+        "size": "582.05平方公尺",
+        "size_in": "244.31平方公尺",
+        "size_out": "337.74平方公尺",
+        "tel": "(07)6214283",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bf3097f5-1595-4d29-a8d7-5fe5b3f43235",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2982761,
+            22.8051693
+        ]
+    }
+}

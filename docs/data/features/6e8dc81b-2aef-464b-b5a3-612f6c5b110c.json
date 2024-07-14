@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1100310936號",
+        "reg_docno": "南市教國字第67083號",
+        "reg_date": "1981\/10\/02",
+        "title": "財團法人台灣聖公會附設臺南市私立聖公會幼兒園",
+        "owner": "",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]崇德路550巷24號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2683771",
+        "url": "http：\/\/shenggonghui.topshool.com.tw",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6e8dc81b-2aef-464b-b5a3-612f6c5b110c",
+        "monthly": 12072
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.226669,
+            22.972715
+        ]
+    }
+}

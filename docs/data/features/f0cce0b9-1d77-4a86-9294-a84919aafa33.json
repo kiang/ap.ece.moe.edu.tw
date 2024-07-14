@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1111516430號",
+        "reg_docno": "府教特字第1111516430號",
+        "reg_date": "2022\/08\/26",
+        "title": "中華郵政公司嘉義文化路郵局職場互助教保服務中心(委託社團法人東台灣幼兒教保專業促進協會辦理)",
+        "owner": "黃春玉",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]文化路134號",
+        "floor": "2樓",
+        "size": "257.88平方公尺",
+        "size_in": "153.61平方公尺",
+        "size_out": "",
+        "tel": "(05)2275966",
+        "url": "評鑑情形：",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f0cce0b9-1d77-4a86-9294-a84919aafa33",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4500827,
+            23.4779289
+        ]
+    }
+}

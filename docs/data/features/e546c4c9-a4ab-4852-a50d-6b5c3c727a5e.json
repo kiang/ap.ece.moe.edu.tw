@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010476004號",
+        "reg_docno": "南市社兒字第930079886號",
+        "reg_date": "2004\/09\/17",
+        "title": "臺南市私立天資幼兒園",
+        "owner": "宮慧美",
+        "city": "臺南市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[704]文賢一路185號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2500136",
+        "url": "",
+        "count_approved": "285",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e546c4c9-a4ab-4852-a50d-6b5c3c727a5e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.195998,
+            23.008256
+        ]
+    }
+}

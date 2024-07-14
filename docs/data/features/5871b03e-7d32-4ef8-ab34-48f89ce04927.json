@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120124860號",
+        "reg_docno": "府教特字第1110110408號",
+        "reg_date": "2022\/07\/22",
+        "title": "新竹市私立奇達國際幼兒園",
+        "owner": "陳猛飛",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]科學園路6之8號",
+        "floor": "1樓、2樓",
+        "size": "749.12平方公尺",
+        "size_in": "432.66平方公尺",
+        "size_out": "316.46平方公尺",
+        "tel": "(09)08107372",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5871b03e-7d32-4ef8-ab34-48f89ce04927",
+        "monthly": 27899
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0095652,
+            24.7870443
+        ]
+    }
+}

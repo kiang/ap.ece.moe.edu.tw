@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010021377號",
+        "reg_docno": "府教國字第72144號",
+        "reg_date": "1990\/08\/22",
+        "title": "臺中市私立安君兒幼兒園",
+        "owner": "張森茂",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]太原六街11號",
+        "floor": "1樓、2樓",
+        "size": "2,415.13平方公尺",
+        "size_in": "1,662.26平方公尺",
+        "size_out": "752.87平方公尺",
+        "tel": "(04)22952566",
+        "url": "",
+        "count_approved": "360",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "bc636e1b-5012-4da8-9208-d47088094446",
+        "monthly": 13300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.670364,
+            24.166104
+        ]
+    }
+}

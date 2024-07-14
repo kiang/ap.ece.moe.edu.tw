@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620土城0043()號",
+        "reg_docno": "八九北府社兒字第89367194號",
+        "reg_date": "2000\/10\/07",
+        "title": "新北市私立華德幼兒園",
+        "owner": "王舜慶",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]員林街59號1、2樓",
+        "floor": "1,2",
+        "size": "282.2平方公尺",
+        "size_in": "244.99平方公尺",
+        "size_out": "",
+        "tel": "(02)22604082",
+        "url": "",
+        "count_approved": "69",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b09b7ba5-49bb-49fc-bea3-042d340540a3",
+        "monthly": 10183
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.443907,
+            24.977668
+        ]
+    }
+}

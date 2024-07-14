@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1112440068B號",
+        "reg_docno": "府教特一字第1112440068B號",
+        "reg_date": "2022\/08\/01",
+        "title": "雲林縣古坑鄉永光國民小學附設幼兒園",
+        "owner": "林芷安",
+        "city": "雲林縣",
+        "town": "古坑鄉",
+        "type": "公立",
+        "address": "[646]文昌路84號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)6341139",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8b1fa015-54b9-44eb-8a6f-bfc72c6c24e3",
+        "monthly": 3955
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5535167,
+            23.6259892
+        ]
+    }
+}

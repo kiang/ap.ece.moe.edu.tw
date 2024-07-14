@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第545-5號",
+        "reg_docno": "北市社五字第09635449400號",
+        "reg_date": "2007\/05\/17",
+        "title": "臺北市國興非營利幼兒園（委託財團法人海棠文教基金會辦理）",
+        "owner": "朱鳳芝",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "非營利",
+        "address": "[108]國興路46號1樓及2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)2303-8164",
+        "url": "評鑑情形：",
+        "count_approved": "162",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "835a2346-c01a-413e-b3a1-65953d69e580",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.507588,
+            25.025259
+        ]
+    }
+}

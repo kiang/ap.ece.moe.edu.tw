@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100045166號",
+        "reg_docno": "府社婦字第0930072207號",
+        "reg_date": "2004\/07\/02",
+        "title": "新竹市私立聖奧得幼兒園",
+        "owner": "陳秋津",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]金山九街81號1樓",
+        "floor": "1-3樓",
+        "size": "344.34平方公尺",
+        "size_in": "344.34平方公尺",
+        "size_out": "",
+        "tel": "(03)6661177",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cea1d820-764f-4a06-9065-df2f480acee6",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.020914,
+            24.77591
+        ]
+    }
+}

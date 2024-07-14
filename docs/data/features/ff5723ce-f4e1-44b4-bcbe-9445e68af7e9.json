@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1050709563F號",
+        "reg_docno": "南市教國字第01546號",
+        "reg_date": "1993\/01\/18",
+        "title": "臺南市北區開元國民小學附設幼兒園",
+        "owner": "李添旺",
+        "city": "臺南市",
+        "town": "北區",
+        "type": "公立",
+        "address": "[704]開元路71巷32號",
+        "floor": "1樓、2樓",
+        "size": "974平方公尺",
+        "size_in": "524平方公尺",
+        "size_out": "450平方公尺",
+        "tel": "(06)2375509#801",
+        "url": "http:\/\/spc.tn.edu.tw\/k050\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ff5723ce-f4e1-44b4-bcbe-9445e68af7e9",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.216866,
+            23.007987
+        ]
+    }
+}

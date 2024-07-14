@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137822600號",
+        "reg_docno": "府社福字第0940084661號",
+        "reg_date": "2005\/04\/26",
+        "title": "高雄市私立智慧星幼兒園",
+        "owner": "倪秀媛",
+        "city": "高雄市",
+        "town": "阿蓮區",
+        "type": "私立",
+        "address": "[822]信義路261號",
+        "floor": "1樓一2樓",
+        "size": "1,231.74平方公尺",
+        "size_in": "544.74平方公尺",
+        "size_out": "687平方公尺",
+        "tel": "(07)6315708",
+        "url": "",
+        "count_approved": "200",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "323ab10a-1cf9-4489-a09b-7f7f8e855fe4",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3238855,
+            22.8783332
+        ]
+    }
+}

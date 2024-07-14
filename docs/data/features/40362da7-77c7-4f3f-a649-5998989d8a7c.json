@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120118110號",
+        "reg_docno": "府教特字第1120118110號",
+        "reg_date": "2023\/08\/01",
+        "title": "宜蘭縣育才非營利幼兒園（委託社團法人宜蘭縣蘭陽幼兒教保事業發展協會辦理）",
+        "owner": "王信雄",
+        "city": "宜蘭縣",
+        "town": "宜蘭市",
+        "type": "非營利",
+        "address": "[260]進士路一段32號",
+        "floor": "1樓、2樓",
+        "size": "1,412.4平方公尺",
+        "size_in": "893.45平方公尺",
+        "size_out": "518.95平方公尺",
+        "tel": "(03)9699398#9",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "40362da7-77c7-4f3f-a649-5998989d8a7c",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7430032,
+            24.7378094
+        ]
+    }
+}

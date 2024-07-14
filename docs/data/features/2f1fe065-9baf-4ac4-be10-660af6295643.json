@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010039925號",
+        "reg_docno": "85府社福字第8519號",
+        "reg_date": "1996\/12\/10",
+        "title": "臺中市私立德明幼兒園",
+        "owner": "胡秋葉",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "私立",
+        "address": "[403]柳川西路二段193巷30號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22274889",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "c3f76d7c-758e-414b-b901-7be238718ae7",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.674241,
+            24.142313
+        ]
+    }
+}

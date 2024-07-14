@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新店0043號",
+        "reg_docno": "北府社兒字第0910466978號",
+        "reg_date": "2002\/07\/26",
+        "title": "新北市私立積木幼兒園",
+        "owner": "李辰歌",
+        "city": "新北市",
+        "town": "新店區",
+        "type": "私立",
+        "address": "[231]三民路31號1~2樓",
+        "floor": "1-2樓",
+        "size": "129.19平方公尺",
+        "size_in": "129.19平方公尺",
+        "size_out": "",
+        "tel": "(02)29182889",
+        "url": "www.blockkidsschool.com.tw",
+        "count_approved": "36",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：3",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e3f2caf9-0d88-4aed-b0ea-0afeea09d259",
+        "monthly": 15967
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.537884,
+            24.970451
+        ]
+    }
+}

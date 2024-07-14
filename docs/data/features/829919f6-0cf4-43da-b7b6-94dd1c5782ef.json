@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1130279836號",
+        "reg_docno": "府教國字第136448號",
+        "reg_date": "1978\/12\/21",
+        "title": "臺南市私立聖三幼兒園",
+        "owner": "黃敏正",
+        "city": "臺南市",
+        "town": "佳里區",
+        "type": "私立",
+        "address": "[722]和平街155號",
+        "floor": "1樓、2樓",
+        "size": "1,125.3平方公尺",
+        "size_in": "735.3平方公尺",
+        "size_out": "390平方公尺",
+        "tel": "(06)7211964",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "829919f6-0cf4-43da-b7b6-94dd1c5782ef",
+        "monthly": 10450
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.175605,
+            23.162156
+        ]
+    }
+}

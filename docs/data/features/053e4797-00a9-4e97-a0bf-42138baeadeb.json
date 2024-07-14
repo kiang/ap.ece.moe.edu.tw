@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101573137號",
+        "reg_docno": "南市教特(一)字第1101573137號",
+        "reg_date": "2022\/01\/04",
+        "title": "臺南市私立資優生幼兒園",
+        "owner": "林靖翔",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]永善三街1號",
+        "floor": "1樓、2樓、3樓",
+        "size": "3,642.35平方公尺",
+        "size_in": "2,156.31平方公尺",
+        "size_out": "1,486.04平方公尺",
+        "tel": "(06)2030458",
+        "url": "https:\/\/giftedstudents.topschool.tw\/Home\/Main",
+        "count_approved": "420",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "053e4797-00a9-4e97-a0bf-42138baeadeb",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2569294,
+            23.013669
+        ]
+    }
+}

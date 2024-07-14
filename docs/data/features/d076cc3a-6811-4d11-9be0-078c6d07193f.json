@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130242317號",
+        "reg_docno": "府社幼字第0990078270號",
+        "reg_date": "2010\/04\/01",
+        "title": "彰化縣私立幼安人文幼兒園",
+        "owner": "蔡程安",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "私立",
+        "address": "[500]民族路199號",
+        "floor": "1樓至2樓",
+        "size": "953.65平方公尺",
+        "size_in": "573.23平方公尺",
+        "size_out": "380.42平方公尺",
+        "tel": "(04)7272755",
+        "url": "",
+        "count_approved": "130",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：10",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d076cc3a-6811-4d11-9be0-078c6d07193f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5388995,
+            24.0704359
+        ]
+    }
+}

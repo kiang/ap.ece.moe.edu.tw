@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1120185378號",
+        "reg_docno": "府教學前字第1040217067號",
+        "reg_date": "2015\/08\/01",
+        "title": "苗栗縣大湖鄉南湖國民小學附設幼兒園",
+        "owner": "劉陞華",
+        "city": "苗栗縣",
+        "town": "大湖鄉",
+        "type": "公立",
+        "address": "[364]南昌路5號",
+        "floor": "1樓",
+        "size": "3,034.75平方公尺",
+        "size_in": "192.55平方公尺",
+        "size_out": "2,842.2平方公尺",
+        "tel": "(037)991462#31",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3caefdb1-43b2-4313-9f66-a85cd0a7da12",
+        "monthly": 3655
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8666053,
+            24.3979342
+        ]
+    }
+}

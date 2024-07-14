@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第533-1號",
+        "reg_docno": "北市社五字第8720910700號",
+        "reg_date": "1998\/03\/07",
+        "title": "臺北市私立桃樂絲幼兒園",
+        "owner": "沈約西",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]民族街12號1、2樓",
+        "floor": "1樓",
+        "size": "104.95平方公尺",
+        "size_in": "97.75平方公尺",
+        "size_out": "7.2平方公尺",
+        "tel": "(02)28930381",
+        "url": "",
+        "count_approved": "23",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c01a3042-4ce6-47a1-a0b1-1959b450fce3",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.504468,
+            25.132083
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010317914號",
+        "reg_docno": "八七彰府社福字第136317號",
+        "reg_date": "1998\/07\/24",
+        "title": "彰化縣私立迪士尼幼兒園",
+        "owner": "王美玉",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "私立",
+        "address": "[510]忠孝街257號",
+        "floor": "1樓",
+        "size": "1,975.73平方公尺",
+        "size_in": "471.03平方公尺",
+        "size_out": "1,364.9平方公尺",
+        "tel": "(04)8328882",
+        "url": "http:\/\/disney-kids.woby.com.tw\/",
+        "count_approved": "240",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e4026418-9f8a-4217-a736-8e1ca2936fbf",
+        "monthly": 4300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.579755,
+            23.956872
+        ]
+    }
+}

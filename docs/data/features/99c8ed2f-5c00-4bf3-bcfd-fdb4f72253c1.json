@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10827546400號",
+        "reg_docno": "屏府社福字第86572號",
+        "reg_date": "2000\/06\/01",
+        "title": "屏東縣私立貝兒幼兒園",
+        "owner": "謝芝靜",
+        "city": "屏東縣",
+        "town": "萬丹鄉",
+        "type": "私立",
+        "address": "[913]廣安路130號",
+        "floor": "1樓、1",
+        "size": "633.18平方公尺",
+        "size_in": "260.52平方公尺",
+        "size_out": "253.27平方公尺",
+        "tel": "(08)7779998",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "99c8ed2f-5c00-4bf3-bcfd-fdb4f72253c1",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4931113,
+            22.6144193
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新莊0076之2號",
+        "reg_docno": "北府社兒字第0930328654號",
+        "reg_date": "2004\/04\/21",
+        "title": "夏恩國際教育股份有限公司附設新北市私立夏恩昌隆幼兒園",
+        "owner": "陳文貴",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]中原路117號2樓之1、2樓之2",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)89941238",
+        "url": "",
+        "count_approved": "67",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e17eb5a5-59a1-4935-9ff3-3aee4a5d0742",
+        "monthly": 20000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.455337,
+            25.0541128
+        ]
+    }
+}

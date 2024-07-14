@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第682-2號",
+        "reg_docno": "北市社五字第8827463400號",
+        "reg_date": "1999\/11\/22",
+        "title": "臺北市私立健寶兒幼兒園",
+        "owner": "朱正英",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]敦化北路222巷11之1、13號1樓",
+        "floor": "1",
+        "size": "168.22平方公尺",
+        "size_in": "168.22平方公尺",
+        "size_out": "",
+        "tel": "(02)27123455",
+        "url": "",
+        "count_approved": "48",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a56d24a9-b8f5-443b-85b2-48b438986664",
+        "monthly": 13970
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.548413,
+            25.059433
+        ]
+    }
+}

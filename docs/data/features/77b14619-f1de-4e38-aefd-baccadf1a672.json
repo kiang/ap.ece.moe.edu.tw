@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字字第772-1號",
+        "reg_docno": "北市教前字第1076056662號",
+        "reg_date": "2018\/11\/01",
+        "title": "臺北市興福非營利幼兒園（委託財團法人三之三生命教育基金會辦理）",
+        "owner": "吳文宗",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "非營利",
+        "address": "[116]福興路80號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,514.41平方公尺",
+        "size_in": "1,174.97平方公尺",
+        "size_out": "339.44平方公尺",
+        "tel": "(02)29306640",
+        "url": "評鑑情形：",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "77b14619-f1de-4e38-aefd-baccadf1a672",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5498485,
+            25.0048845
+        ]
+    }
+}

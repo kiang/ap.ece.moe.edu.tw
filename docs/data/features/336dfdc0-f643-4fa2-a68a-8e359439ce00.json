@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110144067號",
+        "reg_docno": "府教學前字第1110144067號",
+        "reg_date": "2022\/08\/01",
+        "title": "財政部國有財產署中區分署苗栗辦事處職場互助教保服務中心（委託財團法人臺中市蒙特梭利教育基金會辦理）",
+        "owner": "陳素珍",
+        "city": "苗栗縣",
+        "town": "苗栗市",
+        "type": "私立",
+        "address": "[360]玉清路386號3樓",
+        "floor": "3樓",
+        "size": "146.26平方公尺",
+        "size_in": "146.26平方公尺",
+        "size_out": "",
+        "tel": "(037)335337",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "336dfdc0-f643-4fa2-a68a-8e359439ce00",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8365241,
+            24.5622831
+        ]
+    }
+}

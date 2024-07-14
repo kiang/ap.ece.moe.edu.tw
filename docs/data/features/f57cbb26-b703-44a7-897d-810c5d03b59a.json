@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120083981號",
+        "reg_docno": "教二字第54056號",
+        "reg_date": "1973\/10\/18",
+        "title": "臺中市東區臺中國民小學附設幼兒園",
+        "owner": "吳宛玫",
+        "city": "臺中市",
+        "town": "東區",
+        "type": "公立",
+        "address": "[401]大公街100號",
+        "floor": "1樓",
+        "size": "1,360平方公尺",
+        "size_in": "900平方公尺",
+        "size_out": "460平方公尺",
+        "tel": "(04)22815312#10",
+        "url": "https:\/\/tces.tc.edu.tw\/p\/412-1167-1586.php",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f57cbb26-b703-44a7-897d-810c5d03b59a",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.68652,
+            24.131676
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130014018號",
+        "reg_docno": "府教特字第0950130109號",
+        "reg_date": "2006\/09\/20",
+        "title": "嘉義縣私立一之一幼兒園",
+        "owner": "呂泳樑",
+        "city": "嘉義縣",
+        "town": "水上鄉",
+        "type": "私立",
+        "address": "[608]中正路127號",
+        "floor": "1樓",
+        "size": "2,461平方公尺",
+        "size_in": "846.98平方公尺",
+        "size_out": "1,614.02平方公尺",
+        "tel": "(05)2682311",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e38e3688-d62b-46cf-b538-a85047b6905c",
+        "monthly": 5530
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.399988,
+            23.427706
+        ]
+    }
+}

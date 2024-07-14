@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第20號",
+        "reg_docno": "北市教前字第1113012194號",
+        "reg_date": "2022\/08\/12",
+        "title": "臺灣士林地方檢察署職場互助教保服務中心（委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理）",
+        "owner": "邱健凱",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]士東路190號3樓",
+        "floor": "3樓",
+        "size": "85.41平方公尺",
+        "size_in": "60.06平方公尺",
+        "size_out": "",
+        "tel": "(02)28313232",
+        "url": "評鑑情形：",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "05995cb7-1c68-4f48-ae2b-2d6e183f3509",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5333428,
+            25.111825
+        ]
+    }
+}

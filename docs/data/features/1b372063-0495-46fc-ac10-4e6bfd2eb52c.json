@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100189640號",
+        "reg_docno": "府教特字第0910097493號",
+        "reg_date": "2002\/05\/09",
+        "title": "桃園市楊梅區上湖國民小學附設幼兒園",
+        "owner": "莊錦欣",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "公立",
+        "address": "[326]60之1號",
+        "floor": "1樓",
+        "size": "488.55平方公尺",
+        "size_in": "308.55平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(03)4728925#280",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1b372063-0495-46fc-ac10-4e6bfd2eb52c",
+        "monthly": 4012
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.085051,
+            24.909768
+        ]
+    }
+}

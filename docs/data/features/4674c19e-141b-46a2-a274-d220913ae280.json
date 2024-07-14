@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100168438號",
+        "reg_docno": "府教幼字第1100168438號",
+        "reg_date": "2021\/07\/21",
+        "title": "南投縣私立華陽幼兒園",
+        "owner": "黃益仁",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "私立",
+        "address": "[540]華陽路658號",
+        "floor": "1樓",
+        "size": "701.87平方公尺",
+        "size_in": "341.87平方公尺",
+        "size_out": "360平方公尺",
+        "tel": "(049)2252916",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4674c19e-141b-46a2-a274-d220913ae280",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6813667,
+            23.9249548
+        ]
+    }
+}

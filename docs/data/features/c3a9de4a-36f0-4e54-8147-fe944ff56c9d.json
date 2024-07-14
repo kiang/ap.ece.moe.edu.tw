@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680三重0095之2號",
+        "reg_docno": "新北府教幼字第1071935081號",
+        "reg_date": "2018\/08\/01",
+        "title": "新北市立二重國民中學附設幼兒園",
+        "owner": "游翔越",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "公立",
+        "address": "[241]忠孝路三段89號",
+        "floor": "1樓、2樓",
+        "size": "951.84平方公尺",
+        "size_in": "525.84平方公尺",
+        "size_out": "426平方公尺",
+        "tel": "(02)29800164",
+        "url": "http:\/\/www.ecjh.ntpc.edu.tw\/default_page.asp",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c3a9de4a-36f0-4e54-8147-fe944ff56c9d",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.480341,
+            25.065864
+        ]
+    }
+}

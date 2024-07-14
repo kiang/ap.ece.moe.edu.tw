@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110111811號",
+        "reg_docno": "中市教幼字第1110064317號",
+        "reg_date": "2022\/08\/01",
+        "title": "臺中市神圳非營利幼兒園(委託財團法人仁德醫護管理專科學校設立之仁德醫護管理專科學校辦理)",
+        "owner": "鍾佳穎",
+        "city": "臺中市",
+        "town": "神岡區",
+        "type": "非營利",
+        "address": "[429]神清路61號",
+        "floor": "1樓",
+        "size": "1,350.98平方公尺",
+        "size_in": "1,045.63平方公尺",
+        "size_out": "305.35平方公尺",
+        "tel": "(04)25620168",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9109cb9c-0f3b-4d6d-b7d0-1ce7363987a6",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6586229,
+            24.2609985
+        ]
+    }
+}

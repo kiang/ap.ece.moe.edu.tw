@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第789號",
+        "reg_docno": "北市教前字第1093044108號",
+        "reg_date": "2020\/08\/18",
+        "title": "臺北市私立梅爾森幼兒園",
+        "owner": "張至嘉",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]木新路二段79巷12弄16、18號1樓",
+        "floor": "1樓",
+        "size": "868.3平方公尺",
+        "size_in": "350.46平方公尺",
+        "size_out": "517.84平方公尺",
+        "tel": "(02)86610262",
+        "url": "",
+        "count_approved": "103",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6fa9cfc0-5f6c-4041-86bc-9753b8131eab",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.570749,
+            24.9842
+        ]
+    }
+}

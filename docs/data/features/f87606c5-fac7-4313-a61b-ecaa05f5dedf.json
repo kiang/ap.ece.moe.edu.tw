@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0119號",
+        "reg_docno": "六九北府社三字第69262373號",
+        "reg_date": "1980\/12\/04",
+        "title": "新北市私立互仁幼兒園",
+        "owner": "胡張素蓉",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]福壽街99巷6弄1號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29916568",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f87606c5-fac7-4313-a61b-ecaa05f5dedf",
+        "monthly": 8700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.45699,
+            25.050511
+        ]
+    }
+}

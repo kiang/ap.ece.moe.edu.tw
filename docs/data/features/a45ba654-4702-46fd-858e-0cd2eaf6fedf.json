@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120227060號",
+        "reg_docno": "府社兒婦字第0990076003號",
+        "reg_date": "1996\/05\/03",
+        "title": "宜蘭縣五結鄉立幼兒園",
+        "owner": "沈德茂",
+        "city": "宜蘭縣",
+        "town": "五結鄉",
+        "type": "公立",
+        "address": "[268]國民中路3-5號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)9600755#11",
+        "url": "",
+        "count_approved": "518",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a45ba654-4702-46fd-858e-0cd2eaf6fedf",
+        "monthly": 4149
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.794202,
+            24.691483
+        ]
+    }
+}

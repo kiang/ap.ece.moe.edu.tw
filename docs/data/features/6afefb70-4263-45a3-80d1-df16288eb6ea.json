@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10936552100號",
+        "reg_docno": "高市教三字第0970036449(補)號",
+        "reg_date": "2003\/08\/01",
+        "title": "高雄市前鎮區民權國民小學附設幼兒園",
+        "owner": "周譽峰",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "公立",
+        "address": "[806]沱江街200號",
+        "floor": "1樓",
+        "size": "1,264.86平方公尺",
+        "size_in": "393.52平方公尺",
+        "size_out": "871.34平方公尺",
+        "tel": "(07)5367177#800",
+        "url": "@mchps.kh.edu.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6afefb70-4263-45a3-80d1-df16288eb6ea",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.314307,
+            22.608266
+        ]
+    }
+}

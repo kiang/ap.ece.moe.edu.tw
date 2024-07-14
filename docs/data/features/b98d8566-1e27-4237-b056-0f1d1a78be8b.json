@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新莊0125之1號",
+        "reg_docno": "新北府教幼字第1042324675號",
+        "reg_date": "2015\/12\/30",
+        "title": "新北市私立英勝幼兒園",
+        "owner": "楊明潭",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]富貴路88號1、2、3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)85213736",
+        "url": "",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b98d8566-1e27-4237-b056-0f1d1a78be8b",
+        "monthly": 20250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4532083,
+            25.0573104
+        ]
+    }
+}

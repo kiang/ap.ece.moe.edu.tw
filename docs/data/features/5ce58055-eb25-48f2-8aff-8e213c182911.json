@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第808號",
+        "reg_docno": "北市教前字第11130166911號",
+        "reg_date": "2022\/10\/07",
+        "title": "臺北市北溫非營利幼兒園(委託社團法人台北市教保人員協會辦理)",
+        "owner": "黃麗芳",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "非營利",
+        "address": "[112]溫泉路62號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,191.74平方公尺",
+        "size_in": "884.33平方公尺",
+        "size_out": "307.41平方公尺",
+        "tel": "(02)28955608",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100079627872111",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5ce58055-eb25-48f2-8aff-8e213c182911",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5046099,
+            25.134939
+        ]
+    }
+}

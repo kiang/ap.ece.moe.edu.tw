@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10335816400號",
+        "reg_docno": "83府教國字第139312號",
+        "reg_date": "1994\/08\/17",
+        "title": "高雄市私立親民幼兒園",
+        "owner": "蘇宇湘",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]竹圍北街119號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6219747",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8242c64b-0cfc-49cb-a91f-a617e027b0d5",
+        "monthly": 3900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.303598,
+            22.802703
+        ]
+    }
+}

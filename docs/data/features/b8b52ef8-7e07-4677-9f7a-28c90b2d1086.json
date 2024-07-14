@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120193787號",
+        "reg_docno": "府教學字第1040174629號",
+        "reg_date": "2015\/09\/24",
+        "title": "南投縣草屯鎮北投國民小學附設幼兒園",
+        "owner": "陳文燦",
+        "city": "南投縣",
+        "town": "草屯鎮",
+        "type": "公立",
+        "address": "[542]文教巷43號",
+        "floor": "1樓",
+        "size": "553.7平方公尺",
+        "size_in": "373.7平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(049)2313376",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b8b52ef8-7e07-4677-9f7a-28c90b2d1086",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.658908,
+            23.9867158
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "府社福字第175604號",
+        "reg_date": "1970\/01\/01",
+        "title": "臺南市立學甲幼兒園",
+        "owner": "顏春枝",
+        "city": "臺南市",
+        "town": "學甲區",
+        "type": "公立",
+        "address": "[726]下溪洲1-11號",
+        "floor": "1樓、2樓、3樓",
+        "size": "3,017.47平方公尺",
+        "size_in": "2,247.53平方公尺",
+        "size_out": "769.94平方公尺",
+        "tel": "(06)7832273",
+        "url": "http:\/\/sj.pre-school.com.tw\/",
+        "count_approved": "151",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "15201667-a1f7-4526-8809-85d609c2ef9a",
+        "monthly": 3484
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.174103,
+            23.23724
+        ]
+    }
+}

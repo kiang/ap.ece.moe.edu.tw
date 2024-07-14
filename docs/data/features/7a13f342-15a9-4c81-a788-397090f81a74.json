@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090210564號",
+        "reg_docno": "府教幼字第1090210564號",
+        "reg_date": "2020\/08\/27",
+        "title": "桃園市同德非營利幼兒園(委託社團法人桃園市全能多元文教發展協會辦理)莊敬分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "非營利",
+        "address": "[330]莊一街107號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3011665",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7a13f342-15a9-4c81-a788-397090f81a74",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2926002,
+            25.0212991
+        ]
+    }
+}

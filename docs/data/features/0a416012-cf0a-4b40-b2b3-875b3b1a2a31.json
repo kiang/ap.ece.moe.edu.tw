@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0001之1號",
+        "reg_docno": "北府社兒字第0920643847號",
+        "reg_date": "2003\/10\/20",
+        "title": "新北市私立芝蔴城幼兒園",
+        "owner": "江保樺",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]新台五路2段150號1.2樓",
+        "floor": "1+2樓",
+        "size": "160.19平方公尺",
+        "size_in": "160.19平方公尺",
+        "size_out": "",
+        "tel": "(02)26478689",
+        "url": "http:\/\/blog",
+        "count_approved": "45",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "0a416012-cf0a-4b40-b2b3-875b3b1a2a31",
+        "monthly": 13123
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6650358,
+            25.0666912
+        ]
+    }
+}

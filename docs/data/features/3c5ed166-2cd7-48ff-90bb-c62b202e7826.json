@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1110240001號",
+        "reg_docno": "基信國教字第54054號",
+        "reg_date": "1974\/08\/26",
+        "title": "基隆市信義區信義國民小學附設幼兒園",
+        "owner": "潘志煌",
+        "city": "基隆市",
+        "town": "仁愛區",
+        "type": "公立",
+        "address": "[200]仁二路135號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24213960#60",
+        "url": "http:\/\/:www.syps.kl.edu.tw",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3c5ed166-2cd7-48ff-90bb-c62b202e7826",
+        "monthly": 3133
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7469014,
+            25.1274807
+        ]
+    }
+}

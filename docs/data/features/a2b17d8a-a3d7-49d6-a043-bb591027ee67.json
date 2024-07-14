@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學字第1040219710號",
+        "reg_docno": "府教學字第09100706660號",
+        "reg_date": "2002\/04\/23",
+        "title": "南投縣私立湯姆幼兒園",
+        "owner": "李孟珍",
+        "city": "南投縣",
+        "town": "竹山鎮",
+        "type": "私立",
+        "address": "[557]向學街99號",
+        "floor": "1樓、2樓",
+        "size": "2,825平方公尺",
+        "size_in": "262平方公尺",
+        "size_out": "2,479平方公尺",
+        "tel": "(049)2653255",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a2b17d8a-a3d7-49d6-a043-bb591027ee67",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6858653,
+            23.7622001
+        ]
+    }
+}

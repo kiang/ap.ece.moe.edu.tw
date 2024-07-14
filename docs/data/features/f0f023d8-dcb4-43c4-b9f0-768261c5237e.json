@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1110583245號",
+        "reg_docno": "南市社兒字第931353766號",
+        "reg_date": "2004\/05\/11",
+        "title": "臺南市私立魔荳幼兒園",
+        "owner": "吳佳展",
+        "city": "臺南市",
+        "town": "安平區",
+        "type": "私立",
+        "address": "[708]民權路四段315號",
+        "floor": "1樓、2樓",
+        "size": "1,214.39平方公尺",
+        "size_in": "813.53平方公尺",
+        "size_out": "400.64平方公尺",
+        "tel": "(06)2507906",
+        "url": "magicbean.topschool.com.tw",
+        "count_approved": "170",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f0f023d8-dcb4-43c4-b9f0-768261c5237e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.177584,
+            22.999047
+        ]
+    }
+}

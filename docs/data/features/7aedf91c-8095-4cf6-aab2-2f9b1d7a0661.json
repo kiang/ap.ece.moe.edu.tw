@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100182632號",
+        "reg_docno": "府教特字第09400810730號",
+        "reg_date": "2005\/06\/09",
+        "title": "花蓮縣玉里鎮長良國民小學附設幼兒園",
+        "owner": "張乃千",
+        "city": "花蓮縣",
+        "town": "玉里鎮",
+        "type": "公立",
+        "address": "[981]163號",
+        "floor": "1",
+        "size": "134.28平方公尺",
+        "size_in": "89.28平方公尺",
+        "size_out": "45平方公尺",
+        "tel": "(03)8801171#31",
+        "url": "http:\/\/www.clps.hlc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7aedf91c-8095-4cf6-aab2-2f9b1d7a0661",
+        "monthly": 2926
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.286037,
+            23.284252
+        ]
+    }
+}

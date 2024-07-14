@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130156628號",
+        "reg_docno": "府教幼字第1080264239號",
+        "reg_date": "2019\/07\/31",
+        "title": "彰化縣石牌非營利幼兒園（委託社團法人彰化縣中華幼兒教保職涯發展協會辦理）",
+        "owner": "郭懿珊",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "非營利",
+        "address": "[500]田坑路一段9號",
+        "floor": "1樓、2樓",
+        "size": "510.8905平方公尺",
+        "size_in": "300.2005平方公尺",
+        "size_out": "210.69平方公尺",
+        "tel": "(04)7384073",
+        "url": "評鑑情形：",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b1d07e57-3d91-4303-a6f5-1a02e984803b",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6149419,
+            24.0585579
+        ]
+    }
+}

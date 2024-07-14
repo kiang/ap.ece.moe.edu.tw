@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060031000號",
+        "reg_docno": "府社婦字第217113號",
+        "reg_date": "2001\/10\/31",
+        "title": "桃園市私立御寶兒幼兒園",
+        "owner": "王宜蘋",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]大興西路二段55號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3025188",
+        "url": "",
+        "count_approved": "21",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0317aa42-3cfc-4618-8407-632b4f456147",
+        "monthly": 6500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.298899,
+            25.011323
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090011109號",
+        "reg_docno": "87府教國字第194825號",
+        "reg_date": "1998\/09\/28",
+        "title": "桃園市私立愛比幼兒園",
+        "owner": "藍玉裡",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]中大路55號1-3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4227700",
+        "url": "",
+        "count_approved": "257",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：49",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b6ff72a9-79c7-469c-9153-12cc6f078514",
+        "monthly": 9800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2011881,
+            24.9680721
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1111516432號",
+        "reg_docno": "府教特字第1111516432號",
+        "reg_date": "2022\/08\/26",
+        "title": "國防部全動署後備指揮部安樂營區職場互助教保服務中心(委託台灣幸福嬰幼兒全方位發展協會辦理)",
+        "owner": "黃娟娟",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]安樂街196號",
+        "floor": "1樓、2樓",
+        "size": "199平方公尺",
+        "size_in": "172.8平方公尺",
+        "size_out": "",
+        "tel": "(05)2161388",
+        "url": "嘉義市東區安樂街196號96號",
+        "count_approved": "35",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "57039d68-6252-4db3-bbfb-d7571cdd0e82",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4541932,
+            23.4823593
+        ]
+    }
+}

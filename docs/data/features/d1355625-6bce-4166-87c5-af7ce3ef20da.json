@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040081923號",
+        "reg_docno": "中市教幼字第1040081923號",
+        "reg_date": "2015\/11\/03",
+        "title": "臺中市私立尚恩北勢幼兒園",
+        "owner": "林君儀",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "私立",
+        "address": "[433]北勢2街12-1號1~3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "465.77平方公尺",
+        "size_in": "298.4平方公尺",
+        "size_out": "167.37平方公尺",
+        "tel": "(04)26315232",
+        "url": "台中市沙鹿區北勢二街12-1號",
+        "count_approved": "55",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d1355625-6bce-4166-87c5-af7ce3ef20da",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.570249,
+            24.230252
+        ]
+    }
+}

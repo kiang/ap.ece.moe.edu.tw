@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10832724900號",
+        "reg_docno": "高市社局四字第8502號",
+        "reg_date": "1997\/04\/11",
+        "title": "高雄市私立文文幼兒園",
+        "owner": "錢秀梅",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "私立",
+        "address": "[806]翠亨北路279號1樓",
+        "floor": "1樓",
+        "size": "434.96平方公尺",
+        "size_in": "212.44平方公尺",
+        "size_out": "222.52平方公尺",
+        "tel": "(07)8111168",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9f83cd78-5797-4671-a3d1-fe8e58bf95a2",
+        "monthly": 8900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.320801,
+            22.589274
+        ]
+    }
+}

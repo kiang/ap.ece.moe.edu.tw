@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第1123279100號",
+        "reg_docno": "高市教幼字第10735705500號",
+        "reg_date": "2018\/09\/05",
+        "title": "高雄市前鎮非營利幼兒園（委託高雄市教保人員職業工會辦理）",
+        "owner": "黃雅雪",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "非營利",
+        "address": "[806]新衙路17號",
+        "floor": "1樓、2樓",
+        "size": "5,087.88平方公尺",
+        "size_in": "958.95平方公尺",
+        "size_out": "4,128.93平方公尺",
+        "tel": "(07)8218522",
+        "url": "評鑑情形：",
+        "count_approved": "122",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5a5a16da-7952-49cd-8966-eb7709d20a81",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3209996,
+            22.5826842
+        ]
+    }
+}

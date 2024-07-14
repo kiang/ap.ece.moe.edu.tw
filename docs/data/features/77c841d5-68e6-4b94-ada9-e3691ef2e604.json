@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110004651號",
+        "reg_docno": "中市教幼字第1110004651號",
+        "reg_date": "2022\/02\/10",
+        "title": "歐森烏日教育事業股份有限公司附設臺中市私立鷗森烏日幼兒園",
+        "owner": "吳麗惠",
+        "city": "臺中市",
+        "town": "烏日區",
+        "type": "私立",
+        "address": "[414]中華路150號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,829.44平方公尺",
+        "size_in": "1,212.95平方公尺",
+        "size_out": "616.49平方公尺",
+        "tel": "(04)23379972",
+        "url": "",
+        "count_approved": "198",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "77c841d5-68e6-4b94-ada9-e3691ef2e604",
+        "monthly": 16675
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6411989,
+            24.1122602
+        ]
+    }
+}

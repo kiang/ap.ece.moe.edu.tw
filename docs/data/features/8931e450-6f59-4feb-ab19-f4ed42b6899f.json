@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136448100號",
+        "reg_docno": "府教特字第0960065269號",
+        "reg_date": "2007\/03\/16",
+        "title": "高雄市鳳山區中崙國民小學附設幼兒園",
+        "owner": "蕭速農",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "公立",
+        "address": "[830]中崙四路25號",
+        "floor": "1樓",
+        "size": "1,114.35平方公尺",
+        "size_in": "389.22平方公尺",
+        "size_out": "725.13平方公尺",
+        "tel": "(07)7533244#80",
+        "url": "http:\/\/class.kh.edu.tw\/24444",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8931e450-6f59-4feb-ab19-f4ed42b6899f",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.350798,
+            22.599431
+        ]
+    }
+}

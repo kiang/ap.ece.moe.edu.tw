@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010643189號",
+        "reg_docno": "府社福字第202519號",
+        "reg_date": "1996\/11\/23",
+        "title": "臺南市私立敦煌幼兒園",
+        "owner": "劉昱君",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]中山東路350巷1號",
+        "floor": "1-2樓",
+        "size": "1,006.55平方公尺",
+        "size_in": "469.06平方公尺",
+        "size_out": "537.49平方公尺",
+        "tel": "(06)3133266",
+        "url": "",
+        "count_approved": "190",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b943c07b-9ee6-40b1-8a14-8c2dbe2e48c4",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.23799,
+            23.007584
+        ]
+    }
+}

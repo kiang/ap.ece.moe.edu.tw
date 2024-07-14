@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090156795號",
+        "reg_docno": "府教特字第09500348500號",
+        "reg_date": "2006\/03\/07",
+        "title": "花蓮縣豐濱鄉靜浦國民小學附設幼兒園",
+        "owner": "張正德",
+        "city": "花蓮縣",
+        "town": "豐濱鄉",
+        "type": "公立",
+        "address": "[977]靜浦64號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8781021#20",
+        "url": "http:\/\/210.240.94.66\/",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b7f73dde-bd1c-4ccf-b3c6-1370c1c293da",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4794317,
+            23.4722671
+        ]
+    }
+}

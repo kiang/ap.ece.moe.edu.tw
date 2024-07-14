@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080180472號",
+        "reg_docno": "府教特字第0910234809號",
+        "reg_date": "2002\/10\/29",
+        "title": "桃園市私立芃芃森林幼兒園",
+        "owner": "許幼斌",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "私立",
+        "address": "[325]大順路296號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4092799",
+        "url": "http:\/\/pon-pon.topschool.com.tw\/",
+        "count_approved": "421",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "36f58a5b-b3c4-498e-af4c-a0692c22cd3e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.217249,
+            24.847977
+        ]
+    }
+}

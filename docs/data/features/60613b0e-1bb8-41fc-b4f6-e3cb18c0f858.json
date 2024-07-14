@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110277343號",
+        "reg_docno": "府教幼字第1110277343號",
+        "reg_date": "2022\/09\/30",
+        "title": "桃園市中福非營利幼兒園(委託社團法人中華啟幼思學會辦理)",
+        "owner": "羅秋景",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "非營利",
+        "address": "[330]中福街2號",
+        "floor": "1樓、2樓、3樓",
+        "size": "740.04平方公尺",
+        "size_in": "636.6平方公尺",
+        "size_out": "103.44平方公尺",
+        "tel": "(03)3323103#13",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "60613b0e-1bb8-41fc-b4f6-e3cb18c0f858",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3056913,
+            24.9965652
+        ]
+    }
+}

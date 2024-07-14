@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090280008號",
+        "reg_docno": "府教幼字第1050317572號",
+        "reg_date": "2016\/12\/21",
+        "title": "桃園市私立金琜恩幼兒園",
+        "owner": "黃正耀",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]龍川九街168號",
+        "floor": "2樓",
+        "size": "3,467.36平方公尺",
+        "size_in": "1,671.15平方公尺",
+        "size_out": "1,796.21平方公尺",
+        "tel": "(03)4658666",
+        "url": "http:\/\/huacheng.topschool.com.tw\/",
+        "count_approved": "416",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：47",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "21878153-a820-4f8d-9b3e-044475327177",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2459211,
+            24.9325012
+        ]
+    }
+}

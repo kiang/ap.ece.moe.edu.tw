@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010595872號",
+        "reg_docno": "南市社福字第17643號",
+        "reg_date": "1995\/06\/10",
+        "title": "臺南市私立樂貝兒幼兒園",
+        "owner": "郭賽華",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]東寧路518號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2742111",
+        "url": "http:\/\/www.abc-school.com.tw",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3d421a55-9d3d-4eb8-97d1-a208e9a1f9b7",
+        "monthly": 16466
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.231016,
+            22.988921
+        ]
+    }
+}

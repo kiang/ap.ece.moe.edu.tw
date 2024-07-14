@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1080859381號",
+        "reg_docno": "南市教幼字第1010673070號",
+        "reg_date": "2012\/08\/01",
+        "title": "臺南市南區喜樹國民小學附設幼兒園",
+        "owner": "黃懷慧",
+        "city": "臺南市",
+        "town": "南區",
+        "type": "公立",
+        "address": "[702]喜樹路133號",
+        "floor": "1樓",
+        "size": "4,565平方公尺",
+        "size_in": "257平方公尺",
+        "size_out": "4,308平方公尺",
+        "tel": "(06)2622462",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6947ba3c-256c-4ea6-8488-1be5e8855c1f",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1796513,
+            22.9424741
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1132401447號",
+        "reg_docno": "八六基府教國字第002497號",
+        "reg_date": "1997\/01\/10",
+        "title": "基隆市中山區仙洞國民小學附設幼兒園",
+        "owner": "江照男",
+        "city": "基隆市",
+        "town": "中山區",
+        "type": "公立",
+        "address": "[203]仁安街141號",
+        "floor": "1樓至2樓",
+        "size": "1,137平方公尺",
+        "size_in": "423平方公尺",
+        "size_out": "714平方公尺",
+        "tel": "(02)24262012",
+        "url": "",
+        "count_approved": "91",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "32a00121-b06e-4c2b-8dc2-0524177def8e",
+        "monthly": 3111
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.74683,
+            25.147198
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1120507279號",
+        "reg_docno": "南市教特(一)字第1120507279號",
+        "reg_date": "2023\/04\/27",
+        "title": "臺南市私立愛森國際幼兒園",
+        "owner": "林怡伶",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]州南一街25號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)3561699",
+        "url": "",
+        "count_approved": "332",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "06266b70-1084-481d-b626-82beed1bc7dd",
+        "monthly": 5400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2177565,
+            23.0571655
+        ]
+    }
+}

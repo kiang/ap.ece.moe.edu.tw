@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070294263號",
+        "reg_docno": "府社福字第146670號",
+        "reg_date": "1996\/07\/15",
+        "title": "桃園市私立愛兒群幼兒園",
+        "owner": "吳靖惠",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]東勇街45巷12號1-3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3765999",
+        "url": "",
+        "count_approved": "483",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：80",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "29f0262b-77fd-4090-a862-dd968a8bd13e",
+        "monthly": 13377
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3054691,
+            24.9618417
+        ]
+    }
+}

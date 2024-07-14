@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11044736000號",
+        "reg_docno": "屏府教特字第0960124997號",
+        "reg_date": "2007\/06\/20",
+        "title": "屏東縣恆春鎮墾丁國民小學附設幼兒園",
+        "owner": "許淑真",
+        "city": "屏東縣",
+        "town": "恆春鎮",
+        "type": "公立",
+        "address": "[946]墾丁路65號",
+        "floor": "1樓",
+        "size": "993平方公尺",
+        "size_in": "88平方公尺",
+        "size_out": "900平方公尺",
+        "tel": "(08)8861081#20",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "32f1fb4b-e836-41da-9eb9-3df317e0aebf",
+        "monthly": 3827
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.800778,
+            21.9435821
+        ]
+    }
+}

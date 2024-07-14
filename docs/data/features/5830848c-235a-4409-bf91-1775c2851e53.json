@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1025428637號",
+        "reg_docno": "八九府教特字第8904003533號",
+        "reg_date": "2000\/08\/07",
+        "title": "雲林縣私立愛德堡幼兒園",
+        "owner": "蔡宗衡",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "私立",
+        "address": "[640]雲林路二段220號",
+        "floor": "一,二樓",
+        "size": "5,394.47平方公尺",
+        "size_in": "1,448.94平方公尺",
+        "size_out": "3,945.53平方公尺",
+        "tel": "(05)5371582",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5830848c-235a-4409-bf91-1775c2851e53",
+        "monthly": 10937
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.530227,
+            23.703167
+        ]
+    }
+}

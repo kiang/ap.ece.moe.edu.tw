@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1101512447號",
+        "reg_docno": "嘉市府社福字第78680號",
+        "reg_date": "2000\/10\/13",
+        "title": "嘉義市私立忠樺幼兒園",
+        "owner": "陳國輝",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]松江三街52號",
+        "floor": "1樓、2樓、3樓",
+        "size": "916.24平方公尺",
+        "size_in": "468.84平方公尺",
+        "size_out": "447.4平方公尺",
+        "tel": "(05)2328889",
+        "url": "",
+        "count_approved": "160",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5295e9be-e885-4c5b-b72a-9fe5bc5a4e2f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.443469,
+            23.492884
+        ]
+    }
+}

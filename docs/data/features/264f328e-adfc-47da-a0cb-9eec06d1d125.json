@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1041504315號",
+        "reg_docno": "府社福字第0920002314號",
+        "reg_date": "2003\/01\/27",
+        "title": "私立東吳高級工業家事職業學校附設嘉義市幼兒園",
+        "owner": "賴建源",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]宣信街252號",
+        "floor": "1樓",
+        "size": "1,830.34平方公尺",
+        "size_in": "1,497.93平方公尺",
+        "size_out": "332.41平方公尺",
+        "tel": "(05)2228007",
+        "url": "http:\/\/www.dwvs.cy.edu.tw",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "264f328e-adfc-47da-a0cb-9eec06d1d125",
+        "monthly": 10250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.460485,
+            23.468826
+        ]
+    }
+}

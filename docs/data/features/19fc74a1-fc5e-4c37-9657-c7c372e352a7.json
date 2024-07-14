@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1030068628號",
+        "reg_docno": "南市社兒字第09613577630號",
+        "reg_date": "2007\/08\/15",
+        "title": "臺南市私立愛麗兒幼兒園",
+        "owner": "許玉燕",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]裕農路469號",
+        "floor": "1樓",
+        "size": "154.91平方公尺",
+        "size_in": "143.49平方公尺",
+        "size_out": "11.42平方公尺",
+        "tel": "(06)2006156",
+        "url": "",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "19fc74a1-fc5e-4c37-9657-c7c372e352a7",
+        "monthly": 6500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.232144,
+            22.988316
+        ]
+    }
+}

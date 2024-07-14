@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138690500號",
+        "reg_docno": "府社福字第0920056619號",
+        "reg_date": "2003\/06\/25",
+        "title": "高雄市私立蒲公英家藝術幼兒園",
+        "owner": "黃莉莉",
+        "city": "高雄市",
+        "town": "旗山區",
+        "type": "私立",
+        "address": "[842]旗文路121之1號",
+        "floor": "1-2樓",
+        "size": "1,874.22平方公尺",
+        "size_in": "1,041.2平方公尺",
+        "size_out": "833.02平方公尺",
+        "tel": "(07)6625861",
+        "url": "holkee.com\/dandelion",
+        "count_approved": "230",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "300f5bf1-353d-4f08-abae-a7fd0b63685d",
+        "monthly": 5100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4783584,
+            22.9010857
+        ]
+    }
+}

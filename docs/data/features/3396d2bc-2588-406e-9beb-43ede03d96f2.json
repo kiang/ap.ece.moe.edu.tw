@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0061號",
+        "reg_docno": "北府社兒字第0930548055號",
+        "reg_date": "2004\/07\/15",
+        "title": "新北市私立育誠中榮幼兒園",
+        "owner": "羅玉琴",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]中榮街56巷13弄1號1樓、中原里14鄰中榮街9號1樓",
+        "floor": "1樓",
+        "size": "194.33平方公尺",
+        "size_in": "194.33平方公尺",
+        "size_out": "",
+        "tel": "(02)29938181",
+        "url": "",
+        "count_approved": "55",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3396d2bc-2588-406e-9beb-43ede03d96f2",
+        "monthly": 5040
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.449077,
+            25.053468
+        ]
+    }
+}

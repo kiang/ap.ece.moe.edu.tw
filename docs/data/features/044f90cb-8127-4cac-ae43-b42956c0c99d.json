@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110221866號",
+        "reg_docno": "府教幼字第1030200200號",
+        "reg_date": "2014\/08\/01",
+        "title": "桃園市蘆竹區海湖國民小學附設幼兒園",
+        "owner": "温超洋",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "公立",
+        "address": "[338]海湖東路191巷15號",
+        "floor": "1樓",
+        "size": "598平方公尺",
+        "size_in": "370平方公尺",
+        "size_out": "228平方公尺",
+        "tel": "(03)3542181#221",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "044f90cb-8127-4cac-ae43-b42956c0c99d",
+        "monthly": 3205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2672255,
+            25.1022275
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070074545號",
+        "reg_docno": "(54)府黃字第9716號",
+        "reg_date": "1965\/10\/13",
+        "title": "金門縣金沙鎮金沙國民小學附設幼兒園",
+        "owner": "李盈潔",
+        "city": "金門縣",
+        "town": "金沙鎮",
+        "type": "公立",
+        "address": "[890]后浦頭117號",
+        "floor": "1樓",
+        "size": "1,500平方公尺",
+        "size_in": "600平方公尺",
+        "size_out": "900平方公尺",
+        "tel": "(082)352569#301",
+        "url": "https:\/\/kses.km.edu.tw",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a7244e94-e63e-49b8-ab0c-18f977db9e55",
+        "monthly": 1578
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.412544,
+            24.488867
+        ]
+    }
+}

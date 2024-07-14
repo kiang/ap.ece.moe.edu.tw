@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第32-2號",
+        "reg_docno": "北市教三字第8625676900號",
+        "reg_date": "1997\/09\/03",
+        "title": "北部台灣基督長老教會艋舺教會附設臺北市私立愛心幼兒園",
+        "owner": "",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "私立",
+        "address": "[108]貴陽街二段94號1樓",
+        "floor": "1樓",
+        "size": "511.24平方公尺",
+        "size_in": "334.17平方公尺",
+        "size_out": "177.07平方公尺",
+        "tel": "(02)23314921#11",
+        "url": "http:\/\/aisim.topschool.com.tw",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "daaff449-1f97-4900-869b-8b74e896d415",
+        "monthly": 5900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.503325,
+            25.0398
+        ]
+    }
+}

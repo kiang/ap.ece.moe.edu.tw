@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110134397號",
+        "reg_docno": "府教特字第1020159349號",
+        "reg_date": "2013\/08\/01",
+        "title": "宜蘭縣冬山鄉東興國民小學附設幼兒園",
+        "owner": "郝德天",
+        "city": "宜蘭縣",
+        "town": "冬山鄉",
+        "type": "公立",
+        "address": "[269]東城路316號",
+        "floor": "1樓",
+        "size": "313平方公尺",
+        "size_in": "160平方公尺",
+        "size_out": "153平方公尺",
+        "tel": "(03)9594250",
+        "url": "https:\/\/m.facebook.com\/dongshinkids",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1eda231e-7211-47e0-a1be-f4a98ed2ae40",
+        "monthly": 2788
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.8069459,
+            24.6293423
+        ]
+    }
+}

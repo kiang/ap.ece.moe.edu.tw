@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第551號",
+        "reg_docno": "北市社五字第20238號",
+        "reg_date": "1996\/04\/24",
+        "title": "臺北市私立華民幼兒園",
+        "owner": "王志雲",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]石牌路二段358號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28732423",
+        "url": "http:\/\/www.htedu.com.tw\/hmcare\/",
+        "count_approved": "99",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8ef4a505-ddc7-44cd-80f7-d17c5900ede5",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.525288,
+            25.123352
+        ]
+    }
+}

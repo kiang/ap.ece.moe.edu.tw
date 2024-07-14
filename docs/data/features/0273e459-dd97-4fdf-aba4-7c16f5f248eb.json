@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第729-1號",
+        "reg_docno": "北市教前字第11030009371號",
+        "reg_date": "2021\/01\/22",
+        "title": "臺北市明倫非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
+        "owner": "黃麗芳",
+        "city": "臺北市",
+        "town": "大同區",
+        "type": "非營利",
+        "address": "[103]承德路3段285-7號",
+        "floor": "1樓、2樓",
+        "size": "1,768.29平方公尺",
+        "size_in": "1,362.05平方公尺",
+        "size_out": "406.24平方公尺",
+        "tel": "(02)25350526",
+        "url": "https:\/\/reurl.cc\/nOZ1zd",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0273e459-dd97-4fdf-aba4-7c16f5f248eb",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5195399,
+            25.0732086
+        ]
+    }
+}

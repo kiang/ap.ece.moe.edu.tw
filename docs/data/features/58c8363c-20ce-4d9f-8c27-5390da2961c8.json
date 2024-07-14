@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040023842號",
+        "reg_docno": "83府教國字第76260號",
+        "reg_date": "1994\/05\/09",
+        "title": "桃園市私立愛彌兒幼兒園",
+        "owner": "林真滿",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]光峰路1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3505999",
+        "url": "http:\/\/emile.topschool.com.tw\/",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "58c8363c-20ce-4d9f-8c27-5390da2961c8",
+        "monthly": 8704
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.339402,
+            24.997152
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第509-1號",
+        "reg_docno": "北市社婦幼字第10048582800號",
+        "reg_date": "2011\/12\/29",
+        "title": "臺北市私立佳嬰幼兒園",
+        "owner": "李明霏",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]大東路126號1樓",
+        "floor": "1樓",
+        "size": "123.42平方公尺",
+        "size_in": "123.42平方公尺",
+        "size_out": "",
+        "tel": "(02)28807575",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a0e825ad-d904-4cd9-8c91-cd764f6c9667",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.525551,
+            25.091826
+        ]
+    }
+}

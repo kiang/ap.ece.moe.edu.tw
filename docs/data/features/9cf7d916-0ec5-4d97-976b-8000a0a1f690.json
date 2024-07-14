@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1120611443號",
+        "reg_docno": "南市社兒字第931357625號",
+        "reg_date": "2004\/10\/13",
+        "title": "臺南市私立德妮湖美幼兒園",
+        "owner": "何明德",
+        "city": "臺南市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[704]中華北路一段53巷56號",
+        "floor": "1樓",
+        "size": "931.19平方公尺",
+        "size_in": "483.4平方公尺",
+        "size_out": "447.79平方公尺",
+        "tel": "(06)2597796",
+        "url": "www.derni.com.tw",
+        "count_approved": "167",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9cf7d916-0ec5-4d97-976b-8000a0a1f690",
+        "monthly": 9500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.183971,
+            23.007182
+        ]
+    }
+}

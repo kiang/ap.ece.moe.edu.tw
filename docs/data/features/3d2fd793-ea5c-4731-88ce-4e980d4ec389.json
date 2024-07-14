@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137988800號",
+        "reg_docno": "89府社福字第8900042293號",
+        "reg_date": "2000\/03\/21",
+        "title": "高雄市私立小可愛幼兒園",
+        "owner": "鄭麗華",
+        "city": "高雄市",
+        "town": "阿蓮區",
+        "type": "私立",
+        "address": "[822]民生路241號",
+        "floor": "1-2樓",
+        "size": "856.78平方公尺",
+        "size_in": "263.72平方公尺",
+        "size_out": "593.06平方公尺",
+        "tel": "(07)6315180",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3d2fd793-ea5c-4731-88ce-4e980d4ec389",
+        "monthly": 6950
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3250384,
+            22.8859851
+        ]
+    }
+}

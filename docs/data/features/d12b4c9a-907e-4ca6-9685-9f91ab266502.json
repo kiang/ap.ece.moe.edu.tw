@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010026903號",
+        "reg_docno": "府社幼字第0930286254號",
+        "reg_date": "2004\/11\/03",
+        "title": "臺中市私立大里陽光幼兒園",
+        "owner": "吳俊熤",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "私立",
+        "address": "[412]中興路二段113號",
+        "floor": "1樓、2樓",
+        "size": "196.91平方公尺",
+        "size_in": "107.74平方公尺",
+        "size_out": "89.17平方公尺",
+        "tel": "(04)24837733",
+        "url": "",
+        "count_approved": "59",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d12b4c9a-907e-4ca6-9685-9f91ab266502",
+        "monthly": 12800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.688829,
+            24.103871
+        ]
+    }
+}

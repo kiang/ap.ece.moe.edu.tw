@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100070823號",
+        "reg_docno": "臺國字第85088506號",
+        "reg_date": "1996\/11\/11",
+        "title": "國立臺中教育大學附設實驗國民小學附設幼兒園",
+        "owner": "楊家慶",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "公立",
+        "address": "[404]民族路282號",
+        "floor": "1樓、2樓",
+        "size": "1,058.78平方公尺",
+        "size_in": "451.3平方公尺",
+        "size_out": "423.51平方公尺",
+        "tel": "(04)22290341#201",
+        "url": "https:\/\/www.ntctcps.tc.edu.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "08cfd734-83dd-4c1f-b1c8-9288a82c0d7c",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6723582,
+            24.144652
+        ]
+    }
+}

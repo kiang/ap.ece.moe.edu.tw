@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010022978號",
+        "reg_docno": "中市府社福字第8708號",
+        "reg_date": "1998\/06\/24",
+        "title": "臺中市私立北屯獅子王幼兒園",
+        "owner": "陳素雲",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]景和街169、171號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24365032",
+        "url": "",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "74a81ece-8507-43e3-ac55-6c2ee8abc032",
+        "monthly": 10326
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.713256,
+            24.167238
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1090144999號",
+        "reg_docno": "81府社福字第28252號",
+        "reg_date": "1992\/03\/19",
+        "title": "苗栗縣私立三義名人幼兒園",
+        "owner": "羅文彬",
+        "city": "苗栗縣",
+        "town": "三義鄉",
+        "type": "私立",
+        "address": "[367]八股路20-71號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,508.19平方公尺",
+        "size_in": "995.32平方公尺",
+        "size_out": "512.87平方公尺",
+        "tel": "(037)875698",
+        "url": "",
+        "count_approved": "159",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "03a4eb92-5a74-4804-8388-0273585955b5",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.76735,
+            24.4072968
+        ]
+    }
+}

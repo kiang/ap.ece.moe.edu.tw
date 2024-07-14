@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129550904號",
+        "reg_docno": "府教國字第45042號",
+        "reg_date": "1984\/06\/30",
+        "title": "新竹縣私立崇益幼兒園",
+        "owner": "吳鴻業",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]蓮花路618號",
+        "floor": "1樓至2樓",
+        "size": "1,792平方公尺",
+        "size_in": "1,281平方公尺",
+        "size_out": "511平方公尺",
+        "tel": "(03)5561959",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "28b965b1-84a0-4652-830f-e18913015fe8",
+        "monthly": 6133
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.955285,
+            24.875574
+        ]
+    }
+}

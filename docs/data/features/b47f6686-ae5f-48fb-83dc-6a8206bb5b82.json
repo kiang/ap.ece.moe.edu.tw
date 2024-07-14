@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10937695600號",
+        "reg_docno": "高市教三字第0970012158號",
+        "reg_date": "2008\/03\/31",
+        "title": "高雄市左營區屏山國民小學附設幼兒園",
+        "owner": "沈佑霖",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "公立",
+        "address": "[813]海功東路2號",
+        "floor": "1樓",
+        "size": "1,285.757平方公尺",
+        "size_in": "384.447平方公尺",
+        "size_out": "901.31平方公尺",
+        "tel": "(07)5834501#113",
+        "url": "affairs.kh.edu.tw\/6853",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b47f6686-ae5f-48fb-83dc-6a8206bb5b82",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.301136,
+            22.6937261
+        ]
+    }
+}

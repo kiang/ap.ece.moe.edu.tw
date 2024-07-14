@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090188931號",
+        "reg_docno": "府教學字第051054號",
+        "reg_date": "2001\/05\/09",
+        "title": "嘉義縣布袋鎮布新國民小學附設幼兒園",
+        "owner": "盧柏全",
+        "city": "嘉義縣",
+        "town": "布袋鎮",
+        "type": "公立",
+        "address": "[625]文昌街61號",
+        "floor": "1樓、1",
+        "size": "747平方公尺",
+        "size_in": "162平方公尺",
+        "size_out": "585平方公尺",
+        "tel": "(05)3476886#09",
+        "url": "http:\/\/www.bsps.cyc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7826b0ce-91ce-41fa-87a8-34069ec9f55a",
+        "monthly": 3585
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.152347,
+            23.37893
+        ]
+    }
+}

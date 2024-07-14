@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11037279300號",
+        "reg_docno": "高市教國字第079601號",
+        "reg_date": "1973\/10\/04",
+        "title": "高雄市三民區河濱國民小學附設幼兒園",
+        "owner": "丁崇寶",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "公立",
+        "address": "[807]市中一路339號",
+        "floor": "1樓",
+        "size": "2,114.422平方公尺",
+        "size_in": "891.622平方公尺",
+        "size_out": "1,222.8平方公尺",
+        "tel": "(07)2211408#114",
+        "url": "http：\/\/www.xhpps.kh.edu.tw",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "89e2914e-1432-4d0f-9b02-84d76c42a92e",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.287759,
+            22.633999
+        ]
+    }
+}

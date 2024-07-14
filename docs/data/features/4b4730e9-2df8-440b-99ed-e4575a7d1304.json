@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第11200168554號",
+        "reg_docno": "83府人一字第168773號",
+        "reg_date": "1994\/12\/30",
+        "title": "嘉義縣水上鄉立水上幼兒園寬士分班",
+        "owner": "",
+        "city": "嘉義縣",
+        "town": "水上鄉",
+        "type": "公立",
+        "address": "[608]柳仔林92號",
+        "floor": "1樓",
+        "size": "668平方公尺",
+        "size_in": "168平方公尺",
+        "size_out": "500平方公尺",
+        "tel": "(05)2681742",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4b4730e9-2df8-440b-99ed-e4575a7d1304",
+        "monthly": 2793
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.423165,
+            23.435941
+        ]
+    }
+}

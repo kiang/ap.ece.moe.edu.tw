@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第391-2號",
+        "reg_docno": "北市社五字第8922702000號",
+        "reg_date": "2000\/05\/04",
+        "title": "臺北市私立寶興幼兒園",
+        "owner": "陳麗梅",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "私立",
+        "address": "[108]寶興街228號1樓",
+        "floor": "1樓",
+        "size": "211.3平方公尺",
+        "size_in": "211.3平方公尺",
+        "size_out": "",
+        "tel": "(02)23375171",
+        "url": "",
+        "count_approved": "54",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "566a3e04-2085-4c9b-b6af-5c7ddde9373a",
+        "monthly": 10117
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.49581,
+            25.022033
+        ]
+    }
+}

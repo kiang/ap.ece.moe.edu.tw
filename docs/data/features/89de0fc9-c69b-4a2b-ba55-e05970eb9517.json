@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11335110800號",
+        "reg_docno": "高市教幼字第11335110800號",
+        "reg_date": "2024\/07\/03",
+        "title": "高雄市私立仁澄幼兒園",
+        "owner": "趙嘉勳",
+        "city": "高雄市",
+        "town": "仁武區",
+        "type": "私立",
+        "address": "[814]仁雄路286號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "410",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "89de0fc9-c69b-4a2b-ba55-e05970eb9517",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            "120.33657",
+            "22.675336"
+        ]
+    }
+}

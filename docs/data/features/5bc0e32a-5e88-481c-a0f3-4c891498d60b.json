@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1122434148號",
+        "reg_docno": "府教特二字第1072429600號",
+        "reg_date": "2018\/08\/28",
+        "title": "雲林縣公誠非營利幼兒園(委託財團法人高雄市私立復華高級中學辦理)",
+        "owner": "孫建行",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "非營利",
+        "address": "[640]北平路95號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5362580",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5bc0e32a-5e88-481c-a0f3-4c891498d60b",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.538824,
+            23.715074
+        ]
+    }
+}

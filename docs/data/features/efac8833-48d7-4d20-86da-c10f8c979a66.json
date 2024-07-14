@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130018056號",
+        "reg_docno": "府教特字第116149號",
+        "reg_date": "2000\/08\/25",
+        "title": "臺中市私立葳格幼兒園",
+        "owner": "杜宜俊",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]忠明路494號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22036886#310",
+        "url": "www.wagor.tc.edu.tw",
+        "count_approved": "652",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "efac8833-48d7-4d20-86da-c10f8c979a66",
+        "monthly": 12483
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6715024,
+            24.1627674
+        ]
+    }
+}

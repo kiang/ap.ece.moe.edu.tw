@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第697-1號",
+        "reg_docno": "北市社五字第09134066300號",
+        "reg_date": "2002\/05\/31",
+        "title": "臺北市私立蔚景幼兒園",
+        "owner": "魏瑞伯",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]復興南路1段313巷6號1,2樓",
+        "floor": "1樓、2樓",
+        "size": "236.16平方公尺",
+        "size_in": "236.16平方公尺",
+        "size_out": "",
+        "tel": "(02)27042496",
+        "url": "http:\/\/tw.myblog.yahoo.com\/lionking27042496tw",
+        "count_approved": "48",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b492dd08-53b4-48c7-9e14-e0f4f3e72093",
+        "monthly": 23667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.544643,
+            25.034176
+        ]
+    }
+}

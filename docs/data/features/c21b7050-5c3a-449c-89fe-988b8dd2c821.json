@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1050209827號",
+        "reg_docno": "府教幼字第1040199133號",
+        "reg_date": "2015\/08\/01",
+        "title": "桃園市龍潭區石門國民小學附設幼兒園",
+        "owner": "陳秀惠",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "公立",
+        "address": "[325]文化路188號",
+        "floor": "1樓",
+        "size": "278.65平方公尺",
+        "size_in": "138.87平方公尺",
+        "size_out": "139.78平方公尺",
+        "tel": "(03)4711752#640",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c21b7050-5c3a-449c-89fe-988b8dd2c821",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2408306,
+            24.8419163
+        ]
+    }
+}

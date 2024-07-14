@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620土城0024號",
+        "reg_docno": "七五北府社三字第75400019號",
+        "reg_date": "1986\/12\/22",
+        "title": "新北市私立新華園幼兒園",
+        "owner": "竇瑜芬",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]清水路267號1~2樓",
+        "floor": "1樓至二樓",
+        "size": "242.62平方公尺",
+        "size_in": "242.62平方公尺",
+        "size_out": "",
+        "tel": "(02)22611016",
+        "url": "http:\/\/blog.xuite.net\/bowjinn.1016",
+        "count_approved": "69",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9d0ccc0e-0cb2-4097-aadd-923ae85612a4",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4633981,
+            24.984898
+        ]
+    }
+}

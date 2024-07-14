@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1090171140B號",
+        "reg_docno": "府教學前字第1090171140B號",
+        "reg_date": "2020\/08\/01",
+        "title": "苗栗縣後龍鎮海寶國民小學附設幼兒園",
+        "owner": "楊曼華",
+        "city": "苗栗縣",
+        "town": "後龍鎮",
+        "type": "公立",
+        "address": "[356]網絃52-2號",
+        "floor": "1樓",
+        "size": "1,785.9平方公尺",
+        "size_in": "155.96平方公尺",
+        "size_out": "1,629.94平方公尺",
+        "tel": "(037)431235#20",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6dac6ee4-566e-4896-849d-fa51ed10ceaf",
+        "monthly": 3355
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8212124,
+            24.6617446
+        ]
+    }
+}

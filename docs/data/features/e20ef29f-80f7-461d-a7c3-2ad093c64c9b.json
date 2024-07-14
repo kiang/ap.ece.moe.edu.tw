@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11135131000號",
+        "reg_docno": "高市教幼字第11135131000號",
+        "reg_date": "2022\/08\/12",
+        "title": "台電公司高屏供電區營運處職場互助教保服務中心(委託社團法人高雄市社區美學教育發展協會辦理)",
+        "owner": "陳慧玟",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]中華二路350巷5號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "0988803038",
+        "url": "評鑑情形：",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e20ef29f-80f7-461d-a7c3-2ad093c64c9b",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2925085,
+            22.6484371
+        ]
+    }
+}

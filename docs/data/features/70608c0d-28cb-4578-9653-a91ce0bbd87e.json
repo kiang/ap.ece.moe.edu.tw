@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110176357號",
+        "reg_docno": "府教特字第0983044323號",
+        "reg_date": "1946\/08\/01",
+        "title": "臺東縣成功鎮三民國民小學附設幼兒園",
+        "owner": "曾玉杏",
+        "city": "臺東縣",
+        "town": "成功鎮",
+        "type": "公立",
+        "address": "[961]三民路18號",
+        "floor": "1樓、2樓",
+        "size": "20,039平方公尺",
+        "size_in": "290平方公尺",
+        "size_out": "395平方公尺",
+        "tel": "(089)853672",
+        "url": "http:\/\/tw.class.urlifelinks.com\/class\/?csid=css000000018364",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "70608c0d-28cb-4578-9653-a91ce0bbd87e",
+        "monthly": 4167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3724088,
+            23.1024994
+        ]
+    }
+}

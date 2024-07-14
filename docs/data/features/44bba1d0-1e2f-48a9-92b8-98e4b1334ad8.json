@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110026339號",
+        "reg_docno": "府教幼字第1080175964號",
+        "reg_date": "2019\/07\/31",
+        "title": "南投縣富功非營利幼兒園(委託財團法人宏觀文教基金會辦理)",
+        "owner": "李効武",
+        "city": "南投縣",
+        "town": "草屯鎮",
+        "type": "非營利",
+        "address": "[542]中正路567號",
+        "floor": "1樓",
+        "size": "754.56平方公尺",
+        "size_in": "432.61平方公尺",
+        "size_out": "321.95平方公尺",
+        "tel": "(049)2560961",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "44bba1d0-1e2f-48a9-92b8-98e4b1334ad8",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6992707,
+            23.9788876
+        ]
+    }
+}

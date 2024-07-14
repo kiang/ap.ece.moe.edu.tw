@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100058849號",
+        "reg_docno": "74府教國字第118005號",
+        "reg_date": "1985\/07\/09",
+        "title": "臺中市沙鹿區公明國民小學附設幼兒園",
+        "owner": "李豐榮",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "公立",
+        "address": "[433]忠貞路213號",
+        "floor": "1樓",
+        "size": "627平方公尺",
+        "size_in": "357平方公尺",
+        "size_out": "270平方公尺",
+        "tel": "(04)26150963#314",
+        "url": "http:\/\/tw.myblog.yahoo.com\/kmes123-babyclass",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9d8a9618-0f86-4d22-a7d6-cd95c10e21f0",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.609396,
+            24.243309
+        ]
+    }
+}

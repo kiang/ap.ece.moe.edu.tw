@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138482300號",
+        "reg_docno": "72高市社局三字第11102號",
+        "reg_date": "1983\/05\/25",
+        "title": "右昌基督長老教會附設高雄市私立右光幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "私立",
+        "address": "[811]軍校路983號",
+        "floor": "1",
+        "size": "1,058.69平方公尺",
+        "size_in": "289.19平方公尺",
+        "size_out": "769.5平方公尺",
+        "tel": "(07)3634497",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "21184205-55af-4baa-acb4-399733cd5acb",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2916518,
+            22.7123928
+        ]
+    }
+}

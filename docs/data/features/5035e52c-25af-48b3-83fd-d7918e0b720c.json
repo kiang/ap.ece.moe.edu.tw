@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100175238號",
+        "reg_docno": "府教幼字第1090172152號",
+        "reg_date": "2020\/08\/01",
+        "title": "嘉義縣溪口鄉柴林國民小學附設幼兒園",
+        "owner": "翁若溱",
+        "city": "嘉義縣",
+        "town": "溪口鄉",
+        "type": "公立",
+        "address": "[623]107號",
+        "floor": "1樓",
+        "size": "3,253平方公尺",
+        "size_in": "129平方公尺",
+        "size_out": "3,124平方公尺",
+        "tel": "(05)2691440",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5035e52c-25af-48b3-83fd-d7918e0b720c",
+        "monthly": 3806
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3711132,
+            23.6065656
+        ]
+    }
+}

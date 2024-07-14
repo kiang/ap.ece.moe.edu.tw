@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字字第10831763000號",
+        "reg_docno": "76高市社局三字第15355號",
+        "reg_date": "1987\/06\/22",
+        "title": "高雄市私立創世紀幼兒園",
+        "owner": "朱有鈴",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "私立",
+        "address": "[802]福建街223巷3號、8號、10號",
+        "floor": "ㄧ樓",
+        "size": "505.24平方公尺",
+        "size_in": "439.24平方公尺",
+        "size_out": "66平方公尺",
+        "tel": "(07)3315828",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f222d5dc-0a74-43bd-8372-8a26e2640608",
+        "monthly": 14166
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3151834,
+            22.6221732
+        ]
+    }
+}

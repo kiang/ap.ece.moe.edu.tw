@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110244721號",
+        "reg_docno": "七四彰府教國字第178034號",
+        "reg_date": "1985\/12\/31",
+        "title": "彰化縣線西鄉線西國民小學附設幼兒園",
+        "owner": "陳龍彬",
+        "city": "彰化縣",
+        "town": "線西鄉",
+        "type": "公立",
+        "address": "[507]中央路二段135號",
+        "floor": "1樓",
+        "size": "415.8平方公尺",
+        "size_in": "235.8平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(04)7585075#720",
+        "url": "http:\/\/163.23.92.129\/",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d55f3996-c925-4d28-9b6b-30d33bced5fa",
+        "monthly": 3669
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.46977,
+            24.131637
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090065855號",
+        "reg_docno": "中市教幼字第1090065855號",
+        "reg_date": "2020\/07\/31",
+        "title": "臺中市樹德非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "非營利",
+        "address": "[402]復興北路560號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,680.55平方公尺",
+        "size_in": "1,269.95平方公尺",
+        "size_out": "410.6平方公尺",
+        "tel": "(04)22606525",
+        "url": "評鑑情形：",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0d7086a6-ff95-4b6e-9b50-50490443e959",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6487511,
+            24.1150687
+        ]
+    }
+}

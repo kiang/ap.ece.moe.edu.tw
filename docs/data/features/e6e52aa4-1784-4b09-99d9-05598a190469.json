@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010408469號",
+        "reg_docno": "府社幼字第0950603225號",
+        "reg_date": "2006\/05\/15",
+        "title": "雲林縣私立愛迪亞幼兒園",
+        "owner": "翁文重",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "私立",
+        "address": "[640]內環路452號及456號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5372278",
+        "url": "",
+        "count_approved": "85",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e6e52aa4-1784-4b09-99d9-05598a190469",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.546659,
+            23.705467
+        ]
+    }
+}

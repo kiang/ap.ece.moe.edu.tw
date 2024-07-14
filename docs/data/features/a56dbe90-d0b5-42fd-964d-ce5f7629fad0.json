@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620五股0021號",
+        "reg_docno": "北府社兒字第1001646455號",
+        "reg_date": "2012\/02\/01",
+        "title": "新北市私立小百科幼兒園",
+        "owner": "林勝和",
+        "city": "新北市",
+        "town": "五股區",
+        "type": "私立",
+        "address": "[248]西雲路249號1樓",
+        "floor": "1",
+        "size": "116.13平方公尺",
+        "size_in": "116.13平方公尺",
+        "size_out": "",
+        "tel": "(02)22931944",
+        "url": "",
+        "count_approved": "28",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a56dbe90-d0b5-42fd-964d-ce5f7629fad0",
+        "monthly": 9500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4492711,
+            25.09837
+        ]
+    }
+}

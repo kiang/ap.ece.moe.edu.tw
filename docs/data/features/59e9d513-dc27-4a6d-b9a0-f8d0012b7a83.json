@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080140131號",
+        "reg_docno": "府教幼字第1080140131號",
+        "reg_date": "2019\/06\/12",
+        "title": "桃園市私立中正藝文幼兒園",
+        "owner": "林慧媛",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]中埔二街158號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3023991",
+        "url": "",
+        "count_approved": "160",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "59e9d513-dc27-4a6d-b9a0-f8d0012b7a83",
+        "monthly": 24400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2956041,
+            25.0126816
+        ]
+    }
+}

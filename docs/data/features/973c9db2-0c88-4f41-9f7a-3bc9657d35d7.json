@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1050170647號",
+        "reg_docno": "府教國字第58911號",
+        "reg_date": "1986\/07\/18",
+        "title": "花蓮縣玉里鎮玉里國民小學附設幼兒園",
+        "owner": "張佑先",
+        "city": "花蓮縣",
+        "town": "玉里鎮",
+        "type": "公立",
+        "address": "[981]莊敬路8號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8886121#11",
+        "url": "https:\/\/www.facebook.com\/YULIKIDS\/",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "973c9db2-0c88-4f41-9f7a-3bc9657d35d7",
+        "monthly": 2926
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.320828,
+            23.341705
+        ]
+    }
+}

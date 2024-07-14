@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1061500531號",
+        "reg_docno": "府教幼字第1051516066號",
+        "reg_date": "2016\/11\/09",
+        "title": "嘉義市私立優上美幼兒園",
+        "owner": "鄭秀琴",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]上海路266號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2863219",
+        "url": "嘉義市西區新西里11鄰上海路266號",
+        "count_approved": "47",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "a792a251-c0a4-4912-b214-5be0c4d08b89",
+        "monthly": 5283
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4365197,
+            23.470388
+        ]
+    }
+}

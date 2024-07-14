@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11134784100號",
+        "reg_docno": "府社福字第0910059799號",
+        "reg_date": "2002\/04\/08",
+        "title": "高雄市私立加恩幼兒園",
+        "owner": "黃志倫",
+        "city": "高雄市",
+        "town": "大寮區",
+        "type": "私立",
+        "address": "[831]鳳林三路773號",
+        "floor": "1-3樓",
+        "size": "1,878.19平方公尺",
+        "size_in": "1,405.1平方公尺",
+        "size_out": "473.09平方公尺",
+        "tel": "(07)7861764",
+        "url": "",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2653b128-554f-4bfe-abc3-1e2eeb0ebe8b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3914329,
+            22.6119551
+        ]
+    }
+}

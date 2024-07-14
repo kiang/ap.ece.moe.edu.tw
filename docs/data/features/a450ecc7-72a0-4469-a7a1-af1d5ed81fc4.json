@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120184212號",
+        "reg_docno": "府社婦字第0930085516號",
+        "reg_date": "2004\/04\/13",
+        "title": "桃園市私立莘莘幼兒園",
+        "owner": "彭曉苓",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "私立",
+        "address": "[325]成功路111號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4895109",
+        "url": "",
+        "count_approved": "230",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：50",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a450ecc7-72a0-4469-a7a1-af1d5ed81fc4",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.226382,
+            24.873706
+        ]
+    }
+}

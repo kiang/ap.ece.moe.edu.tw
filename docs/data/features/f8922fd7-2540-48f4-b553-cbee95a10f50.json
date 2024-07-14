@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080018805號",
+        "reg_docno": "府社兒婦字第0990078561號",
+        "reg_date": "1995\/04\/19",
+        "title": "宜蘭縣冬山鄉立幼兒園群英分班",
+        "owner": "",
+        "city": "宜蘭縣",
+        "town": "冬山鄉",
+        "type": "公立",
+        "address": "[269]富英路158號",
+        "floor": "1樓",
+        "size": "552平方公尺",
+        "size_in": "336平方公尺",
+        "size_out": "216平方公尺",
+        "tel": "(03)9604668",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f8922fd7-2540-48f4-b553-cbee95a10f50",
+        "monthly": 1600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.778787,
+            24.6601391
+        ]
+    }
+}

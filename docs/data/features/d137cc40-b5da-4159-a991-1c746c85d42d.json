@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第124-1號",
+        "reg_docno": "北市社五字第42679號",
+        "reg_date": "1996\/07\/29",
+        "title": "財團法人台北市中華基督教青年會附設臺北市私立文山幼兒園",
+        "owner": "",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]和興路2號1樓至2樓",
+        "floor": "1樓、2樓",
+        "size": "784.96平方公尺",
+        "size_in": "455.81平方公尺",
+        "size_out": "329.15平方公尺",
+        "tel": "(02)22362817",
+        "url": "http:\/\/wenshan.ymca.org.tw\/schedule.htm",
+        "count_approved": "228",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d137cc40-b5da-4159-a991-1c746c85d42d",
+        "monthly": 6500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.545814,
+            24.986525
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1090885964號",
+        "reg_docno": "府教國字第63778號",
+        "reg_date": "1996\/04\/20",
+        "title": "臺南市北門區北門國民小學附設幼兒園",
+        "owner": "姜秋蘭",
+        "city": "臺南市",
+        "town": "北門區",
+        "type": "公立",
+        "address": "[727]舊埕3號",
+        "floor": "1樓",
+        "size": "220.2平方公尺",
+        "size_in": "90.98平方公尺",
+        "size_out": "129.22平方公尺",
+        "tel": "(06)7862035#10",
+        "url": "http:\/\/163.26.110.129\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "96e8ea96-2533-4075-8b05-6bfad1852b6c",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.125388,
+            23.264866
+        ]
+    }
+}

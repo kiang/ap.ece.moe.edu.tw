@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場保證字第19號",
+        "reg_docno": "北市教前字字第11130117381號",
+        "reg_date": "2022\/08\/03",
+        "title": "國防部軍備局萬隆營區職場互助教保服務中心（委託財團法人三之三生命教育基金會辦理）",
+        "owner": "吳文宗",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]羅斯福路五段236巷3弄22號",
+        "floor": "1樓",
+        "size": "101.54平方公尺",
+        "size_in": "61.81平方公尺",
+        "size_out": "",
+        "tel": "(02)29316936",
+        "url": "評鑑情形：",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9908ce1b-a93e-4504-9716-d8a3869b901f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5386021,
+            25.0008688
+        ]
+    }
+}

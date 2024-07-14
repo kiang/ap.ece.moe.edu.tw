@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080037645A號",
+        "reg_docno": "府社幼字第1000391297號",
+        "reg_date": "1994\/11\/25",
+        "title": "彰化縣員林市立幼兒園中央分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "公立",
+        "address": "[510]中央路381巷39號",
+        "floor": "1樓",
+        "size": "210平方公尺",
+        "size_in": "121平方公尺",
+        "size_out": "",
+        "tel": "(04)8331321",
+        "url": "http:\/\/www.yuanlin.gov.tw\/service\/main2-12.asp",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "0a0381a6-2a54-4f50-84a0-558b32587a84",
+        "monthly": 3813
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5758959,
+            23.9359607
+        ]
+    }
+}

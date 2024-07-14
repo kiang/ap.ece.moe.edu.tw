@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11332809200號",
+        "reg_docno": "高市教幼字第11138777200號",
+        "reg_date": "2022\/11\/15",
+        "title": "內政部國土管理署南區都市基礎工程分署職場互助教保服務中心(委託社團法人高雄市社區教育協會辦理)",
+        "owner": "郭貽婷",
+        "city": "高雄市",
+        "town": "新興區",
+        "type": "私立",
+        "address": "[800]五福二路200號1樓",
+        "floor": "1樓",
+        "size": "136.62平方公尺",
+        "size_in": "136.62平方公尺",
+        "size_out": "",
+        "tel": "(07)2155133",
+        "url": "評鑑情形：",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "305e5fb2-550b-4a0a-88ad-072286ddde67",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3050518,
+            22.6247551
+        ]
+    }
+}

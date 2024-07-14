@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110178815號",
+        "reg_docno": "府教二字第77412號",
+        "reg_date": "1977\/10\/13",
+        "title": "嘉義縣東石鄉龍港國民小學附設幼兒園",
+        "owner": "陳俊雄",
+        "city": "嘉義縣",
+        "town": "東石鄉",
+        "type": "公立",
+        "address": "[614]港墘厝113號",
+        "floor": "1樓",
+        "size": "8,029.5平方公尺",
+        "size_in": "202.5平方公尺",
+        "size_out": "7,827平方公尺",
+        "tel": "(05)3732671#27",
+        "url": "lges.cyc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1159a1bb-d336-4b16-bee4-e2d9b9e03146",
+        "monthly": 3585
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.177147,
+            23.484372
+        ]
+    }
+}

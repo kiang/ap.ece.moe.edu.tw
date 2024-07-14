@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111442357號",
+        "reg_docno": "南市教特(一)字第1111442357號",
+        "reg_date": "2022\/11\/11",
+        "title": "臺南市私立安平精英幼兒園",
+        "owner": "江冠蓁",
+        "city": "臺南市",
+        "town": "安平區",
+        "type": "私立",
+        "address": "[708]國平路167巷28號",
+        "floor": "1樓、2樓",
+        "size": "2,867.84平方公尺",
+        "size_in": "1,599.05平方公尺",
+        "size_out": "1,268.79平方公尺",
+        "tel": "(06)2950260",
+        "url": "",
+        "count_approved": "362",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "32f100fe-80a8-424b-b387-b1fb80b88ca4",
+        "monthly": 5400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1707523,
+            22.988903
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0030號",
+        "reg_docno": "北府社兒字第0930602126號",
+        "reg_date": "2004\/08\/27",
+        "title": "新北市私立福音幼兒園",
+        "owner": "張復民",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]民族路8號2樓",
+        "floor": "2樓",
+        "size": "294.84平方公尺",
+        "size_in": "233.33平方公尺",
+        "size_out": "",
+        "tel": "(02)29518767",
+        "url": "http:\/\/www.facebook.com\/loveourkids",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7196f653-1692-4cdc-9408-0ec0514cd563",
+        "monthly": 11500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4620562,
+            25.0096215
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090188401號",
+        "reg_docno": "府教幼字第1070261782號",
+        "reg_date": "2018\/07\/31",
+        "title": "彰化縣大西非營利幼兒園（委託社團法人彰化縣樂說多元專業服務發展協會辦理）",
+        "owner": "劉玉珊",
+        "city": "彰化縣",
+        "town": "大村鄉",
+        "type": "非營利",
+        "address": "[515]大崙路10-55號",
+        "floor": "1樓、2樓",
+        "size": "595.9平方公尺",
+        "size_in": "345平方公尺",
+        "size_out": "250.9平方公尺",
+        "tel": "(04)8536381",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bd106c07-9dcc-4cb9-a34a-e1ed597f9f11",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5255336,
+            23.9846804
+        ]
+    }
+}

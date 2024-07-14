@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130058203號",
+        "reg_docno": "府社婦字第0910032921號",
+        "reg_date": "2002\/03\/11",
+        "title": "臺中市私立誠悅蒙特梭利幼兒園",
+        "owner": "黃君睿",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]永興街337號1,2,3樓",
+        "floor": "1.2.3.樓",
+        "size": "1,545.75平方公尺",
+        "size_in": "1,127.3平方公尺",
+        "size_out": "418.45平方公尺",
+        "tel": "(04)22317321",
+        "url": "",
+        "count_approved": "252",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "56081d30-4a94-4071-a16e-75d930267e2a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6826903,
+            24.1670463
+        ]
+    }
+}

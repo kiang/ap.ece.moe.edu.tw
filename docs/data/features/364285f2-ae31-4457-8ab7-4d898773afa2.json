@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11235745200號",
+        "reg_docno": "78高市社局二字第13978號",
+        "reg_date": "1999\/09\/18",
+        "title": "高雄市私立宗聖幼兒園",
+        "owner": "吳怡貞",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]左營下路64號1-2樓",
+        "floor": "1樓至2樓",
+        "size": "447.3平方公尺",
+        "size_in": "275.5平方公尺",
+        "size_out": "171.8平方公尺",
+        "tel": "(07)5851586",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：60",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "364285f2-ae31-4457-8ab7-4d898773afa2",
+        "monthly": 6150
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2931713,
+            22.6847881
+        ]
+    }
+}

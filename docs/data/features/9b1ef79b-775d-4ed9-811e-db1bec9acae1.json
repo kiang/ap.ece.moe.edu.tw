@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10132569000號",
+        "reg_docno": "高市教三字第37759號",
+        "reg_date": "1998\/11\/18",
+        "title": "高雄市私立日大幼兒園",
+        "owner": "洪金夫",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]文慈路188號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3483051",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9b1ef79b-775d-4ed9-811e-db1bec9acae1",
+        "monthly": 12632
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.318291,
+            22.682592
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110248574號",
+        "reg_docno": "府教特字第09300824051號",
+        "reg_date": "2004\/04\/19",
+        "title": "桃園市桃園區會稽國民小學附設幼兒園",
+        "owner": "鄭家興",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "公立",
+        "address": "[330]春日路1080號1樓",
+        "floor": "1樓",
+        "size": "1,186平方公尺",
+        "size_in": "240平方公尺",
+        "size_out": "946平方公尺",
+        "tel": "(03)3252982#514",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c43db173-bf25-4989-abdc-f2bd89c6d6de",
+        "monthly": 5090
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.311822,
+            25.008721
+        ]
+    }
+}

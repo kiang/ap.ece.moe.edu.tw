@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111127494號",
+        "reg_docno": "府教國字第112219號",
+        "reg_date": "1977\/10\/19",
+        "title": "臺南市新市區新市國民小學附設幼兒園",
+        "owner": "李智賢",
+        "city": "臺南市",
+        "town": "新市區",
+        "type": "公立",
+        "address": "[744]中興街1號",
+        "floor": "1樓、2樓",
+        "size": "2,721.99平方公尺",
+        "size_in": "431.51平方公尺",
+        "size_out": "2,290.48平方公尺",
+        "tel": "(06)5992895#800",
+        "url": "http:\/\/blog.sinses.tn.edu.tw\/index.php?blogId=208",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e1c13180-34fc-4ff4-8c4c-2e36c378805b",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.295559,
+            23.079039
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130000477號",
+        "reg_docno": "府社兒字第1000544457號",
+        "reg_date": "1983\/08\/25",
+        "title": "桃園市復興區立幼兒園華陵分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "復興區",
+        "type": "公立",
+        "address": "[336]2號1-2樓",
+        "floor": "1樓",
+        "size": "324.44平方公尺",
+        "size_in": "187.43平方公尺",
+        "size_out": "72.09平方公尺",
+        "tel": "(03)3912820",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "72274095-2c5b-489c-b471-3bf6c6daa817",
+        "monthly": 3446
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.398784,
+            24.656302
+        ]
+    }
+}

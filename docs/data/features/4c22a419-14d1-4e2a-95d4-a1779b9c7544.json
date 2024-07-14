@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第10800753472號",
+        "reg_docno": "中市社婦字第1000098106號",
+        "reg_date": "1983\/09\/01",
+        "title": "臺中市立潭子幼兒園潭北分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "公立",
+        "address": "[427]潭子街三段公廳巷18號",
+        "floor": "1樓、2樓",
+        "size": "127.5平方公尺",
+        "size_in": "127.5平方公尺",
+        "size_out": "",
+        "tel": "(04)25370067",
+        "url": "https:\/\/tzkg.tc.edu.tw\/",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4c22a419-14d1-4e2a-95d4-a1779b9c7544",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.707616,
+            24.214576
+        ]
+    }
+}

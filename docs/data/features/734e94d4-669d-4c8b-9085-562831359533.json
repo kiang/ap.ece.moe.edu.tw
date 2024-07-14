@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110111918號",
+        "reg_docno": "府教幼字第11002430432號",
+        "reg_date": "2022\/08\/01",
+        "title": "嘉義縣溪口鄉美林國民小學附設幼兒園",
+        "owner": "張志郎",
+        "city": "嘉義縣",
+        "town": "溪口鄉",
+        "type": "公立",
+        "address": "[623]崙尾78-3號",
+        "floor": "1樓",
+        "size": "670平方公尺",
+        "size_in": "130平方公尺",
+        "size_out": "540平方公尺",
+        "tel": "(05)2695365",
+        "url": "https:\/\/www.mlps.cyc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "734e94d4-669d-4c8b-9085-562831359533",
+        "monthly": 3890
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3791512,
+            23.592753
+        ]
+    }
+}

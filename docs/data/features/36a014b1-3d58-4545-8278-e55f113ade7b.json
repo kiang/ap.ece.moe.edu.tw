@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599林口0048號",
+        "reg_docno": "新北府教幼字第1091539846號",
+        "reg_date": "2020\/08\/17",
+        "title": "翰科教育股份有限公司附設新北市私立林口夏恩國際幼兒園",
+        "owner": "林皓昱",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]東湖路25巷",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)77519188",
+        "url": "",
+        "count_approved": "394",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "36a014b1-3d58-4545-8278-e55f113ade7b",
+        "monthly": 26500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.38683,
+            25.07334
+        ]
+    }
+}

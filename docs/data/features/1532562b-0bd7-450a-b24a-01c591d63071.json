@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第552-1號",
+        "reg_docno": "北市社五字第8823753400號",
+        "reg_date": "1999\/07\/03",
+        "title": "臺北市私立蒙特梭利童圓幼兒園",
+        "owner": "梅瑞雲",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]濟南路二段54-1號1至2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)23957517",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1532562b-0bd7-450a-b24a-01c591d63071",
+        "monthly": 21000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.531501,
+            25.040139
+        ]
+    }
+}

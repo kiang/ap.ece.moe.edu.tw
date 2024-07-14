@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040032395號",
+        "reg_docno": "府教特字第0950119253號",
+        "reg_date": "2006\/05\/03",
+        "title": "桃園市私立樂航幼兒園",
+        "owner": "李珮瑀",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]國強12街45號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3783151",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "05b544d6-fc9d-4c52-841c-7e58418bfc04",
+        "monthly": 8999
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2782998,
+            24.9921106
+        ]
+    }
+}

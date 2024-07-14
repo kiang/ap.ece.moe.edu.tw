@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1130211575號",
+        "reg_docno": "基府教前參字第1020161368號",
+        "reg_date": "2013\/05\/31",
+        "title": "基隆市私立嘉成幼兒園",
+        "owner": "林政勳",
+        "city": "基隆市",
+        "town": "安樂區",
+        "type": "私立",
+        "address": "[204]基金三路52之6、7號1-2樓",
+        "floor": "1-2樓",
+        "size": "436.36平方公尺",
+        "size_in": "311.62平方公尺",
+        "size_out": "124.74平方公尺",
+        "tel": "(02)24333938",
+        "url": "",
+        "count_approved": "67",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c09be5aa-7a72-4c08-81f8-a66c877838fa",
+        "monthly": 15437
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6970891,
+            25.1541803
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111214572號",
+        "reg_docno": "南市社兒字第09413578070號",
+        "reg_date": "2005\/10\/06",
+        "title": "臺南市私立維多利亞人文藝術幼兒園",
+        "owner": "陳慧莉",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]崇明路268號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2900807",
+        "url": "",
+        "count_approved": "125",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：10",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f84773ab-d56e-4176-b417-b9fc6571a278",
+        "monthly": 6000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.21926,
+            22.9781051
+        ]
+    }
+}

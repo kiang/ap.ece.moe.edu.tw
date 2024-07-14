@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111027494號",
+        "reg_docno": "南市教特(一)字第1111027494號",
+        "reg_date": "2022\/08\/08",
+        "title": "臺南市中華電信小東職場互助教保服務中心(委託台南市教保產業工會辦理)",
+        "owner": "林昭慧",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]小東路338號1樓",
+        "floor": "1樓",
+        "size": "144平方公尺",
+        "size_in": "144平方公尺",
+        "size_out": "",
+        "tel": "(06)2097699",
+        "url": "https:\/\/reurl.cc\/m30NnM",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a076966d-8451-49fa-8854-5cc19c9f1a42",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.232486,
+            22.9984131
+        ]
+    }
+}

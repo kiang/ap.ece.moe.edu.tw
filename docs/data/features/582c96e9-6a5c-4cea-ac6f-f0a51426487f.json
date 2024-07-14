@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110075345號",
+        "reg_docno": "府教特字第0970018156號",
+        "reg_date": "1947\/11\/08",
+        "title": "臺中市豐原區豐原國民小學附設幼兒園",
+        "owner": "洪宗瑜",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "公立",
+        "address": "[420]新生北路155號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25222066#706",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "582c96e9-6a5c-4cea-ac6f-f0a51426487f",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.720781,
+            24.254604
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080018002號",
+        "reg_docno": "府社兒婦字第0990075751號",
+        "reg_date": "1995\/04\/19",
+        "title": "宜蘭縣三星鄉立幼兒園拱照分班",
+        "owner": "",
+        "city": "宜蘭縣",
+        "town": "三星鄉",
+        "type": "公立",
+        "address": "[266]大湖二路7號",
+        "floor": "1樓",
+        "size": "591.95平方公尺",
+        "size_in": "241.95平方公尺",
+        "size_out": "350平方公尺",
+        "tel": "(03)9893166",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e6800713-256e-41ee-8a51-cf54ca578c11",
+        "monthly": 2916
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6473594,
+            24.6659689
+        ]
+    }
+}

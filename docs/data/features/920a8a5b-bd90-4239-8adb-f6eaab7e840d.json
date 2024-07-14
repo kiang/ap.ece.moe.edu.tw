@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1060891007C號",
+        "reg_docno": "南市教特(一)字第1060891007C號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺南市仁德區文賢國民小學附設幼兒園",
+        "owner": "蔡玉仙",
+        "city": "臺南市",
+        "town": "仁德區",
+        "type": "公立",
+        "address": "[717]文賢路一段886號",
+        "floor": "1樓",
+        "size": "207.15平方公尺",
+        "size_in": "107.15平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(06)2661260#232",
+        "url": "https:\/\/www.facebook.com\/%E8%87%BA%E5%8D%97%E5%B8%82%E6%96%87%E8%B3%A2%E5%9C%8B%E5%B0%8F%E9%99%84%E8",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "920a8a5b-bd90-4239-8adb-f6eaab7e840d",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2360945,
+            22.9226284
+        ]
+    }
+}

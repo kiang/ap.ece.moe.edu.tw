@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第10700959721號",
+        "reg_docno": "府社幼字第0970118862號",
+        "reg_date": "2008\/04\/29",
+        "title": "臺中市立后里幼兒園太平聯合分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "后里區",
+        "type": "公立",
+        "address": "[421]四月路23之6號",
+        "floor": "1樓、2樓",
+        "size": "1,586.4平方公尺",
+        "size_in": "1,319.34平方公尺",
+        "size_out": "267.06平方公尺",
+        "tel": "(04)25563967",
+        "url": "http:\/\/www.howli.gov.tw\/menu_07_nursery\/main_01.asp",
+        "count_approved": "125",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0f1def20-a668-4cb0-ab5c-f1f30572df3f",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.68022,
+            24.311253
+        ]
+    }
+}

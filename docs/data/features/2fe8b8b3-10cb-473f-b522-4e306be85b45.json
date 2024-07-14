@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11155469200號",
+        "reg_docno": "屏府教國字第135797號",
+        "reg_date": "1998\/08\/17",
+        "title": "屏東縣內埔鄉隘寮國民小學附設幼兒園",
+        "owner": "郭宗烈",
+        "city": "屏東縣",
+        "town": "內埔鄉",
+        "type": "公立",
+        "address": "[912]清涼路二段238號",
+        "floor": "1樓",
+        "size": "301.36平方公尺",
+        "size_in": "207.11平方公尺",
+        "size_out": "94.25平方公尺",
+        "tel": "(08)7991036",
+        "url": "http:\/\/www.alps.ptc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2fe8b8b3-10cb-473f-b522-4e306be85b45",
+        "monthly": 3717
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.636404,
+            22.703053
+        ]
+    }
+}

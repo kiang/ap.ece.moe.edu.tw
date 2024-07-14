@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130024780號",
+        "reg_docno": "91府教社字第09130858700號",
+        "reg_date": "2002\/04\/12",
+        "title": "臺中市私立親子田藝術幼兒園",
+        "owner": "鄭秀紅",
+        "city": "臺中市",
+        "town": "梧棲區",
+        "type": "私立",
+        "address": "[435]立德街105號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26565538",
+        "url": "",
+        "count_approved": "299",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b250b7d5-1286-44a6-8d4b-8c353808c6b1",
+        "monthly": 12515
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.542029,
+            24.242356
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市教前字第10632047900號",
+        "reg_docno": "北市社五字第14672號",
+        "reg_date": "1994\/04\/08",
+        "title": "臺北市私立爾雅幼兒園",
+        "owner": "嚴雅筑",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]大安路二段160巷20號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27022953",
+        "url": "",
+        "count_approved": "24",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "de349613-51b7-4fe5-9860-e59ed5e9fd50",
+        "monthly": 22667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.545438,
+            25.028725
+        ]
+    }
+}

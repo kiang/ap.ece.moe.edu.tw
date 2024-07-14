@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "府教國字第111448號",
+        "reg_date": "1995\/07\/11",
+        "title": "臺南市將軍區鯤鯓國民小學附設幼兒園",
+        "owner": "黃向秀",
+        "city": "臺南市",
+        "town": "將軍區",
+        "type": "公立",
+        "address": "[725]6號",
+        "floor": "1樓",
+        "size": "265平方公尺",
+        "size_in": "85平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(06)7920185#104",
+        "url": "www.ks2es.tnc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "caa10ce7-d1ed-4a24-af54-176dcae7cda1",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.08891,
+            23.188757
+        ]
+    }
+}

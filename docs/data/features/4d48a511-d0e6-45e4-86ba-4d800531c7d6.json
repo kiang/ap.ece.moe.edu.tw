@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0102號",
+        "reg_docno": "北府社兒字第0940501378號",
+        "reg_date": "2005\/07\/01",
+        "title": "新北市私立塏地安幼兒園",
+        "owner": "黃宏德",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]化成路492巷10號",
+        "floor": "1樓（含夾層）",
+        "size": "144.98平方公尺",
+        "size_in": "144.98平方公尺",
+        "size_out": "",
+        "tel": "(02)29929193",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4d48a511-d0e6-45e4-86ba-4d800531c7d6",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.467135,
+            25.0517479
+        ]
+    }
+}

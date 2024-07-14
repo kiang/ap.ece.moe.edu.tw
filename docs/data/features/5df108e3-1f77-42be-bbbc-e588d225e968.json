@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0027號",
+        "reg_docno": "北府社兒字第0930650438號",
+        "reg_date": "2004\/09\/10",
+        "title": "新北市私立永錡裕民幼兒園",
+        "owner": "許炳崑",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]龍安路67號1~3樓",
+        "floor": "3",
+        "size": "254平方公尺",
+        "size_in": "254平方公尺",
+        "size_out": "",
+        "tel": "(02)29011741",
+        "url": "",
+        "count_approved": "83",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5df108e3-1f77-42be-bbbc-e588d225e968",
+        "monthly": 11433
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4208644,
+            25.0197212
+        ]
+    }
+}

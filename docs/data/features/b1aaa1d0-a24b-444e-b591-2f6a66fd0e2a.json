@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680號",
+        "reg_docno": "八七北府教三字第284796號",
+        "reg_date": "1998\/09\/09",
+        "title": "新北市汐止區白雲國民小學附設幼兒園",
+        "owner": "洪國維",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "公立",
+        "address": "[221]民權街二段90號",
+        "floor": "1樓",
+        "size": "1,766平方公尺",
+        "size_in": "360平方公尺",
+        "size_out": "1,406平方公尺",
+        "tel": "(02)26403909#840",
+        "url": "http:\/\/www.wretch.cc\/blog\/k100124",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b1aaa1d0-a24b-444e-b591-2f6a66fd0e2a",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.618754,
+            25.047819
+        ]
+    }
+}

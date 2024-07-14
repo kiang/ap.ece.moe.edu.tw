@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110172226號",
+        "reg_docno": "府教特字第1100131010號",
+        "reg_date": "2021\/08\/30",
+        "title": "新竹市華德福非營利幼兒園(委託社團法人新竹人智哲學發展學會辦理)",
+        "owner": "何雅雯",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "非營利",
+        "address": "[300]華德福街168號",
+        "floor": "1樓",
+        "size": "2,062.3平方公尺",
+        "size_in": "1,133.3平方公尺",
+        "size_out": "929平方公尺",
+        "tel": "(03)5207615",
+        "url": "https:\/\/www.facebook.com\/hcaawkg",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "53b555e2-e583-45b4-84fc-3f1ea3703e90",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9137002,
+            24.7416234
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130071620號",
+        "reg_docno": "84府教國字第4253號",
+        "reg_date": "1995\/01\/16",
+        "title": "桃園市私立星球幼兒園",
+        "owner": "楊優華",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]榮民南路192、196、196-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4668594",
+        "url": "http:\/\/global.topschool.com.tw\/",
+        "count_approved": "240",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：60",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0a48211a-65a8-404a-b5e1-7b74d077612e",
+        "monthly": 8300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.256065,
+            24.9530479
+        ]
+    }
+}

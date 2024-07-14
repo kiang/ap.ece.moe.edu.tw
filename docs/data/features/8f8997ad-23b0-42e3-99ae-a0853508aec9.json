@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080030308號",
+        "reg_docno": "府教特字第0980048953號",
+        "reg_date": "2009\/02\/13",
+        "title": "桃園市私立康萊爾幼兒園",
+        "owner": "謝崑永",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]力行路328巷28號",
+        "floor": "3",
+        "size": "10,643.42平方公尺",
+        "size_in": "6,466.18平方公尺",
+        "size_out": "4,177.24平方公尺",
+        "tel": "(03)3026889",
+        "url": "",
+        "count_approved": "690",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8f8997ad-23b0-42e3-99ae-a0853508aec9",
+        "monthly": 14000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3045037,
+            25.0030283
+        ]
+    }
+}

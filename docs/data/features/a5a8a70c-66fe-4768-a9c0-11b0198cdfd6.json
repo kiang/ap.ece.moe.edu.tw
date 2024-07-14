@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11234794500號",
+        "reg_docno": "高市教幼字第11230468200號",
+        "reg_date": "2023\/08\/01",
+        "title": "臺灣高雄地方檢察署職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+        "owner": "呂佳旻",
+        "city": "高雄市",
+        "town": "前金區",
+        "type": "私立",
+        "address": "[801]六合二路219號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,172.19平方公尺",
+        "size_in": "353.52平方公尺",
+        "size_out": "818.67平方公尺",
+        "tel": "(07)2010168",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a5a8a70c-66fe-4768-a9c0-11b0198cdfd6",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2911441,
+            22.6293059
+        ]
+    }
+}

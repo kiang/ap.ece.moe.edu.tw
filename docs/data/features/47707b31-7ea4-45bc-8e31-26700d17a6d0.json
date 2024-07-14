@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0080號",
+        "reg_docno": "八六北府社四字第86153881號",
+        "reg_date": "1997\/04\/28",
+        "title": "新北市私立森堡幼兒園",
+        "owner": "陳世娟",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]保健路123號1、2樓，125號1樓",
+        "floor": "1、2",
+        "size": "162.61平方公尺",
+        "size_in": "162.61平方公尺",
+        "size_out": "",
+        "tel": "(02)29496007",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "47707b31-7ea4-45bc-8e31-26700d17a6d0",
+        "monthly": 9040
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5085836,
+            24.997757
+        ]
+    }
+}

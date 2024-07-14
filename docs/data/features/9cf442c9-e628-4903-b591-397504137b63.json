@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050095818號",
+        "reg_docno": "中市教幼字第1050095818號",
+        "reg_date": "2016\/12\/06",
+        "title": "臺中市私立芝蔴街幼兒園西社分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "清水區",
+        "type": "私立",
+        "address": "[436]西社路22號",
+        "floor": "1樓、2樓、3樓",
+        "size": "538.61平方公尺",
+        "size_in": "351.37平方公尺",
+        "size_out": "187.24平方公尺",
+        "tel": "(04)26237990",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9cf442c9-e628-4903-b591-397504137b63",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.569601,
+            24.269961
+        ]
+    }
+}

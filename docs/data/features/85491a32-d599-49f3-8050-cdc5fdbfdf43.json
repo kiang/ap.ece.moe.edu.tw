@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120039823號",
+        "reg_docno": "中市教幼字第1120039823號",
+        "reg_date": "2023\/05\/30",
+        "title": "臺中市私立芠菓人文藝術幼兒園",
+        "owner": "鄭珽之",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "私立",
+        "address": "[412]瑞和街120巷1號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,001.32平方公尺",
+        "size_in": "745.46平方公尺",
+        "size_out": "255.86平方公尺",
+        "tel": "(04)24922755",
+        "url": "",
+        "count_approved": "123",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "85491a32-d599-49f3-8050-cdc5fdbfdf43",
+        "monthly": 26300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7053868,
+            24.0852131
+        ]
+    }
+}

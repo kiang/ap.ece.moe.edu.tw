@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第420-1號",
+        "reg_docno": "北市教三字第29529號",
+        "reg_date": "1980\/07\/08",
+        "title": "臺北市私立博仁幼兒園",
+        "owner": "許雲婷",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]中山北路六段405巷29、31號",
+        "floor": "1樓",
+        "size": "575平方公尺",
+        "size_in": "242平方公尺",
+        "size_out": "333平方公尺",
+        "tel": "(02)28723567",
+        "url": "http:\/\/www.bellkids.com.tw\/",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "610b715f-c355-409c-836d-7f38e579c93e",
+        "monthly": 15000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.52557,
+            25.114664
+        ]
+    }
+}

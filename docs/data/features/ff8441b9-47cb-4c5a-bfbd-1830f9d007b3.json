@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111127459號",
+        "reg_docno": "南市教特字第09812550860號",
+        "reg_date": "2009\/08\/06",
+        "title": "臺南市東區東光國民小學附設幼兒園",
+        "owner": "林義順",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "公立",
+        "address": "[701]東光路一段39號",
+        "floor": "1樓",
+        "size": "936平方公尺",
+        "size_in": "436平方公尺",
+        "size_out": "500平方公尺",
+        "tel": "(06)2376534#722",
+        "url": "http:\/\/www.tkes.tn.edu.tw",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ff8441b9-47cb-4c5a-bfbd-1830f9d007b3",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.230685,
+            22.991408
+        ]
+    }
+}

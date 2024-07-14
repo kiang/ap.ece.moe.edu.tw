@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第749號",
+        "reg_docno": "北市教前字第10541637900號",
+        "reg_date": "2017\/01\/24",
+        "title": "遊戲橘子數位科技股份有限公司附設臺北市私立員工子女幼橘園幼兒園",
+        "owner": "劉柏園",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "私立",
+        "address": "[114]港墘路221巷33號1樓",
+        "floor": "1樓",
+        "size": "858.2平方公尺",
+        "size_in": "480.95平方公尺",
+        "size_out": "377.25平方公尺",
+        "tel": "(02)26589690",
+        "url": "",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7894d3ed-de5d-44d4-8c67-da88a801e296",
+        "monthly": 14650
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5750909,
+            25.0728822
+        ]
+    }
+}

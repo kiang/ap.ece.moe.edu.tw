@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0037之1號",
+        "reg_docno": "北府社兒字第0940398934號",
+        "reg_date": "2005\/05\/16",
+        "title": "新北市私立大愛幼兒園",
+        "owner": "李翠英",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]福德一路213巷29號、33號、35號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26925075",
+        "url": "http:\/\/darai.blogkids.net\/",
+        "count_approved": "37",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a2515870-54f6-4c34-9604-ebd44126965a",
+        "monthly": 10700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.653467,
+            25.064993
+        ]
+    }
+}

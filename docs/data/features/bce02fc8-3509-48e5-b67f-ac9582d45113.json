@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080200558號",
+        "reg_docno": "府社婦字第0910055021號",
+        "reg_date": "2002\/03\/21",
+        "title": "桃園市私立宜欣園幼兒園",
+        "owner": "簡秀祝",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]東園街21號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3334682",
+        "url": "http:\/\/tw.myblog.yahoo.com\/ourhappy-school",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bce02fc8-3509-48e5-b67f-ac9582d45113",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3148931,
+            24.995206
+        ]
+    }
+}

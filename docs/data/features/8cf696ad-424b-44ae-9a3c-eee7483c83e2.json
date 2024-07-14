@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "桃教幼字第1090205200號",
+        "reg_docno": "府教幼字第1080189691號",
+        "reg_date": "2019\/08\/01",
+        "title": "桃園市楊梅區瑞梅國民小學附設幼兒園",
+        "owner": "吳鳳仙",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "公立",
+        "address": "[326]三元街99號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4825284#513",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8cf696ad-424b-44ae-9a3c-eee7483c83e2",
+        "monthly": 4024
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1710208,
+            24.9104997
+        ]
+    }
+}

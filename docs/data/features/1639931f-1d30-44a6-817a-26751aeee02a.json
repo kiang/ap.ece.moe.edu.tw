@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1060237954號",
+        "reg_docno": "八七基府教國字第062680號",
+        "reg_date": "1998\/07\/02",
+        "title": "基隆市七堵區華興國民小學附設幼兒園",
+        "owner": "苗其志",
+        "city": "基隆市",
+        "town": "七堵區",
+        "type": "公立",
+        "address": "[206]泰安路34號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24512022#60",
+        "url": "http:\/\/www.hsps.kl.edu.tw\/~c001\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1639931f-1d30-44a6-817a-26751aeee02a",
+        "monthly": 3133
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.708084,
+            25.087844
+        ]
+    }
+}

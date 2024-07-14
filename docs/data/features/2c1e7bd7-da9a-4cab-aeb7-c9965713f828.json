@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080072831號",
+        "reg_docno": "中市教幼字第1080072831號",
+        "reg_date": "2019\/09\/02",
+        "title": "財團法人星光教育基金會附設臺中市私立星光國際幼兒園",
+        "owner": "林文寶",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]惠來路一段8號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22514007",
+        "url": "",
+        "count_approved": "208",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "f0d33ed6-3ba4-4d0f-99c1-e6e0f5fc5a2d",
+        "monthly": 31233
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6385168,
+            24.1541207
+        ]
+    }
+}

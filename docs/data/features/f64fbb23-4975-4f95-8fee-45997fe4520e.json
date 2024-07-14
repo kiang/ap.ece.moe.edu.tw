@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110189553號",
+        "reg_docno": "府教學字第09400837780號",
+        "reg_date": "2005\/04\/27",
+        "title": "南投縣仁愛鄉紅葉國民小學附設幼兒園",
+        "owner": "施俊良",
+        "city": "南投縣",
+        "town": "仁愛鄉",
+        "type": "公立",
+        "address": "[546]仁盛路70號",
+        "floor": "1樓",
+        "size": "380平方公尺",
+        "size_in": "40平方公尺",
+        "size_out": "320平方公尺",
+        "tel": "(049)2955075#129",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f64fbb23-4975-4f95-8fee-45997fe4520e",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.176393,
+            24.158783
+        ]
+    }
+}

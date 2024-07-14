@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090217055號",
+        "reg_docno": "88府教特字第203127號",
+        "reg_date": "1999\/09\/22",
+        "title": "桃園市大園區后厝國民小學附設幼兒園",
+        "owner": "王建興",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "公立",
+        "address": "[337]國際路二段147號",
+        "floor": "1",
+        "size": "1,590平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "1,470平方公尺",
+        "tel": "(03)3869583#310",
+        "url": "https:\/\/www.facebook.com\/HTES.Preschool",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "31e47713-7e54-4032-b8a9-dd6e1a7397fe",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.215001,
+            25.080669
+        ]
+    }
+}

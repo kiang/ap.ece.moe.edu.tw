@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11202412100號",
+        "reg_docno": "屏府社婦字第1000331080號",
+        "reg_date": "1977\/09\/01",
+        "title": "屏東縣三地門鄉立幼兒園青葉分班",
+        "owner": "",
+        "city": "屏東縣",
+        "town": "三地門鄉",
+        "type": "公立",
+        "address": "[901]光復巷65-2號",
+        "floor": "1樓",
+        "size": "1,541.16平方公尺",
+        "size_in": "219.16平方公尺",
+        "size_out": "1,322平方公尺",
+        "tel": "(08)7966245",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3ade2d8e-fcc6-4e57-a331-75974971d23e",
+        "monthly": 2600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.639069,
+            22.838117
+        ]
+    }
+}

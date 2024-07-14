@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010404344號",
+        "reg_docno": "府教特字第0930402245號",
+        "reg_date": "2004\/04\/30",
+        "title": "雲林縣私立奇豐幼兒園",
+        "owner": "賈新如",
+        "city": "雲林縣",
+        "town": "口湖鄉",
+        "type": "私立",
+        "address": "[653]成功路255號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)7892513",
+        "url": "",
+        "count_approved": "86",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b2bd5247-5416-42c2-8a25-1e1e1586f688",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.180312,
+            23.590032
+        ]
+    }
+}

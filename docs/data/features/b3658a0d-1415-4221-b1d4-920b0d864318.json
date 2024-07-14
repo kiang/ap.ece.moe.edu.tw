@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1072435840號",
+        "reg_docno": "八四府社福字第139372號",
+        "reg_date": "1995\/10\/30",
+        "title": "雲林縣私立仁智幼兒園",
+        "owner": "張仁量",
+        "city": "雲林縣",
+        "town": "水林鄉",
+        "type": "私立",
+        "address": "[652]東陽街20巷9、13、15號及7弄2、4、6、8號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)7857268",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b3658a0d-1415-4221-b1d4-920b0d864318",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.245516,
+            23.571141
+        ]
+    }
+}

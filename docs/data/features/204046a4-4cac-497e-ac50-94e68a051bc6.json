@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120234038號",
+        "reg_docno": "府教幼字第1040201048號",
+        "reg_date": "2015\/08\/01",
+        "title": "桃園市新屋區頭洲國民小學附設幼兒園",
+        "owner": "沈樹林",
+        "city": "桃園市",
+        "town": "新屋區",
+        "type": "公立",
+        "address": "[327]校前路72號",
+        "floor": "1樓",
+        "size": "550平方公尺",
+        "size_in": "300平方公尺",
+        "size_out": "250平方公尺",
+        "tel": "(03)4901204#214",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "204046a4-4cac-497e-ac50-94e68a051bc6",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1420887,
+            24.9625488
+        ]
+    }
+}

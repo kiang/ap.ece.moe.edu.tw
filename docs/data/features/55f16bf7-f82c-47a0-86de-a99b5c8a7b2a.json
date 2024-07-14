@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100233580號",
+        "reg_docno": "八九彰府教國字第122862號",
+        "reg_date": "2000\/06\/28",
+        "title": "彰化縣私立幼安幼兒園",
+        "owner": "蔡士晃",
+        "city": "彰化縣",
+        "town": "福興鄉",
+        "type": "私立",
+        "address": "[506]同安巷58號",
+        "floor": "1樓、2樓",
+        "size": "1,162.48平方公尺",
+        "size_in": "612.34平方公尺",
+        "size_out": "550.14平方公尺",
+        "tel": "(04)7771593",
+        "url": "",
+        "count_approved": "140",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "55f16bf7-f82c-47a0-86de-a99b5c8a7b2a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4409602,
+            24.0314411
+        ]
+    }
+}

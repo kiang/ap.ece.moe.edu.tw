@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119550855號",
+        "reg_docno": "府教幼字第1050127992號",
+        "reg_date": "2016\/08\/01",
+        "title": "新竹縣竹北市竹仁國民小學附設幼兒園",
+        "owner": "葉若蘭",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "公立",
+        "address": "[302]仁和街1號",
+        "floor": "1樓、2樓",
+        "size": "1,198.6平方公尺",
+        "size_in": "499.72平方公尺",
+        "size_out": "698.88平方公尺",
+        "tel": "(03)5552472#808",
+        "url": "https:\/\/class.tn.edu.tw\/modules\/tad_web\/news.php?WebID=11954&NewsID=49666",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c65a8eef-eb9b-48e2-ac93-09b48ffa7cd7",
+        "monthly": 3664
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.012787,
+            24.8367828
+        ]
+    }
+}

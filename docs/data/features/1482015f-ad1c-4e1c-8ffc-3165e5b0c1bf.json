@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070041279號",
+        "reg_docno": "府社福字第8809號",
+        "reg_date": "1999\/05\/20",
+        "title": "臺中市私立維多利亞安和幼兒園",
+        "owner": "廖維軒",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]協和北巷6之2號",
+        "floor": "1-2樓",
+        "size": "2,898.63平方公尺",
+        "size_in": "688.31平方公尺",
+        "size_out": "2,210.32平方公尺",
+        "tel": "(04)23506919",
+        "url": "http:\/\/www.kid-victoria.org.tw",
+        "count_approved": "279",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：90",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1482015f-ad1c-4e1c-8ffc-3165e5b0c1bf",
+        "monthly": 10842
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.619255,
+            24.172154
+        ]
+    }
+}

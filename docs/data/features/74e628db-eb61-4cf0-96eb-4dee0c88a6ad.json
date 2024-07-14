@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼教幼字第11335055700號",
+        "reg_docno": "高市教育三字第34625號",
+        "reg_date": "1991\/11\/13",
+        "title": "高雄市私立麥克大衛幼兒園",
+        "owner": "王華勇",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]延吉街121巷1-1號",
+        "floor": "1-3樓",
+        "size": "1,363.96平方公尺",
+        "size_in": "867.46平方公尺",
+        "size_out": "496.5平方公尺",
+        "tel": "(07)3840299",
+        "url": "",
+        "count_approved": "165",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "74e628db-eb61-4cf0-96eb-4dee0c88a6ad",
+        "monthly": 4800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.319464,
+            22.642897
+        ]
+    }
+}

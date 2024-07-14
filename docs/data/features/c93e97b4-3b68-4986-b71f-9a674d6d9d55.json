@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070061758號",
+        "reg_docno": "中市教幼字第1070061758號",
+        "reg_date": "2018\/07\/30",
+        "title": "臺中市私立大雅怡安幼兒園",
+        "owner": "陳明雄",
+        "city": "臺中市",
+        "town": "大雅區",
+        "type": "私立",
+        "address": "[428]神林南路355號",
+        "floor": "1樓",
+        "size": "1,314.81平方公尺",
+        "size_in": "560.63平方公尺",
+        "size_out": "754.18平方公尺",
+        "tel": "(04)25678568",
+        "url": "",
+        "count_approved": "195",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c93e97b4-3b68-4986-b71f-9a674d6d9d55",
+        "monthly": 15000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6567998,
+            24.2218774
+        ]
+    }
+}

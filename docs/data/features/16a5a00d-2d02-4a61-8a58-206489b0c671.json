@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110250111號",
+        "reg_docno": "府社福字第0950008672號",
+        "reg_date": "2006\/01\/17",
+        "title": "苗栗縣國衛院員工子女非營利幼兒園（財團法人國家衛生研究院申請辦理）",
+        "owner": "司徒惠康",
+        "city": "苗栗縣",
+        "town": "竹南鎮",
+        "type": "非營利",
+        "address": "[350]科研路39號",
+        "floor": "1樓",
+        "size": "308,043平方公尺",
+        "size_in": "581.21平方公尺",
+        "size_out": "318.8平方公尺",
+        "tel": "(037)206166#39958",
+        "url": "http:\/\/kidsbb.nhri.org.tw",
+        "count_approved": "100",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "16a5a00d-2d02-4a61-8a58-206489b0c671",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9146404,
+            24.7070819
+        ]
+    }
+}

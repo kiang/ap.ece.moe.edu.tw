@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1132428624號",
+        "reg_docno": "七七府教國字第77627號",
+        "reg_date": "1988\/08\/19",
+        "title": "雲林縣麥寮鄉豐安國民小學附設幼兒園",
+        "owner": "林正賢",
+        "city": "雲林縣",
+        "town": "麥寮鄉",
+        "type": "公立",
+        "address": "[638]227號",
+        "floor": "1間教室",
+        "size": "501平方公尺",
+        "size_in": "162平方公尺",
+        "size_out": "339平方公尺",
+        "tel": "(05)6932759#15",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "be8f1c50-8cbb-4e92-8caa-efb0ec74d9de",
+        "monthly": 3983
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.234611,
+            23.789785
+        ]
+    }
+}

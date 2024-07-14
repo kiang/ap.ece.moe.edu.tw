@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111454671號",
+        "reg_docno": "南市教特(一)字第1111454671號",
+        "reg_date": "2022\/11\/11",
+        "title": "臺南市中信員工子女非營利幼兒園(中信學校財團法人申請辦理)",
+        "owner": "馮寄台",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "非營利",
+        "address": "[709]台江大道三段600號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2873317",
+        "url": "評鑑情形：",
+        "count_approved": "108",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3e6b5c64-5b8f-41b0-9bde-265d9b66ad1f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1630074,
+            23.0639886
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1102414665號",
+        "reg_docno": "八七府教國字第8704001653號",
+        "reg_date": "1998\/05\/01",
+        "title": "雲林縣私立東昇幼兒園",
+        "owner": "黃燕昭",
+        "city": "雲林縣",
+        "town": "西螺鎮",
+        "type": "私立",
+        "address": "[648]平和南路330號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5878565",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b854a7c7-940b-492d-8f45-f043905cc249",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.452138,
+            23.789282
+        ]
+    }
+}

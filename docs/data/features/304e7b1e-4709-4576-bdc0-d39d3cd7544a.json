@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0019號",
+        "reg_docno": "北府教幼字第1011307278號",
+        "reg_date": "2012\/04\/16",
+        "title": "新北市私立悅淨幼兒園",
+        "owner": "傅麗娜",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]東門街30之2號1樓之66、67、68、69",
+        "floor": "1",
+        "size": "131.06平方公尺",
+        "size_in": "114.18平方公尺",
+        "size_out": "",
+        "tel": "(02)29602160",
+        "url": "",
+        "count_approved": "32",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "304e7b1e-4709-4576-bdc0-d39d3cd7544a",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.458121,
+            25.008096
+        ]
+    }
+}

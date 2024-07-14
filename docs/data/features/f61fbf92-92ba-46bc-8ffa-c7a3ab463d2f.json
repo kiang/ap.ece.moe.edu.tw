@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1090885964號",
+        "reg_docno": "府教國字第112219號",
+        "reg_date": "1977\/10\/19",
+        "title": "臺南市永康區西勢國民小學附設幼兒園",
+        "owner": "黃淑燕",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "公立",
+        "address": "[710]富強路一段278號",
+        "floor": "1樓",
+        "size": "644平方公尺",
+        "size_in": "144平方公尺",
+        "size_out": "500平方公尺",
+        "tel": "(06)2712841#202",
+        "url": "https:\/\/sites.google.com\/site\/sishihsun201\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f61fbf92-92ba-46bc-8ffa-c7a3ab463d2f",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.275238,
+            23.018839
+        ]
+    }
+}

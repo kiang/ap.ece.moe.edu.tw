@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620泰山0001號",
+        "reg_docno": "六三北府社三字第63255424號",
+        "reg_date": "1974\/08\/10",
+        "title": "財團法人天主教瑪利亞方濟各傳教女修會附設新北市私立曉明幼兒園",
+        "owner": "",
+        "city": "新北市",
+        "town": "泰山區",
+        "type": "私立",
+        "address": "[243]應化街6巷5號",
+        "floor": "一樓及夾層",
+        "size": "1,174.72平方公尺",
+        "size_in": "293.2平方公尺",
+        "size_out": "881.52平方公尺",
+        "tel": "(02)29065374",
+        "url": "",
+        "count_approved": "133",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0206afa6-30a0-4c84-ab75-7517cd9c17c6",
+        "monthly": 13055
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4236217,
+            25.0434798
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101402990號",
+        "reg_docno": "府教國字第176278號",
+        "reg_date": "1995\/10\/28",
+        "title": "臺南市私立聖宜幼兒園",
+        "owner": "盧秀敏",
+        "city": "臺南市",
+        "town": "仁德區",
+        "type": "私立",
+        "address": "[717]仁德五街6號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2791572",
+        "url": "http:\/\/shen-yi.topschool.com.tw",
+        "count_approved": "196",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8f885c3a-5108-49c0-9b4c-76a3be6b3265",
+        "monthly": 15016
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.253284,
+            22.961614
+        ]
+    }
+}

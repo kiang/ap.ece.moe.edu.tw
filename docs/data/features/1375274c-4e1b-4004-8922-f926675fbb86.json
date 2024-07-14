@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1120187676號",
+        "reg_docno": "府教學前字第1080158083號",
+        "reg_date": "2019\/08\/01",
+        "title": "苗栗縣後龍鎮龍坑國民小學附設幼兒園",
+        "owner": "黃俊杰",
+        "city": "苗栗縣",
+        "town": "後龍鎮",
+        "type": "公立",
+        "address": "[356]158號",
+        "floor": "1樓",
+        "size": "5,806.52平方公尺",
+        "size_in": "172.02平方公尺",
+        "size_out": "5,634.5平方公尺",
+        "tel": "(037)722027#27",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1375274c-4e1b-4004-8922-f926675fbb86",
+        "monthly": 3355
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7906035,
+            24.6144348
+        ]
+    }
+}

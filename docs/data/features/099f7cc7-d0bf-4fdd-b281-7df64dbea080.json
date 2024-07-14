@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620五股0006號",
+        "reg_docno": "八七北府社四字第87370574號",
+        "reg_date": "1998\/11\/19",
+        "title": "新北市私立德寶幼兒園",
+        "owner": "吳政權",
+        "city": "新北市",
+        "town": "五股區",
+        "type": "私立",
+        "address": "[248]水碓路16巷33號1樓",
+        "floor": "1",
+        "size": "283.68平方公尺",
+        "size_in": "283.68平方公尺",
+        "size_out": "",
+        "tel": "(02)22912201",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "099f7cc7-d0bf-4fdd-b281-7df64dbea080",
+        "monthly": 8433
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.434197,
+            25.073089
+        ]
+    }
+}

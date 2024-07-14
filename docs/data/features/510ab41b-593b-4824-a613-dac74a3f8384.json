@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120211579號",
+        "reg_docno": "府教特字第1020100377號",
+        "reg_date": "2013\/08\/01",
+        "title": "嘉義縣新港鄉月眉國民小學附設幼兒園",
+        "owner": "鄭秀津",
+        "city": "嘉義縣",
+        "town": "新港鄉",
+        "type": "公立",
+        "address": "[616]123號",
+        "floor": "1樓",
+        "size": "285.8平方公尺",
+        "size_in": "135平方公尺",
+        "size_out": "150.8平方公尺",
+        "tel": "(05)3772059#114",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "510ab41b-593b-4824-a613-dac74a3f8384",
+        "monthly": 3819
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3495791,
+            23.5567463
+        ]
+    }
+}

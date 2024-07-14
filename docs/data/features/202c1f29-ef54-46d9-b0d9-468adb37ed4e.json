@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110052492號",
+        "reg_docno": "府教幼字第1080142960號",
+        "reg_date": "2019\/06\/14",
+        "title": "桃園市私立欣田幼兒園",
+        "owner": "李毓娟",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]樹仁三街582號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3662369",
+        "url": "",
+        "count_approved": "36",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "202c1f29-ef54-46d9-b0d9-468adb37ed4e",
+        "monthly": 13300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3110572,
+            24.9751128
+        ]
+    }
+}

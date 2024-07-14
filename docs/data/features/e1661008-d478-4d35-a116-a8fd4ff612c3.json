@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121109422號",
+        "reg_docno": "府教國字第006623號",
+        "reg_date": "1994\/01\/21",
+        "title": "臺南市麻豆區培文國民小學附設幼兒園",
+        "owner": "陳明和",
+        "city": "臺南市",
+        "town": "麻豆區",
+        "type": "公立",
+        "address": "[721]和平路11號",
+        "floor": "1樓",
+        "size": "778.45平方公尺",
+        "size_in": "469.95平方公尺",
+        "size_out": "308.5平方公尺",
+        "tel": "(06)5720321",
+        "url": "http:\/\/www.pwes.tnc.edu.tw\/",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e1661008-d478-4d35-a116-a8fd4ff612c3",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.243567,
+            23.178581
+        ]
+    }
+}

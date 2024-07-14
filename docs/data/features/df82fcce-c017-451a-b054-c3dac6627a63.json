@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第507-1號",
+        "reg_docno": "北市社五字第34521號",
+        "reg_date": "1996\/06\/26",
+        "title": "臺北市私立求真幼兒園",
+        "owner": "温晉豪",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]通河東街一段136巷24.26號1樓",
+        "floor": "1樓",
+        "size": "161.4平方公尺",
+        "size_in": "161.4平方公尺",
+        "size_out": "",
+        "tel": "(02)28828069",
+        "url": "",
+        "count_approved": "37",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "df82fcce-c017-451a-b054-c3dac6627a63",
+        "monthly": 5600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.517067,
+            25.087131
+        ]
+    }
+}

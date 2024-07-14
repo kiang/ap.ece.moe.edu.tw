@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100072982號",
+        "reg_docno": "中市教幼字第1100072982號",
+        "reg_date": "2021\/10\/15",
+        "title": "臺中市私立迷鹿森林幼兒園",
+        "owner": "石建軒",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "私立",
+        "address": "[433]東晉路136號",
+        "floor": "1樓、2樓",
+        "size": "691.34平方公尺",
+        "size_in": "391.87平方公尺",
+        "size_out": "299.47平方公尺",
+        "tel": "(04)26333397",
+        "url": "",
+        "count_approved": "97",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "03174094-c687-44f8-9ce5-f5dc6d22bb9a",
+        "monthly": 19100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.573294,
+            24.2223689
+        ]
+    }
+}

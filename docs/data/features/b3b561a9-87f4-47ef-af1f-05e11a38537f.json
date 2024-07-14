@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130018970號",
+        "reg_docno": "府教幼字第1090210887號",
+        "reg_date": "2020\/08\/27",
+        "title": "桃園市過嶺非營利幼兒園（委託社團法人臺灣三之三生命教育學會辦理）",
+        "owner": "葛惠",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "非營利",
+        "address": "[320]松智路6號",
+        "floor": "3樓",
+        "size": "1,881.01平方公尺",
+        "size_in": "1,574.6平方公尺",
+        "size_out": "306.41平方公尺",
+        "tel": "(03)4207720",
+        "url": "評鑑情形：",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b3b561a9-87f4-47ef-af1f-05e11a38537f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1737667,
+            24.9600899
+        ]
+    }
+}

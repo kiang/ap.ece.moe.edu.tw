@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060048758號",
+        "reg_docno": "府教特字第45087號",
+        "reg_date": "2001\/04\/03",
+        "title": "臺中市私立瑪歇爾幼兒園",
+        "owner": "陳威廷",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]大墩十一街378號",
+        "floor": "1樓、2樓",
+        "size": "1,813.81平方公尺",
+        "size_in": "1,021.75平方公尺",
+        "size_out": "792.06平方公尺",
+        "tel": "(04)22556457",
+        "url": "",
+        "count_approved": "200",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9fc19ac7-1e81-4b08-80ef-8796249a8d39",
+        "monthly": 18383
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.643476,
+            24.148942
+        ]
+    }
+}

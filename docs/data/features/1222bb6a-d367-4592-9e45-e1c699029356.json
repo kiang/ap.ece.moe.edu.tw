@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110135402號",
+        "reg_docno": "77教四字第02141號",
+        "reg_date": "1988\/03\/18",
+        "title": "宜蘭縣員山鄉深溝國民小學附設幼兒園",
+        "owner": "洪秀芬",
+        "city": "宜蘭縣",
+        "town": "員山鄉",
+        "type": "公立",
+        "address": "[264]惠民路266號",
+        "floor": "1樓、2樓",
+        "size": "1,430.62平方公尺",
+        "size_in": "474.62平方公尺",
+        "size_out": "956平方公尺",
+        "tel": "(03)9224870#218",
+        "url": "http:\/\/www.sges.ilc.edu.tw\/",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1222bb6a-d367-4592-9e45-e1c699029356",
+        "monthly": 2788
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.723851,
+            24.7232631
+        ]
+    }
+}

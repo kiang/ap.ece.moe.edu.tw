@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1111516429號",
+        "reg_docno": "89府教特字第64810號",
+        "reg_date": "2000\/09\/04",
+        "title": "嘉義市東區民族國民小學附設幼兒園",
+        "owner": "陳文瑜",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "公立",
+        "address": "[600]民族路235號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,564.18平方公尺",
+        "size_in": "1,069.48平方公尺",
+        "size_out": "494.7平方公尺",
+        "tel": "(05)2222113#511",
+        "url": "https:\/\/eduweb.cy.edu.tw\/christina",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a46c9f5c-b30d-46f6-b4f2-e5e02ba5a3c9",
+        "monthly": 3170
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.455158,
+            23.476291
+        ]
+    }
+}

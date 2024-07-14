@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10936697000號",
+        "reg_docno": "89府教學字第97862號",
+        "reg_date": "2000\/06\/13",
+        "title": "高雄市田寮區崇德國民小學附設幼兒園",
+        "owner": "洪志一",
+        "city": "高雄市",
+        "town": "田寮區",
+        "type": "公立",
+        "address": "[823]崇德路101號",
+        "floor": "1樓",
+        "size": "1,440.06平方公尺",
+        "size_in": "207.9平方公尺",
+        "size_out": "1,232.16平方公尺",
+        "tel": "(07)6367155#801",
+        "url": "http:\/\/class.kh.edu.tw\/6533",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1d65bbd7-f9f0-43c3-932e-e7c52416b739",
+        "monthly": 3453
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.379549,
+            22.878035
+        ]
+    }
+}

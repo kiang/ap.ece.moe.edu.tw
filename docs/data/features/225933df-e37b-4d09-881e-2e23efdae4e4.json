@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場證字第3-1號",
+        "reg_docno": "北市教前字第1103012307號",
+        "reg_date": "2021\/08\/01",
+        "title": "教育部忠孝大樓職場互助教保服務中心(委託社團法人台北市教保人員協會辦理)",
+        "owner": "黃麗芳",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]忠孝東路1段172號1樓",
+        "floor": "1樓",
+        "size": "220平方公尺",
+        "size_in": "208平方公尺",
+        "size_out": "",
+        "tel": "(02)23223005",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "225933df-e37b-4d09-881e-2e23efdae4e4",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.52627742328636,
+            25.043955958737374
+        ]
+    }
+}

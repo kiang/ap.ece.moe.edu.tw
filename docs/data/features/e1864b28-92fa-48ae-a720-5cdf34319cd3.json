@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場證字第14-2號",
+        "reg_docno": "北市教前字第1113010969號",
+        "reg_date": "2022\/08\/01",
+        "title": "台電公司輸變電工程處職場互助教保服務中心（委託社團法人台灣公共托育協會辦理）",
+        "owner": "呂佳旻",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]牯嶺街73號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)2321-2573",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e1864b28-92fa-48ae-a720-5cdf34319cd3",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5175033,
+            25.0287773
+        ]
+    }
+}

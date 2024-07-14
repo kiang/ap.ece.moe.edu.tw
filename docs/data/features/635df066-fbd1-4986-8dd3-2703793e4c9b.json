@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11236322600號",
+        "reg_docno": "府社福字第0940164121號",
+        "reg_date": "2005\/08\/03",
+        "title": "高雄市瀰濃非營利幼兒園(委託財團法人樹德科技大學設立之樹德科技大學辦理)",
+        "owner": "王昭雄",
+        "city": "高雄市",
+        "town": "美濃區",
+        "type": "非營利",
+        "address": "[843]中正路二段178巷16號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6818193",
+        "url": "https:\/\/m.facebook.com\/shuteminung\/",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "635df066-fbd1-4986-8dd3-2703793e4c9b",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5354721,
+            22.889411
+        ]
+    }
+}

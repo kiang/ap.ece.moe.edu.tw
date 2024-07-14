@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110278979號",
+        "reg_docno": "府教幼字第1110278979號",
+        "reg_date": "2022\/10\/12",
+        "title": "桃園市私立英橋國際幼兒園",
+        "owner": "江根錐",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]豐田三路158號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3731222",
+        "url": "",
+        "count_approved": "77",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "97d41392-3442-4e07-9eea-4e9fad0cd871",
+        "monthly": 18800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2861619,
+            24.9286835
+        ]
+    }
+}

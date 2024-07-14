@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080227104號",
+        "reg_docno": "府教學字第09800612330號",
+        "reg_date": "1959\/09\/01",
+        "title": "南投縣草屯鎮炎峰國民小學附設幼兒園",
+        "owner": "陳恒聰",
+        "city": "南投縣",
+        "town": "草屯鎮",
+        "type": "公立",
+        "address": "[542]中興路101號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(049)2314395",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "189655f5-0c01-4122-9fc9-d437446695d6",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.683846,
+            23.974875
+        ]
+    }
+}

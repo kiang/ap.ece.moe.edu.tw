@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1105020428號",
+        "reg_docno": "89府教特字第38679號",
+        "reg_date": "2000\/06\/12",
+        "title": "嘉義市西區育人國民小學附設幼兒園",
+        "owner": "楊家豪",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "公立",
+        "address": "[600]育人路211號",
+        "floor": "1樓、2樓",
+        "size": "803平方公尺",
+        "size_in": "453平方公尺",
+        "size_out": "350平方公尺",
+        "tel": "(05)2351595#670",
+        "url": "https:\/\/www.facebook.com\/yreskids",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c311505b-93b2-4d27-adae-29a050ee7d12",
+        "monthly": 3149
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.416591,
+            23.472654
+        ]
+    }
+}

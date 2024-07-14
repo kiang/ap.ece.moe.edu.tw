@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1080579748號",
+        "reg_docno": "南市社福字第40885號",
+        "reg_date": "1998\/12\/16",
+        "title": "臺南市私立劍聲幼兒園",
+        "owner": "翁凡哲",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]榮譽街102號",
+        "floor": "2",
+        "size": "270.92平方公尺",
+        "size_in": "151.31平方公尺",
+        "size_out": "119.61平方公尺",
+        "tel": "(06)2691439",
+        "url": "http:\/\/www.jskid.com.tw",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2b5b8d1d-90d4-4c99-8a93-82f482ad7a9d",
+        "monthly": 7100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.217933,
+            22.974903
+        ]
+    }
+}

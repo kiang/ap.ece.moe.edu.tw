@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599號",
+        "reg_docno": "八八府教三字第348694號",
+        "reg_date": "1999\/09\/10",
+        "title": "新北市八里區八里國民小學附設幼兒園",
+        "owner": "陳木琳",
+        "city": "新北市",
+        "town": "八里區",
+        "type": "公立",
+        "address": "[249]中山路2段338號",
+        "floor": "1樓",
+        "size": "848.6平方公尺",
+        "size_in": "529.6平方公尺",
+        "size_out": "319平方公尺",
+        "tel": "(02)26102217#3103",
+        "url": "www.ples.ntpc.edu.tw",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e669ee65-658a-4df7-a6f5-ac38166ce14f",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.403323,
+            25.149742
+        ]
+    }
+}

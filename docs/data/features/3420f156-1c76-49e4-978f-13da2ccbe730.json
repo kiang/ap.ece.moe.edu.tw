@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060076299號",
+        "reg_docno": "74府教國字第139059號",
+        "reg_date": "1985\/07\/26",
+        "title": "臺中市大甲區大甲國民小學附設幼兒園",
+        "owner": "李金發",
+        "city": "臺中市",
+        "town": "大甲區",
+        "type": "公立",
+        "address": "[437]育德路233號",
+        "floor": "1樓",
+        "size": "328.69平方公尺",
+        "size_in": "94.25平方公尺",
+        "size_out": "147.84平方公尺",
+        "tel": "(04)26872048#723",
+        "url": "https:\/\/tcps.tc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3420f156-1c76-49e4-978f-13da2ccbe730",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.626255,
+            24.350865
+        ]
+    }
+}

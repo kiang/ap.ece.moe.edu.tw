@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130002925號",
+        "reg_docno": "府教幼字第1110113392號",
+        "reg_date": "2022\/05\/05",
+        "title": "桃園市私立嘉捷幼兒園",
+        "owner": "祝韻凌",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]華亞三路39巷29號1樓、2樓、3樓及23號3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3281555",
+        "url": "",
+        "count_approved": "181",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "244307f4-a84d-40f9-a638-2770042ab75d",
+        "monthly": 15667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3800453,
+            25.0483353
+        ]
+    }
+}

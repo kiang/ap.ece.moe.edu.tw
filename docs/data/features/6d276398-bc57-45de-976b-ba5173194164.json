@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111030422號",
+        "reg_docno": "南市教國字第01295號",
+        "reg_date": "1994\/01\/14",
+        "title": "臺南市安南區顯宮國民小學附設幼兒園",
+        "owner": "何志中",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "公立",
+        "address": "[709]顯宮二街1號",
+        "floor": "1樓",
+        "size": "250平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "130平方公尺",
+        "tel": "(06)2841723#701",
+        "url": "http:\/\/kids.skes.tn.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6d276398-bc57-45de-976b-ba5173194164",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1269876,
+            23.0366665
+        ]
+    }
+}

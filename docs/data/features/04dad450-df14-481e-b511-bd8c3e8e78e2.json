@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10133371800號",
+        "reg_docno": "74高市教育三字第21750號",
+        "reg_date": "1985\/08\/10",
+        "title": "高雄市私立振才幼兒園",
+        "owner": "周芳進",
+        "city": "高雄市",
+        "town": "鼓山區",
+        "type": "私立",
+        "address": "[804]九如四路1793號",
+        "floor": "1樓、2樓",
+        "size": "907.66平方公尺",
+        "size_in": "453.84平方公尺",
+        "size_out": "453.82平方公尺",
+        "tel": "(07)5850868",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "04dad450-df14-481e-b511-bd8c3e8e78e2",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.283993,
+            22.665774
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100239387號",
+        "reg_docno": "府社婦字第0920002311號",
+        "reg_date": "2003\/01\/08",
+        "title": "臺東縣私立何嘉仁幼兒園",
+        "owner": "武榮財",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "私立",
+        "address": "[950]仁二街55號",
+        "floor": "2",
+        "size": "1,647.95平方公尺",
+        "size_in": "1,054.72平方公尺",
+        "size_out": "60平方公尺",
+        "tel": "(089)237838",
+        "url": "",
+        "count_approved": "161",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：58",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a019e936-9143-4e03-a4ea-29523b8278f2",
+        "monthly": 13167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1471308,
+            22.7669842
+        ]
+    }
+}

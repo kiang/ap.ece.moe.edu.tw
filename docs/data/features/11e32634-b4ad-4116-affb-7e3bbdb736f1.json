@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11201996400號",
+        "reg_docno": "屏府社福字第0980019400號",
+        "reg_date": "2009\/01\/21",
+        "title": "屏東縣竹田鄉立幼兒園",
+        "owner": "吳振中",
+        "city": "屏東縣",
+        "town": "竹田鄉",
+        "type": "公立",
+        "address": "[911]龍崗路130號",
+        "floor": "1樓、2樓",
+        "size": "2,346.1平方公尺",
+        "size_in": "1,678.76平方公尺",
+        "size_out": "667.34平方公尺",
+        "tel": "(08)7791130",
+        "url": "",
+        "count_approved": "270",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "11e32634-b4ad-4116-affb-7e3bbdb736f1",
+        "monthly": 3856
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.54867,
+            22.60398
+        ]
+    }
+}

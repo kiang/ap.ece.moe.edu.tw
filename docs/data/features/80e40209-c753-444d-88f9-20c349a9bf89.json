@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1130060299號",
+        "reg_docno": "88府教國字第066120號",
+        "reg_date": "1999\/06\/25",
+        "title": "國立東華大學附設花蓮縣私立實驗幼兒園",
+        "owner": "徐輝明",
+        "city": "花蓮縣",
+        "town": "壽豐鄉",
+        "type": "私立",
+        "address": "[974]居南邨101號",
+        "floor": "一樓",
+        "size": "9,180平方公尺",
+        "size_in": "808.14平方公尺",
+        "size_out": "8,371.86平方公尺",
+        "tel": "(03)8906652",
+        "url": "https:\/\/ndhuk.com\/",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "80e40209-c753-444d-88f9-20c349a9bf89",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.538312,
+            23.891052
+        ]
+    }
+}

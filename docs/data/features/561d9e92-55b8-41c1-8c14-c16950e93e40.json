@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒國證字第528-1號",
+        "reg_docno": "北市社五字第09336246400號",
+        "reg_date": "2004\/07\/23",
+        "title": "臺北市私立韋斯登幼兒園",
+        "owner": "顏小萍",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]合江街73巷33號1樓",
+        "floor": "1樓",
+        "size": "103.68平方公尺",
+        "size_in": "103.68平方公尺",
+        "size_out": "",
+        "tel": "(02)25081568",
+        "url": "",
+        "count_approved": "24",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "561d9e92-55b8-41c1-8c14-c16950e93e40",
+        "monthly": 18733
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.540201,
+            25.058826
+        ]
+    }
+}

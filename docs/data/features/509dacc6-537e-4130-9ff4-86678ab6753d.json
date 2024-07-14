@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110030716號",
+        "reg_docno": "府教特字第0960055141號",
+        "reg_date": "2007\/05\/29",
+        "title": "新竹市香山區茄苳國民小學附設幼兒園",
+        "owner": "張淑玲",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "公立",
+        "address": "[300]茄苳路57號",
+        "floor": "1樓",
+        "size": "1,022平方公尺",
+        "size_in": "402.21平方公尺",
+        "size_out": "619.79平方公尺",
+        "tel": "(03)5373543#17",
+        "url": "https:\/\/www.cdps.hc.edu.tw\/nss\/p\/cdpskids",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "509dacc6-537e-4130-9ff4-86678ab6753d",
+        "monthly": 3729
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.946092,
+            24.755789
+        ]
+    }
+}

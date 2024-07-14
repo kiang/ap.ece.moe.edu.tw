@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1091151038號",
+        "reg_docno": "南市社兒字第09713515940號",
+        "reg_date": "2008\/02\/05",
+        "title": "臺南市立第四幼兒園安順分班",
+        "owner": "",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "公立",
+        "address": "[709]總安街1",
+        "floor": "1樓",
+        "size": "2,040平方公尺",
+        "size_in": "611.99平方公尺",
+        "size_out": "1,428.01平方公尺",
+        "tel": "(06)3563074",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "24108e83-3848-42ca-8a94-ec0b7454c539",
+        "monthly": 3505
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.215672,
+            23.053055
+        ]
+    }
+}

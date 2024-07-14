@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第111-1號",
+        "reg_docno": "北市教國字第10467號",
+        "reg_date": "1959\/04\/09",
+        "title": "財團法人台北市基督教浸信會懷恩堂附設臺北市私立懷恩幼兒園",
+        "owner": "",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]新生南路3段90號1樓",
+        "floor": "1樓",
+        "size": "2,554平方公尺",
+        "size_in": "1,210平方公尺",
+        "size_out": "1,344平方公尺",
+        "tel": "(02)23636593",
+        "url": "http:\/\/www.hwaiyow.com.tw\/",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7093a01c-b87a-4f85-aeb4-c990f91c0be3",
+        "monthly": 13250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.533488,
+            25.0180203
+        ]
+    }
+}

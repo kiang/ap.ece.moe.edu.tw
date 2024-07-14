@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120272790號",
+        "reg_docno": "府教幼字第1080214076號",
+        "reg_date": "2019\/08\/27",
+        "title": "桃園市桃捷非營利幼兒園(委託社團法人台灣幸福園親子教育推廣學會辦理)",
+        "owner": "呂瑩瑩",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "非營利",
+        "address": "[337]領航北路四段253號",
+        "floor": "3樓",
+        "size": "2,229.97平方公尺",
+        "size_in": "1,459.97平方公尺",
+        "size_out": "770平方公尺",
+        "tel": "(03)2871327",
+        "url": "https:\/\/www.facebook.com\/tymetro.kids",
+        "count_approved": "182",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "154724d3-32c9-4351-996b-fc8ffcf7d9a1",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2200874,
+            25.0246496
+        ]
+    }
+}

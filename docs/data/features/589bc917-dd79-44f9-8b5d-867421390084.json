@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1091519571號",
+        "reg_docno": "嘉市府社福字第60272號",
+        "reg_date": "2000\/08\/14",
+        "title": "嘉義市私立諾爾堡幼兒園",
+        "owner": "謝義齡",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]大雅路一段858巷36號",
+        "floor": "1樓",
+        "size": "2,574.21平方公尺",
+        "size_in": "963.29平方公尺",
+        "size_out": "1,610.92平方公尺",
+        "tel": "(05)2759951",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "589bc917-dd79-44f9-8b5d-867421390084",
+        "monthly": 14167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.484909,
+            23.48162
+        ]
+    }
+}

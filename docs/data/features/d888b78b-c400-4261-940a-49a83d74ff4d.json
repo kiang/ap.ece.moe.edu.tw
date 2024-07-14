@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第807-1號",
+        "reg_docno": "北市教前字第11130152621號",
+        "reg_date": "2022\/10\/01",
+        "title": "臺北市湖美非營利幼兒園（委託社團法人台灣社會發展推動協會辦理）",
+        "owner": "羅雪娥",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "非營利",
+        "address": "[114]行善路268號1樓(行善社宅內)",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)2793-0609",
+        "url": "評鑑情形：",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d888b78b-c400-4261-940a-49a83d74ff4d",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5807485,
+            25.0591947
+        ]
+    }
+}

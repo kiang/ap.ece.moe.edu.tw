@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1020004509號",
+        "reg_docno": "97府社婦字第0970078822號",
+        "reg_date": "2008\/04\/02",
+        "title": "臺中市私立快樂斑比幼兒園",
+        "owner": "劉永銘",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]五權西路三段27號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23805760",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "c37b8d89-6847-4046-b11b-49df32503910",
+        "monthly": 9139
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.617284,
+            24.15341
+        ]
+    }
+}

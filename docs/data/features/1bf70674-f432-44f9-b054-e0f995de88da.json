@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0051號",
+        "reg_docno": "北府社兒字第0940414284號",
+        "reg_date": "2005\/05\/27",
+        "title": "新北市私立華兒園精緻幼兒園",
+        "owner": "林錦惠",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]三和路二段75號2樓",
+        "floor": "2樓",
+        "size": "218.07平方公尺",
+        "size_in": "218.07平方公尺",
+        "size_out": "",
+        "tel": "(02)89720100",
+        "url": "",
+        "count_approved": "61",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：13",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1bf70674-f432-44f9-b054-e0f995de88da",
+        "monthly": 12615
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.499971,
+            25.068124
+        ]
+    }
+}

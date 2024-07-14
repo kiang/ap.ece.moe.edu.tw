@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080183332號",
+        "reg_docno": "府教特字第0983044062號",
+        "reg_date": "1979\/03\/24",
+        "title": "臺東縣臺東市寶桑國民小學附設幼兒園",
+        "owner": "李倩鈺",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "公立",
+        "address": "[950]四維路二段23號",
+        "floor": "1樓",
+        "size": "30,060平方公尺",
+        "size_in": "713平方公尺",
+        "size_out": "29,347平方公尺",
+        "tel": "(089)321995",
+        "url": "http:\/\/www.bsps.ttct.edu.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "89846897-b4b6-4b6d-abe9-83e8c29caeaf",
+        "monthly": 4167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.151328,
+            22.761614
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110244720號",
+        "reg_docno": "府教特字第0920071657號",
+        "reg_date": "2003\/04\/18",
+        "title": "彰化縣社頭鄉社頭國民小學附設幼兒園",
+        "owner": "吳明德",
+        "city": "彰化縣",
+        "town": "社頭鄉",
+        "type": "公立",
+        "address": "[511]社斗路一段258號",
+        "floor": "1樓",
+        "size": "467.72平方公尺",
+        "size_in": "317.92平方公尺",
+        "size_out": "149.8平方公尺",
+        "tel": "(04)8732039#18",
+        "url": "http:\/\/www.stps.chc.edu.tw\/",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "94541603-3297-4ec2-ae07-8f69151bd32e",
+        "monthly": 3542
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.58646,
+            23.897423
+        ]
+    }
+}

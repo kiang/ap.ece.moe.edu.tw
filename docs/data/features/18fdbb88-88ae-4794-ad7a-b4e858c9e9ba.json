@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1110190973號",
+        "reg_docno": "南市教特(一)字第1110190973號",
+        "reg_date": "2022\/03\/04",
+        "title": "臺南市私立卓越幼兒園",
+        "owner": "朱亞琳",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]永榮一街69號",
+        "floor": "1樓、2樓",
+        "size": "1,981.23平方公尺",
+        "size_in": "1,038.57平方公尺",
+        "size_out": "942.66平方公尺",
+        "tel": "(06)2316551",
+        "url": "",
+        "count_approved": "255",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "18fdbb88-88ae-4794-ad7a-b4e858c9e9ba",
+        "monthly": 5400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2592785,
+            23.0139034
+        ]
+    }
+}

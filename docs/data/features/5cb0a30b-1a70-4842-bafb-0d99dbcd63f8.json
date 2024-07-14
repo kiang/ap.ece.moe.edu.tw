@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第717號",
+        "reg_docno": "北市社五字第8920680700號",
+        "reg_date": "2004\/12\/08",
+        "title": "臺北市私立華康幼兒園",
+        "owner": "林麗娟",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]金華街223之5號2樓及223之9號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)23914431",
+        "url": "http:\/\/www.gymbaby.com.tw\/",
+        "count_approved": "31",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5cb0a30b-1a70-4842-bafb-0d99dbcd63f8",
+        "monthly": 20700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.529297,
+            25.029909
+        ]
+    }
+}

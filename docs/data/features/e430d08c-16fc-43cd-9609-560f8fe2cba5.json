@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第667號",
+        "reg_docno": "北市社婦幼字第10037779700號",
+        "reg_date": "2011\/06\/03",
+        "title": "臺北市私立予心屋幼兒園",
+        "owner": "陳宥綸",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]光復南路420巷19號1樓",
+        "floor": "1樓",
+        "size": "162.67平方公尺",
+        "size_in": "162.67平方公尺",
+        "size_out": "",
+        "tel": "(02)27056166",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e430d08c-16fc-43cd-9609-560f8fe2cba5",
+        "monthly": 22000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.556389,
+            25.036355
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "府教國字第053799號",
+        "reg_date": "1997\/04\/02",
+        "title": "臺南市歸仁區保西國民小學附設幼兒園",
+        "owner": "劉英國",
+        "city": "臺南市",
+        "town": "歸仁區",
+        "type": "公立",
+        "address": "[711]中正北路三段60號",
+        "floor": "1樓",
+        "size": "629.59平方公尺",
+        "size_in": "284.11平方公尺",
+        "size_out": "345.48平方公尺",
+        "tel": "(06)2309683#701",
+        "url": "www.bsps.tn.edu.tw",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5b968d6a-d804-4c24-af52-2beb02a377fb",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.293933,
+            22.992948
+        ]
+    }
+}

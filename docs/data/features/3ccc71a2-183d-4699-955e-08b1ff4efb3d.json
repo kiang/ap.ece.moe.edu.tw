@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599泰山0028號",
+        "reg_docno": "新北府教幼字第1100256611號",
+        "reg_date": "2021\/03\/15",
+        "title": "新北市私立夢不落幼兒園",
+        "owner": "林坪錠",
+        "city": "新北市",
+        "town": "泰山區",
+        "type": "私立",
+        "address": "[243]信華三街61號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22972318",
+        "url": "",
+        "count_approved": "267",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3ccc71a2-183d-4699-955e-08b1ff4efb3d",
+        "monthly": 25600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.440194,
+            25.0438629
+        ]
+    }
+}

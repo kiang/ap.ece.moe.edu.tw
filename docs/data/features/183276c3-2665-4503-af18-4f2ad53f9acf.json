@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620樹林0044號",
+        "reg_docno": "北府社兒字第1001139458號",
+        "reg_date": "2011\/10\/12",
+        "title": "新北市私立奇異鳥米蘭幼兒園",
+        "owner": "林玉敏",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "私立",
+        "address": "[238]長壽街15之5號2樓、15之6號1樓、15之7號1、2樓",
+        "floor": "1樓至2樓",
+        "size": "301平方公尺",
+        "size_in": "301平方公尺",
+        "size_out": "",
+        "tel": "(02)26824949",
+        "url": "",
+        "count_approved": "86",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "183276c3-2665-4503-af18-4f2ad53f9acf",
+        "monthly": 23500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4228925,
+            24.9936061
+        ]
+    }
+}

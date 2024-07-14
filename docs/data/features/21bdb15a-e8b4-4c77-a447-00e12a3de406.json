@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090187752號",
+        "reg_docno": "府教學字第09701359070號",
+        "reg_date": "2008\/07\/15",
+        "title": "南投縣私立柏克萊幼兒園",
+        "owner": "蘇雪麗",
+        "city": "南投縣",
+        "town": "草屯鎮",
+        "type": "私立",
+        "address": "[542]富林路一段579號",
+        "floor": "1樓至2樓",
+        "size": "1,544平方公尺",
+        "size_in": "646平方公尺",
+        "size_out": "898平方公尺",
+        "tel": "(049)2339338",
+        "url": "http:\/\/www.facebook.com\/berkeley579",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "21bdb15a-e8b4-4c77-a447-00e12a3de406",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.690637,
+            23.970857
+        ]
+    }
+}

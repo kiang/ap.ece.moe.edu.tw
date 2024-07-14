@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1120039336號",
+        "reg_docno": "府教幼字第1083717900號",
+        "reg_date": "2019\/08\/01",
+        "title": "新竹縣新埔鎮枋寮國民小學附設幼兒園",
+        "owner": "彭祥瑀",
+        "city": "新竹縣",
+        "town": "新埔鎮",
+        "type": "公立",
+        "address": "[305]義民路2段350號",
+        "floor": "1樓、2樓",
+        "size": "545.7平方公尺",
+        "size_in": "357.8平方公尺",
+        "size_out": "187.9平方公尺",
+        "tel": "(03)5882081#106",
+        "url": "https:\/\/reurl.cc\/QjkLG0",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5b888ee3-5a95-4e45-8b56-8cc7ab4abe04",
+        "monthly": 3614
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0514671,
+            24.8367524
+        ]
+    }
+}

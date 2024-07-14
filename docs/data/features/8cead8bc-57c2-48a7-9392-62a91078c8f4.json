@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110080422號",
+        "reg_docno": "中市教幼字第1110080422號",
+        "reg_date": "2022\/09\/20",
+        "title": "文化部國立臺灣美術館職場互助教保服務中心(委託社團法人幼兒教保協會辦理)",
+        "owner": "林以凱",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "私立",
+        "address": "[403]五權西路一段2號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23769110",
+        "url": "評鑑情形：",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8cead8bc-57c2-48a7-9392-62a91078c8f4",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.666603,
+            24.140628
+        ]
+    }
+}

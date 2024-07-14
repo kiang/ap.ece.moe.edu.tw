@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11238172700號",
+        "reg_docno": "高市教幼字第11231842300號",
+        "reg_date": "2023\/03\/14",
+        "title": "高雄市政府客家事務委員會火焰蟲非營利幼兒園(委託社團法人高雄市婦幼同心會辦理)",
+        "owner": "童燕珍",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "非營利",
+        "address": "[807]同盟二路215號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3118881",
+        "url": "fly3118881@gmail.com",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9fa1d5b8-0535-4bbf-bf50-9119d71cf841",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.295743,
+            22.650541
+        ]
+    }
+}

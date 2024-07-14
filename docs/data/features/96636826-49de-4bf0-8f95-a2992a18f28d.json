@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121109422號",
+        "reg_docno": "府教國字第112219號",
+        "reg_date": "1977\/10\/19",
+        "title": "臺南市山上區山上國民小學附設幼兒園",
+        "owner": "蘇耿義",
+        "city": "臺南市",
+        "town": "山上區",
+        "type": "公立",
+        "address": "[743]42號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)5781203#821",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "96636826-49de-4bf0-8f95-a2992a18f28d",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.355388,
+            23.100934
+        ]
+    }
+}

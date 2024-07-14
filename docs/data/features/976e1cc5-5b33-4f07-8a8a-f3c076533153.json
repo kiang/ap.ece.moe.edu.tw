@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100441762號",
+        "reg_docno": "府教幼字第1030449573號",
+        "reg_date": "2014\/12\/30",
+        "title": "彰化縣私立悅恩幼兒園",
+        "owner": "王詩雯",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "私立",
+        "address": "[500]三民路403巷7號",
+        "floor": "1樓、2樓",
+        "size": "574.95平方公尺",
+        "size_in": "498.48平方公尺",
+        "size_out": "76.47平方公尺",
+        "tel": "(04)7287179",
+        "url": "",
+        "count_approved": "49",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "976e1cc5-5b33-4f07-8a8a-f3c076533153",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.547023,
+            24.087268
+        ]
+    }
+}

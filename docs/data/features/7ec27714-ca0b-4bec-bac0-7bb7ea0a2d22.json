@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599土城0003之1號",
+        "reg_docno": "北府社兒字第1000795938號",
+        "reg_date": "2011\/09\/14",
+        "title": "新北市私立彤恩幼兒園",
+        "owner": "柯學璵",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]金城路3段19號1、2樓",
+        "floor": "1、2",
+        "size": "212.91平方公尺",
+        "size_in": "212.91平方公尺",
+        "size_out": "",
+        "tel": "(02)82621250",
+        "url": "",
+        "count_approved": "42",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7ec27714-ca0b-4bec-bac0-7bb7ea0a2d22",
+        "monthly": 12000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.464969,
+            24.986549
+        ]
+    }
+}

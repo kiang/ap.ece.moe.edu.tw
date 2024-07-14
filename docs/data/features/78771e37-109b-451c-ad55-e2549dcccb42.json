@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1010389800號",
+        "reg_docno": "府教國字第217122號",
+        "reg_date": "1999\/12\/21",
+        "title": "臺南市私立蕃茄幼兒園",
+        "owner": "王宣人",
+        "city": "臺南市",
+        "town": "新市區",
+        "type": "私立",
+        "address": "[744]永就94-6號",
+        "floor": "1樓至3樓",
+        "size": "1,715.73平方公尺",
+        "size_in": "969.73平方公尺",
+        "size_out": "746平方公尺",
+        "tel": "(06)5972567",
+        "url": "http:\/\/tomato.topschool.com.tw\/",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "78771e37-109b-451c-ad55-e2549dcccb42",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.292697,
+            23.062633
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680三重0044之3號",
+        "reg_docno": "八八北府教三字第331424號",
+        "reg_date": "1999\/08\/30",
+        "title": "新北市立明志國民中學附設幼兒園",
+        "owner": "楊明源",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "公立",
+        "address": "[241]中正北路107號",
+        "floor": "1樓",
+        "size": "1,941.87平方公尺",
+        "size_in": "1,012.4平方公尺",
+        "size_out": "929.47平方公尺",
+        "tel": "(02)29844132#365",
+        "url": "http:\/\/web.mcjh.ntpc.edu.tw",
+        "count_approved": "196",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dc995f6c-894d-48ca-a99b-fa77c05ec6a1",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.48934,
+            25.063543
+        ]
+    }
+}

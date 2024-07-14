@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680三重0097之1號",
+        "reg_docno": "新北府教幼字第1100444173號",
+        "reg_date": "2021\/04\/12",
+        "title": "新北市私立新寰宇國際幼兒園",
+        "owner": "林悅瑂",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]集仁街81號1、2、3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "872.918平方公尺",
+        "size_in": "625.918平方公尺",
+        "size_out": "247平方公尺",
+        "tel": "(02)2857-8081",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "de94b80f-f2b3-4e11-a0b2-2fe860dade1b",
+        "monthly": 20382
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4857659,
+            25.0857205
+        ]
+    }
+}

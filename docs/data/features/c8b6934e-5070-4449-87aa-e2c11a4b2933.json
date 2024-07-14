@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680鶯歌0026之1號",
+        "reg_docno": "新北府幼教字第1091277940號",
+        "reg_date": "2020\/08\/04",
+        "title": "新北市私立精英國際幼兒園",
+        "owner": "張書語",
+        "city": "新北市",
+        "town": "鶯歌區",
+        "type": "私立",
+        "address": "[239]中山路249巷30號1樓、32號1樓、36號1至2樓及36號露臺",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26793299",
+        "url": "",
+        "count_approved": "151",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c8b6934e-5070-4449-87aa-e2c11a4b2933",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3474551,
+            24.956435
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040093323號",
+        "reg_docno": "府教幼字第1040069220號",
+        "reg_date": "2015\/03\/20",
+        "title": "桃園市私立凱思堡幼兒園",
+        "owner": "王新秀",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]豐德路301號",
+        "floor": "1樓、2樓",
+        "size": "1,041.74平方公尺",
+        "size_in": "335.24平方公尺",
+        "size_out": "251平方公尺",
+        "tel": "(03)2755388",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "6123166f-95ab-4a60-b90f-fbfcd477c4ed",
+        "monthly": 15167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2872219,
+            24.9251167
+        ]
+    }
+}

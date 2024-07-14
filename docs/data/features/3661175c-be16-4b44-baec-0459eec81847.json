@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第735號",
+        "reg_docno": "北市社五字第09134111500號",
+        "reg_date": "2002\/05\/28",
+        "title": "臺北市私立磊心蒙特梭利幼兒園",
+        "owner": "李素真",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]信義路四段99巷30.32號1樓",
+        "floor": "1樓",
+        "size": "189.8平方公尺",
+        "size_in": "189.8平方公尺",
+        "size_out": "",
+        "tel": "(02)27014947",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3661175c-be16-4b44-baec-0459eec81847",
+        "monthly": 23500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.546921,
+            25.034575
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0056號",
+        "reg_docno": "北府社兒字第0910551534號",
+        "reg_date": "2002\/09\/10",
+        "title": "新北市私立大恩幼兒園",
+        "owner": "卓佳淑",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]介壽街23號及25號1樓",
+        "floor": "1",
+        "size": "148.6平方公尺",
+        "size_in": "148.6平方公尺",
+        "size_out": "",
+        "tel": "(02)22585685",
+        "url": "",
+        "count_approved": "42",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "49b6037e-0e67-42b9-bfb8-2b12033abdd2",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.468151,
+            25.020148
+        ]
+    }
+}

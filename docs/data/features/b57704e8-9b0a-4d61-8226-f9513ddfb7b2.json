@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11135447100號",
+        "reg_docno": "高市教幼字第11135447100號",
+        "reg_date": "2022\/07\/25",
+        "title": "高雄市私立幸運草幼兒園",
+        "owner": "蘇玲菁",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]北昌三街70號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,467.84平方公尺",
+        "size_in": "1,310.3平方公尺",
+        "size_out": "1,157.54平方公尺",
+        "tel": "(07)7353968",
+        "url": "高雄市鳳山區北昌三街70號",
+        "count_approved": "395",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b57704e8-9b0a-4d61-8226-f9513ddfb7b2",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.373356,
+            22.6450095
+        ]
+    }
+}

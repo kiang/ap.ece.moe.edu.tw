@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110072109號",
+        "reg_docno": "90府教特字第23285號",
+        "reg_date": "2001\/02\/21",
+        "title": "臺中市西屯區泰安國民小學附設幼兒園",
+        "owner": "邱義隆",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "公立",
+        "address": "[407]環中路二段368號",
+        "floor": "1樓、2樓",
+        "size": "790平方公尺",
+        "size_in": "550平方公尺",
+        "size_out": "240平方公尺",
+        "tel": "(04)27017045#805",
+        "url": "http:\/\/tw.class.urlifelinks.com\/class\/?csid=css000000021526",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c001b844-7de8-4225-87ba-f314b382e16f",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6496411,
+            24.1976235
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010021059號",
+        "reg_docno": "府社幼字第0183號",
+        "reg_date": "1999\/11\/06",
+        "title": "臺中市私立至聖幼兒園",
+        "owner": "劉美靈",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "私立",
+        "address": "[412]永隆一街78號",
+        "floor": "1樓、2樓",
+        "size": "1,367.5平方公尺",
+        "size_in": "980.93平方公尺",
+        "size_out": "386.57平方公尺",
+        "tel": "(04)24077588",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "81135e5d-eea4-410b-b558-5efb3110f03a",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.678948,
+            24.105372
+        ]
+    }
+}

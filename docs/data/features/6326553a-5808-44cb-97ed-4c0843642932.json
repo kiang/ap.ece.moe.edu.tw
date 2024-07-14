@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11139217500號",
+        "reg_docno": "高市教幼字第11136472500號",
+        "reg_date": "2022\/08\/26",
+        "title": "高雄市中華電信武昌職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+        "owner": "呂佳旻",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "私立",
+        "address": "[802]武昌路200號",
+        "floor": "1樓",
+        "size": "262.32平方公尺",
+        "size_in": "262.32平方公尺",
+        "size_out": "",
+        "tel": "(07)7131211",
+        "url": "評鑑情形：",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6326553a-5808-44cb-97ed-4c0843642932",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3312931,
+            22.6182314
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138787800號",
+        "reg_docno": "府社福字第0960230313號",
+        "reg_date": "2007\/10\/02",
+        "title": "高雄市私立鳳山優揚幼兒園",
+        "owner": "羅敬業",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]平等路154號1至2樓",
+        "floor": "1樓至2樓",
+        "size": "315.71平方公尺",
+        "size_in": "315.71平方公尺",
+        "size_out": "",
+        "tel": "(07)7105562",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d2adaf2f-fbba-4b97-840f-55eb5b4058d9",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.351687,
+            22.621446
+        ]
+    }
+}

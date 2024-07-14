@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111351028號",
+        "reg_docno": "府社福字第0980004445號",
+        "reg_date": "2009\/01\/07",
+        "title": "臺南市私立傑登幼兒園",
+        "owner": "蕭如君",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]復國一路278號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)3115651",
+        "url": "",
+        "count_approved": "216",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b4265e5b-69b8-40bc-a7de-ff0fb2733b42",
+        "monthly": 9500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.246552,
+            23.008799
+        ]
+    }
+}

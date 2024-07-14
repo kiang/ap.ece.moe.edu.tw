@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教國字第1120914237號",
+        "reg_docno": "澎府祕文字第48213號",
+        "reg_date": "1998\/08\/06",
+        "title": "澎湖縣湖西鄉立幼兒園",
+        "owner": "陳振中",
+        "city": "澎湖縣",
+        "town": "湖西鄉",
+        "type": "公立",
+        "address": "[885]180號",
+        "floor": "2層樓",
+        "size": "5,131.08平方公尺",
+        "size_in": "2,937.69平方公尺",
+        "size_out": "2,193.3平方公尺",
+        "tel": "(06)9921597",
+        "url": "",
+        "count_approved": "316",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "78b51e49-e23b-4e03-99a6-8b86a6cbdedc",
+        "monthly": 3133
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.662815,
+            23.585031
+        ]
+    }
+}

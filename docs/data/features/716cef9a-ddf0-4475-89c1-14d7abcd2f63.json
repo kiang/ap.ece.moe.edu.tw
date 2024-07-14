@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110236861號",
+        "reg_docno": "府教幼字第1010190658號",
+        "reg_date": "2012\/08\/01",
+        "title": "桃園市桃園區同安國民小學附設幼兒園",
+        "owner": "江彩鳳",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "公立",
+        "address": "[330]同德11街48號",
+        "floor": "1樓、1",
+        "size": "752平方公尺",
+        "size_in": "482平方公尺",
+        "size_out": "270平方公尺",
+        "tel": "(03)3269251#13",
+        "url": "http:\/\/www.taes.tyc.edu.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "716cef9a-ddf0-4475-89c1-14d7abcd2f63",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2981712,
+            25.0214926
+        ]
+    }
+}

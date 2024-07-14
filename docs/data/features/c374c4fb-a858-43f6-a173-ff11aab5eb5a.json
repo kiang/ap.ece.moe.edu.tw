@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040038559號",
+        "reg_docno": "府社兒字第0970427326號",
+        "reg_date": "2008\/12\/25",
+        "title": "桃園市立桃園幼兒園陽明分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "公立",
+        "address": "[330]陽明三街33號",
+        "floor": "1樓",
+        "size": "843.86平方公尺",
+        "size_in": "680.86平方公尺",
+        "size_out": "163平方公尺",
+        "tel": "(03)3678277",
+        "url": "http:\/\/kindergarten.taocity.gov.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c374c4fb-a858-43f6-a173-ff11aab5eb5a",
+        "monthly": 3937
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.307329,
+            24.979329
+        ]
+    }
+}

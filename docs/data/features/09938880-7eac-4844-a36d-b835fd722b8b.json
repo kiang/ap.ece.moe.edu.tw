@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110178784號",
+        "reg_docno": "府教國字第41270號",
+        "reg_date": "1979\/06\/27",
+        "title": "花蓮縣花蓮市信義國民小學附設幼兒園",
+        "owner": "楊文廷",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "公立",
+        "address": "[970]信義街1號",
+        "floor": "1樓",
+        "size": "225平方公尺",
+        "size_in": "135平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)8331163#219",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000124807",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "09938880-7eac-4844-a36d-b835fd722b8b",
+        "monthly": 2990
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.606549,
+            23.971245
+        ]
+    }
+}

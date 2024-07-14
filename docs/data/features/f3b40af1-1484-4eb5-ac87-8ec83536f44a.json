@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138517600號",
+        "reg_docno": "90府社福字第9000127732號",
+        "reg_date": "2001\/07\/27",
+        "title": "高雄市私立童心藝術幼兒園",
+        "owner": "張美娟",
+        "city": "高雄市",
+        "town": "阿蓮區",
+        "type": "私立",
+        "address": "[822]中山路375巷75號",
+        "floor": "1-3",
+        "size": "1,807.7平方公尺",
+        "size_in": "782.3平方公尺",
+        "size_out": "1,025.4平方公尺",
+        "tel": "(07)6316862",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f3b40af1-1484-4eb5-ac87-8ec83536f44a",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3286657,
+            22.8793289
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599號",
+        "reg_docno": "八九北府教幼字第346815號",
+        "reg_date": "2000\/09\/11",
+        "title": "新北市鶯歌區二橋國民小學附設幼兒園",
+        "owner": "林朝隆",
+        "city": "新北市",
+        "town": "鶯歌區",
+        "type": "公立",
+        "address": "[239]中正三路106號",
+        "floor": "1樓",
+        "size": "638平方公尺",
+        "size_in": "338平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(02)26792364#272",
+        "url": "http:\/\/163.20.55.207\/eweb\/index.php?home=ew00000000031",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "31ff1615-999a-4508-9656-9d1bb4e0c051",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.337613,
+            24.940845
+        ]
+    }
+}

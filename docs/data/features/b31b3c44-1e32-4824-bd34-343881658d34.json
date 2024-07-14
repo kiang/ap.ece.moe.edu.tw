@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111462426號",
+        "reg_docno": "南市教特(一)字第1111036455號",
+        "reg_date": "2022\/08\/12",
+        "title": "台糖公司職工福利委員會崇善職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+        "owner": "呂佳旻",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]崇善路408號1樓",
+        "floor": "1樓",
+        "size": "367平方公尺",
+        "size_in": "179.3平方公尺",
+        "size_out": "187.7平方公尺",
+        "tel": "(06)2601880",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b31b3c44-1e32-4824-bd34-343881658d34",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2289728,
+            22.9744683
+        ]
+    }
+}

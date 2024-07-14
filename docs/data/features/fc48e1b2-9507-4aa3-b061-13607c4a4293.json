@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050103013號",
+        "reg_docno": "府社幼字第0920201606號",
+        "reg_date": "2003\/07\/30",
+        "title": "臺中市私立育群幼兒園",
+        "owner": "游惠貞",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "私立",
+        "address": "[413]草湖路158號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23397011",
+        "url": "",
+        "count_approved": "162",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：16",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fc48e1b2-9507-4aa3-b061-13607c4a4293",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.694611,
+            24.072588
+        ]
+    }
+}

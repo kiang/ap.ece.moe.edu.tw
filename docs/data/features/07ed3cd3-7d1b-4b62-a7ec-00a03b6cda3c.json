@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599林口0030之1號",
+        "reg_docno": "北府社兒字第393826號",
+        "reg_date": "1998\/04\/28",
+        "title": "新北市私立心兒園幼兒園",
+        "owner": "邱美蓮",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]八德路48巷37號1、2、3樓",
+        "floor": "3",
+        "size": "303.64平方公尺",
+        "size_in": "115.64平方公尺",
+        "size_out": "188平方公尺",
+        "tel": "(02)26095169",
+        "url": "lovelygarden5169@gmail.com",
+        "count_approved": "70",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "07ed3cd3-7d1b-4b62-a7ec-00a03b6cda3c",
+        "monthly": 14673
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3673098,
+            25.0678243
+        ]
+    }
+}

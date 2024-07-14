@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101048454號",
+        "reg_docno": "府教國字第87835號",
+        "reg_date": "1978\/08\/09",
+        "title": "臺南市新營區新興國民小學附設幼兒園",
+        "owner": "張菁峯",
+        "city": "臺南市",
+        "town": "新營區",
+        "type": "公立",
+        "address": "[730]316號",
+        "floor": "1樓",
+        "size": "222.5平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "102.5平方公尺",
+        "tel": "(06)6523779#208",
+        "url": "http:\/\/www.hhes.tn.edu.tw\/x\/index.php",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a626ec42-9bbb-4fb0-b4f2-41d92708d439",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.276176,
+            23.28692
+        ]
+    }
+}

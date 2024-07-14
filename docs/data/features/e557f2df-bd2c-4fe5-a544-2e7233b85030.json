@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10730701700號",
+        "reg_docno": "87府教國字第83699號",
+        "reg_date": "1998\/05\/19",
+        "title": "高雄市私立百佳幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]新樂街95號",
+        "floor": "1-2",
+        "size": "2,697.13平方公尺",
+        "size_in": "1,756.34平方公尺",
+        "size_out": "940.79平方公尺",
+        "tel": "(07)7665500",
+        "url": "www.bowjinn.com.tw",
+        "count_approved": "330",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e557f2df-bd2c-4fe5-a544-2e7233b85030",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3423589,
+            22.6086883
+        ]
+    }
+}

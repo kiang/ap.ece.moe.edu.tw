@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第774號",
+        "reg_docno": "北市教前字第1076073550號",
+        "reg_date": "2019\/02\/01",
+        "title": "臺北市泰北非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "非營利",
+        "address": "[111]福林路240號",
+        "floor": "1樓",
+        "size": "1,846.22平方公尺",
+        "size_in": "1,043.65平方公尺",
+        "size_out": "802.57平方公尺",
+        "tel": "(02)28828633",
+        "url": "http:\/\/www.3-3life.org.tw\/index.php?m=Yzy&a=sList&eId=40&sId=1",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d4afce90-eb9c-43c2-a9d8-351d7474a1e2",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5339431,
+            25.0973651
+        ]
+    }
+}

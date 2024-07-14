@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1115022066號",
+        "reg_docno": "府教特字第21340號",
+        "reg_date": "2002\/03\/12",
+        "title": "嘉義市東區宣信國民小學附設幼兒園",
+        "owner": "謝聖雅",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "公立",
+        "address": "[600]宣信街266號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2223904#2970",
+        "url": "https:\/\/eduweb.cy.edu.tw\/pk1172003",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "24ca26f9-e9a4-4a18-83df-2c5509ad671a",
+        "monthly": 3170
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.458942,
+            23.470584
+        ]
+    }
+}

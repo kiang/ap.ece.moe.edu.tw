@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010403837號",
+        "reg_docno": "府社幼字第0990616266號",
+        "reg_date": "2010\/11\/15",
+        "title": "雲林縣私立康橋幼兒園",
+        "owner": "趙梅梅",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "私立",
+        "address": "[640]西平路157-1、157-2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5338976",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7ddb59a8-b9d9-4953-8b72-652114d7ab07",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.535976,
+            23.711474
+        ]
+    }
+}

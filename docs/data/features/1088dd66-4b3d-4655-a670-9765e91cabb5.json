@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10936443500號",
+        "reg_docno": "84府教學字第48724號",
+        "reg_date": "1995\/03\/15",
+        "title": "高雄市鳥松區仁美國民小學附設幼兒園",
+        "owner": "陳文炳",
+        "city": "高雄市",
+        "town": "鳥松區",
+        "type": "公立",
+        "address": "[833]學堂路2號",
+        "floor": "1樓",
+        "size": "847.96平方公尺",
+        "size_in": "195.36平方公尺",
+        "size_out": "652.6平方公尺",
+        "tel": "(07)7315633#771",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1088dd66-4b3d-4655-a670-9765e91cabb5",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.394183,
+            22.658123
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10935912100號",
+        "reg_docno": "高市教幼字第10935912100號",
+        "reg_date": "2020\/07\/30",
+        "title": "高雄市後勁非營利幼兒園(委託社團法人高雄市碩苗社會教育關懷協會辦理)",
+        "owner": "林麗珠",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "非營利",
+        "address": "[811]加昌路180號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3641505",
+        "url": "高雄市楠梓區加昌路180號",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cbb02181-b510-44c1-99ca-e14b7e5ad118",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3159563,
+            22.7224816
+        ]
+    }
+}

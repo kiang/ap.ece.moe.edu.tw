@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第610之2號",
+        "reg_docno": "北市社五字第8922707900號",
+        "reg_date": "2000\/05\/04",
+        "title": "臺北市私立北投青青幼兒園",
+        "owner": "李玉玲",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]溫泉路73巷5號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28965006",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "39f78b07-9c27-479a-8a56-3e6f977c12d4",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5065673,
+            25.13585
+        ]
+    }
+}

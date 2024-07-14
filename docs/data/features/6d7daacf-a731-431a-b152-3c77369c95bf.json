@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1031517599號",
+        "reg_docno": "府社福字第0960094712號",
+        "reg_date": "2007\/06\/06",
+        "title": "嘉義市私立天欣幼兒園",
+        "owner": "蔡博仁",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]吳鳳南路547巷2號",
+        "floor": "1樓、2樓、3樓、1~3",
+        "size": "550.565平方公尺",
+        "size_in": "443.76平方公尺",
+        "size_out": "106.805平方公尺",
+        "tel": "(05)2222558",
+        "url": "",
+        "count_approved": "71",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "6d7daacf-a731-431a-b152-3c77369c95bf",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.458064,
+            23.460432
+        ]
+    }
+}

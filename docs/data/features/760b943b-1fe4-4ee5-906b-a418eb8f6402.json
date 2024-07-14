@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第5號",
+        "reg_docno": "北市教前字第11030135521號",
+        "reg_date": "2021\/08\/13",
+        "title": "財政部財政資訊中心職場互助教保服務中心(委託社團法人新竹市教保人員協會辦理)",
+        "owner": "許玉齡",
+        "city": "臺北市",
+        "town": "信義區",
+        "type": "私立",
+        "address": "[110]忠孝東路4段547號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27493301",
+        "url": "www.facebook.com\/fia.preschool\/",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "760b943b-1fe4-4ee5-906b-a418eb8f6402",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5620958,
+            25.0417389
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090156795號",
+        "reg_docno": "府教特字第09400810730號",
+        "reg_date": "2005\/06\/09",
+        "title": "花蓮縣瑞穗鄉瑞美國民小學附設幼兒園",
+        "owner": "陳世杰",
+        "city": "花蓮縣",
+        "town": "瑞穗鄉",
+        "type": "公立",
+        "address": "[978]中山2段389號",
+        "floor": "1",
+        "size": "295.59平方公尺",
+        "size_in": "205.59平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)8872014#26",
+        "url": "http:\/\/www.zmeps.hlc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "88c25d82-c1e2-47ee-8365-cd7024818521",
+        "monthly": 2866
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.392334,
+            23.493274
+        ]
+    }
+}

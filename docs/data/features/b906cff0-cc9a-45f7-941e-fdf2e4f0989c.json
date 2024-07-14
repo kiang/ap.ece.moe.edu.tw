@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "府教國字第94824號",
+        "reg_date": "1998\/06\/02",
+        "title": "臺南市下營區賀建國民小學附設幼兒園",
+        "owner": "何銘倫",
+        "city": "臺南市",
+        "town": "下營區",
+        "type": "公立",
+        "address": "[735]麻豆寮49號",
+        "floor": "1樓",
+        "size": "536平方公尺",
+        "size_in": "136平方公尺",
+        "size_out": "400平方公尺",
+        "tel": "(06)6891109#20",
+        "url": "http:\/\/www.hjes.tnc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b906cff0-cc9a-45f7-941e-fdf2e4f0989c",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.296025,
+            23.254706
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10929915600號",
+        "reg_docno": "屏府教特字第98735號",
+        "reg_date": "2001\/06\/21",
+        "title": "屏東縣潮州鎮潮東國民小學附設幼兒園",
+        "owner": "李福明",
+        "city": "屏東縣",
+        "town": "潮州鎮",
+        "type": "公立",
+        "address": "[920]復興路66號",
+        "floor": "1樓",
+        "size": "1,346.02平方公尺",
+        "size_in": "446.02平方公尺",
+        "size_out": "900平方公尺",
+        "tel": "(08)7871364#18",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100083742164707&locale=zh_TW",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "040235e6-9867-4234-9fd4-bcb79312c79c",
+        "monthly": 3669
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.560309,
+            22.523007
+        ]
+    }
+}

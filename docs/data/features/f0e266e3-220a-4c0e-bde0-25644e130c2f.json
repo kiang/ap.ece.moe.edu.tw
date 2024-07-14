@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110180448號",
+        "reg_docno": "府教幼字第1110180448號",
+        "reg_date": "2022\/07\/27",
+        "title": "國防部全動署後備指揮部明德營區職場互助教保服務中心(委託社團法人臺灣兒童發展早期療育協會辦理)",
+        "owner": "張乃文",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "私立",
+        "address": "[540]民族路512號",
+        "floor": "1樓",
+        "size": "1,633平方公尺",
+        "size_in": "175.12平方公尺",
+        "size_out": "137.95平方公尺",
+        "tel": "(090)7252928",
+        "url": "https:\/\/www.facebook.com\/%E5%9C%8B%E9%98%B2%E9%83%A8%E5%85%A8%E5%8B%95%E7%BD%B2%E5%BE%8C%E5%82%99%E6",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f0e266e3-220a-4c0e-bde0-25644e130c2f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6779165,
+            23.9064138
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10935630000號",
+        "reg_docno": "高市教幼字第10935630000號",
+        "reg_date": "2020\/07\/31",
+        "title": "高雄市立德非營利幼兒園(委託社團法人高雄市社區美學教育發展協會辦理)",
+        "owner": "陳慧玟",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "非營利",
+        "address": "[813]實踐路101號",
+        "floor": "1樓、2樓",
+        "size": "2,350.697平方公尺",
+        "size_in": "1,173.51平方公尺",
+        "size_out": "1,177.187平方公尺",
+        "tel": "(07)5813866",
+        "url": "評鑑情形：",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1a137195-8223-445e-8d9d-2eb5f5485168",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2911747,
+            22.6902315
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010069023號",
+        "reg_docno": "府社幼字第0970033917號",
+        "reg_date": "2008\/01\/31",
+        "title": "臺中市立霧峰幼兒園本鄉分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "公立",
+        "address": "[413]民生路95號2、3樓",
+        "floor": "2樓、3樓",
+        "size": "478.55平方公尺",
+        "size_in": "334.52平方公尺",
+        "size_out": "144.03平方公尺",
+        "tel": "(04)23396117",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b5e1576a-0f3e-4daa-a909-f6ede3f6f250",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7004272,
+            24.0659135
+        ]
+    }
+}

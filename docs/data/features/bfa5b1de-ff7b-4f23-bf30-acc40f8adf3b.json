@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三芝0007號",
+        "reg_docno": "八九北府社兒字第89116004號",
+        "reg_date": "2000\/03\/24",
+        "title": "新北市私立幼親幼兒園",
+        "owner": "戴光治",
+        "city": "新北市",
+        "town": "三芝區",
+        "type": "私立",
+        "address": "[252]公正街60號2樓",
+        "floor": "2",
+        "size": "193.74平方公尺",
+        "size_in": "133.75平方公尺",
+        "size_out": "59.99平方公尺",
+        "tel": "(02)26368323",
+        "url": "",
+        "count_approved": "32",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bfa5b1de-ff7b-4f23-bf30-acc40f8adf3b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5001,
+            25.2576
+        ]
+    }
+}

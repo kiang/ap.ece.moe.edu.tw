@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1080004347號",
+        "reg_docno": "府勞社福字第0980131943號",
+        "reg_date": "2008\/02\/17",
+        "title": "苗栗縣竹南鎮立幼兒園",
+        "owner": "方進興",
+        "city": "苗栗縣",
+        "town": "竹南鎮",
+        "type": "公立",
+        "address": "[350]龍江街73巷61弄21號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(037)475865",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0618d188-e018-4fbe-b4d7-25a00a051085",
+        "monthly": 3404
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.86477,
+            24.693266
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第388-2號",
+        "reg_docno": "府社五字第8906478700號",
+        "reg_date": "2000\/07\/26",
+        "title": "臺北市私立卡蕾兒幼兒園",
+        "owner": "李玉玲",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]文化三路14號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28926957",
+        "url": "",
+        "count_approved": "21",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "22857472-6b78-46f4-a103-90850e11c955",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.497876,
+            25.13761
+        ]
+    }
+}

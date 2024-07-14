@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120017445號",
+        "reg_docno": "府教國前字第77622號",
+        "reg_date": "1991\/05\/13",
+        "title": "新竹市私立研田賦育幼兒園",
+        "owner": "郭元蕙",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]北新街5號",
+        "floor": "一樓",
+        "size": "233.88平方公尺",
+        "size_in": "136.45平方公尺",
+        "size_out": "97.43平方公尺",
+        "tel": "(03)5221204",
+        "url": "ytfuyu2023@gmail.com",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "70677c38-88a8-40a8-9fbf-8ba1d5e12e8a",
+        "monthly": 13800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9597011,
+            24.801962
+        ]
+    }
+}

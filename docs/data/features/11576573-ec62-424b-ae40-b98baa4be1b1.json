@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120207184號",
+        "reg_docno": "府教學字第09800612330號",
+        "reg_date": "1948\/09\/01",
+        "title": "南投縣埔里鎮南光國民小學附設幼兒園",
+        "owner": "林取德",
+        "city": "南投縣",
+        "town": "埔里鎮",
+        "type": "公立",
+        "address": "[545]中正路251號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,428.55平方公尺",
+        "size_in": "888.55平方公尺",
+        "size_out": "540平方公尺",
+        "tel": "(049)2982025#800",
+        "url": "http：\/\/163.22.70.2",
+        "count_approved": "210",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "11576573-ec62-424b-ae40-b98baa4be1b1",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.970845,
+            23.9614359
+        ]
+    }
+}

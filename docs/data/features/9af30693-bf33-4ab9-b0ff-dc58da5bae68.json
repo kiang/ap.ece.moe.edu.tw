@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120180788號",
+        "reg_docno": "府教幼字第1120106162號",
+        "reg_date": "2023\/08\/01",
+        "title": "嘉義縣中埔鄉和興國民小學附設幼兒園",
+        "owner": "周濟仁",
+        "city": "嘉義縣",
+        "town": "中埔鄉",
+        "type": "公立",
+        "address": "[606]和興路91號",
+        "floor": "1樓",
+        "size": "860平方公尺",
+        "size_in": "200平方公尺",
+        "size_out": "660平方公尺",
+        "tel": "(05)2306717#28",
+        "url": "https:\/\/www.hhps.cyc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9af30693-bf33-4ab9-b0ff-dc58da5bae68",
+        "monthly": 3585
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4535115,
+            23.4430902
+        ]
+    }
+}

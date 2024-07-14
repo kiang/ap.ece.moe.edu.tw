@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10638026000號",
+        "reg_docno": "84府教國字第172586號",
+        "reg_date": "1995\/09\/05",
+        "title": "高雄市私立主人翁幼兒園",
+        "owner": "黃紀勝",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]竹圍東街66號",
+        "floor": "1-3",
+        "size": "3,024.51平方公尺",
+        "size_in": "2,156.57平方公尺",
+        "size_out": "867.94平方公尺",
+        "tel": "(07)6231678",
+        "url": "",
+        "count_approved": "409",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b3f501e4-6b31-4531-aef3-41737191cff1",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.303482,
+            22.8011151
+        ]
+    }
+}

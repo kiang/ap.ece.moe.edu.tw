@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11035386600號",
+        "reg_docno": "75府社福字第105763號",
+        "reg_date": "1986\/09\/26",
+        "title": "高雄市私立中華幼兒園",
+        "owner": "余亞諭",
+        "city": "高雄市",
+        "town": "林園區",
+        "type": "私立",
+        "address": "[832]清水岩路85巷1號",
+        "floor": "1-2",
+        "size": "2,184.96平方公尺",
+        "size_in": "389.46平方公尺",
+        "size_out": "1,795.5平方公尺",
+        "tel": "(07)6424579",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "23aa78b8-fab4-4394-a5cd-5c68226bf84e",
+        "monthly": 5700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.39262,
+            22.519336
+        ]
+    }
+}

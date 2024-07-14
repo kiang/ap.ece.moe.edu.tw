@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080199543號",
+        "reg_docno": "投府教學字第89064152號",
+        "reg_date": "2000\/04\/24",
+        "title": "南投縣信義鄉東埔國民小學附設幼兒園",
+        "owner": "朱懿幰",
+        "city": "南投縣",
+        "town": "信義鄉",
+        "type": "公立",
+        "address": "[556]開高巷63號",
+        "floor": "1樓",
+        "size": "536平方公尺",
+        "size_in": "236平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(049)2701340",
+        "url": "http:\/\/163.22.119.61",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8c7874cf-aab1-4b4f-9ece-fae456eadf4e",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.927788,
+            23.561913
+        ]
+    }
+}

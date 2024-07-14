@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10535822000號",
+        "reg_docno": "九十府教國字第91988號",
+        "reg_date": "2001\/06\/14",
+        "title": "高雄市私立青青幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "鳥松區",
+        "type": "私立",
+        "address": "[833]昌文街70號、72號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3704577",
+        "url": "http:\/\/www.c-ching.com.tw",
+        "count_approved": "270",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "37958ea7-aa71-41b1-9d64-74fa3df6cfd3",
+        "monthly": 11433
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.335529,
+            22.656979
+        ]
+    }
+}

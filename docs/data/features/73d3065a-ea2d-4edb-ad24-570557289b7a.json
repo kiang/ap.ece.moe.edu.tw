@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0067號",
+        "reg_docno": "八五北府社四字第85386780號",
+        "reg_date": "1996\/10\/22",
+        "title": "新北市私立格林幼兒園",
+        "owner": "呂幸容",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]興南路一段117巷1弄1及3號1樓、107號1樓、107-1號2樓、109號1樓、109-1號2樓",
+        "floor": "1-2樓",
+        "size": "674.15平方公尺",
+        "size_in": "524.15平方公尺",
+        "size_out": "150平方公尺",
+        "tel": "(02)29470979",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "73d3065a-ea2d-4edb-ad24-570557289b7a",
+        "monthly": 10333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5092346,
+            24.9877791
+        ]
+    }
+}

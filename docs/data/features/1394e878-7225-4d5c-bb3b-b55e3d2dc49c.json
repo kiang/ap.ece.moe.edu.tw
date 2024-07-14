@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090153553號",
+        "reg_docno": "府教特字第1090153553號",
+        "reg_date": "2020\/10\/08",
+        "title": "新竹市關埔非營利幼兒園(委託社團法人新竹市教保人員協會辦理)",
+        "owner": "許玉齡",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "非營利",
+        "address": "[300]慈濟路2號",
+        "floor": "1樓",
+        "size": "1,380平方公尺",
+        "size_in": "1,018.27平方公尺",
+        "size_out": "361.73平方公尺",
+        "tel": "(03)5772230",
+        "url": "www.facebook.com\/Guanpu2021",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1394e878-7225-4d5c-bb3b-b55e3d2dc49c",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0132677,
+            24.7886433
+        ]
+    }
+}

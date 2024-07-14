@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新莊0131之2號",
+        "reg_docno": "新北府教幼字第1071914863號",
+        "reg_date": "2018\/10\/05",
+        "title": "新北市福營非營利幼兒園(委託社團法人中華兆陽文教發展協會辦理)",
+        "owner": "陸珮文",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "非營利",
+        "address": "[242]富國路105號1樓",
+        "floor": "1樓",
+        "size": "607.94平方公尺",
+        "size_in": "470.77平方公尺",
+        "size_out": "137.17平方公尺",
+        "tel": "(02)22022202",
+        "url": "評鑑情形：",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "456bc54d-fcd4-4f67-a5dc-bf48a04721d4",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.422605,
+            25.025323
+        ]
+    }
+}

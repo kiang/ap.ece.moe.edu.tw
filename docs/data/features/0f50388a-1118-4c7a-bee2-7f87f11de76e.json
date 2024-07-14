@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學字第1020006902號",
+        "reg_docno": "投府社福字第70869號",
+        "reg_date": "1985\/06\/24",
+        "title": "南投縣私立主人翁幼兒園",
+        "owner": "蔡沂靜",
+        "city": "南投縣",
+        "town": "名間鄉",
+        "type": "私立",
+        "address": "[551]彰南路50-15號",
+        "floor": "第1層",
+        "size": "1,355平方公尺",
+        "size_in": "760平方公尺",
+        "size_out": "595平方公尺",
+        "tel": "(049)2735235",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0f50388a-1118-4c7a-bee2-7f87f11de76e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.703427,
+            23.838616
+        ]
+    }
+}

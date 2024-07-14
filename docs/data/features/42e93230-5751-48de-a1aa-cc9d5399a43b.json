@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11266224900號",
+        "reg_docno": "屏府社婦字第1000324378號",
+        "reg_date": "1980\/09\/02",
+        "title": "屏東縣獅子鄉立幼兒園",
+        "owner": "朱宏恩",
+        "city": "屏東縣",
+        "town": "獅子鄉",
+        "type": "公立",
+        "address": "[943]1巷1號",
+        "floor": "2樓",
+        "size": "302.41平方公尺",
+        "size_in": "259.13平方公尺",
+        "size_out": "43.28平方公尺",
+        "tel": "(08)8770760",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "42e93230-5751-48de-a1aa-cc9d5399a43b",
+        "monthly": 1690
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.751104,
+            22.204538
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100247495號",
+        "reg_docno": "府教國字第67940號",
+        "reg_date": "1985\/08\/16",
+        "title": "花蓮縣鳳林鎮鳳林國民小學附設幼兒園",
+        "owner": "李國清",
+        "city": "花蓮縣",
+        "town": "鳳林鎮",
+        "type": "公立",
+        "address": "[975]中正路二段1號",
+        "floor": "1樓",
+        "size": "479平方公尺",
+        "size_in": "129平方公尺",
+        "size_out": "350平方公尺",
+        "tel": "(03)8762031#117",
+        "url": "http:\/\/www.flips.hlc.edu.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1789e401-9038-4d26-9dbf-5cbef92cae8f",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.447381,
+            23.743224
+        ]
+    }
+}

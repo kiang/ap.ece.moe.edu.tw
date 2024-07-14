@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0054號",
+        "reg_docno": "89北府社兒字第493593號",
+        "reg_date": "2000\/12\/21",
+        "title": "新北市私立喬幼光明幼兒園",
+        "owner": "林煌傑",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]光明街68號1樓、68之1號2樓",
+        "floor": "一樓",
+        "size": "372.86平方公尺",
+        "size_in": "301.89平方公尺",
+        "size_out": "70.97平方公尺",
+        "tel": "(02)29637600",
+        "url": "",
+        "count_approved": "93",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9b406d28-e3e4-4ba8-a7ea-1fda96744306",
+        "monthly": 16467
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.461497,
+            25.002668
+        ]
+    }
+}

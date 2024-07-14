@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1130010497號",
+        "reg_docno": "府教幼字第1083722018號",
+        "reg_date": "2019\/12\/20",
+        "title": "新竹縣私立夏綠蒂幼兒園",
+        "owner": "劉中耀",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]勝利五路207號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,253.56平方公尺",
+        "size_in": "469.95平方公尺",
+        "size_out": "662.33平方公尺",
+        "tel": "(03)6675810",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5f92f464-7b0c-4591-b2e2-192e12b0d937",
+        "monthly": 8500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0293566,
+            24.8232428
+        ]
+    }
+}

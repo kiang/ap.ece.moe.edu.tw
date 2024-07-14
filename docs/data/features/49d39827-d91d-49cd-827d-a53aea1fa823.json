@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1070252381號",
+        "reg_docno": "基府教前參字第1070252381號",
+        "reg_date": "2018\/12\/05",
+        "title": "基隆市私立薇莘幼兒園",
+        "owner": "梁淑華",
+        "city": "基隆市",
+        "town": "信義區",
+        "type": "私立",
+        "address": "[201]孝東路108號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24680769",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "49d39827-d91d-49cd-827d-a53aea1fa823",
+        "monthly": 21750
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7770181,
+            25.1280514
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10937293200號",
+        "reg_docno": "高市教幼字第10937293200號",
+        "reg_date": "2020\/10\/15",
+        "title": "高雄市私立威爾森政德幼兒園",
+        "owner": "林昱珊",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]政德路468號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,805.5平方公尺",
+        "size_in": "1,112.3平方公尺",
+        "size_out": "693.2平方公尺",
+        "tel": "(07)3456516",
+        "url": "",
+        "count_approved": "215",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "aac7e27f-4415-4218-9226-b98ab2d07a99",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.303725,
+            22.681064
+        ]
+    }
+}

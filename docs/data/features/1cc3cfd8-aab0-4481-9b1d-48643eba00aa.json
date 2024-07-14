@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130156611號",
+        "reg_docno": "府教幼字第1080264240號",
+        "reg_date": "2019\/07\/31",
+        "title": "彰化縣興光非營利幼兒園（委託社團法人彰化縣中華幼兒教保職涯發展協會辦理）",
+        "owner": "郭懿珊",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "非營利",
+        "address": "[500]中山路一段213號",
+        "floor": "1樓、2樓",
+        "size": "451.44平方公尺",
+        "size_in": "259.74平方公尺",
+        "size_out": "191.7平方公尺",
+        "tel": "(04)7515075",
+        "url": "https:\/\/www.facebook.com\/sg7515075",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1cc3cfd8-aab0-4481-9b1d-48643eba00aa",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5335302,
+            24.0588863
+        ]
+    }
+}

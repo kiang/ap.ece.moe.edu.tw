@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551625號",
+        "reg_docno": "九十府教特字第103906號",
+        "reg_date": "2001\/09\/20",
+        "title": "新竹縣芎林鄉芎林國民小學附設幼兒園",
+        "owner": "羅惠清",
+        "city": "新竹縣",
+        "town": "芎林鄉",
+        "type": "公立",
+        "address": "[307]文山路288號",
+        "floor": "1樓",
+        "size": "582平方公尺",
+        "size_in": "200平方公尺",
+        "size_out": "382平方公尺",
+        "tel": "(03)5923184#411",
+        "url": "https:\/\/sites.google.com\/view\/star12345\/%E9%A6%96%E9%A0%81",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ea64b307-557c-410b-8ab4-fdc16ed1fd6f",
+        "monthly": 3654
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.082485,
+            24.77417
+        ]
+    }
+}

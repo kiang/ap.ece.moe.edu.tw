@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100027620號",
+        "reg_docno": "府教特字第0950164331號",
+        "reg_date": "2006\/08\/10",
+        "title": "臺中市私立超群蒙特梭利幼兒園",
+        "owner": "張瀞方",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]忠明六街12號1~3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22055089",
+        "url": "http:\/\/www.chauchun.com.tw",
+        "count_approved": "105",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "1c7f6943-91ce-4ee1-b90a-e4fff68b7642",
+        "monthly": 14167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.667874,
+            24.164277
+        ]
+    }
+}

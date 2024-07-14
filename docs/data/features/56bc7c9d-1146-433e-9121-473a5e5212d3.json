@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120199208號",
+        "reg_docno": "府教特字第0078843號",
+        "reg_date": "2002\/06\/25",
+        "title": "嘉義縣東石鄉塭港國民小學附設幼兒園",
+        "owner": "鄭居益",
+        "city": "嘉義縣",
+        "town": "東石鄉",
+        "type": "公立",
+        "address": "[614]塭港170號",
+        "floor": "1樓",
+        "size": "355.4平方公尺",
+        "size_in": "201平方公尺",
+        "size_out": "134.4平方公尺",
+        "tel": "(05)3732653#27",
+        "url": "http:\/\/www.ugps.cyc.edu.tw\/",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "56bc7c9d-1146-433e-9121-473a5e5212d3",
+        "monthly": 3769
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.145864,
+            23.471105
+        ]
+    }
+}

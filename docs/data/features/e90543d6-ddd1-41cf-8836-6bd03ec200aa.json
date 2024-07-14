@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10537726600號",
+        "reg_docno": "高市教幼字第10537726600號",
+        "reg_date": "2016\/12\/12",
+        "title": "高雄市私立愛萌兒幼兒園",
+        "owner": "楊賢傑",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "私立",
+        "address": "[811]楠梓路269巷118號",
+        "floor": "1樓",
+        "size": "2,679.05平方公尺",
+        "size_in": "702.95平方公尺",
+        "size_out": "1,976.1平方公尺",
+        "tel": "(07)3513272",
+        "url": "",
+        "count_approved": "228",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e90543d6-ddd1-41cf-8836-6bd03ec200aa",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.328807,
+            22.730158
+        ]
+    }
+}

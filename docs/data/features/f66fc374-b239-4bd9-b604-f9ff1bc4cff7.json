@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120008350號",
+        "reg_docno": "府教特字第1110179767號",
+        "reg_date": "2022\/08\/01",
+        "title": "臺東縣臺東市光明國民小學附設幼兒園",
+        "owner": "徐淑委",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "公立",
+        "address": "[950]中興路二段150巷29弄1號",
+        "floor": "1樓",
+        "size": "449.5平方公尺",
+        "size_in": "202.5平方公尺",
+        "size_out": "247平方公尺",
+        "tel": "(089)226304",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f66fc374-b239-4bd9-b604-f9ff1bc4cff7",
+        "monthly": 4633
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1292935,
+            22.7673675
+        ]
+    }
+}

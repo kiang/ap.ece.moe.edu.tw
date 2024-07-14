@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120351411號",
+        "reg_docno": "府教幼字第1030292505號",
+        "reg_date": "2014\/09\/01",
+        "title": "彰化縣芳苑鄉漢寶國民小學附設幼兒園",
+        "owner": "葉振彰",
+        "city": "彰化縣",
+        "town": "芳苑鄉",
+        "type": "公立",
+        "address": "[528]草漢路漢寶段541號",
+        "floor": "1樓",
+        "size": "572.64平方公尺",
+        "size_in": "461.39平方公尺",
+        "size_out": "111.25平方公尺",
+        "tel": "(04)8991062#22",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5efe19e8-74d3-4c49-9a90-8146fb72a9ac",
+        "monthly": 3542
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3852593,
+            24.0064668
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010028695號",
+        "reg_docno": "89中市府社婦字第108177號",
+        "reg_date": "2000\/08\/11",
+        "title": "臺中市私立夏山維尼幼兒園",
+        "owner": "陳慈勉",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]永昌二街2號",
+        "floor": "2",
+        "size": "270.2平方公尺",
+        "size_in": "270.2平方公尺",
+        "size_out": "",
+        "tel": "(04)23170993",
+        "url": "http:\/\/www.summerhill-winnie.com.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "eb651414-de38-4d03-969a-6c1411f4de4a",
+        "monthly": 13124
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6570624,
+            24.1691678
+        ]
+    }
+}

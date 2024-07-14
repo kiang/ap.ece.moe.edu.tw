@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010089142號",
+        "reg_docno": "八六彰府教國字第198436號",
+        "reg_date": "1997\/10\/20",
+        "title": "彰化縣私立立大幼兒園",
+        "owner": "楊煥爵",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "私立",
+        "address": "[500]泰和東街76號",
+        "floor": "1樓至2樓",
+        "size": "1,007.77平方公尺",
+        "size_in": "655.77平方公尺",
+        "size_out": "352平方公尺",
+        "tel": "(04)7265181",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c875a13d-c854-495c-aba7-4f20e154afb5",
+        "monthly": 11733
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.55281,
+            24.0932349
+        ]
+    }
+}

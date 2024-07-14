@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1030784850號",
+        "reg_docno": "南市教特(一)字第1030784850號",
+        "reg_date": "2014\/08\/26",
+        "title": "臺南市私立威爾森德高幼兒園",
+        "owner": "王華勇",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]永東街58號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2905460",
+        "url": "wilsonschool024@gmail.com",
+        "count_approved": "338",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bd6ca906-7bd2-4c5e-9095-c936c8dff19f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2356925,
+            22.9608951
+        ]
+    }
+}

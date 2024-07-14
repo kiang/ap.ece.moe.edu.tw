@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120113061號",
+        "reg_docno": "84府社褔字第27918號",
+        "reg_date": "1995\/02\/07",
+        "title": "臺中市私立幼任幼兒園",
+        "owner": "林助易",
+        "city": "臺中市",
+        "town": "神岡區",
+        "type": "私立",
+        "address": "[429]北庄路26號",
+        "floor": "1樓至2樓",
+        "size": "1,584.16平方公尺",
+        "size_in": "1,076.5平方公尺",
+        "size_out": "507.66平方公尺",
+        "tel": "(04)25615395",
+        "url": "",
+        "count_approved": "187",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：37",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "869d8911-761a-4346-8fc5-d88a3f3e15f4",
+        "monthly": 9127
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.671127,
+            24.257243
+        ]
+    }
+}

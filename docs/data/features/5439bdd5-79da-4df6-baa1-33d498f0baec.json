@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11330732200號",
+        "reg_docno": "43府教國字第68912號",
+        "reg_date": "1954\/11\/06",
+        "title": "高雄市旗山區溪洲國民小學附設幼兒園",
+        "owner": "葉國平",
+        "city": "高雄市",
+        "town": "旗山區",
+        "type": "公立",
+        "address": "[842]旗南二路126號",
+        "floor": "1",
+        "size": "1,682.53平方公尺",
+        "size_in": "268.6平方公尺",
+        "size_out": "1,413.93平方公尺",
+        "tel": "(07)6665486",
+        "url": "http:\/\/www.xzp.ks.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5439bdd5-79da-4df6-baa1-33d498f0baec",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.465447,
+            22.847315
+        ]
+    }
+}

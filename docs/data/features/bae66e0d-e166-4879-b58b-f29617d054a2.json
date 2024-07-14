@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11151624300號",
+        "reg_docno": "屏府社福字第1144232號",
+        "reg_date": "1995\/09\/07",
+        "title": "國立屏東科技大學員工子女非營利幼兒園(委託有限責任國立屏東科技大學員生消費合作社辦理)",
+        "owner": "林秀卿",
+        "city": "屏東縣",
+        "town": "內埔鄉",
+        "type": "非營利",
+        "address": "[912]學府路1號",
+        "floor": "1樓",
+        "size": "3,102.2平方公尺",
+        "size_in": "510.02平方公尺",
+        "size_out": "2,592.18平方公尺",
+        "tel": "(08)7703202#7101",
+        "url": "http:\/\/tve.npust.edu.tw\/Department\/Nursery\/",
+        "count_approved": "94",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bae66e0d-e166-4879-b58b-f29617d054a2",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.609966,
+            22.64303
+        ]
+    }
+}

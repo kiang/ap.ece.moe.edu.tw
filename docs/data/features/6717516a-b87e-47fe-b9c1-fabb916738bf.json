@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教國字第1110917355號",
+        "reg_docno": "府教國字第09808020414號",
+        "reg_date": "1999\/07\/14",
+        "title": "澎湖縣湖西鄉隘門國民小學附設幼兒園",
+        "owner": "朱劍忠",
+        "city": "澎湖縣",
+        "town": "湖西鄉",
+        "type": "公立",
+        "address": "[885]15號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)9212692#40",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6717516a-b87e-47fe-b9c1-fabb916738bf",
+        "monthly": 3806
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.635628,
+            23.564004
+        ]
+    }
+}

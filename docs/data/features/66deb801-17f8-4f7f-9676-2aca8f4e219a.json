@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599林口0042號",
+        "reg_docno": "新北府教幼字第1080368604號",
+        "reg_date": "2019\/03\/06",
+        "title": "新北市私立萬美憶月幼兒園",
+        "owner": "陳如意",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]文化一路2段175、177、179號1樓及夾層",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26022568",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "66deb801-17f8-4f7f-9676-2aca8f4e219a",
+        "monthly": 23046
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3831551,
+            25.0816093
+        ]
+    }
+}

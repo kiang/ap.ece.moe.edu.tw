@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府受教幼字第1119550543號",
+        "reg_docno": "府教幼字字第1040160933號",
+        "reg_date": "2015\/10\/26",
+        "title": "新竹縣私立米羅幼兒園",
+        "owner": "游鈴鐘",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]成功十街138號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,745.85平方公尺",
+        "size_in": "1,233.23平方公尺",
+        "size_out": "432.8平方公尺",
+        "tel": "(03)6588855",
+        "url": "",
+        "count_approved": "168",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "474b6ea2-5c0c-4cd5-9375-f0fef0724aea",
+        "monthly": 22000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0219106,
+            24.8155411
+        ]
+    }
+}

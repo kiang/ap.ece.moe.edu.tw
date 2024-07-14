@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11235587300號",
+        "reg_docno": "高市教幼字第11235587300號",
+        "reg_date": "2023\/08\/01",
+        "title": "高雄市和平非營利幼兒園(委託社團法人高雄市幼童教育關懷協會辦理)",
+        "owner": "張文強",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "非營利",
+        "address": "[811]加昌路216號",
+        "floor": "1樓、2樓",
+        "size": "1,718.87平方公尺",
+        "size_in": "621平方公尺",
+        "size_out": "1,097.87平方公尺",
+        "tel": "(07)3646730",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "39884f87-02ef-4d70-ae47-a81dcebdb83e",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3141014,
+            22.7216684
+        ]
+    }
+}

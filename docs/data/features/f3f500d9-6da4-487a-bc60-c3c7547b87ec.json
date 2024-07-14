@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680板橋0172之2號",
+        "reg_docno": "新北府教幼字第1071289539號",
+        "reg_date": "2018\/07\/05",
+        "title": "新北市大觀非營利幼兒園(委託社團法人新北市中華國際嬰幼兒發展學會辦理)",
+        "owner": "林芷涵",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "非營利",
+        "address": "[220]僑中一街1號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)89650800",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f3f500d9-6da4-487a-bc60-c3c7547b87ec",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4489382,
+            25.0111269
+        ]
+    }
+}

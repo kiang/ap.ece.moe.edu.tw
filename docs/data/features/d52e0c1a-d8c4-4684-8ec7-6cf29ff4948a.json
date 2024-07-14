@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040069642號",
+        "reg_docno": "中市府社婦字第9223號",
+        "reg_date": "2003\/11\/15",
+        "title": "臺中市私立新衛斯理幼兒園",
+        "owner": "何堂愷",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[402]五權南一路50號1-2樓",
+        "floor": "1-2",
+        "size": "2,207.91平方公尺",
+        "size_in": "1,633.72平方公尺",
+        "size_out": "574.19平方公尺",
+        "tel": "(04)22620000",
+        "url": "https:\/\/22620000.topschool.tw\/Intro\/Concept",
+        "count_approved": "410",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d52e0c1a-d8c4-4684-8ec7-6cf29ff4948a",
+        "monthly": 12330
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6700274,
+            24.1127893
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第161-1號",
+        "reg_docno": "北市社婦幼字第09836921500號",
+        "reg_date": "2009\/05\/22",
+        "title": "臺北市私立國際蒙特梭利內湖幼兒園",
+        "owner": "林佑宇",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "私立",
+        "address": "[114]大湖街166巷18號1樓至2樓",
+        "floor": "1樓至2樓",
+        "size": "241.8平方公尺",
+        "size_in": "159.6平方公尺",
+        "size_out": "82.2平方公尺",
+        "tel": "(02)27902950",
+        "url": "http:\/\/www.elites.org.tw\/",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "85569a07-ebdf-4e4c-a4d8-7a6e4a478d6f",
+        "monthly": 14856
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.601278,
+            25.083559
+        ]
+    }
+}

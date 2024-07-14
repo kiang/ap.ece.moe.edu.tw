@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110242895號",
+        "reg_docno": "府教學前字第1040029985號",
+        "reg_date": "2015\/02\/09",
+        "title": "苗栗縣私立優優幼兒園",
+        "owner": "李人龍",
+        "city": "苗栗縣",
+        "town": "頭份市",
+        "type": "私立",
+        "address": "[351]大同路77巷21、23號",
+        "floor": "1樓",
+        "size": "642.3平方公尺",
+        "size_in": "341.5平方公尺",
+        "size_out": "300.8平方公尺",
+        "tel": "(037)672887",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "133e5ec6-a15d-4178-aa23-f34e2598efce",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.913827,
+            24.696173
+        ]
+    }
+}

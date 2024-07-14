@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120089805號",
+        "reg_docno": "府教幼字第1120089805號",
+        "reg_date": "2023\/04\/11",
+        "title": "桃園市私立嘉德琳渴望幼兒園",
+        "owner": "萬瑞琴",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "私立",
+        "address": "[325]渴望二路100巷17號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,426.845平方公尺",
+        "size_in": "918.55平方公尺",
+        "size_out": "508.295平方公尺",
+        "tel": "(03)4072971",
+        "url": "",
+        "count_approved": "169",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b788c3d8-932f-4cb7-ac75-57c8be779806",
+        "monthly": 19800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1832933,
+            24.8430609
+        ]
+    }
+}

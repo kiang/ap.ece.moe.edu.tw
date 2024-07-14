@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第90號",
+        "reg_docno": "北市社五字第53757號",
+        "reg_date": "1996\/10\/01",
+        "title": "臺北市私立正光幼兒園",
+        "owner": "何淑真",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]松江路362巷13、15、17、19號1樓",
+        "floor": "1樓",
+        "size": "175.22平方公尺",
+        "size_in": "175.22平方公尺",
+        "size_out": "",
+        "tel": "(02)25223774",
+        "url": "www.ckkg.tp.edu.tw",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "088ed985-e6df-4368-af0f-86af3492a9f9",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.532424,
+            25.062033
+        ]
+    }
+}

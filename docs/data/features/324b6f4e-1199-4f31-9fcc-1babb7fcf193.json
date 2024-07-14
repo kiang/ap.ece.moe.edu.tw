@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "府教國字第81053號",
+        "reg_date": "1980\/07\/22",
+        "title": "臺南市新化區大新國民小學附設幼兒園",
+        "owner": "王建智",
+        "city": "臺南市",
+        "town": "新化區",
+        "type": "公立",
+        "address": "[712]太平街176號",
+        "floor": "1樓",
+        "size": "2,310.23平方公尺",
+        "size_in": "514.23平方公尺",
+        "size_out": "1,796平方公尺",
+        "tel": "(06)5982953#713",
+        "url": "",
+        "count_approved": "128",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "324b6f4e-1199-4f31-9fcc-1babb7fcf193",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.299311,
+            23.038064
+        ]
+    }
+}

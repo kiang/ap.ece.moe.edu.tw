@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110244725號",
+        "reg_docno": "府教幼字第1080264242號",
+        "reg_date": "2019\/07\/31",
+        "title": "彰化縣草港非營利幼兒園（委託社團法人南投縣手工藝發展協會辦理）",
+        "owner": "陳文彬",
+        "city": "彰化縣",
+        "town": "鹿港鎮",
+        "type": "非營利",
+        "address": "[505]頂草路四段251號",
+        "floor": "1樓",
+        "size": "524.62平方公尺",
+        "size_in": "294.62平方公尺",
+        "size_out": "230平方公尺",
+        "tel": "(04)7711091",
+        "url": "彰化縣鹿港鎮頂草路四段251號",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c0453488-dace-4431-bb34-68c2e26c833c",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4617584,
+            24.106456
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680板橋0171號",
+        "reg_docno": "新北府教幼字第1061248463號",
+        "reg_date": "2017\/08\/03",
+        "title": "新北市私立全能愛彌兒板橋幼兒園永豐分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]永豐街43號1樓及2樓、43之1號1樓、41號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29572442",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9c4bf503-e512-44f7-ad36-bf7a17003ffa",
+        "monthly": 11600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.474237,
+            25.017418
+        ]
+    }
+}

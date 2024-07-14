@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1040642924號",
+        "reg_docno": "南市教特(一)字第1040217130號",
+        "reg_date": "2015\/03\/11",
+        "title": "臺南市私立仁仁森林幼兒園",
+        "owner": "林秀碧",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]怡安路二段516巷186、188號",
+        "floor": "1樓、2樓",
+        "size": "3,030平方公尺",
+        "size_in": "1,644.84平方公尺",
+        "size_out": "1,385.16平方公尺",
+        "tel": "(06)2553161",
+        "url": "臺南市安南區怡安路二段516巷188號",
+        "count_approved": "292",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "363ecca3-44c6-43af-9f70-e3f2738204ec",
+        "monthly": 18150
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.195916,
+            23.048043
+        ]
+    }
+}

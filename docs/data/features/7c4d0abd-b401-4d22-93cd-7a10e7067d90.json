@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1090171414C號",
+        "reg_docno": "84府教國字第80593號",
+        "reg_date": "1995\/07\/22",
+        "title": "苗栗縣苑裡鎮藍田國民小學附設幼兒園",
+        "owner": "許美觀",
+        "city": "苗栗縣",
+        "town": "苑裡鎮",
+        "type": "公立",
+        "address": "[358]泰田62號",
+        "floor": "1樓",
+        "size": "17,743.29平方公尺",
+        "size_in": "215.29平方公尺",
+        "size_out": "17,528平方公尺",
+        "tel": "(037)741431",
+        "url": "www.lantianes.mlc.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7c4d0abd-b401-4d22-93cd-7a10e7067d90",
+        "monthly": 3455
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.695737,
+            24.388991
+        ]
+    }
+}

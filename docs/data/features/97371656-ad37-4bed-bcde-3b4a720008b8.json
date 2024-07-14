@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100175155號",
+        "reg_docno": "府教特字第1080253157號",
+        "reg_date": "2020\/01\/31",
+        "title": "臺東縣卑南部落互助教保服務中心(東台灣幼兒教保專業促進協會辦理)",
+        "owner": "黃春玉",
+        "city": "臺東縣",
+        "town": "卑南鄉",
+        "type": "私立",
+        "address": "[954]泰安1號",
+        "floor": "2樓",
+        "size": "2,098平方公尺",
+        "size_in": "353.77平方公尺",
+        "size_out": "1,744.23平方公尺",
+        "tel": "(089)384187",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "97371656-ad37-4bed-bcde-3b4a720008b8",
+        "monthly": 6383
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0665397,
+            22.796057
+        ]
+    }
+}

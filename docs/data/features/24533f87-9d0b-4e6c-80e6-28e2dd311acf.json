@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第86號",
+        "reg_docno": "北市社五字第8625264600號",
+        "reg_date": "1997\/10\/14",
+        "title": "臺北市私立大大樹幼兒園",
+        "owner": "洪淑芬",
+        "city": "臺北市",
+        "town": "南港區",
+        "type": "私立",
+        "address": "[115]玉成街46及48號1樓",
+        "floor": "1樓",
+        "size": "233.82平方公尺",
+        "size_in": "233.82平方公尺",
+        "size_out": "",
+        "tel": "(02)27851516",
+        "url": "http:\/\/tw.myblog.yahoo.com\/bigtree1516\/",
+        "count_approved": "61",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "24533f87-9d0b-4e6c-80e6-28e2dd311acf",
+        "monthly": 21020
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.581417,
+            25.048309
+        ]
+    }
+}

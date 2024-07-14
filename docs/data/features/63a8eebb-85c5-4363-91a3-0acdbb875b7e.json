@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110166885B號",
+        "reg_docno": "府教特字第1110148342號",
+        "reg_date": "2022\/08\/01",
+        "title": "國軍退除役官兵輔導委員會花蓮榮家職場互助教保服務中心(委託社團法人金字塔幼兒教育研究學會辦理)",
+        "owner": "陳淑芳",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "私立",
+        "address": "[970]府前路29號",
+        "floor": "1樓",
+        "size": "401.23平方公尺",
+        "size_in": "401.23平方公尺",
+        "size_out": "",
+        "tel": "(03)8220829",
+        "url": "評鑑情形：",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "63a8eebb-85c5-4363-91a3-0acdbb875b7e",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6186845,
+            24.0026116
+        ]
+    }
+}

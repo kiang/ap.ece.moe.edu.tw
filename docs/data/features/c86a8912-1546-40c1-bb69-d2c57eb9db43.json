@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0168之1號",
+        "reg_docno": "64北府社三字第64033038號",
+        "reg_date": "1975\/03\/11",
+        "title": "新北市私立慈惠幼兒園",
+        "owner": "拾天億",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]民權路202巷22號1樓",
+        "floor": "1",
+        "size": "258.6平方公尺",
+        "size_in": "116.8平方公尺",
+        "size_out": "",
+        "tel": "(02)29651688",
+        "url": "apple36.com.tw\/tzu.hui",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c86a8912-1546-40c1-bb69-d2c57eb9db43",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.461078,
+            25.016651
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599汐止0011之5號",
+        "reg_docno": "八七北府教三字第276004號",
+        "reg_date": "1998\/09\/02",
+        "title": "新北市汐止區秀峰國民小學附設幼兒園",
+        "owner": "戴雲卿",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "公立",
+        "address": "[221]仁愛路90號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26480611#807",
+        "url": "wam.sfps.tpc.edu.tw\/~kindergarten\/",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bb78af99-a134-4549-816a-48760de84fb4",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.661703,
+            25.0628869
+        ]
+    }
+}

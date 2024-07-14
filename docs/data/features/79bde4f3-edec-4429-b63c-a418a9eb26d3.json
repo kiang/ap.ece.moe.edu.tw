@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111030422號",
+        "reg_docno": "南市教特(一)字第1060919098C號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺南市北區賢北國民小學附設幼兒園",
+        "owner": "王韋程",
+        "city": "臺南市",
+        "town": "北區",
+        "type": "公立",
+        "address": "[704]大興街599號",
+        "floor": "1樓",
+        "size": "572.1平方公尺",
+        "size_in": "472.1平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(06)3501433#700",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "79bde4f3-edec-4429-b63c-a418a9eb26d3",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1789866,
+            23.0075927
+        ]
+    }
+}

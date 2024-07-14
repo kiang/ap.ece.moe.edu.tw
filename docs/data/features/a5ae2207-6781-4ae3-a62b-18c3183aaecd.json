@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040034028號",
+        "reg_docno": "89府教特字第162767號",
+        "reg_date": "1996\/08\/15",
+        "title": "桃園市私立家安幼兒園",
+        "owner": "鄧仁傑",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]湧光路136巷219號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4698153",
+        "url": "",
+        "count_approved": "283",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a5ae2207-6781-4ae3-a62b-18c3183aaecd",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.20416,
+            24.8917709
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680八里0016號",
+        "reg_docno": "新北府教幼字第1060035713號",
+        "reg_date": "2017\/03\/02",
+        "title": "新北市私立陽光幼兒園",
+        "owner": "黃文煒",
+        "city": "新北市",
+        "town": "八里區",
+        "type": "私立",
+        "address": "[249]文心街112號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26193688",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a7bf3887-0892-4aad-8e84-da9137dde0f5",
+        "monthly": 11533
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4262504,
+            25.1611522
+        ]
+    }
+}

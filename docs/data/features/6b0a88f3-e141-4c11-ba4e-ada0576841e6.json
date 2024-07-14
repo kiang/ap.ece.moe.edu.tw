@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090095650號",
+        "reg_docno": "中市教幼字第1090095650號",
+        "reg_date": "2020\/11\/24",
+        "title": "臺中市私立莎苙卡薩國際幼兒園",
+        "owner": "沈妙玲",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]福星北一街108號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)27077959",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6b0a88f3-e141-4c11-ba4e-ada0576841e6",
+        "monthly": 33167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6430299,
+            24.1830271
+        ]
+    }
+}

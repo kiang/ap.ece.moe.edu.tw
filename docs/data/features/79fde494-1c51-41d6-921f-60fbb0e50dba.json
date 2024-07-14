@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110115375號",
+        "reg_docno": "中市教幼字第1050053345號",
+        "reg_date": "2016\/07\/15",
+        "title": "臺中市五權非營利幼兒園(委託財團法人星光教育基金會辦理)",
+        "owner": "林姍瑩",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "非營利",
+        "address": "[404]英才路1號",
+        "floor": "1樓、2樓",
+        "size": "880.5平方公尺",
+        "size_in": "225平方公尺",
+        "size_out": "273平方公尺",
+        "tel": "(04)22021277",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "79fde494-1c51-41d6-921f-60fbb0e50dba",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6793488,
+            24.155046
+        ]
+    }
+}

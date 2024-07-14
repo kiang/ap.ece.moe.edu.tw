@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138554900號",
+        "reg_docno": "71府教國字第83523號",
+        "reg_date": "1982\/09\/10",
+        "title": "高雄市私立明善幼兒園",
+        "owner": "陳金蓮",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]黃埔路57號",
+        "floor": "1樓",
+        "size": "3,913.1平方公尺",
+        "size_in": "569平方公尺",
+        "size_out": "3,344.1平方公尺",
+        "tel": "(07)7103542",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5ffc0f17-8cd6-4cb9-86f5-9c286e0f0662",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.365708,
+            22.623433
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070173164號",
+        "reg_docno": "66府教國字第82187號",
+        "reg_date": "1977\/08\/15",
+        "title": "桃園市私立建興幼兒園",
+        "owner": "陳春龍",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]金門二街56號1-2樓",
+        "floor": "1-2F",
+        "size": "360平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "240平方公尺",
+        "tel": "(03)3625468",
+        "url": "https:\/\/reurl.cc\/kddRbK",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "db3748b8-94e5-40ae-ae1a-d944c1d720ec",
+        "monthly": 9205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3172315,
+            24.9823396
+        ]
+    }
+}

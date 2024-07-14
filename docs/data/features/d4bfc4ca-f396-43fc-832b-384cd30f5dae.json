@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070302674號",
+        "reg_docno": "府教特字第0910093072號",
+        "reg_date": "2002\/05\/07",
+        "title": "桃園市私立米羅幼兒園",
+        "owner": "陳建盛",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]宏昌十二街529號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)2200256",
+        "url": "https:\/\/reurl.cc\/Eoxp9m",
+        "count_approved": "114",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d4bfc4ca-f396-43fc-832b-384cd30f5dae",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.290777,
+            24.9847459
+        ]
+    }
+}

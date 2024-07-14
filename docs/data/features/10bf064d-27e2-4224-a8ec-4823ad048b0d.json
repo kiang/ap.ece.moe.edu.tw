@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1062443129號",
+        "reg_docno": "府教特字第0970402541號",
+        "reg_date": "2008\/04\/15",
+        "title": "財團法人福智文教基金會附設雲林縣私立妙慧幼兒園",
+        "owner": "陳全成",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "私立",
+        "address": "[640]正義街80號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5519217",
+        "url": "",
+        "count_approved": "53",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "10bf064d-27e2-4224-a8ec-4823ad048b0d",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.536768,
+            23.705574
+        ]
+    }
+}

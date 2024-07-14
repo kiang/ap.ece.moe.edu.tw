@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620永和0048之2號",
+        "reg_docno": "北府教二字第109972號",
+        "reg_date": "1967\/11\/27",
+        "title": "新北市私立嘉樂幼兒園",
+        "owner": "董禮賢",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]中和路501巷17號",
+        "floor": "一樓",
+        "size": "369.62平方公尺",
+        "size_in": "290.62平方公尺",
+        "size_out": "79平方公尺",
+        "tel": "(02)29255484",
+        "url": "http:\/\/www.chialepreschool.com.tw\/",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4abfa281-5e6c-4777-88c5-349ae47d2a9f",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5103024,
+            25.0030106
+        ]
+    }
+}

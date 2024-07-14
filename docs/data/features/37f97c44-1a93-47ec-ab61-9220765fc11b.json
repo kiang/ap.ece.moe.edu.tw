@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10925549200號",
+        "reg_docno": "屏府社福字第0960150044號",
+        "reg_date": "2007\/07\/24",
+        "title": "屏東縣私立育才幼兒園",
+        "owner": "李金玉",
+        "city": "屏東縣",
+        "town": "屏東市",
+        "type": "私立",
+        "address": "[900]廣東路1131號",
+        "floor": "1樓",
+        "size": "841.64平方公尺",
+        "size_in": "358.23平方公尺",
+        "size_out": "483.41平方公尺",
+        "tel": "(08)7668302",
+        "url": "",
+        "count_approved": "143",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "37f97c44-1a93-47ec-ab61-9220765fc11b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.496054,
+            22.69173
+        ]
+    }
+}

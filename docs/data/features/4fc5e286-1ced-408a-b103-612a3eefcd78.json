@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11155443800號",
+        "reg_docno": "屏府教前字第11155443800號",
+        "reg_date": "2022\/08\/01",
+        "title": "屏東縣鹽埔鄉高朗國民小學附設幼兒園",
+        "owner": "曾屏憶",
+        "city": "屏東縣",
+        "town": "鹽埔鄉",
+        "type": "公立",
+        "address": "[907]民治路37號",
+        "floor": "1樓",
+        "size": "2,170平方公尺",
+        "size_in": "170平方公尺",
+        "size_out": "2,000平方公尺",
+        "tel": "(08)7932444#20",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4fc5e286-1ced-408a-b103-612a3eefcd78",
+        "monthly": 3938
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5825767,
+            22.7355161
+        ]
+    }
+}

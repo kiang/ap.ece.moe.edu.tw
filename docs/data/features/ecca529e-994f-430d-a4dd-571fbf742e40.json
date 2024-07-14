@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599號",
+        "reg_docno": "新北府教幼字第1050029963號",
+        "reg_date": "2016\/01\/15",
+        "title": "新北市安溪非營利幼兒園(委託社團法人桃園市教保服務人員協會辦理)",
+        "owner": "趙翊君",
+        "city": "新北市",
+        "town": "三峽區",
+        "type": "非營利",
+        "address": "[237]中華路42號",
+        "floor": "1樓、2樓、3樓",
+        "size": "918.02平方公尺",
+        "size_in": "684.34平方公尺",
+        "size_out": "233.68平方公尺",
+        "tel": "(02)26718607",
+        "url": "評鑑情形：",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ecca529e-994f-430d-a4dd-571fbf742e40",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.372483,
+            24.9310827
+        ]
+    }
+}

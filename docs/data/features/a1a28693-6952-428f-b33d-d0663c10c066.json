@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040098140號",
+        "reg_docno": "中市府社婦字第9005號",
+        "reg_date": "2001\/04\/30",
+        "title": "臺中市私立新福祿貝爾幼兒園",
+        "owner": "簡耀宗",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]更生巷190號1,2,3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24268811",
+        "url": "",
+        "count_approved": "218",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：98",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a1a28693-6952-428f-b33d-d0663c10c066",
+        "monthly": 9142
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6637448,
+            24.199684
+        ]
+    }
+}

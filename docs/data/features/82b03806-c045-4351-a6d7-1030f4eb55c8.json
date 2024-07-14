@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090000877號",
+        "reg_docno": "88府社幼字第0165號",
+        "reg_date": "1999\/01\/18",
+        "title": "臺中市私立全佑幼兒園",
+        "owner": "江榮德",
+        "city": "臺中市",
+        "town": "太平區",
+        "type": "私立",
+        "address": "[411]永豐路三二七巷二之一號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22754065",
+        "url": "www.preschool.com.tw",
+        "count_approved": "145",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：25",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "82b03806-c045-4351-a6d7-1030f4eb55c8",
+        "monthly": 8150
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.704195,
+            24.112992
+        ]
+    }
+}

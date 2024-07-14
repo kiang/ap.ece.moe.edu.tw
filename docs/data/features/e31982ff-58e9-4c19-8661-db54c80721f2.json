@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1093714601號",
+        "reg_docno": "府教特字第0920060828號",
+        "reg_date": "2003\/06\/09",
+        "title": "新竹縣私立美森堡幼兒園",
+        "owner": "曾家輝",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]新興路10號",
+        "floor": "1樓",
+        "size": "1,906.82平方公尺",
+        "size_in": "484.4平方公尺",
+        "size_out": "961.08平方公尺",
+        "tel": "(03)5518403",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e31982ff-58e9-4c19-8661-db54c80721f2",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.994821,
+            24.843406
+        ]
+    }
+}

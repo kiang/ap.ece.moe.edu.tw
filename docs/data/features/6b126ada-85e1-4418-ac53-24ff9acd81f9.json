@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第433-1號",
+        "reg_docno": "府社五字第8908837800號",
+        "reg_date": "2000\/09\/27",
+        "title": "臺北市私立河岸小百合蒙特梭利幼兒園",
+        "owner": "陳淑芳",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]明水路397巷19弄18號1樓、18之2號1樓、20號1樓、18號2樓之1及18號2樓之2",
+        "floor": "1樓、2樓",
+        "size": "282.05平方公尺",
+        "size_in": "282.05平方公尺",
+        "size_out": "",
+        "tel": "(02)25322766",
+        "url": "",
+        "count_approved": "68",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6b126ada-85e1-4418-ac53-24ff9acd81f9",
+        "monthly": 35400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5485454,
+            25.0785936
+        ]
+    }
+}

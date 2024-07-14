@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10636638800號",
+        "reg_docno": "78府教國字第91551號",
+        "reg_date": "1989\/08\/30",
+        "title": "高雄市私立菁華幼兒園",
+        "owner": "魏淑菁",
+        "city": "高雄市",
+        "town": "鳥松區",
+        "type": "私立",
+        "address": "[833]澄明街200號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3703269",
+        "url": "",
+        "count_approved": "255",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6a083009-feb2-42ca-a3b8-6a7518e609df",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.33919,
+            22.651022
+        ]
+    }
+}

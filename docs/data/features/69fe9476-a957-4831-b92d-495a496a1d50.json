@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050066637號",
+        "reg_docno": "83府教國字第100536號",
+        "reg_date": "1994\/08\/13",
+        "title": "臺中市北屯區文心國民小學附設幼兒園",
+        "owner": "陳怡婷",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "公立",
+        "address": "[406]文心路四段575號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22445906#770",
+        "url": "https:\/\/wxes.tc.edu.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "69fe9476-a957-4831-b92d-495a496a1d50",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.682598,
+            24.172917
+        ]
+    }
+}

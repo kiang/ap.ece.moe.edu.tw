@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10935923000號",
+        "reg_docno": "高市教幼字第10935923000號",
+        "reg_date": "2020\/07\/30",
+        "title": "高雄市莊敬非營利幼兒園(委託社團法人高雄市婦幼培訓關懷協會辦理)",
+        "owner": "張文強",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "非營利",
+        "address": "[807]大昌一路200號",
+        "floor": "1樓、2樓",
+        "size": "2,299.064平方公尺",
+        "size_in": "1,231.147平方公尺",
+        "size_out": "1,067.917平方公尺",
+        "tel": "(07)3830457",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "66351c42-ce88-409c-9708-573a03ef45f8",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3243125,
+            22.656018
+        ]
+    }
+}

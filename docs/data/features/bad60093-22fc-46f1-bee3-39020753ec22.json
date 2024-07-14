@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110135621號",
+        "reg_docno": "府教特字第1040152050號",
+        "reg_date": "2015\/08\/01",
+        "title": "宜蘭縣員山鄉同樂國民小學附設幼兒園",
+        "owner": "林弘杰",
+        "city": "宜蘭縣",
+        "town": "員山鄉",
+        "type": "公立",
+        "address": "[264]新城路84-4號",
+        "floor": "1樓",
+        "size": "1,457.01平方公尺",
+        "size_in": "520.01平方公尺",
+        "size_out": "937平方公尺",
+        "tel": "(03)9223543#116",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bad60093-22fc-46f1-bee3-39020753ec22",
+        "monthly": 2788
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7287858,
+            24.7628117
+        ]
+    }
+}

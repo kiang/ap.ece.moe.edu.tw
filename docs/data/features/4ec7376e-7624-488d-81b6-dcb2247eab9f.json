@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010227983號",
+        "reg_docno": "府社婦字第09200765870號",
+        "reg_date": "2003\/07\/04",
+        "title": "花蓮縣私立貓頭鷹幼兒園",
+        "owner": "龍輝",
+        "city": "花蓮縣",
+        "town": "吉安鄉",
+        "type": "私立",
+        "address": "[973]北安街98巷55號",
+        "floor": "1",
+        "size": "1,397.79平方公尺",
+        "size_in": "283.2平方公尺",
+        "size_out": "1,114.59平方公尺",
+        "tel": "(03)8579538",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4ec7376e-7624-488d-81b6-dcb2247eab9f",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5844451,
+            23.9845568
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680淡水0044之3號",
+        "reg_docno": "北府社兒字第0950349653號",
+        "reg_date": "2006\/04\/27",
+        "title": "新北市私立萊恩得幼兒園",
+        "owner": "張書語",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "私立",
+        "address": "[251]民權路181巷7、9、11、13、15號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28082839",
+        "url": "",
+        "count_approved": "65",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7fc87612-1a5d-443c-b6b4-2415e8638795",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4600093,
+            25.1345423
+        ]
+    }
+}

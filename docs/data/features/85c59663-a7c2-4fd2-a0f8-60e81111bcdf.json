@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110160900號",
+        "reg_docno": "84府教國字第88281號",
+        "reg_date": "1995\/08\/01",
+        "title": "苗栗縣苑裡鎮苑裡國民小學附設幼兒園",
+        "owner": "張志清",
+        "city": "苗栗縣",
+        "town": "苑裡鎮",
+        "type": "公立",
+        "address": "[358]中山路307號",
+        "floor": "1樓、2樓",
+        "size": "16,347平方公尺",
+        "size_in": "978平方公尺",
+        "size_out": "15,369平方公尺",
+        "tel": "(037)862607",
+        "url": "https:\/\/yles.mlc.edu.tw\/Home\/Index.php",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "85c59663-a7c2-4fd2-a0f8-60e81111bcdf",
+        "monthly": 3433
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.654976,
+            24.44796
+        ]
+    }
+}

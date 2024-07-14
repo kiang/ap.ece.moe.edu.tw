@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11153433900號",
+        "reg_docno": "屏府教國字第114561號",
+        "reg_date": "1999\/06\/30",
+        "title": "屏東縣九如鄉後庄國民小學附設幼兒園",
+        "owner": "王美玲",
+        "city": "屏東縣",
+        "town": "九如鄉",
+        "type": "公立",
+        "address": "[904]中正路2號",
+        "floor": "1樓",
+        "size": "464.551平方公尺",
+        "size_in": "394.551平方公尺",
+        "size_out": "70平方公尺",
+        "tel": "(08)7753455",
+        "url": "https:\/\/www.hjps.ptc.edu.tw\/nss\/p\/class",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2583f049-53b4-4ed7-b2e9-6859421a6fb4",
+        "monthly": 3509
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.500856,
+            22.755727
+        ]
+    }
+}

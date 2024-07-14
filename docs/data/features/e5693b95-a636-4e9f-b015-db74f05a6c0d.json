@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120175626號",
+        "reg_docno": "府教國字第10999號",
+        "reg_date": "1975\/07\/14",
+        "title": "花蓮縣花蓮市明義國民小學附設幼兒園",
+        "owner": "許傳德",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "公立",
+        "address": "[970]建林街163之1號",
+        "floor": "1樓、2樓、3樓",
+        "size": "19,686.12平方公尺",
+        "size_in": "2,979.48平方公尺",
+        "size_out": "16,706.64平方公尺",
+        "tel": "(03)8351063",
+        "url": "",
+        "count_approved": "210",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e5693b95-a636-4e9f-b015-db74f05a6c0d",
+        "monthly": 2970
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.601108,
+            23.982292
+        ]
+    }
+}

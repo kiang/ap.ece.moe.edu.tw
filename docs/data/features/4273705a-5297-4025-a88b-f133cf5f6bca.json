@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680新莊014之2號",
+        "reg_docno": "89北府社兒字第89396783號",
+        "reg_date": "2000\/11\/21",
+        "title": "新北市私立吉尼爾幼兒園",
+        "owner": "鄒淑真",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]中華路2段159號1、2樓",
+        "floor": "1F,2F",
+        "size": "197.28平方公尺",
+        "size_in": "197.28平方公尺",
+        "size_out": "",
+        "tel": "(02)29901626",
+        "url": "",
+        "count_approved": "56",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4273705a-5297-4025-a88b-f133cf5f6bca",
+        "monthly": 12210
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.438773,
+            24.975565
+        ]
+    }
+}

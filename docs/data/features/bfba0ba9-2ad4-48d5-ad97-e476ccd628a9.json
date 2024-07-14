@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11254466400號",
+        "reg_docno": "屏府教國字第114274號",
+        "reg_date": "1996\/07\/18",
+        "title": "屏東縣竹田鄉大明國民小學附設幼兒園",
+        "owner": "林政昌",
+        "city": "屏東縣",
+        "town": "竹田鄉",
+        "type": "公立",
+        "address": "[911]洲中路40號",
+        "floor": "1樓",
+        "size": "644.799平方公尺",
+        "size_in": "319.799平方公尺",
+        "size_out": "325平方公尺",
+        "tel": "(08)7887780#17",
+        "url": "https:\/\/www.facebook.com\/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E5%A4%A7%E6%98%8E%E5%9C%8B%E5%B0%8F%E9%99%84%E8",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bfba0ba9-2ad4-48d5-ad97-e476ccd628a9",
+        "monthly": 3777
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.52494,
+            22.575775
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080045339B號",
+        "reg_docno": "彰溪華人字第13117號",
+        "reg_date": "1994\/11\/28",
+        "title": "彰化縣溪湖鎮立幼兒園田中分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "溪湖鎮",
+        "type": "公立",
+        "address": "[514]二溪路田中巷216號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)8852121#220",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "754ccf9a-fb11-4c3c-ade2-b7769efaaabf",
+        "monthly": 4364
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4745233,
+            23.9593488
+        ]
+    }
+}

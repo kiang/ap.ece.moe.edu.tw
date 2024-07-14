@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第10802177094號",
+        "reg_docno": "府社兒字第0990347617號",
+        "reg_date": "2010\/09\/06",
+        "title": "桃園市立平鎮幼兒園東勢分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "公立",
+        "address": "[324]金陵路5段57號",
+        "floor": "1",
+        "size": "333.96平方公尺",
+        "size_in": "209.76平方公尺",
+        "size_out": "124.2平方公尺",
+        "tel": "(03)4501544",
+        "url": "",
+        "count_approved": "95",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "af2bab1c-432e-49ff-bcaa-91f950e9d92d",
+        "monthly": 3933
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.231392,
+            24.91005
+        ]
+    }
+}

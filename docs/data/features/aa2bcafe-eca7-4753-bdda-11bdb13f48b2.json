@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010075045號",
+        "reg_docno": "87府社福字第3164號",
+        "reg_date": "1998\/01\/09",
+        "title": "宜蘭縣私立小圓圓幼兒園",
+        "owner": "陳麗娥",
+        "city": "宜蘭縣",
+        "town": "羅東鎮",
+        "type": "私立",
+        "address": "[265]林森路120號",
+        "floor": "2",
+        "size": "208平方公尺",
+        "size_in": "171平方公尺",
+        "size_out": "37平方公尺",
+        "tel": "(03)9541497",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：5",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "aa2bcafe-eca7-4753-bdda-11bdb13f48b2",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.768326,
+            24.67994
+        ]
+    }
+}

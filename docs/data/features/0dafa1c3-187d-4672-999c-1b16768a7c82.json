@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599樹林0012之3號",
+        "reg_docno": "八二北府教二字第415656號",
+        "reg_date": "1993\/12\/09",
+        "title": "新北市樹林區武林國民小學附設幼兒園",
+        "owner": "莊見智",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "公立",
+        "address": "[238]保安街二段151號",
+        "floor": "1樓",
+        "size": "2,170平方公尺",
+        "size_in": "796平方公尺",
+        "size_out": "1,374平方公尺",
+        "tel": "(02)26871152",
+        "url": "http:\/\/web.wles.ntpc.edu.tw\/school\/kidergaden\/",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0dafa1c3-187d-4672-999c-1b16768a7c82",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.415129,
+            25.002286
+        ]
+    }
+}

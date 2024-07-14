@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1060036582號",
+        "reg_docno": "府教國字第58171號",
+        "reg_date": "1980\/08\/11",
+        "title": "財團法人臺灣省嘉義縣私立協同高級中學附設嘉義縣私立協同幼兒園",
+        "owner": "何人助",
+        "city": "嘉義縣",
+        "town": "民雄鄉",
+        "type": "私立",
+        "address": "[621]建國路2段31號",
+        "floor": "1樓至3樓",
+        "size": "3,687.96平方公尺",
+        "size_in": "1,338.9平方公尺",
+        "size_out": "2,349.06平方公尺",
+        "tel": "(05)2213044",
+        "url": "http:\/\/cmsh.topschool.com.tw\/",
+        "count_approved": "240",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d2d00a68-6a99-471d-bb3e-47b0a10891fc",
+        "monthly": 10560
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.434492,
+            23.532185
+        ]
+    }
+}

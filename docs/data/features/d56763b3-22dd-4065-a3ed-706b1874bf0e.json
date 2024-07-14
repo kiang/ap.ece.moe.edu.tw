@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前貳字第1100238681J號",
+        "reg_docno": "八四基府教國字第044138號",
+        "reg_date": "1995\/05\/25",
+        "title": "基隆市中山區中山國民小學附設幼兒園",
+        "owner": "劉汶琪",
+        "city": "基隆市",
+        "town": "中山區",
+        "type": "公立",
+        "address": "[203]通仁街28號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24223053#64",
+        "url": "www.cshps.kl.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d56763b3-22dd-4065-a3ed-706b1874bf0e",
+        "monthly": 3111
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7363247,
+            25.1458302
+        ]
+    }
+}

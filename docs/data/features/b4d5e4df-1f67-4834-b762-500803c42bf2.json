@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市較幼字第1090070585號",
+        "reg_docno": "77府社福字第125237號",
+        "reg_date": "1988\/07\/15",
+        "title": "臺中市立霧峰幼兒園舊正分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "公立",
+        "address": "[413]光明路116巷20號1~3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "418.66平方公尺",
+        "size_in": "318.36平方公尺",
+        "size_out": "100.3平方公尺",
+        "tel": "(04)23300094",
+        "url": "https:\/\/wfkg.tc.edu.tw\/",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b4d5e4df-1f67-4834-b762-500803c42bf2",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.689382,
+            24.025846
+        ]
+    }
+}

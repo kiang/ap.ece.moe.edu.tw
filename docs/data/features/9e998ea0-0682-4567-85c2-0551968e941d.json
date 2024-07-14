@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1139550754號",
+        "reg_docno": "府授教幼字第1139550754號",
+        "reg_date": "2024\/05\/09",
+        "title": "台欣生物科技研發股份有限公司職工福利委員會附設新竹縣私立毅宇蒙特梭利生醫園幼兒園",
+        "owner": "賴孟隆",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]生醫路一段150-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)6568100",
+        "url": "",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9e998ea0-0682-4567-85c2-0551968e941d",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.044457,
+            24.808997
+        ]
+    }
+}

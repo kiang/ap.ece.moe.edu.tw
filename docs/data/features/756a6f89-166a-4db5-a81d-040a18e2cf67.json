@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060077103號",
+        "reg_docno": "中市教幼字第1020019431號",
+        "reg_date": "2013\/03\/21",
+        "title": "臺中市私立挪威森林幼兒園",
+        "owner": "徐千惠",
+        "city": "臺中市",
+        "town": "后里區",
+        "type": "私立",
+        "address": "[421]大圳路257號",
+        "floor": "1樓至3樓",
+        "size": "1,030.67平方公尺",
+        "size_in": "792.68平方公尺",
+        "size_out": "237.99平方公尺",
+        "tel": "(04)25586670",
+        "url": "",
+        "count_approved": "135",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "756a6f89-166a-4db5-a81d-040a18e2cf67",
+        "monthly": 10225
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7096799,
+            24.3052588
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090036947號",
+        "reg_docno": "府教幼字第1090036947號",
+        "reg_date": "2020\/02\/24",
+        "title": "桃園市私立心藝幼兒園",
+        "owner": "蔡立宸",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]文七一街91號",
+        "floor": "1樓、2樓、3樓",
+        "size": "959.87平方公尺",
+        "size_in": "724.91平方公尺",
+        "size_out": "215.65平方公尺",
+        "tel": "(03)3278776",
+        "url": "",
+        "count_approved": "116",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "122fcc8e-0a70-42e8-8d76-b6a6926ecea8",
+        "monthly": 15165
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3597804,
+            25.0520753
+        ]
+    }
+}

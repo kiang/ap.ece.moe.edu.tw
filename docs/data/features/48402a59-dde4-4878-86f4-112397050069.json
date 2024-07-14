@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110187389號",
+        "reg_docno": "府教國字第91039059號",
+        "reg_date": "2002\/04\/12",
+        "title": "嘉義縣太保市太保國民小學附設幼兒園",
+        "owner": "陳志光",
+        "city": "嘉義縣",
+        "town": "太保市",
+        "type": "公立",
+        "address": "[612]太保31號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2949031#08",
+        "url": "tbps@mail.cyc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "48402a59-dde4-4878-86f4-112397050069",
+        "monthly": 3676
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.330894,
+            23.454834
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620樹林0046之1號",
+        "reg_docno": "八九北府社兒字第89232371號",
+        "reg_date": "2000\/06\/16",
+        "title": "新北市私立快樂地幼兒園",
+        "owner": "吳麗珠",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "私立",
+        "address": "[238]八德街118號1、2、3樓及120號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)86858888",
+        "url": "",
+        "count_approved": "81",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3af8c360-397b-4afe-8eb9-1462d8429af9",
+        "monthly": 10833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4212821,
+            24.9793834
+        ]
+    }
+}

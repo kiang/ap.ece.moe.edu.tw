@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100197281號",
+        "reg_docno": "府教學字第09901554590號",
+        "reg_date": "2010\/07\/27",
+        "title": "南投縣埔里鎮太平國民小學附設幼兒園",
+        "owner": "尤長盈",
+        "city": "南投縣",
+        "town": "埔里鎮",
+        "type": "公立",
+        "address": "[545]西安路三段167巷35號",
+        "floor": "1樓",
+        "size": "360.846平方公尺",
+        "size_in": "161.846平方公尺",
+        "size_out": "199平方公尺",
+        "tel": "(049)2931385#36",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cfb75f9a-84e5-40b7-bf3d-4b27906b313e",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.921428,
+            24.0259339
+        ]
+    }
+}

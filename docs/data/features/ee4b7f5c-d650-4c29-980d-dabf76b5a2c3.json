@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1060168246號",
+        "reg_docno": "府教國字第79850號",
+        "reg_date": "1974\/12\/28",
+        "title": "花蓮縣花蓮市明禮國民小學附設幼兒園",
+        "owner": "蕭美珍",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "公立",
+        "address": "[970]中正路596號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8339200#208",
+        "url": "210.240.69.4",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ee4b7f5c-d650-4c29-980d-dabf76b5a2c3",
+        "monthly": 2990
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6104148,
+            23.9790986
+        ]
+    }
+}

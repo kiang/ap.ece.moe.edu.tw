@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11037219400號",
+        "reg_docno": "高市教幼字第11037219400號",
+        "reg_date": "2021\/10\/01",
+        "title": "高雄市興仁非營利幼兒園（委託社團法人高雄市佳欣幼兒發展學會辦理）",
+        "owner": "梁富欽",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "非營利",
+        "address": "[806]德昌路345號",
+        "floor": "1樓",
+        "size": "949.05平方公尺",
+        "size_in": "268.95平方公尺",
+        "size_out": "680.1平方公尺",
+        "tel": "(07)8121688",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d79c7a01-8358-4581-8685-10984ddd2baa",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.313349,
+            22.5861529
+        ]
+    }
+}

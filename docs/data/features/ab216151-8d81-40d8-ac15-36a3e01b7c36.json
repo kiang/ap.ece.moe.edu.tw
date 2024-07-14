@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599三重0053之4號",
+        "reg_docno": "北府社兒字第0960300247號",
+        "reg_date": "2007\/02\/02",
+        "title": "新北市私立重愛幼兒園",
+        "owner": "邱婷蔚",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]忠孝路三段40巷1之1號1、2樓",
+        "floor": "2",
+        "size": "106.73平方公尺",
+        "size_in": "106.73平方公尺",
+        "size_out": "",
+        "tel": "(02)29776688",
+        "url": "",
+        "count_approved": "41",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：3",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ab216151-8d81-40d8-ac15-36a3e01b7c36",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4818003,
+            25.0664513
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0049號",
+        "reg_docno": "88北府社四字第88457221號",
+        "reg_date": "1999\/11\/25",
+        "title": "新北市私立童苑幼兒園",
+        "owner": "金泱初",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]南雅南路二段144巷57號1、2樓",
+        "floor": "1,2樓",
+        "size": "244.45平方公尺",
+        "size_in": "170.4平方公尺",
+        "size_out": "74.05平方公尺",
+        "tel": "(02)89666002",
+        "url": "ton-yuan.topschool.tw\/",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "04e11b3c-18be-462a-8051-605d19f099d5",
+        "monthly": 5040
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.450194,
+            24.995073
+        ]
+    }
+}

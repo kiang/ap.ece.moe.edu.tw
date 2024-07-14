@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第23號",
+        "reg_docno": "北市教前字第1113067352號",
+        "reg_date": "2022\/08\/15",
+        "title": "臺北市中華電信北投職場互助教保服務中心（委託社團法人台灣幼兒早期教育協會辦理）",
+        "owner": "劉百純",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]光明路176號3、4樓",
+        "floor": "3樓、4樓",
+        "size": "231.7平方公尺",
+        "size_in": "231.7平方公尺",
+        "size_out": "",
+        "tel": "(02)28910721",
+        "url": "https:\/\/www.facebook.com\/BT.TECEA",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5a7bc168-7203-4aab-90c0-c3e9d781f24f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.503175,
+            25.135568
+        ]
+    }
+}

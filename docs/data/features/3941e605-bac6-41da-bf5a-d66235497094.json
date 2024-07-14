@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599三重0037之2號",
+        "reg_docno": "八二北府教二字第444774號",
+        "reg_date": "1993\/12\/04",
+        "title": "新北市三重區正義國民小學附設幼兒園",
+        "owner": "陳勇達",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "公立",
+        "address": "[241]信義西街31號",
+        "floor": "1樓",
+        "size": "1,154.25平方公尺",
+        "size_in": "648平方公尺",
+        "size_out": "506.25平方公尺",
+        "tel": "(02)29853138#1110",
+        "url": "https:\/\/sites.google.com\/jyes.ntpc.edu.tw\/child",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3941e605-bac6-41da-bf5a-d66235497094",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.496011,
+            25.064534
+        ]
+    }
+}

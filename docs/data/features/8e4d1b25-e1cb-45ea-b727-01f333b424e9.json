@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100178655號",
+        "reg_docno": "府教特字第0953009921號",
+        "reg_date": "2006\/04\/13",
+        "title": "臺東縣長濱鄉竹湖國民小學附設幼兒園",
+        "owner": "謝孟修",
+        "city": "臺東縣",
+        "town": "長濱鄉",
+        "type": "公立",
+        "address": "[962]14號",
+        "floor": "1樓",
+        "size": "2,939平方公尺",
+        "size_in": "100平方公尺",
+        "size_out": "2,839平方公尺",
+        "tel": "(089)831295",
+        "url": "www.jhes.ttct.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8e4d1b25-e1cb-45ea-b727-01f333b424e9",
+        "monthly": 4056
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.42913699999995,
+            23.285447
+        ]
+    }
+}

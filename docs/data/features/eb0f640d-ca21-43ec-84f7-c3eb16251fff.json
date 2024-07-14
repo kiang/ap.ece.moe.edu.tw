@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1030355588號",
+        "reg_docno": "府社福字第129640號",
+        "reg_date": "1998\/07\/22",
+        "title": "臺南市私立大自然幼兒園",
+        "owner": "李秋美",
+        "city": "臺南市",
+        "town": "新營區",
+        "type": "私立",
+        "address": "[730]明清二街46號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)6564726",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "eb0f640d-ca21-43ec-84f7-c3eb16251fff",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.299094,
+            23.308584
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050065229號",
+        "reg_docno": "府社幼字第0950013069號",
+        "reg_date": "2006\/01\/11",
+        "title": "臺中市私立芸笙幼兒園",
+        "owner": "陳益通",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "私立",
+        "address": "[427]勝利12街43號1樓及勝利12街51巷1號1~3樓",
+        "floor": "1樓、勝利十二街51巷1號1~3樓",
+        "size": "532.93平方公尺",
+        "size_in": "422.04平方公尺",
+        "size_out": "110.89平方公尺",
+        "tel": "(04)25351363",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "afc683a1-449e-4202-8ec3-15945a3ff408",
+        "monthly": 11018
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7014447,
+            24.2134098
+        ]
+    }
+}

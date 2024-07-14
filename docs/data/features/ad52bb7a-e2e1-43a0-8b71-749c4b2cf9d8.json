@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120084071號",
+        "reg_docno": "中市教幼字第1010053575號",
+        "reg_date": "2012\/08\/01",
+        "title": "臺中市西屯區重慶國民小學附設幼兒園",
+        "owner": "劉美芬",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "公立",
+        "address": "[407]重慶路358號",
+        "floor": "1樓、2樓、3樓",
+        "size": "5,531.92平方公尺",
+        "size_in": "5,009.92平方公尺",
+        "size_out": "522平方公尺",
+        "tel": "(04)23123517#790",
+        "url": "https:\/\/cges.tc.edu.tw\/",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ad52bb7a-e2e1-43a0-8b71-749c4b2cf9d8",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.663925,
+            24.170659
+        ]
+    }
+}

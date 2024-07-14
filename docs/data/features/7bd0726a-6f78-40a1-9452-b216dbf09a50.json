@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第34號",
+        "reg_docno": "北市教三字第60963號",
+        "reg_date": "1979\/01\/11",
+        "title": "臺北市私立育光幼兒園",
+        "owner": "王秀琴",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "私立",
+        "address": "[108]德昌街185巷68號、70號1樓",
+        "floor": "1樓",
+        "size": "245平方公尺",
+        "size_in": "195平方公尺",
+        "size_out": "50平方公尺",
+        "tel": "(02)23015139",
+        "url": "http:\/\/www.happykid.url.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7bd0726a-6f78-40a1-9452-b216dbf09a50",
+        "monthly": 11870
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.493023,
+            25.0224079
+        ]
+    }
+}

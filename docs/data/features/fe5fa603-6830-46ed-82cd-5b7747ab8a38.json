@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080000769B號",
+        "reg_docno": "府社婦幼字第1000007606F號",
+        "reg_date": "1988\/10\/26",
+        "title": "新竹縣芎林鄉立幼兒園五華分班",
+        "owner": "",
+        "city": "新竹縣",
+        "town": "芎林鄉",
+        "type": "公立",
+        "address": "[307]鹿寮坑105-1號",
+        "floor": "1樓",
+        "size": "422.75平方公尺",
+        "size_in": "214.35平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(03)5931740",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fe5fa603-6830-46ed-82cd-5b7747ab8a38",
+        "monthly": 3800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.136847,
+            24.745829
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120086406號",
+        "reg_docno": "中市教幼字第1100055459號",
+        "reg_date": "2021\/08\/01",
+        "title": "臺中市后里非營利幼兒園(委託財團法人臺中市健康全人教育基金會辦理)",
+        "owner": "杜明達",
+        "city": "臺中市",
+        "town": "后里區",
+        "type": "非營利",
+        "address": "[421]中眉路169號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25581336",
+        "url": "h0425581336@ahef.org.tw",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2fa8e04d-1bb6-4371-aa6e-f98d49e553b3",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6954847,
+            24.307963
+        ]
+    }
+}

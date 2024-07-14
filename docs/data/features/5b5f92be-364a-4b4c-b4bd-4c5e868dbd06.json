@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10534971600號",
+        "reg_docno": "83高市教三字第20604號",
+        "reg_date": "1994\/07\/18",
+        "title": "高雄市鼓山區九如國民小學附設幼兒園",
+        "owner": "陳菁萍",
+        "city": "高雄市",
+        "town": "鼓山區",
+        "type": "公立",
+        "address": "[804]九如四路763號",
+        "floor": "1",
+        "size": "1,031.19平方公尺",
+        "size_in": "339.6平方公尺",
+        "size_out": "691.59平方公尺",
+        "tel": "(07)5317186#120",
+        "url": "http:\/\/www.jrps.kh.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5b5f92be-364a-4b4c-b4bd-4c5e868dbd06",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.278763,
+            22.652256
+        ]
+    }
+}

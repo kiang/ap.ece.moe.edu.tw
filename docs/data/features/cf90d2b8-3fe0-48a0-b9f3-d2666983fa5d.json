@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090203485號",
+        "reg_docno": "府教幼字第1090203485號",
+        "reg_date": "2020\/08\/14",
+        "title": "桃園市大溪非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "桃園市",
+        "town": "大溪區",
+        "type": "非營利",
+        "address": "[335]民權東路210號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3873773",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cf90d2b8-3fe0-48a0-b9f3-d2666983fa5d",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2958623,
+            24.8799484
+        ]
+    }
+}

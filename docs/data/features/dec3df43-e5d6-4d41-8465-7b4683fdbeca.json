@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120246803號",
+        "reg_docno": "府人一字第26241號",
+        "reg_date": "1996\/03\/08",
+        "title": "嘉義縣東石鄉立東石幼兒園",
+        "owner": "林俊雄",
+        "city": "嘉義縣",
+        "town": "東石鄉",
+        "type": "公立",
+        "address": "[614]觀海二路118號",
+        "floor": "3",
+        "size": "3,832.68平方公尺",
+        "size_in": "1,431.12平方公尺",
+        "size_out": "2,401.56平方公尺",
+        "tel": "(05)3730845",
+        "url": "",
+        "count_approved": "200",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dec3df43-e5d6-4d41-8465-7b4683fdbeca",
+        "monthly": 3318
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1704766,
+            23.4701923
+        ]
+    }
+}

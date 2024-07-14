@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10836578600號",
+        "reg_docno": "69府教國字第74553號",
+        "reg_date": "1980\/09\/09",
+        "title": "高雄市私立旗山心心幼兒園",
+        "owner": "呂劉麗紅",
+        "city": "高雄市",
+        "town": "旗山區",
+        "type": "私立",
+        "address": "[842]延平一路688巷33號",
+        "floor": "1樓至2樓",
+        "size": "630平方公尺",
+        "size_in": "210平方公尺",
+        "size_out": "420平方公尺",
+        "tel": "(07)6613883",
+        "url": "",
+        "count_approved": "105",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "79b0ac78-ed47-4f11-935d-b64fb10bec5b",
+        "monthly": 10170
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.481803,
+            22.8834251
+        ]
+    }
+}

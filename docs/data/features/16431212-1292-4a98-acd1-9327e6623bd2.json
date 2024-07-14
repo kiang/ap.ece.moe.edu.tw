@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120048284號",
+        "reg_docno": "府社婦字第1000080890號",
+        "reg_date": "1996\/07\/11",
+        "title": "花蓮縣壽豐鄉立幼兒園",
+        "owner": "曾淑懿",
+        "city": "花蓮縣",
+        "town": "壽豐鄉",
+        "type": "公立",
+        "address": "[974]仁愛街26號",
+        "floor": "3",
+        "size": "981.5平方公尺",
+        "size_in": "740平方公尺",
+        "size_out": "241.5平方公尺",
+        "tel": "(03)8651366",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "16431212-1292-4a98-acd1-9327e6623bd2",
+        "monthly": 2734
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5048627,
+            23.8453089
+        ]
+    }
+}

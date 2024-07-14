@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0034之1號",
+        "reg_docno": "北府社兒字第0940707544號",
+        "reg_date": "2005\/07\/30",
+        "title": "新北市私立惠群幼兒園",
+        "owner": "王琪淳",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]化成路143號",
+        "floor": "1-3F",
+        "size": "176.54平方公尺",
+        "size_in": "176.54平方公尺",
+        "size_out": "",
+        "tel": "(02)29901158",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "11aac97d-ba70-4e33-8d78-1093f5d9cf98",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.465518,
+            25.048697
+        ]
+    }
+}

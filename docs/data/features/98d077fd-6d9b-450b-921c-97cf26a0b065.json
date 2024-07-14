@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110364183號",
+        "reg_docno": "府教幼字第1110364183號",
+        "reg_date": "2023\/01\/04",
+        "title": "桃園市私立暖暖幼兒園",
+        "owner": "陳維倫",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]富國路77號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,156.07平方公尺",
+        "size_in": "1,424.96平方公尺",
+        "size_out": "540.43平方公尺",
+        "tel": "(03)3021777",
+        "url": "",
+        "count_approved": "270",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "98d077fd-6d9b-450b-921c-97cf26a0b065",
+        "monthly": 5700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2881268,
+            25.0104464
+        ]
+    }
+}

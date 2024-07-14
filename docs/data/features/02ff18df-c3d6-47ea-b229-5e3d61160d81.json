@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120254979號",
+        "reg_docno": "府教幼字第1110104398號",
+        "reg_date": "2022\/04\/28",
+        "title": "南投縣私立哈波特幼兒園",
+        "owner": "許育綺",
+        "city": "南投縣",
+        "town": "竹山鎮",
+        "type": "私立",
+        "address": "[557]頂林路177-1號",
+        "floor": "1樓、2樓",
+        "size": "2,319.6平方公尺",
+        "size_in": "675平方公尺",
+        "size_out": "1,644.6平方公尺",
+        "tel": "(049)2653535",
+        "url": "",
+        "count_approved": "286",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "02ff18df-c3d6-47ea-b229-5e3d61160d81",
+        "monthly": 4700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.681482,
+            23.749352
+        ]
+    }
+}

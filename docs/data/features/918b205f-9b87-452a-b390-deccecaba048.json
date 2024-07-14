@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080254223號",
+        "reg_docno": "投府教學字第23356號",
+        "reg_date": "1993\/02\/11",
+        "title": "南投縣私立培幼幼兒園",
+        "owner": "李楷淳",
+        "city": "南投縣",
+        "town": "埔里鎮",
+        "type": "私立",
+        "address": "[545]大城路1-28號",
+        "floor": "2",
+        "size": "531平方公尺",
+        "size_in": "214平方公尺",
+        "size_out": "317平方公尺",
+        "tel": "(049)2901721",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "918b205f-9b87-452a-b390-deccecaba048",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.958528,
+            23.967585
+        ]
+    }
+}

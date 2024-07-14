@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第485號",
+        "reg_docno": "北市社五字第09340434300號",
+        "reg_date": "2004\/11\/22",
+        "title": "臺北市私立桔子蒙特梭利幼兒園",
+        "owner": "郭香蘭",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]仁愛路三段51巷8號1樓",
+        "floor": "1樓",
+        "size": "111.35平方公尺",
+        "size_in": "111.35平方公尺",
+        "size_out": "",
+        "tel": "(02)27790069",
+        "url": "",
+        "count_approved": "26",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0d345c04-d6e3-4207-a477-5bf14cd4fcf4",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.535806,
+            25.039853
+        ]
+    }
+}

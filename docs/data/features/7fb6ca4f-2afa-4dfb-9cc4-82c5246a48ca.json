@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11153630000號",
+        "reg_docno": "屏府教國字第83783號",
+        "reg_date": "1996\/05\/30",
+        "title": "屏東縣高樹鄉高樹國民小學附設幼兒園",
+        "owner": "陳誼璟",
+        "city": "屏東縣",
+        "town": "高樹鄉",
+        "type": "公立",
+        "address": "[906]華光路32號",
+        "floor": "1樓",
+        "size": "476.695平方公尺",
+        "size_in": "397.195平方公尺",
+        "size_out": "79.5平方公尺",
+        "tel": "(08)7964852#11",
+        "url": "http:\/\/163.24.26.10\/class\/s-c-ch4\/index.html",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7fb6ca4f-2afa-4dfb-9cc4-82c5246a48ca",
+        "monthly": 3732
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.598854,
+            22.82582
+        ]
+    }
+}

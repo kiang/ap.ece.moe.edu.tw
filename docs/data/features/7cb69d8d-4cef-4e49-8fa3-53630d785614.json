@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100165381號",
+        "reg_docno": "府教特字第1100165381號",
+        "reg_date": "2021\/11\/04",
+        "title": "新竹市私立米羅關埔幼兒園",
+        "owner": "游雅雯",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]埔頂一路290號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,579.29平方公尺",
+        "size_in": "1,022.86平方公尺",
+        "size_out": "556.43平方公尺",
+        "tel": "(03)6667966",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7cb69d8d-4cef-4e49-8fa3-53630d785614",
+        "monthly": 29618
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0163437,
+            24.7910476
+        ]
+    }
+}

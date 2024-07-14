@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第34號",
+        "reg_docno": "北市教前字第11330485961號",
+        "reg_date": "2024\/03\/28",
+        "title": "農業部職場互助教保服務中心（委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理）",
+        "owner": "邱健凱",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]重慶南路二段16號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)2331-2345",
+        "url": "臺北市中正區重慶南路二段16號",
+        "count_approved": "24",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f74bc74c-1e67-4d8f-b725-79cdb8666788",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.513233,
+            25.033011
+        ]
+    }
+}

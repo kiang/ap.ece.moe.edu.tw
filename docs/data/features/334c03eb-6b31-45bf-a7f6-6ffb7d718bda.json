@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100255824號",
+        "reg_docno": "府教幼字第1080214074號",
+        "reg_date": "2019\/08\/27",
+        "title": "桃園市草漯非營利幼兒園(委託社團法人台灣幼兒早期教育協會辦理)",
+        "owner": "劉百純",
+        "city": "桃園市",
+        "town": "觀音區",
+        "type": "非營利",
+        "address": "[328]新生路1462號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4832375",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "40d14b9f-8b1e-45ae-89a3-98dab4a320d3",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.14296,
+            25.045708
+        ]
+    }
+}

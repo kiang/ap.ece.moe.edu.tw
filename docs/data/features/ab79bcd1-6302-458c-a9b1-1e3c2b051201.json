@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090188202號",
+        "reg_docno": "府教特字第1040178331號",
+        "reg_date": "2015\/08\/01",
+        "title": "臺東縣達仁鄉安朔國民小學附設幼兒園新化分班",
+        "owner": "",
+        "city": "臺東縣",
+        "town": "達仁鄉",
+        "type": "公立",
+        "address": "[966]新化路57號",
+        "floor": "1樓",
+        "size": "147平方公尺",
+        "size_in": "47平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(089)791747",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ab79bcd1-6302-458c-a9b1-1e3c2b051201",
+        "monthly": 3944
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8564782,
+            22.3818515
+        ]
+    }
+}

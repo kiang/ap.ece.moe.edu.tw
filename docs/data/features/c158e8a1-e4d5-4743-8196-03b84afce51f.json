@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10132906100號",
+        "reg_docno": "高市社局四字第3392號",
+        "reg_date": "1995\/02\/13",
+        "title": "高雄市私立愛吉兒幼兒園",
+        "owner": "楊賢傑",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "私立",
+        "address": "[811]楠梓路269巷2號1-2樓",
+        "floor": "1-2",
+        "size": "250.39平方公尺",
+        "size_in": "166.39平方公尺",
+        "size_out": "84平方公尺",
+        "tel": "(07)3527050",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c158e8a1-e4d5-4743-8196-03b84afce51f",
+        "monthly": 5900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.328846,
+            22.728969
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100217684號",
+        "reg_docno": "府教幼字第1030184639號",
+        "reg_date": "2014\/08\/01",
+        "title": "桃園市大溪區南興國民小學附設幼兒園",
+        "owner": "金壽梅",
+        "city": "桃園市",
+        "town": "大溪區",
+        "type": "公立",
+        "address": "[335]仁和路2段135號",
+        "floor": "1樓",
+        "size": "320平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(03)3801721#250",
+        "url": "http：\/\/www.nses.tyc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "01274fe1-7b0a-4bfd-a586-48ad581a476d",
+        "monthly": 4005
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.266731,
+            24.9031284
+        ]
+    }
+}

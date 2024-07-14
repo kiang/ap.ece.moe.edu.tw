@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字字第1080073361號",
+        "reg_docno": "府教特字第09501477960號",
+        "reg_date": "2006\/10\/05",
+        "title": "花蓮縣私立小樹幼兒園",
+        "owner": "葉雲忠",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "私立",
+        "address": "[970]國盛二街27號",
+        "floor": "1樓、2樓、3樓",
+        "size": "975.76平方公尺",
+        "size_in": "544.94平方公尺",
+        "size_out": "430.82平方公尺",
+        "tel": "(03)8345306",
+        "url": "http:\/\/a83053a2000.myweb.hinet.net",
+        "count_approved": "105",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "901cdbd6-10a2-45b2-a7d0-e0b83ab199ac",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6071047,
+            23.9899047
+        ]
+    }
+}

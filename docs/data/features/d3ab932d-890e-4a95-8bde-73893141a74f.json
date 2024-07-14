@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090151624號",
+        "reg_docno": "八七府教國字第24643號",
+        "reg_date": "1998\/04\/07",
+        "title": "新竹市東區關東國民小學附設幼兒園",
+        "owner": "李瑞剛",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "公立",
+        "address": "[300]關東路53號",
+        "floor": "1樓",
+        "size": "2,347平方公尺",
+        "size_in": "360平方公尺",
+        "size_out": "1,987平方公尺",
+        "tel": "(03)5775645#616",
+        "url": "https:\/\/sites.google.com\/ktps-www.hc.edu.tw\/ktps-kide\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d3ab932d-890e-4a95-8bde-73893141a74f",
+        "monthly": 3729
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.022061,
+            24.7841361
+        ]
+    }
+}

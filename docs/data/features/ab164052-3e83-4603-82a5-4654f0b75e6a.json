@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1060803102號",
+        "reg_docno": "南市教特(一)字第1060803102號",
+        "reg_date": "2017\/08\/03",
+        "title": "臺南市私立安南幼兒園安中分班",
+        "owner": "",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]安中路三段400巷5號",
+        "floor": "1樓、2樓",
+        "size": "647.08平方公尺",
+        "size_in": "389.57平方公尺",
+        "size_out": "257.51平方公尺",
+        "tel": "(06)2567154",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ab164052-3e83-4603-82a5-4654f0b75e6a",
+        "monthly": 7000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1836258,
+            23.0470529
+        ]
+    }
+}

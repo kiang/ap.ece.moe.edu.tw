@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第627-1號",
+        "reg_docno": "北市社婦幼字第10037475000號",
+        "reg_date": "2011\/06\/02",
+        "title": "臺北市私立星莆幼兒園",
+        "owner": "林家暐",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]社中街289、291號1樓",
+        "floor": "1樓",
+        "size": "183.72平方公尺",
+        "size_in": "183.72平方公尺",
+        "size_out": "",
+        "tel": "(02)28126386",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "38daf1df-3f30-45bb-8b8d-5749c9a93231",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.505901,
+            25.092005
+        ]
+    }
+}

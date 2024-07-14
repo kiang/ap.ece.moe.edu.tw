@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010023733號",
+        "reg_docno": "府社幼字第0950280904號",
+        "reg_date": "2006\/10\/11",
+        "title": "臺中市私立益成幼兒園",
+        "owner": "唐美惠",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "私立",
+        "address": "[412]益民路1段498號",
+        "floor": "1樓、2樓",
+        "size": "628.92平方公尺",
+        "size_in": "234.63平方公尺",
+        "size_out": "394.29平方公尺",
+        "tel": "(04)24831788",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c11434d8-4a59-4fab-8c8d-09987f3d1cc5",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.690267,
+            24.106194
+        ]
+    }
+}

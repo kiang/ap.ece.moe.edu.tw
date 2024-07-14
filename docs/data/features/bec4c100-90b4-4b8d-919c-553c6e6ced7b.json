@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080045003I號",
+        "reg_docno": "府社幼字第1000391244號",
+        "reg_date": "1994\/09\/24",
+        "title": "彰化縣溪州鄉立幼兒園大庄分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "溪州鄉",
+        "type": "公立",
+        "address": "[524]中橫巷1號",
+        "floor": "1樓",
+        "size": "645.03平方公尺",
+        "size_in": "145.03平方公尺",
+        "size_out": "500平方公尺",
+        "tel": "(04)8896100#301",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bec4c100-90b4-4b8d-919c-553c6e6ced7b",
+        "monthly": 3582
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5671918,
+            23.8159375
+        ]
+    }
+}

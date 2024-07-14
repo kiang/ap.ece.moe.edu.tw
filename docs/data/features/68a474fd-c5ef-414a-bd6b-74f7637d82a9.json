@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070079094號",
+        "reg_docno": "90府教社字第98802號",
+        "reg_date": "2001\/04\/11",
+        "title": "臺中市新社區崑山國民小學附設幼兒園",
+        "owner": "蘇啟明",
+        "city": "臺中市",
+        "town": "新社區",
+        "type": "公立",
+        "address": "[426]崑南街崑崙巷5-2號",
+        "floor": "1樓",
+        "size": "3,283.55平方公尺",
+        "size_in": "182.32平方公尺",
+        "size_out": "3,101.23平方公尺",
+        "tel": "(04)25812496#270",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "68a474fd-c5ef-414a-bd6b-74f7637d82a9",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.787428,
+            24.241102
+        ]
+    }
+}

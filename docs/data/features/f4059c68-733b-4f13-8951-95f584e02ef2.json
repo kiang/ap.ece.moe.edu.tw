@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100065906號",
+        "reg_docno": "中市教幼字第1070067772號",
+        "reg_date": "2018\/08\/01",
+        "title": "臺中市豐原區瑞穗國民小學附設幼兒園",
+        "owner": "詹文成",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "公立",
+        "address": "[420]西安街72號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)2526-2065",
+        "url": "https:\/\/sites.google.com\/rses.tc.edu.tw\/kindergarten\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f4059c68-733b-4f13-8951-95f584e02ef2",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7106485,
+            24.2489732
+        ]
+    }
+}

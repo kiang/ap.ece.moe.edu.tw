@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1122437787號",
+        "reg_docno": "府教特一字第1122437787號",
+        "reg_date": "2023\/08\/01",
+        "title": "雲林縣二崙鄉二崙國民小學附設幼兒園",
+        "owner": "謝淑媒",
+        "city": "雲林縣",
+        "town": "二崙鄉",
+        "type": "公立",
+        "address": "[649]中興路36號",
+        "floor": "2樓",
+        "size": "1,728.32平方公尺",
+        "size_in": "828.32平方公尺",
+        "size_out": "900平方公尺",
+        "tel": "(05)5982241#23",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6f70151a-2f2d-4d01-bbb4-369f55984ddf",
+        "monthly": 4035
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4130466,
+            23.7717116
+        ]
+    }
+}

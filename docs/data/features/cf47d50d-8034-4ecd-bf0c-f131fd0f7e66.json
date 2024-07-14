@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第33號",
+        "reg_docno": "北市教前字第1123059754號",
+        "reg_date": "2023\/09\/25",
+        "title": "臺北市太和職場互助教保服務中心",
+        "owner": "林倍瑜",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]中山北路六段290巷25號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "88666679",
+        "url": "",
+        "count_approved": "53",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cf47d50d-8034-4ecd-bf0c-f131fd0f7e66",
+        "monthly": 21800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.526717,
+            25.1094335
+        ]
+    }
+}

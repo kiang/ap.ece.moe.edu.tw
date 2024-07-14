@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110033621號",
+        "reg_docno": "府教幼字第1110033621號",
+        "reg_date": "2022\/02\/16",
+        "title": "桃園市私立凱思堡幼兒園豐田分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]豐田一路108號",
+        "floor": "1樓",
+        "size": "207.08平方公尺",
+        "size_in": "141.38平方公尺",
+        "size_out": "65.7平方公尺",
+        "tel": "(03)2716338",
+        "url": "",
+        "count_approved": "21",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "51b37d01-7a94-42e8-aa42-1070b800f199",
+        "monthly": 15167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2871053,
+            24.9265986
+        ]
+    }
+}

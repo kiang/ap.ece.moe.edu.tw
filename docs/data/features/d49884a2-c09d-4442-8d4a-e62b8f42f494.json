@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1112424653D號",
+        "reg_docno": "府教特一字第1112424653D號",
+        "reg_date": "2022\/05\/18",
+        "title": "雲林縣古坑鄉東和國民小學附設幼兒園",
+        "owner": "陳沼輝",
+        "city": "雲林縣",
+        "town": "古坑鄉",
+        "type": "公立",
+        "address": "[646]文化路120號",
+        "floor": "1樓",
+        "size": "507平方公尺",
+        "size_in": "189平方公尺",
+        "size_out": "318平方公尺",
+        "tel": "(05)5263153#36",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100085027894267&locale=zh_TW",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d49884a2-c09d-4442-8d4a-e62b8f42f494",
+        "monthly": 3983
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5681675,
+            23.6846672
+        ]
+    }
+}

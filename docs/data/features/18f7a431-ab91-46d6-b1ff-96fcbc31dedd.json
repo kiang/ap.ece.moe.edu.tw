@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1042532132號",
+        "reg_docno": "北府社兒字第0920304637號",
+        "reg_date": "2003\/04\/29",
+        "title": "新北市私立蘋果苑幼兒園",
+        "owner": "黃惠敏",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "私立",
+        "address": "[251]新春街126巷9號1樓、2樓",
+        "floor": "1樓至2樓",
+        "size": "463.61平方公尺",
+        "size_in": "463.61平方公尺",
+        "size_out": "",
+        "tel": "(02)86311599",
+        "url": "",
+        "count_approved": "130",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "18f7a431-ab91-46d6-b1ff-96fcbc31dedd",
+        "monthly": 15273
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4407986,
+            25.1818423
+        ]
+    }
+}

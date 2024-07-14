@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120175626號",
+        "reg_docno": "府教特字第09400810730號",
+        "reg_date": "2005\/06\/09",
+        "title": "花蓮縣鳳林鎮林榮國民小學附設幼兒園",
+        "owner": "許傳方",
+        "city": "花蓮縣",
+        "town": "鳳林鎮",
+        "type": "公立",
+        "address": "[975]永安街2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8771024#13",
+        "url": "http:\/\/210.240.92.2\/94kindergarten\/index.htm",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "686cdfa6-01df-41f3-b232-77949bd66485",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.452428,
+            23.8004071
+        ]
+    }
+}

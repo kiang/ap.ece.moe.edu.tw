@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680林口0032之2號",
+        "reg_docno": "八二北府社三字第82131499號",
+        "reg_date": "1993\/04\/13",
+        "title": "新北市私立心語幼兒園",
+        "owner": "劉婕盈",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]竹林路53巷11號1樓",
+        "floor": "地上1樓、地下1樓",
+        "size": "211.39平方公尺",
+        "size_in": "211.39平方公尺",
+        "size_out": "",
+        "tel": "(02)26024858",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c58f269c-ac15-441e-ad90-2101726f63ed",
+        "monthly": 27267
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3861369,
+            25.0767141
+        ]
+    }
+}

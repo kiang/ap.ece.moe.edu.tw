@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620土城0070號",
+        "reg_docno": "北府社兒字第0910282170號",
+        "reg_date": "2002\/06\/10",
+        "title": "新北市私立維多莉爾南天母幼兒園",
+        "owner": "方綉媚",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]南天母路111巷10之1號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22678358",
+        "url": "",
+        "count_approved": "65",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b0840436-dced-4689-8fc2-c1bd08bbe90e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.448688,
+            24.9552359
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120182614號",
+        "reg_docno": "府教特字第0980053472號",
+        "reg_date": "2009\/08\/03",
+        "title": "花蓮縣玉里鎮三民國民小學附設幼兒園",
+        "owner": "柯君翰",
+        "city": "花蓮縣",
+        "town": "玉里鎮",
+        "type": "公立",
+        "address": "[981]118號",
+        "floor": "1",
+        "size": "180平方公尺",
+        "size_in": "135平方公尺",
+        "size_out": "45平方公尺",
+        "tel": "(03)8841183#27",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "12d09909-a5b7-4e46-982b-eb9704a99be0",
+        "monthly": 2886
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.348621,
+            23.429913
+        ]
+    }
+}

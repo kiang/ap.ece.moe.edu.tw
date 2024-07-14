@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136175500號",
+        "reg_docno": "高市四維教幼字第1000008251號",
+        "reg_date": "2011\/02\/17",
+        "title": "高雄市前鎮區佛公國民小學附設幼兒園",
+        "owner": "陳見發",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "公立",
+        "address": "[806]后平路135號",
+        "floor": "1樓、2樓",
+        "size": "1,015.3平方公尺",
+        "size_in": "346.47平方公尺",
+        "size_out": "668.83平方公尺",
+        "tel": "(07)8229801#17",
+        "url": "http:\/\/www.fokps.kh.edu.tw",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0449062d-b25e-4c8d-a08a-ac36ef0bb4e8",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.320954,
+            22.572696
+        ]
+    }
+}

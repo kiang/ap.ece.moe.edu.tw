@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1060281541號",
+        "reg_docno": "府教特字第0930255679號",
+        "reg_date": "2004\/12\/30",
+        "title": "私立崑山科技大學附設臺南市幼兒園",
+        "owner": "",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]崑大路195號",
+        "floor": "1樓",
+        "size": "1,342平方公尺",
+        "size_in": "922平方公尺",
+        "size_out": "420平方公尺",
+        "tel": "(06)2727175#319",
+        "url": "www.ksut.edu.tw\/admin\/KIDS\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "85129626-b82f-4a9f-ae44-ab2957580916",
+        "monthly": 10900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2529618,
+            22.9961617
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680蘆洲0069之1號",
+        "reg_docno": "北府教幼字第1013208024號",
+        "reg_date": "2013\/01\/31",
+        "title": "新北市私立勁寶兒長樂幼兒園",
+        "owner": "張翊琳",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]光復路34號1、2、3樓及36號1、2樓",
+        "floor": "1~3",
+        "size": "549.08平方公尺",
+        "size_in": "254.88平方公尺",
+        "size_out": "294.2平方公尺",
+        "tel": "(02)22881029",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "31fdebf4-824c-4c97-96ec-5e243d928dc6",
+        "monthly": 16000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.46338,
+            25.084842
+        ]
+    }
+}

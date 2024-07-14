@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11236357500號",
+        "reg_docno": "高市教三字第0990011695號",
+        "reg_date": "2010\/03\/25",
+        "title": "高雄市小港區華山國民小學附設幼兒園",
+        "owner": "王惠玲",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "公立",
+        "address": "[812]華仁街1號",
+        "floor": "1樓",
+        "size": "790.45平方公尺",
+        "size_in": "135.85平方公尺",
+        "size_out": "654.6平方公尺",
+        "tel": "(07)8062280",
+        "url": "http:\/\/www.hshanps.kh.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cdfe253e-24bc-45f5-aec3-a0c12e745857",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.365611,
+            22.567655
+        ]
+    }
+}

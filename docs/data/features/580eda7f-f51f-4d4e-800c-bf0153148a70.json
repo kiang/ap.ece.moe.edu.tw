@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11037220000號",
+        "reg_docno": "高市教幼字第11037220000號",
+        "reg_date": "2021\/08\/01",
+        "title": "高雄市美濃區吉洋國民小學附設幼兒園",
+        "owner": "汪方川",
+        "city": "高雄市",
+        "town": "美濃區",
+        "type": "公立",
+        "address": "[843]忠孝路2段59號",
+        "floor": "1樓",
+        "size": "1,737.77平方公尺",
+        "size_in": "168.77平方公尺",
+        "size_out": "1,569平方公尺",
+        "tel": "(07)6831849#51",
+        "url": "https:\/\/class.kh.edu.tw\/27239",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "580eda7f-f51f-4d4e-800c-bf0153148a70",
+        "monthly": 3703
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5204681,
+            22.8614068
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620鶯歌0001號",
+        "reg_docno": "八九北府社兒字第89043658號",
+        "reg_date": "2000\/01\/21",
+        "title": "新北市私立學詮幼兒園",
+        "owner": "廖素蘭",
+        "city": "新北市",
+        "town": "鶯歌區",
+        "type": "私立",
+        "address": "[239]德昌街131號1、2樓",
+        "floor": "1.2樓",
+        "size": "1,168.62平方公尺",
+        "size_in": "553.3平方公尺",
+        "size_out": "198.12平方公尺",
+        "tel": "(02)86771515",
+        "url": "",
+        "count_approved": "160",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f941a036-7e0e-4ec0-a24d-634e3d5cd42c",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3325298,
+            24.9601626
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040075411號",
+        "reg_docno": "府社兒字第1000544992號",
+        "reg_date": "1976\/08\/01",
+        "title": "桃園市立大園幼兒園五權分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "公立",
+        "address": "[337]中正東路2段541號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3812129",
+        "url": "http:\/\/www.dayuan.gov.tw\/",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "498d1114-6394-45ae-8ef4-c11b00210598",
+        "monthly": 5212
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2309122,
+            25.023912
+        ]
+    }
+}

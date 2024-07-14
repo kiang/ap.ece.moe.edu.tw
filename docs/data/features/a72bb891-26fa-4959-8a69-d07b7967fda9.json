@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市教前字第1083023765號",
+        "reg_docno": "北市社五字第09442491600號",
+        "reg_date": "2005\/12\/12",
+        "title": "臺北市私立幼欣幼兒園",
+        "owner": "李宏珍",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "私立",
+        "address": "[114]成功路二段312巷66、68號1樓",
+        "floor": "1樓",
+        "size": "171.76平方公尺",
+        "size_in": "171.76平方公尺",
+        "size_out": "",
+        "tel": "(02)27918852",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a72bb891-26fa-4959-8a69-d07b7967fda9",
+        "monthly": 14083
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.588678,
+            25.066778
+        ]
+    }
+}

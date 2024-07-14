@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0006號",
+        "reg_docno": "北府社兒字第0920762954號",
+        "reg_date": "2003\/12\/16",
+        "title": "新北市私立佳盈幼兒園",
+        "owner": "蔡孟嘉",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]汐止市莊敬街130號2樓",
+        "floor": "1",
+        "size": "698.91平方公尺",
+        "size_in": "698.91平方公尺",
+        "size_out": "",
+        "tel": "(02)26497438",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1bed194b-2261-4284-9397-ddc2d6c67d51",
+        "monthly": 13800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.654665,
+            25.060969
+        ]
+    }
+}

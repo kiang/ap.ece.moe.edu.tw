@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字字第1011259620新店0059號",
+        "reg_docno": "北府社兒字第1001000415號",
+        "reg_date": "2011\/09\/13",
+        "title": "新北市私立小綠芽幼兒園",
+        "owner": "林麗花",
+        "city": "新北市",
+        "town": "新店區",
+        "type": "私立",
+        "address": "[231]中正路382巷1號1樓",
+        "floor": "1樓",
+        "size": "101.6平方公尺",
+        "size_in": "101.6平方公尺",
+        "size_out": "",
+        "tel": "(02)22193305",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "00d30196-28bb-4e56-939e-29e2936fb7b9",
+        "monthly": 12667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.534962,
+            24.9775239
+        ]
+    }
+}

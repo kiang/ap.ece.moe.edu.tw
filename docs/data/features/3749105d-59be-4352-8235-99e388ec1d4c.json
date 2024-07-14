@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599林口0049號",
+        "reg_docno": "新北府教幼字第1091946668號",
+        "reg_date": "2020\/10\/14",
+        "title": "新北市菁湖非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "非營利",
+        "address": "[244]林口路70號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26013695",
+        "url": "http:\/\/3-3life.org.tw\/index.php?m=Yzy&a=sList&eId=51&sId=1",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3749105d-59be-4352-8235-99e388ec1d4c",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3898871,
+            25.0796232
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0112號",
+        "reg_docno": "八九北府社兒字第89175676號",
+        "reg_date": "2000\/05\/04",
+        "title": "新北市私立惠園幼兒園",
+        "owner": "劉素蘭",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]中正路新雅巷20號1,2樓",
+        "floor": "2層樓",
+        "size": "208.91平方公尺",
+        "size_in": "208.91平方公尺",
+        "size_out": "",
+        "tel": "(02)22095126",
+        "url": "",
+        "count_approved": "59",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "939cfcd8-07d6-48db-af1b-e86ea2f9922a",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4176,
+            25.02551
+        ]
+    }
+}

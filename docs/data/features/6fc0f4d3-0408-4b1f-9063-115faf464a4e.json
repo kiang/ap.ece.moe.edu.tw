@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1010171418號",
+        "reg_docno": "基府社福字第050162號",
+        "reg_date": "2000\/09\/22",
+        "title": "基隆市私立嘉仁幼兒園",
+        "owner": "林福來",
+        "city": "基隆市",
+        "town": "七堵區",
+        "type": "私立",
+        "address": "[206]福五街174、174之1、174之2號、174號2樓之1",
+        "floor": "1樓至2樓",
+        "size": "436.18平方公尺",
+        "size_in": "436.18平方公尺",
+        "size_out": "",
+        "tel": "(02)24518885",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "6fc0f4d3-0408-4b1f-9063-115faf464a4e",
+        "monthly": 15395
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.697917,
+            25.087695
+        ]
+    }
+}

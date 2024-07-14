@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100074205號",
+        "reg_docno": "中市教幼字第1100074205號",
+        "reg_date": "2021\/10\/08",
+        "title": "臺中市私立仁美愛子幼兒園",
+        "owner": "許世凱",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]山西北一街128號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24227399",
+        "url": "",
+        "count_approved": "288",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "aba93b25-808d-4589-a1a0-bf5f2b8cd916",
+        "monthly": 21500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6836922,
+            24.1863657
+        ]
+    }
+}

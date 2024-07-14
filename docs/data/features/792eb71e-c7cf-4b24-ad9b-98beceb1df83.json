@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680新莊0013之1號",
+        "reg_docno": "北府社兒字第0991176326號",
+        "reg_date": "2011\/01\/25",
+        "title": "新北市私立傑安幼兒園",
+        "owner": "林鴻芬",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]中正路161號1樓",
+        "floor": "1F",
+        "size": "166.06平方公尺",
+        "size_in": "166.06平方公尺",
+        "size_out": "",
+        "tel": "(02)89923416",
+        "url": "http:\/\/www.giant-kids.com.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "792eb71e-c7cf-4b24-ad9b-98beceb1df83",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.455226,
+            25.03653
+        ]
+    }
+}

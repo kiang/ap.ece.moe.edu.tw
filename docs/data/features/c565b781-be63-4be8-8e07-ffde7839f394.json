@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110178784號",
+        "reg_docno": "府教特字第09400810730號",
+        "reg_date": "2005\/06\/09",
+        "title": "花蓮縣鳳林鎮長橋國民小學附設幼兒園",
+        "owner": "許熒真",
+        "city": "花蓮縣",
+        "town": "鳳林鎮",
+        "type": "公立",
+        "address": "[975]長橋路2號",
+        "floor": "1",
+        "size": "112.5平方公尺",
+        "size_in": "67.5平方公尺",
+        "size_out": "45平方公尺",
+        "tel": "(03)8751654#2205",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c565b781-be63-4be8-8e07-ffde7839f394",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4197931,
+            23.709329
+        ]
+    }
+}

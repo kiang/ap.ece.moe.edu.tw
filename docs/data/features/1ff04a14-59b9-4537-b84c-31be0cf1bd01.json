@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620淡水0023號",
+        "reg_docno": "72北府社三字第72041188號",
+        "reg_date": "1983\/02\/23",
+        "title": "新北市私立小親親幼兒園",
+        "owner": "陳定國",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "私立",
+        "address": "[251]民生路124巷11弄3號1~2樓、5號1~2樓",
+        "floor": "一,",
+        "size": "370平方公尺",
+        "size_in": "370平方公尺",
+        "size_out": "",
+        "tel": "(02)28097113",
+        "url": "",
+        "count_approved": "78",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1ff04a14-59b9-4537-b84c-31be0cf1bd01",
+        "monthly": 12025
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4643394,
+            25.138031
+        ]
+    }
+}

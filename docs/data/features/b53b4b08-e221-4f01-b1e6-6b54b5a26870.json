@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101174507號",
+        "reg_docno": "府教國字第112219號",
+        "reg_date": "1977\/10\/19",
+        "title": "臺南市北門區雙春國民小學附設幼兒園",
+        "owner": "林佑霖",
+        "city": "臺南市",
+        "town": "北門區",
+        "type": "公立",
+        "address": "[727]35-2號",
+        "floor": "1樓",
+        "size": "123平方公尺",
+        "size_in": "72平方公尺",
+        "size_out": "51平方公尺",
+        "tel": "(06)7863141#20",
+        "url": "https:\/\/www.scps.tn.edu.tw\/",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b53b4b08-e221-4f01-b1e6-6b54b5a26870",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.124825,
+            23.301093
+        ]
+    }
+}

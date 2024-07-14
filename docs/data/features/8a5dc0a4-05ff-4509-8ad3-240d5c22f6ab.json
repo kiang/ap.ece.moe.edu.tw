@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010056035號",
+        "reg_docno": "中市府社婦字第8908號",
+        "reg_date": "2000\/03\/24",
+        "title": "臺中市私立普霖斯頓幼兒園",
+        "owner": "黃啟誠",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "私立",
+        "address": "[403]大墩十街95號",
+        "floor": "1F",
+        "size": "301.49平方公尺",
+        "size_in": "120.12平方公尺",
+        "size_out": "181.37平方公尺",
+        "tel": "(04)23190675",
+        "url": "",
+        "count_approved": "78",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8a5dc0a4-05ff-4509-8ad3-240d5c22f6ab",
+        "monthly": 22318
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6515623,
+            24.1476074
+        ]
+    }
+}

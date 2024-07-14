@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10937271600號",
+        "reg_docno": "高市教國字第65793號",
+        "reg_date": "1975\/07\/31",
+        "title": "高雄市前鎮區愛群國民小學附設幼兒園",
+        "owner": "劉文溪",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "公立",
+        "address": "[806]二聖二路194號",
+        "floor": "1樓、2樓",
+        "size": "4,051.98平方公尺",
+        "size_in": "623.68平方公尺",
+        "size_out": "3,428.3平方公尺",
+        "tel": "(07)3320323#780",
+        "url": "https:\/\/affairs.kh.edu.tw\/5859",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "06ae86d8-9033-4f44-900b-588d6e0a16b0",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.312245,
+            22.613841
+        ]
+    }
+}

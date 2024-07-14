@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120042052號",
+        "reg_docno": "府教幼字第1100244063號",
+        "reg_date": "2021\/09\/30",
+        "title": "桃園市北青非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "非營利",
+        "address": "[334]建德路360號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3686313",
+        "url": "評鑑情形：",
+        "count_approved": "182",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f211d5c0-999d-4084-9f09-a66b4e237505",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2812312,
+            24.9355504
+        ]
+    }
+}

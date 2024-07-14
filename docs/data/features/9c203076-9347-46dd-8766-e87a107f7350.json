@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551482號",
+        "reg_docno": "府教幼字第1030136493號",
+        "reg_date": "2014\/08\/01",
+        "title": "新竹縣湖口鄉華興國民小學附設幼兒園",
+        "owner": "潘淑華",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "公立",
+        "address": "[303]文化路171號",
+        "floor": "1樓",
+        "size": "980.4平方公尺",
+        "size_in": "197.75平方公尺",
+        "size_out": "782.65平方公尺",
+        "tel": "(03)5981789#123",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9c203076-9347-46dd-8766-e87a107f7350",
+        "monthly": 3767
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.020084,
+            24.8742049
+        ]
+    }
+}

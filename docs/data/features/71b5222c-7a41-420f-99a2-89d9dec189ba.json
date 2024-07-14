@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1013229096瑞芳0025號",
+        "reg_docno": "八九北府社兒字第89276547號",
+        "reg_date": "2000\/07\/14",
+        "title": "新北市私立金幼聲幼兒園",
+        "owner": "宋素玉",
+        "city": "新北市",
+        "town": "瑞芳區",
+        "type": "私立",
+        "address": "[224]大埔路吉慶公園城4號1樓、2樓、6號1樓",
+        "floor": "1樓至2樓",
+        "size": "173.38平方公尺",
+        "size_in": "173.38平方公尺",
+        "size_out": "",
+        "tel": "(02)24571988",
+        "url": "",
+        "count_approved": "49",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "71b5222c-7a41-420f-99a2-89d9dec189ba",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7648146,
+            25.1020465
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110060925號",
+        "reg_docno": "府教特字第1080020433號",
+        "reg_date": "2019\/01\/29",
+        "title": "台東紅珊瑚股份有限公司附設臺東縣私立綺麗幼兒園",
+        "owner": "洪為勳",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "私立",
+        "address": "[950]民航路927號",
+        "floor": "1樓、2樓",
+        "size": "1,331.17平方公尺",
+        "size_in": "754.45平方公尺",
+        "size_out": "576.72平方公尺",
+        "tel": "(089)331270",
+        "url": "https:\/\/www.facebook.com\/clkidsplay",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4dd05ed8-1bdd-49cd-b1fc-73331f93eb17",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1438152,
+            22.7613207
+        ]
+    }
+}

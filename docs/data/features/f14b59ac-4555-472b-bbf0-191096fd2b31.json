@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120285653號",
+        "reg_docno": "府社幼字第0930149386號",
+        "reg_date": "2004\/08\/05",
+        "title": "彰化縣私立探索幼兒園",
+        "owner": "劉麗芬",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "私立",
+        "address": "[500]建國北路160號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,509.52平方公尺",
+        "size_in": "932.56平方公尺",
+        "size_out": "576.96平方公尺",
+        "tel": "(04)7233207",
+        "url": "",
+        "count_approved": "273",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f14b59ac-4555-472b-bbf0-191096fd2b31",
+        "monthly": 4300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5495112,
+            24.0950522
+        ]
+    }
+}

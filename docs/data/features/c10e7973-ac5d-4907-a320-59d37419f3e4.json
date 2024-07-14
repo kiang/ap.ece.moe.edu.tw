@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070198427號",
+        "reg_docno": "府社婦字第0960342530號",
+        "reg_date": "2007\/10\/16",
+        "title": "桃園市私立童年幼兒園",
+        "owner": "彭迎榛",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]大興西路二段69巷13號1-3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3578697",
+        "url": "http:\/\/www.wretch.cc\/blog\/kid3578697",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：40",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c10e7973-ac5d-4907-a320-59d37419f3e4",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2991453,
+            25.0101503
+        ]
+    }
+}

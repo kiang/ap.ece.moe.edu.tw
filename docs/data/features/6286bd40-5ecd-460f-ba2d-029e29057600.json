@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040036150號",
+        "reg_docno": "府社兒字第0970210512號",
+        "reg_date": "2008\/07\/01",
+        "title": "桃園市私立立得幼兒園",
+        "owner": "葉柏君",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "私立",
+        "address": "[338]光明路一段106號、108號",
+        "floor": "1-2樓",
+        "size": "2,138.86平方公尺",
+        "size_in": "1,619.53平方公尺",
+        "size_out": "519.33平方公尺",
+        "tel": "(03)2222955",
+        "url": "http:\/\/leader.kidz.com.tw\/",
+        "count_approved": "173",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6286bd40-5ecd-460f-ba2d-029e29057600",
+        "monthly": 6140
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2899,
+            25.0449079
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1102428568號",
+        "reg_docno": "府教特一字第1102428568號",
+        "reg_date": "2021\/07\/27",
+        "title": "雲林縣北港鎮北辰國民小學附設幼兒園",
+        "owner": "陳明誌",
+        "city": "雲林縣",
+        "town": "北港鎮",
+        "type": "公立",
+        "address": "[651]成功路30號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)7832153",
+        "url": "https:\/\/bces.ylc.edu.tw\/",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9fac74b1-1fd4-42cb-89df-d3a26618fc9f",
+        "monthly": 3905
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.303016,
+            23.5773685
+        ]
+    }
+}

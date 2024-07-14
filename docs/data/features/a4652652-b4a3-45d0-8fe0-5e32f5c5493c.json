@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010043222號",
+        "reg_docno": "府社福字第0930124762號",
+        "reg_date": "2004\/10\/04",
+        "title": "宜蘭縣私立安琪卡幼兒園",
+        "owner": "林鈺璉",
+        "city": "宜蘭縣",
+        "town": "宜蘭市",
+        "type": "私立",
+        "address": "[260]中山路五段159、161號",
+        "floor": "1-3F",
+        "size": "1,046平方公尺",
+        "size_in": "452平方公尺",
+        "size_out": "594平方公尺",
+        "tel": "(03)9289199",
+        "url": "",
+        "count_approved": "160",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a4652652-b4a3-45d0-8fe0-5e32f5c5493c",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7568679,
+            24.7710411
+        ]
+    }
+}

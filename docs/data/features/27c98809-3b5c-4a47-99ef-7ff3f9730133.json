@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第102-1號",
+        "reg_docno": "北市社五字第09340271600號",
+        "reg_date": "2002\/05\/06",
+        "title": "臺北市私立米蘿幼兒園",
+        "owner": "李玉玲",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]文化三路12號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28967027",
+        "url": "a1662003@yahoo.com.tw",
+        "count_approved": "22",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "27c98809-3b5c-4a47-99ef-7ff3f9730133",
+        "monthly": 13700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.497828,
+            25.137586
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1030085916號",
+        "reg_docno": "府社幼字第0930025714號",
+        "reg_date": "2004\/02\/02",
+        "title": "臺中市私立祥愛幼兒園",
+        "owner": "張愛珠",
+        "city": "臺中市",
+        "town": "烏日區",
+        "type": "私立",
+        "address": "[414]溪南路二段292號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23356319",
+        "url": "",
+        "count_approved": "160",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5cfc824a-f438-4703-b730-389c753a228f",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.642178,
+            24.064192
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北是幼兒園證字第110-4號",
+        "reg_docno": "北市教三字第29521號",
+        "reg_date": "1971\/11\/03",
+        "title": "財團法人天主教會台北教區附設臺北市私立信光幼兒園",
+        "owner": "洪山川",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]通化街178號1、2、3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,491.57平方公尺",
+        "size_in": "519.87平方公尺",
+        "size_out": "971.7平方公尺",
+        "tel": "(02)27386770",
+        "url": "http:\/\/hsinkuang.urb.com.tw\/",
+        "count_approved": "210",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f9e168dc-2553-49db-80db-cebb06c2e3df",
+        "monthly": 10827
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.553273,
+            25.027476
+        ]
+    }
+}

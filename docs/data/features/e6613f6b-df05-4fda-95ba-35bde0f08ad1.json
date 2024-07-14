@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599泰山0003之6號",
+        "reg_docno": "八二北府教二字第114300號",
+        "reg_date": "1993\/04\/03",
+        "title": "新北市泰山區泰山國民小學附設幼兒園",
+        "owner": "張萬枝",
+        "city": "新北市",
+        "town": "泰山區",
+        "type": "公立",
+        "address": "[243]泰林路二段255號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)2909-8842#180",
+        "url": "http:\/\/nas2.tses.ntpc.edu.tw\/joomlaCMS\/",
+        "count_approved": "272",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e6613f6b-df05-4fda-95ba-35bde0f08ad1",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.431825,
+            25.061938
+        ]
+    }
+}

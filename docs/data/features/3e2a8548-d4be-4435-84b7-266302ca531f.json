@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120489925號",
+        "reg_docno": "府教幼字第1120010889號",
+        "reg_date": "2023\/01\/09",
+        "title": "經濟部彰濱產業園區服務中心職場互助教保服務中心（委託社團法人大中華社會企業創新策略發展協會辦理）",
+        "owner": "莊凱如",
+        "city": "彰化縣",
+        "town": "線西鄉",
+        "type": "私立",
+        "address": "[507]慶福路300號",
+        "floor": "1樓",
+        "size": "264平方公尺",
+        "size_in": "264平方公尺",
+        "size_out": "",
+        "tel": "(04)7910820",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100085109529248",
+        "count_approved": "58",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3e2a8548-d4be-4435-84b7-266302ca531f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4429721,
+            24.1430214
+        ]
+    }
+}

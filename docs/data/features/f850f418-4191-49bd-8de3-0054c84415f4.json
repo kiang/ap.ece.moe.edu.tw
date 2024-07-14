@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090016390號",
+        "reg_docno": "中市府社婦字第9407號",
+        "reg_date": "2005\/03\/21",
+        "title": "臺中市私立聖彼得幼兒園",
+        "owner": "張杏蕙",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]和福路179號1,2,3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24360770",
+        "url": "",
+        "count_approved": "130",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f850f418-4191-49bd-8de3-0054c84415f4",
+        "monthly": 10383
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7235515,
+            24.1730531
+        ]
+    }
+}

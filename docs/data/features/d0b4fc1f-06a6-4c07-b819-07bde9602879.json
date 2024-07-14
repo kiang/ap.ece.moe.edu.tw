@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120223325號",
+        "reg_docno": "府社福字第0940125645號",
+        "reg_date": "2005\/10\/24",
+        "title": "宜蘭縣私立菁英幼兒園",
+        "owner": "黃淑齡",
+        "city": "宜蘭縣",
+        "town": "羅東鎮",
+        "type": "私立",
+        "address": "[265]純精路三段189號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)9558686",
+        "url": "http:\/\/www.hess.com.tw",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d0b4fc1f-06a6-4c07-b819-07bde9602879",
+        "monthly": 16149
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.765071,
+            24.68268
+        ]
+    }
+}

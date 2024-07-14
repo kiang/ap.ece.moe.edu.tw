@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090131626號",
+        "reg_docno": "(87)府社福字第45282號",
+        "reg_date": "1998\/06\/19",
+        "title": "新竹市私立傑恩幼兒園",
+        "owner": "林敬儒",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]埔頂路125號1-2樓",
+        "floor": "1-2樓",
+        "size": "228.12平方公尺",
+        "size_in": "228.12平方公尺",
+        "size_out": "",
+        "tel": "(03)5797999",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8022d1f6-1f99-453f-99bf-6b39b42fa5c8",
+        "monthly": 19700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0088319,
+            24.79471
+        ]
+    }
+}

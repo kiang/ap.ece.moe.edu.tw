@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1060170990號",
+        "reg_docno": "府教特字第0963012960號",
+        "reg_date": "2007\/04\/25",
+        "title": "臺東縣臺東市豐源國民小學附設幼兒園",
+        "owner": "吳秀金",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "公立",
+        "address": "[950]中華路4段392號",
+        "floor": "1樓",
+        "size": "176平方公尺",
+        "size_in": "126平方公尺",
+        "size_out": "50平方公尺",
+        "tel": "(089)322063#27",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e5aa8ad5-dd64-4e3e-887a-1206f076ee04",
+        "monthly": 4167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1087106,
+            22.7299376
+        ]
+    }
+}

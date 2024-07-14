@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551691號",
+        "reg_docno": "府教幼字第1093710547號",
+        "reg_date": "2020\/02\/11",
+        "title": "財團法人新竹縣照海至陽教育基金會附設私立照海幼兒園",
+        "owner": "李愛華",
+        "city": "新竹縣",
+        "town": "新埔鎮",
+        "type": "私立",
+        "address": "[305]福德街561號",
+        "floor": "1樓",
+        "size": "1,193.82平方公尺",
+        "size_in": "637.8平方公尺",
+        "size_out": "360.58平方公尺",
+        "tel": "(03)5881201",
+        "url": "",
+        "count_approved": "118",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cb6ebbad-b7e3-4224-8503-cc7ba9985324",
+        "monthly": 18333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0727722,
+            24.8261639
+        ]
+    }
+}

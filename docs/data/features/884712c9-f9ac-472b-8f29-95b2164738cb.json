@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0084之2號",
+        "reg_docno": "六九北府社三字第69040086號",
+        "reg_date": "1980\/01\/01",
+        "title": "新北市私立辰修幼兒園",
+        "owner": "高立華",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]復興路280巷3弄7號、9號",
+        "floor": "1樓",
+        "size": "136.8平方公尺",
+        "size_in": "136.8平方公尺",
+        "size_out": "",
+        "tel": "(02)2246-5115",
+        "url": "新北市中和區復興路280巷3弄7號",
+        "count_approved": "34",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "884712c9-f9ac-472b-8f29-95b2164738cb",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.501622,
+            24.9918844
+        ]
+    }
+}

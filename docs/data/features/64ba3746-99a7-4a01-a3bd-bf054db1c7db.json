@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110214277號",
+        "reg_docno": "府教特字第0990093617號",
+        "reg_date": "2010\/03\/24",
+        "title": "桃園市大園區埔心國民小學附設幼兒園",
+        "owner": "吳臻幸",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "公立",
+        "address": "[337]中正東路1段189巷35號",
+        "floor": "1樓、2樓",
+        "size": "1,769.49平方公尺",
+        "size_in": "1,070.01平方公尺",
+        "size_out": "699.48平方公尺",
+        "tel": "(03)3812304#320",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000247276&id=model1&cl=1536903964-8512-5639",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "64ba3746-99a7-4a01-a3bd-bf054db1c7db",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.226066,
+            25.048443
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110155116號",
+        "reg_docno": "府教學前字第1080144935號",
+        "reg_date": "2019\/08\/01",
+        "title": "苗栗縣斗煥非營利幼兒園（委託社團法人苗栗縣嬰幼兒閱讀推廣協會辦理）",
+        "owner": "林逸盈",
+        "city": "苗栗縣",
+        "town": "頭份市",
+        "type": "非營利",
+        "address": "[351]中正二路221號",
+        "floor": "1樓",
+        "size": "1,010.22平方公尺",
+        "size_in": "257.4平方公尺",
+        "size_out": "752.82平方公尺",
+        "tel": "(037)680577",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d2fd43a9-b6e9-4f51-993f-255236c9b3fd",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9474584,
+            24.6804657
+        ]
+    }
+}

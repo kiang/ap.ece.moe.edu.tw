@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100183422號",
+        "reg_docno": "府教學字第09400837780號",
+        "reg_date": "2005\/04\/27",
+        "title": "南投縣仁愛鄉萬豐國民小學附設幼兒園",
+        "owner": "黃淑芬",
+        "city": "南投縣",
+        "town": "仁愛鄉",
+        "type": "公立",
+        "address": "[546]清華巷8號",
+        "floor": "1樓",
+        "size": "85平方公尺",
+        "size_in": "55平方公尺",
+        "size_out": "30平方公尺",
+        "tel": "(049)2974123#129",
+        "url": "163.22.140.1",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9c09bc86-1816-4d15-93c5-7898477de61f",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.076298,
+            23.947301
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070324516號",
+        "reg_docno": "88府教特字第132055號",
+        "reg_date": "1999\/06\/23",
+        "title": "桃園市私立丞格幼兒園",
+        "owner": "",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]文昌一街88號1至2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3979150",
+        "url": "",
+        "count_approved": "330",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f697c5c3-8f1d-4419-904d-aa597234d467",
+        "monthly": 16500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3694502,
+            25.0577967
+        ]
+    }
+}

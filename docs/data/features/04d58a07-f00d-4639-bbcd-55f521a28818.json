@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080058552號",
+        "reg_docno": "87府教國字第55401號",
+        "reg_date": "1998\/03\/25",
+        "title": "桃園市私立宏林幼兒園",
+        "owner": "黃立維",
+        "city": "桃園市",
+        "town": "觀音區",
+        "type": "私立",
+        "address": "[328]保障路931巷28、56號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4836166",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "04d58a07-f00d-4639-bbcd-55f521a28818",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.15072,
+            25.05472
+        ]
+    }
+}

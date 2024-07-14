@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010155596號",
+        "reg_docno": "府教四字第57215號",
+        "reg_date": "1966\/09\/22",
+        "title": "財團法人北部台灣基督長老教會東部中會玉里教會附設花蓮縣私立和平幼兒園",
+        "owner": "",
+        "city": "花蓮縣",
+        "town": "玉里鎮",
+        "type": "私立",
+        "address": "[981]復興街4號",
+        "floor": "1樓",
+        "size": "1,770.18平方公尺",
+        "size_in": "139.07平方公尺",
+        "size_out": "1,631.11平方公尺",
+        "tel": "(03)8882277",
+        "url": "hoping53@gmail.com",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fdd8b768-5a1d-4bf5-a911-4eb9ffd79e1a",
+        "monthly": 3850
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3143241,
+            23.3325812
+        ]
+    }
+}

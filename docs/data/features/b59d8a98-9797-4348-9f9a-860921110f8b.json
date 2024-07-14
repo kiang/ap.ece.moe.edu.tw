@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111084936號",
+        "reg_docno": "府社福字第0970021470號",
+        "reg_date": "2008\/01\/22",
+        "title": "國家科學及技術委員會南部科學園區管理局社區中心員工子女非營利幼兒園(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+        "owner": "邱建凱",
+        "city": "臺南市",
+        "town": "新市區",
+        "type": "非營利",
+        "address": "[744]大順三路125號",
+        "floor": "1樓",
+        "size": "277.82平方公尺",
+        "size_in": "223.04平方公尺",
+        "size_out": "54.78平方公尺",
+        "tel": "(06)5053586",
+        "url": "http:\/\/idear-asia.topschool.com.tw\/",
+        "count_approved": "65",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b59d8a98-9797-4348-9f9a-860921110f8b",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.288826,
+            23.100507
+        ]
+    }
+}

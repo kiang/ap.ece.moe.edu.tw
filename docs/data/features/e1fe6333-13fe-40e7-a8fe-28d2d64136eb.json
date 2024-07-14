@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0100號",
+        "reg_docno": "六八北府社三字第68200579號",
+        "reg_date": "1979\/07\/01",
+        "title": "新北市私立聖中幼兒園",
+        "owner": "林清松",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]新生街166巷、18、20號、20之1號",
+        "floor": "1-2樓",
+        "size": "803.39平方公尺",
+        "size_in": "252.96平方公尺",
+        "size_out": "550.43平方公尺",
+        "tel": "(02)22210606",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e1fe6333-13fe-40e7-a8fe-28d2d64136eb",
+        "monthly": 11810
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.483049,
+            25.004175
+        ]
+    }
+}

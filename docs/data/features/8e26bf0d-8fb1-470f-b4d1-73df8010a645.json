@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090074093號",
+        "reg_docno": "中市教幼字第1090039769號",
+        "reg_date": "2020\/06\/03",
+        "title": "臺中市私立大里光明幼兒園",
+        "owner": "楊秀艶",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "私立",
+        "address": "[412]樹王路333巷6號1至3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "579.26平方公尺",
+        "size_in": "483.27平方公尺",
+        "size_out": "95.99平方公尺",
+        "tel": "(04)24074133",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8e26bf0d-8fb1-470f-b4d1-73df8010a645",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.66758,
+            24.10838
+        ]
+    }
+}

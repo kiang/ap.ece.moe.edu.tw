@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1020019891號",
+        "reg_docno": "府教國字第33453號",
+        "reg_date": "1994\/04\/06",
+        "title": "嘉義縣私立藍天幼兒園",
+        "owner": "黃意超",
+        "city": "嘉義縣",
+        "town": "朴子市",
+        "type": "私立",
+        "address": "[613]天星新村116號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3798088",
+        "url": "www.lankg.cyc.edu.tw",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "799d9979-8384-4851-b8f8-94399f35af84",
+        "monthly": 9800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.256283,
+            23.469364
+        ]
+    }
+}

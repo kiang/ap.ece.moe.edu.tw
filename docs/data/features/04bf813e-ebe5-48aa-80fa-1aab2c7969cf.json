@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120235495號",
+        "reg_docno": "府教特字第0930082405號",
+        "reg_date": "2004\/04\/19",
+        "title": "桃園市桃園區建國國民小學附設幼兒園",
+        "owner": "莊凱安",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "公立",
+        "address": "[330]昆明路95號",
+        "floor": "1",
+        "size": "740平方公尺",
+        "size_in": "353平方公尺",
+        "size_out": "387平方公尺",
+        "tel": "(03)3636660#811",
+        "url": "http:\/\/www.jkes.tyc.edu.tw\/myxoops\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "04bf813e-ebe5-48aa-80fa-1aab2c7969cf",
+        "monthly": 5088
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.315361,
+            24.9834289
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字字第1080003599號",
+        "reg_docno": "八五北府教三字第311993號",
+        "reg_date": "1996\/09\/06",
+        "title": "新北市鶯歌區鳳鳴國民小學附設幼兒園",
+        "owner": "吳木樹",
+        "city": "新北市",
+        "town": "鶯歌區",
+        "type": "公立",
+        "address": "[239]永和街120號",
+        "floor": "1樓、2樓",
+        "size": "2,053平方公尺",
+        "size_in": "1,293平方公尺",
+        "size_out": "760平方公尺",
+        "tel": "(02)26797554#501",
+        "url": "http:\/\/163.20.125.132\/dyna\/webs\/index.php?account=kids",
+        "count_approved": "181",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "da43e58a-01d3-476f-8d39-b9de73acb5de",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.334826,
+            24.969172
+        ]
+    }
+}

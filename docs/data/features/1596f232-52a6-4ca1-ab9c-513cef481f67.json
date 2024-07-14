@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10234986100號",
+        "reg_docno": "府社福字第0920004216號",
+        "reg_date": "2003\/07\/16",
+        "title": "高雄市私立育生幼兒園",
+        "owner": "賴秀惠",
+        "city": "高雄市",
+        "town": "鳥松區",
+        "type": "私立",
+        "address": "[833]美山路328號",
+        "floor": "1樓、2樓、1-2",
+        "size": "333.76平方公尺",
+        "size_in": "228.41平方公尺",
+        "size_out": "105.35平方公尺",
+        "tel": "(07)7327877",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1596f232-52a6-4ca1-ab9c-513cef481f67",
+        "monthly": 5358
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.394658,
+            22.657011
+        ]
+    }
+}

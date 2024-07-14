@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080073003號",
+        "reg_docno": "中市教幼字第1060072932號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺中市霧峰區萬豐國民小學附設幼兒園",
+        "owner": "陳厚仁",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "公立",
+        "address": "[413]中正路224號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23393417#800",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "58673145-bb70-44a6-9244-664a39b41634",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6970097,
+            24.0278443
+        ]
+    }
+}

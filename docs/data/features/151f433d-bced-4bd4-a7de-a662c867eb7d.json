@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120196167號",
+        "reg_docno": "府教國字第15935號",
+        "reg_date": "1988\/03\/03",
+        "title": "嘉義縣義竹鄉過路國民小學附設幼兒園",
+        "owner": "張寶宗",
+        "city": "嘉義縣",
+        "town": "義竹鄉",
+        "type": "公立",
+        "address": "[624]過路子279號",
+        "floor": "1樓",
+        "size": "441.85平方公尺",
+        "size_in": "249.85平方公尺",
+        "size_out": "192平方公尺",
+        "tel": "(05)3437884#27",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "151f433d-bced-4bd4-a7de-a662c867eb7d",
+        "monthly": 3335
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.208456,
+            23.306684
+        ]
+    }
+}

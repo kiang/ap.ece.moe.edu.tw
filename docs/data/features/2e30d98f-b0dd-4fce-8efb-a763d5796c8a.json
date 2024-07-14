@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110159618號",
+        "reg_docno": "府教特字第1110159618號",
+        "reg_date": "2022\/08\/01",
+        "title": "國軍退除役官兵輔導委員會馬蘭榮家員工子女非營利幼兒園(委託社團法人東台灣幼兒教保專業促進協會辦理)",
+        "owner": "黃春玉",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "非營利",
+        "address": "[950]更生路1010號",
+        "floor": "1樓",
+        "size": "865.63平方公尺",
+        "size_in": "415.63平方公尺",
+        "size_out": "450平方公尺",
+        "tel": "(089)234960",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2e30d98f-b0dd-4fce-8efb-a763d5796c8a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1315488,
+            22.7728957
+        ]
+    }
+}

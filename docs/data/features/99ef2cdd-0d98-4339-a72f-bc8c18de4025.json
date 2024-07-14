@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1060917714號",
+        "reg_docno": "南市教特(一)字第1040691455號",
+        "reg_date": "2015\/07\/24",
+        "title": "臺南市私立佛光山慈航幼兒園",
+        "owner": "徐豐香",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]安和路四段538巷77號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,911.78平方公尺",
+        "size_in": "1,301.07平方公尺",
+        "size_out": "610.71平方公尺",
+        "tel": "(06)3560577",
+        "url": "https:\/\/yoyokdj.topschool.tw\/Home\/Main",
+        "count_approved": "200",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "99ef2cdd-0d98-4339-a72f-bc8c18de4025",
+        "monthly": 6250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2200573,
+            23.0607976
+        ]
+    }
+}

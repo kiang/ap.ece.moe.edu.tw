@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字字第10936617100號",
+        "reg_docno": "70高市教育三字第15767號",
+        "reg_date": "1981\/08\/11",
+        "title": "高雄市三民區獅湖國民小學附設幼兒園",
+        "owner": "黃嘉源",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "公立",
+        "address": "[807]鼎金後路495號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3424782#6015",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "12b19c2f-d3b5-4ade-801e-c05f43a3438f",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.322362,
+            22.672601
+        ]
+    }
+}

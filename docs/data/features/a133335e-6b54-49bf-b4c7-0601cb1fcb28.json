@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1030758573號",
+        "reg_docno": "府社福字第13259號",
+        "reg_date": "1999\/01\/21",
+        "title": "臺南市私立福祐幼兒園",
+        "owner": "陳憲軍",
+        "city": "臺南市",
+        "town": "麻豆區",
+        "type": "私立",
+        "address": "[721]關帝廟14-18號",
+        "floor": "1",
+        "size": "3,419.795平方公尺",
+        "size_in": "522.44平方公尺",
+        "size_out": "2,897.355平方公尺",
+        "tel": "(06)5720101",
+        "url": "",
+        "count_approved": "204",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a133335e-6b54-49bf-b4c7-0601cb1fcb28",
+        "monthly": 11512
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.253032,
+            23.190789
+        ]
+    }
+}

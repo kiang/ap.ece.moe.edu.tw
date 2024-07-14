@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0055之1號",
+        "reg_docno": "北府社兒字第0910458259號",
+        "reg_date": "2002\/07\/19",
+        "title": "新北市私立花仙子幼兒園",
+        "owner": "黃明翰",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]康寧街445-1號1樓、445-2號1樓、445-3號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26923933",
+        "url": "",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "35c0cfe2-2b27-492d-946c-f20317e89fef",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6311899,
+            25.0682282
+        ]
+    }
+}

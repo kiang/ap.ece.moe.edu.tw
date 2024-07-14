@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110128589號",
+        "reg_docno": "八九府教前字第52918號",
+        "reg_date": "2000\/07\/27",
+        "title": "新竹市東區建功國民小學附設幼兒園",
+        "owner": "賴雲鵬",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "公立",
+        "address": "[300]建功一路104巷22號",
+        "floor": "1樓",
+        "size": "1,376平方公尺",
+        "size_in": "730.36平方公尺",
+        "size_out": "645.64平方公尺",
+        "tel": "(03)5713447#815",
+        "url": "https:\/\/www.ckps.hc.edu.tw\/ischool\/publish_page\/9\/",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c086f2d4-0dc4-4ce2-b255-82ac07299e23",
+        "monthly": 3729
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.999415,
+            24.799244
+        ]
+    }
+}

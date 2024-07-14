@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11235384600號",
+        "reg_docno": "高市教幼字第11235384600號",
+        "reg_date": "2023\/07\/31",
+        "title": "勞動部職業安全衛生署職場互助教保服務中心(委託社團法人高雄市碩苗社會教育關懷協會辦理)",
+        "owner": "林麗珠",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "私立",
+        "address": "[802]光華一路34巷28號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)7227760",
+        "url": "https:\/\/www.facebook.com\/osha.shuomiao",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1de4ad88-8551-4723-bbc3-b0b69830c6df",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3184713,
+            22.6193482
+        ]
+    }
+}

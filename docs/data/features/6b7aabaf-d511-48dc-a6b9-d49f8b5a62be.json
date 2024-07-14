@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10834088000號",
+        "reg_docno": "八六府教國字第138729號",
+        "reg_date": "1997\/07\/15",
+        "title": "財團法人親親文教基金會附設高雄市私立親親幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]新康街77號",
+        "floor": "1樓至2樓",
+        "size": "2,573.18平方公尺",
+        "size_in": "1,816.02平方公尺",
+        "size_out": "757.16平方公尺",
+        "tel": "(07)7664001",
+        "url": "",
+        "count_approved": "356",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6b7aabaf-d511-48dc-a6b9-d49f8b5a62be",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.344408,
+            22.60851
+        ]
+    }
+}

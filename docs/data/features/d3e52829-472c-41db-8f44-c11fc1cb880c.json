@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080023250號",
+        "reg_docno": "府社福字第0950050457號",
+        "reg_date": "2006\/09\/27",
+        "title": "金門縣私立小狀元幼兒園",
+        "owner": "李晴柔",
+        "city": "金門縣",
+        "town": "金城鎮",
+        "type": "私立",
+        "address": "[893]珠浦西路100巷1號",
+        "floor": "1樓",
+        "size": "113.2平方公尺",
+        "size_in": "96.68平方公尺",
+        "size_out": "11.23平方公尺",
+        "tel": "(082)311938",
+        "url": "",
+        "count_approved": "36",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d3e52829-472c-41db-8f44-c11fc1cb880c",
+        "monthly": 7417
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.316642,
+            24.4389032
+        ]
+    }
+}

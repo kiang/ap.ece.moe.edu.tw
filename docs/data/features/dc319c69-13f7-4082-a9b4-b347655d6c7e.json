@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040042932號",
+        "reg_docno": "中市府社福字第8818號",
+        "reg_date": "1999\/08\/12",
+        "title": "臺中市私立大地幼兒園",
+        "owner": "張淑媚",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]忠勇路160號",
+        "floor": "1樓、2樓",
+        "size": "3,164.14平方公尺",
+        "size_in": "1,482.14平方公尺",
+        "size_out": "1,682平方公尺",
+        "tel": "(04)23873577",
+        "url": "http:\/\/www.dadybaby.com",
+        "count_approved": "330",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：40",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "dc319c69-13f7-4082-a9b4-b347655d6c7e",
+        "monthly": 11592
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.616254,
+            24.152794
+        ]
+    }
+}

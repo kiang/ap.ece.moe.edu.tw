@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120123797號",
+        "reg_docno": "府教幼字第1080208817號",
+        "reg_date": "2019\/08\/26",
+        "title": "桃園市月眉非營利幼兒園(委託社團法人新北市中華國際嬰幼兒發展學會辦理)",
+        "owner": "林芷涵",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "非營利",
+        "address": "[320]月眉路一段50號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4982189",
+        "url": "評鑑情形：",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a3c06ed8-c2c8-4142-b56f-a75b3d2eb68d",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1798875,
+            24.9915264
+        ]
+    }
+}

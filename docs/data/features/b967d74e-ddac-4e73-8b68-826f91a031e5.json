@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第502號",
+        "reg_docno": "北市社五字第8923048100號",
+        "reg_date": "2000\/05\/15",
+        "title": "臺北市私立博如幼兒園",
+        "owner": "王妙涓",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]雙溪街18,20號1樓",
+        "floor": "1樓",
+        "size": "236.68平方公尺",
+        "size_in": "236.68平方公尺",
+        "size_out": "",
+        "tel": "(02)28339854",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b967d74e-ddac-4e73-8b68-826f91a031e5",
+        "monthly": 18523
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.530746,
+            25.100793
+        ]
+    }
+}

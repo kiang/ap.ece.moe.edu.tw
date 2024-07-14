@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第777-2號",
+        "reg_docno": "北市教前字第10830624271號",
+        "reg_date": "2019\/08\/01",
+        "title": "臺北市新安非營利幼兒園（委託社團法人台灣幼兒早期教育協會辦理）",
+        "owner": "劉百純",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "非營利",
+        "address": "[106]臥龍街129號",
+        "floor": "1樓",
+        "size": "989.84平方公尺",
+        "size_in": "617.84平方公尺",
+        "size_out": "372平方公尺",
+        "tel": "(02)27360227",
+        "url": "https:\/\/www.facebook.com\/XANPOKG",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9887b0ca-ec70-4bb4-b563-0367c75a1037",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5503819,
+            25.0189254
+        ]
+    }
+}

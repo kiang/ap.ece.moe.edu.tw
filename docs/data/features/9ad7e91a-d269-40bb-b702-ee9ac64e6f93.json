@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1090236920B號",
+        "reg_docno": "基府社福貳字第0990172248號",
+        "reg_date": "2010\/09\/01",
+        "title": "基隆市私立人愛幼兒園",
+        "owner": "舒逸雲",
+        "city": "基隆市",
+        "town": "仁愛區",
+        "type": "私立",
+        "address": "[200]仁一路261之8號及261之1號2樓之1",
+        "floor": "1樓至2樓",
+        "size": "470.16平方公尺",
+        "size_in": "470.16平方公尺",
+        "size_out": "",
+        "tel": "(02)24286565",
+        "url": "",
+        "count_approved": "87",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9ad7e91a-d269-40bb-b702-ee9ac64e6f93",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.748442,
+            25.128204
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第531-1號",
+        "reg_docno": "北市社五字第8827863500號",
+        "reg_date": "1999\/11\/30",
+        "title": "臺北市私立巨勝幼兒園",
+        "owner": "楊明潭",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]金山南路一段67巷8號1、2樓及8之1號1樓",
+        "floor": "1.2樓",
+        "size": "307.09平方公尺",
+        "size_in": "307.09平方公尺",
+        "size_out": "",
+        "tel": "(02)23936965",
+        "url": "",
+        "count_approved": "68",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "284c11df-63e9-433b-b934-af5fee494a43",
+        "monthly": 22317
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.528711,
+            25.037654
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第130之3號",
+        "reg_docno": "北市社五字第09630327300號",
+        "reg_date": "2007\/01\/29",
+        "title": "臺北市私立龍華幼兒園",
+        "owner": "江秀錦",
+        "city": "臺北市",
+        "town": "南港區",
+        "type": "私立",
+        "address": "[115]玉成街247號1樓至4樓、247-1號1樓",
+        "floor": "1-4",
+        "size": "1,328.06平方公尺",
+        "size_in": "1,328.06平方公尺",
+        "size_out": "",
+        "tel": "(02)27867166",
+        "url": "http:\/\/longhwa.topschool.com.tw\/",
+        "count_approved": "246",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：60",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7344d004-5d7e-487c-9647-d9e409c33c7e",
+        "monthly": 19950
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.585858,
+            25.042952
+        ]
+    }
+}

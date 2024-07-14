@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620蘆洲0060號",
+        "reg_docno": "北府社兒字第0910638836號",
+        "reg_date": "2002\/10\/23",
+        "title": "新北市私立美樂蒂幼兒園",
+        "owner": "邱燕玲",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]中央路103號1、2樓",
+        "floor": "1",
+        "size": "153平方公尺",
+        "size_in": "153平方公尺",
+        "size_out": "",
+        "tel": "(02)82823968",
+        "url": "http:\/\/melodykid.blogspot.com\/",
+        "count_approved": "36",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "02a9b22e-24c1-4697-b811-4e71ca41e32c",
+        "monthly": 9633
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4731181,
+            25.0840359
+        ]
+    }
+}

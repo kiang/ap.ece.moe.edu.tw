@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100073291號",
+        "reg_docno": "府社婦字第0930005035號",
+        "reg_date": "2004\/01\/16",
+        "title": "智邦科技股份有限公司職工福利委員會附設新竹市私立智邦二廠幼兒園",
+        "owner": "莊佳惠",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]科學園區園區二路9號1樓",
+        "floor": "一樓",
+        "size": "428.14平方公尺",
+        "size_in": "279.33平方公尺",
+        "size_out": "148.81平方公尺",
+        "tel": "(03)5770270#3632",
+        "url": "http:\/\/kids.accton.com.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a137d601-94b2-44cd-b6b7-98b9ffb9fd2a",
+        "monthly": 15375
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.998043,
+            24.7802071
+        ]
+    }
+}

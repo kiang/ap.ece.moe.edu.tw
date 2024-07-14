@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120253878號",
+        "reg_docno": "府教幼字第1110207919號",
+        "reg_date": "2022\/08\/01",
+        "title": "桃園市立富岡國民中學附設幼兒園",
+        "owner": "楊沛縈",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "公立",
+        "address": "[326]中正路456號",
+        "floor": "1樓",
+        "size": "236平方公尺",
+        "size_in": "146平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)4721113",
+        "url": "https:\/\/preschool.fkjh.tyc.edu.tw\/index.php",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "70035030-18cc-40a8-bef7-a1c5c2194922",
+        "monthly": 4031
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0741006,
+            24.9421744
+        ]
+    }
+}

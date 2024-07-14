@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680土城0023之2號",
+        "reg_docno": "北府社兒字第0920455838號",
+        "reg_date": "2003\/07\/14",
+        "title": "新北市私立欣和幼兒園",
+        "owner": "林雪子",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]延吉街253巷18弄3號1.2樓",
+        "floor": "2",
+        "size": "201.06平方公尺",
+        "size_in": "144.92平方公尺",
+        "size_out": "",
+        "tel": "(02)22638550",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "65b61543-6d18-4210-844e-32ee9c68b4c7",
+        "monthly": 10500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4677829,
+            24.9841446
+        ]
+    }
+}

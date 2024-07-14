@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0038號",
+        "reg_docno": "八九北府社兒字第89157950號",
+        "reg_date": "2000\/04\/25",
+        "title": "新北市私立愛麗兒幼兒園",
+        "owner": "李敏華",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]福德二路125巷1號1、2樓",
+        "floor": "2",
+        "size": "103.85平方公尺",
+        "size_in": "103.85平方公尺",
+        "size_out": "",
+        "tel": "(02)26936150",
+        "url": "http:\/\/kids.ettoday.com\/index.php?kd=ETY093",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cc5daae7-b65f-4f54-969d-fc684e6b2220",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.631372,
+            25.065133
+        ]
+    }
+}

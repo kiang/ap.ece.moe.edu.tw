@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第10900980823號",
+        "reg_docno": "府社幼字第09118784600號",
+        "reg_date": "1979\/07\/01",
+        "title": "臺中市和平區立幼兒園達觀分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "和平區",
+        "type": "公立",
+        "address": "[424]東崎路一段36號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25911101",
+        "url": "https:\/\/www.heping.taichung.gov.tw",
+        "count_approved": "40",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6bbc2358-741c-4a8f-9717-b990d67c0351",
+        "monthly": 3852
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.919784,
+            24.328048
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10332572500號",
+        "reg_docno": "高市教育三字第19753號",
+        "reg_date": "1983\/08\/12",
+        "title": "高雄市私立感恩幼兒園",
+        "owner": "宋美蓮",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "私立",
+        "address": "[802]家齊路7號",
+        "floor": "1樓至2樓",
+        "size": "353.34平方公尺",
+        "size_in": "321.76平方公尺",
+        "size_out": "31.58平方公尺",
+        "tel": "(07)7229383",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8c06e93c-6481-458b-856c-ba719a3b3bcc",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.32682,
+            22.630727
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1110238642D號",
+        "reg_docno": "基府教國字第002497號",
+        "reg_date": "1997\/01\/10",
+        "title": "基隆市中正區忠孝國民小學附設幼兒園",
+        "owner": "那昇華",
+        "city": "基隆市",
+        "town": "中正區",
+        "type": "公立",
+        "address": "[202]中正路656巷150號",
+        "floor": "1樓",
+        "size": "242平方公尺",
+        "size_in": "130平方公尺",
+        "size_out": "112平方公尺",
+        "tel": "(02)24622934#60",
+        "url": "http:\/\/csps-kl.ushool.com.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d06118a5-8aed-49cb-991c-12f2d6919037",
+        "monthly": 3111
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.767144,
+            25.149023
+        ]
+    }
+}

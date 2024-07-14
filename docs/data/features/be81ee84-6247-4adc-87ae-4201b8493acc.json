@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599蘆洲0071之1號",
+        "reg_docno": "新北府教幼字第1052411681號",
+        "reg_date": "2016\/12\/19",
+        "title": "寶寶潛能開發股份有限公司附設新北市私立奇異鳥蘆洲幼兒園",
+        "owner": "高維偵",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]中正路373號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)82855656",
+        "url": "",
+        "count_approved": "160",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "be81ee84-6247-4adc-87ae-4201b8493acc",
+        "monthly": 23500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4646334,
+            25.0905448
+        ]
+    }
+}

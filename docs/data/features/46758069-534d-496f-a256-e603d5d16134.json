@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11036022800號",
+        "reg_docno": "高市教幼字第10935954700號",
+        "reg_date": "2020\/07\/31",
+        "title": "高雄市後紅非營利幼兒園",
+        "owner": "吳芳洲",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "非營利",
+        "address": "[820]岡燕路2巷88號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6232626",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "30115c8e-4c03-45be-b13e-4faa6f893ae6",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.303439,
+            22.792904
+        ]
+    }
+}

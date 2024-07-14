@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100255301號",
+        "reg_docno": "府教特字第1100255301號",
+        "reg_date": "2021\/12\/30",
+        "title": "花蓮縣豐濱鄉港口部落互助教保服務中心(台灣TAMORAK文教協會辦理)",
+        "owner": "陳冠宇",
+        "city": "花蓮縣",
+        "town": "豐濱鄉",
+        "type": "私立",
+        "address": "[977]大港口43號",
+        "floor": "1樓",
+        "size": "537平方公尺",
+        "size_in": "117平方公尺",
+        "size_out": "420平方公尺",
+        "tel": "(03)8781479",
+        "url": "",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cafd0489-46a7-40b5-8add-5a56c8483e58",
+        "monthly": 3000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4967812,
+            23.4688943
+        ]
+    }
+}

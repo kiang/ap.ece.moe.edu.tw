@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122438520號",
+        "reg_docno": "府教特二字第1092429967號",
+        "reg_date": "2020\/08\/01",
+        "title": "雲林縣斗六市石榴國民小學附設幼兒園",
+        "owner": "郭耀斌",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "公立",
+        "address": "[640]南仁路51號",
+        "floor": "1樓",
+        "size": "6,393平方公尺",
+        "size_in": "189平方公尺",
+        "size_out": "6,204平方公尺",
+        "tel": "(05)5573386",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7c150f93-65eb-4af3-bd2d-391cb681ab58",
+        "monthly": 4035
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5845868,
+            23.7209112
+        ]
+    }
+}

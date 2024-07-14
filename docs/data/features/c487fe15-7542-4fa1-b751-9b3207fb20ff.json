@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010108945號",
+        "reg_docno": "府社婦字第0980108913號",
+        "reg_date": "2009\/10\/02",
+        "title": "新竹市私立育昇幼兒園",
+        "owner": "劉逸竹",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]食品路280號1-2樓",
+        "floor": "1-2",
+        "size": "328.72平方公尺",
+        "size_in": "226.62平方公尺",
+        "size_out": "102.1平方公尺",
+        "tel": "(03)5619675",
+        "url": "http:\/\/www.ysmk.com.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c487fe15-7542-4fa1-b751-9b3207fb20ff",
+        "monthly": 11100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.971361,
+            24.794277
+        ]
+    }
+}

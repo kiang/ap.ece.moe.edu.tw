@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010047142號",
+        "reg_docno": "府社婦字第0970109008號",
+        "reg_date": "2008\/10\/22",
+        "title": "新竹市私立茱蒂園幼兒園",
+        "owner": "曾月卿",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]光華街78巷1號1樓",
+        "floor": "1F",
+        "size": "115.46平方公尺",
+        "size_in": "33.51平方公尺",
+        "size_out": "81.95平方公尺",
+        "tel": "(03)5358847",
+        "url": "",
+        "count_approved": "21",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "662c6274-20a4-45ad-a845-fc992214627c",
+        "monthly": 13200
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.972545,
+            24.81707
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120019209號",
+        "reg_docno": "府社幼字第1000392534號",
+        "reg_date": "1994\/11\/02",
+        "title": "彰化縣田中鎮立幼兒園",
+        "owner": "蕭淑芬",
+        "city": "彰化縣",
+        "town": "田中鎮",
+        "type": "公立",
+        "address": "[520]新聖路1號",
+        "floor": "1樓",
+        "size": "327.44平方公尺",
+        "size_in": "167.84平方公尺",
+        "size_out": "84.73平方公尺",
+        "tel": "(04)8753095",
+        "url": "http:\/\/www.tienchun.gov.tw",
+        "count_approved": "240",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f94156f1-8779-463f-adef-223fd61fa96d",
+        "monthly": 4882
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5989158,
+            23.8546353
+        ]
+    }
+}

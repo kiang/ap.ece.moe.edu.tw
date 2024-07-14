@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070022990號",
+        "reg_docno": "中市教幼字第1070022990號",
+        "reg_date": "2018\/04\/11",
+        "title": "臺中市私立有一加幼兒園",
+        "owner": "蔡昀芝",
+        "city": "臺中市",
+        "town": "梧棲區",
+        "type": "私立",
+        "address": "[435]文昌路101巷16號1至3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26459999",
+        "url": "",
+        "count_approved": "286",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "61851e82-6111-4b57-8465-00fb34ac77e4",
+        "monthly": 11625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5486119,
+            24.241612
+        ]
+    }
+}

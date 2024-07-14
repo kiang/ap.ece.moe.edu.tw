@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080041843號",
+        "reg_docno": "府教幼字第1080041843號",
+        "reg_date": "2019\/02\/23",
+        "title": "桃園市私立綠光幼兒園",
+        "owner": "王瑞玲",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]榮民南路556號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4650799",
+        "url": "",
+        "count_approved": "436",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5d5e7716-5166-4719-848c-ae5cf3e5beb7",
+        "monthly": 13944
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2569636,
+            24.9450342
+        ]
+    }
+}

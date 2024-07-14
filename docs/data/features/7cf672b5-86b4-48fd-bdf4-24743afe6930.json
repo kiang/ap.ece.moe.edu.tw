@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110216279號",
+        "reg_docno": "府教幼字第1110182310號",
+        "reg_date": "2022\/08\/01",
+        "title": "長庚醫療財團法人附設嘉義縣私立長庚幼兒園",
+        "owner": "楊仁宗",
+        "city": "嘉義縣",
+        "town": "朴子市",
+        "type": "私立",
+        "address": "[613]長庚二路8號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3621000#7255",
+        "url": "",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7cf672b5-86b4-48fd-bdf4-24743afe6930",
+        "monthly": 10450
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.286231,
+            23.461521
+        ]
+    }
+}

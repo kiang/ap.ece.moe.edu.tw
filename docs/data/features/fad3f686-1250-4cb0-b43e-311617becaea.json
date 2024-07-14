@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599三重0030之5號",
+        "reg_docno": "七五北府教二字第126496號",
+        "reg_date": "1986\/04\/23",
+        "title": "新北市三重區三光國民小學附設幼兒園",
+        "owner": "陳敏輝",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "公立",
+        "address": "[241]大同南路157號",
+        "floor": "1樓",
+        "size": "2,649.41平方公尺",
+        "size_in": "1,069.53平方公尺",
+        "size_out": "1,529平方公尺",
+        "tel": "(02)29753308#671",
+        "url": "",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fad3f686-1250-4cb0-b43e-311617becaea",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.496747,
+            25.055945
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070087551號",
+        "reg_docno": "中市社婦字第1000096894號",
+        "reg_date": "1981\/06\/30",
+        "title": "臺中市立大里幼兒園樹王分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "公立",
+        "address": "[412]樹王路335號",
+        "floor": "1樓",
+        "size": "233.36平方公尺",
+        "size_in": "142.69平方公尺",
+        "size_out": "90.67平方公尺",
+        "tel": "(04)24067565",
+        "url": "http:\/\/dlkg.tc.edu.tw",
+        "count_approved": "57",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "202faea5-0e9c-4712-b62b-1f5d2b8b2a5e",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.667638,
+            24.1084552
+        ]
+    }
+}

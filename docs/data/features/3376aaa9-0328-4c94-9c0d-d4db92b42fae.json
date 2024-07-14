@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1030065771號",
+        "reg_docno": "府教國字第150377號",
+        "reg_date": "1998\/10\/22",
+        "title": "財團法人華盛頓文教基金會附設臺中市私立市政幼兒園",
+        "owner": "李茂萍",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]惠文五街65號",
+        "floor": "1樓、2樓",
+        "size": "3,985.78平方公尺",
+        "size_in": "3,141.94平方公尺",
+        "size_out": "843.84平方公尺",
+        "tel": "(04)22580638",
+        "url": "www.washington.org.tw",
+        "count_approved": "425",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3376aaa9-0328-4c94-9c0d-d4db92b42fae",
+        "monthly": 11217
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.639753,
+            24.1577109
+        ]
+    }
+}

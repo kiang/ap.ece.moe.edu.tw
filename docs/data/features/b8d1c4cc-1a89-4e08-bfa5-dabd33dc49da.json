@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010210145號",
+        "reg_docno": "75府民社字第39102號",
+        "reg_date": "1997\/04\/01",
+        "title": "花蓮縣私立天使幼兒園",
+        "owner": "劉祝冠",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "私立",
+        "address": "[970]民權八街3號",
+        "floor": "1-2樓",
+        "size": "363.2211平方公尺",
+        "size_in": "279.8211平方公尺",
+        "size_out": "83.4平方公尺",
+        "tel": "(03)8223324",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b8d1c4cc-1a89-4e08-bfa5-dabd33dc49da",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6223238,
+            23.9898304
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080080307號",
+        "reg_docno": "八五府教國字第20200號",
+        "reg_date": "1996\/02\/16",
+        "title": "新竹市私立文筑幼兒園",
+        "owner": "吳珍純",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]北大路166巷36號",
+        "floor": "1-3",
+        "size": "989.69平方公尺",
+        "size_in": "755.39平方公尺",
+        "size_out": "234.3平方公尺",
+        "tel": "(03)5333246",
+        "url": "https:\/\/www.facebook.com\/wenjwu",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "59575117-4e52-4b4f-a677-3c342cbfbda7",
+        "monthly": 5700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.966819,
+            24.811156
+        ]
+    }
+}

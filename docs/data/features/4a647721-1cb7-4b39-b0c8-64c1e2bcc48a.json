@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110332413號",
+        "reg_docno": "彰府教國字第145652號",
+        "reg_date": "1993\/07\/10",
+        "title": "彰化縣和美鎮培英國民小學附設幼兒園",
+        "owner": "蕭健治",
+        "city": "彰化縣",
+        "town": "和美鎮",
+        "type": "公立",
+        "address": "[508]彰新路五段310號",
+        "floor": "1樓、2樓",
+        "size": "760.875平方公尺",
+        "size_in": "438.25平方公尺",
+        "size_out": "322.625平方公尺",
+        "tel": "(04)7579493",
+        "url": "https:\/\/www.pyps.chc.edu.tw\/index.php",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4a647721-1cb7-4b39-b0c8-64c1e2bcc48a",
+        "monthly": 3647
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.510876,
+            24.1344829
+        ]
+    }
+}

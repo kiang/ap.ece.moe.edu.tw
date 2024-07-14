@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040034256號",
+        "reg_docno": "桃府社福字第264888號",
+        "reg_date": "1995\/12\/20",
+        "title": "桃園市私立大方幼兒園",
+        "owner": "溫兆民",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]龍安路133巷25號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4506688",
+        "url": "http:\/\/dafang.topschool.com.tw",
+        "count_approved": "87",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "76ef2ec5-b1e8-4ac0-b2fc-358952cf5329",
+        "monthly": 7958
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.25081,
+            24.9212849
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1130818547號",
+        "reg_docno": "南市教國字第28710號",
+        "reg_date": "1996\/08\/17",
+        "title": "臺南市私立耶魯幼兒園",
+        "owner": "陳麗娟",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]中華東路二段185巷14號",
+        "floor": "1樓、2樓",
+        "size": "1,280平方公尺",
+        "size_in": "585.47平方公尺",
+        "size_out": "694.53平方公尺",
+        "tel": "(06)2699630",
+        "url": "spc.tn.edu.tw\/k026\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "00089c75-4393-42f9-ac95-a3e922878004",
+        "monthly": 11674
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.233296,
+            22.9847599
+        ]
+    }
+}

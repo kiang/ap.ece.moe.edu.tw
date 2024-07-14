@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680石門0003之4號",
+        "reg_docno": "北教幼字第0970938494號",
+        "reg_date": "1985\/12\/27",
+        "title": "新北市立老梅實驗小學附設幼兒園",
+        "owner": "涂志賢",
+        "city": "新北市",
+        "town": "石門區",
+        "type": "公立",
+        "address": "[253]老梅路10號",
+        "floor": "1樓",
+        "size": "620平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "500平方公尺",
+        "tel": "(02)26381258#28",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9a9fb5a5-451f-42ea-ba87-4aebad5d5aaa",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.545145,
+            25.289164
+        ]
+    }
+}

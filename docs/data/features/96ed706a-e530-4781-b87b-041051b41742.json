@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101058403D號",
+        "reg_docno": "南市教國字第20516號",
+        "reg_date": "1999\/06\/24",
+        "title": "臺南市東區復興國民小學附設幼兒園",
+        "owner": "陳茂盛",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "公立",
+        "address": "[701]裕文路60號",
+        "floor": "1樓",
+        "size": "1,158平方公尺",
+        "size_in": "418平方公尺",
+        "size_out": "740平方公尺",
+        "tel": "(06)3319168",
+        "url": "http:\/\/www.fhes.tn.edu.tw\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "96ed706a-e530-4781-b87b-041051b41742",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.239234,
+            22.982543
+        ]
+    }
+}

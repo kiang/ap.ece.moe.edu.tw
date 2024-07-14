@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1092430250號",
+        "reg_docno": "府教特二字第1092430250號",
+        "reg_date": "2020\/08\/01",
+        "title": "雲林縣大埤鄉大埤國民小學附設幼兒園",
+        "owner": "王昇泰",
+        "city": "雲林縣",
+        "town": "大埤鄉",
+        "type": "公立",
+        "address": "[631]中正路23號",
+        "floor": "2樓",
+        "size": "6,766.26平方公尺",
+        "size_in": "266.26平方公尺",
+        "size_out": "6,500平方公尺",
+        "tel": "(05)6341132#551",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1df2511e-4b4d-4f4e-9730-a75528f1e430",
+        "monthly": 3913
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.430532,
+            23.6448261
+        ]
+    }
+}

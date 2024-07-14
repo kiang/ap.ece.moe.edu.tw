@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138395900號",
+        "reg_docno": "府社福字第106783號",
+        "reg_date": "1980\/11\/13",
+        "title": "高雄市私立伶益幼兒園",
+        "owner": "王金樹",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]崗山北街50號",
+        "floor": "1",
+        "size": "1,062.2平方公尺",
+        "size_in": "272.5平方公尺",
+        "size_out": "789.7平方公尺",
+        "tel": "(07)7716329",
+        "url": "",
+        "count_approved": "84",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "00e9c7c3-e515-4857-ad7b-e8a991925738",
+        "monthly": 4300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.336938,
+            22.610159
+        ]
+    }
+}

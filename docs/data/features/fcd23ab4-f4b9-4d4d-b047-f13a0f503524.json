@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11331744500號",
+        "reg_docno": "高市教育三字第34830號",
+        "reg_date": "1991\/11\/09",
+        "title": "高雄市私立高雄榮民總醫院榮華幼兒園",
+        "owner": "陳金順",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]榮總路8巷90號",
+        "floor": "1樓",
+        "size": "1,132.2平方公尺",
+        "size_in": "772.2平方公尺",
+        "size_out": "360平方公尺",
+        "tel": "(07)3422121#75301",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fcd23ab4-f4b9-4d4d-b047-f13a0f503524",
+        "monthly": 7223
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.323614,
+            22.684199
+        ]
+    }
+}

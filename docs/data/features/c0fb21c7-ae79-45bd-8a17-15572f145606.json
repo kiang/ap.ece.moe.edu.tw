@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11235359200號",
+        "reg_docno": "高市教幼字第11235359200號",
+        "reg_date": "2023\/07\/26",
+        "title": "國防部空軍司令部岡山員工子女非營利幼兒園(委託社團法人台灣公共托育協會辦理）",
+        "owner": "呂佳旻",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "非營利",
+        "address": "[820]介壽西路198號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6258299",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c0fb21c7-ae79-45bd-8a17-15572f145606",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2787359,
+            22.7868144
+        ]
+    }
+}

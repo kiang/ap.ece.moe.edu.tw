@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620樹林0043號",
+        "reg_docno": "八九北府社兒字第89124385號",
+        "reg_date": "2000\/04\/07",
+        "title": "新北市私立雅立福幼兒園",
+        "owner": "徐俞錚",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "私立",
+        "address": "[238]三福街85巷2-1號,2-2號1樓",
+        "floor": "1",
+        "size": "209.56平方公尺",
+        "size_in": "102.67平方公尺",
+        "size_out": "106.89平方公尺",
+        "tel": "(02)26885123",
+        "url": "",
+        "count_approved": "57",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8163bf08-3dd1-4788-b10c-f2427daa8860",
+        "monthly": 8418
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.407238,
+            25.016275
+        ]
+    }
+}

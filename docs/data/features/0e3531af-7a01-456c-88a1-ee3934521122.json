@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10835618800號",
+        "reg_docno": "87府教學字第230595號",
+        "reg_date": "1998\/11\/23",
+        "title": "高雄市立巴楠花部落國民中小學附設幼兒園",
+        "owner": "張新榮",
+        "city": "高雄市",
+        "town": "杉林區",
+        "type": "公立",
+        "address": "[846]和氣街15號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6776031#601",
+        "url": "http:\/\/www.mzu.ks.edu.tw\/index1.htm",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0e3531af-7a01-456c-88a1-ee3934521122",
+        "monthly": 3259
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.539197,
+            22.964493
+        ]
+    }
+}

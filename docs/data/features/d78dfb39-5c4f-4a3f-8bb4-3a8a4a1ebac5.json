@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第10號",
+        "reg_docno": "北市社五字第09130085000號",
+        "reg_date": "2002\/02\/01",
+        "title": "臺北市私立傑生幼兒園",
+        "owner": "楊曙萍",
+        "city": "臺北市",
+        "town": "信義區",
+        "type": "私立",
+        "address": "[110]忠孝東路五段295巷6弄21.23.25號1樓",
+        "floor": "1樓",
+        "size": "180.9平方公尺",
+        "size_in": "180.9平方公尺",
+        "size_out": "",
+        "tel": "(02)27480759",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d78dfb39-5c4f-4a3f-8bb4-3a8a4a1ebac5",
+        "monthly": 18000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.572554,
+            25.0418769
+        ]
+    }
+}

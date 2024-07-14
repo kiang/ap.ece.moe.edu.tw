@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120204118號",
+        "reg_docno": "府教學字第09501587860號",
+        "reg_date": "2006\/08\/21",
+        "title": "南投縣草屯鎮虎山國民小學附設幼兒園",
+        "owner": "葉兆祺",
+        "city": "南投縣",
+        "town": "草屯鎮",
+        "type": "公立",
+        "address": "[542]新生路76號",
+        "floor": "1樓",
+        "size": "928平方公尺",
+        "size_in": "131平方公尺",
+        "size_out": "500平方公尺",
+        "tel": "(049)2337997#13",
+        "url": "http:\/\/163.22.121.129\/index.html",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "895db999-07af-4243-8619-76783639b9a6",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.684214,
+            23.963173
+        ]
+    }
+}

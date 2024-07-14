@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1040181003號",
+        "reg_docno": "府教特字第09400923330號",
+        "reg_date": "2005\/07\/01",
+        "title": "花蓮縣卓溪鄉立山國民小學附設幼兒園",
+        "owner": "川夏蓮",
+        "city": "花蓮縣",
+        "town": "卓溪鄉",
+        "type": "公立",
+        "address": "[982]90號",
+        "floor": "1",
+        "size": "156.06平方公尺",
+        "size_in": "66.06平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)8842392",
+        "url": "http:\/\/210.240.64.8\/",
+        "count_approved": "30",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b2f24c12-c300-474e-ad2b-94521ddbf8fa",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.304153,
+            23.345932
+        ]
+    }
+}

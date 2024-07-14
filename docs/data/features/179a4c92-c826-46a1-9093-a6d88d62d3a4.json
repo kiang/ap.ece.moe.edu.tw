@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110069753號",
+        "reg_docno": "93府教社字第0930118496號",
+        "reg_date": "2004\/05\/03",
+        "title": "臺中市和平區德芙蘭國民小學附設幼兒園",
+        "owner": "古金益",
+        "city": "臺中市",
+        "town": "和平區",
+        "type": "公立",
+        "address": "[424]東關路一段松鶴三巷10號",
+        "floor": "1樓",
+        "size": "490平方公尺",
+        "size_in": "295平方公尺",
+        "size_out": "195平方公尺",
+        "tel": "(04)25943446#101",
+        "url": "https:\/\/baes.tc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "179a4c92-c826-46a1-9093-a6d88d62d3a4",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.979723,
+            24.177121
+        ]
+    }
+}

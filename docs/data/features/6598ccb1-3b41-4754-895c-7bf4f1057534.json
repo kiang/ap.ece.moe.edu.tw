@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第671號",
+        "reg_docno": "北市社婦幼字第09940318500號",
+        "reg_date": "2010\/08\/18",
+        "title": "臺北市私立蒙特梭利花園幼兒園",
+        "owner": "李靜宜",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]明水路397巷7弄2號及2之1號1樓",
+        "floor": "1樓",
+        "size": "185.68平方公尺",
+        "size_in": "185.68平方公尺",
+        "size_out": "",
+        "tel": "(02)25329338",
+        "url": "http:\/\/montessorigarden.blog132.fc2.com\/",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "6598ccb1-3b41-4754-895c-7bf4f1057534",
+        "monthly": 13667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5479,
+            25.07795
+        ]
+    }
+}

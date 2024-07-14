@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120020996號",
+        "reg_docno": "中市教幼字第1120020996號",
+        "reg_date": "2023\/03\/29",
+        "title": "四季仁美教育事業股份有限公司附設臺中市私立仁美四季藝術幼兒園",
+        "owner": "唐富美",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]崇德十九路19號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22410550",
+        "url": "",
+        "count_approved": "753",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "51c8c497-992b-435d-8db3-83d07d23edbe",
+        "monthly": 32833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6925256,
+            24.1975657
+        ]
+    }
+}

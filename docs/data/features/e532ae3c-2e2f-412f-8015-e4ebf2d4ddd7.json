@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090107514號",
+        "reg_docno": "89府教國字第27768號",
+        "reg_date": "2000\/01\/25",
+        "title": "臺中市私立大里好兒美幼兒園",
+        "owner": "黃貴美",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "私立",
+        "address": "[412]東明路520號",
+        "floor": "1-3樓",
+        "size": "1,718.67平方公尺",
+        "size_in": "1,270.52平方公尺",
+        "size_out": "448.15平方公尺",
+        "tel": "(04)24071133",
+        "url": "htpp\/www.hemkids.com",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e532ae3c-2e2f-412f-8015-e4ebf2d4ddd7",
+        "monthly": 11658
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.678039,
+            24.112169
+        ]
+    }
+}

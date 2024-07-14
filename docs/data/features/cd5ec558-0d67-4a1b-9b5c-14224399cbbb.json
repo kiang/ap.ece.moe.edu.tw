@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138309600號",
+        "reg_docno": "府社福字第0960055993號",
+        "reg_date": "2007\/03\/07",
+        "title": "高雄市私立康乃爾藝術幼兒園",
+        "owner": "陳玥如",
+        "city": "高雄市",
+        "town": "路竹區",
+        "type": "私立",
+        "address": "[821]環球路209巷98號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6975158#12",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cd5ec558-0d67-4a1b-9b5c-14224399cbbb",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.271052,
+            22.8781
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1021038034號",
+        "reg_docno": "府教國字第145772號",
+        "reg_date": "1986\/12\/11",
+        "title": "臺南市私立立人幼兒園",
+        "owner": "楊鳳明",
+        "city": "臺南市",
+        "town": "佳里區",
+        "type": "私立",
+        "address": "[722]76-2號",
+        "floor": "1樓至2樓",
+        "size": "1,555.5平方公尺",
+        "size_in": "787.49平方公尺",
+        "size_out": "768.01平方公尺",
+        "tel": "(06)7230575",
+        "url": "",
+        "count_approved": "127",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4eb7918e-06c5-4e3b-835b-de4345932150",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.172289,
+            23.167273
+        ]
+    }
+}

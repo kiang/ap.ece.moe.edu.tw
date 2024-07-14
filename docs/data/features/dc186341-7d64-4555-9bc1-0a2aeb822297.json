@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市教前字第11330103301號",
+        "reg_docno": "北市社五字第09332735700號",
+        "reg_date": "2004\/04\/27",
+        "title": "法務部附設臺北市私立員工子女幼兒園",
+        "owner": "鄭銘謙",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]重慶南路1段136巷2號1樓",
+        "floor": "1F",
+        "size": "730.9平方公尺",
+        "size_in": "289.28平方公尺",
+        "size_out": "441.62平方公尺",
+        "tel": "(02)23713445",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dc186341-7d64-4555-9bc1-0a2aeb822297",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.51249,
+            25.0362398
+        ]
+    }
+}

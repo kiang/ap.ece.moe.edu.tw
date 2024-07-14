@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010026472號",
+        "reg_docno": "74府教國字第74612號",
+        "reg_date": "1985\/04\/26",
+        "title": "臺中市私立立人幼兒園",
+        "owner": "林國瑄",
+        "city": "臺中市",
+        "town": "神岡區",
+        "type": "私立",
+        "address": "[429]社口街460號",
+        "floor": "1樓至2樓",
+        "size": "991.5平方公尺",
+        "size_in": "702平方公尺",
+        "size_out": "289.5平方公尺",
+        "tel": "(04)25620490",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ddd67221-36f6-4b3b-9eaf-2b10d8c11ead",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6795956,
+            24.2521624
+        ]
+    }
+}

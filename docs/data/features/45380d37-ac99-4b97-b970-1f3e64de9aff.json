@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129550206號",
+        "reg_docno": "府授教幼字第1129550206號",
+        "reg_date": "2023\/02\/07",
+        "title": "新竹縣私立宜德幼兒園",
+        "owner": "黃樹榮",
+        "city": "新竹縣",
+        "town": "新豐鄉",
+        "type": "私立",
+        "address": "[304]福德街35巷15號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5577799",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "45380d37-ac99-4b97-b970-1f3e64de9aff",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9962298,
+            24.8721643
+        ]
+    }
+}

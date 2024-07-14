@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1121505786號",
+        "reg_docno": "府特教字第1121505786號",
+        "reg_date": "2023\/03\/29",
+        "title": "嘉義市政府警察局職場互助教保服務中心(委託社團法人中華宏觀專業幼童教保福利學會辦理)",
+        "owner": "蕭芳華",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]北港路280號",
+        "floor": "2樓",
+        "size": "167.53平方公尺",
+        "size_in": "167.53平方公尺",
+        "size_out": "",
+        "tel": "(05)2320020",
+        "url": "評鑑情形：",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3bc909c1-641b-41b0-882c-00e87c079062",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4316896,
+            23.4794884
+        ]
+    }
+}

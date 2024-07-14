@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120306004號",
+        "reg_docno": "府教幼字第1120306004號",
+        "reg_date": "2023\/11\/03",
+        "title": "桃園市三聖非營利幼兒園(委託社團法人臺灣三之三生命教育學會辦理)",
+        "owner": "葛惠",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "非營利",
+        "address": "[330]成功路三段10號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3360510",
+        "url": "桃園市成功路三段10號",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7c563d99-0aff-47d8-a2d5-38242fad4bea",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.325632,
+            24.997396
+        ]
+    }
+}

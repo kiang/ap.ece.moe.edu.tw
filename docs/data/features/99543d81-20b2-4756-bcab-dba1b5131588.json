@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新莊0132號",
+        "reg_docno": "新北府教幼字第1101729153號",
+        "reg_date": "2021\/10\/19",
+        "title": "新北市私立育勝幼兒園",
+        "owner": "楊明潭",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]富貴路90號1、2、3樓及96號1樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,605.06平方公尺",
+        "size_in": "1,291.86平方公尺",
+        "size_out": "313.2平方公尺",
+        "tel": "(02)85217126",
+        "url": "新北市新莊區富貴路90號",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "99543d81-20b2-4756-bcab-dba1b5131588",
+        "monthly": 19615
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4567335,
+            25.0577721
+        ]
+    }
+}

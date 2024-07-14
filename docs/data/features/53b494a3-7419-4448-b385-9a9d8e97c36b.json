@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070258417號",
+        "reg_docno": "86府教國字第034678號",
+        "reg_date": "1997\/02\/24",
+        "title": "桃園市復興區奎輝國民小學附設幼兒園",
+        "owner": "石維堅",
+        "city": "桃園市",
+        "town": "復興區",
+        "type": "公立",
+        "address": "[336]羅馬路三段356號",
+        "floor": "1",
+        "size": "399平方公尺",
+        "size_in": "99平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(03)3822177#810",
+        "url": "",
+        "count_approved": "61",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "53b494a3-7419-4448-b385-9a9d8e97c36b",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.334065,
+            24.797324
+        ]
+    }
+}

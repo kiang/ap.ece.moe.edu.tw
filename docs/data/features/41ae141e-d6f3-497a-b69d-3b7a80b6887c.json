@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120071035號",
+        "reg_docno": "中市府社婦字第9104號",
+        "reg_date": "2002\/01\/18",
+        "title": "臺中市私立小熊森林幼兒園",
+        "owner": "戴智梅",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]上安路53號1-2樓",
+        "floor": "1-2樓",
+        "size": "481.56平方公尺",
+        "size_in": "344.56平方公尺",
+        "size_out": "137平方公尺",
+        "tel": "(04)27018986",
+        "url": "http:\/\/firefox1009.myweb.hinet.net\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "41ae141e-d6f3-497a-b69d-3b7a80b6887c",
+        "monthly": 9515
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.640692,
+            24.170526
+        ]
+    }
+}

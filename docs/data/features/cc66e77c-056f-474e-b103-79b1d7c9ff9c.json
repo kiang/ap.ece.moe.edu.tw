@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110214457號",
+        "reg_docno": "府教幼字第1030184801號",
+        "reg_date": "2014\/08\/01",
+        "title": "桃園市平鎮區復旦國民小學附設幼兒園",
+        "owner": "魏瑞汶",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "公立",
+        "address": "[324]廣平街1號",
+        "floor": "1樓",
+        "size": "1,279.3平方公尺",
+        "size_in": "781.3平方公尺",
+        "size_out": "498平方公尺",
+        "tel": "(03)4917491#220",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100072125198654",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cc66e77c-056f-474e-b103-79b1d7c9ff9c",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2077783,
+            24.9547012
+        ]
+    }
+}

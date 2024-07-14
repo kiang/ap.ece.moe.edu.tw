@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新店0046之1號",
+        "reg_docno": "北府社兒字第0910457553號",
+        "reg_date": "2002\/07\/22",
+        "title": "新北市私立炫媽咪幼兒園",
+        "owner": "張明道",
+        "city": "新北市",
+        "town": "新店區",
+        "type": "私立",
+        "address": "[231]中興路一段203號1、2樓",
+        "floor": "1.2樓",
+        "size": "387.11平方公尺",
+        "size_in": "387.11平方公尺",
+        "size_out": "",
+        "tel": "(02)89112955",
+        "url": "",
+        "count_approved": "85",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d8fbb391-8185-4d0c-98ad-407f3012abb6",
+        "monthly": 15391
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5434051,
+            24.9652877
+        ]
+    }
+}

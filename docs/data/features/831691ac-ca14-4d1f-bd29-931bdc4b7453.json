@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第814號",
+        "reg_docno": "北市教前字第11230306081號",
+        "reg_date": "2023\/08\/01",
+        "title": "臺北市興岩非營利幼兒園（委託社團法人台北市兒童托育協會辦理）",
+        "owner": "傅吉田",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "非營利",
+        "address": "[116]興隆路二段88之5號1樓(興岩社會福利綜合大樓內)",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)8931-0180",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "831691ac-ca14-4d1f-bd29-931bdc4b7453",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5492877,
+            25.000512
+        ]
+    }
+}

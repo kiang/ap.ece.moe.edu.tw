@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1112424883C號",
+        "reg_docno": "府教特一字第1112424883C號",
+        "reg_date": "2022\/05\/18",
+        "title": "雲林縣大埤鄉舊庄國民小學附設幼兒園",
+        "owner": "許學政",
+        "city": "雲林縣",
+        "town": "大埤鄉",
+        "type": "公立",
+        "address": "[631]怡然路92號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5912094#27",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7eb50a45-97b3-4ed3-b192-9cadb9b874a2",
+        "monthly": 4013
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4016465,
+            23.6332344
+        ]
+    }
+}

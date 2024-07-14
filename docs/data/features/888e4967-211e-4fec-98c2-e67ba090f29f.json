@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120029560號",
+        "reg_docno": "中市教幼字第1120029560號",
+        "reg_date": "2023\/05\/04",
+        "title": "臺中市私立威之森幼兒園",
+        "owner": "張澤漳",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]西苑三街39號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,485.02平方公尺",
+        "size_in": "902.8平方公尺",
+        "size_out": "582.22平方公尺",
+        "tel": "(04)24520496",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "888e4967-211e-4fec-98c2-e67ba090f29f",
+        "monthly": 22217
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6406655,
+            24.1865328
+        ]
+    }
+}

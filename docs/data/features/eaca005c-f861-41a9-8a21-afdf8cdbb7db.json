@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120048284號",
+        "reg_docno": "府社婦字第1000222728號",
+        "reg_date": "1996\/08\/27",
+        "title": "花蓮縣鳳林鎮立幼兒園",
+        "owner": "林建平",
+        "city": "花蓮縣",
+        "town": "鳳林鎮",
+        "type": "公立",
+        "address": "[975]公正街8號",
+        "floor": "3樓",
+        "size": "1,352.32平方公尺",
+        "size_in": "717.26平方公尺",
+        "size_out": "635.06平方公尺",
+        "tel": "(03)8763192",
+        "url": "http:\/\/www.fonglin.gov.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "eaca005c-f861-41a9-8a21-afdf8cdbb7db",
+        "monthly": 2535
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4518293,
+            23.7453762
+        ]
+    }
+}

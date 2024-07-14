@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110023781號",
+        "reg_docno": "85府社福字第140461號",
+        "reg_date": "1996\/12\/02",
+        "title": "嘉義縣朴子市立朴子幼兒園松梅分班",
+        "owner": "",
+        "city": "嘉義縣",
+        "town": "朴子市",
+        "type": "公立",
+        "address": "[613]345號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3694085",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f3240fb7-e9b3-414c-9d68-9e4446f10d8e",
+        "monthly": 3244
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2915314,
+            23.4593742
+        ]
+    }
+}

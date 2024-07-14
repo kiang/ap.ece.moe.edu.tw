@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120175626號",
+        "reg_docno": "府教國字第65749號",
+        "reg_date": "1985\/08\/07",
+        "title": "花蓮縣光復鄉光復國民小學附設幼兒園",
+        "owner": "黃彤芳",
+        "city": "花蓮縣",
+        "town": "光復鄉",
+        "type": "公立",
+        "address": "[976]中山路3段75號",
+        "floor": "1樓",
+        "size": "584.1平方公尺",
+        "size_in": "449.1平方公尺",
+        "size_out": "135平方公尺",
+        "tel": "(03)8704220",
+        "url": "花蓮縣光復鄉中山路3段75號",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "559b8101-1e78-4438-99b7-57a3ac4a3c70",
+        "monthly": 2856
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.427597,
+            23.673717
+        ]
+    }
+}

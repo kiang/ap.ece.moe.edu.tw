@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110127824號",
+        "reg_docno": "府社婦字第0940070802號",
+        "reg_date": "2005\/07\/29",
+        "title": "新竹市私立啓賦幼兒園",
+        "owner": "陳淑玲",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]鐵道路二段101巷1號",
+        "floor": "1到3層",
+        "size": "606.07平方公尺",
+        "size_in": "455.11平方公尺",
+        "size_out": "150.96平方公尺",
+        "tel": "(03)5430666",
+        "url": "https:\/\/hscmons.wordpress.com\/",
+        "count_approved": "169",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：16",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1aa97d4e-1d6e-44f9-9cbf-5e44f5b77b7c",
+        "monthly": 7500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9723,
+            24.82165
+        ]
+    }
+}

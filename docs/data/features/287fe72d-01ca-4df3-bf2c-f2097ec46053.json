@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110092346號",
+        "reg_docno": "中市府社婦字第9007號",
+        "reg_date": "2001\/07\/05",
+        "title": "臺中市私立寶貝袋鼠幼兒園",
+        "owner": "張麗月",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]育強街112號1樓",
+        "floor": "1樓",
+        "size": "143.35平方公尺",
+        "size_in": "143.35平方公尺",
+        "size_out": "",
+        "tel": "(04)22373363",
+        "url": "",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "287fe72d-01ca-4df3-bf2c-f2097ec46053",
+        "monthly": 10517
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6933579,
+            24.1613733
+        ]
+    }
+}

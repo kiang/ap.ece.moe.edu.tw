@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010227553號",
+        "reg_docno": "府社幼字第09101136470號",
+        "reg_date": "2002\/06\/20",
+        "title": "彰化縣私立杜威幼兒園",
+        "owner": "宋櫻美",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "私立",
+        "address": "[510]至平街11號",
+        "floor": "1樓",
+        "size": "841.13平方公尺",
+        "size_in": "286.74平方公尺",
+        "size_out": "345.47平方公尺",
+        "tel": "(04)8385656",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "42b0e092-066c-4c21-83ac-3e3b25bdd842",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5646942,
+            23.9605457
+        ]
+    }
+}

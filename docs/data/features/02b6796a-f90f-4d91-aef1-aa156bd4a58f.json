@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090194975號",
+        "reg_docno": "府教幼字第1060063682號",
+        "reg_date": "2017\/03\/24",
+        "title": "桃園市私立育欣幼兒園",
+        "owner": "葉運福",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]建國路594號",
+        "floor": "1樓",
+        "size": "2,259.5平方公尺",
+        "size_in": "700.58平方公尺",
+        "size_out": "1,558.92平方公尺",
+        "tel": "(03)3663628",
+        "url": "",
+        "count_approved": "196",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "02b6796a-f90f-4d91-aef1-aa156bd4a58f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2885757,
+            24.945367
+        ]
+    }
+}

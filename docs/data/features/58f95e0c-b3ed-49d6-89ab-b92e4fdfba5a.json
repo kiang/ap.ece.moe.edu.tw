@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100208283號",
+        "reg_docno": "86府教國字第246911號",
+        "reg_date": "1997\/12\/29",
+        "title": "桃園市楊梅區大同國民小學附設幼兒園",
+        "owner": "梁寶丹",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "公立",
+        "address": "[326]新農街85號",
+        "floor": "1樓",
+        "size": "1,028.28平方公尺",
+        "size_in": "507平方公尺",
+        "size_out": "521.28平方公尺",
+        "tel": "(03)4782249#257",
+        "url": "http:\/\/www.ttps.tyc.edu.tw\/",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "58f95e0c-b3ed-49d6-89ab-b92e4fdfba5a",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.149827,
+            24.9096365
+        ]
+    }
+}

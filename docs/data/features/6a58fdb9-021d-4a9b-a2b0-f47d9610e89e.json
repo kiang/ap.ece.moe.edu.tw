@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100155533號",
+        "reg_docno": "89府教特字第257174號",
+        "reg_date": "2000\/12\/29",
+        "title": "桃園市私立康橋幼兒園",
+        "owner": "李堃弘",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "私立",
+        "address": "[338]五福路35號",
+        "floor": "1樓",
+        "size": "3,275.33平方公尺",
+        "size_in": "1,381.49平方公尺",
+        "size_out": "735.96平方公尺",
+        "tel": "(03)3213999",
+        "url": "",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "6a58fdb9-021d-4a9b-a2b0-f47d9610e89e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2947167,
+            25.0528976
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第381號",
+        "reg_docno": "北市社五字第09538977300號",
+        "reg_date": "2006\/09\/19",
+        "title": "臺北市私立捷森幼兒園",
+        "owner": "張惠文",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]天玉街15號1~4樓",
+        "floor": "1~4",
+        "size": "1,100.68平方公尺",
+        "size_in": "1,100.68平方公尺",
+        "size_out": "",
+        "tel": "(02)28741177",
+        "url": "www.jacksonkids.com.tw",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：70",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c9230a61-500c-4933-8367-1677143306f0",
+        "monthly": 28140
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.527467,
+            25.120488
+        ]
+    }
+}

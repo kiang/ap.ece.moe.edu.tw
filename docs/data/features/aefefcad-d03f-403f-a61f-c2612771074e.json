@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第26號",
+        "reg_docno": "北市教前字字第11130161451號",
+        "reg_date": "2022\/10\/25",
+        "title": "內政部警政署保安警察第一總隊職場互助教保服務中心（委託社團法人臺北市教保托育協會辦理）",
+        "owner": "吳宇涵",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]立農街二段301號2樓",
+        "floor": "2樓",
+        "size": "458.28平方公尺",
+        "size_in": "276.5平方公尺",
+        "size_out": "",
+        "tel": "(02)28216526",
+        "url": "tcaedu02@gmail.com",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "aefefcad-d03f-403f-a61f-c2612771074e",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5170686,
+            25.1189315
+        ]
+    }
+}

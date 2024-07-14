@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教特字第11231909400號",
+        "reg_docno": "高市教特字第11231909400號",
+        "reg_date": "2023\/08\/01",
+        "title": "高雄市立成功特殊教育學校幼兒部",
+        "owner": "楊怡雯",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "公立",
+        "address": "[806]復興三路3號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3304624",
+        "url": "",
+        "count_approved": "0",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3d7b6693-8a11-45c2-a726-34e3bc315fee",
+        "monthly": 1714
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3020607,
+            22.6060359
+        ]
+    }
+}

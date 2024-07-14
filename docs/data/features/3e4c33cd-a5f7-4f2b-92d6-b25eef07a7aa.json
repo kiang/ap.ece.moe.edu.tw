@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1090578194號",
+        "reg_docno": "南市社兒字第09513559600號",
+        "reg_date": "2006\/07\/12",
+        "title": "臺南市私立康橋幼兒園",
+        "owner": "張家富",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]海佃路二段631號(1樓)、637號(1-3樓)、海環街715巷58號(1樓)",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,736.54平方公尺",
+        "size_in": "1,044.82平方公尺",
+        "size_out": "691.72平方公尺",
+        "tel": "(06)2467861",
+        "url": "https:\/\/www.cambridgekids.com.tw",
+        "count_approved": "285",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3e4c33cd-a5f7-4f2b-92d6-b25eef07a7aa",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.185348,
+            23.045083
+        ]
+    }
+}

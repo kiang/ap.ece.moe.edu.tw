@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070304754號",
+        "reg_docno": "府教幼字第1030161543號",
+        "reg_date": "2014\/08\/19",
+        "title": "桃園市私立希望城堡幼兒園",
+        "owner": "張鳯宜",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]樹仁二街129號",
+        "floor": "1-3樓",
+        "size": "3,716.13平方公尺",
+        "size_in": "2,704.46平方公尺",
+        "size_out": "996平方公尺",
+        "tel": "(03)3750358",
+        "url": "桃園市樹仁二街129號",
+        "count_approved": "630",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4295b7b9-43ce-4524-8778-ba04cf0e45b6",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3185544,
+            24.9781845
+        ]
+    }
+}

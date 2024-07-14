@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110188538號",
+        "reg_docno": "府教學前字字第1080119179號",
+        "reg_date": "2019\/08\/01",
+        "title": "苗栗縣通霄非營利幼兒園(委託財團法人仁德醫護管理專科學校辦理)",
+        "owner": "鍾佳穎",
+        "city": "苗栗縣",
+        "town": "通霄鎮",
+        "type": "非營利",
+        "address": "[357]中正路12號",
+        "floor": "1樓",
+        "size": "9,845.57平方公尺",
+        "size_in": "263.57平方公尺",
+        "size_out": "9,582平方公尺",
+        "tel": "(037)760717",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fd45ce51-b326-4323-b67f-ce0e35d9193a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6826479,
+            24.4907905
+        ]
+    }
+}

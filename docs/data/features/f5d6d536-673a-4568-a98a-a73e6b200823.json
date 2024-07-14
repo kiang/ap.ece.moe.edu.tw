@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130047953號",
+        "reg_docno": "中市社婦字第1000097340號",
+        "reg_date": "1969\/08\/01",
+        "title": "臺中市立龍井幼兒園竹坑分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "龍井區",
+        "type": "公立",
+        "address": "[434]竹師路一段164巷2號",
+        "floor": "1樓",
+        "size": "247.62平方公尺",
+        "size_in": "139.25平方公尺",
+        "size_out": "108.37平方公尺",
+        "tel": "(04)26364187",
+        "url": "http:longjing-nursery.taichung.gov.tw",
+        "count_approved": "42",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f5d6d536-673a-4568-a98a-a73e6b200823",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.547593,
+            24.183319
+        ]
+    }
+}

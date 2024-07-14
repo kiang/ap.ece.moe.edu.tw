@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0030號",
+        "reg_docno": "北府社兒字第0970119171號",
+        "reg_date": "2008\/02\/22",
+        "title": "新北市私立何嘉仁昌隆幼兒園",
+        "owner": "黃俊賢",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]昌隆街67號2樓、69號2樓、75號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)89925599",
+        "url": "",
+        "count_approved": "135",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "6b6152ad-99b3-49c5-9296-a4bd0107d589",
+        "monthly": 15834
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4572435,
+            25.0510428
+        ]
+    }
+}

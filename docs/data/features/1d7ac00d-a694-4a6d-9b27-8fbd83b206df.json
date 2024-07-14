@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110150303號",
+        "reg_docno": "桃府教國字第05181號",
+        "reg_date": "1974\/01\/21",
+        "title": "國家中山科學研究院附設桃園市私立逸光幼兒園",
+        "owner": "林高洲",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "私立",
+        "address": "[325]八德路1號1樓及桃園市龍潭區佳安里31鄰知恥路3號1樓",
+        "floor": "1層樓建築",
+        "size": "2,661.73平方公尺",
+        "size_in": "743.73平方公尺",
+        "size_out": "1,918平方公尺",
+        "tel": "(03)4713682#11",
+        "url": "https:\/\/yikunkg.ncsist.org.tw",
+        "count_approved": "268",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：37",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1d7ac00d-a694-4a6d-9b27-8fbd83b206df",
+        "monthly": 10305
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2368061,
+            24.8312521
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1081353488淡水0058號",
+        "reg_docno": "新北府教幼字第1081353488號",
+        "reg_date": "2019\/08\/01",
+        "title": "新北市私立樂樂童年幼兒園",
+        "owner": "施逸萁",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "私立",
+        "address": "[251]新市一路3段101巷1號1、2、3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26262958",
+        "url": "",
+        "count_approved": "241",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cf120adb-abd4-4d50-8d5e-130f1c519919",
+        "monthly": 19233
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4460016,
+            25.184325
+        ]
+    }
+}

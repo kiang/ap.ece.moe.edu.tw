@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138334000號",
+        "reg_docno": "高市社局四字第02158號",
+        "reg_date": "1996\/01\/24",
+        "title": "高雄市私立河堤幼兒園",
+        "owner": "羅敬業",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]新下街10巷1號",
+        "floor": "1樓",
+        "size": "206.41平方公尺",
+        "size_in": "104.25平方公尺",
+        "size_out": "102.16平方公尺",
+        "tel": "(07)5590339",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "6b9db551-91cc-4521-93d4-9c6afee4464e",
+        "monthly": 6000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.312511,
+            22.666171
+        ]
+    }
+}

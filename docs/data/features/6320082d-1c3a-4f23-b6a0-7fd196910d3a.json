@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120072528號",
+        "reg_docno": "府教社字第0920157898號",
+        "reg_date": "2003\/06\/16",
+        "title": "臺中市清水區東山國民小學附設幼兒園",
+        "owner": "王彩純",
+        "city": "臺中市",
+        "town": "清水區",
+        "type": "公立",
+        "address": "[436]神清路6-1號",
+        "floor": "1樓",
+        "size": "2,940平方公尺",
+        "size_in": "140平方公尺",
+        "size_out": "2,800平方公尺",
+        "tel": "(04)26200517#239",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6320082d-1c3a-4f23-b6a0-7fd196910d3a",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.634785,
+            24.276345
+        ]
+    }
+}

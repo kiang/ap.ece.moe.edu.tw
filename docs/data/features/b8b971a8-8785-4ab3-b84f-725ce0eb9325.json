@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138330400號",
+        "reg_docno": "高市四維社局兒少字第1000044095號",
+        "reg_date": "2011\/05\/27",
+        "title": "高雄市私立優群五福幼兒園",
+        "owner": "馬偉群",
+        "city": "高雄市",
+        "town": "新興區",
+        "type": "私立",
+        "address": "[800]民生一路1之10號",
+        "floor": "3樓",
+        "size": "489.86平方公尺",
+        "size_in": "489.86平方公尺",
+        "size_out": "",
+        "tel": "(07)2228386",
+        "url": "高雄市新興區民生一路1-10號",
+        "count_approved": "102",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：50",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b8b971a8-8785-4ab3-b84f-725ce0eb9325",
+        "monthly": 5667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.313619,
+            22.62824
+        ]
+    }
+}

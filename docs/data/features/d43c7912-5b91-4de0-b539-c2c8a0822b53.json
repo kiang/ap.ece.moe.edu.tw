@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1112438632號",
+        "reg_docno": "八七府教國字第8700059927號",
+        "reg_date": "1998\/06\/26",
+        "title": "雲林縣斗六市鎮東國民小學附設幼兒園",
+        "owner": "張美琳",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "公立",
+        "address": "[640]文化路205號",
+        "floor": "1樓",
+        "size": "506平方公尺",
+        "size_in": "356平方公尺",
+        "size_out": "150平方公尺",
+        "tel": "(05)5320761#31",
+        "url": "雲林縣斗六市文化路205號",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d43c7912-5b91-4de0-b539-c2c8a0822b53",
+        "monthly": 3835
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.552366,
+            23.711788
+        ]
+    }
+}

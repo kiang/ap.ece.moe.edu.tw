@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070049973號",
+        "reg_docno": "叄玖丑東教計字第1678號",
+        "reg_date": "1950\/02\/01",
+        "title": "國立東華大學附設實驗國民小學附設幼兒園",
+        "owner": "鮑明鈞",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "公立",
+        "address": "[970]民權九街10號",
+        "floor": "1樓",
+        "size": "1,077.08平方公尺",
+        "size_in": "426.14平方公尺",
+        "size_out": "650.94平方公尺",
+        "tel": "(03)8222344#360",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d820457f-0f19-4760-98eb-12bdb71fb2f1",
+        "monthly": 2990
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6235837,
+            23.9916667
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1082401793H號",
+        "reg_docno": "八四考台組貳一字第02400號",
+        "reg_date": "1995\/04\/12",
+        "title": "雲林縣元長鄉立幼兒園新生分班",
+        "owner": "",
+        "city": "雲林縣",
+        "town": "元長鄉",
+        "type": "公立",
+        "address": "[655]新生路11號",
+        "floor": "1樓",
+        "size": "343.4平方公尺",
+        "size_in": "145.4平方公尺",
+        "size_out": "198平方公尺",
+        "tel": "(05)7983050",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "00781393-0a8b-4114-9a44-8b24234baaee",
+        "monthly": 3383
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3599151,
+            23.6386945
+        ]
+    }
+}

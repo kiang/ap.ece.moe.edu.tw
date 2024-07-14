@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010018104號",
+        "reg_docno": "府教國字第2459號",
+        "reg_date": "1982\/02\/23",
+        "title": "新竹縣私立露德幼兒園",
+        "owner": "張瓊楨",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]大眉4號",
+        "floor": "1樓至2樓",
+        "size": "795平方公尺",
+        "size_in": "345平方公尺",
+        "size_out": "450平方公尺",
+        "tel": "(03)6564313",
+        "url": "ldk.urb.com.tw",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8caadf44-9111-446d-91ac-bfa9828faec9",
+        "monthly": 6500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.004692,
+            24.854607
+        ]
+    }
+}

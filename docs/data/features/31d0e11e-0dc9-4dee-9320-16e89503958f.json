@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1010177695號",
+        "reg_docno": "基府社福字第050172號",
+        "reg_date": "2002\/05\/06",
+        "title": "基隆市私立德寶幼兒園",
+        "owner": "楊寶珠",
+        "city": "基隆市",
+        "town": "安樂區",
+        "type": "私立",
+        "address": "[204]樂利二街62巷235,236號1樓",
+        "floor": "1樓",
+        "size": "341.06平方公尺",
+        "size_in": "341.06平方公尺",
+        "size_out": "",
+        "tel": "(02)24330189",
+        "url": "sunny168699@yahoo.com.tw",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "31d0e11e-0dc9-4dee-9320-16e89503958f",
+        "monthly": 9967
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.716356,
+            25.120753
+        ]
+    }
+}

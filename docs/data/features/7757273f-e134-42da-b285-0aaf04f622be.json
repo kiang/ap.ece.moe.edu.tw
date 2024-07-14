@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特字第1060755870號",
+        "reg_docno": "府教國字第111448號",
+        "reg_date": "1995\/07\/11",
+        "title": "臺南市永康區大橋國民小學附設幼兒園",
+        "owner": "賴銘傳",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "公立",
+        "address": "[710]大橋三街173號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2033001#716",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7757273f-e134-42da-b285-0aaf04f622be",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.226886,
+            23.020007
+        ]
+    }
+}

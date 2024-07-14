@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136262200號",
+        "reg_docno": "84府教學字第48724號",
+        "reg_date": "1995\/03\/15",
+        "title": "高雄市彌陀區壽齡國民小學附設幼兒園",
+        "owner": "蘇建洲",
+        "city": "高雄市",
+        "town": "彌陀區",
+        "type": "公立",
+        "address": "[827]國校路1號",
+        "floor": "1",
+        "size": "586.43平方公尺",
+        "size_in": "180平方公尺",
+        "size_out": "406.43平方公尺",
+        "tel": "(07)6196625#712",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "62ba9754-67e6-4780-a8b8-56d7f783583d",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.234125,
+            22.795435
+        ]
+    }
+}

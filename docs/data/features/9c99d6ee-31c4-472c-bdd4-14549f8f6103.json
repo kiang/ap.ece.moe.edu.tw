@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680中和0074之1號",
+        "reg_docno": "六八北府社三字第68278979號",
+        "reg_date": "1979\/11\/28",
+        "title": "新北市私立實踐幼兒園",
+        "owner": "褚玉霞",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]中山路2段312巷45弄9號、11號、13號、35號、37號1樓",
+        "floor": "一樓",
+        "size": "662.13平方公尺",
+        "size_in": "211.18平方公尺",
+        "size_out": "450.95平方公尺",
+        "tel": "(02)22471488",
+        "url": "",
+        "count_approved": "130",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9c99d6ee-31c4-472c-bdd4-14549f8f6103",
+        "monthly": 11000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4947578,
+            25.0046566
+        ]
+    }
+}

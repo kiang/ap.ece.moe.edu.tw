@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122405856D號",
+        "reg_docno": "八三府人一字第157809號",
+        "reg_date": "1994\/07\/27",
+        "title": "雲林縣土庫鎮立幼兒園崙內分班",
+        "owner": "",
+        "city": "雲林縣",
+        "town": "土庫鎮",
+        "type": "公立",
+        "address": "[633]果圍80號",
+        "floor": "1樓",
+        "size": "524平方公尺",
+        "size_in": "222.72平方公尺",
+        "size_out": "301.28平方公尺",
+        "tel": "(05)6650625",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "ace788ef-8c95-4058-8762-2bd00118f40e",
+        "monthly": 3082
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.352132,
+            23.685006
+        ]
+    }
+}

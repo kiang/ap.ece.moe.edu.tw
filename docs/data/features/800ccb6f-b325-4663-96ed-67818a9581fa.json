@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010018687號",
+        "reg_docno": "府教國字字第73153號",
+        "reg_date": "1999\/05\/26",
+        "title": "臺中市私立斯麥特幼兒園",
+        "owner": "劉仕尉",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]進化路363巷4號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23607909",
+        "url": "http:\/\/tw.myblog.yahoo.com\/sherry4344",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "14af96f6-ef00-42cf-8e06-03faaf422bc6",
+        "monthly": 9533
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.693946,
+            24.154249
+        ]
+    }
+}

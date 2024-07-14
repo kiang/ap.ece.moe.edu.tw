@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1130059940號",
+        "reg_docno": "六二府教國字第81166號",
+        "reg_date": "1973\/12\/14",
+        "title": "財團法人台灣基督長老教會聖經學院附設新竹市私立仁光幼兒園",
+        "owner": "",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]高峰路56號",
+        "floor": "一樓",
+        "size": "1,844平方公尺",
+        "size_in": "649平方公尺",
+        "size_out": "1,195平方公尺",
+        "tel": "(03)5217125#280",
+        "url": "https:\/\/www.pbc.org.tw\/kindergarden\/",
+        "count_approved": "240",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "18c0cd0f-c15b-4398-b34c-4ea6d4e50481",
+        "monthly": 15339
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.973131,
+            24.792713
+        ]
+    }
+}

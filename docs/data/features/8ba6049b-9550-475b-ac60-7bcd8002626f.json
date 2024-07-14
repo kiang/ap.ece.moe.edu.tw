@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11209686700號",
+        "reg_docno": "屏府社福字第0950018786號",
+        "reg_date": "2006\/02\/08",
+        "title": "屏東縣私立三朋幼兒園",
+        "owner": "陳俊燁",
+        "city": "屏東縣",
+        "town": "東港鎮",
+        "type": "私立",
+        "address": "[928]新義路278、280號",
+        "floor": "1樓",
+        "size": "1,002.7平方公尺",
+        "size_in": "325.56平方公尺",
+        "size_out": "677.14平方公尺",
+        "tel": "(08)8333539",
+        "url": "",
+        "count_approved": "195",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8ba6049b-9550-475b-ac60-7bcd8002626f",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4598772,
+            22.4646151
+        ]
+    }
+}

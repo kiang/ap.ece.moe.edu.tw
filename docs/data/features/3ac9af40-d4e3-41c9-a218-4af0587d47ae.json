@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第淡水0024之2號",
+        "reg_docno": "88北府社四字第88484672號",
+        "reg_date": "1999\/12\/21",
+        "title": "新北市私立淡水啟文幼兒園",
+        "owner": "周慶寧",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "私立",
+        "address": "[251]北新路188號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26216505",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3ac9af40-d4e3-41c9-a218-4af0587d47ae",
+        "monthly": 9667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.449917,
+            25.178988
+        ]
+    }
+}

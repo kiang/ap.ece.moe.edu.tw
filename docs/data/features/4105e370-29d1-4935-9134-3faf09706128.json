@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第702-1號",
+        "reg_docno": "北市社五字第8825736500號",
+        "reg_date": "1999\/09\/17",
+        "title": "臺北市私立天華幼兒園",
+        "owner": "劉小綺",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]清江路25巷7號1樓、7之2號1樓、5號2樓及7號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28945685",
+        "url": "",
+        "count_approved": "62",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4105e370-29d1-4935-9134-3faf09706128",
+        "monthly": 12869
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.502176,
+            25.131484
+        ]
+    }
+}

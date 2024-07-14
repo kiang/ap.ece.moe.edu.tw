@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110264195號",
+        "reg_docno": "府教幼字第1030184784號",
+        "reg_date": "2014\/08\/01",
+        "title": "桃園市龍潭區龍源國民小學附設幼兒園",
+        "owner": "陳梅蓉",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "公立",
+        "address": "[325]深窩子16-1號",
+        "floor": "1樓",
+        "size": "1,689平方公尺",
+        "size_in": "189平方公尺",
+        "size_out": "1,500平方公尺",
+        "tel": "(03)4717149#321",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c7e5f78e-6176-4908-92b2-4bbeb2d0003f",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2118405,
+            24.8255958
+        ]
+    }
+}

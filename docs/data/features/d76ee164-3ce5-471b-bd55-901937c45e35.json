@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110176258號",
+        "reg_docno": "府教特字第0933011289號",
+        "reg_date": "2004\/04\/13",
+        "title": "臺東縣東河鄉泰源國民小學附設幼兒園",
+        "owner": "邵雅倩",
+        "city": "臺東縣",
+        "town": "東河鄉",
+        "type": "公立",
+        "address": "[959]297號",
+        "floor": "1樓",
+        "size": "373平方公尺",
+        "size_in": "118平方公尺",
+        "size_out": "255平方公尺",
+        "tel": "(089)891011#22",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d76ee164-3ce5-471b-bd55-901937c45e35",
+        "monthly": 4167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.284714,
+            22.999022
+        ]
+    }
+}

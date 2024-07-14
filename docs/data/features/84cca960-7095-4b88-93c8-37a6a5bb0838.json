@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130000477號",
+        "reg_docno": "府社兒字第1000543079號",
+        "reg_date": "1973\/08\/25",
+        "title": "桃園市復興區立幼兒園",
+        "owner": "蘇佐璽",
+        "city": "桃園市",
+        "town": "復興區",
+        "type": "公立",
+        "address": "[336]中正路150巷25號1-2樓",
+        "floor": "2",
+        "size": "928.53平方公尺",
+        "size_in": "364.65平方公尺",
+        "size_out": "563.88平方公尺",
+        "tel": "(03)3821610",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "84cca960-7095-4b88-93c8-37a6a5bb0838",
+        "monthly": 3446
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3515224,
+            24.8206194
+        ]
+    }
+}

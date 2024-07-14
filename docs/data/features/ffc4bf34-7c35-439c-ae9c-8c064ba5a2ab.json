@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620泰山0022號",
+        "reg_docno": "北府社兒字第0990964142號",
+        "reg_date": "2010\/11\/25",
+        "title": "新北市私立比佛利幼兒園",
+        "owner": "陳妍妏",
+        "city": "新北市",
+        "town": "泰山區",
+        "type": "私立",
+        "address": "[243]仁德路97巷2號1、2樓及105號1、2樓",
+        "floor": "一至二樓",
+        "size": "350.52平方公尺",
+        "size_in": "350.52平方公尺",
+        "size_out": "",
+        "tel": "(02)29090433",
+        "url": "",
+        "count_approved": "71",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：8",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ffc4bf34-7c35-439c-ae9c-8c064ba5a2ab",
+        "monthly": 10500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4350613,
+            25.0572588
+        ]
+    }
+}

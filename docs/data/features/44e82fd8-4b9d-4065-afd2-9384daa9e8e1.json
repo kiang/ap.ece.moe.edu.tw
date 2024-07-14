@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120064316號",
+        "reg_docno": "中市教幼字第1080067593號",
+        "reg_date": "2019\/07\/26",
+        "title": "臺中市文昌非營利幼兒園(委託財團法人星光教育基金會辦理)",
+        "owner": "林姍瑩",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "非營利",
+        "address": "[406]昌平路一段91號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22338339",
+        "url": "評鑑情形：",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "44e82fd8-4b9d-4065-afd2-9384daa9e8e1",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6915992,
+            24.1695865
+        ]
+    }
+}

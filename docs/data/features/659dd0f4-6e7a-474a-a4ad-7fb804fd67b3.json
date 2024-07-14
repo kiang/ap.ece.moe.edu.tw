@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1071086356號",
+        "reg_docno": "府社福字第0970052525號",
+        "reg_date": "2008\/03\/07",
+        "title": "臺南市私立寶貝熊幼兒園",
+        "owner": "楊嘉昌",
+        "city": "臺南市",
+        "town": "南化區",
+        "type": "私立",
+        "address": "[716]南化47-6號",
+        "floor": "1樓、2樓",
+        "size": "236.3平方公尺",
+        "size_in": "132.6平方公尺",
+        "size_out": "103.7平方公尺",
+        "tel": "(06)5771630",
+        "url": "http:\/\/yangchiawen0923@yahoo.com.tw",
+        "count_approved": "35",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：8",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "659dd0f4-6e7a-474a-a4ad-7fb804fd67b3",
+        "monthly": 4967
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.474851,
+            23.044251
+        ]
+    }
+}

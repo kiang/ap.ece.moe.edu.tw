@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11238999500號",
+        "reg_docno": "85府教學字第97743號",
+        "reg_date": "1996\/05\/24",
+        "title": "高雄市岡山區和平國民小學附設幼兒園",
+        "owner": "吳肇賢",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "公立",
+        "address": "[820]和平路1號",
+        "floor": "1樓",
+        "size": "1,253.89平方公尺",
+        "size_in": "112平方公尺",
+        "size_out": "1,141.89平方公尺",
+        "tel": "(07)6254220#17",
+        "url": "https:\/\/class.kh.edu.tw\/8213",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a64f162d-6661-4994-9103-4108ac00a603",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.303585,
+            22.781609
+        ]
+    }
+}

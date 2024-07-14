@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1020184453號",
+        "reg_docno": "府教特字第1020184453號",
+        "reg_date": "2013\/10\/31",
+        "title": "花蓮縣私立森林幼兒園",
+        "owner": "宋兆蓉",
+        "city": "花蓮縣",
+        "town": "吉安鄉",
+        "type": "私立",
+        "address": "[973]南埔八街200巷9號",
+        "floor": "1-2",
+        "size": "1,789.12平方公尺",
+        "size_in": "785.86平方公尺",
+        "size_out": "1,003.26平方公尺",
+        "tel": "(03)8529900",
+        "url": "sinyi-family.com.tw",
+        "count_approved": "135",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d20ca764-7c38-42a0-b323-b7fe4c5a3a50",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.586082,
+            23.9653879
+        ]
+    }
+}

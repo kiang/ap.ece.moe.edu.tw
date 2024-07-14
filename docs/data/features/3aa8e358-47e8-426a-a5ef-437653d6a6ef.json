@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620樹林0051號",
+        "reg_docno": "北府教幼字第1021455578號",
+        "reg_date": "2013\/03\/27",
+        "title": "新北市私立北大迦美幼兒園",
+        "owner": "詹馨恩",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "私立",
+        "address": "[238]大成路365號",
+        "floor": "2",
+        "size": "246.72平方公尺",
+        "size_in": "153.82平方公尺",
+        "size_out": "",
+        "tel": "(02)26800301",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3aa8e358-47e8-426a-a5ef-437653d6a6ef",
+        "monthly": 13333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3813453,
+            24.9497118
+        ]
+    }
+}

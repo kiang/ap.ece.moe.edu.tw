@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第147號",
+        "reg_docno": "北市社五字第8923702000號",
+        "reg_date": "1996\/02\/26",
+        "title": "臺北市私立勁寶兒幼兒園",
+        "owner": "儲瑄",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]復興南路一段92之8號1樓及76號2樓之3",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27111077",
+        "url": "",
+        "count_approved": "51",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e4ace858-943b-4120-be72-74aeb460dab5",
+        "monthly": 18000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.543502,
+            25.043442
+        ]
+    }
+}

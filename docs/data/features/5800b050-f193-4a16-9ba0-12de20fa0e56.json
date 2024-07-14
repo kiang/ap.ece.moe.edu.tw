@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680瑞芳0029之1號",
+        "reg_docno": "新北府教幼字第1121549831號",
+        "reg_date": "2023\/08\/01",
+        "title": "新北市瑞芳區瑞芳國民小學附設幼兒園爪峰分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "瑞芳區",
+        "type": "公立",
+        "address": "[224]三爪子坑路66之6號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24979954#11",
+        "url": "新北市瑞芳區爪峰里5鄰三爪子坑路66之6號",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5800b050-f193-4a16-9ba0-12de20fa0e56",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.8104396,
+            25.1055254
+        ]
+    }
+}

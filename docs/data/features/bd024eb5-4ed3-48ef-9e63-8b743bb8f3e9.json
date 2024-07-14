@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0062號",
+        "reg_docno": "北府社兒字第0970108091號",
+        "reg_date": "2008\/03\/05",
+        "title": "新北市私立徠安幼兒園",
+        "owner": "吳怡臻",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]重安街12號1、2樓",
+        "floor": "2",
+        "size": "291.3平方公尺",
+        "size_in": "291.3平方公尺",
+        "size_out": "",
+        "tel": "(02)29776789",
+        "url": "",
+        "count_approved": "51",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bd024eb5-4ed3-48ef-9e63-8b743bb8f3e9",
+        "monthly": 4820
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.490367,
+            25.058452
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680林口0061號",
+        "reg_docno": "新北府教幼字第1121651576號",
+        "reg_date": "2023\/08\/01",
+        "title": "新北市立林口幼兒園文化分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "公立",
+        "address": "[244]文化北路一段425號",
+        "floor": "1樓",
+        "size": "471.11平方公尺",
+        "size_in": "305.11平方公尺",
+        "size_out": "166平方公尺",
+        "tel": "(02)26001891",
+        "url": "http:\/\/linkoupreschool.blogspot.com\/",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dc671b2c-e2d1-4814-bef1-7d41fba87051",
+        "monthly": 3706
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3661941,
+            25.0780625
+        ]
+    }
+}

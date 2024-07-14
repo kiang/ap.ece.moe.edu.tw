@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11137916300號",
+        "reg_docno": "83高市教三字第20604號",
+        "reg_date": "1994\/07\/18",
+        "title": "高雄市楠梓區加昌國民小學附設幼兒園",
+        "owner": "洪裕欽",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "公立",
+        "address": "[811]樂群路220號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3627169#5051",
+        "url": "www.jcps.kh.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6edaa825-abca-4223-a61d-b3052e372ded",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.296258,
+            22.721101
+        ]
+    }
+}

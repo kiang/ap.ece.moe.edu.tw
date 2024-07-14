@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0028之1號",
+        "reg_docno": "北府社兒字第0970777827號",
+        "reg_date": "2008\/10\/21",
+        "title": "新北市立中和幼兒園慈光分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "公立",
+        "address": "[235]民德路311號1樓",
+        "floor": "1樓",
+        "size": "365.04平方公尺",
+        "size_in": "365.01平方公尺",
+        "size_out": "",
+        "tel": "(02)29540289",
+        "url": "",
+        "count_approved": "81",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b4cfc3d1-8ebf-4b9c-98cd-5cb73ab8c714",
+        "monthly": 3706
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4682609,
+            24.9982179
+        ]
+    }
+}

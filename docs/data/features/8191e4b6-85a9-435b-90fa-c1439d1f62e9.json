@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第512號",
+        "reg_docno": "北市社婦幼字第09831854900號",
+        "reg_date": "2009\/02\/16",
+        "title": "臺北市私立幼兒館幼兒園",
+        "owner": "黃鈺鈴",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]木新路2段128號1、2樓",
+        "floor": "1樓、2樓",
+        "size": "178.08平方公尺",
+        "size_in": "178.08平方公尺",
+        "size_out": "",
+        "tel": "(02)22341515",
+        "url": "",
+        "count_approved": "34",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8191e4b6-85a9-435b-90fa-c1439d1f62e9",
+        "monthly": 16587
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.569344,
+            24.984361
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第693號",
+        "reg_docno": "北市社五字第70387號",
+        "reg_date": "1996\/01\/04",
+        "title": "臺北市私立嘟嘟幼兒園",
+        "owner": "王克昌",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]光復南路96巷2之1號1樓及98之6號1樓",
+        "floor": "1F",
+        "size": "161.54平方公尺",
+        "size_in": "161.54平方公尺",
+        "size_out": "",
+        "tel": "(02)27218791",
+        "url": "www.kikikoko.dodo.com.tw",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d6da8016-8ac0-4ffc-94d2-198a3df9e798",
+        "monthly": 12600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.557273,
+            25.044041
+        ]
+    }
+}

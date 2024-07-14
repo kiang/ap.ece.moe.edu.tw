@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040038580號",
+        "reg_docno": "府社兒字第1000543096號",
+        "reg_date": "1974\/07\/25",
+        "title": "桃園市立桃園幼兒園會稽分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "公立",
+        "address": "[330]興一街65巷50號",
+        "floor": "1",
+        "size": "221.18平方公尺",
+        "size_in": "221.18平方公尺",
+        "size_out": "",
+        "tel": "(03)3253545",
+        "url": "http:\/\/kindergarten.taocity.gov.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "0a70269f-54af-4505-b314-9a3cdf2870b0",
+        "monthly": 4005
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3158224,
+            25.0148036
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010025235號",
+        "reg_docno": "八九府社幼字第274476號",
+        "reg_date": "2000\/10\/03",
+        "title": "臺中市私立善美真娃得福幼兒園",
+        "owner": "洪陳綠真",
+        "city": "臺中市",
+        "town": "梧棲區",
+        "type": "私立",
+        "address": "[435]中興路313號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26580588",
+        "url": "http:\/\/waldorf-gbt.org.tw",
+        "count_approved": "160",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a1006634-05db-4c03-bd3d-176a16bc19be",
+        "monthly": 12300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.534373,
+            24.257663
+        ]
+    }
+}

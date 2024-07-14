@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120067357號",
+        "reg_docno": "95府教社字第0950148196號",
+        "reg_date": "2006\/05\/29",
+        "title": "臺中市大甲區德化國民小學附設幼兒園",
+        "owner": "陳建順",
+        "city": "臺中市",
+        "town": "大甲區",
+        "type": "公立",
+        "address": "[437]和平路290號",
+        "floor": "1樓",
+        "size": "330平方公尺",
+        "size_in": "230平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(04)26874602#12",
+        "url": "http:\/\/www.dwps.tc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1634dc5f-87da-4fbf-8e5a-37d16600c89d",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.624579,
+            24.361699
+        ]
+    }
+}

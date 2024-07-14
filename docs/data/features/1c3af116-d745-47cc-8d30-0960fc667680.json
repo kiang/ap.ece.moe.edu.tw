@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110067784號",
+        "reg_docno": "教國字第34391號",
+        "reg_date": "1978\/06\/26",
+        "title": "臺中市東區進德國民小學附設幼兒園",
+        "owner": "莊慶鑫",
+        "city": "臺中市",
+        "town": "東區",
+        "type": "公立",
+        "address": "[401]進化路135號",
+        "floor": "1樓、2樓",
+        "size": "1,886平方公尺",
+        "size_in": "1,478平方公尺",
+        "size_out": "408平方公尺",
+        "tel": "(04)22135723#790",
+        "url": "140.128.182.12\/eweb\/jdestc",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1c3af116-d745-47cc-8d30-0960fc667680",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.694152,
+            24.1455049
+        ]
+    }
+}

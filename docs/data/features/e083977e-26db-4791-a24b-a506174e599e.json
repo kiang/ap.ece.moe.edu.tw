@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11236234400號",
+        "reg_docno": "臺灣省教育廳74教四字第10964號",
+        "reg_date": "1985\/08\/01",
+        "title": "高雄市杉林區新庄國民小學附設幼兒園",
+        "owner": "黃炳城",
+        "city": "高雄市",
+        "town": "杉林區",
+        "type": "公立",
+        "address": "[846]司馬路45巷5號",
+        "floor": "1",
+        "size": "502.73平方公尺",
+        "size_in": "82.6平方公尺",
+        "size_out": "420.13平方公尺",
+        "tel": "(07)6771755#70",
+        "url": "http:\/\/class.kh.edu.tw\/12781",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e083977e-26db-4791-a24b-a506174e599e",
+        "monthly": 3059
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.559866,
+            22.988923
+        ]
+    }
+}

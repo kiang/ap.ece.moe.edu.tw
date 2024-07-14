@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138683300號",
+        "reg_docno": "89府社福字第176162號",
+        "reg_date": "2000\/10\/17",
+        "title": "高雄市私立童心園幼兒園",
+        "owner": "任雅君",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]南和街80號3樓、82、84、86號1至3樓",
+        "floor": "1樓至3樓",
+        "size": "441.55平方公尺",
+        "size_in": "441.55平方公尺",
+        "size_out": "",
+        "tel": "(07)8220267",
+        "url": "",
+        "count_approved": "103",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：24",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6015a010-5ffe-4fab-83d6-bd01265d7f40",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.334911,
+            22.594407
+        ]
+    }
+}

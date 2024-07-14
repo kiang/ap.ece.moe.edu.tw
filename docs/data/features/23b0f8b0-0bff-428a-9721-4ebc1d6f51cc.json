@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120252982號",
+        "reg_docno": "82府教國字第138778號",
+        "reg_date": "1993\/06\/25",
+        "title": "桃園市平鎮區忠貞國民小學附設幼兒園",
+        "owner": "魏秀蓮",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "公立",
+        "address": "[324]龍南路315號",
+        "floor": "1樓",
+        "size": "605.6平方公尺",
+        "size_in": "452.4平方公尺",
+        "size_out": "153.2平方公尺",
+        "tel": "(03)4503729#10",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000120057",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "23b0f8b0-0bff-428a-9721-4ebc1d6f51cc",
+        "monthly": 4005
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.249754,
+            24.9229059
+        ]
+    }
+}

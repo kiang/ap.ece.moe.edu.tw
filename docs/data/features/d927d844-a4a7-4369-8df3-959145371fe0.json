@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100058219號",
+        "reg_docno": "中市府社婦字第9309號",
+        "reg_date": "2004\/05\/06",
+        "title": "臺中市私立鷗森幼兒園",
+        "owner": "張恒文",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[402]福田路88號1樓",
+        "floor": "1樓",
+        "size": "821.74平方公尺",
+        "size_in": "375.36平方公尺",
+        "size_out": "446.38平方公尺",
+        "tel": "(04)36017766",
+        "url": "",
+        "count_approved": "111",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d927d844-a4a7-4369-8df3-959145371fe0",
+        "monthly": 12505
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.657929,
+            24.111292
+        ]
+    }
+}

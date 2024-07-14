@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11037216000號",
+        "reg_docno": "高市教幼字第11037216000號",
+        "reg_date": "2021\/08\/01",
+        "title": "高雄市美濃區中壇國民小學附設幼兒園",
+        "owner": "黃秋翰",
+        "city": "高雄市",
+        "town": "美濃區",
+        "type": "公立",
+        "address": "[843]忠孝路1段19號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6812534",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8a69295d-b45c-4739-83d8-e303be523cac",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5303368,
+            22.883998
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100190668號",
+        "reg_docno": "府教幼字第1070187478號",
+        "reg_date": "2018\/08\/01",
+        "title": "桃園市新屋區永安國民小學附設幼兒園",
+        "owner": "徐大川",
+        "city": "桃園市",
+        "town": "新屋區",
+        "type": "公立",
+        "address": "[327]中山西路二段1320號",
+        "floor": "1樓",
+        "size": "216平方公尺",
+        "size_in": "116平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(03)4862224#611",
+        "url": "",
+        "count_approved": "61",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bdfd7a65-d040-4488-b8ce-0cd810014e07",
+        "monthly": 4005
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0466667,
+            24.9871723
+        ]
+    }
+}

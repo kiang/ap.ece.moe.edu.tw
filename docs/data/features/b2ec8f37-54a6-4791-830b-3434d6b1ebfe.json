@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620蘆洲0056之1號",
+        "reg_docno": "北府社兒字第0970842249號",
+        "reg_date": "2008\/11\/18",
+        "title": "新北市私立多比幼兒園",
+        "owner": "葉秉鋐",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]重陽街50號、52號1樓",
+        "floor": "1",
+        "size": "153.47平方公尺",
+        "size_in": "129.57平方公尺",
+        "size_out": "",
+        "tel": "(02)28474929",
+        "url": "",
+        "count_approved": "37",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b2ec8f37-54a6-4791-830b-3434d6b1ebfe",
+        "monthly": 14167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.481287,
+            25.083008
+        ]
+    }
+}

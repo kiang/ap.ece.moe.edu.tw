@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120174396號",
+        "reg_docno": "府教特字第0983043943號",
+        "reg_date": "1986\/01\/31",
+        "title": "臺東縣大武鄉大武國民小學附設幼兒園",
+        "owner": "金忠勇",
+        "city": "臺東縣",
+        "town": "大武鄉",
+        "type": "公立",
+        "address": "[965]民族街2巷49號",
+        "floor": "1樓",
+        "size": "230平方公尺",
+        "size_in": "90平方公尺",
+        "size_out": "140平方公尺",
+        "tel": "(089)790242",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000131225",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bf2f890a-ca0e-4c6b-b128-6607eb9ba562",
+        "monthly": 4189
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.905212,
+            22.364723
+        ]
+    }
+}

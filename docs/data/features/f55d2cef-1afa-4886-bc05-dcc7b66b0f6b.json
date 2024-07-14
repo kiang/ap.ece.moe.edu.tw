@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110299456號",
+        "reg_docno": "府教幼字第1110186514號",
+        "reg_date": "2022\/07\/07",
+        "title": "財政部北區國稅局職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+        "owner": "呂佳旻",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]三元街156號",
+        "floor": "1樓",
+        "size": "107.8平方公尺",
+        "size_in": "85平方公尺",
+        "size_out": "",
+        "tel": "(03)3321208",
+        "url": "https:\/\/www.facebook.com\/nntb0808",
+        "count_approved": "25",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f55d2cef-1afa-4886-bc05-dcc7b66b0f6b",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3217411,
+            25.0036078
+        ]
+    }
+}

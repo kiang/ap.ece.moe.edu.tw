@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第131-3號",
+        "reg_docno": "北市社五字第09340740600號",
+        "reg_date": "2004\/12\/08",
+        "title": "財團法人福智文教基金會附設臺北市私立妙行幼兒園",
+        "owner": "盧克宙",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]南京東路4段133巷5弄23號1樓",
+        "floor": "1樓",
+        "size": "145.81平方公尺",
+        "size_in": "145.81平方公尺",
+        "size_out": "",
+        "tel": "(02)25451351",
+        "url": "",
+        "count_approved": "34",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e6190b9d-ebc7-49fd-8e9f-c699237fd61b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.555969,
+            25.052176
+        ]
+    }
+}

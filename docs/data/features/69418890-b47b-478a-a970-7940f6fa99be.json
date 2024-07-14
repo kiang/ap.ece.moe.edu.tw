@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第437-1號",
+        "reg_docno": "北市社婦幼字第09844981800號",
+        "reg_date": "2009\/11\/24",
+        "title": "臺北市私立上群蒙特梭利幼兒園",
+        "owner": "邱瓊儀",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]仁愛路3段123巷5號及3弄1號1樓",
+        "floor": "1樓",
+        "size": "204.12平方公尺",
+        "size_in": "204.12平方公尺",
+        "size_out": "",
+        "tel": "(02)87719739",
+        "url": "http:\/\/www.scm-children.com.tw\/",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "b23412cd-80a5-451b-bd2e-01640fba33cb",
+        "monthly": 21667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5420798,
+            25.0388085
+        ]
+    }
+}

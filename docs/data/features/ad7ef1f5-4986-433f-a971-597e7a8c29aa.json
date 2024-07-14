@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0085之1號",
+        "reg_docno": "七一北府社三字第71042925號",
+        "reg_date": "1983\/02\/05",
+        "title": "新北市私立宏仁幼兒園",
+        "owner": "薛豔珠",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]中平路6巷42、44號",
+        "floor": "1樓",
+        "size": "201.4平方公尺",
+        "size_in": "109.4平方公尺",
+        "size_out": "92平方公尺",
+        "tel": "(02)29920634",
+        "url": "",
+        "count_approved": "57",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ad7ef1f5-4986-433f-a971-597e7a8c29aa",
+        "monthly": 5115
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.445802,
+            25.042638
+        ]
+    }
+}

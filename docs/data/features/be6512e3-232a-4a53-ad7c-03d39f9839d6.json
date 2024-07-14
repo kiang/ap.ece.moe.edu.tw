@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1090171414D號",
+        "reg_docno": "府教學前字第0980002567號",
+        "reg_date": "2009\/01\/06",
+        "title": "苗栗縣通霄鎮啟明國民小學附設幼兒園",
+        "owner": "趙文德",
+        "city": "苗栗縣",
+        "town": "通霄鎮",
+        "type": "公立",
+        "address": "[357]內島15號",
+        "floor": "1樓",
+        "size": "5,930.37平方公尺",
+        "size_in": "193.15平方公尺",
+        "size_out": "5,737.22平方公尺",
+        "tel": "(037)791388",
+        "url": "http:\/\/web.cmes.mlc.edu.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "be6512e3-232a-4a53-ad7c-03d39f9839d6",
+        "monthly": 3433
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.710003,
+            24.559009
+        ]
+    }
+}

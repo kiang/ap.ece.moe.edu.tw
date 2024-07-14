@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070182250號",
+        "reg_docno": "府教學字第09800612330號",
+        "reg_date": "1974\/09\/01",
+        "title": "南投縣南投市平和國民小學附設幼兒園",
+        "owner": "張文馨",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "公立",
+        "address": "[540]育樂路62號",
+        "floor": "2樓",
+        "size": "1,700平方公尺",
+        "size_in": "1,122平方公尺",
+        "size_out": "550平方公尺",
+        "tel": "(049)2225457",
+        "url": "https:\/\/sites.google.com\/view\/phkidedu",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0c58e7e3-fecc-4edd-bcf8-c5459ed5e35e",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.691504,
+            23.912472
+        ]
+    }
+}

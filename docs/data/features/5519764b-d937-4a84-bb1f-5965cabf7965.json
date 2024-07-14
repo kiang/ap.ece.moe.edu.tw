@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120083269號",
+        "reg_docno": "府教特字第0983044071號",
+        "reg_date": "1984\/07\/02",
+        "title": "臺東縣臺東市復興國民小學附設幼兒園",
+        "owner": "彭志宏",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "公立",
+        "address": "[950]鐵花路87巷55號",
+        "floor": "1樓",
+        "size": "442.61平方公尺",
+        "size_in": "322.61平方公尺",
+        "size_out": "120平方公尺",
+        "tel": "(089)327674",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5519764b-d937-4a84-bb1f-5965cabf7965",
+        "monthly": 4189
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1515915,
+            22.7477439
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第103號",
+        "reg_docno": "北市社四字第20332號",
+        "reg_date": "1989\/06\/21",
+        "title": "臺北市私立正大幼兒園",
+        "owner": "杜英傑",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]義理街49巷2至4號1-2樓及2號3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "425.16平方公尺",
+        "size_in": "378.16平方公尺",
+        "size_out": "47平方公尺",
+        "tel": "(02)28229788",
+        "url": "",
+        "count_approved": "102",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：44",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "d1d378f4-7f3e-4fc3-8fbf-492cf97128b5",
+        "monthly": 14737
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.515523,
+            25.117007
+        ]
+    }
+}

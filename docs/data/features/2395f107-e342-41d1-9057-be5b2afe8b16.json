@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1112491329號",
+        "reg_docno": "北府社兒字第0960006607號",
+        "reg_date": "2007\/01\/03",
+        "title": "新北市私立威頓皇家幼兒園",
+        "owner": "陳和順",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]仁愛路168號2樓之1及170號1、2樓、2樓之1",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26427077",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2395f107-e342-41d1-9057-be5b2afe8b16",
+        "monthly": 15700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6644659,
+            25.065437
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110189771號",
+        "reg_docno": "府社福字第8659號",
+        "reg_date": "1986\/01\/23",
+        "title": "長庚醫療財團法人林口長庚紀念醫院附設桃園市私立長庚幼兒園",
+        "owner": "",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]長庚醫護新村77號1-3樓",
+        "floor": "1~3",
+        "size": "3,382.15平方公尺",
+        "size_in": "2,742.68平方公尺",
+        "size_out": "639.47平方公尺",
+        "tel": "(03)3287101",
+        "url": "http:\/\/cgmh.blogkids.net",
+        "count_approved": "570",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：70",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f27fc3b7-1b3e-4980-82f6-3c67b32da4d4",
+        "monthly": 11516
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.384139,
+            25.058377
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110332420號",
+        "reg_docno": "七三彰府教學字第97393號",
+        "reg_date": "1984\/05\/18",
+        "title": "彰化縣和美鎮和美國民小學附設幼兒園",
+        "owner": "陳曉琪",
+        "city": "彰化縣",
+        "town": "和美鎮",
+        "type": "公立",
+        "address": "[508]和平街19號",
+        "floor": "1樓",
+        "size": "912.24平方公尺",
+        "size_in": "468.08平方公尺",
+        "size_out": "444.16平方公尺",
+        "tel": "(04)7570856",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "eb205ec0-6bef-49d8-8850-e76343b69626",
+        "monthly": 3542
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.495808,
+            24.1116469
+        ]
+    }
+}

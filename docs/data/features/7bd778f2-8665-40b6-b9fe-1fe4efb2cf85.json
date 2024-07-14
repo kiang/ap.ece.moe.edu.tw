@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111229177號",
+        "reg_docno": "南市教特(一)字第1111229177號",
+        "reg_date": "2022\/10\/07",
+        "title": "臺灣銀行安南分行職場互助教保服務中心(委託社團法人臺南市家佑關懷教育發展協會辦理)",
+        "owner": "王靜瑛",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]安和路二段298號4樓",
+        "floor": "4樓",
+        "size": "314.01平方公尺",
+        "size_in": "314.01平方公尺",
+        "size_out": "",
+        "tel": "(06)3563612",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7bd778f2-8665-40b6-b9fe-1fe4efb2cf85",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2166538,
+            23.0428738
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120025840號",
+        "reg_docno": "府社兒婦字第0990059786號",
+        "reg_date": "1996\/04\/05",
+        "title": "宜蘭縣宜蘭市立幼兒園新生分班",
+        "owner": "",
+        "city": "宜蘭縣",
+        "town": "宜蘭市",
+        "type": "公立",
+        "address": "[260]大福路一段243號",
+        "floor": "1樓",
+        "size": "1,295平方公尺",
+        "size_in": "205平方公尺",
+        "size_out": "1,090平方公尺",
+        "tel": "(03)9305758",
+        "url": "https:\/\/www.ilancity.gov.tw\/link.asp",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "047c6274-daed-4f84-beea-1c78c0e314eb",
+        "monthly": 4000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.764207,
+            24.7646541
+        ]
+    }
+}

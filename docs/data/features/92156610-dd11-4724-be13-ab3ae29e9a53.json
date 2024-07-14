@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010089140號",
+        "reg_docno": "九0彰府教特字第206372號",
+        "reg_date": "2001\/11\/22",
+        "title": "彰化縣私立長頸鹿幼兒園",
+        "owner": "李志恆",
+        "city": "彰化縣",
+        "town": "花壇鄉",
+        "type": "私立",
+        "address": "[503]成功街185號",
+        "floor": "1樓至2樓",
+        "size": "1,245.78平方公尺",
+        "size_in": "877.26平方公尺",
+        "size_out": "368.52平方公尺",
+        "tel": "(04)7875820",
+        "url": "",
+        "count_approved": "85",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "92156610-dd11-4724-be13-ab3ae29e9a53",
+        "monthly": 5667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.540729,
+            24.027415
+        ]
+    }
+}

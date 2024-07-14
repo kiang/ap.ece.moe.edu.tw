@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040028189號",
+        "reg_docno": "中市社婦字第1000096894號",
+        "reg_date": "1990\/11\/17",
+        "title": "臺中市立大里幼兒園東興分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "公立",
+        "address": "[412]永興路260號",
+        "floor": "1樓",
+        "size": "412.41平方公尺",
+        "size_in": "383.33平方公尺",
+        "size_out": "29.08平方公尺",
+        "tel": "(04)24814435",
+        "url": "http:\/\/dlkg.tc.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "daa96c18-84a2-4531-8260-f364e68100f9",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6814868,
+            24.1123254
+        ]
+    }
+}

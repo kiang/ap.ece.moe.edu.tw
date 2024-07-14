@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010022939號",
+        "reg_docno": "75府教國字第110757號",
+        "reg_date": "1986\/07\/02",
+        "title": "臺中市私立我家幼兒園",
+        "owner": "李其璘",
+        "city": "臺中市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[439]中松路281號",
+        "floor": "1",
+        "size": "1,340平方公尺",
+        "size_in": "692平方公尺",
+        "size_out": "648平方公尺",
+        "tel": "(04)26710993",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2870e626-e095-4fd7-9e9a-97bea28332b1",
+        "monthly": 9528
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5991695,
+            24.355556
+        ]
+    }
+}

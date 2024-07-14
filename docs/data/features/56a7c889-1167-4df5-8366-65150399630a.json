@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10939914300號",
+        "reg_docno": "高市教幼字第10939914300號",
+        "reg_date": "2020\/12\/25",
+        "title": "高雄市私立善敏智幼兒園",
+        "owner": "歐淑華",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]甲智路23號",
+        "floor": "1樓、2樓",
+        "size": "923.02平方公尺",
+        "size_in": "535.15平方公尺",
+        "size_out": "387.87平方公尺",
+        "tel": "(07)7966188",
+        "url": "www.sunnyside.com.tw",
+        "count_approved": "129",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "56a7c889-1167-4df5-8366-65150399630a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3415626,
+            22.5964521
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1102411483號",
+        "reg_docno": "府教特二字第1062425948號",
+        "reg_date": "2017\/07\/31",
+        "title": "福智學校財團法人雲林縣福智國民小學附設私立福智幼兒園",
+        "owner": "林義勝",
+        "city": "雲林縣",
+        "town": "古坑鄉",
+        "type": "私立",
+        "address": "[646]平和20號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5828222#6531",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "54af6b9c-3741-4dd4-aaf3-b669a2ca4101",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5219513,
+            23.6347421
+        ]
+    }
+}

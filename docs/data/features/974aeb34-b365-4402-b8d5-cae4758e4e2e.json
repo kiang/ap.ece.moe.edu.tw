@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090190829號",
+        "reg_docno": "府教特字第0983044329號",
+        "reg_date": "1950\/09\/01",
+        "title": "臺東縣立四維幼兒園",
+        "owner": "王惠瑩",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "公立",
+        "address": "[950]四維路一段396號",
+        "floor": "1樓",
+        "size": "2,040平方公尺",
+        "size_in": "470平方公尺",
+        "size_out": "1,570平方公尺",
+        "tel": "(089)323146",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "974aeb34-b365-4402-b8d5-cae4758e4e2e",
+        "monthly": 3678
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1585798,
+            22.7559206
+        ]
+    }
+}

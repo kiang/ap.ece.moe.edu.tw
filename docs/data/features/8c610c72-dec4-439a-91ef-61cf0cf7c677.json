@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第10850058548號",
+        "reg_docno": "中市教幼字第1080058548號",
+        "reg_date": "2019\/07\/19",
+        "title": "臺中市私立頂尖地真美幼兒園",
+        "owner": "林彥宏",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "私立",
+        "address": "[412]爽文路989號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,677.76平方公尺",
+        "size_in": "1,210.62平方公尺",
+        "size_out": "467.14平方公尺",
+        "tel": "(04)24071666",
+        "url": "台中巿大里區爽文路989號",
+        "count_approved": "201",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8c610c72-dec4-439a-91ef-61cf0cf7c677",
+        "monthly": 22000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6745475,
+            24.1114738
+        ]
+    }
+}

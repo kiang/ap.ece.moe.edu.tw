@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字字第1011259620深坑0009號",
+        "reg_docno": "北府社兒字第340785號",
+        "reg_date": "2001\/09\/05",
+        "title": "新北市私立深緣幼兒園",
+        "owner": "洪明德",
+        "city": "新北市",
+        "town": "深坑區",
+        "type": "私立",
+        "address": "[222]平埔街5巷12號1樓及9巷9號1樓",
+        "floor": "1層",
+        "size": "182.76平方公尺",
+        "size_in": "158.22平方公尺",
+        "size_out": "",
+        "tel": "(02)26624238",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "dfef52a3-f8c1-439c-b081-fa894a0551a8",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6156133,
+            25.001129
+        ]
+    }
+}

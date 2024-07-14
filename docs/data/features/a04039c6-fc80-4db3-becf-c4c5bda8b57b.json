@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1081037328號",
+        "reg_docno": "南市教特(一)字第1030708829號",
+        "reg_date": "2014\/07\/25",
+        "title": "臺南市直加弄非營利幼兒園(委託台南縣幼兒托育職業工會辦理)",
+        "owner": "王清寶",
+        "city": "臺南市",
+        "town": "安定區",
+        "type": "非營利",
+        "address": "[745]46-2號",
+        "floor": "1樓、2樓、3樓",
+        "size": "5,218.7平方公尺",
+        "size_in": "2,108.84平方公尺",
+        "size_out": "3,109.86平方公尺",
+        "tel": "(06)5939599",
+        "url": "評鑑情形：",
+        "count_approved": "152",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a04039c6-fc80-4db3-becf-c4c5bda8b57b",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.222795,
+            23.085577
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字字第1080003599",
+        "reg_docno": "新北府教幼字字第1090024960號",
+        "reg_date": "2020\/01\/22",
+        "title": "新北市文創非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "非營利",
+        "address": "[244]文化一路一段201號、201-1號、201-2號、201-3號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26013380",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "22de9110-5265-4c1a-aa32-6198fc901fbc",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3774264,
+            25.0752162
+        ]
+    }
+}

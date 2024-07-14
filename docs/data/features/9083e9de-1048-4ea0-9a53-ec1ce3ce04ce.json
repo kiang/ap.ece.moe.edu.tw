@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11155139700號",
+        "reg_docno": "屏府教特字第1000088478號",
+        "reg_date": "2011\/04\/06",
+        "title": "屏東縣泰武鄉武潭國民小學附設幼兒園佳平分班",
+        "owner": "",
+        "city": "屏東縣",
+        "town": "泰武鄉",
+        "type": "公立",
+        "address": "[921]佳平巷118號",
+        "floor": "1樓",
+        "size": "265.468平方公尺",
+        "size_in": "184.968平方公尺",
+        "size_out": "80.5平方公尺",
+        "tel": "(08)7835068",
+        "url": "https:\/\/www.wtes.ptc.edu.tw\/nss\/p\/index",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9083e9de-1048-4ea0-9a53-ec1ce3ce04ce",
+        "monthly": 2778
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.632383,
+            22.590898
+        ]
+    }
+}

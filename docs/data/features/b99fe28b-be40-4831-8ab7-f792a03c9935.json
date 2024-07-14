@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080045578號",
+        "reg_docno": "府社幼字第1000208724號",
+        "reg_date": "1995\/07\/01",
+        "title": "彰化縣彰化市立幼兒園",
+        "owner": "林世賢",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "公立",
+        "address": "[500]長順街99號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,987平方公尺",
+        "size_in": "938平方公尺",
+        "size_out": "150平方公尺",
+        "tel": "(04)7292221",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100064331672161",
+        "count_approved": "300",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b99fe28b-be40-4831-8ab7-f792a03c9935",
+        "monthly": 4667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.549748,
+            24.086633
+        ]
+    }
+}

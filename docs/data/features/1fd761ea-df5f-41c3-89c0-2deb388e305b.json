@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120174388號",
+        "reg_docno": "府教特字第0943003569號",
+        "reg_date": "2005\/01\/31",
+        "title": "臺東縣成功鎮三仙國民小學附設幼兒園",
+        "owner": "蘇姿穎",
+        "city": "臺東縣",
+        "town": "成功鎮",
+        "type": "公立",
+        "address": "[961]基翬路16號",
+        "floor": "1樓",
+        "size": "13,116平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "12,983平方公尺",
+        "tel": "(089)853020",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1fd761ea-df5f-41c3-89c0-2deb388e305b",
+        "monthly": 4167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.393751,
+            23.1208799
+        ]
+    }
+}

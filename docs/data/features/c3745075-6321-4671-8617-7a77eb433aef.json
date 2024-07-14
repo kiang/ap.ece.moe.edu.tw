@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070113717號",
+        "reg_docno": "82府教國字第80147號",
+        "reg_date": "1993\/04\/23",
+        "title": "桃園市私立諾貝爾幼兒園",
+        "owner": "蔡鳳珍",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]楓樹五街1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3502345",
+        "url": "http:\/\/www.nobel-baby.com.tw",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c3745075-6321-4671-8617-7a77eb433aef",
+        "monthly": 11800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.345113,
+            25.0045695
+        ]
+    }
+}

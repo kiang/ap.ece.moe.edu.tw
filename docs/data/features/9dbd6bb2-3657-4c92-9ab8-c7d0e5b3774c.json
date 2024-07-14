@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0020號",
+        "reg_docno": "北府社兒字第0930051466號",
+        "reg_date": "2004\/01\/30",
+        "title": "新北市私立恩佑幼兒園",
+        "owner": "林純如",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]大同路二段196號3樓",
+        "floor": "3",
+        "size": "184.92平方公尺",
+        "size_in": "184.92平方公尺",
+        "size_out": "",
+        "tel": "(02)26495658",
+        "url": "",
+        "count_approved": "53",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9dbd6bb2-3657-4c92-9ab8-c7d0e5b3774c",
+        "monthly": 14850
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.653004,
+            25.064467
+        ]
+    }
+}

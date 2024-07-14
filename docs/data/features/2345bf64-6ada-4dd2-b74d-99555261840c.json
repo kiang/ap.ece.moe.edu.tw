@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110045144號",
+        "reg_docno": "中市教幼字第1110045144號",
+        "reg_date": "2022\/06\/27",
+        "title": "顥澤股份有限公司附設臺中市私立愛爾瑪幼兒園",
+        "owner": "梁燿銘",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]興進路67號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23606689",
+        "url": "",
+        "count_approved": "182",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2345bf64-6ada-4dd2-b74d-99555261840c",
+        "monthly": 22892
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6962521,
+            24.1552252
+        ]
+    }
+}

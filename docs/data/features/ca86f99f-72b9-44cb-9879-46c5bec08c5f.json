@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1082427360號",
+        "reg_docno": "府教特二字第1082427360號",
+        "reg_date": "2019\/07\/30",
+        "title": "雲林縣中正非營利幼兒園(委託環球學校財團法人辦理)",
+        "owner": "許淑敏",
+        "city": "雲林縣",
+        "town": "虎尾鎮",
+        "type": "非營利",
+        "address": "[632]林森路1段64號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)6324267",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ab4eb3aa-270b-4f52-9d34-2b25ad24039d",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.443444,
+            23.720357
+        ]
+    }
+}

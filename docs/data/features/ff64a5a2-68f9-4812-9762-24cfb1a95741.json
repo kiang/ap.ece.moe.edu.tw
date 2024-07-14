@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第692號",
+        "reg_docno": "北市社五字第43217號",
+        "reg_date": "1996\/08\/13",
+        "title": "臺北市私立建國幼兒園",
+        "owner": "王永弘",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]建國北路二段6巷1號1樓至4樓",
+        "floor": "1樓、2樓、3樓、4樓",
+        "size": "525.36平方公尺",
+        "size_in": "525.36平方公尺",
+        "size_out": "",
+        "tel": "(02)25075564",
+        "url": "",
+        "count_approved": "119",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：29",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ff64a5a2-68f9-4812-9762-24cfb1a95741",
+        "monthly": 22480
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.536346,
+            25.052609
+        ]
+    }
+}

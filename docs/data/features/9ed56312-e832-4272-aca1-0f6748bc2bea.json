@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100032029號",
+        "reg_docno": "府社婦字第0940001136號",
+        "reg_date": "2005\/01\/11",
+        "title": "新竹市私立檸檬樹幼兒園",
+        "owner": "徐俊輝",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]中華路三段67號",
+        "floor": "1-3樓",
+        "size": "512.08平方公尺",
+        "size_in": "512.08平方公尺",
+        "size_out": "",
+        "tel": "(03)5243365",
+        "url": "https:\/\/nasa.topschool.tw\/Home\/Main",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9ed56312-e832-4272-aca1-0f6748bc2bea",
+        "monthly": 22927
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9620002,
+            24.79689
+        ]
+    }
+}

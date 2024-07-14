@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110287754號",
+        "reg_docno": "府社兒婦字第1010072912號",
+        "reg_date": "1995\/09\/01",
+        "title": "臺東縣延平鄉立幼兒園",
+        "owner": "余光雄",
+        "city": "臺東縣",
+        "town": "延平鄉",
+        "type": "公立",
+        "address": "[953]泰平路89-1號",
+        "floor": "1樓、2樓",
+        "size": "11,737平方公尺",
+        "size_in": "1,019平方公尺",
+        "size_out": "4,498.35平方公尺",
+        "tel": "(089)550585",
+        "url": "http:\/\/www.ttypg.gov.tw\/index.php?Act=1&MK=8&PK=1128&TK=20",
+        "count_approved": "45",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8f1ff3aa-e732-47e0-8314-cdff3db1c0f9",
+        "monthly": 2240
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0863873,
+            22.9022442
+        ]
+    }
+}

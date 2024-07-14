@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599八里0003之4號",
+        "reg_docno": "八九北府教幼字第376334號",
+        "reg_date": "2000\/10\/02",
+        "title": "新北市八里區大崁國民小學附設幼兒園",
+        "owner": "謝正平",
+        "city": "新北市",
+        "town": "八里區",
+        "type": "公立",
+        "address": "[249]忠八街2號",
+        "floor": "1樓、2樓",
+        "size": "1,532平方公尺",
+        "size_in": "920平方公尺",
+        "size_out": "476平方公尺",
+        "tel": "(02)86305678#190",
+        "url": "http:\/\/tkes@ntpc.edu.tw",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "869a115c-a3de-4044-b949-60e1acf9eae3",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4193614,
+            25.1612244
+        ]
+    }
+}

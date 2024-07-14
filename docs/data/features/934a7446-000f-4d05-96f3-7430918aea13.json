@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680板橋0083之1號",
+        "reg_docno": "86北府教三字第343817號",
+        "reg_date": "1997\/09\/11",
+        "title": "新北市板橋區海山國民小學附設幼兒園",
+        "owner": "林瑞昌",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "公立",
+        "address": "[220]漢生東路280號",
+        "floor": "1樓",
+        "size": "1,246平方公尺",
+        "size_in": "666平方公尺",
+        "size_out": "580平方公尺",
+        "tel": "(02)29545725#545",
+        "url": "http:\/\/www.hsps.ntpc.edu.tw\/kindergarten.htm",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "934a7446-000f-4d05-96f3-7430918aea13",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.47092,
+            25.009392
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1120166169號",
+        "reg_docno": "府教學前字第1080144873號",
+        "reg_date": "2019\/08\/01",
+        "title": "苗栗縣中正非營利幼兒園（委託財團法人仁德醫護管理專科學校辦理）",
+        "owner": "鍾佳穎",
+        "city": "苗栗縣",
+        "town": "苑裡鎮",
+        "type": "非營利",
+        "address": "[358]111號",
+        "floor": "1樓、2樓",
+        "size": "11,120.25平方公尺",
+        "size_in": "264.39平方公尺",
+        "size_out": "10,855.86平方公尺",
+        "tel": "(037)861633",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5b3fdea2-d5ee-42c2-8924-f8c7478a40c9",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6609699,
+            24.4296102
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080070747號",
+        "reg_docno": "中市教幼字第1080070747號",
+        "reg_date": "2019\/08\/01",
+        "title": "臺中市霧峰區峰谷國民小學附設幼兒園",
+        "owner": "錢得龍",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "公立",
+        "address": "[413]峰谷路496號",
+        "floor": "1樓",
+        "size": "386.213平方公尺",
+        "size_in": "186.213平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(04)23399271#770",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2562b42a-72af-42e8-8e0c-457c66e14bc5",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7253576,
+            24.0350895
+        ]
+    }
+}

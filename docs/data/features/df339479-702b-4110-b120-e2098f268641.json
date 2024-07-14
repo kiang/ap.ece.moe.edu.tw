@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11235620000號",
+        "reg_docno": "高市教幼字第11036701700號",
+        "reg_date": "2021\/10\/01",
+        "title": "高雄市璐可非營利幼兒園(委託社團法人高雄市社區美學教育發展協會辦理)",
+        "owner": "陳慧玟",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "非營利",
+        "address": "[807]十全一路1號",
+        "floor": "1樓、2樓",
+        "size": "1,236.497平方公尺",
+        "size_in": "355.947平方公尺",
+        "size_out": "880.55平方公尺",
+        "tel": "(07)3220588",
+        "url": "評鑑情形：",
+        "count_approved": "122",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "df339479-702b-4110-b120-e2098f268641",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.313442,
+            22.6445763
+        ]
+    }
+}

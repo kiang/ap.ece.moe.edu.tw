@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040028922號",
+        "reg_docno": "89府社福字第123114號",
+        "reg_date": "2000\/06\/26",
+        "title": "桃園市私立凱莉幼兒園",
+        "owner": "曾芝樺",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]中正五街236號1-2樓",
+        "floor": "1樓、2樓",
+        "size": "770.02平方公尺",
+        "size_in": "576.42平方公尺",
+        "size_out": "193.6平方公尺",
+        "tel": "(03)3391084",
+        "url": "http:\/\/kelly.blogkids.net\/",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "95b7e662-132a-4bc3-8b50-4daa004a4672",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.301495,
+            25.0034539
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1111517698號",
+        "reg_docno": "府教幼字第1051507841號",
+        "reg_date": "2016\/05\/31",
+        "title": "嘉義市小橘子非營利幼兒園（委託財團法人伊甸社會福利基金會辦理）",
+        "owner": "羅紀琼",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "非營利",
+        "address": "[600]德安路10號",
+        "floor": "1樓、2樓",
+        "size": "1,086.66平方公尺",
+        "size_in": "642.88平方公尺",
+        "size_out": "443.78平方公尺",
+        "tel": "(05)2910270",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c2d3cc64-4f51-45e2-a4e7-47dd7a41897f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4323651,
+            23.4841348
+        ]
+    }
+}

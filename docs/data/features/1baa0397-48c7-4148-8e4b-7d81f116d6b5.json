@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060239433號",
+        "reg_docno": "府社兒字第1000532915號",
+        "reg_date": "1975\/07\/01",
+        "title": "桃園市立龍潭幼兒園高原分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "公立",
+        "address": "[325]中原路3段56號",
+        "floor": "1-2樓",
+        "size": "487.17平方公尺",
+        "size_in": "321.77平方公尺",
+        "size_out": "165.4平方公尺",
+        "tel": "(03)4718713",
+        "url": "",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1baa0397-48c7-4148-8e4b-7d81f116d6b5",
+        "monthly": 3938
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.192379,
+            24.828558
+        ]
+    }
+}

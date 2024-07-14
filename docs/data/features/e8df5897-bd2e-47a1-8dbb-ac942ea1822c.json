@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010228503號",
+        "reg_docno": "八九彰府社幼字第175662號",
+        "reg_date": "2000\/09\/18",
+        "title": "彰化縣私立彩虹屋幼兒園",
+        "owner": "楊淑芳",
+        "city": "彰化縣",
+        "town": "溪湖鎮",
+        "type": "私立",
+        "address": "[514]大公路237號",
+        "floor": "1樓、2樓",
+        "size": "779.16平方公尺",
+        "size_in": "281.7平方公尺",
+        "size_out": "270平方公尺",
+        "tel": "(04)8826839",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e8df5897-bd2e-47a1-8dbb-ac942ea1822c",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.471174,
+            23.9619979
+        ]
+    }
+}

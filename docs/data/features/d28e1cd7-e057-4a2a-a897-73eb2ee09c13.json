@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11170637000號",
+        "reg_docno": "屏府教前字第11170637000號",
+        "reg_date": "2022\/12\/13",
+        "title": "屏東縣私立威士頓幼兒園",
+        "owner": "鍾依橦",
+        "city": "屏東縣",
+        "town": "萬丹鄉",
+        "type": "私立",
+        "address": "[913]中興路二段553號1-3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,486.1平方公尺",
+        "size_in": "1,154.95平方公尺",
+        "size_out": "331.15平方公尺",
+        "tel": "(08)7771177",
+        "url": "",
+        "count_approved": "197",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d28e1cd7-e057-4a2a-a897-73eb2ee09c13",
+        "monthly": 18000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4868447,
+            22.5824868
+        ]
+    }
+}

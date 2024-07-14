@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080107006號",
+        "reg_docno": "中市教幼字第1070053422號",
+        "reg_date": "2018\/07\/10",
+        "title": "臺中市私立夏洛特幼兒園",
+        "owner": "廖泳翰",
+        "city": "臺中市",
+        "town": "梧棲區",
+        "type": "私立",
+        "address": "[435]仁美街135巷26號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26570777",
+        "url": "",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2bcb80db-ab60-4fb1-af95-e32dea3c273c",
+        "monthly": 16633
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5369987,
+            24.2555811
+        ]
+    }
+}

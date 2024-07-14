@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1030003389號",
+        "reg_docno": "中市教幼字第1010029876號",
+        "reg_date": "2012\/05\/02",
+        "title": "臺中市私立夏卡爾幼兒園",
+        "owner": "劉夕慈",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]后庄路850號",
+        "floor": "2F",
+        "size": "1,156.9平方公尺",
+        "size_in": "908.77平方公尺",
+        "size_out": "248.13平方公尺",
+        "tel": "(04)24213681",
+        "url": "",
+        "count_approved": "195",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4b1a158c-8c7b-4336-9b7c-dd5e8a647513",
+        "monthly": 11733
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.676076,
+            24.193297
+        ]
+    }
+}

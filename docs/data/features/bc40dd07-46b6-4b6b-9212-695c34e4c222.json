@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090087465號",
+        "reg_docno": "府教特字第0940247928號",
+        "reg_date": "2005\/09\/13",
+        "title": "桃園市私立溪海大自然幼兒園",
+        "owner": "羅玉新",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "私立",
+        "address": "[337]聖德北路985號1-2樓",
+        "floor": "1-2",
+        "size": "2,693.96平方公尺",
+        "size_in": "991.5平方公尺",
+        "size_out": "600平方公尺",
+        "tel": "(03)3859696",
+        "url": "https:\/\/zh-tw.facebook.com\/greatnature3859696\/",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：8",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bc40dd07-46b6-4b6b-9212-695c34e4c222",
+        "monthly": 4450
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1959306,
+            25.0294101
+        ]
+    }
+}

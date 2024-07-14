@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120306826號",
+        "reg_docno": "九0彰府社幼字第127450號",
+        "reg_date": "2001\/07\/20",
+        "title": "彰化縣私立小太陽幼兒園",
+        "owner": "周冠宏",
+        "city": "彰化縣",
+        "town": "和美鎮",
+        "type": "私立",
+        "address": "[508]東萊路81巷32、34號",
+        "floor": "地上1層至地上3層",
+        "size": "310.46平方公尺",
+        "size_in": "133.37平方公尺",
+        "size_out": "62.4平方公尺",
+        "tel": "(04)7364432",
+        "url": "https:\/\/www.facebook.com\/1010719LITTLESUN",
+        "count_approved": "55",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ca3c352c-f8d3-4bd2-9a6e-8aa8a8d3650e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.534997,
+            24.105377
+        ]
+    }
+}

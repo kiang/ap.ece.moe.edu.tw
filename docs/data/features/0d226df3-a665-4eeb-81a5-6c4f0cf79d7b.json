@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第32號",
+        "reg_docno": "北市教前字第11230283311號",
+        "reg_date": "2023\/07\/31",
+        "title": "財政部國有財產署職場互助教保服務中心（委託社團法人臺灣兒童教育發展協會辦理）",
+        "owner": "劉昆彥",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]愛國西路2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)23567776",
+        "url": "評鑑情形：",
+        "count_approved": "48",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0d226df3-a665-4eeb-81a5-6c4f0cf79d7b",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5155445,
+            25.0340808
+        ]
+    }
+}

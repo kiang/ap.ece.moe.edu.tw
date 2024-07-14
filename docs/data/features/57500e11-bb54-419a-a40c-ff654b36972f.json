@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138691000號",
+        "reg_docno": "88府社福字第137587號",
+        "reg_date": "1999\/07\/27",
+        "title": "高雄市私立文山幼兒園",
+        "owner": "吳秀玉",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]文衡路354號2樓",
+        "floor": "2樓",
+        "size": "317.94平方公尺",
+        "size_in": "317.94平方公尺",
+        "size_out": "",
+        "tel": "(07)7772582",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "57500e11-bb54-419a-a40c-ff654b36972f",
+        "monthly": 5700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3545934,
+            22.6401763
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090076896號",
+        "reg_docno": "府社婦字第0980139891號",
+        "reg_date": "2009\/08\/28",
+        "title": "花蓮縣私立真善美幼兒園",
+        "owner": "盧怡樺",
+        "city": "花蓮縣",
+        "town": "玉里鎮",
+        "type": "私立",
+        "address": "[981]大同路53號及大同路47之2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8887028",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：10",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "80b6e7d1-a6fd-4d12-a95c-58ff57ba8d1d",
+        "monthly": 5520
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3141444,
+            23.3266179
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11333418100號",
+        "reg_docno": "高市教幼字第11333418100號",
+        "reg_date": "2024\/05\/06",
+        "title": "高雄市私立雨安幼兒園",
+        "owner": "梁志明",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "私立",
+        "address": "[812]廠邊三路56號",
+        "floor": "1樓",
+        "size": "1,123.59平方公尺",
+        "size_in": "469.99平方公尺",
+        "size_out": "653.6平方公尺",
+        "tel": "(07)8618511",
+        "url": "",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "461a42d3-c90a-458b-a3a1-ef4250b3da45",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.358582,
+            22.571418
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第111014703號",
+        "reg_docno": "69府教國字第69406號",
+        "reg_date": "1980\/10\/20",
+        "title": "宜蘭縣五結鄉中興國民小學附設幼兒園",
+        "owner": "李明怡",
+        "city": "宜蘭縣",
+        "town": "五結鄉",
+        "type": "公立",
+        "address": "[268]中興路三段67號",
+        "floor": "1樓、2樓",
+        "size": "699.87平方公尺",
+        "size_in": "603.87平方公尺",
+        "size_out": "96平方公尺",
+        "tel": "(03)9544356#21",
+        "url": "https:\/\/www.facebook.com\/cseskid",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0483c099-22af-48bd-b2bf-636e14ab9a8e",
+        "monthly": 2788
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.772479,
+            24.692615
+        ]
+    }
+}

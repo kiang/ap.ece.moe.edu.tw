@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第469-2號",
+        "reg_docno": "北市社婦幼字第10047527700號",
+        "reg_date": "2011\/12\/19",
+        "title": "臺北市私立亞瑟王皇家幼兒園",
+        "owner": "張愛心",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]潮州街108號2樓",
+        "floor": "2樓",
+        "size": "162.21平方公尺",
+        "size_in": "162.21平方公尺",
+        "size_out": "",
+        "tel": "(02)23584018",
+        "url": "",
+        "count_approved": "39",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：17",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "298cb30b-ff03-47c2-b53c-ab9c1e7e975d",
+        "monthly": 7417
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.525959,
+            25.028836
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080086166號",
+        "reg_docno": "府社兒婦字第0990078561號",
+        "reg_date": "1995\/04\/19",
+        "title": "宜蘭縣冬山鄉立幼兒園",
+        "owner": "林峻輔",
+        "city": "宜蘭縣",
+        "town": "冬山鄉",
+        "type": "公立",
+        "address": "[269]冬山路98號",
+        "floor": "1樓、2樓",
+        "size": "2,330.77平方公尺",
+        "size_in": "1,368.77平方公尺",
+        "size_out": "962平方公尺",
+        "tel": "(03)9592479#103",
+        "url": "",
+        "count_approved": "272",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c397172b-92c2-4f31-b105-5c81fa61ab1e",
+        "monthly": 1900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.789433,
+            24.631542
+        ]
+    }
+}

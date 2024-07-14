@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第602-4號",
+        "reg_docno": "府社五字第8904147200號",
+        "reg_date": "2000\/07\/01",
+        "title": "臺北市吉利非營利幼兒園(委託社團法人台北市親子成長協會辦理)",
+        "owner": "陳筠安",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "非營利",
+        "address": "[112]立農街一段366號1至3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28200118",
+        "url": "http:\/\/www.healthygrow.org\/",
+        "count_approved": "147",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f8241233-7cde-4e40-a7b9-adb712d7dcd6",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5079,
+            25.119306
+        ]
+    }
+}

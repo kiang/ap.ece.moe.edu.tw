@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第11200211581號",
+        "reg_docno": "府人一字第30626號",
+        "reg_date": "2011\/03\/29",
+        "title": "嘉義縣中埔鄉立中埔幼兒園中埔分班",
+        "owner": "",
+        "city": "嘉義縣",
+        "town": "中埔鄉",
+        "type": "公立",
+        "address": "[606]中埔130-5號",
+        "floor": "1-2",
+        "size": "1,372.73平方公尺",
+        "size_in": "732.73平方公尺",
+        "size_out": "640平方公尺",
+        "tel": "(05)2534464",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7ce87944-3892-4ece-a259-7c25bbd7f05c",
+        "monthly": 3836
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5226399,
+            23.4235139
+        ]
+    }
+}

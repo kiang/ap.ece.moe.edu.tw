@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120007624號",
+        "reg_docno": "府社婦字第1000148944號",
+        "reg_date": "1995\/09\/01",
+        "title": "臺東縣鹿野鄉立幼兒園",
+        "owner": "李維順",
+        "city": "臺東縣",
+        "town": "鹿野鄉",
+        "type": "公立",
+        "address": "[955]瑞景路1段23巷9號",
+        "floor": "1樓",
+        "size": "5,487.37平方公尺",
+        "size_in": "673平方公尺",
+        "size_out": "4,814.37平方公尺",
+        "tel": "(089)580309",
+        "url": "",
+        "count_approved": "140",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e108c6e3-cdf3-44c5-ad9f-4b56375b189e",
+        "monthly": 2676
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.150283,
+            22.9422681
+        ]
+    }
+}

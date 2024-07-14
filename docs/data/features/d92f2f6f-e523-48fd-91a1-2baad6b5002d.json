@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010018122號",
+        "reg_docno": "89府社婦字第45068號",
+        "reg_date": "2000\/04\/24",
+        "title": "臺中市私立向陽幼兒園",
+        "owner": "蔣叔融",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]文心路一段220號1-2F、向心路109號3樓之10",
+        "floor": "1.2.3.",
+        "size": "202.78平方公尺",
+        "size_in": "202.78平方公尺",
+        "size_out": "",
+        "tel": "(04)24728558",
+        "url": "http:\/\/www.sunyuong.com.tw",
+        "count_approved": "57",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "c3c1f4d7-e6b4-4d4a-8133-c1db438ad705",
+        "monthly": 7667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.646941,
+            24.142904
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120281721號",
+        "reg_docno": "府教幼字第1110272240號",
+        "reg_date": "2022\/09\/26",
+        "title": "農業部農田水利署桃園管理處職場互助教保服務中心（委託社團法人桃園市全能多元文教發展協會辦理）",
+        "owner": "戴兆庭",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]守法路60巷7號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3345115",
+        "url": "評鑑情形：",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d083b29a-ae5a-4707-9e32-0919d1194b15",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2968588,
+            24.9933106
+        ]
+    }
+}

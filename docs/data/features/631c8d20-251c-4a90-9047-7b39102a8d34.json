@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0005號",
+        "reg_docno": "八九北府社兒字第89228267號",
+        "reg_date": "2000\/06\/15",
+        "title": "新北市私立新時代幼兒園",
+        "owner": "儲林芳",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]莒光路120巷14號1~2樓、16號1~2樓",
+        "floor": "2",
+        "size": "156平方公尺",
+        "size_in": "156平方公尺",
+        "size_out": "",
+        "tel": "(02)29585161",
+        "url": "",
+        "count_approved": "32",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "631c8d20-251c-4a90-9047-7b39102a8d34",
+        "monthly": 13290
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.471547,
+            25.001704
+        ]
+    }
+}

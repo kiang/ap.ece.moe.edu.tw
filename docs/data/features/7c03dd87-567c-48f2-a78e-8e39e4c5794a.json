@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137926000號",
+        "reg_docno": "府社福字第174008號",
+        "reg_date": "1995\/09\/05",
+        "title": "高雄市私立大自然幼兒園",
+        "owner": "施秀春",
+        "city": "高雄市",
+        "town": "鳥松區",
+        "type": "私立",
+        "address": "[833]美山路254巷35之1號1至2樓",
+        "floor": "2",
+        "size": "549.78平方公尺",
+        "size_in": "270平方公尺",
+        "size_out": "279.78平方公尺",
+        "tel": "(07)7314810",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7c03dd87-567c-48f2-a78e-8e39e4c5794a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.394537,
+            22.653432
+        ]
+    }
+}

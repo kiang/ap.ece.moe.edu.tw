@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1080000549號",
+        "reg_docno": "府教學前字第1000262638號",
+        "reg_date": "1996\/11\/15",
+        "title": "苗栗縣卓蘭鎮立幼兒園坪林分班",
+        "owner": "",
+        "city": "苗栗縣",
+        "town": "卓蘭鎮",
+        "type": "公立",
+        "address": "[369]坪林86-2號",
+        "floor": "1樓",
+        "size": "294平方公尺",
+        "size_in": "194平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(04)25921554",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4c333912-dc75-4c5e-b3e8-c96278489118",
+        "monthly": 3109
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.876172,
+            24.336139
+        ]
+    }
+}

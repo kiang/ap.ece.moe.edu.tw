@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120208431號",
+        "reg_docno": "府教幼字第1080212736號",
+        "reg_date": "2019\/08\/26",
+        "title": "桃園市橫峰非營利幼兒園（委託社團法人中華啟幼思學會辦理）",
+        "owner": "羅秋景",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "非營利",
+        "address": "[337]中正東路160號",
+        "floor": "1樓",
+        "size": "1,025.905平方公尺",
+        "size_in": "520.75平方公尺",
+        "size_out": "505.155平方公尺",
+        "tel": "(03)3853491",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9f12eaed-c6ac-49dc-983c-9dd011fb208e",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2026707,
+            25.0590851
+        ]
+    }
+}

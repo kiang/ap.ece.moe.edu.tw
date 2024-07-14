@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680中和0031之2號",
+        "reg_docno": "八二北府教二字第325862號",
+        "reg_date": "1993\/09\/07",
+        "title": "新北市中和區自強國民小學附設幼兒園",
+        "owner": "許以平",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "公立",
+        "address": "[235]莒光路200號",
+        "floor": "1樓",
+        "size": "2,300平方公尺",
+        "size_in": "1,300平方公尺",
+        "size_out": "1,000平方公尺",
+        "tel": "(02)29557936#860",
+        "url": "http:\/\/www.jcps.ntpc.edu.tw\/default.asp",
+        "count_approved": "210",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "960ac56c-b94d-4a50-995a-6655f8f86633",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.471818,
+            24.9983879
+        ]
+    }
+}

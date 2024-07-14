@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090207646號",
+        "reg_docno": "府教幼字第1090207646號",
+        "reg_date": "2020\/08\/21",
+        "title": "桃園市永福非營利幼兒園(委託社團法人臺灣亞洲學前教育培訓協會辦理)校前分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "非營利",
+        "address": "[326]貴山街1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4751523",
+        "url": "桃園市楊梅區貴山街1號",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "de521741-96bc-480a-a3fe-a77a3d2c18d6",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.150626,
+            24.903215
+        ]
+    }
+}

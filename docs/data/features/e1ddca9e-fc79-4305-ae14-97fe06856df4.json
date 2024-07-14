@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10437694700號",
+        "reg_docno": "高市社局兒少字第1000001136號",
+        "reg_date": "1999\/12\/16",
+        "title": "高雄市桃源區立桃源幼兒園",
+        "owner": "謝英雄",
+        "city": "高雄市",
+        "town": "桃源區",
+        "type": "公立",
+        "address": "[848]180-10號",
+        "floor": "3樓",
+        "size": "192平方公尺",
+        "size_in": "192平方公尺",
+        "size_out": "",
+        "tel": "(07)6861541",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e1ddca9e-fc79-4305-ae14-97fe06856df4",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.766488,
+            23.158684
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第645-6號",
+        "reg_docno": "北市社五字第09631744500號",
+        "reg_date": "2007\/02\/16",
+        "title": "臺北市蘭州非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+        "owner": "郭淑雅",
+        "city": "臺北市",
+        "town": "大同區",
+        "type": "非營利",
+        "address": "[103]大龍街187巷1號1",
+        "floor": "1樓",
+        "size": "2,401.76平方公尺",
+        "size_in": "573.76平方公尺",
+        "size_out": "1,828平方公尺",
+        "tel": "(02)25918330",
+        "url": "評鑑情形：",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8df4c0bb-7213-4077-adc8-c3139b3fab22",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5168093,
+            25.0692812
+        ]
+    }
+}

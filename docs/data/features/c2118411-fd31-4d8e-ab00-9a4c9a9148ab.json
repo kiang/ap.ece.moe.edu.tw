@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0087之1號",
+        "reg_docno": "九十北府社兒字第90351420號",
+        "reg_date": "2001\/09\/06",
+        "title": "新北市私立華登幼兒園",
+        "owner": "施采吟",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]景平路505號1樓及505之1號2樓",
+        "floor": "1和2樓",
+        "size": "128.75平方公尺",
+        "size_in": "128.75平方公尺",
+        "size_out": "",
+        "tel": "(02)22421568",
+        "url": "",
+        "count_approved": "36",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c2118411-fd31-4d8e-ab00-9a4c9a9148ab",
+        "monthly": 13333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4996869,
+            24.9985255
+        ]
+    }
+}

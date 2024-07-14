@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070127977號",
+        "reg_docno": "八八彰府社福字第158013號",
+        "reg_date": "1999\/08\/21",
+        "title": "彰化縣私立小叮噹幼兒園",
+        "owner": "陳麗親",
+        "city": "彰化縣",
+        "town": "和美鎮",
+        "type": "私立",
+        "address": "[508]忠勤路77號",
+        "floor": "一樓",
+        "size": "1,219平方公尺",
+        "size_in": "233.3平方公尺",
+        "size_out": "719.34平方公尺",
+        "tel": "(04)7571808",
+        "url": "https:\/\/2012ibaby.wordpress.com\/",
+        "count_approved": "200",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "35c1ab80-7634-41ca-8c6d-95f9d3f2e059",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5036895,
+            24.1086486
+        ]
+    }
+}

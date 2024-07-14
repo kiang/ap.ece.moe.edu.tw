@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090204696號",
+        "reg_docno": "府社幼字第0980139776號",
+        "reg_date": "2009\/06\/17",
+        "title": "彰化縣私立陽明幼兒園",
+        "owner": "陳淑靖",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "私立",
+        "address": "[510]員水路ㄧ段395號、397號",
+        "floor": "1樓至2樓",
+        "size": "378.73平方公尺",
+        "size_in": "182.63平方公尺",
+        "size_out": "62.8平方公尺",
+        "tel": "(04)8355542",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：10",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2caf2493-98fe-4a26-a227-e54f9a040533",
+        "monthly": 6520
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.595755,
+            23.9515281
+        ]
+    }
+}

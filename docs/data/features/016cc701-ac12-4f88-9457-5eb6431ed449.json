@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138771900號",
+        "reg_docno": "高市教三字第01446號",
+        "reg_date": "1998\/01\/15",
+        "title": "高雄市私立常春藤幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]義華路68號",
+        "floor": "1-2",
+        "size": "1,259.5平方公尺",
+        "size_in": "703.5平方公尺",
+        "size_out": "556平方公尺",
+        "tel": "(07)3928366#7",
+        "url": "",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "016cc701-ac12-4f88-9457-5eb6431ed449",
+        "monthly": 15073
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.343734,
+            22.642411
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1110676439號",
+        "reg_docno": "南市教特(一)字第1080308853號",
+        "reg_date": "2019\/03\/20",
+        "title": "臺南市私立活水樹谷幼兒園",
+        "owner": "黃銘俊",
+        "city": "臺南市",
+        "town": "新市區",
+        "type": "私立",
+        "address": "[744]活水路11號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)5897396",
+        "url": "",
+        "count_approved": "304",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d3709e58-9944-43ce-8057-4b268950b1d1",
+        "monthly": 16650
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2628061,
+            23.1050511
+        ]
+    }
+}

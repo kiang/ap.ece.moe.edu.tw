@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100188985號",
+        "reg_docno": "府教幼字第1100188985號",
+        "reg_date": "2021\/08\/01",
+        "title": "桃園市新屋區社子國民小學附設幼兒園",
+        "owner": "賴美娟",
+        "city": "桃園市",
+        "town": "新屋區",
+        "type": "公立",
+        "address": "[327]社福路235號",
+        "floor": "1樓",
+        "size": "489.18平方公尺",
+        "size_in": "113.58平方公尺",
+        "size_out": "375.6平方公尺",
+        "tel": "(03)4772444#22",
+        "url": "https:\/\/sites.google.com\/szes.tyc.edu.tw\/preschool",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "428419fb-6df7-4718-9add-94c3fe84b1f5",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0816765,
+            24.956797
+        ]
+    }
+}

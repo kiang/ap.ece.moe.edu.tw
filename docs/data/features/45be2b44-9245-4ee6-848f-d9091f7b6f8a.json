@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1120233436號",
+        "reg_docno": "基府社福字第050160號",
+        "reg_date": "2000\/09\/19",
+        "title": "基隆市私立長樂森林幼兒園",
+        "owner": "劉宴伶",
+        "city": "基隆市",
+        "town": "安樂區",
+        "type": "私立",
+        "address": "[204]基金一路121巷36之1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24324298",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "45be2b44-9245-4ee6-848f-d9091f7b6f8a",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.717016,
+            25.136506
+        ]
+    }
+}

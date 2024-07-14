@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120241536號",
+        "reg_docno": "府教幼字第1020206535號",
+        "reg_date": "2013\/08\/22",
+        "title": "桃園市大溪區田心國民小學附設幼兒園",
+        "owner": "林秀穗",
+        "city": "桃園市",
+        "town": "大溪區",
+        "type": "公立",
+        "address": "[335]文化路120號",
+        "floor": "1樓、2樓",
+        "size": "564平方公尺",
+        "size_in": "364平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(03)3872008#106",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "44ae8771-ad06-4720-a6a8-1d454e1a02ba",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.292415,
+            24.8805358
+        ]
+    }
+}

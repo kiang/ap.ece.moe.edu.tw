@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010035512號",
+        "reg_docno": "87府社幼字第0159號",
+        "reg_date": "1998\/11\/21",
+        "title": "臺中市私立美強生幼兒園",
+        "owner": "陳玉章",
+        "city": "臺中市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[439]中山南路四九一號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26711212",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0798da27-a588-4dab-8c31-30f3ea54f5ce",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.584188,
+            24.351417
+        ]
+    }
+}

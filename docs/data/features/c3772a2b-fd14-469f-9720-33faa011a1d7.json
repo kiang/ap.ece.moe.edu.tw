@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市教前字字第1133006563號",
+        "reg_docno": "北市社五字第9027821200號",
+        "reg_date": "2001\/11\/12",
+        "title": "臺北市私立優格快樂幼兒園",
+        "owner": "林玲媛",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]石牌路二段315巷10弄10號1樓",
+        "floor": "1樓",
+        "size": "178.27平方公尺",
+        "size_in": "101.35平方公尺",
+        "size_out": "76.92平方公尺",
+        "tel": "(02)28718388",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c3772a2b-fd14-469f-9720-33faa011a1d7",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.523176,
+            25.12293
+        ]
+    }
+}

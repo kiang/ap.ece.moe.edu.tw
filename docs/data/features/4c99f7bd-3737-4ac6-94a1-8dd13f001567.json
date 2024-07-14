@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11209818000號",
+        "reg_docno": "屏府社福字第172730號",
+        "reg_date": "1986\/10\/17",
+        "title": "屏東縣私立育光幼兒園",
+        "owner": "沈春利",
+        "city": "屏東縣",
+        "town": "東港鎮",
+        "type": "私立",
+        "address": "[928]光復路一段391號",
+        "floor": "1.2樓",
+        "size": "479.21平方公尺",
+        "size_in": "277.06平方公尺",
+        "size_out": "202.15平方公尺",
+        "tel": "(08)8322813",
+        "url": "http:\/\/www.shanel.com.tw",
+        "count_approved": "136",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4c99f7bd-3737-4ac6-94a1-8dd13f001567",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4559659,
+            22.4690739
+        ]
+    }
+}

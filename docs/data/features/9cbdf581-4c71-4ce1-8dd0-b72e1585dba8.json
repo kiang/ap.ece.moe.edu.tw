@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0086號",
+        "reg_docno": "北府社兒字第0910101679號",
+        "reg_date": "2002\/03\/05",
+        "title": "新北市私立健群幼兒園",
+        "owner": "張秀觀",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]龍安路78號2樓,80號1,2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29032148",
+        "url": "http:\/\/janching.blogkids.net",
+        "count_approved": "58",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9cbdf581-4c71-4ce1-8dd0-b72e1585dba8",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.417292,
+            25.0206169
+        ]
+    }
+}

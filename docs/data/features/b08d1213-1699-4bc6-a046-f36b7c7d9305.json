@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040030546號",
+        "reg_docno": "府社婦字第0930038826號",
+        "reg_date": "2004\/02\/23",
+        "title": "桃園市私立百合精緻幼兒園",
+        "owner": "呂秋燕",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]廣州路128號1-2樓",
+        "floor": "1-2",
+        "size": "817.32平方公尺",
+        "size_in": "817.32平方公尺",
+        "size_out": "",
+        "tel": "(03)4685958",
+        "url": "",
+        "count_approved": "233",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：43",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b08d1213-1699-4bc6-a046-f36b7c7d9305",
+        "monthly": 10833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2310048,
+            24.9517621
+        ]
+    }
+}

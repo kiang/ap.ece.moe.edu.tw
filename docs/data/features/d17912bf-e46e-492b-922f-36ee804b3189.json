@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120231233號",
+        "reg_docno": "府社兒字第0980063155號",
+        "reg_date": "2009\/02\/24",
+        "title": "桃園市立觀音幼兒園新坡分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "觀音區",
+        "type": "公立",
+        "address": "[328]新生路76巷8弄1號",
+        "floor": "1樓",
+        "size": "5,200.62平方公尺",
+        "size_in": "785.74平方公尺",
+        "size_out": "4,414.88平方公尺",
+        "tel": "(03)4984335",
+        "url": "http:\/\/preschool.tyc.edu.tw\/guanyin\/index.php",
+        "count_approved": "140",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d17912bf-e46e-492b-922f-36ee804b3189",
+        "monthly": 3914
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1364006,
+            25.0144117
+        ]
+    }
+}

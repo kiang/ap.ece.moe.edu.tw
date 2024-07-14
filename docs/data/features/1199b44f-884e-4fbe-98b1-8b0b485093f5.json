@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680三重0008之2號",
+        "reg_docno": "北府社兒字第0910471138號",
+        "reg_date": "2002\/07\/30",
+        "title": "新北市私立邦喬妮幼兒園",
+        "owner": "吳玉芳",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]五華街21巷3號1樓,5樓1樓",
+        "floor": "1",
+        "size": "112.9平方公尺",
+        "size_in": "112.9平方公尺",
+        "size_out": "",
+        "tel": "(02)29831314",
+        "url": "",
+        "count_approved": "32",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1199b44f-884e-4fbe-98b1-8b0b485093f5",
+        "monthly": 10517
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.495102,
+            25.080612
+        ]
+    }
+}

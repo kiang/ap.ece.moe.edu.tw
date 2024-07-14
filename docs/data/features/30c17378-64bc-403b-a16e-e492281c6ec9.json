@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120351408號",
+        "reg_docno": "七三彰府教學字第97393號",
+        "reg_date": "1984\/05\/18",
+        "title": "彰化縣北斗鎮北斗國民小學附設幼兒園",
+        "owner": "游美雯",
+        "city": "彰化縣",
+        "town": "北斗鎮",
+        "type": "公立",
+        "address": "[521]文苑路一段32號",
+        "floor": "1樓、2樓",
+        "size": "953.8675平方公尺",
+        "size_in": "292.8平方公尺",
+        "size_out": "475.4675平方公尺",
+        "tel": "(04)8882008#23",
+        "url": "http:\/\/www.bdes.chc.edu.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "30c17378-64bc-403b-a16e-e492281c6ec9",
+        "monthly": 3522
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.523318,
+            23.8756441
+        ]
+    }
+}

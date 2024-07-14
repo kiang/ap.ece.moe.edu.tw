@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110191389號",
+        "reg_docno": "府教幼字第1110191389號",
+        "reg_date": "2022\/06\/14",
+        "title": "彰化縣湖西非營利幼兒園（委託社團法人彰化縣全方位教育協會辦理）",
+        "owner": "梁嫣玲",
+        "city": "彰化縣",
+        "town": "溪湖鎮",
+        "type": "非營利",
+        "address": "[514]北聖路20號",
+        "floor": "1樓",
+        "size": "613.62平方公尺",
+        "size_in": "338.62平方公尺",
+        "size_out": "275平方公尺",
+        "tel": "(04)8852691",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d2a6a6ae-ca08-4f71-9bd1-e57f28c45b5a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4677531,
+            23.9597046
+        ]
+    }
+}

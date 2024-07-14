@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551509號",
+        "reg_docno": "府授教幼字第1119550943號",
+        "reg_date": "2022\/08\/01",
+        "title": "新竹縣竹東鎮員崠國民小學附設幼兒園",
+        "owner": "曹江南",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "公立",
+        "address": "[310]東峰路281號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5951730",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "289f46f7-ac4b-4f99-b3a7-c60ba0a649b7",
+        "monthly": 3966
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0986455,
+            24.7135502
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1081167341號",
+        "reg_docno": "南市教特(一)字第1081167341號",
+        "reg_date": "2019\/10\/14",
+        "title": "臺南市私立曉信幼兒園",
+        "owner": "陳信夫",
+        "city": "臺南市",
+        "town": "新市區",
+        "type": "私立",
+        "address": "[744]龍目井路99號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,771.92平方公尺",
+        "size_in": "2,002.54平方公尺",
+        "size_out": "769.38平方公尺",
+        "tel": "(06)5851264#101",
+        "url": "",
+        "count_approved": "299",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ab7c0673-6d6f-4ac0-92c0-4bd8f187b13d",
+        "monthly": 24733
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3079595,
+            23.1101895
+        ]
+    }
+}

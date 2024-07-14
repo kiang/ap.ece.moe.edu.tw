@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教特字第10271425400號",
+        "reg_docno": "屏府社福字第14096號",
+        "reg_date": "1983\/02\/10",
+        "title": "屏東縣私立快樂幼兒園",
+        "owner": "陳愷文",
+        "city": "屏東縣",
+        "town": "屏東市",
+        "type": "私立",
+        "address": "[900]仁愛路175號",
+        "floor": "1樓、2樓、2",
+        "size": "262.72平方公尺",
+        "size_in": "262.72平方公尺",
+        "size_out": "",
+        "tel": "(08)7365306",
+        "url": "http:\/\/tw.myblog.yahoo.com\/hi-yous",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c6d2e8ed-ebe8-4edc-a68b-ca7bdb856230",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.497612,
+            22.682942
+        ]
+    }
+}

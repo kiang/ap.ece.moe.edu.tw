@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110244553號",
+        "reg_docno": "府教特字第1000012702號",
+        "reg_date": "2011\/01\/24",
+        "title": "桃園市龜山區幸福國民小學附設幼兒園",
+        "owner": "鄭武信",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "公立",
+        "address": "[333]頂興路115巷20",
+        "floor": "1樓",
+        "size": "663平方公尺",
+        "size_in": "363平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(03)3194072#130",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100057440858861",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cadc94af-4eb6-4bdc-8f59-36218d6c704c",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.330327,
+            24.988838
+        ]
+    }
+}

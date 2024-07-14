@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10934131900號",
+        "reg_docno": "高市教幼字第10934131900號",
+        "reg_date": "2020\/05\/21",
+        "title": "高雄市私立冠均幼兒園",
+        "owner": "林葆慧",
+        "city": "高雄市",
+        "town": "路竹區",
+        "type": "私立",
+        "address": "[821]大社路621巷1號",
+        "floor": "1樓、2樓",
+        "size": "791.18平方公尺",
+        "size_in": "473.07平方公尺",
+        "size_out": "318.11平方公尺",
+        "tel": "(07)6975818",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a4cf5a04-63be-46d5-803c-e889588b0af7",
+        "monthly": 4150
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2700774,
+            22.8668699
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1100178728號",
+        "reg_docno": "府勞社福字第0990186434號",
+        "reg_date": "2010\/10\/07",
+        "title": "苗栗縣私立巧園幼兒園",
+        "owner": "葉芳妤",
+        "city": "苗栗縣",
+        "town": "頭份市",
+        "type": "私立",
+        "address": "[351]長安街1號",
+        "floor": "1-2",
+        "size": "581.13平方公尺",
+        "size_in": "435.86平方公尺",
+        "size_out": "145.27平方公尺",
+        "tel": "(037)689336",
+        "url": "https:\/\/joyuankid.topschool.tw\/Home\/Main",
+        "count_approved": "127",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1a7c62fa-0f3d-4b5a-972c-935585d8976e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.909029,
+            24.691041
+        ]
+    }
+}

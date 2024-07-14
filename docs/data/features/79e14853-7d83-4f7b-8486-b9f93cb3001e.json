@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120345461號",
+        "reg_docno": "府教幼字第1120345461號",
+        "reg_date": "2023\/08\/30",
+        "title": "彰化縣村東非營利幼兒園（委託社團法人彰化縣親職福利服務協會辦理）",
+        "owner": "謝靜滿",
+        "city": "彰化縣",
+        "town": "大村鄉",
+        "type": "非營利",
+        "address": "[515]山腳路102-8號",
+        "floor": "1樓、2樓",
+        "size": "1,273.07平方公尺",
+        "size_in": "872.58平方公尺",
+        "size_out": "400.49平方公尺",
+        "tel": "(04)8520207",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "79e14853-7d83-4f7b-8486-b9f93cb3001e",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5821827,
+            23.9940585
+        ]
+    }
+}

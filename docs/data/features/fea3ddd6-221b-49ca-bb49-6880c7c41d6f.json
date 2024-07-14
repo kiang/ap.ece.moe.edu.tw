@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0029號",
+        "reg_docno": "北府社兒字第0910739465號",
+        "reg_date": "2002\/12\/23",
+        "title": "新北市私立愛蜜立幼兒園",
+        "owner": "陸聯祁",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]西盛街199之1號1、2樓",
+        "floor": "2",
+        "size": "104.09平方公尺",
+        "size_in": "104.09平方公尺",
+        "size_out": "",
+        "tel": "(02)82012438",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fea3ddd6-221b-49ca-bb49-6880c7c41d6f",
+        "monthly": 13667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.428278,
+            25.017051
+        ]
+    }
+}

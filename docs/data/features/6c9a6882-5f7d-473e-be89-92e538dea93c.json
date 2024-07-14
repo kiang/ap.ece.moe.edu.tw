@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11209686800號",
+        "reg_docno": "屏東教大人字第095005176號",
+        "reg_date": "1948\/08\/01",
+        "title": "國立屏東大學附設實驗國民小學附設幼兒園",
+        "owner": "高建民",
+        "city": "屏東縣",
+        "town": "屏東市",
+        "type": "公立",
+        "address": "[900]師校巷3號",
+        "floor": "1樓",
+        "size": "2,231平方公尺",
+        "size_in": "595平方公尺",
+        "size_out": "1,636平方公尺",
+        "tel": "(08)7221991",
+        "url": "http:\/\/tw.pre.urlifelinks.com\/school\/pttcps-ptc",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6c9a6882-5f7d-473e-be89-92e538dea93c",
+        "monthly": 3738
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.498605,
+            22.669075
+        ]
+    }
+}

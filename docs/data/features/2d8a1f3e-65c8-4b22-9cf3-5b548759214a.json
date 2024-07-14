@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060072950號",
+        "reg_docno": "中市教幼字第1060072950號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺中市東勢區新盛國民小學附設幼兒園",
+        "owner": "陳美娟",
+        "city": "臺中市",
+        "town": "東勢區",
+        "type": "公立",
+        "address": "[423]新盛街342號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25876642#770",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2d8a1f3e-65c8-4b22-9cf3-5b548759214a",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8318331,
+            24.2435149
+        ]
+    }
+}

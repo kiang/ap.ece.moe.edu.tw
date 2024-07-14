@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1112435156號",
+        "reg_docno": "府教特一字第1112435156號",
+        "reg_date": "2022\/07\/27",
+        "title": "雲林縣虎尾鎮立仁國民小學附設幼兒園",
+        "owner": "邱慧俐",
+        "city": "雲林縣",
+        "town": "虎尾鎮",
+        "type": "公立",
+        "address": "[632]立仁街40號",
+        "floor": "1樓",
+        "size": "828平方公尺",
+        "size_in": "252平方公尺",
+        "size_out": "576平方公尺",
+        "tel": "(05)6341202#620",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "382aeb8b-01ce-4570-972d-f19ccdd01a79",
+        "monthly": 4035
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.428277,
+            23.7058661
+        ]
+    }
+}

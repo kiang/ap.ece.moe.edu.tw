@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130036697號",
+        "reg_docno": "中市社婦字第1000098991號",
+        "reg_date": "1986\/02\/01",
+        "title": "臺中市立豐原幼兒園鎌村分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "公立",
+        "address": "[420]鎌村路465巷58號",
+        "floor": "1樓",
+        "size": "332.27平方公尺",
+        "size_in": "189.66平方公尺",
+        "size_out": "142.61平方公尺",
+        "tel": "(04)25369366",
+        "url": "https:\/\/fykg.tc.edu.tw\/",
+        "count_approved": "56",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d77f5c51-a73e-4983-9a36-bba9bd58d296",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7268178,
+            24.2261387
+        ]
+    }
+}

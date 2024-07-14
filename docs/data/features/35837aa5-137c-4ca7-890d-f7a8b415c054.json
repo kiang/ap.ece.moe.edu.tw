@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11332424700號",
+        "reg_docno": "府社福字第0910162430號",
+        "reg_date": "2002\/09\/17",
+        "title": "高雄市私立陽光寶貝幼兒園",
+        "owner": "劉淑美",
+        "city": "高雄市",
+        "town": "梓官區",
+        "type": "私立",
+        "address": "[826]港五街62號",
+        "floor": "1.2.3樓",
+        "size": "244.16平方公尺",
+        "size_in": "231.15平方公尺",
+        "size_out": "13.01平方公尺",
+        "tel": "(07)6176618",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "35837aa5-137c-4ca7-890d-f7a8b415c054",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.256655,
+            22.726621
+        ]
+    }
+}

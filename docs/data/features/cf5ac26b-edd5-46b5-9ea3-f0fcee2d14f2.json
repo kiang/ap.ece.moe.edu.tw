@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1050028034號",
+        "reg_docno": "府教學字第0990005809號",
+        "reg_date": "2004\/12\/15",
+        "title": "金門縣金湖鎮金湖國民小學附設幼兒園",
+        "owner": "陳為信",
+        "city": "金門縣",
+        "town": "金湖鎮",
+        "type": "公立",
+        "address": "[891]林森路12號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(082)335979",
+        "url": "",
+        "count_approved": "360",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cf5ac26b-edd5-46b5-9ea3-f0fcee2d14f2",
+        "monthly": 1578
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.416167,
+            24.441946
+        ]
+    }
+}

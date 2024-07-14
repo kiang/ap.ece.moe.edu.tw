@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1112437419號",
+        "reg_docno": "府教特一字第1052429709號",
+        "reg_date": "2016\/08\/01",
+        "title": "雲林縣山峰華德福教育實驗國民小學附設幼兒園",
+        "owner": "扈尚善",
+        "city": "雲林縣",
+        "town": "古坑鄉",
+        "type": "公立",
+        "address": "[646]山峰18號",
+        "floor": "1樓",
+        "size": "2,120平方公尺",
+        "size_in": "218平方公尺",
+        "size_out": "82平方公尺",
+        "tel": "(05)5822075",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1529d89d-f7b9-48d9-91ec-23f0788766e3",
+        "monthly": 3505
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6426794,
+            23.6128711
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100192024號",
+        "reg_docno": "府教國字第29944號",
+        "reg_date": "1997\/04\/15",
+        "title": "嘉義縣豐山實驗教育學校附設幼兒園",
+        "owner": "梁俊彥",
+        "city": "嘉義縣",
+        "town": "阿里山鄉",
+        "type": "公立",
+        "address": "[605]石鼓盤47號",
+        "floor": "1樓",
+        "size": "390平方公尺",
+        "size_in": "90平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(05)2661071#19",
+        "url": "www.fsees.cyc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "49e23a43-50de-40e7-be17-e7bf67770629",
+        "monthly": 3506
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.750169,
+            23.576085
+        ]
+    }
+}

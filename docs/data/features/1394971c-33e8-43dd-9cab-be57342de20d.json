@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090295294號",
+        "reg_docno": "府教特字第0980117831號",
+        "reg_date": "2009\/04\/01",
+        "title": "桃園市私立廣福幼兒園",
+        "owner": "鄭靜慧",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]廣福路327巷21號",
+        "floor": "1樓",
+        "size": "2,840平方公尺",
+        "size_in": "980平方公尺",
+        "size_out": "1,860平方公尺",
+        "tel": "(03)3756666",
+        "url": "",
+        "count_approved": "316",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：40",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1394971c-33e8-43dd-9cab-be57342de20d",
+        "monthly": 13393
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.294488,
+            24.9588399
+        ]
+    }
+}

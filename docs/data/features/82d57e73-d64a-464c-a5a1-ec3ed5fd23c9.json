@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110214513號",
+        "reg_docno": "府教特字第1000012702號",
+        "reg_date": "2011\/01\/24",
+        "title": "桃園市中壢區中正國民小學附設幼兒園",
+        "owner": "許梅珍",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "公立",
+        "address": "[320]榮民路369號1樓至2樓",
+        "floor": "1樓、2樓",
+        "size": "662平方公尺",
+        "size_in": "252平方公尺",
+        "size_out": "410平方公尺",
+        "tel": "(03)4559313#168",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "82d57e73-d64a-464c-a5a1-ec3ed5fd23c9",
+        "monthly": 6338
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.264115,
+            24.962288
+        ]
+    }
+}

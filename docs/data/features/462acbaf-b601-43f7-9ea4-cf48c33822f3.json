@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122409166號",
+        "reg_docno": "八三府人一字第157809號",
+        "reg_date": "1994\/07\/27",
+        "title": "雲林縣東勢鄉立幼兒園",
+        "owner": "張健福",
+        "city": "雲林縣",
+        "town": "東勢鄉",
+        "type": "公立",
+        "address": "[635]中山路9號",
+        "floor": "1樓、2樓",
+        "size": "3,277.08平方公尺",
+        "size_in": "2,108.89平方公尺",
+        "size_out": "1,168.19平方公尺",
+        "tel": "(05)6995213",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "462acbaf-b601-43f7-9ea4-cf48c33822f3",
+        "monthly": 3300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.283502,
+            23.682038
+        ]
+    }
+}

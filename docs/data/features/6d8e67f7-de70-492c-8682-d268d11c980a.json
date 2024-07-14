@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110199183號",
+        "reg_docno": "府教國字第49999號",
+        "reg_date": "1986\/07\/05",
+        "title": "嘉義縣布袋鎮永安國民小學附設幼兒園",
+        "owner": "周沛玲",
+        "city": "嘉義縣",
+        "town": "布袋鎮",
+        "type": "公立",
+        "address": "[625]大寮126號之2",
+        "floor": "1樓",
+        "size": "491平方公尺",
+        "size_in": "355平方公尺",
+        "size_out": "136平方公尺",
+        "tel": "(05)3472654",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6d8e67f7-de70-492c-8682-d268d11c980a",
+        "monthly": 3769
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.181672,
+            23.371416
+        ]
+    }
+}

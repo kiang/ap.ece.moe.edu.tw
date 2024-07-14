@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130149894號",
+        "reg_docno": "府教幼字第1130149894號",
+        "reg_date": "2024\/04\/23",
+        "title": "彰化縣花壇非營利幼兒園（委託社團法人彰化縣中華幼兒教保職涯發展協會辦理）",
+        "owner": "郭懿珊",
+        "city": "彰化縣",
+        "town": "花壇鄉",
+        "type": "非營利",
+        "address": "[503]學前路108號",
+        "floor": "1樓",
+        "size": "1,185.49平方公尺",
+        "size_in": "743.12平方公尺",
+        "size_out": "442.37平方公尺",
+        "tel": "(04)7515075",
+        "url": "https:\/\/www.facebook.com\/Huetuann",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e4ddab03-7259-45ca-aa30-7f3dfda623c9",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.543208,
+            24.026313
+        ]
+    }
+}

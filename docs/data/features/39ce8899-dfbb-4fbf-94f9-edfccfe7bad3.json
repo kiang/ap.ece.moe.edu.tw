@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110106213號",
+        "reg_docno": "中市教幼字第1110106213號",
+        "reg_date": "2022\/12\/15",
+        "title": "臺中市私立欣東森幼兒園",
+        "owner": "顏明德",
+        "city": "臺中市",
+        "town": "龍井區",
+        "type": "私立",
+        "address": "[434]中華路一段96號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,945.39平方公尺",
+        "size_in": "1,411.81平方公尺",
+        "size_out": "533.58平方公尺",
+        "tel": "(04)26982788",
+        "url": "",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "39ce8899-dfbb-4fbf-94f9-edfccfe7bad3",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5441768,
+            24.1801407
+        ]
+    }
+}

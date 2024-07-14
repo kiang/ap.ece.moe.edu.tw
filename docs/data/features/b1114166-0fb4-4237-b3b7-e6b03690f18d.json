@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11139811300號",
+        "reg_docno": "高市教幼字第11135600900號",
+        "reg_date": "2022\/07\/29",
+        "title": "國立科學工藝博物館員工子女非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+        "owner": "郭淑雅",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "非營利",
+        "address": "[807]九如一路797號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3800025",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b1114166-0fb4-4237-b3b7-e6b03690f18d",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3219739,
+            22.6382925
+        ]
+    }
+}

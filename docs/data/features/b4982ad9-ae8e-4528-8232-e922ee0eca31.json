@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0001號",
+        "reg_docno": "北府社兒字第0910265327號",
+        "reg_date": "2002\/05\/30",
+        "title": "新北市私立幼苗國際幼兒園",
+        "owner": "黃碧娥",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]中正北路165巷2號1樓,2樓,3樓",
+        "floor": "1.2.3樓",
+        "size": "1,000.64平方公尺",
+        "size_in": "900.5平方公尺",
+        "size_out": "",
+        "tel": "(02)89814080",
+        "url": "",
+        "count_approved": "228",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b4982ad9-ae8e-4528-8232-e922ee0eca31",
+        "monthly": 10300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.478791,
+            25.069759
+        ]
+    }
+}

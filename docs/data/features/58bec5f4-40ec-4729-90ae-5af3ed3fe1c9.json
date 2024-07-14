@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010024509號",
+        "reg_docno": "中市府社福字第8704號",
+        "reg_date": "1998\/04\/22",
+        "title": "臺中市私立康乃兒幼兒園",
+        "owner": "陳碧華",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[402]南門路35號1樓",
+        "floor": "1",
+        "size": "846平方公尺",
+        "size_in": "422.119平方公尺",
+        "size_out": "423.881平方公尺",
+        "tel": "(04)22855231",
+        "url": "",
+        "count_approved": "160",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "58bec5f4-40ec-4729-90ae-5af3ed3fe1c9",
+        "monthly": 9942
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.682143,
+            24.122193
+        ]
+    }
+}

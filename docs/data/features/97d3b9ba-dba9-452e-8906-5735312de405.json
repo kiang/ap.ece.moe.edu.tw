@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10932526200號",
+        "reg_docno": "75府教國字第19331號",
+        "reg_date": "1986\/02\/27",
+        "title": "高雄市私立心博愛幼兒園",
+        "owner": "郭秀戀",
+        "city": "高雄市",
+        "town": "梓官區",
+        "type": "私立",
+        "address": "[826]通安路229巷87號",
+        "floor": "1-2樓",
+        "size": "662.61平方公尺",
+        "size_in": "128.81平方公尺",
+        "size_out": "533.8平方公尺",
+        "tel": "(07)6101539",
+        "url": "高雄市梓官區通安路229巷87號",
+        "count_approved": "200",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "97d3b9ba-dba9-452e-8906-5735312de405",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.252598,
+            22.728897
+        ]
+    }
+}

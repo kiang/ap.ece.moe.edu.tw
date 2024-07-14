@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010238253號",
+        "reg_docno": "八八彰府社福字第022646號",
+        "reg_date": "1999\/02\/01",
+        "title": "彰化縣私立光華幼兒園",
+        "owner": "粘惠珠",
+        "city": "彰化縣",
+        "town": "二林鎮",
+        "type": "私立",
+        "address": "[526]中央北街40之2號",
+        "floor": "1",
+        "size": "700.7平方公尺",
+        "size_in": "408.34平方公尺",
+        "size_out": "292.36平方公尺",
+        "tel": "(04)8685968",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "792c6aca-f9f7-458c-acd1-2ff5686aafdc",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4202267,
+            23.955
+        ]
+    }
+}

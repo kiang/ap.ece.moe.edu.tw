@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第10802177091號",
+        "reg_docno": "府社兒字第0990429542號",
+        "reg_date": "2010\/10\/29",
+        "title": "桃園市立平鎮幼兒園紹豐分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "公立",
+        "address": "[324]湧光路110號",
+        "floor": "1樓、1",
+        "size": "273.2平方公尺",
+        "size_in": "200.99平方公尺",
+        "size_out": "72.21平方公尺",
+        "tel": "(03)4695491",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1b6b52b3-7e62-4b06-a72b-1a3cd2308fc3",
+        "monthly": 3933
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.20943,
+            24.89675
+        ]
+    }
+}

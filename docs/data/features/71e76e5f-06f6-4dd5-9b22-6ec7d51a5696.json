@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110062949號",
+        "reg_docno": "中市教幼字第1110062949號",
+        "reg_date": "2022\/08\/12",
+        "title": "臺中酒廠職場互助教保服務中心(委託社團法人幼兒教保協會辦理)",
+        "owner": "林以凱",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]工業區二十八路2號",
+        "floor": "1樓",
+        "size": "172.7平方公尺",
+        "size_in": "172.7平方公尺",
+        "size_out": "",
+        "tel": "(04)23500160",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "71e76e5f-06f6-4dd5-9b22-6ec7d51a5696",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5991019,
+            24.1648084
+        ]
+    }
+}

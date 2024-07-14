@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100178218號",
+        "reg_docno": "府教特字第1050176594號",
+        "reg_date": "2016\/08\/01",
+        "title": "臺東縣金峰鄉介達國民小學附設幼兒園",
+        "owner": "林鴻祥",
+        "city": "臺東縣",
+        "town": "金峰鄉",
+        "type": "公立",
+        "address": "[964]正興105之1號",
+        "floor": "1樓",
+        "size": "245平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "95平方公尺",
+        "tel": "(089)781583#42",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7648b7fb-239b-4e15-bf60-8acd00e8a786",
+        "monthly": 4167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9964397,
+            22.604998
+        ]
+    }
+}

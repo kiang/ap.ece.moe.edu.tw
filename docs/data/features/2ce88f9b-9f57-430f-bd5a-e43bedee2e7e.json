@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110072030號",
+        "reg_docno": "中市教幼字第1060072949號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺中市東勢區中山國民小學附設幼兒園",
+        "owner": "譚至皙",
+        "city": "臺中市",
+        "town": "東勢區",
+        "type": "公立",
+        "address": "[423]泰昌里中泰街88號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25872471",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2ce88f9b-9f57-430f-bd5a-e43bedee2e7e",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8351134,
+            24.2529395
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11138969900號",
+        "reg_docno": "高市教幼字第11134714500號",
+        "reg_date": "2022\/07\/15",
+        "title": "國防部海軍司令部海光員工子女非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+        "owner": "郭淑雅",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "非營利",
+        "address": "[813]介壽路9號",
+        "floor": "1樓、2樓",
+        "size": "1,063.73平方公尺",
+        "size_in": "628.03平方公尺",
+        "size_out": "435.7平方公尺",
+        "tel": "(07)5810265",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "68cbd277-4cd2-4b03-8f98-a6883e515a67",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2798052,
+            22.6841624
+        ]
+    }
+}

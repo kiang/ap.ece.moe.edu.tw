@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新店0035號",
+        "reg_docno": "八九北府社兒字第89336950號",
+        "reg_date": "2000\/08\/31",
+        "title": "新北市私立佳欣北新幼兒園",
+        "owner": "王選南",
+        "city": "新北市",
+        "town": "新店區",
+        "type": "私立",
+        "address": "[231]北新路二段29巷1弄1號1,2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)86653778",
+        "url": "http:\/\/amy.blogkids.net",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cbd17ee5-7c7a-405c-a4f7-baec4e9989eb",
+        "monthly": 12933
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.542384,
+            24.972562
+        ]
+    }
+}

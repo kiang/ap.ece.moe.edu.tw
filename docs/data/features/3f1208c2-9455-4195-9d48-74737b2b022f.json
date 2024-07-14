@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060006535號",
+        "reg_docno": "中市教幼字第1060006535號",
+        "reg_date": "2017\/02\/16",
+        "title": "臺中市私立春上樹幼兒園",
+        "owner": "黃貴美",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]太順東街60號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24370470",
+        "url": "",
+        "count_approved": "259",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3f1208c2-9455-4195-9d48-74737b2b022f",
+        "monthly": 16500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7222375,
+            24.1599987
+        ]
+    }
+}

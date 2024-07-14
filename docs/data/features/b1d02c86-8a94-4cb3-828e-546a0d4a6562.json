@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1139551205號",
+        "reg_docno": "府授教幼字第1139551205號",
+        "reg_date": "2024\/07\/02",
+        "title": "財團法人台灣省天主教會新竹教區附設新竹縣私立二重幼兒園",
+        "owner": "李克勉",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "私立",
+        "address": "[310]中興路三段59號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5824314",
+        "url": "",
+        "count_approved": "200",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b1d02c86-8a94-4cb3-828e-546a0d4a6562",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.057229,
+            24.765937
+        ]
+    }
+}

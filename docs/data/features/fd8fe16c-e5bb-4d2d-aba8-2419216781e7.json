@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10634949200號",
+        "reg_docno": "高市教幼字第10634949200號",
+        "reg_date": "2017\/08\/02",
+        "title": "高雄市私立新思維幼兒園",
+        "owner": "黃璟涵",
+        "city": "高雄市",
+        "town": "仁武區",
+        "type": "私立",
+        "address": "[814]八德中路295巷38號1-3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "564.88平方公尺",
+        "size_in": "453.9平方公尺",
+        "size_out": "110.98平方公尺",
+        "tel": "(07)3737000",
+        "url": "高雄市仁武區八卦里31鄰八德中路295巷38號",
+        "count_approved": "58",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fd8fe16c-e5bb-4d2d-aba8-2419216781e7",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3332318,
+            22.6852455
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110276039號",
+        "reg_docno": "府社兒字第0990578525號",
+        "reg_date": "2010\/12\/28",
+        "title": "桃園市私立巧宜幼兒園",
+        "owner": "洪崇智",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]新中北路508號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4629375",
+        "url": "桃園市中壢區新中北路508號",
+        "count_approved": "143",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "913b2f90-d9c2-45f9-a1e6-72c472909089",
+        "monthly": 7983
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.245539,
+            24.9572509
+        ]
+    }
+}

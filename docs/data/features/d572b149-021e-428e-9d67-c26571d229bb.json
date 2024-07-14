@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080071709號",
+        "reg_docno": "中市教幼字第1080071709號",
+        "reg_date": "2019\/08\/01",
+        "title": "臺中市大雅區汝鎏國民小學附設幼兒園",
+        "owner": "紀國揚",
+        "city": "臺中市",
+        "town": "大雅區",
+        "type": "公立",
+        "address": "[428]平和路238號",
+        "floor": "1樓",
+        "size": "2,635平方公尺",
+        "size_in": "135平方公尺",
+        "size_out": "2,500平方公尺",
+        "tel": "(04)25661454#205",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d572b149-021e-428e-9d67-c26571d229bb",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6259942,
+            24.230987
+        ]
+    }
+}

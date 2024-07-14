@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110226471號",
+        "reg_docno": "府教幼字第1080189690號",
+        "reg_date": "2019\/08\/01",
+        "title": "桃園市中壢區山東國民小學附設幼兒園",
+        "owner": "劉文忠",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "公立",
+        "address": "[320]山東1路39號",
+        "floor": "1樓",
+        "size": "975平方公尺",
+        "size_in": "75平方公尺",
+        "size_out": "900平方公尺",
+        "tel": "(03)4981323#300",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "edaf867f-d520-4e54-b657-be0b7d934ae8",
+        "monthly": 4005
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1730075,
+            25.0160605
+        ]
+    }
+}

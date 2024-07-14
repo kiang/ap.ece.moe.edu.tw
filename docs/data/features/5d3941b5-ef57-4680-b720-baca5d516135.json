@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1010171996號",
+        "reg_docno": "基府社福字第115623號",
+        "reg_date": "1999\/12\/09",
+        "title": "基隆市私立小太陽幼兒園",
+        "owner": "游淑貞",
+        "city": "基隆市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[202]義一路87號2樓之2、2樓之3、",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24234000",
+        "url": "",
+        "count_approved": "62",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5d3941b5-ef57-4680-b720-baca5d516135",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.746677,
+            25.134788
+        ]
+    }
+}

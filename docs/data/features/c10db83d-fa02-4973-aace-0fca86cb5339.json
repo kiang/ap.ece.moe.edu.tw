@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1072252285號",
+        "reg_docno": "北府社兒字第0910055472號",
+        "reg_date": "2002\/01\/29",
+        "title": "新北市私立威妮斯特堡幼兒園",
+        "owner": "林偉力",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]五華街161號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28572999",
+        "url": "",
+        "count_approved": "170",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c10db83d-fa02-4973-aace-0fca86cb5339",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.490549,
+            25.084901
+        ]
+    }
+}

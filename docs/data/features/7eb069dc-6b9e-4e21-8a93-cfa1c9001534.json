@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第363號",
+        "reg_docno": "北市社五字第24504號",
+        "reg_date": "1997\/05\/16",
+        "title": "臺北市私立多多優質幼兒園",
+        "owner": "孫麗婷",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]光復南路46巷25.27,29號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)25791370",
+        "url": "https:\/\/hocom.tw\/多多優質幼兒園",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7eb069dc-6b9e-4e21-8a93-cfa1c9001534",
+        "monthly": 7500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.556074,
+            25.046079
+        ]
+    }
+}

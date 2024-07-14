@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130034043號",
+        "reg_docno": "中市府社婦字第9409號",
+        "reg_date": "2005\/04\/20",
+        "title": "臺中市私立弘明幼兒園",
+        "owner": "陳火爐",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[402]復興路二段71巷31弄25號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22616639",
+        "url": "http:\/\/school.holdmean.org.tw\/child\/www\/concept.htm",
+        "count_approved": "155",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5a403c8e-07eb-402e-ab38-4650bcf2e081",
+        "monthly": 11000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6581546,
+            24.1218961
+        ]
+    }
+}

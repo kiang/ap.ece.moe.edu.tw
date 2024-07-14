@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第417-2號",
+        "reg_docno": "國字第330002號",
+        "reg_date": "1970\/01\/01",
+        "title": "國立臺北教育大學附設實驗國民小學附設幼兒園",
+        "owner": "祝勤捷",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "公立",
+        "address": "[106]和平東路二段94號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27356186#180",
+        "url": "http:\/\/css000000251814.tw.class.uschoolnet.com\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5b6d9a12-8d1d-47f3-89f0-d82ed13ea323",
+        "monthly": 7490
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.540419,
+            25.0250479
+        ]
+    }
+}

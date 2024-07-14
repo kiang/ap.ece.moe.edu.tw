@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第352號",
+        "reg_docno": "北市教三字第7142號",
+        "reg_date": "1970\/01\/01",
+        "title": "臺北市私立君格幼兒園",
+        "owner": "周麗珍",
+        "city": "臺北市",
+        "town": "信義區",
+        "type": "私立",
+        "address": "[110]松隆路9巷21、23號1樓",
+        "floor": "1樓",
+        "size": "311.46平方公尺",
+        "size_in": "226.65平方公尺",
+        "size_out": "84.81平方公尺",
+        "tel": "(02)27614112",
+        "url": "www.jengo.com.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "56874a46-0888-4abe-8891-958d084629ad",
+        "monthly": 18500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.567033,
+            25.044454
+        ]
+    }
+}

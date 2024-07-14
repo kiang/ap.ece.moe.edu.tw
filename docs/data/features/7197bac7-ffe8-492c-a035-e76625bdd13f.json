@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11237227300號",
+        "reg_docno": "高市教三字第0960017132號",
+        "reg_date": "2007\/05\/03",
+        "title": "高雄市左營區新莊國民小學附設幼兒園",
+        "owner": "劉瑞政",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "公立",
+        "address": "[813]自由三路一號",
+        "floor": "1樓",
+        "size": "684.06平方公尺",
+        "size_in": "209.38平方公尺",
+        "size_out": "474.68平方公尺",
+        "tel": "(07)3411373#812",
+        "url": "http:\/\/www.sjps.kh.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7197bac7-ffe8-492c-a035-e76625bdd13f",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3086588,
+            22.6691466
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010383592號",
+        "reg_docno": "府教國字第60254號",
+        "reg_date": "1975\/06\/23",
+        "title": "臺南市私立仁義幼兒園",
+        "owner": "吳佳霓",
+        "city": "臺南市",
+        "town": "仁德區",
+        "type": "私立",
+        "address": "[717]中正路二段936巷14號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2794392",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "72f9b966-b7f7-4027-bc05-2c25b464cadc",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.253813,
+            22.965592
+        ]
+    }
+}

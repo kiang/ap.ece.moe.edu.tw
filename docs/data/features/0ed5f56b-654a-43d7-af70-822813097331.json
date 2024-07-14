@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080104619號",
+        "reg_docno": "府教特字第0930040094號",
+        "reg_date": "2004\/03\/22",
+        "title": "新竹市私立童欣幼兒園",
+        "owner": "石周富梅",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]金農路42巷19號1樓",
+        "floor": "1樓、2樓",
+        "size": "1,713.13平方公尺",
+        "size_in": "786.83平方公尺",
+        "size_out": "864.05平方公尺",
+        "tel": "(03)5311855",
+        "url": "www.hsin.woby.tw\/",
+        "count_approved": "225",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "0ed5f56b-654a-43d7-af70-822813097331",
+        "monthly": 10417
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.964797,
+            24.823585
+        ]
+    }
+}

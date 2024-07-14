@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第93-1號",
+        "reg_docno": "北市教三字第13820號",
+        "reg_date": "1974\/04\/30",
+        "title": "臺北市私立心幼文幼兒園",
+        "owner": "林小燕",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]實踐街54號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28286318",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "67a5275f-9f99-4a44-b652-9124d50c19e5",
+        "monthly": 11250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.509395,
+            25.1152099
+        ]
+    }
+}

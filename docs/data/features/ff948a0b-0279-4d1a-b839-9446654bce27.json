@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11138706900號",
+        "reg_docno": "高市教幼字第11138706900號",
+        "reg_date": "2022\/11\/23",
+        "title": "高雄市私立新資優生楠梓幼兒園",
+        "owner": "黃竣煜",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "私立",
+        "address": "[811]高雄大學路227號",
+        "floor": "1樓、2樓",
+        "size": "2,758.62平方公尺",
+        "size_in": "1,816.42平方公尺",
+        "size_out": "942.2平方公尺",
+        "tel": "(07)3657666",
+        "url": "",
+        "count_approved": "319",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ff948a0b-0279-4d1a-b839-9446654bce27",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2852353,
+            22.7256809
+        ]
+    }
+}

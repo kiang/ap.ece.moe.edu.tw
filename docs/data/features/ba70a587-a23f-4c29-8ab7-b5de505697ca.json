@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070067030號",
+        "reg_docno": "七五彰府教國字第104987號",
+        "reg_date": "1986\/05\/20",
+        "title": "彰化縣鹿港鎮文開國民小學附設幼兒園",
+        "owner": "詹雪梅",
+        "city": "彰化縣",
+        "town": "鹿港鎮",
+        "type": "公立",
+        "address": "[505]文開路60號",
+        "floor": "1樓",
+        "size": "2,487.092平方公尺",
+        "size_in": "560.892平方公尺",
+        "size_out": "1,926.2平方公尺",
+        "tel": "(04)7765107#10或12",
+        "url": "https:\/\/sites.google.com\/a\/wkes.chc.edu.tw\/kinder\/wen-kai-fu-you",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ba70a587-a23f-4c29-8ab7-b5de505697ca",
+        "monthly": 3542
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.430307,
+            24.0569899
+        ]
+    }
+}

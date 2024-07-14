@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090307158號",
+        "reg_docno": "府教幼字第1090307158號",
+        "reg_date": "2020\/08\/26",
+        "title": "彰化縣國聖非營利幼兒園（委託社團法人彰化縣全方位教育協會辦理）",
+        "owner": "梁嫣玲",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "非營利",
+        "address": "[500]中山路三段608號",
+        "floor": "1樓、2樓",
+        "size": "1,457.2平方公尺",
+        "size_in": "1,022.47平方公尺",
+        "size_out": "434.73平方公尺",
+        "tel": "(04)7388697",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cb4d4ecb-6fd6-4302-93e4-513f34a9c96f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5680891,
+            24.092292
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070075853號",
+        "reg_docno": "府教特字第1020400140號",
+        "reg_date": "2013\/12\/30",
+        "title": "新竹市私立帝堡幼兒園",
+        "owner": "徐盛良",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]光華二街72巷41號1-3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,710.39平方公尺",
+        "size_in": "1,164.09平方公尺",
+        "size_out": "546.3平方公尺",
+        "tel": "(03)5359347",
+        "url": "dibao16888@gmail.com",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "85aced3c-3425-49c8-88ec-795862aa9550",
+        "monthly": 7700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.974856,
+            24.818256
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0117號",
+        "reg_docno": "北府社兒字第0940574749號",
+        "reg_date": "2005\/07\/29",
+        "title": "新北市私立葳肯幼兒園",
+        "owner": "高大晏",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]中正路213號2樓",
+        "floor": "1",
+        "size": "157.43平方公尺",
+        "size_in": "157.43平方公尺",
+        "size_out": "",
+        "tel": "(02)22728080",
+        "url": "",
+        "count_approved": "37",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "15bf45de-27f8-4367-8446-6f2fd3439851",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.456012,
+            25.017355
+        ]
+    }
+}

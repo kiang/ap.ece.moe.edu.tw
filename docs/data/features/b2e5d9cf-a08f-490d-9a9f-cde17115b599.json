@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1030074104號",
+        "reg_docno": "府教國字第95175號",
+        "reg_date": "1991\/09\/20",
+        "title": "臺中市私立華盛頓幼兒園",
+        "owner": "羅文貴",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]河北路二段239號1樓至3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22490665",
+        "url": "",
+        "count_approved": "196",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b2e5d9cf-a08f-490d-9a9f-cde17115b599",
+        "monthly": 10467
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6836191,
+            24.1753997
+        ]
+    }
+}

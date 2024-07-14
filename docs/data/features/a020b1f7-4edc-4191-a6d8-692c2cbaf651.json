@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11232790600號",
+        "reg_docno": "高市教幼字第11135458000號",
+        "reg_date": "2022\/07\/29",
+        "title": "國軍高雄總醫院職場互助教保服務中心(委託高雄市教保人員職業工會辦理)",
+        "owner": "黃雅雪",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]勝利路75號1樓至2樓、87號1樓",
+        "floor": "1樓、2樓",
+        "size": "312.6平方公尺",
+        "size_in": "312.6平方公尺",
+        "size_out": "",
+        "tel": "(07)7026522",
+        "url": "https:\/\/www.facebook.com\/afghkid",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a020b1f7-4edc-4191-a6d8-692c2cbaf651",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3738572,
+            22.629009
+        ]
+    }
+}

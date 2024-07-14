@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11333186500號",
+        "reg_docno": "高市社局五字第3770號",
+        "reg_date": "1999\/02\/02",
+        "title": "高雄市私立菳笛幼兒園",
+        "owner": "陳靖栗",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "私立",
+        "address": "[812]店鳳街111號",
+        "floor": "1樓",
+        "size": "691.7平方公尺",
+        "size_in": "342.7平方公尺",
+        "size_out": "349平方公尺",
+        "tel": "(07)8060839",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9e3b5c96-c395-4300-81bf-974a7dadd9ef",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.351423,
+            22.562903
+        ]
+    }
+}

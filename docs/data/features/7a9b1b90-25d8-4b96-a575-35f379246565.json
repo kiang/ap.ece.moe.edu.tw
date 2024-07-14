@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11138386200號",
+        "reg_docno": "高市教幼字第11135345400號",
+        "reg_date": "2022\/07\/27",
+        "title": "中正預校員工子女非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+        "owner": "郭淑雅",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "非營利",
+        "address": "[830]凱旋路1號",
+        "floor": "1樓、2樓",
+        "size": "3,573.6平方公尺",
+        "size_in": "964平方公尺",
+        "size_out": "2,609.6平方公尺",
+        "tel": "(07)7409571",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7a9b1b90-25d8-4b96-a575-35f379246565",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3590576,
+            22.6062645
+        ]
+    }
+}

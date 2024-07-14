@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1025424852號",
+        "reg_docno": "府教特字第0970402456號",
+        "reg_date": "2008\/04\/14",
+        "title": "雲林縣私立愛尼爾幼兒園",
+        "owner": "",
+        "city": "雲林縣",
+        "town": "褒忠鄉",
+        "type": "私立",
+        "address": "[634]泰安路78號",
+        "floor": "1-2樓",
+        "size": "3,388平方公尺",
+        "size_in": "1,482.52平方公尺",
+        "size_out": "1,905.48平方公尺",
+        "tel": "(05)6977626",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5cbcdcec-854f-4fc4-8630-b91a141c5319",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.29144,
+            23.694746
+        ]
+    }
+}

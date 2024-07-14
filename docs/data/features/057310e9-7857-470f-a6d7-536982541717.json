@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第111036859號",
+        "reg_docno": "府教幼字第1080212738號",
+        "reg_date": "2019\/08\/26",
+        "title": "桃園市文華非營利幼兒園（委託財團法人三之三生命教育基金會辦理）",
+        "owner": "吳文宗",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "非營利",
+        "address": "[333]文化七路116號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3272179#9",
+        "url": "http:\/\/www.3-3life.org.tw\/",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "057310e9-7857-470f-a6d7-536982541717",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3650787,
+            25.0514515
+        ]
+    }
+}

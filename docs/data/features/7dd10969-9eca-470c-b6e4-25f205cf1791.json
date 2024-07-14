@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0018號",
+        "reg_docno": "北府社兒字第0930860573號",
+        "reg_date": "2004\/12\/24",
+        "title": "新北市私立益智幼兒園",
+        "owner": "徐紅珍",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]集美街5號、7號2樓",
+        "floor": "2",
+        "size": "208.97平方公尺",
+        "size_in": "208.97平方公尺",
+        "size_out": "",
+        "tel": "(02)89722600",
+        "url": "",
+        "count_approved": "59",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7dd10969-9eca-470c-b6e4-25f205cf1791",
+        "monthly": 7000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.487405,
+            25.056504
+        ]
+    }
+}

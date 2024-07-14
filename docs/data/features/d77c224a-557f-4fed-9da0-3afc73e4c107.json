@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100050026號",
+        "reg_docno": "中市府社福字第8517號",
+        "reg_date": "1996\/11\/11",
+        "title": "臺中市私立南屯光隆幼兒園",
+        "owner": "柯淑玲",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]向心南路981巷34號",
+        "floor": "1~2樓",
+        "size": "1,959.84平方公尺",
+        "size_in": "766.84平方公尺",
+        "size_out": "1,193平方公尺",
+        "tel": "(04)23898338",
+        "url": "",
+        "count_approved": "190",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d77c224a-557f-4fed-9da0-3afc73e4c107",
+        "monthly": 7233
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.642999,
+            24.137625
+        ]
+    }
+}

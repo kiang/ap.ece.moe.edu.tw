@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11037422700號",
+        "reg_docno": "高市教幼字第11037422700號",
+        "reg_date": "2021\/10\/12",
+        "title": "高雄市獅甲非營利幼兒園(委託財團法人高雄市私立復華高級中學辦理)",
+        "owner": "孫建行",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "非營利",
+        "address": "[806]中山三路43號",
+        "floor": "2樓",
+        "size": "6,687.32平方公尺",
+        "size_in": "2,593.8平方公尺",
+        "size_out": "4,093.52平方公尺",
+        "tel": "(07)3307303",
+        "url": "評鑑情形：",
+        "count_approved": "304",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "76e1c8b2-7ba4-488d-8bfc-2ddbd956a906",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3083121,
+            22.6051691
+        ]
+    }
+}

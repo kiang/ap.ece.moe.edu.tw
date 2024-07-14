@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1010171993號",
+        "reg_docno": "基府社福字第075178號",
+        "reg_date": "2001\/08\/23",
+        "title": "基隆市私立海大幼兒園",
+        "owner": "林家安",
+        "city": "基隆市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[202]新豐街251巷9弄1號",
+        "floor": "1樓至2樓",
+        "size": "186.42平方公尺",
+        "size_in": "186.42平方公尺",
+        "size_out": "",
+        "tel": "(02)24697979",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "14a806fb-3936-4e0e-84f8-d5a72d13d289",
+        "monthly": 10477
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7885441,
+            25.1347932
+        ]
+    }
+}

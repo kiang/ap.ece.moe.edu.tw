@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040224532號",
+        "reg_docno": "府社兒字第1000543011號",
+        "reg_date": "1969\/09\/01",
+        "title": "桃園市立楊梅幼兒園大平分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "公立",
+        "address": "[326]甡甡路6號1-2樓",
+        "floor": "1-2樓",
+        "size": "243.5平方公尺",
+        "size_in": "111.7平方公尺",
+        "size_out": "131.8平方公尺",
+        "tel": "(03)4780210",
+        "url": "http:\/\/w1.viewrich.com\/yangmei_kid\/index.html",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "52230d63-ade4-4102-8ed2-a13e2bb2ebb9",
+        "monthly": 3868
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1389015,
+            24.8978242
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11330882600號",
+        "reg_docno": "府社福字第0990341838號",
+        "reg_date": "2000\/01\/05",
+        "title": "高雄市內門區觀亭國民小學附設幼兒園",
+        "owner": "王宗坤",
+        "city": "高雄市",
+        "town": "內門區",
+        "type": "公立",
+        "address": "[845]中正路227號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6671672#71",
+        "url": "https:\/\/class.kh.edu.tw\/5849\/fpage\/view\/1",
+        "count_approved": "112",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dfbfd6aa-c091-438e-b079-0bd0fbfcbf33",
+        "monthly": 3725
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4530152,
+            22.9185892
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110226745號",
+        "reg_docno": "府教幼字第1110226745號",
+        "reg_date": "2022\/08\/12",
+        "title": "桃園市中華電信富國職場互助教保服務中心(委託社團法人台灣幼兒早期教育協會辦理)",
+        "owner": "劉百純",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]富國路220號",
+        "floor": "1樓",
+        "size": "301.52平方公尺",
+        "size_in": "283平方公尺",
+        "size_out": "",
+        "tel": "(03)2150263",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "325ab80b-c40a-4ce0-9d3c-f66311db6bdb",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2865039,
+            25.0138111
+        ]
+    }
+}

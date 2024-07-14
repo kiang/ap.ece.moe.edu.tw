@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060262084號",
+        "reg_docno": "府教幼字第1060262084號",
+        "reg_date": "2017\/10\/31",
+        "title": "桃園市私立幸福日光幼兒園",
+        "owner": "朱慧蘭",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]元生三街99號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4341099",
+        "url": "",
+        "count_approved": "196",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ece12db9-92c2-46d1-b6b2-e3142649993f",
+        "monthly": 10345
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.253403,
+            24.9778038
+        ]
+    }
+}

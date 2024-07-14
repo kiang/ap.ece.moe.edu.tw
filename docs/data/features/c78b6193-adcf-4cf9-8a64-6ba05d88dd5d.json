@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120231233號",
+        "reg_docno": "府社兒字第0980063149號",
+        "reg_date": "2003\/02\/14",
+        "title": "桃園市立觀音幼兒園",
+        "owner": "陳美玲",
+        "city": "桃園市",
+        "town": "觀音區",
+        "type": "公立",
+        "address": "[328]民生路68號",
+        "floor": "1樓、2樓",
+        "size": "6,986.6平方公尺",
+        "size_in": "1,490.69平方公尺",
+        "size_out": "5,495.91平方公尺",
+        "tel": "(03)4833170#206",
+        "url": "http:\/\/www.gykid.bnet.tw\/",
+        "count_approved": "270",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c78b6193-adcf-4cf9-8a64-6ba05d88dd5d",
+        "monthly": 3914
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.123589,
+            25.051117
+        ]
+    }
+}

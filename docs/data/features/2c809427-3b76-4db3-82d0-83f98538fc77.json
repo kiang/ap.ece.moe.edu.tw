@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110244727號",
+        "reg_docno": "府教幼字第1100236643號",
+        "reg_date": "2021\/07\/05",
+        "title": "彰化縣萬興非營利幼兒園（委託社團法人彰化縣劍橋社會關懷協會辦理）",
+        "owner": "黃明昌",
+        "city": "彰化縣",
+        "town": "二林鎮",
+        "type": "非營利",
+        "address": "[526]二溪路六段626號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,549.09平方公尺",
+        "size_in": "1,140.07平方公尺",
+        "size_out": "409.02平方公尺",
+        "tel": "(04)8684860",
+        "url": "評鑑情形：",
+        "count_approved": "122",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2c809427-3b76-4db3-82d0-83f98538fc77",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4158187,
+            23.9554863
+        ]
+    }
+}

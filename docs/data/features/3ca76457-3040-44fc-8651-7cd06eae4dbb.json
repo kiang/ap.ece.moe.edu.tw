@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1010107915號",
+        "reg_docno": "府社福字第0950083336號",
+        "reg_date": "2006\/06\/28",
+        "title": "苗栗縣私立道聖幼兒園",
+        "owner": "鄧岐聖",
+        "city": "苗栗縣",
+        "town": "苑裡鎮",
+        "type": "私立",
+        "address": "[358]南苑三巷14、15號",
+        "floor": "1樓、2樓",
+        "size": "215.22平方公尺",
+        "size_in": "215.22平方公尺",
+        "size_out": "",
+        "tel": "(037)853388",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3ca76457-3040-44fc-8651-7cd06eae4dbb",
+        "monthly": 6800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6463521,
+            24.4372396
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120053931號",
+        "reg_docno": "中市教幼字第1120053931號",
+        "reg_date": "2023\/07\/10",
+        "title": "勞動部勞動力發展署中彰投分署職場互助教保服務中心(委託社團法人中華母子鳥專業幼教發展學會辦理)",
+        "owner": "蕭芳華",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]工業區一路100號",
+        "floor": "1樓",
+        "size": "340.13平方公尺",
+        "size_in": "340.13平方公尺",
+        "size_out": "",
+        "tel": "(04)23503633",
+        "url": "評鑑情形：",
+        "count_approved": "32",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b7ec27fe-abc7-44c2-840d-e2866131d1fa",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6101192,
+            24.1705407
+        ]
+    }
+}

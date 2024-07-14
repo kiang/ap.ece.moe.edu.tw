@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第4號",
+        "reg_docno": "北市社四字第210148號",
+        "reg_date": "1975\/04\/21",
+        "title": "財團法人台北市華亞之聲社中華基督教便以利教會附設臺北市私立華聲幼兒園",
+        "owner": "",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]指南路2段11號1樓",
+        "floor": "1樓",
+        "size": "544.32平方公尺",
+        "size_in": "313.77平方公尺",
+        "size_out": "230.55平方公尺",
+        "tel": "(02)29392038",
+        "url": "http:\/\/haw-sheng.bolgkids.net\/",
+        "count_approved": "235",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "815682b3-ce39-47d4-9d50-d046f128e274",
+        "monthly": 6800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.573328,
+            24.988475
+        ]
+    }
+}

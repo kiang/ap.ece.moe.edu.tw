@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080216110號",
+        "reg_docno": "府教幼字第1080216110號",
+        "reg_date": "2019\/08\/28",
+        "title": "桃園市快樂非營利幼兒園(委託社團法人台灣幼兒早期教育協會辦理)會稽分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "非營利",
+        "address": "[330]大興路222號",
+        "floor": "1樓",
+        "size": "259.076平方公尺",
+        "size_in": "169.076平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)3150126",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "62f621e4-2228-4709-9bb3-1eca075e38c9",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3138371,
+            25.0162038
+        ]
+    }
+}

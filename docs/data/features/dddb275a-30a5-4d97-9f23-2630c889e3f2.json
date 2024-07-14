@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111127485號",
+        "reg_docno": "南市教特(一)字第1060919098E號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺南市仁德區長興國民小學附設幼兒園",
+        "owner": "魏文南",
+        "city": "臺南市",
+        "town": "仁德區",
+        "type": "公立",
+        "address": "[717]土庫路6號",
+        "floor": "1樓",
+        "size": "900.81平方公尺",
+        "size_in": "528.81平方公尺",
+        "size_out": "372平方公尺",
+        "tel": "(06)2723986#511",
+        "url": "http:\/\/www.cses.tn.edu.tw",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dddb275a-30a5-4d97-9f23-2630c889e3f2",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2605322,
+            22.9904249
+        ]
+    }
+}

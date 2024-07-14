@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010032440號",
+        "reg_docno": "中市府社婦字第9011號",
+        "reg_date": "2001\/10\/05",
+        "title": "臺中市私立薇雅幼兒園",
+        "owner": "王國賢",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]大光街103號",
+        "floor": "1樓、2樓",
+        "size": "510.36平方公尺",
+        "size_in": "230.82平方公尺",
+        "size_out": "279.54平方公尺",
+        "tel": "(04)23205413",
+        "url": "",
+        "count_approved": "146",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "08030f1c-f62c-4d6b-a008-c4d8781431c6",
+        "monthly": 8850
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.647766,
+            24.147862
+        ]
+    }
+}

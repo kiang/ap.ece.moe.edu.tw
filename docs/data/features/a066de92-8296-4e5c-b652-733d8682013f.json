@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010020143號",
+        "reg_docno": "教國字第35566號",
+        "reg_date": "1959\/10\/19",
+        "title": "臺中市私立作新幼兒園",
+        "owner": "李老番",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]自強一街53號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23608371",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a066de92-8296-4e5c-b652-733d8682013f",
+        "monthly": 9993
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.694613,
+            24.1535589
+        ]
+    }
+}

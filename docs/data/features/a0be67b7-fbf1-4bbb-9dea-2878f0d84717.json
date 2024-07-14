@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620八里0001之1號",
+        "reg_docno": "北府社兒字第0930017025號",
+        "reg_date": "2004\/01\/08",
+        "title": "新北市私立青子園幼兒園",
+        "owner": "謝紫涵",
+        "city": "新北市",
+        "town": "八里區",
+        "type": "私立",
+        "address": "[249]中山路二段466巷23號1樓及夾層",
+        "floor": "一樓及夾層",
+        "size": "121.18平方公尺",
+        "size_in": "121.18平方公尺",
+        "size_out": "",
+        "tel": "(02)26102677",
+        "url": "",
+        "count_approved": "34",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a0be67b7-fbf1-4bbb-9dea-2878f0d84717",
+        "monthly": 13340
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4053479,
+            25.1517377
+        ]
+    }
+}

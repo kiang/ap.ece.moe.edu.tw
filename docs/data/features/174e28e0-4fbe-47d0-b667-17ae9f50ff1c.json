@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1110239731A號",
+        "reg_docno": "基府教前參字第1060238706號",
+        "reg_date": "2017\/08\/01",
+        "title": "基隆市暖暖區暖江國民小學附設幼兒園",
+        "owner": "張兆文",
+        "city": "基隆市",
+        "town": "暖暖區",
+        "type": "公立",
+        "address": "[205]寧靜街3號1-2樓",
+        "floor": "1樓、2樓",
+        "size": "1,170平方公尺",
+        "size_in": "270平方公尺",
+        "size_out": "900平方公尺",
+        "tel": "(02)24574348#20",
+        "url": "https:\/\/www.facebook.com\/groups\/450816131985047",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "174e28e0-4fbe-47d0-b667-17ae9f50ff1c",
+        "monthly": 3133
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7377817,
+            25.1054291
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680三重0032之5號",
+        "reg_docno": "七九北府教二字第130295號",
+        "reg_date": "1990\/05\/10",
+        "title": "新北市三重區興穀國民小學附設幼兒園",
+        "owner": "胡銘浚",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "公立",
+        "address": "[241]神農街101號",
+        "floor": "1樓",
+        "size": "659平方公尺",
+        "size_in": "479平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(02)29990725#150",
+        "url": "http:\/\/www.skps.ntpc.edu.tw\/",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4552d0c8-7f4d-4402-a61b-e66bcb3cd9bc",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4756081,
+            25.050473
+        ]
+    }
+}

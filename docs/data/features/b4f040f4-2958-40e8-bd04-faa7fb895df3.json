@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010041838號",
+        "reg_docno": "府社幼字第0930250964號",
+        "reg_date": "2004\/09\/24",
+        "title": "臺中市私立大雅安徒生幼兒園",
+        "owner": "高仁昌",
+        "city": "臺中市",
+        "town": "大雅區",
+        "type": "私立",
+        "address": "[428]學府路113巷25號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25685700",
+        "url": "http:\/\/www.skyschool.com.tw\/k6\/",
+        "count_approved": "74",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b4f040f4-2958-40e8-bd04-faa7fb895df3",
+        "monthly": 8410
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.650774,
+            24.217939
+        ]
+    }
+}

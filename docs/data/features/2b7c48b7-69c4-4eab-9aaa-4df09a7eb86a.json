@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100055636號",
+        "reg_docno": "教二字第49090號",
+        "reg_date": "1973\/10\/05",
+        "title": "臺中市南區國光國民小學附設幼兒園",
+        "owner": "趙祝凌",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "公立",
+        "address": "[402]國光路261號",
+        "floor": "1樓",
+        "size": "1,146.9平方公尺",
+        "size_in": "456.9平方公尺",
+        "size_out": "690平方公尺",
+        "tel": "(04)22872475#775",
+        "url": "https:\/\/kkes.tc.edu.tw\/",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2b7c48b7-69c4-4eab-9aaa-4df09a7eb86a",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.679612,
+            24.1257729
+        ]
+    }
+}

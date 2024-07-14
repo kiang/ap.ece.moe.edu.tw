@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前貳字第1030234413號",
+        "reg_docno": "基府社福字第050157號",
+        "reg_date": "2002\/05\/23",
+        "title": "基隆市私立培利安幼兒園",
+        "owner": "鄭曉玫",
+        "city": "基隆市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[202]新豐街510號1、2樓",
+        "floor": "1樓、2樓",
+        "size": "288.79平方公尺",
+        "size_in": "226.73平方公尺",
+        "size_out": "",
+        "tel": "(02)24601212",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ebb01849-502e-45c7-a02b-ffe1739e6a2b",
+        "monthly": 4300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7849005,
+            25.1353802
+        ]
+    }
+}

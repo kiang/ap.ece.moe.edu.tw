@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "南市教特(一)字第1111127405E號",
+        "reg_date": "2022\/08\/01",
+        "title": "臺南市七股區七股國民小學附設幼兒園",
+        "owner": "王琬婷",
+        "city": "臺南市",
+        "town": "七股區",
+        "type": "公立",
+        "address": "[724]395號",
+        "floor": "1樓",
+        "size": "365.33平方公尺",
+        "size_in": "201.91平方公尺",
+        "size_out": "163.42平方公尺",
+        "tel": "(06)7872076#290",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d2707f90-086c-4715-9e23-946055800216",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1011836,
+            23.1195166
+        ]
+    }
+}

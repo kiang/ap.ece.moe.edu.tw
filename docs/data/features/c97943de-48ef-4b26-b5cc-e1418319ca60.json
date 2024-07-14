@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120089866號",
+        "reg_docno": "七四府教學字第161588號",
+        "reg_date": "1985\/12\/01",
+        "title": "桃園市私立六合幼兒園",
+        "owner": "吳志祥",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]大同路409巷3、5、7、9號",
+        "floor": "1樓、1樓",
+        "size": "250平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(03)3298686",
+        "url": "http:\/\/liow-her.blogkids.net",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c97943de-48ef-4b26-b5cc-e1418319ca60",
+        "monthly": 3583
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3421659,
+            24.9936021
+        ]
+    }
+}

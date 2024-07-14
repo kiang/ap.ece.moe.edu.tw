@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第574號",
+        "reg_docno": "北市社五字第8907916900號",
+        "reg_date": "2000\/08\/30",
+        "title": "臺北市私立子愛幼兒園",
+        "owner": "呂淑君",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]興隆路四段165巷3、5號1樓",
+        "floor": "1樓",
+        "size": "143.2平方公尺",
+        "size_in": "143.2平方公尺",
+        "size_out": "",
+        "tel": "(02)29377790",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：10",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7e0579b6-5c4d-4897-a22f-9dd1bfd93df3",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.56226,
+            24.984219
+        ]
+    }
+}

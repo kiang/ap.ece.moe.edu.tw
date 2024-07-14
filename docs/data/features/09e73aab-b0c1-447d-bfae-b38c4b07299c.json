@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "輔教特字第1100078588號",
+        "reg_docno": "府教學字第0990022486號",
+        "reg_date": "1976\/08\/01",
+        "title": "金門縣金寧鄉金鼎國民小學附設幼兒園",
+        "owner": "曾秀玲",
+        "city": "金門縣",
+        "town": "金寧鄉",
+        "type": "公立",
+        "address": "[892]下堡123號",
+        "floor": "1樓",
+        "size": "1,869平方公尺",
+        "size_in": "1,068平方公尺",
+        "size_out": "801平方公尺",
+        "tel": "(082)325700#61",
+        "url": "https:\/\/sites.google.com\/view\/jinding",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "09e73aab-b0c1-447d-bfae-b38c4b07299c",
+        "monthly": 1578
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.338161,
+            24.447618
+        ]
+    }
+}

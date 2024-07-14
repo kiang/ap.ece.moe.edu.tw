@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10534938000號",
+        "reg_docno": "67府教國字第40142號",
+        "reg_date": "1978\/06\/14",
+        "title": "高雄市茄萣區砂崙國民小學附設幼兒園",
+        "owner": "簡靜慧",
+        "city": "高雄市",
+        "town": "茄萣區",
+        "type": "公立",
+        "address": "[852]文化路81號",
+        "floor": "1樓",
+        "size": "1,441.86平方公尺",
+        "size_in": "163.8平方公尺",
+        "size_out": "1,278.06平方公尺",
+        "tel": "(07)6900037#23",
+        "url": "www.slu.ks.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e05ecf56-2591-42f1-a251-30760fd20386",
+        "monthly": 3914
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1825304,
+            22.9134982
+        ]
+    }
+}

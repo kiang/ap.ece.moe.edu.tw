@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1060170777號",
+        "reg_docno": "府教特字第0953002939號",
+        "reg_date": "2006\/01\/27",
+        "title": "臺東縣臺東市豐榮國民小學附設幼兒園",
+        "owner": "毛慧莉",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "公立",
+        "address": "[950]中華路二段154巷150號",
+        "floor": "1樓",
+        "size": "160平方公尺",
+        "size_in": "80平方公尺",
+        "size_out": "80平方公尺",
+        "tel": "(089)323353#071",
+        "url": "http:\/\/frps.ttct.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9ac23e8c-8420-4b1a-86ef-113a02246821",
+        "monthly": 3722
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.13693,
+            22.74715
+        ]
+    }
+}

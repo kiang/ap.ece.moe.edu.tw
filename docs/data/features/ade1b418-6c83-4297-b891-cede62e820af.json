@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0009號",
+        "reg_docno": "89北府社兒字第89396782號",
+        "reg_date": "2000\/10\/13",
+        "title": "新北市私立超級小太陽幼兒園",
+        "owner": "葉布僑",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]天泉二街22巷1號1樓",
+        "floor": "1",
+        "size": "134.33平方公尺",
+        "size_in": "134.33平方公尺",
+        "size_out": "",
+        "tel": "(02)22091702",
+        "url": "新北市新莊區天泉二街22巷1號",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ade1b418-6c83-4297-b891-cede62e820af",
+        "monthly": 9670
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.414978,
+            25.025237
+        ]
+    }
+}

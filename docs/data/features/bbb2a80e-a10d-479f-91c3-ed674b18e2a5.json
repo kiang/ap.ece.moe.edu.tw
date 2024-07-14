@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第503-1號",
+        "reg_docno": "北市社五字第09432289600號",
+        "reg_date": "2005\/07\/19",
+        "title": "臺北市私立博如日本幼兒園",
+        "owner": "王妙涓",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]克強路10巷9弄29及31號1樓",
+        "floor": "1樓",
+        "size": "168.13平方公尺",
+        "size_in": "168.13平方公尺",
+        "size_out": "",
+        "tel": "(02)28340473",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "bbb2a80e-a10d-479f-91c3-ed674b18e2a5",
+        "monthly": 18703
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5235236,
+            25.1094197
+        ]
+    }
+}

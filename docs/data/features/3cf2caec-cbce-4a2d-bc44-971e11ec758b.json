@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0107號",
+        "reg_docno": "北府社兒字第0910203018號",
+        "reg_date": "2002\/04\/15",
+        "title": "新北市私立妙博士幼兒園",
+        "owner": "羅美珠",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]景德路212號1樓至2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)82015747",
+        "url": "",
+        "count_approved": "41",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3cf2caec-cbce-4a2d-bc44-971e11ec758b",
+        "monthly": 11500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.448912,
+            25.0338
+        ]
+    }
+}

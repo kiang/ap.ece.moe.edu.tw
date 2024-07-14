@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680三重0096之2號",
+        "reg_docno": "新北府教幼字第1081217835號",
+        "reg_date": "2019\/07\/26",
+        "title": "新北市私立加州森林國際幼兒園",
+        "owner": "陳麗珍",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]三信路100號1樓、2樓、3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,798.11平方公尺",
+        "size_in": "1,960.88平方公尺",
+        "size_out": "837.23平方公尺",
+        "tel": "(02)28579000",
+        "url": "",
+        "count_approved": "531",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "aac8b700-9c27-4c1d-bd3b-220cb12142d7",
+        "monthly": 19364
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4900531,
+            25.0880961
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1020253705號",
+        "reg_docno": "府教國字第12345號",
+        "reg_date": "1983\/02\/01",
+        "title": "臺南市私立輔仁幼兒園",
+        "owner": "王華勇",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]大灣一街341號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2714086",
+        "url": "www.furen.woby.com.tw",
+        "count_approved": "228",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6a26edc5-a970-45df-af17-94775693ab3c",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.270076,
+            23.004041
+        ]
+    }
+}

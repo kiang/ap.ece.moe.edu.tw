@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080077953號",
+        "reg_docno": "82府教國字第230656號",
+        "reg_date": "1993\/09\/17",
+        "title": "臺中市大雅區三和國民小學附設幼兒園",
+        "owner": "何昭伶",
+        "city": "臺中市",
+        "town": "大雅區",
+        "type": "公立",
+        "address": "[428]春亭二街1號",
+        "floor": "1樓、2樓",
+        "size": "982.1平方公尺",
+        "size_in": "347.1平方公尺",
+        "size_out": "635平方公尺",
+        "tel": "(04)25674474",
+        "url": "http:\/\/163.17.165.135\/new\/index.php",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e750c0cc-2967-409d-bad6-3b75f64c5380",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.668503,
+            24.219745
+        ]
+    }
+}

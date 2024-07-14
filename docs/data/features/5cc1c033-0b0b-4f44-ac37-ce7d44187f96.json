@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第815-1號",
+        "reg_docno": "北市教前字字第11230290381號",
+        "reg_date": "2023\/09\/23",
+        "title": "臺北市私立夏莉絲國際幼兒園",
+        "owner": "陳立原",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]杭州南路一段71巷5號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)23910698",
+        "url": "",
+        "count_approved": "37",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5cc1c033-0b0b-4f44-ac37-ce7d44187f96",
+        "monthly": 30000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5264254,
+            25.039728
+        ]
+    }
+}

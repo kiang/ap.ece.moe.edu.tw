@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1030007706號",
+        "reg_docno": "府教幼字第1030007706號",
+        "reg_date": "2014\/08\/05",
+        "title": "新竹縣私立康橋幼兒園",
+        "owner": "江根錐",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]嘉豐南路二段70號",
+        "floor": "1樓、2樓、3樓",
+        "size": "3,490.96平方公尺",
+        "size_in": "2,444.99平方公尺",
+        "size_out": "391.31平方公尺",
+        "tel": "(03)6577360",
+        "url": "http:\/\/ilovekangchiao.meworks.co\/",
+        "count_approved": "238",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7d48ccab-432f-430d-bc3e-8d84d4271548",
+        "monthly": 15833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0307406,
+            24.8054836
+        ]
+    }
+}

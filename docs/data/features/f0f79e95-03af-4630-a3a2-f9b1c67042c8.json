@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080217814號",
+        "reg_docno": "府教學字第09800893120號",
+        "reg_date": "2009\/04\/20",
+        "title": "南投縣私立仁義幼兒園",
+        "owner": "洪振洲",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "私立",
+        "address": "[540]文化路618號",
+        "floor": "1樓、2樓",
+        "size": "1,322.32平方公尺",
+        "size_in": "691.88平方公尺",
+        "size_out": "630.44平方公尺",
+        "tel": "(049)2233477",
+        "url": "",
+        "count_approved": "177",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f0f79e95-03af-4630-a3a2-f9b1c67042c8",
+        "monthly": 4700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.674825,
+            23.915338
+        ]
+    }
+}

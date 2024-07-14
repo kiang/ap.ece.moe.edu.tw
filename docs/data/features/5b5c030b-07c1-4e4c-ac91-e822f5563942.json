@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第187號",
+        "reg_docno": "北市社五字第8822250100號",
+        "reg_date": "1999\/04\/19",
+        "title": "臺北市私立育奇幼兒園",
+        "owner": "高雅",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]大同街200巷1號1樓",
+        "floor": "1",
+        "size": "145.7平方公尺",
+        "size_in": "145.7平方公尺",
+        "size_out": "",
+        "tel": "(02)28911899",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：6",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5b5c030b-07c1-4e4c-ac91-e822f5563942",
+        "monthly": 11236
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.499456,
+            25.137655
+        ]
+    }
+}

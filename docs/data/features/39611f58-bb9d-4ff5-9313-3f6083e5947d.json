@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680土城0013之5號",
+        "reg_docno": "七八北府教二字第268384號",
+        "reg_date": "1989\/08\/30",
+        "title": "新北市土城區土城國民小學附設幼兒園",
+        "owner": "謝芳儒",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "公立",
+        "address": "[236]興城路17號",
+        "floor": "1樓、2樓",
+        "size": "2,480平方公尺",
+        "size_in": "1,097平方公尺",
+        "size_out": "1,383平方公尺",
+        "tel": "(02)22700177#881",
+        "url": "www.ttcps.ntpc.edu.tw",
+        "count_approved": "226",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "39611f58-bb9d-4ff5-9313-3f6083e5947d",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.441983,
+            24.9710359
+        ]
+    }
+}

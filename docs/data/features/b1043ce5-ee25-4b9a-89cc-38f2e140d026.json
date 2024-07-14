@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110022728號",
+        "reg_docno": "府教幼字第1110022728號",
+        "reg_date": "2022\/01\/25",
+        "title": "桃園市私立彩虹島幼兒園",
+        "owner": "董政家",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]文青二路12號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3187839",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b1043ce5-ee25-4b9a-89cc-38f2e140d026",
+        "monthly": 12917
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3878768,
+            25.0393405
+        ]
+    }
+}

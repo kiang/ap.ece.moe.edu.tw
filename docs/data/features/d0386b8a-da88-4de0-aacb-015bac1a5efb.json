@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130052976號",
+        "reg_docno": "府社婦字第0950151068號",
+        "reg_date": "2006\/06\/01",
+        "title": "桃園市立楊梅幼兒園高新分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "公立",
+        "address": "[326]高新街151號1-2樓",
+        "floor": "1-2樓",
+        "size": "1,080.17平方公尺",
+        "size_in": "300.42平方公尺",
+        "size_out": "779.75平方公尺",
+        "tel": "(03)4759921",
+        "url": "https:\/\/www.yangmei.bnet.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d0386b8a-da88-4de0-aacb-015bac1a5efb",
+        "monthly": 3868
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1423914,
+            24.9260187
+        ]
+    }
+}

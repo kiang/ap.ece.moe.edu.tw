@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010346671號",
+        "reg_docno": "府社福字第910018041號",
+        "reg_date": "2002\/01\/31",
+        "title": "臺南市私立史丹佛幼兒園",
+        "owner": "鄭瑞桃",
+        "city": "臺南市",
+        "town": "官田區",
+        "type": "私立",
+        "address": "[720]56-39號",
+        "floor": "1樓",
+        "size": "2,377.77平方公尺",
+        "size_in": "1,062.46平方公尺",
+        "size_out": "1,315.31平方公尺",
+        "tel": "(06)6994999",
+        "url": "http:\/\/shidanfo.woby.com.tw",
+        "count_approved": "260",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "84d157e4-6e80-4f38-b411-ac6f7c430fcb",
+        "monthly": 17957
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.326079,
+            23.220435
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120086402號",
+        "reg_docno": "中市教幼字第1110061763號",
+        "reg_date": "2022\/08\/01",
+        "title": "臺中市中山非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "非營利",
+        "address": "[407]寧夏路179號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,416.9平方公尺",
+        "size_in": "967.6平方公尺",
+        "size_out": "449.3平方公尺",
+        "tel": "(04)23156882",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c4b4044c-3107-4c47-a0c8-c1622987965a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6602349,
+            24.1685613
+        ]
+    }
+}

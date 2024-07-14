@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0050號",
+        "reg_docno": "八八北府社四字第88255729號",
+        "reg_date": "1999\/07\/02",
+        "title": "新北市私立康大幼兒園",
+        "owner": "林美莉",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]福德一路86巷46號1樓、2樓",
+        "floor": "1-2搂",
+        "size": "296.03平方公尺",
+        "size_in": "246.34平方公尺",
+        "size_out": "",
+        "tel": "(02)26942855",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "771f9416-0c15-4ab1-8898-dc5fdaea2d81",
+        "monthly": 13850
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6375528,
+            25.0688968
+        ]
+    }
+}

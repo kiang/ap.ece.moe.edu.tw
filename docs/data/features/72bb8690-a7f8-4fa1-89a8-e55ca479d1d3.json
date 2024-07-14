@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070174175號",
+        "reg_docno": "府教特字第0943003569號",
+        "reg_date": "2005\/01\/31",
+        "title": "臺東縣臺東市富岡國民小學附設幼兒園",
+        "owner": "張能發",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "公立",
+        "address": "[950]松江路一段441號",
+        "floor": "1樓",
+        "size": "256平方公尺",
+        "size_in": "128平方公尺",
+        "size_out": "128平方公尺",
+        "tel": "(089)281431",
+        "url": "http:\/\/a144x40.pixnet.net\/album\/422340",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "72bb8690-a7f8-4fa1-89a8-e55ca479d1d3",
+        "monthly": 4056
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.194324,
+            22.794773
+        ]
+    }
+}

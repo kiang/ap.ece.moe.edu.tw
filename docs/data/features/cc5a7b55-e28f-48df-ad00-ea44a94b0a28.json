@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122409081B號",
+        "reg_docno": "府教特一字第1052424778號",
+        "reg_date": "2016\/08\/01",
+        "title": "雲林縣古坑鄉立幼兒園樟湖分班",
+        "owner": "",
+        "city": "雲林縣",
+        "town": "古坑鄉",
+        "type": "公立",
+        "address": "[646]石橋50之2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5826935",
+        "url": "",
+        "count_approved": "16",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cc5a7b55-e28f-48df-ad00-ea44a94b0a28",
+        "monthly": 2717
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.631657,
+            23.6037863
+        ]
+    }
+}

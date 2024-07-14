@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1031145766號",
+        "reg_docno": "府社福字第139706號",
+        "reg_date": "2000\/08\/31",
+        "title": "臺南市私立佳安幼兒園",
+        "owner": "羅彪銘",
+        "city": "臺南市",
+        "town": "楠西區",
+        "type": "私立",
+        "address": "[715]信義路57巷40號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)5751626",
+        "url": "台南市楠西區信義路57巷40號",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：18",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ef962018-b528-4b3d-9d4b-1e0e2ef8b0d1",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.487462,
+            23.173273
+        ]
+    }
+}

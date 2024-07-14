@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110166885A號",
+        "reg_docno": "府教特字第1110148313號",
+        "reg_date": "2022\/08\/01",
+        "title": "中華郵政公司吉安仁里郵局職場互助教保服務中心(委託財團法人台灣省花蓮縣私立海星高級中學辦理)",
+        "owner": "陳昭德",
+        "city": "花蓮縣",
+        "town": "吉安鄉",
+        "type": "私立",
+        "address": "[973]中正路一段48號",
+        "floor": "1樓",
+        "size": "627.5平方公尺",
+        "size_in": "274.1平方公尺",
+        "size_out": "353.4平方公尺",
+        "tel": "(03)8530755",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f66bec85-842c-490d-a761-52ab07a4a9b5",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.592809,
+            23.967483
+        ]
+    }
+}

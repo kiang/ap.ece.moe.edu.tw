@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680板橋0069之4號",
+        "reg_docno": "87北府教三字第303301號",
+        "reg_date": "1998\/09\/25",
+        "title": "新北市板橋區埔墘國民小學附設幼兒園",
+        "owner": "劉能賢",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "公立",
+        "address": "[220]永豐街42之8號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,710平方公尺",
+        "size_in": "900平方公尺",
+        "size_out": "810平方公尺",
+        "tel": "(02)29616690#282",
+        "url": "https:\/\/www.pces.ntpc.edu.tw\/",
+        "count_approved": "286",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cbf0ef75-bb62-4e2a-8b04-7d1c453277aa",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4742452,
+            25.0176738
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090077021號",
+        "reg_docno": "府社婦字第1000092082號",
+        "reg_date": "2011\/08\/11",
+        "title": "新竹市私立陽光森林幼兒園",
+        "owner": "鄭名海",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]延平路二段80巷31號",
+        "floor": "1~3樓",
+        "size": "526.67平方公尺",
+        "size_in": "526.67平方公尺",
+        "size_out": "",
+        "tel": "(03)5305319#9",
+        "url": "",
+        "count_approved": "270",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：40",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "93c7a19b-ce2a-44a4-8be2-36d905441811",
+        "monthly": 6500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.942993,
+            24.804987
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120068568號",
+        "reg_docno": "中市教幼字第1120068568號",
+        "reg_date": "2023\/08\/01",
+        "title": "臺中市東勢區明正國民小學附設幼兒園",
+        "owner": "劉懿娟",
+        "city": "臺中市",
+        "town": "東勢區",
+        "type": "公立",
+        "address": "[423]東蘭路永盛巷57-1號",
+        "floor": "1樓、2樓、3樓",
+        "size": "792.84平方公尺",
+        "size_in": "630.42平方公尺",
+        "size_out": "162.42平方公尺",
+        "tel": "(04)25874455#39",
+        "url": "https:\/\/www.facebook.com\/people\/%E6%98%8E%E6%AD%A3%E5%9C%8B%E5%B0%8F%E9%99%84%E8%A8%AD%E5%B9%BC%E5%8",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b6b4a7db-19c5-4644-ac2e-181d47314dfd",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7908289,
+            24.3096301
+        ]
+    }
+}

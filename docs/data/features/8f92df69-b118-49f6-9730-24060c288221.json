@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1130183072號",
+        "reg_docno": "南市教特(一)字第1110950441號",
+        "reg_date": "2022\/07\/28",
+        "title": "臺灣土地銀行臺南分行職場互助教保服務中心(委託社團法人中華育英社會教育關懷協會辦理)",
+        "owner": "程炎崑",
+        "city": "臺南市",
+        "town": "中西區",
+        "type": "私立",
+        "address": "[700]中正路26號3樓",
+        "floor": "3樓",
+        "size": "359.94平方公尺",
+        "size_in": "359.94平方公尺",
+        "size_out": "",
+        "tel": "(06)2233086",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8f92df69-b118-49f6-9730-24060c288221",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2033507,
+            22.9922409
+        ]
+    }
+}

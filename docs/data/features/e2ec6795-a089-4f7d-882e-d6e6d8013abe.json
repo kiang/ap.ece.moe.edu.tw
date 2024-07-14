@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129550166號",
+        "reg_docno": "府教幼字第1070005229號",
+        "reg_date": "2018\/03\/06",
+        "title": "新竹縣私立華聖頓幼兒園",
+        "owner": "莊瑞娜",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]莊敬北路168號",
+        "floor": "1樓、2樓、3樓",
+        "size": "3,076.85平方公尺",
+        "size_in": "2,429.17平方公尺",
+        "size_out": "647.68平方公尺",
+        "tel": "(03)6688290",
+        "url": "",
+        "count_approved": "332",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e2ec6795-a089-4f7d-882e-d6e6d8013abe",
+        "monthly": 18233
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.025479,
+            24.827413
+        ]
+    }
+}

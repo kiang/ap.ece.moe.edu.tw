@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100182632號",
+        "reg_docno": "府教國字第22782號",
+        "reg_date": "1978\/10\/12",
+        "title": "花蓮縣吉安鄉化仁國民小學附設幼兒園",
+        "owner": "邱忠信",
+        "city": "花蓮縣",
+        "town": "吉安鄉",
+        "type": "公立",
+        "address": "[973]東里十一街83號",
+        "floor": "1樓",
+        "size": "434.9平方公尺",
+        "size_in": "299.9平方公尺",
+        "size_out": "135平方公尺",
+        "tel": "(03)8528720#109",
+        "url": "http:\/\/tw.pre.urlifelinks.com\/school\/huazen",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "290fc09c-932c-49cf-b8f0-83fa72253808",
+        "monthly": 2970
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.595742,
+            23.963011
+        ]
+    }
+}

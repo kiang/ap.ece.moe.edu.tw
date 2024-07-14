@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130028960號",
+        "reg_docno": "府教幼字第1130028960號",
+        "reg_date": "2024\/02\/01",
+        "title": "桃園市私立妍榛幼兒園",
+        "owner": "郭玫萱",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]金華街133、135、137號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4583920",
+        "url": "",
+        "count_approved": "99",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c983cb99-a727-4069-94c4-7e18f40cec2a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.220128,
+            24.947711
+        ]
+    }
+}

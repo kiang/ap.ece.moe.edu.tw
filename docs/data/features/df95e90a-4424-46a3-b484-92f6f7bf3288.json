@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110109315號",
+        "reg_docno": "中市教幼字第1110109315號",
+        "reg_date": "2022\/12\/09",
+        "title": "文化部文化資產局員工子女非營利幼兒園（委託財團法人彭婉如文教基金會辦理）",
+        "owner": "郭淑雅",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "非營利",
+        "address": "[402]復興路三段362號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22255171",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "df95e90a-4424-46a3-b484-92f6f7bf3288",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6816938,
+            24.1334778
+        ]
+    }
+}

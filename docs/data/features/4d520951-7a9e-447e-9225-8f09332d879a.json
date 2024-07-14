@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130011073號",
+        "reg_docno": "府教幼字第1110277342號",
+        "reg_date": "2022\/09\/30",
+        "title": "桃園市黃唐非營利幼兒園(委託社團法人台灣社會發展推動協會辦理)",
+        "owner": "羅雪娥",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "非營利",
+        "address": "[325]成功路402巷37號",
+        "floor": "1樓、2樓",
+        "size": "2,068.67平方公尺",
+        "size_in": "1,423.67平方公尺",
+        "size_out": "645平方公尺",
+        "tel": "(03)4792769#18",
+        "url": "評鑑情形：",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4d520951-7a9e-447e-9225-8f09332d879a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2319964,
+            24.878953
+        ]
+    }
+}

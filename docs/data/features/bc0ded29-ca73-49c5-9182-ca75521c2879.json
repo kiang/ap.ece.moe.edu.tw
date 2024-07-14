@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060182931號",
+        "reg_docno": "彰府民社三字第006號",
+        "reg_date": "1952\/11\/01",
+        "title": "彰化縣私立慈愛幼兒園",
+        "owner": "朱章銘",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "私立",
+        "address": "[510]和平街20之1號",
+        "floor": "一樓至三樓",
+        "size": "587.274平方公尺",
+        "size_in": "236.26平方公尺",
+        "size_out": "172.1平方公尺",
+        "tel": "(04)8320519",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bc0ded29-ca73-49c5-9182-ca75521c2879",
+        "monthly": 4300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5714005,
+            23.9615194
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11137989300號",
+        "reg_docno": "府社福字第0940052166號",
+        "reg_date": "2005\/03\/15",
+        "title": "高雄市私立小朋友幼兒園",
+        "owner": "陳又豪",
+        "city": "高雄市",
+        "town": "內門區",
+        "type": "私立",
+        "address": "[845]南屏路100巷32號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6672865",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0dcb5f90-54c2-45ab-bc85-2597fd2a0927",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4553753,
+            22.9186438
+        ]
+    }
+}

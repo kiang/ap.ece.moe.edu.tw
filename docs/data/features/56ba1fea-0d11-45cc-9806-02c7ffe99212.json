@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1071510543號",
+        "reg_docno": "73嘉市府教國字第22403號",
+        "reg_date": "1984\/04\/30",
+        "title": "嘉義市私立信義幼兒園",
+        "owner": "黃裕盛",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]漢口路163號",
+        "floor": "1樓、2樓",
+        "size": "330.14平方公尺",
+        "size_in": "233.28平方公尺",
+        "size_out": "68.86平方公尺",
+        "tel": "(05)2353693",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "56ba1fea-0d11-45cc-9806-02c7ffe99212",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.432829,
+            23.465062
+        ]
+    }
+}

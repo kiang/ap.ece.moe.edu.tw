@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110076163號",
+        "reg_docno": "中市教幼字第1110058182號",
+        "reg_date": "2022\/08\/01",
+        "title": "國家科學及技術委員會中部科學園區管理局臺中園區員工子女非營利幼兒園(委託財團法人宏觀文教基金會辦理)",
+        "owner": "李効武",
+        "city": "臺中市",
+        "town": "大雅區",
+        "type": "非營利",
+        "address": "[428]平和路227號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25606211",
+        "url": "https:\/\/www.facebook.com",
+        "count_approved": "196",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "83ba83c1-5a38-4d44-b827-398045721af0",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6258336,
+            24.2301866
+        ]
+    }
+}

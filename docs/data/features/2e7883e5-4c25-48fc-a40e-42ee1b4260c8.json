@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11252738000號",
+        "reg_docno": "屏府社婦字第1000265017號",
+        "reg_date": "2011\/10\/06",
+        "title": "屏東縣屏東復興非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+        "owner": "郭淑雅",
+        "city": "屏東縣",
+        "town": "屏東市",
+        "type": "非營利",
+        "address": "[900]復興路376號",
+        "floor": "1-3",
+        "size": "1,260.63平方公尺",
+        "size_in": "310.86平方公尺",
+        "size_out": "93平方公尺",
+        "tel": "(08)7550700",
+        "url": "評鑑情形：",
+        "count_approved": "137",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2e7883e5-4c25-48fc-a40e-42ee1b4260c8",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.487005,
+            22.659404
+        ]
+    }
+}

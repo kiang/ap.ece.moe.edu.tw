@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1081262838號",
+        "reg_docno": "府教國字第39734號",
+        "reg_date": "1984\/04\/21",
+        "title": "臺南市私立佳音幼兒園",
+        "owner": "徐明賢",
+        "city": "臺南市",
+        "town": "歸仁區",
+        "type": "私立",
+        "address": "[711]大廟一街149號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2712990",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5119e3a4-e702-48e2-b7be-a6bb15904963",
+        "monthly": 4950
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.27512,
+            22.994284
+        ]
+    }
+}

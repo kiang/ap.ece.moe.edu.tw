@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137322900號",
+        "reg_docno": "高市社局五字第0960051190號",
+        "reg_date": "2007\/12\/28",
+        "title": "高雄市私立小港艾心幼兒園",
+        "owner": "黃麗琴",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "私立",
+        "address": "[812]龍興路42號",
+        "floor": "3",
+        "size": "399.95平方公尺",
+        "size_in": "315.1平方公尺",
+        "size_out": "84.85平方公尺",
+        "tel": "(07)8718866",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "737bbc58-fdae-420a-9407-b34b7a67de03",
+        "monthly": 6617
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3563217,
+            22.5151763
+        ]
+    }
+}

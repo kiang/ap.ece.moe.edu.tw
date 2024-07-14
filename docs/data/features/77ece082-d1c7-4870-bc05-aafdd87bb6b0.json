@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120081610號",
+        "reg_docno": "府教學字第09401462880號",
+        "reg_date": "2005\/07\/22",
+        "title": "南投縣私立貝斯特幼兒園",
+        "owner": "施銘芳",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "私立",
+        "address": "[540]南崗一路147號",
+        "floor": "1F",
+        "size": "4,560平方公尺",
+        "size_in": "1,290平方公尺",
+        "size_out": "3,270平方公尺",
+        "tel": "(049)2200088",
+        "url": "http:\/\/bestnt.topschool.com.tw\/",
+        "count_approved": "390",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "77ece082-d1c7-4870-bc05-aafdd87bb6b0",
+        "monthly": 4333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.682387,
+            23.902254
+        ]
+    }
+}

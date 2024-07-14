@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090086161號",
+        "reg_docno": "府教特字第0930049776號",
+        "reg_date": "2004\/05\/26",
+        "title": "彰化縣私立儒林幼兒園",
+        "owner": "張思予",
+        "city": "彰化縣",
+        "town": "二林鎮",
+        "type": "私立",
+        "address": "[526]二城路5號之1",
+        "floor": "1樓",
+        "size": "2,709.41平方公尺",
+        "size_in": "772.55平方公尺",
+        "size_out": "1,936.86平方公尺",
+        "tel": "(04)8966258",
+        "url": "",
+        "count_approved": "168",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5d99802f-c89a-40ab-824c-71bdc87c077b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.352051,
+            23.8822301
+        ]
+    }
+}

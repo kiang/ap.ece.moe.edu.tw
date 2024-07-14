@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1112428694號",
+        "reg_docno": "府教特一字第1112428694號",
+        "reg_date": "2022\/06\/21",
+        "title": "雲林縣口湖鄉下崙國民小學附設幼兒園",
+        "owner": "黃淑玲",
+        "city": "雲林縣",
+        "town": "口湖鄉",
+        "type": "公立",
+        "address": "[653]福安路200號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)7991184",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3b574cdb-5219-402e-b6ba-f9e16fbcb362",
+        "monthly": 3705
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1590545,
+            23.6129586
+        ]
+    }
+}

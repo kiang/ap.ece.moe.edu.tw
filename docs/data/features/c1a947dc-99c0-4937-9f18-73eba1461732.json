@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第710號",
+        "reg_docno": "北市社婦幼字第10047893900號",
+        "reg_date": "2011\/12\/28",
+        "title": "臺北市私立彩虹屋幼兒園",
+        "owner": "章靜琪",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]辛亥路四段130巷5號1樓",
+        "floor": "1樓",
+        "size": "158.75平方公尺",
+        "size_in": "158.75平方公尺",
+        "size_out": "",
+        "tel": "(02)29354278",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c1a947dc-99c0-4937-9f18-73eba1461732",
+        "monthly": 19100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.55656,
+            25.0048809
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120133351號",
+        "reg_docno": "府教特字第1120133351號",
+        "reg_date": "2023\/08\/01",
+        "title": "新竹市東區科園國民小學附設幼兒園",
+        "owner": "徐美玉",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "公立",
+        "address": "[300]科學園路171號",
+        "floor": "1樓",
+        "size": "303.29平方公尺",
+        "size_in": "203.9平方公尺",
+        "size_out": "99.39平方公尺",
+        "tel": "(03)6668421#206",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100095480385065&mibextid=LQQJ4d",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "41964a72-ab6c-4858-b1c2-4710f84f83cb",
+        "monthly": 3729
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0118725,
+            24.7819585
+        ]
+    }
+}

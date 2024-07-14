@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111121152號",
+        "reg_docno": "南市教二字第45807號",
+        "reg_date": "1974\/08\/27",
+        "title": "臺南市安平區新南國民小學附設幼兒園",
+        "owner": "魏萬能",
+        "city": "臺南市",
+        "town": "安平區",
+        "type": "公立",
+        "address": "[708]怡平路6號",
+        "floor": "1樓、2樓",
+        "size": "3,784.82平方公尺",
+        "size_in": "1,345.82平方公尺",
+        "size_out": "2,439平方公尺",
+        "tel": "(06)2973058",
+        "url": "https:\/\/site-sinnankid.mystrikingly.com\/",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d2948c13-ed8e-4883-ac22-2b1b39981c59",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.182601,
+            22.992898
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1102435650號",
+        "reg_docno": "府教特一字第1102435650號",
+        "reg_date": "2021\/08\/04",
+        "title": "雲林縣虎尾非營利幼兒園(委託環球學校財團法人辦理)",
+        "owner": "許淑敏",
+        "city": "雲林縣",
+        "town": "虎尾鎮",
+        "type": "非營利",
+        "address": "[632]明正路88號",
+        "floor": "1樓、2樓、3樓",
+        "size": "8,389.91平方公尺",
+        "size_in": "1,131.53平方公尺",
+        "size_out": "7,258.38平方公尺",
+        "tel": "(05)6320355",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "68664c62-331a-41fa-bb32-23163c20c353",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4321899,
+            23.7134647
+        ]
+    }
+}

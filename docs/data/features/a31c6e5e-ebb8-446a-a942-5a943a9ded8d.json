@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120194902號",
+        "reg_docno": "府教幼字第1090172530號",
+        "reg_date": "2020\/08\/01",
+        "title": "嘉義縣新港鄉復興國民小學附設幼兒園",
+        "owner": "黃美智",
+        "city": "嘉義縣",
+        "town": "新港鄉",
+        "type": "公立",
+        "address": "[616]75之4號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3760424#28",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a31c6e5e-ebb8-446a-a942-5a943a9ded8d",
+        "monthly": 3840
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3550808,
+            23.538123
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110069488號",
+        "reg_docno": "74府教國字第100314號",
+        "reg_date": "1985\/06\/03",
+        "title": "臺中市龍井區龍泉國民小學附設幼兒園",
+        "owner": "王銘男",
+        "city": "臺中市",
+        "town": "龍井區",
+        "type": "公立",
+        "address": "[434]龍新路162號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26353340#207",
+        "url": "http:\/\/www.lces.tc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "64ff3127-7adb-47ed-b92c-083f3451c41b",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.547445,
+            24.196251
+        ]
+    }
+}

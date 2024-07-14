@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100297260號",
+        "reg_docno": "府教特字第0980330327號",
+        "reg_date": "2010\/01\/05",
+        "title": "彰化縣溪湖鎮湖北國民小學附設幼兒園",
+        "owner": "莊世雄",
+        "city": "彰化縣",
+        "town": "溪湖鎮",
+        "type": "公立",
+        "address": "[514]地政路201號",
+        "floor": "1樓",
+        "size": "545.43平方公尺",
+        "size_in": "318.42平方公尺",
+        "size_out": "227.01平方公尺",
+        "tel": "(04)8827530",
+        "url": "http:\/\/tw.class.urlifelinks.com\/class\/?csid=css000000122201",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "df2b455a-625c-48b2-966a-f36476a0ebab",
+        "monthly": 3542
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4764869,
+            23.965027
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136018400號",
+        "reg_docno": "77府教學字第35444號",
+        "reg_date": "1988\/04\/02",
+        "title": "高雄市燕巢區燕巢國民小學附設幼兒園",
+        "owner": "楊欽助",
+        "city": "高雄市",
+        "town": "燕巢區",
+        "type": "公立",
+        "address": "[824]中華路177號",
+        "floor": "一樓",
+        "size": "386.67平方公尺",
+        "size_in": "128.48平方公尺",
+        "size_out": "258.19平方公尺",
+        "tel": "(07)6161495#188",
+        "url": "https:\/\/class.kh.edu.tw\/24205",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "40c40822-90d0-4cb4-8f34-222f9379cfa7",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.365948,
+            22.795255
+        ]
+    }
+}

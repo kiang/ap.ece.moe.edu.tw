@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130035428號",
+        "reg_docno": "府教幼字第1130035428號",
+        "reg_date": "2024\/01\/25",
+        "title": "彰化縣廣興非營利幼兒園（委託社團法人台灣嬰幼兒教保協會辦理）",
+        "owner": "魏宗明",
+        "city": "彰化縣",
+        "town": "二林鎮",
+        "type": "非營利",
+        "address": "[526]廣興巷2-1號",
+        "floor": "1樓",
+        "size": "504.55平方公尺",
+        "size_in": "266.55平方公尺",
+        "size_out": "238平方公尺",
+        "tel": "(04)8966158",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=61553709470816",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6e717b25-1c99-46cd-ae11-c4449d850d48",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3624104,
+            23.87567
+        ]
+    }
+}

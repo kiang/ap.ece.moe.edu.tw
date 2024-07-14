@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620蘆洲0035之1號",
+        "reg_docno": "七三北府社三字第73238624號",
+        "reg_date": "1983\/05\/01",
+        "title": "新北市私立佳佳安幼兒園",
+        "owner": "陳莞荽",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]水湳街3號1、2樓",
+        "floor": "ㄧ、二樓",
+        "size": "243.67平方公尺",
+        "size_in": "243.67平方公尺",
+        "size_out": "",
+        "tel": "(02)28473960",
+        "url": "http:\/\/www.jiajian.com.tw",
+        "count_approved": "57",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cb80a8cb-f3a2-4a2b-85e6-b2e97ff19822",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.470377,
+            25.09079
+        ]
+    }
+}

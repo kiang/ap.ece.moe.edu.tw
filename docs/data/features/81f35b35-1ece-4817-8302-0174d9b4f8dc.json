@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120068918號",
+        "reg_docno": "89府教國字第235045號",
+        "reg_date": "2000\/08\/25",
+        "title": "臺中市東勢區東新國民小學附設幼兒園",
+        "owner": "沈秋宏",
+        "city": "臺中市",
+        "town": "東勢區",
+        "type": "公立",
+        "address": "[423]東蘭路1-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25881083#773",
+        "url": "http:\/\/www.tshes.tcc.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "81f35b35-1ece-4817-8302-0174d9b4f8dc",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.827314,
+            24.2606759
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680三峽0022之1號",
+        "reg_docno": "八十北府社三字第80049399號",
+        "reg_date": "1991\/02\/09",
+        "title": "新北市私立佳兒幼兒園",
+        "owner": "王余美華",
+        "city": "新北市",
+        "town": "三峽區",
+        "type": "私立",
+        "address": "[237]中正路1段108巷30號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26718964",
+        "url": "新北市私立佳兒幼兒園臉書粉專",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "56553eed-a5ad-482a-bcb4-ba9f0a0ed8ca",
+        "monthly": 11620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.373308,
+            24.930442
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090063160號",
+        "reg_docno": "府社幼字第0930026056號",
+        "reg_date": "2004\/01\/30",
+        "title": "臺中市私立小幼優幼兒園",
+        "owner": "郭月玫",
+        "city": "臺中市",
+        "town": "后里區",
+        "type": "私立",
+        "address": "[421]甲后路一段197巷26號",
+        "floor": "1樓",
+        "size": "1,729.54平方公尺",
+        "size_in": "345.8平方公尺",
+        "size_out": "1,383.74平方公尺",
+        "tel": "(04)25587919",
+        "url": "",
+        "count_approved": "126",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2b908761-cc8a-445d-a0f1-267cf137d4ea",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.728113,
+            24.308155
+        ]
+    }
+}

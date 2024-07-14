@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第24號",
+        "reg_docno": "北市教前字第11130118311號",
+        "reg_date": "2022\/08\/24",
+        "title": "國防部陸軍司令部精勤職場互助教保服務中心（委託財團法人海棠文教基金會辦理）",
+        "owner": "朱鳳芝",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "私立",
+        "address": "[108]青年路152巷34號",
+        "floor": "1樓",
+        "size": "187.94平方公尺",
+        "size_in": "187.94平方公尺",
+        "size_out": "",
+        "tel": "(02)23395284",
+        "url": "評鑑情形：",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b643d990-a5bd-4db3-afad-5526ff2b7fe8",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5011965,
+            25.0202928
+        ]
+    }
+}

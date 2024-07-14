@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第799號",
+        "reg_docno": "北市教前字第11130000171號",
+        "reg_date": "2022\/02\/01",
+        "title": "臺北市實永非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+        "owner": "劉毓秀",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "非營利",
+        "address": "[116]試院路2號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22361228",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c5da1edc-53cd-4c21-b2b8-9e56616b43e3",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5501239,
+            24.9876441
+        ]
+    }
+}

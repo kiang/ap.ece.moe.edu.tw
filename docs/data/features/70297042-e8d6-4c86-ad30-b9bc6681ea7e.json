@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599永和0075號",
+        "reg_docno": "新北府教幼字第1102507064號",
+        "reg_date": "2022\/03\/07",
+        "title": "新北市私立新惠幼幼兒園保安分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]保安路252巷3號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29209603",
+        "url": "",
+        "count_approved": "16",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "70297042-e8d6-4c86-ad30-b9bc6681ea7e",
+        "monthly": 27365
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.505938,
+            25.0126709
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字字第1080121658號",
+        "reg_docno": "中市府社婦字第9402號",
+        "reg_date": "2005\/01\/04",
+        "title": "臺中市私立如果幼兒園",
+        "owner": "國蓮慧",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]上安路33號1樓",
+        "floor": "1樓、2樓",
+        "size": "718.69平方公尺",
+        "size_in": "420.24平方公尺",
+        "size_out": "298.44平方公尺",
+        "tel": "(04)27081100",
+        "url": "",
+        "count_approved": "104",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e4a9b7ec-3e97-4c66-ae55-788deb252dda",
+        "monthly": 10625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.641468,
+            24.1699859
+        ]
+    }
+}

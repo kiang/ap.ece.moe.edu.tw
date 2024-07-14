@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10730237900號",
+        "reg_docno": "高市教三字第8900008474號",
+        "reg_date": "2000\/08\/19",
+        "title": "高雄市私立民族幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]建德路210巷18號",
+        "floor": "1樓至3樓",
+        "size": "1,191.16平方公尺",
+        "size_in": "900.79平方公尺",
+        "size_out": "290.37平方公尺",
+        "tel": "(07)3963767",
+        "url": "",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8ac719bb-6d27-45c9-b838-640a52cc243a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.323085,
+            22.644059
+        ]
+    }
+}

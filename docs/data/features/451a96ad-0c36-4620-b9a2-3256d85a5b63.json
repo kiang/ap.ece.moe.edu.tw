@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136431900號",
+        "reg_docno": "高市教幼字第11136431900號",
+        "reg_date": "2022\/08\/26",
+        "title": "中華郵政公司林園郵局職場互助教保服務中心(委託社團法人高雄市愛與關懷教育發展協會辦理)",
+        "owner": "謝冰雁",
+        "city": "高雄市",
+        "town": "林園區",
+        "type": "私立",
+        "address": "[832]鳳林路一段176號3樓",
+        "floor": "3樓",
+        "size": "234.24平方公尺",
+        "size_in": "234.24平方公尺",
+        "size_out": "",
+        "tel": "(07)6410160",
+        "url": "高雄市林園區鳳林路一段176號3樓",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "451a96ad-0c36-4620-b9a2-3256d85a5b63",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.397092,
+            22.505891
+        ]
+    }
+}

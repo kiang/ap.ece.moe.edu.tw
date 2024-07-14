@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1083718526號",
+        "reg_docno": "90府社福字第33988號",
+        "reg_date": "2001\/04\/02",
+        "title": "新竹縣私立檸檬樹幼兒園",
+        "owner": "胡美玲",
+        "city": "新竹縣",
+        "town": "新埔鎮",
+        "type": "私立",
+        "address": "[305]褒忠路91號",
+        "floor": "1-3樓",
+        "size": "1,076.14平方公尺",
+        "size_in": "565.68平方公尺",
+        "size_out": "",
+        "tel": "(03)5887699",
+        "url": "http:\/\/lemontree-school.woby.com.tw",
+        "count_approved": "155",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "71c1d5b3-bbc4-41a9-9d74-a475c27f1a35",
+        "monthly": 23433
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.035579,
+            24.829548
+        ]
+    }
+}

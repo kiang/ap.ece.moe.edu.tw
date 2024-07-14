@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040052960號",
+        "reg_docno": "府社兒字第1000534868號",
+        "reg_date": "1977\/07\/01",
+        "title": "桃園市立龍潭幼兒園三林分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "公立",
+        "address": "[325]三角林37號",
+        "floor": "1",
+        "size": "286.08平方公尺",
+        "size_in": "171.22平方公尺",
+        "size_out": "114.86平方公尺",
+        "tel": "(03)4797826",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "f8da654e-687d-464e-90dc-6e9e99e9b230",
+        "monthly": 3938
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.228533,
+            24.835439
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11230660500號",
+        "reg_docno": "高市教幼字第11230660500號",
+        "reg_date": "2023\/02\/03",
+        "title": "法務部高雄正德職場互助教保服務中心(委託社團法人高雄市佳欣幼兒發展學會辦理)",
+        "owner": "梁富欽",
+        "city": "高雄市",
+        "town": "燕巢區",
+        "type": "私立",
+        "address": "[824]正德新村1號",
+        "floor": "1樓、2樓",
+        "size": "117.62平方公尺",
+        "size_in": "77.56平方公尺",
+        "size_out": "",
+        "tel": "(07)6151233",
+        "url": "評鑑情形：",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f8924855-a815-4a85-aa47-319d98220e82",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3725979,
+            22.7595623
+        ]
+    }
+}

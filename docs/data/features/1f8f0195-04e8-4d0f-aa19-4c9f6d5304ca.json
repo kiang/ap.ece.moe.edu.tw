@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137586700號",
+        "reg_docno": "府社福字第0960056121號",
+        "reg_date": "2007\/03\/07",
+        "title": "高雄市私立時代幼兒園",
+        "owner": "李明娟",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]公園西路三段108、110號1至2樓",
+        "floor": "1-2樓",
+        "size": "187平方公尺",
+        "size_in": "187平方公尺",
+        "size_out": "",
+        "tel": "(07)6268079",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1f8f0195-04e8-4d0f-aa19-4c9f6d5304ca",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2845062,
+            22.7936872
+        ]
+    }
+}

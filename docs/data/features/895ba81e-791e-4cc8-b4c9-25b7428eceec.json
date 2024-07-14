@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0150號",
+        "reg_docno": "北府社兒字第0940324541號",
+        "reg_date": "2005\/04\/19",
+        "title": "新北市私立發現小熊森林幼兒園",
+        "owner": "周大鎮",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]文化路二段182巷1弄12號3樓之1",
+        "floor": "3",
+        "size": "115.87平方公尺",
+        "size_in": "102.74平方公尺",
+        "size_out": "",
+        "tel": "(02)22548040",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "895ba81e-791e-4cc8-b4c9-25b7428eceec",
+        "monthly": 18406
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.471794,
+            25.028303
+        ]
+    }
+}

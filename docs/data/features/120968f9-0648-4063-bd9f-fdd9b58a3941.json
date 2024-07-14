@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11130257800號",
+        "reg_docno": "高市教幼字第10233838300號",
+        "reg_date": "2013\/06\/19",
+        "title": "高雄市私立可愛幼兒園",
+        "owner": "葉慶裕",
+        "city": "高雄市",
+        "town": "阿蓮區",
+        "type": "私立",
+        "address": "[822]民生路229號1樓、229號2樓之1、231號1樓、231號2樓、231號2樓之2",
+        "floor": "2",
+        "size": "1,658.89平方公尺",
+        "size_in": "657.49平方公尺",
+        "size_out": "507.65平方公尺",
+        "tel": "(07)6318557",
+        "url": "",
+        "count_approved": "230",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "120968f9-0648-4063-bd9f-fdd9b58a3941",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3286202,
+            22.8809214
+        ]
+    }
+}

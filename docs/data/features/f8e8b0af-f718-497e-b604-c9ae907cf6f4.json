@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0096號",
+        "reg_docno": "北府社兒字第0920423737號",
+        "reg_date": "2003\/06\/25",
+        "title": "新北市私立杜克幼兒園",
+        "owner": "吳建甫",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]建福路58巷2號、4號",
+        "floor": "1F",
+        "size": "188.79平方公尺",
+        "size_in": "188.79平方公尺",
+        "size_out": "",
+        "tel": "(02)22065472",
+        "url": "",
+        "count_approved": "43",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f8e8b0af-f718-497e-b604-c9ae907cf6f4",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.426404,
+            25.027381
+        ]
+    }
+}

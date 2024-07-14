@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1110239784號",
+        "reg_docno": "基府教國字第048280號",
+        "reg_date": "1993\/06\/28",
+        "title": "基隆市七堵區長興國民小學附設幼兒園",
+        "owner": "鄭兆斌",
+        "city": "基隆市",
+        "town": "七堵區",
+        "type": "公立",
+        "address": "[206]東新街3號",
+        "floor": "1樓",
+        "size": "928.65平方公尺",
+        "size_in": "686.55平方公尺",
+        "size_out": "242.1平方公尺",
+        "tel": "(02)24558901",
+        "url": "http:\/\/www.cses.kl.edu.tw",
+        "count_approved": "122",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dddb4b85-71b9-4c5b-a53a-a24c789d0a04",
+        "monthly": 3111
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.713239,
+            25.0920329
+        ]
+    }
+}

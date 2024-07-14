@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010903773號",
+        "reg_docno": "府社福字第64655號",
+        "reg_date": "1975\/06\/19",
+        "title": "臺南市私立法源幼兒園",
+        "owner": "吳美惠",
+        "city": "臺南市",
+        "town": "學甲區",
+        "type": "私立",
+        "address": "[726]法源路27號",
+        "floor": "一至三樓",
+        "size": "2,175.92平方公尺",
+        "size_in": "1,162.92平方公尺",
+        "size_out": "1,013平方公尺",
+        "tel": "(06)7835703",
+        "url": "",
+        "count_approved": "200",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：50",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fadf1481-8974-4550-bddd-df899f6deea4",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.183608,
+            23.235342
+        ]
+    }
+}

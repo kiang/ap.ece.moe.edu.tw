@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110277522號",
+        "reg_docno": "府教幼字第1110277522號",
+        "reg_date": "2022\/09\/30",
+        "title": "桃園市中山非營利幼兒園(委託社團法人臺灣優質兒童教育發展協會辦理)",
+        "owner": "凃嘉新",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "非營利",
+        "address": "[338]中山路211號",
+        "floor": "1樓、2樓、3樓、地下一樓",
+        "size": "3,647.64平方公尺",
+        "size_in": "2,946.82平方公尺",
+        "size_out": "700.82平方公尺",
+        "tel": "(03)3226756",
+        "url": "評鑑情形：",
+        "count_approved": "348",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "82fdef9a-6444-4ff1-a874-f0058c14676d",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3080037,
+            24.9928395
+        ]
+    }
+}

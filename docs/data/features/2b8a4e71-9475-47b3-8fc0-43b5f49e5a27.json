@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110226272號",
+        "reg_docno": "府教幼字第1110226272號",
+        "reg_date": "2022\/08\/12",
+        "title": "桃園市中華電信楊梅職場互助教保服務中心(委託社團法人台灣幼兒早期教育協會辦理)",
+        "owner": "劉百純",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "私立",
+        "address": "[326]電研路99號1樓",
+        "floor": "1樓",
+        "size": "520.49平方公尺",
+        "size_in": "169.68平方公尺",
+        "size_out": "121.16平方公尺",
+        "tel": "(03)4201261",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2b8a4e71-9475-47b3-8fc0-43b5f49e5a27",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1673796,
+            24.955963
+        ]
+    }
+}

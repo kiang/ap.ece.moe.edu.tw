@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120262162號",
+        "reg_docno": "79府教國字第54541號",
+        "reg_date": "1990\/04\/12",
+        "title": "財團法人桃園市私立大華國民中學附設桃園市私立幼兒園",
+        "owner": "",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "私立",
+        "address": "[326]三民路二段200之1號",
+        "floor": "1",
+        "size": "300平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "150平方公尺",
+        "tel": "(03)4816180",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "db9bcc71-b096-431d-aed2-b65d16cd4c34",
+        "monthly": 11384
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.173336,
+            24.881663
+        ]
+    }
+}

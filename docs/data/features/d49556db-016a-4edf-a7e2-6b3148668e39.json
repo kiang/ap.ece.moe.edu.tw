@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1082402057E號",
+        "reg_docno": "八三府人一字第157809號",
+        "reg_date": "1994\/07\/27",
+        "title": "雲林縣土庫鎮立幼兒園北平分班",
+        "owner": "",
+        "city": "雲林縣",
+        "town": "土庫鎮",
+        "type": "公立",
+        "address": "[633]馬光路174號",
+        "floor": "1樓",
+        "size": "419.15平方公尺",
+        "size_in": "141.75平方公尺",
+        "size_out": "277.4平方公尺",
+        "tel": "(05)6650611",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "f4a82c5a-0361-4af0-bed8-979997997eb0",
+        "monthly": 3956
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3521607,
+            23.7051867
+        ]
+    }
+}

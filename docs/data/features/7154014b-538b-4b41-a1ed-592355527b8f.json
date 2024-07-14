@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110223322號",
+        "reg_docno": "府教幼字第1110223322號",
+        "reg_date": "2022\/08\/12",
+        "title": "桃園國際機場愛兒寶職場互助教保服務中心(委託社團法人台灣幼兒早期教育協會辦理)",
+        "owner": "劉百純",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "私立",
+        "address": "[337]航站南路15號(桃園國際機場第一航廈)",
+        "floor": "1樓",
+        "size": "163平方公尺",
+        "size_in": "163平方公尺",
+        "size_out": "",
+        "tel": "(03)3931376",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7154014b-538b-4b41-a1ed-592355527b8f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.237939,
+            25.0815967
+        ]
+    }
+}

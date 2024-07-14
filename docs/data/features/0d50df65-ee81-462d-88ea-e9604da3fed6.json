@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0077之1號",
+        "reg_docno": "北府社兒字第0930515823號",
+        "reg_date": "2004\/07\/16",
+        "title": "新北市私立班博士幼兒園",
+        "owner": "李雪麗",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]三和路1段48號1、2樓、50號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29725412",
+        "url": "",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0d50df65-ee81-462d-88ea-e9604da3fed6",
+        "monthly": 12400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.503172,
+            25.06508
+        ]
+    }
+}

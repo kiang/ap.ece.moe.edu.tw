@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680永和0052之3號",
+        "reg_docno": "北府社兒字第0920282615號",
+        "reg_date": "2003\/04\/09",
+        "title": "新北市私立安迪芬幼兒園",
+        "owner": "張書語",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]信義路17巷9弄1號及3號1樓至2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29278843",
+        "url": "http:\/\/aunti-fenny.topschool.com.tw\/",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b07cf511-19e1-4791-bc6e-3ece1bda6b0f",
+        "monthly": 14500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.513864,
+            25.0113619
+        ]
+    }
+}

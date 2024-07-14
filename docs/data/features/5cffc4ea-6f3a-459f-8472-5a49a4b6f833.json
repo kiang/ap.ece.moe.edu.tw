@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1080375473號",
+        "reg_docno": "府教學前字第1070254998號",
+        "reg_date": "2018\/12\/26",
+        "title": "苗栗縣私立諾爾堡幼兒園",
+        "owner": "蔡粵揚",
+        "city": "苗栗縣",
+        "town": "頭份市",
+        "type": "私立",
+        "address": "[351]中華路1412巷40之1號",
+        "floor": "1樓、2樓",
+        "size": "1,165.62平方公尺",
+        "size_in": "758.62平方公尺",
+        "size_out": "407平方公尺",
+        "tel": "(037)590368",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5cffc4ea-6f3a-459f-8472-5a49a4b6f833",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9186053,
+            24.6962173
+        ]
+    }
+}

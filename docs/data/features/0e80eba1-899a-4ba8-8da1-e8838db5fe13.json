@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110182866號",
+        "reg_docno": "府教特字第0943003569號",
+        "reg_date": "2005\/01\/31",
+        "title": "臺東縣海端鄉加拿國民小學附設幼兒園",
+        "owner": "曾淑玉",
+        "city": "臺東縣",
+        "town": "海端鄉",
+        "type": "公立",
+        "address": "[957]加南5號",
+        "floor": "1樓",
+        "size": "221.18平方公尺",
+        "size_in": "116.18平方公尺",
+        "size_out": "105平方公尺",
+        "tel": "(089)811108#301",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0e80eba1-899a-4ba8-8da1-e8838db5fe13",
+        "monthly": 3944
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.130676,
+            23.000988
+        ]
+    }
+}

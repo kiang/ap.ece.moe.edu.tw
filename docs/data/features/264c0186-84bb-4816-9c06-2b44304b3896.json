@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0020號",
+        "reg_docno": "72北府社三字第72099852號",
+        "reg_date": "1983\/02\/01",
+        "title": "新北市私立忠山幼兒園",
+        "owner": "楊忠山",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]中正路275巷62弄1、3、5號1樓",
+        "floor": "1",
+        "size": "259.27平方公尺",
+        "size_in": "180.76平方公尺",
+        "size_out": "78.51平方公尺",
+        "tel": "(02)29676813",
+        "url": "",
+        "count_approved": "57",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "264c0186-84bb-4816-9c06-2b44304b3896",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4531777,
+            25.0182967
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010110724號",
+        "reg_docno": "89府教國字第042748號",
+        "reg_date": "2000\/05\/20",
+        "title": "宜蘭縣南澳鄉東澳國民小學附設幼兒園",
+        "owner": "鄔誠民",
+        "city": "宜蘭縣",
+        "town": "南澳鄉",
+        "type": "公立",
+        "address": "[272]蘇花路三段209號",
+        "floor": "1樓",
+        "size": "335.32平方公尺",
+        "size_in": "134.32平方公尺",
+        "size_out": "201平方公尺",
+        "tel": "(03)9986217#24",
+        "url": "https:\/\/2blog.ilc.edu.tw\/112dongaopreschool\/",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "88c5e96e-9495-4ba8-99c3-873e8547d14d",
+        "monthly": 2766
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.832977,
+            24.521542
+        ]
+    }
+}

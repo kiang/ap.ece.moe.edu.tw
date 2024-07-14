@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110072050號",
+        "reg_docno": "中市教幼字第1010056662號",
+        "reg_date": "2012\/08\/01",
+        "title": "臺中市大里區立新國民小學附設幼兒園",
+        "owner": "蔡添元",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "公立",
+        "address": "[412]立新街338號",
+        "floor": "1樓、2樓",
+        "size": "806平方公尺",
+        "size_in": "306平方公尺",
+        "size_out": "500平方公尺",
+        "tel": "(04)22769178#860",
+        "url": "https:\/\/sites.google.com\/lishin.tc.edu.tw\/lishin-preschool\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7ac37fc0-cea5-490b-85fe-84a888c4e9fe",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6996579,
+            24.1054161
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010023558號",
+        "reg_docno": "中市社婦字第1000079725號",
+        "reg_date": "2011\/10\/19",
+        "title": "臺中市私立班比優幼兒園",
+        "owner": "李佩貞",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "私立",
+        "address": "[403]大昌街191號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24714888",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "545b5b1a-5643-4893-9234-a53ba7c35bcb",
+        "monthly": 9500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.652047,
+            24.145369
+        ]
+    }
+}

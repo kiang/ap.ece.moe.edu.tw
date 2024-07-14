@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070078356號",
+        "reg_docno": "中市府社福字第8820號",
+        "reg_date": "1999\/08\/21",
+        "title": "臺中市私立頂尖幼兒園",
+        "owner": "林彥宏",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]豐樂北一路30號1,2,3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24229455",
+        "url": "https:\/\/dingjian.topschool.tw\/Home\/Main",
+        "count_approved": "205",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b196bf19-d8ea-40d4-9a35-ab8005f66918",
+        "monthly": 12783
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.680172,
+            24.196068
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010153808號",
+        "reg_docno": "(87)府社福字第3160號",
+        "reg_date": "1998\/01\/09",
+        "title": "宜蘭縣私立福爾摩莎幼兒園",
+        "owner": "張錦全",
+        "city": "宜蘭縣",
+        "town": "羅東鎮",
+        "type": "私立",
+        "address": "[265]四育路126號",
+        "floor": "1樓、2樓、3樓",
+        "size": "848平方公尺",
+        "size_in": "673平方公尺",
+        "size_out": "175平方公尺",
+        "tel": "(03)9612558",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cb5cc759-1388-4b9b-a1e0-838ff4f69b25",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.760741,
+            24.67938
+        ]
+    }
+}

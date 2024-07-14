@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090200011號",
+        "reg_docno": "府教幼字第1090200011號",
+        "reg_date": "2020\/08\/14",
+        "title": "桃園市私立双得幼兒園",
+        "owner": "謝欣純",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]文化路410號、412號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4522808",
+        "url": "",
+        "count_approved": "308",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "af298dd9-25b6-4173-9827-0b36a983dd10",
+        "monthly": 42100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2502753,
+            24.9800561
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080177505號",
+        "reg_docno": "府教特字第0953009921號",
+        "reg_date": "2006\/04\/13",
+        "title": "臺東縣卑南鄉利嘉國民小學附設幼兒園",
+        "owner": "林庭瑤",
+        "city": "臺東縣",
+        "town": "卑南鄉",
+        "type": "公立",
+        "address": "[954]666號",
+        "floor": "1樓",
+        "size": "407平方公尺",
+        "size_in": "168平方公尺",
+        "size_out": "239平方公尺",
+        "tel": "(089)380121#27",
+        "url": "ljps.ttct.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dc94d860-0433-4994-8d10-3dc9325291c7",
+        "monthly": 3944
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0928868,
+            22.8064436
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11250574700號",
+        "reg_docno": "屏府教前字第10942249500號",
+        "reg_date": "2020\/08\/26",
+        "title": "屏東縣建興非營利幼兒園(委託社團法人屏東縣宥薰教育協會辦理)",
+        "owner": "許靜芳",
+        "city": "屏東縣",
+        "town": "枋寮鄉",
+        "type": "非營利",
+        "address": "[940]建興路39號",
+        "floor": "1樓",
+        "size": "460.99平方公尺",
+        "size_in": "230.99平方公尺",
+        "size_out": "230平方公尺",
+        "tel": "(08)8711800",
+        "url": "屏東縣枋寮鄉建興路39號",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a7a4b2d1-5784-469b-94dc-b45760bf6c59",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5903564,
+            22.3845407
+        ]
+    }
+}

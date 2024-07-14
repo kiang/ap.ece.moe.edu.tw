@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1070751964號",
+        "reg_docno": "南市社兒字第09713507440號",
+        "reg_date": "2008\/01\/16",
+        "title": "臺南市立第四幼兒園州南分班",
+        "owner": "",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "公立",
+        "address": "[709]安和路4段537巷48號",
+        "floor": "1樓、2樓",
+        "size": "618.4平方公尺",
+        "size_in": "182平方公尺",
+        "size_out": "436.4平方公尺",
+        "tel": "(06)3552744#12",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "81fae811-442f-4d86-a68c-2f73a9399e0c",
+        "monthly": 3505
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.218183,
+            23.062098
+        ]
+    }
+}

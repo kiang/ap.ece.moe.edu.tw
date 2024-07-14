@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特（一）字第1091311174號",
+        "reg_docno": "府社福字第0960018154號",
+        "reg_date": "2007\/01\/19",
+        "title": "臺南市私立夏綠蒂幼兒園",
+        "owner": "黃郁欽",
+        "city": "臺南市",
+        "town": "柳營區",
+        "type": "私立",
+        "address": "[736]中山西路一段302號",
+        "floor": "1樓、2樓",
+        "size": "1,352.73平方公尺",
+        "size_in": "530.55平方公尺",
+        "size_out": "822.18平方公尺",
+        "tel": "(06)6226209",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a5a4bdbb-f0f1-46fb-9068-b792ae037cfc",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.318692,
+            23.279083
+        ]
+    }
+}

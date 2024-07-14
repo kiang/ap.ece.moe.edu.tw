@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120080242號",
+        "reg_docno": "府敎國字第57730號",
+        "reg_date": "1982\/08\/23",
+        "title": "臺中市私立大吉幼兒園",
+        "owner": "邱求哲",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]敦化路一段616號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24258396",
+        "url": "www.greenlandkids.com.tw",
+        "count_approved": "300",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3028104e-a117-4166-bff8-41362af03d5f",
+        "monthly": 12400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.66509,
+            24.186318
+        ]
+    }
+}

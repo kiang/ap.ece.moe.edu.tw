@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137871700號",
+        "reg_docno": "高市教三字第36996號",
+        "reg_date": "1996\/11\/25",
+        "title": "高雄市私立康吉爾幼兒園",
+        "owner": "楊娟哲",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "私立",
+        "address": "[802]武智街100號",
+        "floor": "1樓",
+        "size": "928.94平方公尺",
+        "size_in": "461.63平方公尺",
+        "size_out": "467.31平方公尺",
+        "tel": "(07)7164636",
+        "url": "",
+        "count_approved": "72",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2beea6c0-0128-4330-809f-c6e529b0697e",
+        "monthly": 7020
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.333005,
+            22.621809
+        ]
+    }
+}

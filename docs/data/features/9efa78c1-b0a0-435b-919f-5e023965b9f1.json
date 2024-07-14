@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100182632號",
+        "reg_docno": "八十二府教國字第080021號",
+        "reg_date": "1993\/07\/28",
+        "title": "花蓮縣花蓮市鑄強國民小學附設幼兒園",
+        "owner": "孫東志",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "公立",
+        "address": "[970]永興路20號",
+        "floor": "1樓",
+        "size": "480.99平方公尺",
+        "size_in": "345.99平方公尺",
+        "size_out": "135平方公尺",
+        "tel": "(03)8223787",
+        "url": "http:\/\/210.240.104.4\/hujlan\/kids\/index.htm",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9efa78c1-b0a0-435b-919f-5e023965b9f1",
+        "monthly": 2990
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.625461,
+            23.992623
+        ]
+    }
+}

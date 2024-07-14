@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10936508400號",
+        "reg_docno": "82府教學字第136912號",
+        "reg_date": "1993\/08\/12",
+        "title": "高雄市仁武區登發國民小學附設幼兒園",
+        "owner": "范秋芬",
+        "city": "高雄市",
+        "town": "仁武區",
+        "type": "公立",
+        "address": "[814]仁忠路191號",
+        "floor": "1樓",
+        "size": "552.04平方公尺",
+        "size_in": "160.72平方公尺",
+        "size_out": "391.32平方公尺",
+        "tel": "(07)3726033#23",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a700240a-c640-40c5-b50a-a104317b574d",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.354289,
+            22.680004
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080005599林口0034之1號",
+        "reg_docno": "北府社兒字第0970255864號",
+        "reg_date": "2008\/04\/22",
+        "title": "新北市私立勁寶兒林口幼兒園",
+        "owner": "馮祖芳",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]隆林街101巷2號1、2、3樓",
+        "floor": "3樓",
+        "size": "1,200.45平方公尺",
+        "size_in": "871.79平方公尺",
+        "size_out": "21.01平方公尺",
+        "tel": "(02)26013666",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2c34e04d-9e22-4e81-a6b9-0da6f5429618",
+        "monthly": 18510
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3849351,
+            25.0746162
+        ]
+    }
+}

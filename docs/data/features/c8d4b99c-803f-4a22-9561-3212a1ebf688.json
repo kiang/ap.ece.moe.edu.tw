@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1092406457號",
+        "reg_docno": "府教特字第9204004304號",
+        "reg_date": "2003\/07\/21",
+        "title": "雲林縣私立大鳥幼兒園",
+        "owner": "廖義龍",
+        "city": "雲林縣",
+        "town": "西螺鎮",
+        "type": "私立",
+        "address": "[648]西興南路51號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5881678",
+        "url": "",
+        "count_approved": "99",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c8d4b99c-803f-4a22-9561-3212a1ebf688",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.455522,
+            23.799467
+        ]
+    }
+}

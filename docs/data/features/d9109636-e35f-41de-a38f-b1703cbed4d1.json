@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11135814100號",
+        "reg_docno": "86府教學字第127172號",
+        "reg_date": "1997\/07\/01",
+        "title": "高雄市湖內區大湖國民小學附設幼兒園",
+        "owner": "朱麗玲",
+        "city": "高雄市",
+        "town": "湖內區",
+        "type": "公立",
+        "address": "[829]民權路2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6933808#53",
+        "url": "http:\/\/www.dhu.ks.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d9109636-e35f-41de-a38f-b1703cbed4d1",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.244235,
+            22.887577
+        ]
+    }
+}

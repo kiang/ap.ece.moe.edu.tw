@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1130055994號",
+        "reg_docno": "府教特字第1020159348號",
+        "reg_date": "2013\/08\/01",
+        "title": "宜蘭縣礁溪鄉玉田國民小學附設幼兒園",
+        "owner": "黃增川",
+        "city": "宜蘭縣",
+        "town": "礁溪鄉",
+        "type": "公立",
+        "address": "[262]玉民路一段169號",
+        "floor": "1樓",
+        "size": "369平方公尺",
+        "size_in": "169平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(03)9882461",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "826ad265-646e-4b14-b668-44ee21210eec",
+        "monthly": 2766
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.790605,
+            24.796452
+        ]
+    }
+}

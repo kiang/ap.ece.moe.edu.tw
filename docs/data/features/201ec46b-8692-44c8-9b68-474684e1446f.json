@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050004478號",
+        "reg_docno": "中市府社婦字第8936號",
+        "reg_date": "2000\/10\/11",
+        "title": "臺中市私立劍橋幼兒園",
+        "owner": "吳麗秋",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]永春東路211號",
+        "floor": "1.2.3",
+        "size": "2,973.42平方公尺",
+        "size_in": "2,355.01平方公尺",
+        "size_out": "618.41平方公尺",
+        "tel": "(04)24736561",
+        "url": "",
+        "count_approved": "410",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：50",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "201ec46b-8692-44c8-9b68-474684e1446f",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.65137,
+            24.134907
+        ]
+    }
+}

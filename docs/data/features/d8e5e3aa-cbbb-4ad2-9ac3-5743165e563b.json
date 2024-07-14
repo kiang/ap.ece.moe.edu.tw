@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10939236000號",
+        "reg_docno": "高市教幼字第10338913900號",
+        "reg_date": "2014\/12\/25",
+        "title": "高雄市私立保進幼兒園",
+        "owner": "竇瑜芬",
+        "city": "高雄市",
+        "town": "橋頭區",
+        "type": "私立",
+        "address": "[825]成功南路智義巷50號",
+        "floor": "1樓",
+        "size": "2,075.934平方公尺",
+        "size_in": "826.91平方公尺",
+        "size_out": "1,249.024平方公尺",
+        "tel": "(07)6119316",
+        "url": "",
+        "count_approved": "278",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d8e5e3aa-cbbb-4ad2-9ac3-5743165e563b",
+        "monthly": 5260
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.31156,
+            22.75
+        ]
+    }
+}

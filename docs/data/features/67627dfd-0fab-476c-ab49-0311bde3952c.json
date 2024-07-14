@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138690800號",
+        "reg_docno": "府社福字第10182號",
+        "reg_date": "1994\/01\/18",
+        "title": "高雄市私立劍聲幼兒園",
+        "owner": "翁德彬",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]中山西路231、233號",
+        "floor": "1樓",
+        "size": "160.1平方公尺",
+        "size_in": "160.1平方公尺",
+        "size_out": "",
+        "tel": "(07)7435195",
+        "url": "http:\/\/www.jskid.com.tw",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "67627dfd-0fab-476c-ab49-0311bde3952c",
+        "monthly": 11500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.348358,
+            22.627717
+        ]
+    }
+}

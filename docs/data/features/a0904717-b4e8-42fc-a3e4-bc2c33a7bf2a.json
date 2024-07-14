@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551472號",
+        "reg_docno": "府教幼字第1050127994號",
+        "reg_date": "2016\/08\/01",
+        "title": "新竹縣竹北市麻園國民小學附設幼兒園",
+        "owner": "陳育姿",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "公立",
+        "address": "[302]長園一街236號",
+        "floor": "1樓",
+        "size": "583.19平方公尺",
+        "size_in": "169.61平方公尺",
+        "size_out": "413.58平方公尺",
+        "tel": "(03)5563540",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a0904717-b4e8-42fc-a3e4-bc2c33a7bf2a",
+        "monthly": 3944
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9769719,
+            24.8460266
+        ]
+    }
+}

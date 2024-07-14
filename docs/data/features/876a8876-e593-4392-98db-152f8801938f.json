@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010034833號",
+        "reg_docno": "府社幼字第0990340639號",
+        "reg_date": "2010\/10\/27",
+        "title": "臺中市私立和新儷園幼兒園",
+        "owner": "陳琮亮",
+        "city": "臺中市",
+        "town": "烏日區",
+        "type": "私立",
+        "address": "[414]溪南路一段460巷80號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23353073",
+        "url": "",
+        "count_approved": "110",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "876a8876-e593-4392-98db-152f8801938f",
+        "monthly": 4700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6416478,
+            24.0815532
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1110238349號",
+        "reg_docno": "基府教前參字第1110238349號",
+        "reg_date": "2022\/08\/15",
+        "title": "臺灣港務股份有限公司基隆港職場互助教保服務中心(委託社團法人台灣幼兒早期教育協會辦理)",
+        "owner": "劉百純",
+        "city": "基隆市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[202]東海街1號地下1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24280805",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f6a2c0ff-fcbe-4c7f-be54-4cc8a2745618",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.756484,
+            25.1412143
+        ]
+    }
+}

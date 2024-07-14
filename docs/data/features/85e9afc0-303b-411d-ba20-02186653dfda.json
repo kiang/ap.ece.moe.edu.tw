@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120071496號",
+        "reg_docno": "中市教幼字第1110103596號",
+        "reg_date": "2022\/11\/29",
+        "title": "臺灣土地銀行臺中分行職場互助教保服務中心(委託社團法人大中華社會企業創新策略發展協會辦理)",
+        "owner": "莊凱如",
+        "city": "臺中市",
+        "town": "中區",
+        "type": "私立",
+        "address": "[400]自由路2段1號3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22293766",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "85e9afc0-303b-411d-ba20-02186653dfda",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6799491,
+            24.1383306
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010046951號",
+        "reg_docno": "府社幼字第0990019787號",
+        "reg_date": "2010\/01\/18",
+        "title": "臺中市私立吉麗幼兒園",
+        "owner": "廖麗珠",
+        "city": "臺中市",
+        "town": "東勢區",
+        "type": "私立",
+        "address": "[423]新豐街128號",
+        "floor": "1-2樓",
+        "size": "171.27平方公尺",
+        "size_in": "102.41平方公尺",
+        "size_out": "68.86平方公尺",
+        "tel": "(04)25873889",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e540fc4d-91aa-479d-b4b7-759bb8a8b7ea",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8247691,
+            24.2625821
+        ]
+    }
+}

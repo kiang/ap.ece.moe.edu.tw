@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10738272400號",
+        "reg_docno": "高市教幼字第10738272400號",
+        "reg_date": "2019\/01\/16",
+        "title": "高雄市私立愛上學幼兒園",
+        "owner": "張金蘭",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]博愛四路385號",
+        "floor": "1樓、2樓",
+        "size": "1,746.05平方公尺",
+        "size_in": "1,006.59平方公尺",
+        "size_out": "739.46平方公尺",
+        "tel": "(07)3457241",
+        "url": "",
+        "count_approved": "267",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "146f5167-96ce-4a51-abc5-0999955338d5",
+        "monthly": 16250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.315789,
+            22.686818
+        ]
+    }
+}

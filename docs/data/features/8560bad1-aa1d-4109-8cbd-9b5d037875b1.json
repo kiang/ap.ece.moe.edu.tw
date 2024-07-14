@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第195-2號",
+        "reg_docno": "北市教三字第44529號",
+        "reg_date": "1975\/12\/10",
+        "title": "實踐大學附設臺北市私立幼兒園",
+        "owner": "丁斌首",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]大直街70號1樓",
+        "floor": "1樓、2樓",
+        "size": "637.69平方公尺",
+        "size_in": "510.69平方公尺",
+        "size_out": "127平方公尺",
+        "tel": "(02)25336078",
+        "url": "www.usc.edu.tw\/admin\/kids\/index.htm",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8560bad1-aa1d-4109-8cbd-9b5d037875b1",
+        "monthly": 11250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.545444,
+            25.083244
+        ]
+    }
+}

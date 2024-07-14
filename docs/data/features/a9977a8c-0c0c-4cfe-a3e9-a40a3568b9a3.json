@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1090885964號",
+        "reg_docno": "府教國字第87835號",
+        "reg_date": "1978\/08\/09",
+        "title": "臺南市永康區永康國民小學附設幼兒園",
+        "owner": "洪國展",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "公立",
+        "address": "[710]中山南路637號",
+        "floor": "1樓",
+        "size": "1,400平方公尺",
+        "size_in": "600平方公尺",
+        "size_out": "800平方公尺",
+        "tel": "(06)2324462#710",
+        "url": "http:\/\/ykes.tnc.edu.tw",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a9977a8c-0c0c-4cfe-a3e9-a40a3568b9a3",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.255528,
+            23.025861
+        ]
+    }
+}

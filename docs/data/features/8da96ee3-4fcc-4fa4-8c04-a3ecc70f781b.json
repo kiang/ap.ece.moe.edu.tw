@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010018156號",
+        "reg_docno": "府社婦幼字第100005991號",
+        "reg_date": "2011\/01\/04",
+        "title": "新竹縣私立喬米幼兒園",
+        "owner": "林祺鈞",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]福興東路2段32號1-2樓",
+        "floor": "1樓、2樓",
+        "size": "761.67平方公尺",
+        "size_in": "481.77平方公尺",
+        "size_out": "82.82平方公尺",
+        "tel": "(03)6673290",
+        "url": "http:\/\/cmkg.topschool.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8da96ee3-4fcc-4fa4-8c04-a3ecc70f781b",
+        "monthly": 14133
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.026428,
+            24.816071
+        ]
+    }
+}

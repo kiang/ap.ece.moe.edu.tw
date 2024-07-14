@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第657號",
+        "reg_docno": "北市社五字第14432號",
+        "reg_date": "1997\/03\/31",
+        "title": "臺北市私立友友幼兒園",
+        "owner": "葉桂蘭",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]南京東路五段23巷6弄9號及11號1樓",
+        "floor": "1樓",
+        "size": "202.69平方公尺",
+        "size_in": "202.69平方公尺",
+        "size_out": "",
+        "tel": "(02)27568845",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "e79bf9a6-8c52-4d2c-a80d-483f05587a7e",
+        "monthly": 20307
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5582252,
+            25.0521622
+        ]
+    }
+}

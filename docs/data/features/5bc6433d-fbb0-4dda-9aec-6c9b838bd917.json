@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1090728168號",
+        "reg_docno": "南市教特(一)字第1090728168號",
+        "reg_date": "2020\/06\/17",
+        "title": "臺南市私立台南保進國際藝術幼兒園",
+        "owner": "許育綺",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]安昌街174巷79弄47號",
+        "floor": "1樓、2樓",
+        "size": "1,693.33平方公尺",
+        "size_in": "998.66平方公尺",
+        "size_out": "694.67平方公尺",
+        "tel": "(06)3571092",
+        "url": "",
+        "count_approved": "231",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5bc6433d-fbb0-4dda-9aec-6c9b838bd917",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2212145,
+            23.069892
+        ]
+    }
+}

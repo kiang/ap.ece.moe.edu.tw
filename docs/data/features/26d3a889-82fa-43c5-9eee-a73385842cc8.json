@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120285545號",
+        "reg_docno": "彰府教學字第75293號",
+        "reg_date": "1985\/02\/04",
+        "title": "彰化縣私立永安幼兒園",
+        "owner": "蕭美惠",
+        "city": "彰化縣",
+        "town": "埔心鄉",
+        "type": "私立",
+        "address": "[513]信義路121、123號",
+        "floor": "1樓",
+        "size": "471.08平方公尺",
+        "size_in": "171.08平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(04)8294776",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "26d3a889-82fa-43c5-9eee-a73385842cc8",
+        "monthly": 4300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.542142,
+            23.9592479
+        ]
+    }
+}

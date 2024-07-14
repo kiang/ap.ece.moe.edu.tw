@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10836829000號",
+        "reg_docno": "府教特字第0950026408號",
+        "reg_date": "2006\/01\/24",
+        "title": "高雄市私立卡爾頓幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "大寮區",
+        "type": "私立",
+        "address": "[831]萬丹路212號",
+        "floor": "1-3樓層",
+        "size": "3,676.05平方公尺",
+        "size_in": "2,167.05平方公尺",
+        "size_out": "1,509平方公尺",
+        "tel": "(07)7868378",
+        "url": "",
+        "count_approved": "480",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：67",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "034e0760-efbd-4ea6-90eb-bc521f1af8a3",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.395741,
+            22.612836
+        ]
+    }
+}

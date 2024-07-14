@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1103716808號",
+        "reg_docno": "府教幼字第1020004949號",
+        "reg_date": "2013\/03\/13",
+        "title": "新竹縣私立承山幼兒園",
+        "owner": "張家甯",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]隘口一街159號1樓",
+        "floor": "1樓",
+        "size": "1,270.07平方公尺",
+        "size_in": "662.06平方公尺",
+        "size_out": "524.91平方公尺",
+        "tel": "(03)6682362",
+        "url": "",
+        "count_approved": "170",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3283f2f0-c66f-4c67-a7de-74d9f6c57fcb",
+        "monthly": 24467
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0397414,
+            24.8052494
+        ]
+    }
+}

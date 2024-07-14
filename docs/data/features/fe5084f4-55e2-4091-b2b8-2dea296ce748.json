@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110251509號",
+        "reg_docno": "府教學前字第1110251509號",
+        "reg_date": "2022\/12\/29",
+        "title": "苗栗縣私立米豆國際幼兒園",
+        "owner": "謝玉卿",
+        "city": "苗栗縣",
+        "town": "竹南鎮",
+        "type": "私立",
+        "address": "[350]科北二路2號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,744.91平方公尺",
+        "size_in": "1,024.91平方公尺",
+        "size_out": "720平方公尺",
+        "tel": "(037)585007",
+        "url": "",
+        "count_approved": "240",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fe5084f4-55e2-4091-b2b8-2dea296ce748",
+        "monthly": 7000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9215322,
+            24.7094646
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第10800036599板橋0075之3號",
+        "reg_docno": "82北府教二字第374787號",
+        "reg_date": "1993\/11\/08",
+        "title": "新北市板橋區沙崙國民小學附設幼兒園",
+        "owner": "林惠珍",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "公立",
+        "address": "[220]篤行路二段132號",
+        "floor": "1樓",
+        "size": "1,344平方公尺",
+        "size_in": "756平方公尺",
+        "size_out": "588平方公尺",
+        "tel": "(02)26812764#851",
+        "url": "http:\/\/tw.myblog.yahoo.com\/sharon_preschool",
+        "count_approved": "196",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bb163950-e6d4-4e74-92c5-3f6d5ae9ed1e",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4307,
+            24.99005
+        ]
+    }
+}

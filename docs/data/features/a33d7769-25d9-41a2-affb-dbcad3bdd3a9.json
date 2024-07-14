@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0085號",
+        "reg_docno": "北府社兒字第0960611856號",
+        "reg_date": "2007\/09\/12",
+        "title": "新北市私立茱莉亞園幼兒園",
+        "owner": "林育慈",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]三民路175巷25號1-2樓、27號1-3樓、重陽路2段52巷83弄4號1樓、6號1-3樓",
+        "floor": "1~3",
+        "size": "707.12平方公尺",
+        "size_in": "451.25平方公尺",
+        "size_out": "161.27平方公尺",
+        "tel": "(02)29850500",
+        "url": "http:\/juilliard97@yahoo.com.tw",
+        "count_approved": "175",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a33d7769-25d9-41a2-affb-dbcad3bdd3a9",
+        "monthly": 11292
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.484178,
+            25.065796
+        ]
+    }
+}

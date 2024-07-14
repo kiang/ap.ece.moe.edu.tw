@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010018196號",
+        "reg_docno": "府社福字第091011688號",
+        "reg_date": "2002\/01\/31",
+        "title": "新竹縣私立精英幼兒園",
+        "owner": "羅昀岑",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "私立",
+        "address": "[303]德和路一巷8號",
+        "floor": "1~2",
+        "size": "990.72平方公尺",
+        "size_in": "389.59平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(03)5991340",
+        "url": "",
+        "count_approved": "110",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7e3981a4-7a91-4932-b2d4-03876041c5dd",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.047589,
+            24.916869
+        ]
+    }
+}

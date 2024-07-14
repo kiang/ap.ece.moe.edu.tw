@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120106377號",
+        "reg_docno": "府教幼字第1090210887號",
+        "reg_date": "2020\/08\/27",
+        "title": "桃園市過嶺非營利幼兒園(委託社團法人新北市中華國際嬰幼兒發展學會辦理)",
+        "owner": "林芷涵",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "非營利",
+        "address": "[320]松智路6號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4207720",
+        "url": "評鑑情形：",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "87c38792-eec1-4816-9fe8-29d7fb50365f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1737667,
+            24.9600899
+        ]
+    }
+}

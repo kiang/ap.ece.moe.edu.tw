@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100217674號",
+        "reg_docno": "府教特字第1000012702號",
+        "reg_date": "2011\/01\/24",
+        "title": "桃園市大溪區仁和國民小學附設幼兒園",
+        "owner": "蕭富陽",
+        "city": "桃園市",
+        "town": "大溪區",
+        "type": "公立",
+        "address": "[335]仁和二街50號",
+        "floor": "1",
+        "size": "32,559平方公尺",
+        "size_in": "99平方公尺",
+        "size_out": "16,279.5平方公尺",
+        "tel": "(03)3076626#217",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e6725c73-4646-4413-b553-8fcafac9d67d",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2775266,
+            24.8968278
+        ]
+    }
+}

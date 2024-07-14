@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第539號",
+        "reg_docno": "北市社五字第09336369500號",
+        "reg_date": "2004\/07\/15",
+        "title": "臺北市私立達芬奇多元智能幼兒園",
+        "owner": "李秋芬",
+        "city": "臺北市",
+        "town": "南港區",
+        "type": "私立",
+        "address": "[115]興華路32號1至4樓",
+        "floor": "1樓、2樓、3樓、4樓",
+        "size": "211.45平方公尺",
+        "size_in": "211.45平方公尺",
+        "size_out": "",
+        "tel": "(02)27881098",
+        "url": "sinhwa32@gmail.com",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：10",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0424f0c4-f176-44fb-bb28-b103f5a3e928",
+        "monthly": 11973
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6058079,
+            25.055176
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110172744號",
+        "reg_docno": "86府教國字第29896號",
+        "reg_date": "1997\/08\/01",
+        "title": "宜蘭縣蘇澳鎮南安國民小學附設幼兒園",
+        "owner": "黃義添",
+        "city": "宜蘭縣",
+        "town": "蘇澳鎮",
+        "type": "公立",
+        "address": "[270]學府路122號",
+        "floor": "1樓、2樓",
+        "size": "1,535.15平方公尺",
+        "size_in": "678.15平方公尺",
+        "size_out": "857平方公尺",
+        "tel": "(03)9962664#103",
+        "url": "www.naanes.ilc.edu.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "862afadf-d0f2-42f6-b3b3-c038c24a22f3",
+        "monthly": 2766
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.868542,
+            24.579372
+        ]
+    }
+}

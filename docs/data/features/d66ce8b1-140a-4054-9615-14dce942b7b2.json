@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620土城0034號",
+        "reg_docno": "八九北府兒福字第687號",
+        "reg_date": "2000\/11\/07",
+        "title": "新北市私立全球幼兒園",
+        "owner": "鄭旭茱",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]立德路135巷2-1號,2-2號1,2樓",
+        "floor": "1樓至2樓",
+        "size": "222.11平方公尺",
+        "size_in": "222.11平方公尺",
+        "size_out": "",
+        "tel": "(02)22652939",
+        "url": "",
+        "count_approved": "63",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d66ce8b1-140a-4054-9615-14dce942b7b2",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.464613,
+            24.986597
+        ]
+    }
+}

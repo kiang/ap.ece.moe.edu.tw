@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080045003e號",
+        "reg_docno": "府社幼字第1000391258號",
+        "reg_date": "1994\/09\/24",
+        "title": "彰化縣溪州鄉立幼兒園三條分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "溪州鄉",
+        "type": "公立",
+        "address": "[524]九甲一巷4號",
+        "floor": "1樓",
+        "size": "384.05平方公尺",
+        "size_in": "214.05平方公尺",
+        "size_out": "170平方公尺",
+        "tel": "(04)8896100#301",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "232d0133-8108-42bc-b41a-bb16bbfeace2",
+        "monthly": 3582
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.494426,
+            23.827634
+        ]
+    }
+}

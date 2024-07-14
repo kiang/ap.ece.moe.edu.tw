@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080051716號",
+        "reg_docno": "中市教幼字第1060061337號",
+        "reg_date": "2017\/07\/28",
+        "title": "臺中市私立語林幼兒園",
+        "owner": "黃政傑",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]文心南五路3段391號",
+        "floor": "3樓",
+        "size": "2,797.45平方公尺",
+        "size_in": "1,694.6平方公尺",
+        "size_out": "1,097.85平方公尺",
+        "tel": "(04)23861683",
+        "url": "",
+        "count_approved": "392",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cca41157-afd0-4e66-b92d-b1346dd34a6e",
+        "monthly": 16600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6308575,
+            24.1493375
+        ]
+    }
+}

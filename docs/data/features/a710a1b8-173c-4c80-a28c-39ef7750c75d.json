@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138482200號",
+        "reg_docno": "90府社福字第94887號",
+        "reg_date": "2001\/06\/06",
+        "title": "高雄市私立小太陽菁英幼兒園",
+        "owner": "吳姿瑢",
+        "city": "高雄市",
+        "town": "大社區",
+        "type": "私立",
+        "address": "[815]中華路14巷160之8號",
+        "floor": "1樓",
+        "size": "1,122.62平方公尺",
+        "size_in": "499.84平方公尺",
+        "size_out": "622.78平方公尺",
+        "tel": "(07)3551027",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a710a1b8-173c-4c80-a28c-39ef7750c75d",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.35633,
+            22.725947
+        ]
+    }
+}

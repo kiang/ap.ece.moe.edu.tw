@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新莊0091之1號",
+        "reg_docno": "北府社兒字第0910203018號",
+        "reg_date": "2002\/04\/25",
+        "title": "新北市私立意秋幼兒園",
+        "owner": "黃致銘",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]後港一路192號1,2,3樓",
+        "floor": "1-3樓",
+        "size": "1,331平方公尺",
+        "size_in": "1,046平方公尺",
+        "size_out": "285平方公尺",
+        "tel": "(02)29028680",
+        "url": "",
+        "count_approved": "200",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a9fd6811-c11c-4501-9255-dea9a26e0ca3",
+        "monthly": 15406
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.432619,
+            25.027923
+        ]
+    }
+}

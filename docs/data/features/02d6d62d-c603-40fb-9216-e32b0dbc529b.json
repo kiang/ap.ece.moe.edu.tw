@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0009號",
+        "reg_docno": "85北府社四字第279474號",
+        "reg_date": "1996\/08\/02",
+        "title": "新北市私立雙成幼兒園",
+        "owner": "黃龍德",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]縣民大道三段133巷22號1樓",
+        "floor": "1樓",
+        "size": "215.32平方公尺",
+        "size_in": "81平方公尺",
+        "size_out": "83.92平方公尺",
+        "tel": "(02)22535056",
+        "url": "http：\/\/shanchen.pckids.com.tw\/",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "02d6d62d-c603-40fb-9216-e32b0dbc529b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.477405,
+            25.023597
+        ]
+    }
+}

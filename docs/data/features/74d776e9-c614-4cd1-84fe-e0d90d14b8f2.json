@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040027564號",
+        "reg_docno": "府社婦字第0910137337號",
+        "reg_date": "2002\/06\/26",
+        "title": "桃園市私立燈塔幼兒園",
+        "owner": "田素美",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]金山二街22號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4283455",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "74d776e9-c614-4cd1-84fe-e0d90d14b8f2",
+        "monthly": 13580
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2307345,
+            24.952298
+        ]
+    }
+}

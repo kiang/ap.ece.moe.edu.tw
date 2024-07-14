@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11153432400號",
+        "reg_docno": "屏府教特字第0970112429號",
+        "reg_date": "2008\/06\/02",
+        "title": "屏東縣獅子鄉草埔國民小學附設幼兒園",
+        "owner": "林志仙",
+        "city": "屏東縣",
+        "town": "獅子鄉",
+        "type": "公立",
+        "address": "[943]1巷5號",
+        "floor": "1樓",
+        "size": "346平方公尺",
+        "size_in": "94平方公尺",
+        "size_out": "252平方公尺",
+        "tel": "(08)8701449#16",
+        "url": "http:\/\/www.cpps.ptc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5660db56-3485-4828-89b8-d77de671b3a4",
+        "monthly": 2938
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.803154,
+            22.234777
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1121103600號",
+        "reg_docno": "七四北府教二字第390636號",
+        "reg_date": "1985\/10\/23",
+        "title": "新北市私立秀明幼兒園",
+        "owner": "李韋德",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]民權路1巷24號、26號",
+        "floor": "B1~1F",
+        "size": "337.54平方公尺",
+        "size_in": "250.94平方公尺",
+        "size_out": "86.6平方公尺",
+        "tel": "(02)29435335",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "036a7238-a59b-4510-93c7-2faa94842fa3",
+        "monthly": 16340
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.521614,
+            24.998098
+        ]
+    }
+}

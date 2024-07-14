@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1112303754號",
+        "reg_docno": "北府社兒字第0910734937號",
+        "reg_date": "2002\/12\/20",
+        "title": "新北市私立嘉慶幼兒園",
+        "owner": "許婉亭",
+        "city": "新北市",
+        "town": "新店區",
+        "type": "私立",
+        "address": "[231]安康路2段136號",
+        "floor": "1-2",
+        "size": "385.11平方公尺",
+        "size_in": "385.11平方公尺",
+        "size_out": "",
+        "tel": "(02)22123378",
+        "url": "",
+        "count_approved": "110",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "82fb7ba0-f833-44c2-96b6-e7030824af30",
+        "monthly": 15899
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5125344,
+            24.961906
+        ]
+    }
+}

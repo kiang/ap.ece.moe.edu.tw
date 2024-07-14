@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1010570742號",
+        "reg_docno": "南市教特字第223224號",
+        "reg_date": "2001\/07\/23",
+        "title": "臺南市私立文林幼兒園",
+        "owner": "林怡伶",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[701]光明街82號",
+        "floor": "1樓",
+        "size": "2,836平方公尺",
+        "size_in": "899.12平方公尺",
+        "size_out": "1,936.88平方公尺",
+        "tel": "(06)2378378",
+        "url": "winlin.topschool.com.tw",
+        "count_approved": "270",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "511b68b6-7281-4187-80a8-16e7bb355053",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.228476,
+            22.996973
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070193601號",
+        "reg_docno": "府教特字第1060145227號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺東縣臺東市康樂國民小學附設幼兒園",
+        "owner": "王振興",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "公立",
+        "address": "[950]山西路一段256號",
+        "floor": "1樓",
+        "size": "655平方公尺",
+        "size_in": "195平方公尺",
+        "size_out": "460平方公尺",
+        "tel": "(089)226131#83",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "33b66468-e2e9-4cb2-b2cc-5255c7f0e15a",
+        "monthly": 3944
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1197238,
+            22.7545152
+        ]
+    }
+}

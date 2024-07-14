@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110221874號",
+        "reg_docno": "府教幼字第1040200835號",
+        "reg_date": "2015\/08\/01",
+        "title": "桃園市蘆竹區龍安國民小學附設幼兒園",
+        "owner": "吳振世",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "公立",
+        "address": "[338]文中路一段35號",
+        "floor": "一樓",
+        "size": "370平方公尺",
+        "size_in": "180平方公尺",
+        "size_out": "190平方公尺",
+        "tel": "(03)3922797#660",
+        "url": "",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8b580ca0-78a7-418d-9cde-144f37c8f0b2",
+        "monthly": 4005
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.273088,
+            24.9924491
+        ]
+    }
+}

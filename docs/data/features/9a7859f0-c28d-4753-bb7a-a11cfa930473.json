@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111127493號",
+        "reg_docno": "府教國字第111448號",
+        "reg_date": "1995\/07\/11",
+        "title": "臺南市後壁區新東國民小學附設幼兒園",
+        "owner": "林秋美",
+        "city": "臺南市",
+        "town": "後壁區",
+        "type": "公立",
+        "address": "[731]下長81號",
+        "floor": "1樓",
+        "size": "302平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "182平方公尺",
+        "tel": "(06)6320902#301",
+        "url": "http:\/\/163.26.122.129\/kid",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9a7859f0-c28d-4753-bb7a-a11cfa930473",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.316059,
+            23.344916
+        ]
+    }
+}

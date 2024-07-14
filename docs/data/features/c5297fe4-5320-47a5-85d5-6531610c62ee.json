@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110167263號",
+        "reg_docno": "74府教學字第67940號",
+        "reg_date": "1985\/08\/16",
+        "title": "花蓮縣萬榮鄉紅葉國民小學附設幼兒園",
+        "owner": "陳月珠",
+        "city": "花蓮縣",
+        "town": "萬榮鄉",
+        "type": "公立",
+        "address": "[979]4號",
+        "floor": "1",
+        "size": "248.86平方公尺",
+        "size_in": "158.86平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)8872784#27",
+        "url": "http:\/\/www.hyps.edu.tw",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c5297fe4-5320-47a5-85d5-6531610c62ee",
+        "monthly": 2670
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.345441,
+            23.494608
+        ]
+    }
+}

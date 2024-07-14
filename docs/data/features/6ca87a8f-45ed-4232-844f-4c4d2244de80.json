@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11259654800號",
+        "reg_docno": "屏府教前字第11155466500號",
+        "reg_date": "2022\/08\/01",
+        "title": "屏東縣恆春鎮大光國民小學附設幼兒園",
+        "owner": "謝郁如",
+        "city": "屏東縣",
+        "town": "恆春鎮",
+        "type": "公立",
+        "address": "[946]大光路8之6號",
+        "floor": "1樓",
+        "size": "7,068.38平方公尺",
+        "size_in": "286.58平方公尺",
+        "size_out": "6,781.8平方公尺",
+        "tel": "(08)8867064#29",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6ca87a8f-45ed-4232-844f-4c4d2244de80",
+        "monthly": 3960
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7398445,
+            21.9511306
+        ]
+    }
+}

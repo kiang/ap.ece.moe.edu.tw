@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080035221號",
+        "reg_docno": "中市教幼字第1080035221號",
+        "reg_date": "2019\/05\/13",
+        "title": "臺中市私立奇妙玩得福幼兒園",
+        "owner": "潘菲玲",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "私立",
+        "address": "[412]向學一路1號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24930818",
+        "url": "",
+        "count_approved": "19",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "d19c2871-1335-4a1b-b506-889b6200db23",
+        "monthly": 24700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6994505,
+            24.0922302
+        ]
+    }
+}

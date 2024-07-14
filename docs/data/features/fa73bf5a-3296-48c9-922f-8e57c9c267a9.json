@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10830171200號",
+        "reg_docno": "高市教幼字字第10737621900號",
+        "reg_date": "2018\/12\/10",
+        "title": "高雄市私立宏學幼兒園",
+        "owner": "黃琬淇",
+        "city": "高雄市",
+        "town": "鼓山區",
+        "type": "私立",
+        "address": "[804]華欣路21號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)5227367",
+        "url": "",
+        "count_approved": "196",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "fa73bf5a-3296-48c9-922f-8e57c9c267a9",
+        "monthly": 14043
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2949153,
+            22.6694194
+        ]
+    }
+}

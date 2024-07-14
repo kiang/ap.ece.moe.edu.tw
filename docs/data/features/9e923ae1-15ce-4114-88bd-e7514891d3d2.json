@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620蘆洲0050號",
+        "reg_docno": "北府社兒字第0930857828號",
+        "reg_date": "2004\/12\/23",
+        "title": "新北市私立來得幼兒園",
+        "owner": "賴葉致",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]民權路38巷5、7號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22812108",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9e923ae1-15ce-4114-88bd-e7514891d3d2",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.476491,
+            25.085842
+        ]
+    }
+}

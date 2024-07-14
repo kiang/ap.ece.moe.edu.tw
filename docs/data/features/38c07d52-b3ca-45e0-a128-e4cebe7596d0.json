@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010225161號",
+        "reg_docno": "八七彰府社福字第131552號",
+        "reg_date": "1998\/07\/20",
+        "title": "彰化縣私立喜巧兒幼兒園",
+        "owner": "陳彥蓁",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "私立",
+        "address": "[510]成功東路61號",
+        "floor": "一樓",
+        "size": "1,122.15平方公尺",
+        "size_in": "303.44平方公尺",
+        "size_out": "695.1平方公尺",
+        "tel": "(04)8319178",
+        "url": "https:\/\/reurl.cc\/Y0o2nx",
+        "count_approved": "100",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "38c07d52-b3ca-45e0-a128-e4cebe7596d0",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5817486,
+            23.9633544
+        ]
+    }
+}

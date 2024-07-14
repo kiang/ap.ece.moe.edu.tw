@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第795號",
+        "reg_docno": "北市教前字第11030118351號",
+        "reg_date": "2021\/08\/11",
+        "title": "財政部員工子女非營利幼兒園（委託社團法人嬰幼兒教育與家庭發展協會辦理）",
+        "owner": "廖鳳瑞",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "非營利",
+        "address": "[116]羅斯福路六段142巷3號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)89319200",
+        "url": "https:\/\/www.facebook.com\/mofp202108\/?ref=pages_you_manage",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "18eb7924-ae79-4929-bd13-ef5407879a34",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5388873,
+            24.9962048
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110336944號",
+        "reg_docno": "府教幼字第1110336944號",
+        "reg_date": "2022\/09\/14",
+        "title": "彰化縣私立惠來熊國際蒙特梭利幼兒園",
+        "owner": "翁兆一",
+        "city": "彰化縣",
+        "town": "埔鹽鄉",
+        "type": "私立",
+        "address": "[516]彰水路一段9-20號",
+        "floor": "1樓",
+        "size": "2,393.39平方公尺",
+        "size_in": "1,174.22平方公尺",
+        "size_out": "1,219.17平方公尺",
+        "tel": "(04)8820121",
+        "url": "https:\/\/www.welcomebear.org.tw\/index_tw.php",
+        "count_approved": "228",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "632b2d1a-2578-4414-87f8-02acbf71d468",
+        "monthly": 13833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4783573,
+            23.9816159
+        ]
+    }
+}

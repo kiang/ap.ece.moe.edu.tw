@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010066980號",
+        "reg_docno": "府社婦字第09100801360號",
+        "reg_date": "2002\/08\/12",
+        "title": "花蓮縣私立熊熊森林幼兒園",
+        "owner": "曹湘玲",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "私立",
+        "address": "[970]永興路82號",
+        "floor": "2樓",
+        "size": "286.8072平方公尺",
+        "size_in": "128.3072平方公尺",
+        "size_out": "158.5平方公尺",
+        "tel": "(03)8228760",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2354772b-5260-4e59-ba52-c89775681102",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.623995,
+            23.993536
+        ]
+    }
+}

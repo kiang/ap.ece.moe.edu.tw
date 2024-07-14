@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1102440800號",
+        "reg_docno": "府教特一字第1102440800號",
+        "reg_date": "2021\/08\/01",
+        "title": "雲林縣西螺鎮中山國民小學附設幼兒園",
+        "owner": "廖育辰",
+        "city": "雲林縣",
+        "town": "西螺鎮",
+        "type": "公立",
+        "address": "[648]新街路2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5862039#025",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "70c17293-7157-4187-a62e-a6a838277a72",
+        "monthly": 3985
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.465343,
+            23.7946485
+        ]
+    }
+}

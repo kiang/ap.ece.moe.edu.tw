@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110258456號",
+        "reg_docno": "府教幼字第1110258456號",
+        "reg_date": "2022\/09\/20",
+        "title": "桃園市私立福祿貝爾國際幼兒園",
+        "owner": "郭文桂",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]文中三路100號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3603268",
+        "url": "",
+        "count_approved": "256",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "25037100-88a8-45a8-9555-81483dc164c8",
+        "monthly": 19800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2887942,
+            24.9983963
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680汐止0002之1號",
+        "reg_docno": "八八北府社四字第88487739號",
+        "reg_date": "1999\/12\/17",
+        "title": "新北市私立向日葵幼兒園",
+        "owner": "江束",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]秀峰路89號1、2樓",
+        "floor": "1.2樓",
+        "size": "500平方公尺",
+        "size_in": "400平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(02)26415599",
+        "url": "http:\/\/sunflower.topschool.com.tw",
+        "count_approved": "72",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6e3cf8db-2d42-436d-9286-2777aad3b19c",
+        "monthly": 4820
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.660333,
+            25.0639739
+        ]
+    }
+}

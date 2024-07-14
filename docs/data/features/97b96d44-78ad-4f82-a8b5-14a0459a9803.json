@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110099494號",
+        "reg_docno": "府特教字第0910001745號",
+        "reg_date": "2002\/06\/15",
+        "title": "臺東縣私立獅子王幼兒園",
+        "owner": "李獻忠",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "私立",
+        "address": "[950]豐榮路31號",
+        "floor": "1~3樓",
+        "size": "1,550平方公尺",
+        "size_in": "550平方公尺",
+        "size_out": "1,000平方公尺",
+        "tel": "(089)335868",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：35",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "97b96d44-78ad-4f82-a8b5-14a0459a9803",
+        "monthly": 12187
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1394931,
+            22.7465279
+        ]
+    }
+}

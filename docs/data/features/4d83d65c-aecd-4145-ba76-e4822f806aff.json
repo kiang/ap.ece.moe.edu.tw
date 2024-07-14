@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010623985號",
+        "reg_docno": "府社福字第0910077373號",
+        "reg_date": "2002\/05\/15",
+        "title": "臺南市私立小袋鼠幼兒園",
+        "owner": "張儀玲",
+        "city": "臺南市",
+        "town": "柳營區",
+        "type": "私立",
+        "address": "[736]柳營路二段70號",
+        "floor": "1樓、2樓",
+        "size": "495.57平方公尺",
+        "size_in": "199.5平方公尺",
+        "size_out": "296.07平方公尺",
+        "tel": "(06)6225104",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4d83d65c-aecd-4145-ba76-e4822f806aff",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.312161,
+            23.278294
+        ]
+    }
+}

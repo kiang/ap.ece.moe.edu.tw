@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136311000號",
+        "reg_docno": "85府教學字第97743號",
+        "reg_date": "1996\/05\/24",
+        "title": "高雄市路竹區三埤國民小學附設幼兒園",
+        "owner": "陳栢齡",
+        "city": "高雄市",
+        "town": "路竹區",
+        "type": "公立",
+        "address": "[821]民權路7號",
+        "floor": "1樓",
+        "size": "1,041.79平方公尺",
+        "size_in": "121.14平方公尺",
+        "size_out": "920.65平方公尺",
+        "tel": "(07)6962688#17",
+        "url": "https:\/\/affairs.kh.edu.tw\/7076",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b359f203-18b1-4866-bf81-8af529bfe41f",
+        "monthly": 3703
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.280484,
+            22.836387
+        ]
+    }
+}

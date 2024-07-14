@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第489-1號",
+        "reg_docno": "北市社五字第8821458800號",
+        "reg_date": "1999\/03\/10",
+        "title": "臺北市私立三義幼兒園",
+        "owner": "連恩祥",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]木柵路三段48巷1弄18、20號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)86619636",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8627e652-eb17-4995-b938-1903f8682dca",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.564533,
+            24.98812
+        ]
+    }
+}

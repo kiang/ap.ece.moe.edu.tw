@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第333-3號",
+        "reg_docno": "北市教幼字第09740513900號",
+        "reg_date": "1987\/08\/01",
+        "title": "臺北市大同區延平國民小學附設幼兒園",
+        "owner": "陳清義",
+        "city": "臺北市",
+        "town": "大同區",
+        "type": "公立",
+        "address": "[103]昌吉街97號",
+        "floor": "1樓、2樓",
+        "size": "1,844.34平方公尺",
+        "size_in": "900.2平方公尺",
+        "size_out": "178.2平方公尺",
+        "tel": "(02)25958313#514",
+        "url": "https:\/\/class.tn.edu.tw\/modules\/tad_web\/index.php?WebID=14640",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "08102cc1-3f01-466b-970d-480bb614722f",
+        "monthly": 7490
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5125019,
+            25.0660082
+        ]
+    }
+}

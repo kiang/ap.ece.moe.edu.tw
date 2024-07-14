@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060182810號",
+        "reg_docno": "府教幼字第1060182810號",
+        "reg_date": "2017\/08\/01",
+        "title": "桃園市立南崁幼兒園",
+        "owner": "呂文琴",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "公立",
+        "address": "[338]南崁路348巷18號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3520337",
+        "url": "",
+        "count_approved": "225",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d4125498-3534-4209-b8fa-75ea2732a87a",
+        "monthly": 3938
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2911784,
+            25.0508883
+        ]
+    }
+}

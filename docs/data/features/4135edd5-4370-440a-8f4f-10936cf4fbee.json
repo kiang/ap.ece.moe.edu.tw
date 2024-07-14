@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080058497號",
+        "reg_docno": "府教特字第53769號",
+        "reg_date": "2002\/04\/16",
+        "title": "臺中市私立天堂鳥幼兒園",
+        "owner": "黃蕙美",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]昌平路二段20-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24223469",
+        "url": "http:\/\/www.paradise-kdg.com.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4135edd5-4370-440a-8f4f-10936cf4fbee",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.686952,
+            24.1842089
+        ]
+    }
+}

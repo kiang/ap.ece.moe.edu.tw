@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070046975號",
+        "reg_docno": "府社福字第7402號",
+        "reg_date": "1985\/03\/16",
+        "title": "臺中市私立育華幼兒園",
+        "owner": "陳香妏",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]太和路一段58、60號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23915443",
+        "url": "http:\/\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "15b4785c-03aa-46d3-a8d1-148824e626e5",
+        "monthly": 7428
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.724913,
+            24.159698
+        ]
+    }
+}

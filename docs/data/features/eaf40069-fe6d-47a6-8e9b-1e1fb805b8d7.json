@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040036162號",
+        "reg_docno": "府社兒字第0970158588號",
+        "reg_date": "2008\/05\/20",
+        "title": "桃園市私立晨鐘幼兒園",
+        "owner": "王慶蕙",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "私立",
+        "address": "[338]仁愛路三段51之1號1-4樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3125385",
+        "url": "http:\/\/www.morning-bell.url.tw\/",
+        "count_approved": "145",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：25",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "eaf40069-fe6d-47a6-8e9b-1e1fb805b8d7",
+        "monthly": 9302
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3030793,
+            25.053658
+        ]
+    }
+}

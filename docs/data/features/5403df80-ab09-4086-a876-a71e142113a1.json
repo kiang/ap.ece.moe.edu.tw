@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080177617號",
+        "reg_docno": "府教特字第0983044030號",
+        "reg_date": "1987\/08\/01",
+        "title": "臺東縣鹿野鄉龍田國民小學附設幼兒園",
+        "owner": "吳耀仁",
+        "city": "臺東縣",
+        "town": "鹿野鄉",
+        "type": "公立",
+        "address": "[955]光榮路236號",
+        "floor": "1樓",
+        "size": "350平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(089)550747#218",
+        "url": "http:\/\/css000000149791.tw.class.uschoolnet.com\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5403df80-ab09-4086-a876-a71e142113a1",
+        "monthly": 3744
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.124518,
+            22.903901
+        ]
+    }
+}

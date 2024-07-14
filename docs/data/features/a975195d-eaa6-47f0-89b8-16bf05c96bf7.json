@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10931607300號",
+        "reg_docno": "高市教幼字第10339016100號",
+        "reg_date": "2014\/12\/27",
+        "title": "高雄市私立品恩幼兒園",
+        "owner": "楊明潭",
+        "city": "高雄市",
+        "town": "鼓山區",
+        "type": "私立",
+        "address": "[804]大順一路978號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,700.01平方公尺",
+        "size_in": "1,219.69平方公尺",
+        "size_out": "480.32平方公尺",
+        "tel": "(07)5503356",
+        "url": "kidcastle658@gmail.com",
+        "count_approved": "196",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a975195d-eaa6-47f0-89b8-16bf05c96bf7",
+        "monthly": 17180
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.29646,
+            22.6546176
+        ]
+    }
+}

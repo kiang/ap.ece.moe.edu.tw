@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110027656號",
+        "reg_docno": "府教學字第09400837780號",
+        "reg_date": "2005\/04\/27",
+        "title": "南投縣仁愛鄉德鹿谷國民小學附設幼兒園",
+        "owner": "高天龍",
+        "city": "南投縣",
+        "town": "仁愛鄉",
+        "type": "公立",
+        "address": "[546]莎都部落一巷23號",
+        "floor": "1樓",
+        "size": "233平方公尺",
+        "size_in": "68平方公尺",
+        "size_out": "165平方公尺",
+        "tel": "(049)2970063",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cc323dcf-629e-47bb-a377-5c0b8814e7ac",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.21715,
+            24.08606
+        ]
+    }
+}

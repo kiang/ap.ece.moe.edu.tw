@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1100163234號",
+        "reg_docno": "府教學前字第1100163234號",
+        "reg_date": "2021\/08\/01",
+        "title": "苗栗縣頭份市頭份國民小學附設幼兒園",
+        "owner": "徐禮安",
+        "city": "苗栗縣",
+        "town": "頭份市",
+        "type": "公立",
+        "address": "[351]中正路219號",
+        "floor": "1樓、2樓、3樓",
+        "size": "10,356.64平方公尺",
+        "size_in": "1,386.55平方公尺",
+        "size_out": "8,970.09平方公尺",
+        "tel": "(037)662050",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a4ae461f-a7d2-4f45-a4de-b61dea7735b5",
+        "monthly": 3635
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9125727,
+            24.6881437
+        ]
+    }
+}

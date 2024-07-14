@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字字第1080224131號",
+        "reg_docno": "府社兒字第1000434223號",
+        "reg_date": "2011\/10\/24",
+        "title": "桃園市私立培英幼兒園",
+        "owner": "王姪涵",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "私立",
+        "address": "[337]中正東路133號1樓、135號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3851597",
+        "url": "桃園市大園區中正東路133號1樓、135號1樓",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b34e66ab-cfb0-40a8-b9a1-007dd2e2aa8c",
+        "monthly": 6667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.291184,
+            24.881383
+        ]
+    }
+}

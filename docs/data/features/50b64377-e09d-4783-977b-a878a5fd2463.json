@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120207770號",
+        "reg_docno": "府教幼字第1120207770號",
+        "reg_date": "2023\/07\/31",
+        "title": "桃園市中埔非營利幼兒園(委託社團法人向日葵教育文化協會辦理)",
+        "owner": "王儷芙",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "非營利",
+        "address": "[330]崇法街56號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3017878",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "50b64377-e09d-4783-977b-a878a5fd2463",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2874058,
+            25.0076106
+        ]
+    }
+}

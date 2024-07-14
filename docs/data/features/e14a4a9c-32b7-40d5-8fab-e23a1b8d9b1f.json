@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學字第1010165345號",
+        "reg_docno": "投府社福字第55427號",
+        "reg_date": "1984\/06\/12",
+        "title": "財團法人天主教會台中教區附設南投縣私立聖愛幼兒園",
+        "owner": "",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "私立",
+        "address": "[540]文昌街27號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,312平方公尺",
+        "size_in": "148平方公尺",
+        "size_out": "1,164平方公尺",
+        "tel": "(049)2229844",
+        "url": "",
+        "count_approved": "200",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e14a4a9c-32b7-40d5-8fab-e23a1b8d9b1f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.688722,
+            23.90743
+        ]
+    }
+}

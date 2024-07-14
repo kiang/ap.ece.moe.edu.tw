@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1110273134號",
+        "reg_docno": "南市教特(一)字第1110273134號",
+        "reg_date": "2022\/03\/11",
+        "title": "臺南市私立青蘋果幼兒園",
+        "owner": "謝文欽",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]東橋二街71巷59號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,508.86平方公尺",
+        "size_in": "1,467.38平方公尺",
+        "size_out": "1,041.48平方公尺",
+        "tel": "(06)3021339",
+        "url": "",
+        "count_approved": "330",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "17291b88-a8ba-4086-9fa2-3e5e87eeca72",
+        "monthly": 5400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2361132,
+            23.0185499
+        ]
+    }
+}

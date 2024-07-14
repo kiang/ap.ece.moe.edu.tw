@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090038761號",
+        "reg_docno": "中市教幼字字第1040032093號",
+        "reg_date": "2015\/05\/11",
+        "title": "臺中市私立亮亮幼兒園",
+        "owner": "劉銘富",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]甘肅路二段111號",
+        "floor": "1樓、2樓",
+        "size": "1,875.11平方公尺",
+        "size_in": "1,304.51平方公尺",
+        "size_out": "570.6平方公尺",
+        "tel": "(04)23157217",
+        "url": "",
+        "count_approved": "208",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "32c22a9f-3fec-48f9-9866-9ce5d0d009b9",
+        "monthly": 12450
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6554237,
+            24.173056
+        ]
+    }
+}

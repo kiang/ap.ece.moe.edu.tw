@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138785600號",
+        "reg_docno": "71府社福字第95405號",
+        "reg_date": "1982\/10\/05",
+        "title": "財團法人天主教會高雄教區附設高雄市私立露庇幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "梓官區",
+        "type": "私立",
+        "address": "[826]中崙路280號",
+        "floor": "1至2樓",
+        "size": "1,089.01平方公尺",
+        "size_in": "533.93平方公尺",
+        "size_out": "555.08平方公尺",
+        "tel": "(07)6173746",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e1c1bbac-a448-4c5c-8615-85c7523e998d",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.26832,
+            22.761057
+        ]
+    }
+}

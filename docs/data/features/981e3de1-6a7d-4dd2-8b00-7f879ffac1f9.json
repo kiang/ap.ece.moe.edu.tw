@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137915400號",
+        "reg_docno": "74高市教育三字第26161號",
+        "reg_date": "1985\/09\/20",
+        "title": "高雄市私立善導幼兒園",
+        "owner": "劉振忠",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "私立",
+        "address": "[806]瑞隆路356號",
+        "floor": "1樓",
+        "size": "1,008.79平方公尺",
+        "size_in": "441平方公尺",
+        "size_out": "567.79平方公尺",
+        "tel": "(07)7256424",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "981e3de1-6a7d-4dd2-8b00-7f879ffac1f9",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.331465,
+            22.60566
+        ]
+    }
+}

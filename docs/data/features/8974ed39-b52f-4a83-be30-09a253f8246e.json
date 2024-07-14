@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110214280號",
+        "reg_docno": "府教幼字第1080189687號",
+        "reg_date": "2019\/08\/01",
+        "title": "桃園市龜山區楓樹國民小學附設幼兒園",
+        "owner": "房瑞美",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "公立",
+        "address": "[333]光峰路277號",
+        "floor": "1樓",
+        "size": "785平方公尺",
+        "size_in": "400平方公尺",
+        "size_out": "385平方公尺",
+        "tel": "(03)3206166",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8974ed39-b52f-4a83-be30-09a253f8246e",
+        "monthly": 5669
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3431056,
+            25.005908
+        ]
+    }
+}

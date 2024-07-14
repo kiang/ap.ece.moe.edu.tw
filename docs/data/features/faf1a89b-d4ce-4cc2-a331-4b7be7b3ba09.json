@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620林口0001號",
+        "reg_docno": "75北府教二字第148947號",
+        "reg_date": "1983\/10\/05",
+        "title": "新北市私立林口幼兒園",
+        "owner": "林宏修",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]林口路89號",
+        "floor": "1",
+        "size": "445.81平方公尺",
+        "size_in": "216.65平方公尺",
+        "size_out": "229.16平方公尺",
+        "tel": "(02)26033690",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "faf1a89b-d4ce-4cc2-a331-4b7be7b3ba09",
+        "monthly": 11873
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3893702,
+            25.0802993
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010029687號",
+        "reg_docno": "府教國字第００七二七三號",
+        "reg_date": "1999\/01\/15",
+        "title": "臺中市私立安徒生幼兒園",
+        "owner": "高仁昌",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]豐富路299巷25-1號",
+        "floor": "1樓至3樓",
+        "size": "1,737.45平方公尺",
+        "size_in": "1,122.86平方公尺",
+        "size_out": "614.59平方公尺",
+        "tel": "(04)24721879",
+        "url": "skykid.skyschool.com.tw\/a402",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2ce72475-fa84-44c1-9c11-6ddc3400fbe6",
+        "monthly": 10930
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.647133,
+            24.134183
+        ]
+    }
+}

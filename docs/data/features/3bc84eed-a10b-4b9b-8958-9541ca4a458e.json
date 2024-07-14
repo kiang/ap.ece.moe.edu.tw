@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100178740號",
+        "reg_docno": "府教特字第0933011289號",
+        "reg_date": "2004\/04\/13",
+        "title": "臺東縣蘭嶼鄉朗島國民小學附設幼兒園",
+        "owner": "李建興",
+        "city": "臺東縣",
+        "town": "蘭嶼鄉",
+        "type": "公立",
+        "address": "[952]17號",
+        "floor": "1樓",
+        "size": "220平方公尺",
+        "size_in": "80平方公尺",
+        "size_out": "140平方公尺",
+        "tel": "(089)732109#208",
+        "url": "https:\/\/lodps.ttct.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3bc84eed-a10b-4b9b-8958-9541ca4a458e",
+        "monthly": 3611
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.525748,
+            22.079081
+        ]
+    }
+}

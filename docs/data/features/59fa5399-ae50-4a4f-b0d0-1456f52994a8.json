@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070086880號",
+        "reg_docno": "府教國字第45164號",
+        "reg_date": "1979\/08\/02",
+        "title": "臺中市南屯區南屯國民小學附設幼兒園",
+        "owner": "蔡承憲",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "公立",
+        "address": "[408]黎明路一段968號",
+        "floor": "1樓",
+        "size": "1,626平方公尺",
+        "size_in": "1,173平方公尺",
+        "size_out": "453平方公尺",
+        "tel": "(04)23894238#770",
+        "url": "140.128.205.3\/kid\/",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "59fa5399-ae50-4a4f-b0d0-1456f52994a8",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.639004,
+            24.136879
+        ]
+    }
+}

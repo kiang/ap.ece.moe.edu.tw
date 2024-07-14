@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字字第1041548680八里0006之2號",
+        "reg_docno": "北府社兒字第0990859529號",
+        "reg_date": "2010\/09\/03",
+        "title": "新北市立八里幼兒園大埤頂分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "八里區",
+        "type": "公立",
+        "address": "[249]中山路1段95號1樓",
+        "floor": "1樓",
+        "size": "255.23平方公尺",
+        "size_in": "255.23平方公尺",
+        "size_out": "",
+        "tel": "(02)86303477#300",
+        "url": "http:\/\/balipreschool.blogspot.com\/",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4e6a428f-7436-4921-9e13-312788824de7",
+        "monthly": 3706
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.416999,
+            25.159493
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11131778100號",
+        "reg_docno": "高市教幼字第10937671100號",
+        "reg_date": "2020\/10\/08",
+        "title": "高雄市新甲非營利幼兒園（委託財團法人輔英科技大學設立之輔英科技大學辦理）",
+        "owner": "林惠賢",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "非營利",
+        "address": "[830]新強路300巷8號",
+        "floor": "1樓、2樓、3樓",
+        "size": "3,283.45平方公尺",
+        "size_in": "2,019.78平方公尺",
+        "size_out": "1,263.67平方公尺",
+        "tel": "(07)7657658",
+        "url": "評鑑情形：",
+        "count_approved": "242",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1f026337-ead9-4528-9e2a-52f1e0f6c40b",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.33923,
+            22.6135041
+        ]
+    }
+}

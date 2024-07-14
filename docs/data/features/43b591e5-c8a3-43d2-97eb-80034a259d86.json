@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第97-1號",
+        "reg_docno": "北市社五字第33499號",
+        "reg_date": "1995\/06\/29",
+        "title": "臺北市私立日恩幼兒園",
+        "owner": "黃子源",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]健康路325巷16號1樓",
+        "floor": "1樓",
+        "size": "107.12平方公尺",
+        "size_in": "107.12平方公尺",
+        "size_out": "",
+        "tel": "(02)27421968",
+        "url": "",
+        "count_approved": "25",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "43b591e5-c8a3-43d2-97eb-80034a259d86",
+        "monthly": 22800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.567201,
+            25.055944
+        ]
+    }
+}

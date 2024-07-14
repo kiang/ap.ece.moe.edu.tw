@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101048454號",
+        "reg_docno": "南市教幼字第1020027494號",
+        "reg_date": "2013\/08\/01",
+        "title": "臺南市永康區勝利國民小學附設幼兒園",
+        "owner": "李世賢",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "公立",
+        "address": "[710]勝學路111號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)3130011#853",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b97424c7-8500-482d-b7b0-51e4c7f966a2",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2308507,
+            23.0036492
+        ]
+    }
+}

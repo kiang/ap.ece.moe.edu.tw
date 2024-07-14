@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0100號",
+        "reg_docno": "九十北府社兒字第90288481號",
+        "reg_date": "2001\/07\/24",
+        "title": "新北市私立寧馨園幼兒園",
+        "owner": "林中堯",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]龍安路517號1樓",
+        "floor": "1樓",
+        "size": "150平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "",
+        "tel": "(02)22039070",
+        "url": "",
+        "count_approved": "39",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b0100f5c-fd88-4f05-991b-80cfd2d63bde",
+        "monthly": 9550
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4265915,
+            25.017875
+        ]
+    }
+}

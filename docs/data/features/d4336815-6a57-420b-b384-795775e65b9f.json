@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1010162302號",
+        "reg_docno": "府教國字第8716號",
+        "reg_date": "1984\/01\/30",
+        "title": "苗栗縣私立群林幼兒園",
+        "owner": "陳碧華",
+        "city": "苗栗縣",
+        "town": "竹南鎮",
+        "type": "私立",
+        "address": "[350]光復路385巷7號",
+        "floor": "1",
+        "size": "1,649.6平方公尺",
+        "size_in": "164.96平方公尺",
+        "size_out": "1,484.64平方公尺",
+        "tel": "(037)636934",
+        "url": "http:\/\/www.chyun-lin.com.tw",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d4336815-6a57-420b-b384-795775e65b9f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.878489,
+            24.699161
+        ]
+    }
+}

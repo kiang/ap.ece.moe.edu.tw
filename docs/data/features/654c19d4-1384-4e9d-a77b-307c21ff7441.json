@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11153834200號",
+        "reg_docno": "屏府教國字第105816號",
+        "reg_date": "1995\/07\/06",
+        "title": "屏東縣鹽埔鄉彭厝國民小學附設幼兒園",
+        "owner": "林淑芳",
+        "city": "屏東縣",
+        "town": "鹽埔鄉",
+        "type": "公立",
+        "address": "[907]七份路21號",
+        "floor": "1樓",
+        "size": "553.88平方公尺",
+        "size_in": "347.48平方公尺",
+        "size_out": "206.4平方公尺",
+        "tel": "(08)7031509",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "654c19d4-1384-4e9d-a77b-307c21ff7441",
+        "monthly": 3655
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.531779,
+            22.739601
+        ]
+    }
+}

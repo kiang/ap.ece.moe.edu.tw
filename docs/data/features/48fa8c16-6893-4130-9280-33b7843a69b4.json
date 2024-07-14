@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11038033300號",
+        "reg_docno": "高市教幼字第10937692000號",
+        "reg_date": "2020\/08\/01",
+        "title": "高雄市永安區新港國民小學附設幼兒園",
+        "owner": "鍾季娟",
+        "city": "高雄市",
+        "town": "永安區",
+        "type": "公立",
+        "address": "[828]新興路25號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6912040",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "48fa8c16-6893-4130-9280-33b7843a69b4",
+        "monthly": 2603
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2091901,
+            22.8208804
+        ]
+    }
+}

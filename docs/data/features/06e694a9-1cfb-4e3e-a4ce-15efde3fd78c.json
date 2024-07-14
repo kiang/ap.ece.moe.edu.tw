@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0046-1號",
+        "reg_docno": "北府社兒字第0960415625號",
+        "reg_date": "2007\/06\/22",
+        "title": "新北市私立宏米優質幼兒園",
+        "owner": "呂慧萍",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]和平街10、18、20號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26434570",
+        "url": "",
+        "count_approved": "102",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：12",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "06e694a9-1cfb-4e3e-a4ce-15efde3fd78c",
+        "monthly": 11500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.663192,
+            25.071015
+        ]
+    }
+}

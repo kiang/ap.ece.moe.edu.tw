@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字字第1080263722號",
+        "reg_docno": "47府教四字第44727號",
+        "reg_date": "1958\/10\/18",
+        "title": "財團法人朴子高明寺附設嘉義縣私立高明幼兒園",
+        "owner": "",
+        "city": "嘉義縣",
+        "town": "朴子市",
+        "type": "私立",
+        "address": "[613]山通路73號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3702053",
+        "url": "http:\/\/kmkg.topschool.com.tw",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ca0c7468-57b4-45fb-8e1d-55431c9a3190",
+        "monthly": 4700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.244139,
+            23.464951
+        ]
+    }
+}

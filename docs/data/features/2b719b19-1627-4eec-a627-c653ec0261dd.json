@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第505-1號",
+        "reg_docno": "北市社婦幼字第09837196900號",
+        "reg_date": "2009\/06\/10",
+        "title": "臺北市私立弘明幼兒園",
+        "owner": "白文輝",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]中山北路7段114巷11號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28726200",
+        "url": "",
+        "count_approved": "99",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2b719b19-1627-4eec-a627-c653ec0261dd",
+        "monthly": 8100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.533136,
+            25.122276
+        ]
+    }
+}

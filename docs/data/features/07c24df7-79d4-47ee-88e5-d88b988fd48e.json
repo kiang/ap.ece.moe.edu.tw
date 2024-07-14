@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010333759號",
+        "reg_docno": "府社福字第94602號",
+        "reg_date": "1999\/05\/31",
+        "title": "臺南市私立筑園幼兒園",
+        "owner": "蘇秋如",
+        "city": "臺南市",
+        "town": "安定區",
+        "type": "私立",
+        "address": "[745]224-2號",
+        "floor": "1樓",
+        "size": "707平方公尺",
+        "size_in": "86.71平方公尺",
+        "size_out": "620.29平方公尺",
+        "tel": "(06)5924237",
+        "url": "",
+        "count_approved": "25",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "07c24df7-79d4-47ee-88e5-d88b988fd48e",
+        "monthly": 8973
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2287064,
+            23.0878468
+        ]
+    }
+}

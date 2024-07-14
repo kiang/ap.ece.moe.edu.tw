@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110085511號",
+        "reg_docno": "中市教幼字第1110085511號",
+        "reg_date": "2022\/10\/24",
+        "title": "臺中市私立森典幼兒園",
+        "owner": "蔡杰恩",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]福星北路136號",
+        "floor": "1-3F",
+        "size": "1,076.95平方公尺",
+        "size_in": "852.36平方公尺",
+        "size_out": "223.59平方公尺",
+        "tel": "(04)24512086",
+        "url": "",
+        "count_approved": "142",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "db6251a7-f8ff-4e2a-914a-1745f2d38d67",
+        "monthly": 24900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6431714,
+            24.1872408
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130031326號",
+        "reg_docno": "府特教字第36228號",
+        "reg_date": "2001\/03\/19",
+        "title": "臺中市私立孩子國蒙特梭利幼兒園",
+        "owner": "楊定澤",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "私立",
+        "address": "[403]忠勤街246號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23720720",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ec96c0cd-d1ef-454a-b672-4342f962271c",
+        "monthly": 6500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.668385,
+            24.141436
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100276381號",
+        "reg_docno": "府教幼字第1020195575號",
+        "reg_date": "2013\/08\/07",
+        "title": "桃園市私立婕瑪幼兒園",
+        "owner": "陳耀淯",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]福星六街70號1-3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4625915",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3c83ce64-386d-409f-8a25-d684dff2f151",
+        "monthly": 10845
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2322042,
+            24.9665746
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10830009100號",
+        "reg_docno": "90府教國字第109990號",
+        "reg_date": "2001\/06\/28",
+        "title": "高雄市私立新佳欣幼兒園",
+        "owner": "梁原誌",
+        "city": "高雄市",
+        "town": "湖內區",
+        "type": "私立",
+        "address": "[829]東方路45巷36弄9號",
+        "floor": "一樓至二樓",
+        "size": "1,108.39平方公尺",
+        "size_in": "789.77平方公尺",
+        "size_out": "318.62平方公尺",
+        "tel": "(07)6936088",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "012f653c-ab9c-4b98-a817-9d764173033a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.249054,
+            22.878849
+        ]
+    }
+}

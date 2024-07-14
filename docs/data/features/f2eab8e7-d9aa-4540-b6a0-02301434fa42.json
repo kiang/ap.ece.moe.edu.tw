@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599汐止0010之5號",
+        "reg_docno": "八七北府教三字第012073號",
+        "reg_date": "1998\/01\/13",
+        "title": "新北市汐止區金龍國民小學附設幼兒園",
+        "owner": "呂金榮",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "公立",
+        "address": "[221]明峰街201號",
+        "floor": "1樓、2樓",
+        "size": "3,324平方公尺",
+        "size_in": "2,688平方公尺",
+        "size_out": "636平方公尺",
+        "tel": "(02)26959941#270",
+        "url": "http:\/\/014y.blogspot.com\/",
+        "count_approved": "242",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f2eab8e7-d9aa-4540-b6a0-02301434fa42",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.627748,
+            25.069075
+        ]
+    }
+}

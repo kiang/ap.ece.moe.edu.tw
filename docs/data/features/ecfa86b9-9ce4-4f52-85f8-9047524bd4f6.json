@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110072873號",
+        "reg_docno": "中市教幼字第1110072873號",
+        "reg_date": "2022\/09\/16",
+        "title": "臺中市私立道町森幼兒園",
+        "owner": "潘建男",
+        "city": "臺中市",
+        "town": "烏日區",
+        "type": "私立",
+        "address": "[414]榮泰街182巷26號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,846.34平方公尺",
+        "size_in": "2,263.38平方公尺",
+        "size_out": "582.96平方公尺",
+        "tel": "(04)23367129",
+        "url": "",
+        "count_approved": "318",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ecfa86b9-9ce4-4f52-85f8-9047524bd4f6",
+        "monthly": 18633
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6156344,
+            24.1033411
+        ]
+    }
+}

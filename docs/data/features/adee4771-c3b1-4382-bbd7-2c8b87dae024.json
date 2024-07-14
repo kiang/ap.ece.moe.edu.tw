@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110070476號",
+        "reg_docno": "教國字第25547號",
+        "reg_date": "1977\/05\/06",
+        "title": "臺中市南屯區春安國民小學附設幼兒園",
+        "owner": "陳貞蓉",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "公立",
+        "address": "[408]春安路109號",
+        "floor": "1樓",
+        "size": "1,490平方公尺",
+        "size_in": "962平方公尺",
+        "size_out": "528平方公尺",
+        "tel": "(04)23894408#770",
+        "url": "http:\/\/dns.caes.tc.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "adee4771-c3b1-4382-bbd7-2c8b87dae024",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.608314,
+            24.134804
+        ]
+    }
+}

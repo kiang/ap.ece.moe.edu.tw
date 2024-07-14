@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11232743400號",
+        "reg_docno": "高市教育三字第13649號",
+        "reg_date": "1984\/06\/06",
+        "title": "高雄市私立樂奇幼兒園",
+        "owner": "張書語",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "私立",
+        "address": "[802]武嶺街28之1號",
+        "floor": "1-2樓",
+        "size": "645.96平方公尺",
+        "size_in": "297.76平方公尺",
+        "size_out": "348.2平方公尺",
+        "tel": "(07)7611916",
+        "url": "http：\/\/lucky.woby.com.tw",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "70e3074c-f57c-4767-9901-0631f610be5e",
+        "monthly": 4160
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.334151,
+            22.621524
+        ]
+    }
+}

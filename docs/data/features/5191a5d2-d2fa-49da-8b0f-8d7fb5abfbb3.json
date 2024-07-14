@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110338216號",
+        "reg_docno": "府社福字第257696號",
+        "reg_date": "1998\/12\/21",
+        "title": "桃園市私立小瓢蟲幼兒園",
+        "owner": "王徐杏芳",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "私立",
+        "address": "[326]中山北路二段265巷48號1-2樓",
+        "floor": "一、二樓",
+        "size": "463.55平方公尺",
+        "size_in": "281.65平方公尺",
+        "size_out": "181.9平方公尺",
+        "tel": "(03)4819595",
+        "url": "http:\/\/www.ladybug-eng.com.tw\/",
+        "count_approved": "110",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5191a5d2-d2fa-49da-8b0f-8d7fb5abfbb3",
+        "monthly": 14058
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.174735,
+            24.908751
+        ]
+    }
+}

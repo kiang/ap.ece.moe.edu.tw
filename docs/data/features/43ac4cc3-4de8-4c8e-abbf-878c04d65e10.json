@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第430號",
+        "reg_docno": "北市社五字第8826592000號",
+        "reg_date": "1999\/10\/08",
+        "title": "臺北市私立心愛幼兒園",
+        "owner": "陳芳蘭",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]中山北路七段190巷104號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28739393",
+        "url": "http:\/\/www.wretch.cc\/blog\/shinaischool",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "43ac4cc3-4de8-4c8e-abbf-878c04d65e10",
+        "monthly": 15167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.537079,
+            25.125853
+        ]
+    }
+}

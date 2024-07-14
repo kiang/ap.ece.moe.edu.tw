@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110067496號",
+        "reg_docno": "90府教社字第123031號",
+        "reg_date": "2001\/05\/03",
+        "title": "臺中市霧峰區五福國民小學附設幼兒園",
+        "owner": "賴如足",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "公立",
+        "address": "[413]新埔路239號",
+        "floor": "1樓",
+        "size": "2,455平方公尺",
+        "size_in": "246平方公尺",
+        "size_out": "2,209平方公尺",
+        "tel": "(04)23330336",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "99baaf1a-3e1b-45e6-801c-667e3b455747",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.667326,
+            24.073126
+        ]
+    }
+}

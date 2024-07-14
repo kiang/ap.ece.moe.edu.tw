@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120235503號",
+        "reg_docno": "府教特字第1000012702號",
+        "reg_date": "2011\/01\/24",
+        "title": "桃園市桃園區北門國民小學附設幼兒園",
+        "owner": "林業泰",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "公立",
+        "address": "[330]正康三街139號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3250959#615",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "10bacaaa-d520-4230-96c7-d998a13c2de4",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.307184,
+            25.007139
+        ]
+    }
+}

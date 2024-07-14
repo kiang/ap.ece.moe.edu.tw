@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100182632號",
+        "reg_docno": "府教特字第1010190039號",
+        "reg_date": "2012\/08\/01",
+        "title": "花蓮縣玉里鎮源城國民小學附設幼兒園",
+        "owner": "蔡為本",
+        "city": "花蓮縣",
+        "town": "玉里鎮",
+        "type": "公立",
+        "address": "[981]水源62號",
+        "floor": "1",
+        "size": "148平方公尺",
+        "size_in": "128平方公尺",
+        "size_out": "20平方公尺",
+        "tel": "(038)882290#30",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "86ef5860-8b4f-4fcf-bc63-afe7b0b086b9",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3003357,
+            23.3214882
+        ]
+    }
+}

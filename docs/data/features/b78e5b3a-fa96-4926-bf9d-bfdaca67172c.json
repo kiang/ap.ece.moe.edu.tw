@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1070166669號",
+        "reg_docno": "府教學前字第1010165238號",
+        "reg_date": "2012\/08\/01",
+        "title": "苗栗縣苗栗市文山國民小學附設幼兒園",
+        "owner": "王淑美",
+        "city": "苗栗縣",
+        "town": "苗栗市",
+        "type": "公立",
+        "address": "[360]文發路41號",
+        "floor": "1樓",
+        "size": "26,930平方公尺",
+        "size_in": "162平方公尺",
+        "size_out": "17,365平方公尺",
+        "tel": "(037)320406#223",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b78e5b3a-fa96-4926-bf9d-bfdaca67172c",
+        "monthly": 3455
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.812307,
+            24.568871
+        ]
+    }
+}

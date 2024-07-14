@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110255673號",
+        "reg_docno": "87府教國字第129649號",
+        "reg_date": "1998\/07\/03",
+        "title": "桃園市私立文華幼兒園",
+        "owner": "許麗娜",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "私立",
+        "address": "[325]神龍路201號",
+        "floor": "一樓",
+        "size": "649.75平方公尺",
+        "size_in": "58.06平方公尺",
+        "size_out": "591.69平方公尺",
+        "tel": "(03)4700800",
+        "url": "https:\/\/penguin168.com\/",
+        "count_approved": "58",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9f07a87b-c7be-4694-acf8-4e5afb7a6493",
+        "monthly": 10377
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.213499,
+            24.8601869
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1020151434號",
+        "reg_docno": "基府社福字第0920008412號",
+        "reg_date": "2003\/01\/30",
+        "title": "基隆市私立資優幼兒園",
+        "owner": "林文心",
+        "city": "基隆市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[202]正義路2巷42號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24253228",
+        "url": "http:\/\/tw.myblog.yahoo.com\/goodboy24253228",
+        "count_approved": "30",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b6fd20b0-b1ef-4e93-aaf6-03e3c00e52d4",
+        "monthly": 13800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.746942,
+            25.133105
+        ]
+    }
+}

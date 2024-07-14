@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080182475號",
+        "reg_docno": "府教國字第34307號",
+        "reg_date": "1997\/04\/17",
+        "title": "嘉義縣布袋鎮布袋國民小學附設幼兒園",
+        "owner": "劉威志",
+        "city": "嘉義縣",
+        "town": "布袋鎮",
+        "type": "公立",
+        "address": "[625]新厝仔65號",
+        "floor": "1樓",
+        "size": "810平方公尺",
+        "size_in": "410平方公尺",
+        "size_out": "400平方公尺",
+        "tel": "(05)3472007",
+        "url": "www.ptes.cyc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "32605349-ed6f-4980-947f-3aa91fffb9a6",
+        "monthly": 3435
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.171257,
+            23.382108
+        ]
+    }
+}

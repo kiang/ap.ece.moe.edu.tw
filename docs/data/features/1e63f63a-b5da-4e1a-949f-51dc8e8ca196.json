@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090068101號",
+        "reg_docno": "中市教幼字第1060072947號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺中市東勢區新成國民小學附設幼兒園",
+        "owner": "王金榮",
+        "city": "臺中市",
+        "town": "東勢區",
+        "type": "公立",
+        "address": "[423]上城街260號",
+        "floor": "1樓",
+        "size": "813.1平方公尺",
+        "size_in": "313.1平方公尺",
+        "size_out": "500平方公尺",
+        "tel": "(04)25853447",
+        "url": "www.tsces.tc.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1e63f63a-b5da-4e1a-949f-51dc8e8ca196",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.838262,
+            24.2163305
+        ]
+    }
+}

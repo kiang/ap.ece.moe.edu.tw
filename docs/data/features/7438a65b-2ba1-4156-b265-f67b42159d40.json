@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130009103號",
+        "reg_docno": "中市教幼字第1030003358號",
+        "reg_date": "2014\/01\/15",
+        "title": "臺中市私立芳田幼兒園",
+        "owner": "許珍珠",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]安林路69-13號",
+        "floor": "1樓、2樓",
+        "size": "3,468.44平方公尺",
+        "size_in": "1,570.9平方公尺",
+        "size_out": "1,897.54平方公尺",
+        "tel": "(04)24616060",
+        "url": "http:\/\/www.fountain.com.tw",
+        "count_approved": "197",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：62",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7438a65b-2ba1-4156-b265-f67b42159d40",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.627765,
+            24.20211
+        ]
+    }
+}

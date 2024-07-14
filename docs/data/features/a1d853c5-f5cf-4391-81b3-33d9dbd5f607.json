@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1010171390號",
+        "reg_docno": "基府社福字第0920031148號",
+        "reg_date": "2003\/04\/07",
+        "title": "基隆市私立一丫一丫幼兒園",
+        "owner": "林素昭",
+        "city": "基隆市",
+        "town": "安樂區",
+        "type": "私立",
+        "address": "[204]基金一路208巷176號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24343399",
+        "url": "http:\/\/yaya24343399.topschool.com.tw",
+        "count_approved": "225",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：25",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a1d853c5-f5cf-4391-81b3-33d9dbd5f607",
+        "monthly": 10133
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.708345,
+            25.1477878
+        ]
+    }
+}

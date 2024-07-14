@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070191748號",
+        "reg_docno": "府教特字第0943003569號",
+        "reg_date": "2005\/01\/31",
+        "title": "臺東縣大武鄉大鳥國民小學附設幼兒園",
+        "owner": "胡菁萍",
+        "city": "臺東縣",
+        "town": "大武鄉",
+        "type": "公立",
+        "address": "[965]12號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(089)791530#27",
+        "url": "http:\/\/www.wretch.cc\/blog\/eva2268",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9abc9eb0-afb7-4420-b222-0b8ed0cef403",
+        "monthly": 4056
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.905211,
+            22.364716
+        ]
+    }
+}

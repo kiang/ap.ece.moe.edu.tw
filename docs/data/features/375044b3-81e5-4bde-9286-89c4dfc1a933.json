@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110072031號",
+        "reg_docno": "中市教幼字第1060073018號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺中市外埔區鐵山國民小學附設幼兒園",
+        "owner": "郭耿維",
+        "city": "臺中市",
+        "town": "外埔區",
+        "type": "公立",
+        "address": "[438]長生路576號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26835033#735",
+        "url": "http:\/\/163.17.95.65\/",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "375044b3-81e5-4bde-9286-89c4dfc1a933",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6566936,
+            24.3490332
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040024589號",
+        "reg_docno": "七三府教學字第52821號",
+        "reg_date": "1984\/05\/07",
+        "title": "桃園市私立自強種子幼兒園",
+        "owner": "徐茂山",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]環中東路16號",
+        "floor": "1樓至2樓",
+        "size": "1,090.09平方公尺",
+        "size_in": "345.4平方公尺",
+        "size_out": "744.69平方公尺",
+        "tel": "(03)4550756",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7665f4a7-d3f9-4060-b2bc-7ca5cd366341",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.259842,
+            24.966998
+        ]
+    }
+}

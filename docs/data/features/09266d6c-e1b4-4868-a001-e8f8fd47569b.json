@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第173-1號",
+        "reg_docno": "北市教幼字第09740513900號",
+        "reg_date": "1949\/08\/01",
+        "title": "臺北市中正區國語實驗國民小學附設幼兒園",
+        "owner": "丁一航",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "公立",
+        "address": "[100]重慶南路二段14之4號1樓至2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)23118126#19",
+        "url": "http:\/\/www.meps.tp.edu.tw",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "09266d6c-e1b4-4868-a001-e8f8fd47569b",
+        "monthly": 7157
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.512606,
+            25.032512
+        ]
+    }
+}

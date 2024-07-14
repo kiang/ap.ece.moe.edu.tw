@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11037396300號",
+        "reg_docno": "高市教國字第22632號",
+        "reg_date": "1973\/09\/01",
+        "title": "高雄市苓雅區凱旋國民小學附設幼兒園",
+        "owner": "吳慶隆",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "公立",
+        "address": "[802]憲政路235號",
+        "floor": "1樓",
+        "size": "2,535.28平方公尺",
+        "size_in": "857.5平方公尺",
+        "size_out": "1,677.78平方公尺",
+        "tel": "(07)2235181#871",
+        "url": "http:\/\/www.ksps.kh.edu.tw\/",
+        "count_approved": "196",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3e47a4a0-78fe-4bb5-b355-72a679e4a7aa",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3201718,
+            22.6365865
+        ]
+    }
+}

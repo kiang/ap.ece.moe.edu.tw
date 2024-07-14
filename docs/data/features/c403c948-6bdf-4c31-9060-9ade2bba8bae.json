@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第10800063599板橋0077之3號",
+        "reg_docno": "86北府教三字第343820號",
+        "reg_date": "1997\/09\/10",
+        "title": "新北市板橋區板橋國民小學附設幼兒園",
+        "owner": "華志仁",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "公立",
+        "address": "[220]文化路一段23號",
+        "floor": "1樓",
+        "size": "1,080平方公尺",
+        "size_in": "540平方公尺",
+        "size_out": "540平方公尺",
+        "tel": "(02)29686834#860",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000153402",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c403c948-6bdf-4c31-9060-9ade2bba8bae",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.458308,
+            25.0109889
+        ]
+    }
+}

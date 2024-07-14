@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100189356號",
+        "reg_docno": "府教幼字第1030184791號",
+        "reg_date": "2014\/08\/01",
+        "title": "桃園市新屋區新屋國民小學附設幼兒園",
+        "owner": "邱正剛",
+        "city": "桃園市",
+        "town": "新屋區",
+        "type": "公立",
+        "address": "[327]中正路196號",
+        "floor": "1樓",
+        "size": "672.5平方公尺",
+        "size_in": "284.5平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(03)4772016#711",
+        "url": "http:\/\/www.snwes.tyc.edu.tw\/xoops\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6e70d5ca-aec9-4846-8d18-f4523f1f956e",
+        "monthly": 5661
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1012691,
+            24.9733725
+        ]
+    }
+}

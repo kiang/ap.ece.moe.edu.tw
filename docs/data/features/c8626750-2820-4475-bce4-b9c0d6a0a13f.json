@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11332971000號",
+        "reg_docno": "高市教幼字第10734931600號",
+        "reg_date": "2018\/08\/01",
+        "title": "高雄市小港非營利幼兒園(委託社團法人高雄市社區教育協會辦理)",
+        "owner": "郭貽婷",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "非營利",
+        "address": "[812]平和南路185號",
+        "floor": "1樓",
+        "size": "3,415.29平方公尺",
+        "size_in": "1,013.18平方公尺",
+        "size_out": "2,402.11平方公尺",
+        "tel": "(07)8150811",
+        "url": "評鑑情形：",
+        "count_approved": "182",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c8626750-2820-4475-bce4-b9c0d6a0a13f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3384083,
+            22.5662551
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010026860號",
+        "reg_docno": "中市府社婦字第0980037130號",
+        "reg_date": "2006\/01\/10",
+        "title": "臺中市私立愛德堡幼兒園",
+        "owner": "竇瑜芬",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]福雅路267號",
+        "floor": "1樓、2樓",
+        "size": "2,344.6平方公尺",
+        "size_in": "1,471.2平方公尺",
+        "size_out": "277.84平方公尺",
+        "tel": "(04)24633909",
+        "url": "",
+        "count_approved": "438",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：43",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cded03ef-598b-4d5b-b3d4-c56ef1667f92",
+        "monthly": 11950
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.620045,
+            24.1869622
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110206011號",
+        "reg_docno": "府教幼字第1110206011號",
+        "reg_date": "2022\/07\/29",
+        "title": "桃園市龍福非營利幼兒園(委託南亞科技學校財團法人設立之南亞技術學院辦理)",
+        "owner": "連信仲",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "非營利",
+        "address": "[320]中山東路四段26之1號",
+        "floor": "1樓、2樓",
+        "size": "1,294.33平方公尺",
+        "size_in": "855.71平方公尺",
+        "size_out": "438.62平方公尺",
+        "tel": "(03)4663826",
+        "url": "評鑑情形：",
+        "count_approved": "122",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2841afce-42db-4823-860c-3951823a8a97",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2551123,
+            24.9355274
+        ]
+    }
+}

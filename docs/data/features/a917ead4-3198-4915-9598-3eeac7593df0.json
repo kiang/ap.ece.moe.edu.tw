@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1130015706號",
+        "reg_docno": "府社婦字第0940004968號",
+        "reg_date": "2005\/01\/17",
+        "title": "新竹市私立維肯幼兒園",
+        "owner": "楊明潭",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]大雅路100號",
+        "floor": "1-3F",
+        "size": "1,454.49平方公尺",
+        "size_in": "1,454.49平方公尺",
+        "size_out": "",
+        "tel": "(03)5339733",
+        "url": "",
+        "count_approved": "298",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a917ead4-3198-4915-9598-3eeac7593df0",
+        "monthly": 20708
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.97,
+            24.818999
+        ]
+    }
+}

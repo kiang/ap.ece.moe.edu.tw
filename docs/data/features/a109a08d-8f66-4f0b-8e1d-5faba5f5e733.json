@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070174224號",
+        "reg_docno": "府教特字第0983044027號",
+        "reg_date": "1989\/07\/12",
+        "title": "臺東縣東河鄉東河國民小學附設幼兒園",
+        "owner": "姚乃仁",
+        "city": "臺東縣",
+        "town": "東河鄉",
+        "type": "公立",
+        "address": "[959]35號",
+        "floor": "1樓",
+        "size": "11,740.3平方公尺",
+        "size_in": "366.27平方公尺",
+        "size_out": "11,374.03平方公尺",
+        "tel": "(089)896401",
+        "url": "http:\/\/www.thps.ttct.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a109a08d-8f66-4f0b-8e1d-5faba5f5e733",
+        "monthly": 4167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.304844,
+            22.971063
+        ]
+    }
+}

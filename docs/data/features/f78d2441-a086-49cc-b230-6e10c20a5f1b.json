@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第809-1號",
+        "reg_docno": "北市教前字第11130198291號",
+        "reg_date": "2022\/12\/21",
+        "title": "臺北市私立大直嘉蒔幼兒園",
+        "owner": "陳冠冠",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]樂群二路266巷16號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,054.22平方公尺",
+        "size_in": "707.58平方公尺",
+        "size_out": "346.64平方公尺",
+        "tel": "(02)85027100",
+        "url": "",
+        "count_approved": "189",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f78d2441-a086-49cc-b230-6e10c20a5f1b",
+        "monthly": 37200
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5619311,
+            25.0796889
+        ]
+    }
+}

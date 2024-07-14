@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080289116號",
+        "reg_docno": "府教學字第0900991810號",
+        "reg_date": "2005\/12\/28",
+        "title": "南投縣私立培優幼兒園",
+        "owner": "許育綺",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "私立",
+        "address": "[540]營北路51號",
+        "floor": "1樓",
+        "size": "1,620平方公尺",
+        "size_in": "521平方公尺",
+        "size_out": "1,099平方公尺",
+        "tel": "(049)2371448",
+        "url": "",
+        "count_approved": "158",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "30fd423b-ac61-4446-bfe7-8cc60a3895f5",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6884732,
+            23.9468533
+        ]
+    }
+}

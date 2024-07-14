@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120028064號",
+        "reg_docno": "89府人一字第8561號",
+        "reg_date": "2000\/02\/19",
+        "title": "嘉義縣阿里山鄉立阿里山幼兒園來吉分班",
+        "owner": "",
+        "city": "嘉義縣",
+        "town": "阿里山鄉",
+        "type": "公立",
+        "address": "[605]96號",
+        "floor": "110",
+        "size": "336.8平方公尺",
+        "size_in": "110平方公尺",
+        "size_out": "226.8平方公尺",
+        "tel": "(05)2661512",
+        "url": "http:\/\/www.alishan.gov.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d8d47f90-dd50-44b3-a14d-68d161282271",
+        "monthly": 2936
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.739985,
+            23.529553
+        ]
+    }
+}

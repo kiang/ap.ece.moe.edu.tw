@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040027703號",
+        "reg_docno": "90府教特字第124657號",
+        "reg_date": "2001\/06\/28",
+        "title": "桃園市私立企鵝家族英國幼兒園",
+        "owner": "鍾燕章",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]莊敬路195號",
+        "floor": "1樓、2樓",
+        "size": "1,506平方公尺",
+        "size_in": "555.12平方公尺",
+        "size_out": "706平方公尺",
+        "tel": "(03)4639811",
+        "url": "",
+        "count_approved": "195",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "caad903f-d4ff-49c8-8ef5-910609aca5db",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.255177,
+            24.969762
+        ]
+    }
+}

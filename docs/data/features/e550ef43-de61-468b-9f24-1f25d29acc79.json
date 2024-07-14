@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080006972號",
+        "reg_docno": "中市府社婦字第9401號",
+        "reg_date": "2005\/01\/03",
+        "title": "臺中市私立瑞比特幼兒園",
+        "owner": "楊志豪",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]陜西路59號1樓",
+        "floor": "一樓",
+        "size": "398.31平方公尺",
+        "size_in": "272.64平方公尺",
+        "size_out": "125.67平方公尺",
+        "tel": "(04)22936033",
+        "url": "",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e550ef43-de61-468b-9f24-1f25d29acc79",
+        "monthly": 7942
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.668157,
+            24.169658
+        ]
+    }
+}

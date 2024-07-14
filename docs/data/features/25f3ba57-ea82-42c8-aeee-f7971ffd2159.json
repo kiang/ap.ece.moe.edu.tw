@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080256951號",
+        "reg_docno": "府教幼字第1070059353號",
+        "reg_date": "2018\/02\/22",
+        "title": "彰化縣私立昕鉅陽幼兒園",
+        "owner": "王秀美",
+        "city": "彰化縣",
+        "town": "溪湖鎮",
+        "type": "私立",
+        "address": "[514]大溪路一段815巷368號",
+        "floor": "1樓、2樓",
+        "size": "1,908.78平方公尺",
+        "size_in": "1,170.17平方公尺",
+        "size_out": "738.61平方公尺",
+        "tel": "(04)8816920",
+        "url": "",
+        "count_approved": "196",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "25f3ba57-ea82-42c8-aeee-f7971ffd2159",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4982509,
+            23.968371
+        ]
+    }
+}

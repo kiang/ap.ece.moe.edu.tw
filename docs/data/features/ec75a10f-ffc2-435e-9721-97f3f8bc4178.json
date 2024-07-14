@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680號",
+        "reg_docno": "六九北府社三字第69092004號",
+        "reg_date": "1980\/02\/15",
+        "title": "新北市私立安佳幼兒園",
+        "owner": "王舜慶",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]廣明街74、76號",
+        "floor": "1樓",
+        "size": "601平方公尺",
+        "size_in": "186.02平方公尺",
+        "size_out": "414.88平方公尺",
+        "tel": "(02)89668515",
+        "url": "www.",
+        "count_approved": "123",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ec75a10f-ffc2-435e-9721-97f3f8bc4178",
+        "monthly": 11100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.455053,
+            24.993951
+        ]
+    }
+}

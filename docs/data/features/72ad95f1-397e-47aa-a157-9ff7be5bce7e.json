@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120327718號",
+        "reg_docno": "府教幼字第1120327718號",
+        "reg_date": "2023\/09\/01",
+        "title": "彰化縣私立蒔雨幼兒園",
+        "owner": "蔡欣妤",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "私立",
+        "address": "[500]自由街185-2號",
+        "floor": "1樓",
+        "size": "1,498.28平方公尺",
+        "size_in": "767.99平方公尺",
+        "size_out": "730.29平方公尺",
+        "tel": "(04)7289393",
+        "url": "",
+        "count_approved": "195",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "72ad95f1-397e-47aa-a157-9ff7be5bce7e",
+        "monthly": 14167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5613771,
+            24.0838539
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100197286號",
+        "reg_docno": "投府教學字第20364號",
+        "reg_date": "1991\/02\/20",
+        "title": "南投縣私立福祿貝爾幼兒園",
+        "owner": "潘家宜",
+        "city": "南投縣",
+        "town": "埔里鎮",
+        "type": "私立",
+        "address": "[545]東榮路386號",
+        "floor": "1樓",
+        "size": "909.4平方公尺",
+        "size_in": "406.4平方公尺",
+        "size_out": "503平方公尺",
+        "tel": "(049)2989646",
+        "url": "",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0c9991e3-e91f-4a13-8575-139b9c9eb2ef",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.976171,
+            23.969585
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第181-3號",
+        "reg_docno": "北市教三字第5371號",
+        "reg_date": "1982\/03\/02",
+        "title": "臺北市私立橘子蒙特梭利幼兒園",
+        "owner": "鄭香玲",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]知行路292巷6、8號1樓",
+        "floor": "1樓",
+        "size": "267.1平方公尺",
+        "size_in": "177.36平方公尺",
+        "size_out": "89.74平方公尺",
+        "tel": "(02)28584990",
+        "url": "http:\/\/www.wretch.cc\/blog\/orange92",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "774084b6-e743-4065-9b84-afa9011d8e99",
+        "monthly": 20333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.468375,
+            25.1216619
+        ]
+    }
+}

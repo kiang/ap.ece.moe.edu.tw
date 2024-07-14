@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第653-1號",
+        "reg_docno": "北市社五字第09230527300號",
+        "reg_date": "2003\/02\/20",
+        "title": "臺北市私立熱帶魚幼兒園",
+        "owner": "林莉萍",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]忠孝東路四段170巷24號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27526136",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e9a6b0a0-80d2-4fcd-aaf2-a3cfc37915d3",
+        "monthly": 19667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.55065,
+            25.039596
+        ]
+    }
+}

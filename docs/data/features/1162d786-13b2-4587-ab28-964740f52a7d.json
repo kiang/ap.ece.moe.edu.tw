@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1071514917號",
+        "reg_docno": "嘉府教國字第45691號",
+        "reg_date": "1982\/06\/30",
+        "title": "嘉義市私立和睦幼兒園",
+        "owner": "鍾煥龍",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]過溪91號",
+        "floor": "1樓",
+        "size": "1,467.98平方公尺",
+        "size_in": "294.31平方公尺",
+        "size_out": "1,119.54平方公尺",
+        "tel": "(05)2393346",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1162d786-13b2-4587-ab28-964740f52a7d",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.456352,
+            23.452892
+        ]
+    }
+}

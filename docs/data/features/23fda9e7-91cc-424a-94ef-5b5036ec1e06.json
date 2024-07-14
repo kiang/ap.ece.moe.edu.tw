@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110207748號",
+        "reg_docno": "府教幼字第1110207748號",
+        "reg_date": "2022\/08\/01",
+        "title": "桃園市中壢區中原國民小學附設幼兒園",
+        "owner": "黃木姻",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "公立",
+        "address": "[320]中北路88號",
+        "floor": "1樓",
+        "size": "326平方公尺",
+        "size_in": "166平方公尺",
+        "size_out": "160平方公尺",
+        "tel": "(03)4388200#7910",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "23fda9e7-91cc-424a-94ef-5b5036ec1e06",
+        "monthly": 4059
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2381452,
+            24.9562574
+        ]
+    }
+}

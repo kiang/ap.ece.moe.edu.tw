@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11032016700號",
+        "reg_docno": "八九府教國字第8900140385號",
+        "reg_date": "2000\/08\/18",
+        "title": "高雄市私立劍橋幼兒園",
+        "owner": "金明央",
+        "city": "高雄市",
+        "town": "阿蓮區",
+        "type": "私立",
+        "address": "[822]仁愛路367號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6321896",
+        "url": "http:\/\/www.cap1896.com.tw",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0bda7f9b-bcc2-4582-9922-cd897c87c9e5",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.335087,
+            22.8726191
+        ]
+    }
+}

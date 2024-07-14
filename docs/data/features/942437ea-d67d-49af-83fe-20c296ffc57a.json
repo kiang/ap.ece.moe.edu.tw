@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101048454號",
+        "reg_docno": "府教國字第112219號",
+        "reg_date": "1977\/10\/19",
+        "title": "臺南市柳營區柳營國民小學附設幼兒園",
+        "owner": "紀美娟",
+        "city": "臺南市",
+        "town": "柳營區",
+        "type": "公立",
+        "address": "[736]柳營路一段755號",
+        "floor": "1樓",
+        "size": "628平方公尺",
+        "size_in": "210平方公尺",
+        "size_out": "418平方公尺",
+        "tel": "(06)6222124#108",
+        "url": "http:\/\/120.116.80.1\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "942437ea-d67d-49af-83fe-20c296ffc57a",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.312687,
+            23.275643
+        ]
+    }
+}

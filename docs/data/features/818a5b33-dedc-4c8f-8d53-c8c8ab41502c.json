@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138478200號",
+        "reg_docno": "府社福字第0940148292號",
+        "reg_date": "2005\/07\/14",
+        "title": "高雄市私立芯瑜幼兒園",
+        "owner": "凃秀奉",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]凱旋路317巷76號1至2樓",
+        "floor": "1-2樓",
+        "size": "182.23平方公尺",
+        "size_in": "182.23平方公尺",
+        "size_out": "",
+        "tel": "(07)7631959",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "8aec4a14-56ef-48ba-8ee0-4261b432139d",
+        "monthly": 11309
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.346873,
+            22.612681
+        ]
+    }
+}

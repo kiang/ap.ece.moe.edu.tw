@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1080859381號",
+        "reg_docno": "南市教特字第09212520440號",
+        "reg_date": "2003\/04\/24",
+        "title": "臺南市東區大同國民小學附設幼兒園",
+        "owner": "李素珍",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "公立",
+        "address": "[701]榮譽街30號",
+        "floor": "1樓",
+        "size": "565平方公尺",
+        "size_in": "322平方公尺",
+        "size_out": "243平方公尺",
+        "tel": "(06)2157589#862",
+        "url": "http:\/\/spc.tn.edu.tw\/k100",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3665a350-faf9-48c5-9db9-3000d03e31b6",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.215842,
+            22.9738511
+        ]
+    }
+}

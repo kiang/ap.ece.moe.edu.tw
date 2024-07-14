@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1122431199號",
+        "reg_docno": "府教特一字第1122431199號",
+        "reg_date": "2023\/07\/07",
+        "title": "雲林縣私立蒂兒拉幼兒園",
+        "owner": "謝智雄",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "私立",
+        "address": "[640]上海路207號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,966.45平方公尺",
+        "size_in": "1,099.47平方公尺",
+        "size_out": "866.98平方公尺",
+        "tel": "(05)5337799",
+        "url": "",
+        "count_approved": "270",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c5b227bb-2851-4b56-9f32-c7b9ebbe7491",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5400967,
+            23.7135842
+        ]
+    }
+}

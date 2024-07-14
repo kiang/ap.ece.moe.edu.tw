@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11330110600號",
+        "reg_docno": "高市教幼字第11033255100號",
+        "reg_date": "2021\/06\/22",
+        "title": "高雄市私立華威幼兒園",
+        "owner": "蕭義昌",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]建德路204巷15弄26號",
+        "floor": "1樓、2樓、3樓",
+        "size": "866.24平方公尺",
+        "size_in": "544.95平方公尺",
+        "size_out": "321.29平方公尺",
+        "tel": "(07)3926697",
+        "url": "",
+        "count_approved": "160",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "91298706-f6ca-4a3c-a46b-e82753f54884",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3228689,
+            22.6449904
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110175378號",
+        "reg_docno": "府教特字第1010052055號",
+        "reg_date": "2012\/08\/01",
+        "title": "嘉義縣竹崎鄉中和國民小學附設幼兒園",
+        "owner": "呂佳芸",
+        "city": "嘉義縣",
+        "town": "竹崎鄉",
+        "type": "公立",
+        "address": "[604]奮起湖215號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2561013",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5fa3c889-b42b-4c1c-9ed6-73001e9d70db",
+        "monthly": 3990
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6084832,
+            23.5049724
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599貢寮0003之1號",
+        "reg_docno": "八七北府教三字第323371號",
+        "reg_date": "1998\/09\/01",
+        "title": "新北市貢寮區福隆國民小學附設幼兒園",
+        "owner": "鍾敏龍",
+        "city": "新北市",
+        "town": "貢寮區",
+        "type": "公立",
+        "address": "[228]東興街35號",
+        "floor": "1樓",
+        "size": "251平方公尺",
+        "size_in": "151平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(02)24992150",
+        "url": "http:\/\/www.flps.ntpc.edu.tw\/default.asp",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7f008a17-cf7f-4d48-9810-14d53d43bccf",
+        "monthly": 3717
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.948484,
+            25.017572
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11151228200號",
+        "reg_docno": "屏府教國字第67180號",
+        "reg_date": "1987\/06\/30",
+        "title": "屏東縣九如鄉九如國民小學附設幼兒園",
+        "owner": "王錦裕",
+        "city": "屏東縣",
+        "town": "九如鄉",
+        "type": "公立",
+        "address": "[904]九如路二段3之1號",
+        "floor": "1樓",
+        "size": "471.22平方公尺",
+        "size_in": "311.72平方公尺",
+        "size_out": "159.5平方公尺",
+        "tel": "(08)7392159#17",
+        "url": "www.jrps.ptc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bb24b0d2-b225-4473-8690-25a9e56580b5",
+        "monthly": 3443
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.489768,
+            22.735716
+        ]
+    }
+}

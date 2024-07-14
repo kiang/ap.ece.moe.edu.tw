@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680樹林0017之2號",
+        "reg_docno": "北府社兒字第0910168452號",
+        "reg_date": "1980\/01\/01",
+        "title": "新北市立樹林幼兒園圳安分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "公立",
+        "address": "[238]俊英街98之1號",
+        "floor": "1樓",
+        "size": "257.81平方公尺",
+        "size_in": "257.81平方公尺",
+        "size_out": "",
+        "tel": "(02)26837375",
+        "url": "http:\/\/www.daycare-shulin.ntpc.gov.tw\/web\/Home?command=display&page=flash",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8130099f-1615-4cb5-b948-cf1995cc8730",
+        "monthly": 3706
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.427967,
+            25.00522
+        ]
+    }
+}

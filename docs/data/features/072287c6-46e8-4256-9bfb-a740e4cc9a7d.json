@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138481000號",
+        "reg_docno": "府社福字第40389號",
+        "reg_date": "1987\/05\/12",
+        "title": "高雄市私立佳芳幼兒園",
+        "owner": "李杏",
+        "city": "高雄市",
+        "town": "大社區",
+        "type": "私立",
+        "address": "[815]金龍路70、70-1號",
+        "floor": "1-3F",
+        "size": "898.88平方公尺",
+        "size_in": "662.69平方公尺",
+        "size_out": "236.19平方公尺",
+        "tel": "(07)3533285",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "072287c6-46e8-4256-9bfb-a740e4cc9a7d",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3539292,
+            22.7290985
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1050070687號",
+        "reg_docno": "府教學字第0990007576號",
+        "reg_date": "1977\/08\/01",
+        "title": "金門縣金湖鎮正義國民小學附設幼兒園",
+        "owner": "許瑞芬",
+        "city": "金門縣",
+        "town": "金湖鎮",
+        "type": "公立",
+        "address": "[891]成功129號",
+        "floor": "1樓",
+        "size": "879平方公尺",
+        "size_in": "177平方公尺",
+        "size_out": "702平方公尺",
+        "tel": "(082)332734#26",
+        "url": "www.jyps.km.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "04ab1362-12e2-4ad8-852c-7547059d537f",
+        "monthly": 1578
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.388211,
+            24.439346
+        ]
+    }
+}

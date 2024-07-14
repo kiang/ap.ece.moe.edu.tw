@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1100178764號",
+        "reg_docno": "府教特字第0983043926號",
+        "reg_date": "1986\/08\/05",
+        "title": "臺東縣海端鄉海端國民小學附設幼兒園",
+        "owner": "徐凱齡",
+        "city": "臺東縣",
+        "town": "海端鄉",
+        "type": "公立",
+        "address": "[957]山界36號",
+        "floor": "1樓",
+        "size": "282平方公尺",
+        "size_in": "182平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(089)931184#20",
+        "url": "http:\/\/blog.boe.ttct.edu.tw\/blog\/144x23\/weblog\/index.php",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8d58fe0d-f800-4f5c-a92f-d852a40675ee",
+        "monthly": 3833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.176305,
+            23.101552
+        ]
+    }
+}

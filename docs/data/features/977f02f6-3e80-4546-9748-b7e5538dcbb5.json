@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1091065256D號",
+        "reg_docno": "南市教國字第20516號",
+        "reg_date": "1999\/08\/01",
+        "title": "臺南市安南區鎮海國民小學附設幼兒園",
+        "owner": "凃榮祥",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "公立",
+        "address": "[709]大眾路381號",
+        "floor": "1樓",
+        "size": "320.38平方公尺",
+        "size_in": "120.38平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(06)2841700#701",
+        "url": "spc.tn.edu.tw\/k080",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "977f02f6-3e80-4546-9748-b7e5538dcbb5",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1342569,
+            23.0190561
+        ]
+    }
+}

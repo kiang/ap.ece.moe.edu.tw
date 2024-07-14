@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080207924號",
+        "reg_docno": "府教特字第09500607810號",
+        "reg_date": "2006\/05\/02",
+        "title": "花蓮縣光復鄉太巴塱國民小學附設幼兒園",
+        "owner": "劉從義",
+        "city": "花蓮縣",
+        "town": "光復鄉",
+        "type": "公立",
+        "address": "[976]中正路二段23號",
+        "floor": "1樓",
+        "size": "222.7072平方公尺",
+        "size_in": "132.7072平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)8701134",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6c5af657-ee7b-4529-94ea-f973b0ff7bdf",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.447921,
+            23.6599471
+        ]
+    }
+}

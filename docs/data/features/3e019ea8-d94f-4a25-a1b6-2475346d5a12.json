@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1040744508號",
+        "reg_docno": "南市教特(一)字第1030732965號",
+        "reg_date": "2014\/08\/13",
+        "title": "臺南市私立明日之星幼兒園",
+        "owner": "黃朝輝",
+        "city": "臺南市",
+        "town": "仁德區",
+        "type": "私立",
+        "address": "[717]仁義三街275號",
+        "floor": "1樓、2樓",
+        "size": "742.77平方公尺",
+        "size_in": "383.1平方公尺",
+        "size_out": "359.67平方公尺",
+        "tel": "(06)2796855",
+        "url": "",
+        "count_approved": "105",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3e019ea8-d94f-4a25-a1b6-2475346d5a12",
+        "monthly": 6000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2585911,
+            22.9690342
+        ]
+    }
+}

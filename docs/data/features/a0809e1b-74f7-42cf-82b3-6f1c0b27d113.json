@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120071500號",
+        "reg_docno": "中市府社婦字第9222號",
+        "reg_date": "2003\/10\/29",
+        "title": "臺中市私立優斯特幼兒園",
+        "owner": "張可欣",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]西屯路三段145號1,2樓",
+        "floor": "一、二樓",
+        "size": "729.89平方公尺",
+        "size_in": "355.25平方公尺",
+        "size_out": "374.64平方公尺",
+        "tel": "(04)24628216",
+        "url": "",
+        "count_approved": "170",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：12",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a0809e1b-74f7-42cf-82b3-6f1c0b27d113",
+        "monthly": 10563
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.624789,
+            24.185189
+        ]
+    }
+}

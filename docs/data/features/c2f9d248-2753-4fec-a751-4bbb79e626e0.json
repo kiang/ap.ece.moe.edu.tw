@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040051943號",
+        "reg_docno": "府社幼字第0940343230號",
+        "reg_date": "2005\/12\/13",
+        "title": "臺中市私立東育幼兒園",
+        "owner": "張文涓",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "私立",
+        "address": "[427]圓通南路86號",
+        "floor": "1樓、2樓、3樓",
+        "size": "324.9平方公尺",
+        "size_in": "193.61平方公尺",
+        "size_out": "131.29平方公尺",
+        "tel": "(04)25388296",
+        "url": "",
+        "count_approved": "35",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c2f9d248-2753-4fec-a751-4bbb79e626e0",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7080639,
+            24.2068364
+        ]
+    }
+}

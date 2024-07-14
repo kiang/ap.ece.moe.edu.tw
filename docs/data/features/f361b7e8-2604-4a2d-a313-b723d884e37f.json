@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111030422號",
+        "reg_docno": "致申文市教字第0307號",
+        "reg_date": "1946\/05\/01",
+        "title": "臺南市立第一幼兒園",
+        "owner": "李敏鳳",
+        "city": "臺南市",
+        "town": "中西區",
+        "type": "公立",
+        "address": "[700]南門路26之1號",
+        "floor": "1樓、2樓",
+        "size": "3,406平方公尺",
+        "size_in": "1,084平方公尺",
+        "size_out": "2,322平方公尺",
+        "tel": "(06)2135779",
+        "url": "https:\/\/class.tn.edu.tw\/5651",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f361b7e8-2604-4a2d-a313-b723d884e37f",
+        "monthly": 3505
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.204456,
+            22.9882911
+        ]
+    }
+}

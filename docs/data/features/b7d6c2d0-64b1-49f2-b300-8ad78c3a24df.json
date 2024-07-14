@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119550693號",
+        "reg_docno": "府授教幼字第1119550693號",
+        "reg_date": "2022\/08\/18",
+        "title": "中華郵政公司竹北光明郵局職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+        "owner": "邱健凱",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]縣政九路138號4樓",
+        "floor": "4樓",
+        "size": "214.72平方公尺",
+        "size_in": "124.5平方公尺",
+        "size_out": "",
+        "tel": "(03)5511717",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b7d6c2d0-64b1-49f2-b300-8ad78c3a24df",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0109218,
+            24.8287547
+        ]
+    }
+}

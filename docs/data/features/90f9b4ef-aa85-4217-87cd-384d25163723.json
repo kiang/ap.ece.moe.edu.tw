@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119550983號",
+        "reg_docno": "府教幼字第1030136494號",
+        "reg_date": "2014\/08\/01",
+        "title": "新竹縣竹東鎮瑞峰國民小學附設幼兒園",
+        "owner": "何崧瑀",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "公立",
+        "address": "[310]上坪43號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5949052#123",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "90f9b4ef-aa85-4217-87cd-384d25163723",
+        "monthly": 3678
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.121562,
+            24.6618165
+        ]
+    }
+}

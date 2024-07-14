@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前貳字第1110236028號",
+        "reg_docno": "基府社福字第0930080305號",
+        "reg_date": "2004\/07\/28",
+        "title": "基隆市私立筌勝幼兒園",
+        "owner": "鄭拯聰",
+        "city": "基隆市",
+        "town": "仁愛區",
+        "type": "私立",
+        "address": "[200]愛五路19巷34號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24269408",
+        "url": "",
+        "count_approved": "35",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "98c5ea4b-9a94-4eff-9057-27c33dcdb441",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.745107,
+            25.129004
+        ]
+    }
+}

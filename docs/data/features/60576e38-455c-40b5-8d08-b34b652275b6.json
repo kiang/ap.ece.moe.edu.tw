@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100189031號",
+        "reg_docno": "府教幼字第1100189031號",
+        "reg_date": "2021\/08\/01",
+        "title": "桃園市觀音區上大國民小學附設幼兒園",
+        "owner": "呂天得",
+        "city": "桃園市",
+        "town": "觀音區",
+        "type": "公立",
+        "address": "[328]大湖路一段540號",
+        "floor": "1樓",
+        "size": "216.13平方公尺",
+        "size_in": "126.13平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)4901174#611",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000256215",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "60576e38-455c-40b5-8d08-b34b652275b6",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1467764,
+            24.9788571
+        ]
+    }
+}

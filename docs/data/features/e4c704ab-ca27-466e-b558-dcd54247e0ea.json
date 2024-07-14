@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1120046005號",
+        "reg_docno": "府教國字第99575號",
+        "reg_date": "1997\/08\/13",
+        "title": "苗栗縣私立輔仁幼兒園",
+        "owner": "陳賢峻",
+        "city": "苗栗縣",
+        "town": "竹南鎮",
+        "type": "私立",
+        "address": "[350]文化街39號",
+        "floor": "1樓、2樓",
+        "size": "686平方公尺",
+        "size_in": "298平方公尺",
+        "size_out": "388平方公尺",
+        "tel": "(037)470374",
+        "url": "http:\/\/susan2582.pixnet.net\/blog",
+        "count_approved": "79",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e4c704ab-ca27-466e-b558-dcd54247e0ea",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.871749,
+            24.684407
+        ]
+    }
+}

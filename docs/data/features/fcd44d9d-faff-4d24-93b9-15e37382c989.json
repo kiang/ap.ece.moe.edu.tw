@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第106-1號",
+        "reg_docno": "北市陽教國字第13879號",
+        "reg_date": "1973\/05\/01",
+        "title": "財團法人天主教會台北教區附設臺北市私立達義幼兒園",
+        "owner": "",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]致遠一路2段40巷11號1、2、3樓",
+        "floor": "1-3樓",
+        "size": "614.4平方公尺",
+        "size_in": "278.4平方公尺",
+        "size_out": "336平方公尺",
+        "tel": "(02)28270668",
+        "url": "http:\/\/http:\/\/www.catholic-kindergarten-takm.tw\/",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fcd44d9d-faff-4d24-93b9-15e37382c989",
+        "monthly": 14435
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.514733,
+            25.110798
+        ]
+    }
+}

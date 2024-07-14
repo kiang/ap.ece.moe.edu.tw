@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1095022450號",
+        "reg_docno": "府教學字第13952號",
+        "reg_date": "2000\/03\/20",
+        "title": "嘉義市西區北園國民小學附設幼兒園",
+        "owner": "吳長頴",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "公立",
+        "address": "[600]北社尾路168號",
+        "floor": "1樓",
+        "size": "3,262.85平方公尺",
+        "size_in": "1,088.13平方公尺",
+        "size_out": "2,174.72平方公尺",
+        "tel": "(05)2382158",
+        "url": "http:\/\/www.cy.edu.tw\/pykd\/",
+        "count_approved": "196",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "304a6c67-254c-4700-a7c0-63c3de9a2688",
+        "monthly": 3170
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.425922,
+            23.494548
+        ]
+    }
+}

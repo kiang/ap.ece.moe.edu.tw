@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090156795號",
+        "reg_docno": "府教國字第65749號",
+        "reg_date": "1985\/08\/07",
+        "title": "花蓮縣吉安鄉太昌國民小學附設幼兒園",
+        "owner": "吳昌葦",
+        "city": "花蓮縣",
+        "town": "吉安鄉",
+        "type": "公立",
+        "address": "[973]明義五街1號",
+        "floor": "1",
+        "size": "337.72平方公尺",
+        "size_in": "247.72平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)8571746#112",
+        "url": "http:\/\/www.tacps.hlc.edu.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "96b11635-9a9b-464c-8add-00aa7ea268b0",
+        "monthly": 2990
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.564726,
+            23.994959
+        ]
+    }
+}

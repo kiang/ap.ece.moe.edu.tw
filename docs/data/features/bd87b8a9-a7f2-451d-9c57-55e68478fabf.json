@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第659號",
+        "reg_docno": "北市社五字第8723882900號",
+        "reg_date": "1998\/07\/31",
+        "title": "臺北市私立聖如幼兒園",
+        "owner": "陳俊郎",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]復興北路361巷26號1樓",
+        "floor": "1樓",
+        "size": "163.27平方公尺",
+        "size_in": "163.27平方公尺",
+        "size_out": "",
+        "tel": "(02)27180033",
+        "url": "www.coolkids.com.tw",
+        "count_approved": "34",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bd87b8a9-a7f2-451d-9c57-55e68478fabf",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.546274,
+            25.060317
+        ]
+    }
+}

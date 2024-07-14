@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10434017300號",
+        "reg_docno": "高市社局五字第12033號",
+        "reg_date": "2000\/04\/24",
+        "title": "高雄市私立小種籽幼兒園",
+        "owner": "許志聆",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "私立",
+        "address": "[811]常德路242號1.2樓",
+        "floor": "1-2",
+        "size": "210.36平方公尺",
+        "size_in": "210.36平方公尺",
+        "size_out": "",
+        "tel": "(07)3555388",
+        "url": "",
+        "count_approved": "53",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e9c09d99-a3a5-46bb-ab30-30ea5bb4cea2",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.336925,
+            22.735963
+        ]
+    }
+}

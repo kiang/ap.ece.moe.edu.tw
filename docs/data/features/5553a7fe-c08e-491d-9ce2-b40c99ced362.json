@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10635860000號",
+        "reg_docno": "高市社局五字第0970029733號",
+        "reg_date": "2008\/07\/25",
+        "title": "高雄市私立資和幼兒園",
+        "owner": "王佳容",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]萬全街1號",
+        "floor": "1樓、2樓",
+        "size": "1,605.98平方公尺",
+        "size_in": "879.98平方公尺",
+        "size_out": "726平方公尺",
+        "tel": "(07)3210697",
+        "url": "http:\/\/www.tzuho.com.tw",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5553a7fe-c08e-491d-9ce2-b40c99ced362",
+        "monthly": 17400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.318048,
+            22.653767
+        ]
+    }
+}

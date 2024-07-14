@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第628-1號",
+        "reg_docno": "北市社五字第09442396000號",
+        "reg_date": "2005\/12\/26",
+        "title": "財團法人中國文化大學附設臺北市私立文化幼兒園",
+        "owner": "",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]瑞安街256巷18號及20號1樓",
+        "floor": "1樓",
+        "size": "261.34平方公尺",
+        "size_in": "261.34平方公尺",
+        "size_out": "",
+        "tel": "(02)27085583",
+        "url": "http:\/\/kids.sce.pccu.edu.tw",
+        "count_approved": "56",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5c508d10-3126-4700-9698-cbd8de3d3214",
+        "monthly": 18667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.538799,
+            25.027239
+        ]
+    }
+}

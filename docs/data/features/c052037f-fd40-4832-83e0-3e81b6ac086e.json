@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第798號",
+        "reg_docno": "北市教前字第1103104483號",
+        "reg_date": "2022\/02\/01",
+        "title": "臺北市民生非營利幼兒園（委託財團法人台北市中華基督教青年會辦理）",
+        "owner": "賴允亮",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "非營利",
+        "address": "[105]新東街30巷1號",
+        "floor": "1樓",
+        "size": "898平方公尺",
+        "size_in": "749平方公尺",
+        "size_out": "149平方公尺",
+        "tel": "(02)27457737",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c052037f-fd40-4832-83e0-3e81b6ac086e",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5667099,
+            25.0598066
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1050375897號",
+        "reg_docno": "七七彰府教國字第108429號",
+        "reg_date": "1988\/05\/21",
+        "title": "彰化縣大城鄉西港國民小學附設幼兒園",
+        "owner": "洪信德",
+        "city": "彰化縣",
+        "town": "大城鄉",
+        "type": "公立",
+        "address": "[527]中央路2號",
+        "floor": "1樓",
+        "size": "397.35平方公尺",
+        "size_in": "159.75平方公尺",
+        "size_out": "237.6平方公尺",
+        "tel": "(04)8941029#15",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "04292f17-3c5e-45d6-9a4f-7362d81b49ff",
+        "monthly": 3212
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.288715,
+            23.860993
+        ]
+    }
+}

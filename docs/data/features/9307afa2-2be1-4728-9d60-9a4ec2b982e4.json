@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100211102號",
+        "reg_docno": "府教幼字第1060181483號",
+        "reg_date": "2017\/08\/01",
+        "title": "桃園市桃園區西門國民小學附設幼兒園",
+        "owner": "王博成",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "公立",
+        "address": "[330]莒光街15號",
+        "floor": "1樓",
+        "size": "350平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(03)3342351#85",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000238266",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9307afa2-2be1-4728-9d60-9a4ec2b982e4",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3043617,
+            24.9953096
+        ]
+    }
+}

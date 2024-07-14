@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080127541號",
+        "reg_docno": "（100）府社兒婦字第1000129585號",
+        "reg_date": "2011\/08\/31",
+        "title": "宜蘭縣大湖非營利幼兒園(委託財團法人靖娟兒童安全文教基金會辦理)",
+        "owner": "林志嘉",
+        "city": "宜蘭縣",
+        "town": "員山鄉",
+        "type": "非營利",
+        "address": "[264]蜊埤路55號",
+        "floor": "1樓",
+        "size": "963平方公尺",
+        "size_in": "476平方公尺",
+        "size_out": "487平方公尺",
+        "tel": "(03)9229620",
+        "url": "https:\/\/www.safe.org.tw",
+        "count_approved": "100",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5536b208-7491-4512-860e-72bdd74a393c",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.69136,
+            24.747604
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050058597號",
+        "reg_docno": "九十府社幼字第361525號",
+        "reg_date": "2001\/12\/19",
+        "title": "臺中市私立嘉仁幼兒園",
+        "owner": "陳瑋廷",
+        "city": "臺中市",
+        "town": "龍井區",
+        "type": "私立",
+        "address": "[434]遊園南路2號",
+        "floor": "1樓",
+        "size": "892.07平方公尺",
+        "size_in": "407.17平方公尺",
+        "size_out": "484.9平方公尺",
+        "tel": "(04)26328455",
+        "url": "http:\/\/chin-jen.topschool.com.tw\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "29253a76-c281-4f47-80eb-09746f1e9c6e",
+        "monthly": 5170
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.585422,
+            24.185707
+        ]
+    }
+}

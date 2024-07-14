@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551514號",
+        "reg_docno": "九十府教特字第104918號",
+        "reg_date": "2001\/09\/25",
+        "title": "新竹縣新埔鎮新星國民小學附設幼兒園",
+        "owner": "范瑞祝",
+        "city": "新竹縣",
+        "town": "新埔鎮",
+        "type": "公立",
+        "address": "[305]民生街28號",
+        "floor": "1樓",
+        "size": "280平方公尺",
+        "size_in": "189平方公尺",
+        "size_out": "91平方公尺",
+        "tel": "(03)5880401#302",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000153995",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "36b94b0c-076c-4cc6-847a-3827adbbdd96",
+        "monthly": 3544
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.07333,
+            24.829886
+        ]
+    }
+}

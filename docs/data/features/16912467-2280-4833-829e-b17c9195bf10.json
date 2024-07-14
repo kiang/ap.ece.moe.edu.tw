@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070193130號",
+        "reg_docno": "府教學字第17823號",
+        "reg_date": "1986\/03\/07",
+        "title": "南投縣私立文心幼兒園",
+        "owner": "趙國揚",
+        "city": "南投縣",
+        "town": "埔里鎮",
+        "type": "私立",
+        "address": "[545]安四街165號",
+        "floor": "1樓、1樓",
+        "size": "3,207平方公尺",
+        "size_in": "366平方公尺",
+        "size_out": "2,596平方公尺",
+        "tel": "(049)2915123",
+        "url": "埔里鎮安四街165號",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "16912467-2280-4833-829e-b17c9195bf10",
+        "monthly": 6000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.953795,
+            23.969341
+        ]
+    }
+}

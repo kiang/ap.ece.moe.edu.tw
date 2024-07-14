@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111550100號",
+        "reg_docno": "八七北府教三字第276002號",
+        "reg_date": "1998\/09\/02",
+        "title": "新北市新莊區新泰國民小學附設幼兒園",
+        "owner": "許恒禎",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "公立",
+        "address": "[242]公園一路91號",
+        "floor": "1樓",
+        "size": "1,578平方公尺",
+        "size_in": "720平方公尺",
+        "size_out": "858平方公尺",
+        "tel": "(02)29971005#117",
+        "url": "http:\/\/www.stps.ntpc.edu.tw\/",
+        "count_approved": "182",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "95086c0c-b216-4140-a2ba-69c71ec0b7bb",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.444025,
+            25.0383599
+        ]
+    }
+}

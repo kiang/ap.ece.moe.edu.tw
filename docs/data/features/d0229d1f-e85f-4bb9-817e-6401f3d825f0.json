@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第146號",
+        "reg_docno": "北市教三字第65423號",
+        "reg_date": "1970\/01\/01",
+        "title": "財團法人臺北市私立蒙特梭利幼兒園",
+        "owner": "",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]新生南路1段103巷27號1樓、2樓",
+        "floor": "3",
+        "size": "692.89平方公尺",
+        "size_in": "507.77平方公尺",
+        "size_out": "185.12平方公尺",
+        "tel": "(02)27529503#20",
+        "url": "www.montessori.org.tw",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d0229d1f-e85f-4bb9-817e-6401f3d825f0",
+        "monthly": 33669
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.535223,
+            25.040831
+        ]
+    }
+}

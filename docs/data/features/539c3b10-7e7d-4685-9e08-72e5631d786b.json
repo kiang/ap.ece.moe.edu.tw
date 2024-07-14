@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101048454號",
+        "reg_docno": "南市教特(一)字第1060891007H號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺南市立海佃國民中學附設幼兒園",
+        "owner": "蔡宜興",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "公立",
+        "address": "[709]安富街166號",
+        "floor": "1樓",
+        "size": "366.09平方公尺",
+        "size_in": "266.09平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(06)3507486#201",
+        "url": "https:\/\/www.hdjh.tn.edu.tw\/modules\/tadnews\/index.php?ncsn=7",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "539c3b10-7e7d-4685-9e08-72e5631d786b",
+        "monthly": 3664
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1975915,
+            23.0270224
+        ]
+    }
+}

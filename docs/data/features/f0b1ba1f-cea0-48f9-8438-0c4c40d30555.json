@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040037554號",
+        "reg_docno": "90府社婦字第25660號",
+        "reg_date": "2001\/02\/13",
+        "title": "桃園市私立嘉育幼兒園",
+        "owner": "陳惠萍",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "私立",
+        "address": "[338]中山路121號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3215005",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "ddab8bbb-30a0-4d87-b63a-a2d8791872f3",
+        "monthly": 8250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2983302,
+            25.0557998
+        ]
+    }
+}

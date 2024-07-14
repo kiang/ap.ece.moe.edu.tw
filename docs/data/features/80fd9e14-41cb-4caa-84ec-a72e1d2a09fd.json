@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138301700號",
+        "reg_docno": "73府教國字第82027號",
+        "reg_date": "1984\/07\/30",
+        "title": "高雄市私立高苑幼兒園",
+        "owner": "林邦福",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]大同巷1、1-1號",
+        "floor": "1~2",
+        "size": "539.08平方公尺",
+        "size_in": "285.88平方公尺",
+        "size_out": "253.2平方公尺",
+        "tel": "(07)6214525",
+        "url": "",
+        "count_approved": "69",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "80fd9e14-41cb-4caa-84ec-a72e1d2a09fd",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.293705,
+            22.7958261
+        ]
+    }
+}

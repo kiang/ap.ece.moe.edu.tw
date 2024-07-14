@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教字第1050097674號",
+        "reg_docno": "中市府社婦字第0950120968號",
+        "reg_date": "2006\/06\/26",
+        "title": "臺中市私立蒙特立幼兒園",
+        "owner": "陳莉玲",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]楓樹南街333號1-3樓",
+        "floor": "1-3",
+        "size": "286.52平方公尺",
+        "size_in": "250.73平方公尺",
+        "size_out": "35.79平方公尺",
+        "tel": "(04)24791367",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：33",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7c36120a-ac95-45da-86cf-dc2d1997ef80",
+        "monthly": 7900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6294139,
+            24.1155097
+        ]
+    }
+}

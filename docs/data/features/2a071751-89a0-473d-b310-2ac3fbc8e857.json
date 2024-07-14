@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599樹林0015之4號",
+        "reg_docno": "八三北府教一字第403868號",
+        "reg_date": "1970\/01\/01",
+        "title": "新北市樹林區彭福國民小學附設幼兒園",
+        "owner": "林顯宜",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "公立",
+        "address": "[238]忠孝街30號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)86866589#106",
+        "url": "https:\/\/class.tn.edu.tw\/modules\/tad_web\/index.php?WebID=6638",
+        "count_approved": "226",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2a071751-89a0-473d-b310-2ac3fbc8e857",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4239448,
+            24.9815329
+        ]
+    }
+}

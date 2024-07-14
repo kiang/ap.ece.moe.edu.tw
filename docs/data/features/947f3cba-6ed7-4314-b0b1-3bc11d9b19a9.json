@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10806750600號",
+        "reg_docno": "屏府社婦字第1000325894號",
+        "reg_date": "1980\/08\/30",
+        "title": "屏東縣萬巒鄉立幼兒園",
+        "owner": "林國順",
+        "city": "屏東縣",
+        "town": "萬巒鄉",
+        "type": "公立",
+        "address": "[923]褒忠路28號",
+        "floor": "1樓、2樓",
+        "size": "1,260.2平方公尺",
+        "size_in": "361.35平方公尺",
+        "size_out": "826.8平方公尺",
+        "tel": "(08)7813505",
+        "url": "",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "947f3cba-6ed7-4314-b0b1-3bc11d9b19a9",
+        "monthly": 2333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5730061,
+            22.5719275
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620土城004號",
+        "reg_docno": "89北府教幼字第288233號",
+        "reg_date": "2000\/07\/31",
+        "title": "新北市私立休士頓幼兒園",
+        "owner": "楊慶鐘",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]明德路一段74號1.2.3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22633066",
+        "url": "",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b9b3812d-0ced-4421-a2d4-88c1d3e5e04a",
+        "monthly": 15100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.464344,
+            24.9797309
+        ]
+    }
+}

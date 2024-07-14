@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129552209號",
+        "reg_docno": "府授教幼字第1129552209號",
+        "reg_date": "2023\/10\/30",
+        "title": "新竹縣華興非營利幼兒園(委託明新學校財團法人設立之明新科技大學辦理)",
+        "owner": "劉國偉",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "非營利",
+        "address": "[302]環北路五段85號",
+        "floor": "1樓、2樓",
+        "size": "2,963.41平方公尺",
+        "size_in": "2,080.03平方公尺",
+        "size_out": "883.38平方公尺",
+        "tel": "(03)5516074",
+        "url": "https:\/\/www.facebook.com\/flownpp",
+        "count_approved": "176",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b16c595d-b2a5-4431-9d8d-9c1cd2c7a440",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9943132,
+            24.840606
+        ]
+    }
+}

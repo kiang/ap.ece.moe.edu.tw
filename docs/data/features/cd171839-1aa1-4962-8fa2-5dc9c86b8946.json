@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010028859號",
+        "reg_docno": "中市府社福字第8618號",
+        "reg_date": "1997\/09\/01",
+        "title": "臺中市私立大弘幼兒園",
+        "owner": "柳美玲",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]大弘三街77號1,2樓",
+        "floor": "1樓2樓",
+        "size": "177.48平方公尺",
+        "size_in": "118.8平方公尺",
+        "size_out": "58.68平方公尺",
+        "tel": "(04)23130886",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cd171839-1aa1-4962-8fa2-5dc9c86b8946",
+        "monthly": 10805
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.659818,
+            24.162424
+        ]
+    }
+}

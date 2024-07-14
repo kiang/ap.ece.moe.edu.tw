@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市字第1030098245號",
+        "reg_docno": "74府社福字第14241號",
+        "reg_date": "1985\/01\/24",
+        "title": "臺中市立霧峰幼兒園",
+        "owner": "何麗里",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "公立",
+        "address": "[413]民生路1-7號",
+        "floor": "1樓、2樓",
+        "size": "1,452.56平方公尺",
+        "size_in": "790.06平方公尺",
+        "size_out": "662.5平方公尺",
+        "tel": "(04)23334147#126",
+        "url": "https:\/\/wfkg.tc.edu.tw\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "935cdf90-b390-4d87-aca2-c794d45d366e",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7120669,
+            24.0748215
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070109800號",
+        "reg_docno": "71府教國字第83193號",
+        "reg_date": "1982\/07\/14",
+        "title": "桃園市私立安宜幼兒園",
+        "owner": "洪崇智",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]金華街133、135及137號1樓至2樓",
+        "floor": "1",
+        "size": "1,118平方公尺",
+        "size_in": "710平方公尺",
+        "size_out": "408平方公尺",
+        "tel": "(03)4583920",
+        "url": "",
+        "count_approved": "124",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "97f95129-8160-443e-a21d-8df3ebfbba0d",
+        "monthly": 8666
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2207993,
+            24.9488432
+        ]
+    }
+}

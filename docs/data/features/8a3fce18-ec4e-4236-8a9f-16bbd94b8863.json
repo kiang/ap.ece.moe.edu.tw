@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教特字第1010070981號",
+        "reg_docno": "屏府社福字第81835號",
+        "reg_date": "2006\/06\/14",
+        "title": "屏東縣私立弘全幼兒園",
+        "owner": "許茂松",
+        "city": "屏東縣",
+        "town": "南州鄉",
+        "type": "私立",
+        "address": "[926]光華路128之2號",
+        "floor": "1樓、2樓",
+        "size": "2,080平方公尺",
+        "size_in": "580平方公尺",
+        "size_out": "1,500平方公尺",
+        "tel": "(08)8641428",
+        "url": "",
+        "count_approved": "250",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8a3fce18-ec4e-4236-8a9f-16bbd94b8863",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5186238,
+            22.4842681
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599樹林0056號",
+        "reg_docno": "新北府教幼字第1111479448號",
+        "reg_date": "2022\/08\/04",
+        "title": "中華郵政公司樹林三多郵局職場互助教保服務中心(委託社團法人臺灣兒童教育發展協會辦理)",
+        "owner": "劉昆彥",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "私立",
+        "address": "[238]三福街70巷1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)86882722",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b12d0d0b-87b1-4f4f-b8ae-2f7d02264ffc",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4047533,
+            25.0164435
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10935866800號",
+        "reg_docno": "高市教幼字第10935866800號",
+        "reg_date": "2020\/07\/31",
+        "title": "高雄市英明非營利幼兒園(委託財團法人高雄市私立復華高級中學辦理)",
+        "owner": "孫建行",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "非營利",
+        "address": "[802]英明路147號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,941.53平方公尺",
+        "size_in": "1,376.79平方公尺",
+        "size_out": "1,564.74平方公尺",
+        "tel": "(07)7160076",
+        "url": "評鑑情形：",
+        "count_approved": "272",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "bf4101a0-8c4f-4f0d-be8d-493271f1f820",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.325114,
+            22.615016
+        ]
+    }
+}

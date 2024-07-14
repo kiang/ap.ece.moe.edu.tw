@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050033591號",
+        "reg_docno": "府社幼字第232729號",
+        "reg_date": "2001\/08\/20",
+        "title": "臺中市私立文森幼兒園",
+        "owner": "林慧卿",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "私立",
+        "address": "[433]北中五街22號",
+        "floor": "1-2樓",
+        "size": "1,106.19平方公尺",
+        "size_in": "646.92平方公尺",
+        "size_out": "459.27平方公尺",
+        "tel": "(04)26338787",
+        "url": "http:\/\/www.winkids.com.tw",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "73a6bb7d-d1e5-41ab-a70b-856ae69afd0f",
+        "monthly": 11525
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5687283,
+            24.2297766
+        ]
+    }
+}

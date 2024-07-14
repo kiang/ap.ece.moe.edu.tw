@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0097號",
+        "reg_docno": "六四北府社三字第64752895號",
+        "reg_date": "1975\/04\/01",
+        "title": "新北市私立忠合幼兒園",
+        "owner": "曹琮玉",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]秀朗路3段10巷14弄110號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29444892",
+        "url": "http:\/\/jongher.pckids.com.tw\/",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b0b6491d-d360-45a1-bf69-e3568c9450c0",
+        "monthly": 5040
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5240387,
+            24.9964973
+        ]
+    }
+}

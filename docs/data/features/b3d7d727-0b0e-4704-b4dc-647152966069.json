@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138906600號",
+        "reg_docno": "高市教三字第0033502號",
+        "reg_date": "2001\/10\/22",
+        "title": "高雄市私立明華幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]明華一路176號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)5566796",
+        "url": "",
+        "count_approved": "240",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b3d7d727-0b0e-4704-b4dc-647152966069",
+        "monthly": 13373
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.306384,
+            22.663046
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110196646號",
+        "reg_docno": "府教學字第09400837780號",
+        "reg_date": "2005\/04\/27",
+        "title": "南投縣信義鄉地利國民小學附設幼兒園",
+        "owner": "伍福義",
+        "city": "南投縣",
+        "town": "信義鄉",
+        "type": "公立",
+        "address": "[556]開信巷17號",
+        "floor": "1樓",
+        "size": "344平方公尺",
+        "size_in": "90平方公尺",
+        "size_out": "254平方公尺",
+        "tel": "(049)2741254#20",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "df0dd21d-47b2-4d5b-8047-28abd15881f0",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.943154,
+            23.793903
+        ]
+    }
+}

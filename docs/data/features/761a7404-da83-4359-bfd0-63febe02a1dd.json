@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111127493號",
+        "reg_docno": "府教國字第112219號",
+        "reg_date": "1977\/10\/19",
+        "title": "臺南市安定區南安國民小學附設幼兒園",
+        "owner": "黃國峯",
+        "city": "臺南市",
+        "town": "安定區",
+        "type": "公立",
+        "address": "[745]62號",
+        "floor": "1樓",
+        "size": "692.5平方公尺",
+        "size_in": "472.5平方公尺",
+        "size_out": "220平方公尺",
+        "tel": "(06)5923899",
+        "url": "naes.tnc.edu.tw",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "761a7404-da83-4359-bfd0-63febe02a1dd",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.225022,
+            23.098957
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第247-2號",
+        "reg_docno": "北市教四字第9026018200號",
+        "reg_date": "2000\/09\/13",
+        "title": "臺北市私立全能幼兒園",
+        "owner": "甘耀玲",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]樟新街26號1樓",
+        "floor": "1樓",
+        "size": "270.36平方公尺",
+        "size_in": "153.47平方公尺",
+        "size_out": "116.89平方公尺",
+        "tel": "(02)29367367",
+        "url": "http:\/\/www.52school.montessori.com.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "94a2c7b4-7a65-44a4-b091-dcfc31a88a7a",
+        "monthly": 11547
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5552134,
+            24.9789306
+        ]
+    }
+}

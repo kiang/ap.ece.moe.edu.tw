@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市府教人字第10143913500號",
+        "reg_docno": "北市府教人字第10143913500號",
+        "reg_date": "2002\/08\/01",
+        "title": "臺北市立啟智學校幼兒部",
+        "owner": "林麗慧",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "公立",
+        "address": "[111]忠誠路2段207巷3號",
+        "floor": "1",
+        "size": "442平方公尺",
+        "size_in": "188平方公尺",
+        "size_out": "254平方公尺",
+        "tel": "(02)28749117",
+        "url": "",
+        "count_approved": "0",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "c5c7ea6a-390a-45d1-b911-3d1c54f3c19d",
+        "monthly": 4824
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.536225,
+            25.116617
+        ]
+    }
+}

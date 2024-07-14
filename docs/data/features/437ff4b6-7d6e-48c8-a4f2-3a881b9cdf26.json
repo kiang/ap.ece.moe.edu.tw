@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1130487488號",
+        "reg_docno": "南市社福字第08688號",
+        "reg_date": "1986\/05\/27",
+        "title": "臺南市私立葛瑞特幼兒園",
+        "owner": "魏秀綿",
+        "city": "臺南市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[704]大興街212巷12號、192巷11號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)3505618",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "437ff4b6-7d6e-48c8-a4f2-3a881b9cdf26",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.188228,
+            23.011172
+        ]
+    }
+}

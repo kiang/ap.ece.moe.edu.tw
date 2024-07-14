@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11139876400號",
+        "reg_docno": "高市教國字第7452號",
+        "reg_date": "1967\/02\/25",
+        "title": "財團法人台灣聖公會附設高雄市私立聖保羅幼兒園",
+        "owner": "張員榮",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]自強一路200號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,800.13平方公尺",
+        "size_in": "1,146.44平方公尺",
+        "size_out": "653.69平方公尺",
+        "tel": "(07)2217627",
+        "url": "http:\/\/stpaul.topschool.tw",
+        "count_approved": "255",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：60",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "28ca0228-e814-4b07-956d-a236a80952fa",
+        "monthly": 9780
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2917781,
+            22.6348539
+        ]
+    }
+}

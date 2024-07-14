@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教特字第1010157254號",
+        "reg_docno": "屏府社福字第0950048044號",
+        "reg_date": "2006\/03\/13",
+        "title": "屏東縣私立摩根幼兒園",
+        "owner": "孟冠吟",
+        "city": "屏東縣",
+        "town": "潮州鎮",
+        "type": "私立",
+        "address": "[920]北門路42號",
+        "floor": "1樓、2樓、3樓、3",
+        "size": "473.56平方公尺",
+        "size_in": "364.56平方公尺",
+        "size_out": "109平方公尺",
+        "tel": "(08)7809166",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "dc03977a-1cd4-4cd3-a641-50fd64675631",
+        "monthly": 7000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5475355,
+            22.5577246
+        ]
+    }
+}

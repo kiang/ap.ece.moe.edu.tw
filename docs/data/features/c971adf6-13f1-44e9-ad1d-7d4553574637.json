@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110308203號",
+        "reg_docno": "85投府教學字第101658號",
+        "reg_date": "1996\/07\/15",
+        "title": "南投縣私立愛迪生幼兒園",
+        "owner": "李鈺仁",
+        "city": "南投縣",
+        "town": "埔里鎮",
+        "type": "私立",
+        "address": "[545]東榮路226號",
+        "floor": "1樓",
+        "size": "2,281平方公尺",
+        "size_in": "595平方公尺",
+        "size_out": "1,686平方公尺",
+        "tel": "(049)2986666",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c971adf6-13f1-44e9-ad1d-7d4553574637",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.970341,
+            23.966058
+        ]
+    }
+}

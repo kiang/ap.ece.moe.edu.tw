@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第40-1號",
+        "reg_docno": "北市教三字第45032號",
+        "reg_date": "1984\/09\/11",
+        "title": "臺北市私立童欣幼兒園",
+        "owner": "鄭好嬋",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]富錦街396號、398號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27662965",
+        "url": "tonghsin.topschool.com.tw",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "28a805e3-36e9-49c3-92d4-c635b39c6282",
+        "monthly": 18350
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.559818,
+            25.0604969
+        ]
+    }
+}

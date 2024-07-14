@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136348900號",
+        "reg_docno": "高市教國字第76449號",
+        "reg_date": "1974\/09\/01",
+        "title": "高雄市左營區左營國民小學附設幼兒園",
+        "owner": "歐嬌慧",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "公立",
+        "address": "[813]實踐路42號",
+        "floor": "1樓",
+        "size": "2,853.53平方公尺",
+        "size_in": "283平方公尺",
+        "size_out": "2,570.53平方公尺",
+        "tel": "(07)5820042#111",
+        "url": "www.typs.kh.edu.tw",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a368bcb6-7797-49f5-bf13-285238803c8a",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2933663,
+            22.6904926
+        ]
+    }
+}

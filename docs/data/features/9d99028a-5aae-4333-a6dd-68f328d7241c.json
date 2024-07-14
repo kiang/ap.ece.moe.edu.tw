@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010018199號",
+        "reg_docno": "中市府社福字第21259號",
+        "reg_date": "1999\/02\/09",
+        "title": "臺中市私立台大幼兒園",
+        "owner": "陳秀英",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]福雅路150號1,2樓",
+        "floor": "1樓至3樓",
+        "size": "1,402.67平方公尺",
+        "size_in": "1,196.67平方公尺",
+        "size_out": "206平方公尺",
+        "tel": "(04)24633060",
+        "url": "",
+        "count_approved": "400",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：140",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9d99028a-5aae-4333-a6dd-68f328d7241c",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.619658,
+            24.18614
+        ]
+    }
+}

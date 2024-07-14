@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090069478號",
+        "reg_docno": "府孟教二字第103867號",
+        "reg_date": "1973\/10\/24",
+        "title": "臺中市石岡區土牛國民小學附設幼兒園",
+        "owner": "詹鍾松",
+        "city": "臺中市",
+        "town": "石岡區",
+        "type": "公立",
+        "address": "[422]豐勢路308號",
+        "floor": "1樓",
+        "size": "573.69平方公尺",
+        "size_in": "308.69平方公尺",
+        "size_out": "265平方公尺",
+        "tel": "(04)25816043#601",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b2b186b1-cf09-42bb-88fb-f5ccd7fce4a6",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.807789,
+            24.265987
+        ]
+    }
+}

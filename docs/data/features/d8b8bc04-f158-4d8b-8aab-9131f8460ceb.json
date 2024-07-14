@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101048454號",
+        "reg_docno": "府教國字第053799號",
+        "reg_date": "1997\/04\/02",
+        "title": "臺南市南化區瑞峰國民小學附設幼兒園",
+        "owner": "王怡仁",
+        "city": "臺南市",
+        "town": "南化區",
+        "type": "公立",
+        "address": "[716]96號",
+        "floor": "1樓",
+        "size": "197平方公尺",
+        "size_in": "72平方公尺",
+        "size_out": "125平方公尺",
+        "tel": "(06)5770093#172",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d8b8bc04-f158-4d8b-8aab-9131f8460ceb",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.595397,
+            23.173717
+        ]
+    }
+}

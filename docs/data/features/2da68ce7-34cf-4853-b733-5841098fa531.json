@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121484663號",
+        "reg_docno": "南市社兒字第227226號",
+        "reg_date": "2001\/08\/20",
+        "title": "臺南市立小康幼兒園",
+        "owner": "林貴香",
+        "city": "臺南市",
+        "town": "北區",
+        "type": "公立",
+        "address": "[704]大武街502巷1號",
+        "floor": "1樓、2樓",
+        "size": "1,289.16平方公尺",
+        "size_in": "540.6平方公尺",
+        "size_out": "748.56平方公尺",
+        "tel": "(06)2815947",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2da68ce7-34cf-4853-b733-5841098fa531",
+        "monthly": 3484
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.220778,
+            23.017044
+        ]
+    }
+}

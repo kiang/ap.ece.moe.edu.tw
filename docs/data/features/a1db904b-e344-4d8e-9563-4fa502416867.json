@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前貳字第1040214240號",
+        "reg_docno": "基府社福字第050147號",
+        "reg_date": "2004\/04\/06",
+        "title": "基隆市私立吉貝兒幼兒園",
+        "owner": "黃進聰",
+        "city": "基隆市",
+        "town": "暖暖區",
+        "type": "私立",
+        "address": "[205]暖碇路153、155號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24580023",
+        "url": "",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a1db904b-e344-4d8e-9563-4fa502416867",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7579008,
+            25.0978521
+        ]
+    }
+}

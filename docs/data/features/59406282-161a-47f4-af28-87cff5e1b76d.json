@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110244713號",
+        "reg_docno": "府教幼字第1040350894號",
+        "reg_date": "2015\/08\/31",
+        "title": "彰化縣員林市青山國民小學附設幼兒園",
+        "owner": "陳俊文",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "公立",
+        "address": "[510]泉洲巷3號",
+        "floor": "1樓",
+        "size": "691平方公尺",
+        "size_in": "391平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(04)8310401#703",
+        "url": "https:\/\/chcses7.blogspot.tw\/",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "59406282-161a-47f4-af28-87cff5e1b76d",
+        "monthly": 3542
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6022194,
+            23.9441895
+        ]
+    }
+}

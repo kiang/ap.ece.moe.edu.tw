@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1120420667號",
+        "reg_docno": "南市教特(一)字第1041008341號",
+        "reg_date": "2015\/10\/13",
+        "title": "臺南市私立愛因斯坦資優幼兒園",
+        "owner": "謝文欽",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]安吉路一段142號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2555565",
+        "url": "",
+        "count_approved": "275",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ce4125e8-6664-4f42-a256-f89ab05bba2e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.188199,
+            23.044048
+        ]
+    }
+}

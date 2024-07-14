@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130038378號",
+        "reg_docno": "中市教幼字第1050040538號",
+        "reg_date": "2016\/06\/27",
+        "title": "臺中市私立崇德愛子幼兒園",
+        "owner": "和田芽衣",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]崇德九路617號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24225777",
+        "url": "www.ai-ko.com",
+        "count_approved": "287",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "135365cf-796c-4dbe-857a-06f9e6ae5344",
+        "monthly": 16600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6829758,
+            24.1868242
+        ]
+    }
+}

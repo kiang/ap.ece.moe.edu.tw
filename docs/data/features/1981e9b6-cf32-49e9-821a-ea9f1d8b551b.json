@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1050062124號",
+        "reg_docno": "(66)坊字第10592號",
+        "reg_date": "1977\/08\/01",
+        "title": "金門縣金城鎮賢庵國民小學附設幼兒園",
+        "owner": "楊肅健",
+        "city": "金門縣",
+        "town": "金城鎮",
+        "type": "公立",
+        "address": "[893]庵前18之2號",
+        "floor": "1",
+        "size": "809平方公尺",
+        "size_in": "709平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(082)325463",
+        "url": "http:\/\/www.saps.km.edu.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1981e9b6-cf32-49e9-821a-ea9f1d8b551b",
+        "monthly": 1578
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.318816,
+            24.418007
+        ]
+    }
+}

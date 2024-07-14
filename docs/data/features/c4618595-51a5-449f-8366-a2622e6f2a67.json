@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080045003F號",
+        "reg_docno": "府社幼字第1000391276號",
+        "reg_date": "1994\/09\/24",
+        "title": "彰化縣溪州鄉立幼兒園舊眉分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "溪州鄉",
+        "type": "公立",
+        "address": "[524]登山路四段27號",
+        "floor": "1樓",
+        "size": "337.33平方公尺",
+        "size_in": "217.79平方公尺",
+        "size_out": "119.54平方公尺",
+        "tel": "(04)8896100#301",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c4618595-51a5-449f-8366-a2622e6f2a67",
+        "monthly": 3582
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5119696,
+            23.8521855
+        ]
+    }
+}

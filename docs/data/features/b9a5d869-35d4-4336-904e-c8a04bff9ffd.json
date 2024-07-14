@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120146768號",
+        "reg_docno": "府教特字第1100141371號",
+        "reg_date": "2021\/08\/01",
+        "title": "宜蘭縣冬山鄉廣興國民小學附設幼兒園",
+        "owner": "何昶毅",
+        "city": "宜蘭縣",
+        "town": "冬山鄉",
+        "type": "公立",
+        "address": "[269]梅花路303號",
+        "floor": "1樓",
+        "size": "371.75平方公尺",
+        "size_in": "242.75平方公尺",
+        "size_out": "129平方公尺",
+        "tel": "(03)9513484#302",
+        "url": "https:\/\/www.kses.ilc.edu.tw\/",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b9a5d869-35d4-4336-904e-c8a04bff9ffd",
+        "monthly": 2766
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7425689,
+            24.665572
+        ]
+    }
+}

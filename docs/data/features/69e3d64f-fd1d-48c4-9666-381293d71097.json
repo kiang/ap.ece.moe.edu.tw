@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第257-1號",
+        "reg_docno": "北市社五字第09238478200號",
+        "reg_date": "2003\/08\/13",
+        "title": "臺北市私立巧琪幼兒園",
+        "owner": "許書珊",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]信義路四段265巷31弄26號1樓",
+        "floor": "1樓",
+        "size": "132.17平方公尺",
+        "size_in": "132.17平方公尺",
+        "size_out": "",
+        "tel": "(02)27068376",
+        "url": "dollymom2021@gmail.com",
+        "count_approved": "28",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "f5ad4af7-b5de-4f4a-91fe-709734c89ac6",
+        "monthly": 18660
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5559445,
+            25.0341284
+        ]
+    }
+}

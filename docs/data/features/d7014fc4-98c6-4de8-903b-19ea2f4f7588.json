@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060114275號",
+        "reg_docno": "中市府社婦字第9110號",
+        "reg_date": "2002\/03\/22",
+        "title": "臺中市私立小豆芽幼兒園",
+        "owner": "余美珠",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]向上南路一段163之8號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24732773",
+        "url": "",
+        "count_approved": "156",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d7014fc4-98c6-4de8-903b-19ea2f4f7588",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.654557,
+            24.144773
+        ]
+    }
+}

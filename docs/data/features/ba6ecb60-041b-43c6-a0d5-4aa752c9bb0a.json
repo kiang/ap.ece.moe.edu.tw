@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第412–2號",
+        "reg_docno": "北市教幼字第09740513900號",
+        "reg_date": "2005\/08\/12",
+        "title": "臺北市內湖區麗湖國民小學附設幼兒園",
+        "owner": "蔡素惠",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "公立",
+        "address": "[114]金湖路363巷8號",
+        "floor": "1至3樓",
+        "size": "3,000平方公尺",
+        "size_in": "2,000平方公尺",
+        "size_out": "1,000平方公尺",
+        "tel": "(02)26343888#600",
+        "url": "http:\/\/class.lhes.tp.edu.tw\/eweb\/?home=ew00000000001",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ba6ecb60-041b-43c6-a0d5-4aa752c9bb0a",
+        "monthly": 7490
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.601146,
+            25.072992
+        ]
+    }
+}

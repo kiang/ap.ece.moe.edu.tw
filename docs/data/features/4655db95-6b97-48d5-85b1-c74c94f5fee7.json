@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1020044700號",
+        "reg_docno": "府教國字第50828號",
+        "reg_date": "1981\/07\/31",
+        "title": "花蓮縣私立親親蝴蝶城堡幼兒園",
+        "owner": "陳碧連",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "私立",
+        "address": "[970]建國路107巷26之1號",
+        "floor": "1",
+        "size": "938.8平方公尺",
+        "size_in": "208.12平方公尺",
+        "size_out": "730.68平方公尺",
+        "tel": "(03)8356088#2225",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4655db95-6b97-48d5-85b1-c74c94f5fee7",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6019999,
+            23.9827139
+        ]
+    }
+}

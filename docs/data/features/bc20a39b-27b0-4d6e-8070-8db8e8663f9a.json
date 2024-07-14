@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130121403號",
+        "reg_docno": "府教幼字第1130121403號",
+        "reg_date": "2024\/04\/12",
+        "title": "彰化縣私立鹿鳴村幼兒園",
+        "owner": "謝沂廷",
+        "city": "彰化縣",
+        "town": "鹿港鎮",
+        "type": "私立",
+        "address": "[505]頂草路二段410-2號",
+        "floor": "1樓",
+        "size": "2,343.01平方公尺",
+        "size_in": "1,323.47平方公尺",
+        "size_out": "1,019.54平方公尺",
+        "tel": "(04)7711616",
+        "url": "",
+        "count_approved": "316",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bc20a39b-27b0-4d6e-8070-8db8e8663f9a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.472635,
+            24.095947
+        ]
+    }
+}

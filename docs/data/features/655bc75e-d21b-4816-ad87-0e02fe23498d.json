@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120027577號",
+        "reg_docno": "府教幼字第1120027577號",
+        "reg_date": "2023\/02\/16",
+        "title": "桃園市私立世懿幼兒園",
+        "owner": "彭鈺幃",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]中園路121號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4511122",
+        "url": "",
+        "count_approved": "61",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "655bc75e-d21b-4816-ad87-0e02fe23498d",
+        "monthly": 16200
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2363239,
+            24.9675407
+        ]
+    }
+}

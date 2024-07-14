@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120267074號",
+        "reg_docno": "府教幼字第1050185358號",
+        "reg_date": "2016\/08\/01",
+        "title": "桃園市復興區霞雲國民小學附設幼兒園",
+        "owner": "羅幼蓮",
+        "city": "桃園市",
+        "town": "復興區",
+        "type": "公立",
+        "address": "[336]流霞路151號",
+        "floor": "1樓",
+        "size": "300平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "150平方公尺",
+        "tel": "(03)3822224#80",
+        "url": "www.hyps.tyc.edu.tw",
+        "count_approved": "46",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "81892385-5568-48b8-b72e-dcb7437244fc",
+        "monthly": 4005
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2890667,
+            24.8805459
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1100929602號",
+        "reg_docno": "府社福字第145105號",
+        "reg_date": "2001\/10\/02",
+        "title": "私立中華醫事科技大學附設臺南市幼兒園",
+        "owner": "孫逸民",
+        "city": "臺南市",
+        "town": "仁德區",
+        "type": "私立",
+        "address": "[717]文華一街89號",
+        "floor": "一樓",
+        "size": "1,816.11平方公尺",
+        "size_in": "826.11平方公尺",
+        "size_out": "990平方公尺",
+        "tel": "(06)2671214#910",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c6dc9f9c-effa-4129-b804-3b07e0d35189",
+        "monthly": 16360
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.243231,
+            22.960922
+        ]
+    }
+}

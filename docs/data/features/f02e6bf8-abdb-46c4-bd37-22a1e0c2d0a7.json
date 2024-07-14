@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10135299800號",
+        "reg_docno": "高市社局五字第18180號",
+        "reg_date": "1998\/07\/13",
+        "title": "高雄市私立黛安娜幼兒園",
+        "owner": "張來喜",
+        "city": "高雄市",
+        "town": "鼓山區",
+        "type": "私立",
+        "address": "[804]臨海二路41之1號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)5336969",
+        "url": "",
+        "count_approved": "37",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f02e6bf8-abdb-46c4-bd37-22a1e0c2d0a7",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.272077,
+            22.622717
+        ]
+    }
+}

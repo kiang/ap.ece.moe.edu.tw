@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090049597號",
+        "reg_docno": "府教幼字第1050013364號",
+        "reg_date": "2016\/01\/20",
+        "title": "桃園市私立奧爾堡幼兒園",
+        "owner": "羅以凌",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]雙福路145-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4901008",
+        "url": "",
+        "count_approved": "124",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f9a774af-5f8c-40b7-bc3a-103c628d3baa",
+        "monthly": 13267
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1776458,
+            24.9619101
+        ]
+    }
+}

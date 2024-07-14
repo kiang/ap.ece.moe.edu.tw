@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1120257399號",
+        "reg_docno": "基府教前貳字第1090243117號",
+        "reg_date": "2020\/08\/01",
+        "title": "基隆市南榮非營利幼兒園(委託財團法人伊甸社會福利基金會辦理)",
+        "owner": "羅紀琼",
+        "city": "基隆市",
+        "town": "仁愛區",
+        "type": "非營利",
+        "address": "[200]南榮路319巷36號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,665.05平方公尺",
+        "size_in": "865.05平方公尺",
+        "size_out": "800平方公尺",
+        "tel": "(02)24280690",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5b30e1a8-26f9-4a05-918e-7ff8bbc2eecb",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7460791,
+            25.1201786
+        ]
+    }
+}

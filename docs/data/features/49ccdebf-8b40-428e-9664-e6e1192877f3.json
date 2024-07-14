@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090210224號",
+        "reg_docno": "府教幼字第1090210224號",
+        "reg_date": "2020\/08\/26",
+        "title": "桃園市光峰非營利幼兒園（委託社團法人新北市巧湖溫馨關懷發展協會辦理）幸福分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "非營利",
+        "address": "[333]中興路100巷20號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3590281",
+        "url": "桃園市龜山區中興路100巷20號",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "49ccdebf-8b40-428e-9664-e6e1192877f3",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3318389,
+            24.9880026
+        ]
+    }
+}

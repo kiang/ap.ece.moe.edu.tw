@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010036701號",
+        "reg_docno": "府社幼字第0980229025號",
+        "reg_date": "1989\/07\/07",
+        "title": "臺中市私立欣達幼兒園",
+        "owner": "林益年",
+        "city": "臺中市",
+        "town": "外埔區",
+        "type": "私立",
+        "address": "[438]六分路123之1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26839992",
+        "url": "臺中市外埔區永豐里六分路123-1號",
+        "count_approved": "170",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a5b4eef3-739b-4395-a83c-3f9b266fad36",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.654535,
+            24.331904
+        ]
+    }
+}

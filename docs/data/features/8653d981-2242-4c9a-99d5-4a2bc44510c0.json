@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1130290323號",
+        "reg_docno": "府教國字第120361號",
+        "reg_date": "1978\/11\/25",
+        "title": "臺南市私立聖名幼兒園",
+        "owner": "黃敏正",
+        "city": "臺南市",
+        "town": "新化區",
+        "type": "私立",
+        "address": "[712]中山路532號",
+        "floor": "1樓",
+        "size": "1,437.91平方公尺",
+        "size_in": "159.9平方公尺",
+        "size_out": "1,278.01平方公尺",
+        "tel": "(06)5982235",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8653d981-2242-4c9a-99d5-4a2bc44510c0",
+        "monthly": 12400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.302057,
+            23.036025
+        ]
+    }
+}

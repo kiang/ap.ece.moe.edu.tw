@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122440384號",
+        "reg_docno": "府教特一字第1122412048號",
+        "reg_date": "2023\/03\/14",
+        "title": "雲林縣私立美樹家幼兒園",
+        "owner": "林惠玲",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "私立",
+        "address": "[640]斗六六路118號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5513133",
+        "url": "",
+        "count_approved": "143",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "836bf48d-9b3f-44cb-92fc-a8c2cd7763b8",
+        "monthly": 11833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5351908,
+            23.7182805
+        ]
+    }
+}

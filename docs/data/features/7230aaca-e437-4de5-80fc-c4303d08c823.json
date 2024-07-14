@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110152761號",
+        "reg_docno": "75府教國字第11914號",
+        "reg_date": "1986\/02\/05",
+        "title": "苗栗縣私立芳仁紀念幼兒園",
+        "owner": "劉富明",
+        "city": "苗栗縣",
+        "town": "苗栗市",
+        "type": "私立",
+        "address": "[360]福華街23號",
+        "floor": "1樓、2樓",
+        "size": "3,044.85平方公尺",
+        "size_in": "1,161平方公尺",
+        "size_out": "1,833.85平方公尺",
+        "tel": "(037)264512",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7230aaca-e437-4de5-80fc-c4303d08c823",
+        "monthly": 6500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.826187,
+            24.576445
+        ]
+    }
+}

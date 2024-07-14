@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040050319號",
+        "reg_docno": "中市府社福字第8712號",
+        "reg_date": "1998\/09\/08",
+        "title": "臺中市私立慈英幼兒園",
+        "owner": "魏麗華",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]永福路22巷37、39號",
+        "floor": "1樓、2樓",
+        "size": "423.99平方公尺",
+        "size_in": "351.08平方公尺",
+        "size_out": "72.91平方公尺",
+        "tel": "(04)24633779",
+        "url": "",
+        "count_approved": "73",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：13",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6a6e903c-ca6b-41b7-a5e5-730ce7dc2cc3",
+        "monthly": 11429
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.620865,
+            24.181488
+        ]
+    }
+}

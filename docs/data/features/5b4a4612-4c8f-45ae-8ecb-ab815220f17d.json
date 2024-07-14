@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字字第8號",
+        "reg_docno": "北市教前字第11130109941號",
+        "reg_date": "2022\/07\/28",
+        "title": "臺北市多元教育職場互助教保服務中心",
+        "owner": "周慧芬",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]天母北路61號3樓、61之1號3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "0926046343",
+        "url": "",
+        "count_approved": "57",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5b4a4612-4c8f-45ae-8ecb-ab815220f17d",
+        "monthly": 15640
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.527087,
+            25.1214531
+        ]
+    }
+}

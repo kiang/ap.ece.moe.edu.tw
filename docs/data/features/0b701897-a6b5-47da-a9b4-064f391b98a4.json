@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119551329號",
+        "reg_docno": "府教幼字第1083715182號",
+        "reg_date": "2019\/05\/30",
+        "title": "新竹縣私立張遇文幼兒園",
+        "owner": "張逸",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "私立",
+        "address": "[303]達生路626號",
+        "floor": "1樓",
+        "size": "814.1平方公尺",
+        "size_in": "403.04平方公尺",
+        "size_out": "411.06平方公尺",
+        "tel": "(03)6992613",
+        "url": "hsinhuchekwen@gmail.com",
+        "count_approved": "85",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "0b701897-a6b5-47da-a9b4-064f391b98a4",
+        "monthly": 18167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0442556,
+            24.8964482
+        ]
+    }
+}

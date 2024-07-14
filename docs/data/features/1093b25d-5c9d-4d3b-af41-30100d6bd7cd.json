@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第813號",
+        "reg_docno": "北市教前字第11230309211號",
+        "reg_date": "2023\/08\/04",
+        "title": "臺北市亭中非營利幼兒園(委託財團法人海棠文教基金會辦理)",
+        "owner": "朱鳳芝",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "非營利",
+        "address": "[108]中華路二段606巷3號(古亭國中第二校區內)",
+        "floor": "1樓、2樓",
+        "size": "606.98平方公尺",
+        "size_in": "472.03平方公尺",
+        "size_out": "134.95平方公尺",
+        "tel": "(02)2332-0289",
+        "url": "https:\/\/www.facebook.com\/gutoing112",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1093b25d-5c9d-4d3b-af41-30100d6bd7cd",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5101018,
+            25.0235878
+        ]
+    }
+}

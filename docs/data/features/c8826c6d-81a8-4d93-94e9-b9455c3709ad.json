@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前貳字第1060213505號",
+        "reg_docno": "基府教前貳字第1060213505號",
+        "reg_date": "2017\/04\/20",
+        "title": "基隆市私立小象文教幼兒園",
+        "owner": "張秀宇",
+        "city": "基隆市",
+        "town": "七堵區",
+        "type": "私立",
+        "address": "[206]明德一路322號",
+        "floor": "1樓、2樓、3樓",
+        "size": "738.23平方公尺",
+        "size_in": "497.23平方公尺",
+        "size_out": "241平方公尺",
+        "tel": "(02)24558877",
+        "url": "sharon1004@kimo.com",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c8826c6d-81a8-4d93-94e9-b9455c3709ad",
+        "monthly": 10833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7103663,
+            25.0937787
+        ]
+    }
+}

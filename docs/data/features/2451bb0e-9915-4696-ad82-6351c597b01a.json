@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060216605號",
+        "reg_docno": "府教幼字第1030236346號",
+        "reg_date": "2014\/09\/30",
+        "title": "桃園市私立崇皓幼兒園",
+        "owner": "陳寶鳳",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]中大路150巷123、125、127號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4229819",
+        "url": "",
+        "count_approved": "360",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：60",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2451bb0e-9915-4696-ad82-6351c597b01a",
+        "monthly": 10091
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1998284,
+            24.9694177
+        ]
+    }
+}

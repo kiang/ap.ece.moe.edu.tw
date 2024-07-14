@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599三重0040之1號",
+        "reg_docno": "八四北府教一字第122555號",
+        "reg_date": "1995\/04\/14",
+        "title": "新北市三重區厚德國民小學附設幼兒園",
+        "owner": "潘志忠",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "公立",
+        "address": "[241]忠孝路一段70號1樓",
+        "floor": "1樓",
+        "size": "908.28平方公尺",
+        "size_in": "638.28平方公尺",
+        "size_out": "270平方公尺",
+        "tel": "(02)29868825#54",
+        "url": "http:\/\/www.hdes.ntpc.edu.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b6804254-ae3f-4b99-808e-3ca14d856f28",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.48906,
+            25.0718759
+        ]
+    }
+}

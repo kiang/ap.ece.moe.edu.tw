@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680新莊0128號",
+        "reg_docno": "新北府教幼字第1061941111號",
+        "reg_date": "2017\/09\/30",
+        "title": "新北市私立成德菁英幼兒園",
+        "owner": "林國霖",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]民安東路66號1、2、3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22036555",
+        "url": "",
+        "count_approved": "705",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a2f55b05-29a6-429c-86e4-c6d0d7d386b7",
+        "monthly": 17000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4299914,
+            25.0205795
+        ]
+    }
+}

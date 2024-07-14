@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100066554號",
+        "reg_docno": "中市教幼字第1100066554號",
+        "reg_date": "2021\/09\/06",
+        "title": "衛生福利部中區兒童之家職場互助教保服務中心",
+        "owner": "林以凱",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "私立",
+        "address": "[403]大明街27號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22249799",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c796ee6f-1c1b-487a-bb55-ae6d714bc34f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.674204,
+            24.139315
+        ]
+    }
+}

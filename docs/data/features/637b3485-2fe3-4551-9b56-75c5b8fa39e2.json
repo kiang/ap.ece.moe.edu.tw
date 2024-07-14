@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1101187641號",
+        "reg_docno": "89北府社兒字第89242199號",
+        "reg_date": "2000\/06\/20",
+        "title": "新北市私立漢東幼兒園",
+        "owner": "郭慧姝",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]漢生東路175號1樓及2樓",
+        "floor": "1樓和2樓",
+        "size": "430.98平方公尺",
+        "size_in": "430.98平方公尺",
+        "size_out": "",
+        "tel": "(02)89521219",
+        "url": "",
+        "count_approved": "130",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "637b3485-2fe3-4551-9b56-75c5b8fa39e2",
+        "monthly": 15751
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.470433,
+            25.011582
+        ]
+    }
+}

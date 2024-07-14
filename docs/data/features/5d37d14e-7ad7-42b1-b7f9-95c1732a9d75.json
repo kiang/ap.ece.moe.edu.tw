@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1060171264號",
+        "reg_docno": "府教特字第0940038058號",
+        "reg_date": "2005\/05\/16",
+        "title": "臺東縣蘭嶼鄉椰油國民小學附設幼兒園",
+        "owner": "陳淑雯",
+        "city": "臺東縣",
+        "town": "蘭嶼鄉",
+        "type": "公立",
+        "address": "[952]1號",
+        "floor": "1樓",
+        "size": "4,318.72平方公尺",
+        "size_in": "138.72平方公尺",
+        "size_out": "4,180平方公尺",
+        "tel": "(089)732017#16",
+        "url": "台東縣蘭嶼鄉椰油村1號",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5d37d14e-7ad7-42b1-b7f9-95c1732a9d75",
+        "monthly": 3611
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.51709,
+            22.045555
+        ]
+    }
+}

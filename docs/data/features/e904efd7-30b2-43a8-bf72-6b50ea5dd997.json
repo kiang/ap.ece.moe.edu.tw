@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110236857號",
+        "reg_docno": "府教幼字第1080215905號",
+        "reg_date": "2019\/08\/27",
+        "title": "桃園市快樂非營利幼兒園(委託社團法人台灣幼兒早期教育協會辦理)",
+        "owner": "劉百純",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "非營利",
+        "address": "[330]大有路789號",
+        "floor": "1樓",
+        "size": "1,021平方公尺",
+        "size_in": "703平方公尺",
+        "size_out": "318平方公尺",
+        "tel": "(03)3150129",
+        "url": "評鑑情形：",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e904efd7-30b2-43a8-bf72-6b50ea5dd997",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3156166,
+            25.0187121
+        ]
+    }
+}

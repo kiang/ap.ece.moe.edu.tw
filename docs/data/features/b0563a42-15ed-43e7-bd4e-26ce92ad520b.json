@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090190831號",
+        "reg_docno": "府教特字第0943003569號",
+        "reg_date": "2005\/01\/31",
+        "title": "臺東縣金峰鄉新興國民小學附設幼兒園",
+        "owner": "李惠敏",
+        "city": "臺東縣",
+        "town": "金峰鄉",
+        "type": "公立",
+        "address": "[964]1號",
+        "floor": "1樓",
+        "size": "476平方公尺",
+        "size_in": "251平方公尺",
+        "size_out": "225平方公尺",
+        "tel": "(089)781687#302",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b0563a42-15ed-43e7-bd4e-26ce92ad520b",
+        "monthly": 4167
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.003771,
+            22.631094
+        ]
+    }
+}

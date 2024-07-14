@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1071518811號",
+        "reg_docno": "89府教特字第24836號",
+        "reg_date": "2000\/04\/01",
+        "title": "嘉義市私立愛兒堡幼兒園",
+        "owner": "劉佳宜",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]世賢路二段67號",
+        "floor": "1樓至2樓",
+        "size": "1,329.55平方公尺",
+        "size_in": "667.36平方公尺",
+        "size_out": "662.19平方公尺",
+        "tel": "(05)2339888",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "05b8c55a-4878-4c36-bf9e-33f95b2fe301",
+        "monthly": 9700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.422199,
+            23.482552
+        ]
+    }
+}

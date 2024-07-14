@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620蘆洲0066號",
+        "reg_docno": "七五北府教二字第283484號",
+        "reg_date": "1986\/09\/05",
+        "title": "新北市私立蘆洲北大幼兒園",
+        "owner": "黃吉郎",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]三民路臨86號",
+        "floor": "1樓",
+        "size": "1,305平方公尺",
+        "size_in": "180平方公尺",
+        "size_out": "1,125平方公尺",
+        "tel": "(02)22810602",
+        "url": "http:\/\/www.pdcs.com.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "3ab18c31-7995-4902-bc5e-0ca0157b9858",
+        "monthly": 14833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4683477,
+            25.0894398
+        ]
+    }
+}

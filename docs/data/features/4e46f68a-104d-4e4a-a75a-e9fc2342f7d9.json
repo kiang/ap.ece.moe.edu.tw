@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0045之1號",
+        "reg_docno": "八八北府社四字第88352800號",
+        "reg_date": "1999\/12\/31",
+        "title": "新北市私立嘉煌幼兒園",
+        "owner": "陳秋娟",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]中山路2段63、65號各1、2、3樓",
+        "floor": "1~3樓",
+        "size": "431.77平方公尺",
+        "size_in": "431.77平方公尺",
+        "size_out": "",
+        "tel": "(02)22446566",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4e46f68a-104d-4e4a-a75a-e9fc2342f7d9",
+        "monthly": 16487
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.504198,
+            25.004592
+        ]
+    }
+}

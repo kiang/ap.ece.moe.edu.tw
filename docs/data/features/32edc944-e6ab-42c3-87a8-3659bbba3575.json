@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680蘆洲0030之2號",
+        "reg_docno": "北府兒福字第732-1號",
+        "reg_date": "2001\/03\/13",
+        "title": "新北市私立兜群育資優幼兒園",
+        "owner": "陳和順",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]永平街53,55號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22897228",
+        "url": "http:\/\/happy.woby.com.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "32edc944-e6ab-42c3-87a8-3659bbba3575",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.459549,
+            25.0911541
+        ]
+    }
+}

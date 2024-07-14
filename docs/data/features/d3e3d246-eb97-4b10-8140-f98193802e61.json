@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10834700900號",
+        "reg_docno": "高市教三字第0940025816號",
+        "reg_date": "2005\/07\/29",
+        "title": "高雄市私立華頓幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]新下街270號",
+        "floor": "1-3F",
+        "size": "2,101.68平方公尺",
+        "size_in": "1,321.18平方公尺",
+        "size_out": "780.5平方公尺",
+        "tel": "(07)5586602",
+        "url": "",
+        "count_approved": "240",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d3e3d246-eb97-4b10-8140-f98193802e61",
+        "monthly": 17300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.304676,
+            22.6687585
+        ]
+    }
+}

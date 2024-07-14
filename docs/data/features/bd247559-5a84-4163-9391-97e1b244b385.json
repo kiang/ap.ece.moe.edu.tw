@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11139810700號",
+        "reg_docno": "高市教幼字第11036702300號",
+        "reg_date": "2021\/10\/01",
+        "title": "高雄市三塊厝非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+        "owner": "郭淑雅",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "非營利",
+        "address": "[807]建國三路216號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,647.37平方公尺",
+        "size_in": "900平方公尺",
+        "size_out": "747.37平方公尺",
+        "tel": "(07)2151556",
+        "url": "評鑑情形：",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bd247559-5a84-4163-9391-97e1b244b385",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2913573,
+            22.6365463
+        ]
+    }
+}

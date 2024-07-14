@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110129013號",
+        "reg_docno": "八七府教國字第24643號",
+        "reg_date": "1998\/04\/07",
+        "title": "新竹市東區龍山國民小學附設幼兒園",
+        "owner": "陳彩文",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "公立",
+        "address": "[300]光復路一段574號",
+        "floor": "1樓",
+        "size": "761.27平方公尺",
+        "size_in": "401.27平方公尺",
+        "size_out": "360平方公尺",
+        "tel": "(03)5646674",
+        "url": "https:\/\/www.lsps.hc.edu.tw\/nss\/p\/kindergarten1",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "80882a5c-c889-4137-ae13-b6a70d354490",
+        "monthly": 3729
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.007214,
+            24.789465
+        ]
+    }
+}

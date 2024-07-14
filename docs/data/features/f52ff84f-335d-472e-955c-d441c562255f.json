@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11233339300號",
+        "reg_docno": "高市教育三字第22053號",
+        "reg_date": "1986\/07\/28",
+        "title": "高雄市私立義華幼兒園",
+        "owner": "陳士典",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]應安街112號",
+        "floor": "1-2",
+        "size": "985.48平方公尺",
+        "size_in": "655.48平方公尺",
+        "size_out": "330平方公尺",
+        "tel": "(07)3834406",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f52ff84f-335d-472e-955c-d441c562255f",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.337965,
+            22.641461
+        ]
+    }
+}

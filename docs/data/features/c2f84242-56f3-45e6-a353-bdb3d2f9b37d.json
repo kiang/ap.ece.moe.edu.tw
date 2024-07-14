@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080250047號",
+        "reg_docno": "府教幼字第1080189697號",
+        "reg_date": "2019\/08\/01",
+        "title": "桃園市立仁和國民中學附設幼兒園",
+        "owner": "張美珍",
+        "city": "桃園市",
+        "town": "大溪區",
+        "type": "公立",
+        "address": "[335]仁和七街55號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3906626#130",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c2f84242-56f3-45e6-a353-bdb3d2f9b37d",
+        "monthly": 5083
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2739164,
+            24.894726
+        ]
+    }
+}

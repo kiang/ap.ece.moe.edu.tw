@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060019740號",
+        "reg_docno": "中市教幼字第1000032888號",
+        "reg_date": "2011\/06\/03",
+        "title": "臺中市私立大都會逢甲幼兒園",
+        "owner": "廖祿昇",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]福吉街159號",
+        "floor": "1-3F",
+        "size": "2,923平方公尺",
+        "size_in": "2,200平方公尺",
+        "size_out": "723平方公尺",
+        "tel": "(04)24510288",
+        "url": "www.leaderesl.com.tw",
+        "count_approved": "390",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5811baf3-c2f8-4a4a-a425-98171c25fcd5",
+        "monthly": 12000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.640359,
+            24.183608
+        ]
+    }
+}

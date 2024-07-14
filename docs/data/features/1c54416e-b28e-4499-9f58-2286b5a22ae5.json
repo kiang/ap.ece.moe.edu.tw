@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11035186100號",
+        "reg_docno": "高市教幼字第10937251400號",
+        "reg_date": "2020\/10\/08",
+        "title": "高雄市文府非營利幼兒園(委託社團法人東台灣幼兒教保專業促進協會辦理)",
+        "owner": "黃春玉",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "非營利",
+        "address": "[813]文府路401之1號",
+        "floor": "1樓、2樓、3樓",
+        "size": "4,172.814平方公尺",
+        "size_in": "1,198.72平方公尺",
+        "size_out": "2,974.094平方公尺",
+        "tel": "(07)3500078",
+        "url": "https:\/\/www.facebook.com\/wunfu2020",
+        "count_approved": "196",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1c54416e-b28e-4499-9f58-2286b5a22ae5",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.316612,
+            22.6916552
+        ]
+    }
+}

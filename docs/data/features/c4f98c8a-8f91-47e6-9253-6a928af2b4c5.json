@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070188775號",
+        "reg_docno": "府社福字第64772號",
+        "reg_date": "1997\/04\/10",
+        "title": "桃園市文德非營利幼兒園（委託財團法人靖娟兒童安全文教基金會辦理）",
+        "owner": "林志嘉",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "非營利",
+        "address": "[333]文德二路88號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3979511",
+        "url": "評鑑情形：",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c4f98c8a-8f91-47e6-9253-6a928af2b4c5",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3816714,
+            25.0537738
+        ]
+    }
+}

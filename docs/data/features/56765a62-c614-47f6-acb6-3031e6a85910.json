@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010140621號",
+        "reg_docno": "府社婦字第0933008996號",
+        "reg_date": "2004\/09\/13",
+        "title": "臺東縣私立青荳芽幼兒園",
+        "owner": "王筱蘭",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "私立",
+        "address": "[950]連航路89巷35號",
+        "floor": "一樓",
+        "size": "11,397.35平方公尺",
+        "size_in": "935.95平方公尺",
+        "size_out": "10,460.7平方公尺",
+        "tel": "(089)230999",
+        "url": "",
+        "count_approved": "195",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "56765a62-c614-47f6-acb6-3031e6a85910",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1235092,
+            22.7730049
+        ]
+    }
+}

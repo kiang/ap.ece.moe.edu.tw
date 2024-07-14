@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130050736號",
+        "reg_docno": "74府教國字第198427號",
+        "reg_date": "1985\/10\/24",
+        "title": "臺中市私立永真幼兒園",
+        "owner": "紀碧芬",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "私立",
+        "address": "[433]鎮南路二段369號",
+        "floor": "1樓",
+        "size": "984.5平方公尺",
+        "size_in": "262.8平方公尺",
+        "size_out": "721.7平方公尺",
+        "tel": "(04)26363298",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "698cff92-ae5b-41c5-9ad7-c2cf8e03f74c",
+        "monthly": 4700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.566615,
+            24.2280969
+        ]
+    }
+}

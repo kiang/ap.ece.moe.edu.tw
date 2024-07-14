@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10136880200號",
+        "reg_docno": "高市社局四字第8032號",
+        "reg_date": "1998\/03\/25",
+        "title": "高雄市私立普津幼兒園",
+        "owner": "陳治銓",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "私立",
+        "address": "[802]廣州一街91號1.2樓",
+        "floor": "1樓、2樓",
+        "size": "354.96平方公尺",
+        "size_in": "354.96平方公尺",
+        "size_out": "",
+        "tel": "(07)7261094",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0f3de66d-96fb-4521-a442-af643cdd16f9",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.318171,
+            22.621265
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129550012號",
+        "reg_docno": "府社婦幼字第1000136503號",
+        "reg_date": "1993\/07\/01",
+        "title": "新竹縣寶山鄉立幼兒園中心分班",
+        "owner": "",
+        "city": "新竹縣",
+        "town": "寶山鄉",
+        "type": "公立",
+        "address": "[308]雙園路2段310號",
+        "floor": "1樓",
+        "size": "320.67平方公尺",
+        "size_in": "230.67平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)5201204",
+        "url": "https:\/\/www.hcpst.gov.tw\/cht\/index.php?code=list&ids=66",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a37e1aee-dd85-40c3-bda4-82d1d4218745",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.990144,
+            24.766478
+        ]
+    }
+}

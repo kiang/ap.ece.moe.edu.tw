@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040103487號",
+        "reg_docno": "桃府社福字第178557號",
+        "reg_date": "1994\/10\/06",
+        "title": "桃園市私立惠翔幼兒園",
+        "owner": "陳松峰",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "私立",
+        "address": "[337]華興路40號",
+        "floor": "1-2樓",
+        "size": "1,491.72平方公尺",
+        "size_in": "389.88平方公尺",
+        "size_out": "1,101.84平方公尺",
+        "tel": "(03)3868075",
+        "url": "http:\/\/flying.topschool.com.tw",
+        "count_approved": "200",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ea4c22b1-0601-4251-869a-be21ba5ff7ac",
+        "monthly": 8295
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.193094,
+            25.0638309
+        ]
+    }
+}

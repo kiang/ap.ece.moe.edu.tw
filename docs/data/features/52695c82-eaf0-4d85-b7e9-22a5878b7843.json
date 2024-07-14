@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10133585300號",
+        "reg_docno": "76高市教育三字第17182號",
+        "reg_date": "1987\/06\/20",
+        "title": "高雄市私立圓山幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]九如一路548巷59弄11號",
+        "floor": "1樓、2樓",
+        "size": "1,281.57平方公尺",
+        "size_in": "699.06平方公尺",
+        "size_out": "582.51平方公尺",
+        "tel": "(07)3837166",
+        "url": "http:\/\/bowjinn-060.topschool.com.tw\/",
+        "count_approved": "240",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "52695c82-eaf0-4d85-b7e9-22a5878b7843",
+        "monthly": 11833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.326415,
+            22.641292
+        ]
+    }
+}

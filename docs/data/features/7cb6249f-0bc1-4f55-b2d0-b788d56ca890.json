@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11330112100號",
+        "reg_docno": "高市教幼字字第10338629600號",
+        "reg_date": "2014\/12\/22",
+        "title": "高雄市私立金恩幼兒園",
+        "owner": "楊明潭",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]光武路7號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,923.89平方公尺",
+        "size_in": "2,187.09平方公尺",
+        "size_out": "736.8平方公尺",
+        "tel": "(07)3807575",
+        "url": "",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7cb6249f-0bc1-4f55-b2d0-b788d56ca890",
+        "monthly": 15000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3346592,
+            22.6375403
+        ]
+    }
+}

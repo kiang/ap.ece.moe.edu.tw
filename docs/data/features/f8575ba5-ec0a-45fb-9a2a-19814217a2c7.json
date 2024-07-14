@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138408800號",
+        "reg_docno": "府社福字第0940096996號",
+        "reg_date": "2005\/05\/11",
+        "title": "高雄市私立華倫幼兒園",
+        "owner": "邱鳳英",
+        "city": "高雄市",
+        "town": "美濃區",
+        "type": "私立",
+        "address": "[843]復興街二段91號",
+        "floor": "1F~3F",
+        "size": "177.38平方公尺",
+        "size_in": "145.08平方公尺",
+        "size_out": "32.3平方公尺",
+        "tel": "(07)6830656",
+        "url": "",
+        "count_approved": "35",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f8575ba5-ec0a-45fb-9a2a-19814217a2c7",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5552464,
+            22.8633471
+        ]
+    }
+}

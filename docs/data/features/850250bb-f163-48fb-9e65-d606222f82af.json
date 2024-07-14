@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1120054561號",
+        "reg_docno": "府教國字第93646號",
+        "reg_date": "1990\/09\/13",
+        "title": "苗栗縣私立名人幼兒園",
+        "owner": "蘇月媚",
+        "city": "苗栗縣",
+        "town": "頭份市",
+        "type": "私立",
+        "address": "[351]名人街8號",
+        "floor": "1樓",
+        "size": "2,611平方公尺",
+        "size_in": "495.84平方公尺",
+        "size_out": "2,115.16平方公尺",
+        "tel": "(037)664619",
+        "url": "http:\/\/mingren.urb.com.tw",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "110-112",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "ff2f6f8a-f0fa-443d-a2c8-c920e5fd0e86",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.903918,
+            24.693433
+        ]
+    }
+}

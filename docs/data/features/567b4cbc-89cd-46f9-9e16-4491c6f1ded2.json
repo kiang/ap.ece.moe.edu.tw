@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "府教國字第63778號",
+        "reg_date": "1996\/04\/20",
+        "title": "臺南市柳營區新山國民小學附設幼兒園",
+        "owner": "徐至賢",
+        "city": "臺南市",
+        "town": "柳營區",
+        "type": "公立",
+        "address": "[736]新吉庄28-1號",
+        "floor": "1樓",
+        "size": "420平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(06)6231140#207",
+        "url": "www.ss5es.tnc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "567b4cbc-89cd-46f9-9e16-4491c6f1ded2",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.387773,
+            23.266448
+        ]
+    }
+}

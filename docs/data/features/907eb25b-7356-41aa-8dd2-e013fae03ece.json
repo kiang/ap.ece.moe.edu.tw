@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1050166833號",
+        "reg_docno": "府教幼字第1030007703號",
+        "reg_date": "2014\/04\/30",
+        "title": "新竹縣私立偉大人物幼兒園",
+        "owner": "張逸",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "私立",
+        "address": "[303]達生路627號",
+        "floor": "1樓",
+        "size": "857.05平方公尺",
+        "size_in": "496.63平方公尺",
+        "size_out": "360.42平方公尺",
+        "tel": "(03)5908881",
+        "url": "",
+        "count_approved": "105",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "907eb25b-7356-41aa-8dd2-e013fae03ece",
+        "monthly": 19000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.044261,
+            24.896744
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第176-2號",
+        "reg_docno": "北市社五字第8626169400號",
+        "reg_date": "1997\/11\/24",
+        "title": "臺北市私立勁寶兒民權幼兒園",
+        "owner": "徐世雲",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]民權東路三段106巷21弄12號1樓",
+        "floor": "1樓、1層",
+        "size": "150.72平方公尺",
+        "size_in": "150.72平方公尺",
+        "size_out": "",
+        "tel": "(02)27199719",
+        "url": "www.gymbaby.com.tw",
+        "count_approved": "36",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9e8623bf-f045-4334-944c-a522235f0210",
+        "monthly": 18000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5461819,
+            25.0594594
+        ]
+    }
+}

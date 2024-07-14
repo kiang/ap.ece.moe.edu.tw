@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090190844號",
+        "reg_docno": "府教特字第0953002939號",
+        "reg_date": "2006\/01\/27",
+        "title": "臺東縣臺東市豐田國民小學附設幼兒園",
+        "owner": "黃潮源",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "公立",
+        "address": "[950]中興路4段750號",
+        "floor": "1樓",
+        "size": "275平方公尺",
+        "size_in": "100平方公尺",
+        "size_out": "175平方公尺",
+        "tel": "(089)382130",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bb27fe3c-0f6a-490b-83c5-b4d25ed9455c",
+        "monthly": 3611
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0867289,
+            22.774567
+        ]
+    }
+}

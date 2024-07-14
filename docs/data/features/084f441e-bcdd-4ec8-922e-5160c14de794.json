@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120180781號",
+        "reg_docno": "府教幼字第1120106162號",
+        "reg_date": "2023\/08\/01",
+        "title": "嘉義縣水上鄉成功國民小學附設幼兒園",
+        "owner": "林松潔",
+        "city": "嘉義縣",
+        "town": "水上鄉",
+        "type": "公立",
+        "address": "[608]153號",
+        "floor": "1樓",
+        "size": "269.92平方公尺",
+        "size_in": "182.47平方公尺",
+        "size_out": "87.45平方公尺",
+        "tel": "(05)2393485",
+        "url": "https:\/\/www.ckps.cyc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "084f441e-bcdd-4ec8-922e-5160c14de794",
+        "monthly": 3819
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4001659,
+            23.4287422
+        ]
+    }
+}

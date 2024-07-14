@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040054000號",
+        "reg_docno": "府社婦字第0930086074號",
+        "reg_date": "2004\/04\/13",
+        "title": "桃園市私立亞碩幼兒園",
+        "owner": "江存正",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]環南路66巷18弄14衖23、25、27號1樓",
+        "floor": "1",
+        "size": "223.04平方公尺",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4929806",
+        "url": "http:\/\/www.yasou.com.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9ba3e740-2838-4d11-afe0-5bc37bd067a0",
+        "monthly": 12617
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.205474,
+            24.955494
+        ]
+    }
+}

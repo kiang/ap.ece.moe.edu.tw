@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060190177號",
+        "reg_docno": "府教特字第0920174288號",
+        "reg_date": "2003\/07\/30",
+        "title": "桃園市私立瑞恩帝兒環中幼兒園",
+        "owner": "呂文彬",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]新中北路558號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4355555",
+        "url": "Http:\/\/reindeer.com.tw",
+        "count_approved": "480",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e23538f8-392b-4a6e-88a8-6ad7dd49948f",
+        "monthly": 12089
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.246882,
+            24.956987
+        ]
+    }
+}

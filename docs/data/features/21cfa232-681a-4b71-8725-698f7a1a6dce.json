@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040039172號",
+        "reg_docno": "府社福字第143703號",
+        "reg_date": "1995\/07\/22",
+        "title": "桃園市私立福星幼兒園",
+        "owner": "陳漢倫",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]中興路160號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3508055",
+        "url": "",
+        "count_approved": "130",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "21cfa232-681a-4b71-8725-698f7a1a6dce",
+        "monthly": 4700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.333395,
+            24.989916
+        ]
+    }
+}

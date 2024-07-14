@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1070783186號",
+        "reg_docno": "南市社福字第02920號",
+        "reg_date": "1985\/02\/15",
+        "title": "社團法人台南市基督教青年會附設臺南市私立青年會幼兒園",
+        "owner": "陳振傑",
+        "city": "臺南市",
+        "town": "中西區",
+        "type": "私立",
+        "address": "[700]民生路二段200號",
+        "floor": "2樓",
+        "size": "837.48平方公尺",
+        "size_in": "631.98平方公尺",
+        "size_out": "203.48平方公尺",
+        "tel": "(06)2267756",
+        "url": "www.ymca-tainan.org.tw\/sccc\/",
+        "count_approved": "129",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "36a635e2-df72-4dd0-8ade-f21b7565eff8",
+        "monthly": 11750
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.193584,
+            22.996566
+        ]
+    }
+}

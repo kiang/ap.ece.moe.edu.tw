@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138957800號",
+        "reg_docno": "府社福字第39172號",
+        "reg_date": "1974\/10\/28",
+        "title": "高雄市私立美濃幼兒園",
+        "owner": "蘇承智",
+        "city": "高雄市",
+        "town": "美濃區",
+        "type": "私立",
+        "address": "[843]合和路76號",
+        "floor": "1~2",
+        "size": "429.52平方公尺",
+        "size_in": "315.14平方公尺",
+        "size_out": "114.38平方公尺",
+        "tel": "(07)6819242",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ef5273a2-ca35-4384-9e76-567c48e313d3",
+        "monthly": 4600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.548365,
+            22.894185
+        ]
+    }
+}

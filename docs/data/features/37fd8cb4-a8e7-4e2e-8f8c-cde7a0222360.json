@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110242785號",
+        "reg_docno": "府教幼字第1040201006號",
+        "reg_date": "2015\/08\/01",
+        "title": "桃園市蘆竹區蘆竹國民小學附設幼兒園",
+        "owner": "余錦屏",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "公立",
+        "address": "[338]富國路二段850號",
+        "floor": "1樓、2樓",
+        "size": "381.654平方公尺",
+        "size_in": "201.654平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(03)3221731#118",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "37fd8cb4-a8e7-4e2e-8f8c-cde7a0222360",
+        "monthly": 4034
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2670056,
+            25.0506852
+        ]
+    }
+}

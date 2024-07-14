@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11031906700號",
+        "reg_docno": "高市社局五字第0940029776號",
+        "reg_date": "2005\/09\/06",
+        "title": "高雄市私立新蒙幼兒園",
+        "owner": "李國榮",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]大中一路121號",
+        "floor": "1~2",
+        "size": "407.835平方公尺",
+        "size_in": "297.06平方公尺",
+        "size_out": "110.775平方公尺",
+        "tel": "(07)3425052",
+        "url": "",
+        "count_approved": "42",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dcb0c555-9e52-4cc9-9b9c-9465c83dfe6b",
+        "monthly": 15600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.325776,
+            22.674846
+        ]
+    }
+}

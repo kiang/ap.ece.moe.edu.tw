@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111670680五股0004之2號",
+        "reg_docno": "北府社兒字第0930472434號",
+        "reg_date": "2004\/06\/28",
+        "title": "新北市私立芮嘉幼兒園",
+        "owner": "黃佾平",
+        "city": "新北市",
+        "town": "五股區",
+        "type": "私立",
+        "address": "[248]水碓路2號1樓、6號1樓",
+        "floor": "1",
+        "size": "172.38平方公尺",
+        "size_in": "148.24平方公尺",
+        "size_out": "",
+        "tel": "(02)82957160",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "0c78938e-e7c8-4f59-a38e-652d9b97931b",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4342529,
+            25.072366
+        ]
+    }
+}

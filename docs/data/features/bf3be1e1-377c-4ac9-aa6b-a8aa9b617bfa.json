@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120087271號",
+        "reg_docno": "府教學字第0990009456號",
+        "reg_date": "1970\/01\/01",
+        "title": "金門縣金城鎮古城國民小學附設幼兒園",
+        "owner": "董麗芬",
+        "city": "金門縣",
+        "town": "金城鎮",
+        "type": "公立",
+        "address": "[893]大古崗100號",
+        "floor": "1樓、2樓",
+        "size": "9,710.52平方公尺",
+        "size_in": "2,019.22平方公尺",
+        "size_out": "7,691.3平方公尺",
+        "tel": "(082)325274#118",
+        "url": "www.gcps.km.edu.tw",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bf3be1e1-377c-4ac9-aa6b-a8aa9b617bfa",
+        "monthly": 1578
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.312674,
+            24.401405
+        ]
+    }
+}

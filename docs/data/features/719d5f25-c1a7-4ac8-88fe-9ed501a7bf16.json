@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080392715號",
+        "reg_docno": "府教幼字第1080392715號",
+        "reg_date": "2019\/11\/05",
+        "title": "彰化縣私立天晴幼兒園",
+        "owner": "許晋維",
+        "city": "彰化縣",
+        "town": "埔心鄉",
+        "type": "私立",
+        "address": "[513]員鹿路四段269巷108號",
+        "floor": "1樓",
+        "size": "945.66平方公尺",
+        "size_in": "603.89平方公尺",
+        "size_out": "341.77平方公尺",
+        "tel": "(04)8296778",
+        "url": "",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "719d5f25-c1a7-4ac8-88fe-9ed501a7bf16",
+        "monthly": 4300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5241816,
+            23.9485064
+        ]
+    }
+}

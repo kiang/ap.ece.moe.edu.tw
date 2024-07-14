@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0009號",
+        "reg_docno": "七二北府社三字第72122661號",
+        "reg_date": "1982\/07\/01",
+        "title": "新北市私立新欣欣幼兒園",
+        "owner": "簡玉娥",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]分子尾街111號1、2樓",
+        "floor": "1樓至2樓",
+        "size": "440平方公尺",
+        "size_in": "175.5平方公尺",
+        "size_out": "264.4平方公尺",
+        "tel": "(02)28578049",
+        "url": "",
+        "count_approved": "117",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b80451d5-2b62-4fbb-8376-a25028d3c024",
+        "monthly": 15298
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.488617,
+            25.083075
+        ]
+    }
+}

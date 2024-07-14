@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080037905C號",
+        "reg_docno": "府社幼字第1000391352號",
+        "reg_date": "1994\/11\/02",
+        "title": "彰化縣田中鎮立幼兒園頂潭分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "田中鎮",
+        "type": "公立",
+        "address": "[520]崁頂路141號",
+        "floor": "1樓",
+        "size": "144平方公尺",
+        "size_in": "105.14平方公尺",
+        "size_out": "",
+        "tel": "(04)8761122#261",
+        "url": "http:\/\/www.tienchun.gov.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "eec29855-dbf7-48da-96a6-2610b06881c4",
+        "monthly": 4182
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5891337,
+            23.8714823
+        ]
+    }
+}

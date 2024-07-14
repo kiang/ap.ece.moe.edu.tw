@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11257684600號",
+        "reg_docno": "屏府教國字第33734號",
+        "reg_date": "1995\/03\/07",
+        "title": "屏東縣林邊鄉崎峰國民小學附設幼兒園",
+        "owner": "賴欣怡",
+        "city": "屏東縣",
+        "town": "林邊鄉",
+        "type": "公立",
+        "address": "[927]裕後路2號",
+        "floor": "1樓",
+        "size": "514.24平方公尺",
+        "size_in": "390.63平方公尺",
+        "size_out": "123.61平方公尺",
+        "tel": "(08)8752400#18",
+        "url": "http:\/\/www.cfps.ptc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bafec3ed-2e2d-4edd-b0ac-fb93033e8e4d",
+        "monthly": 3568
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.493943,
+            22.425862
+        ]
+    }
+}

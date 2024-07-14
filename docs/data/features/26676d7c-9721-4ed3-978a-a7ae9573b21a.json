@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060014921號",
+        "reg_docno": "府社幼字第0180號",
+        "reg_date": "1999\/11\/09",
+        "title": "臺中市私立文文幼兒園",
+        "owner": "王慧珠",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "私立",
+        "address": "[427]福潭路111號",
+        "floor": "1-3樓",
+        "size": "150.32平方公尺",
+        "size_in": "150.32平方公尺",
+        "size_out": "",
+        "tel": "(04)25391101",
+        "url": "",
+        "count_approved": "28",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "26676d7c-9721-4ed3-978a-a7ae9573b21a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7107923,
+            24.2126825
+        ]
+    }
+}

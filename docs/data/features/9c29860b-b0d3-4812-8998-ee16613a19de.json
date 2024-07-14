@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129552664號",
+        "reg_docno": "府教特字第0910057709號",
+        "reg_date": "2002\/06\/03",
+        "title": "新竹縣私立郭淑惠幼兒園",
+        "owner": "郭淑惠",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]四維街208號",
+        "floor": "1樓、2樓、3樓、3樓露台戶外空間",
+        "size": "1,339.18平方公尺",
+        "size_in": "893.88平方公尺",
+        "size_out": "445.3平方公尺",
+        "tel": "(03)5513745",
+        "url": "http:\/\/www.5513745.idv.tw",
+        "count_approved": "148",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9c29860b-b0d3-4812-8998-ee16613a19de",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.012508,
+            24.834646
+        ]
+    }
+}

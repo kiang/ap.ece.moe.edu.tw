@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110221712號",
+        "reg_docno": "府教幼字第1020206538號",
+        "reg_date": "2013\/08\/22",
+        "title": "桃園市龍潭區雙龍國民小學附設幼兒園",
+        "owner": "陳莉莉",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "公立",
+        "address": "[325]神龍路346號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4991888#660",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f983d099-e67e-4aa8-bb80-6706c8597230",
+        "monthly": 4005
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.215179,
+            24.8572912
+        ]
+    }
+}

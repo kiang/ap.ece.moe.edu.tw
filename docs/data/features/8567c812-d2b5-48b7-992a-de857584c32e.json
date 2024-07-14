@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120067675號",
+        "reg_docno": "87府教國字第120308號",
+        "reg_date": "1998\/08\/01",
+        "title": "臺中市大里區大元國民小學附設幼兒園",
+        "owner": "張舋今",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "公立",
+        "address": "[412]現岱路60號",
+        "floor": "1樓",
+        "size": "380平方公尺",
+        "size_in": "280平方公尺",
+        "size_out": "100平方公尺",
+        "tel": "(04)24834568#770",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8567c812-d2b5-48b7-992a-de857584c32e",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.689739,
+            24.1006829
+        ]
+    }
+}

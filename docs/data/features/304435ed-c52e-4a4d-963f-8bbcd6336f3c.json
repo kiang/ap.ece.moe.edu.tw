@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110118528號",
+        "reg_docno": "六八府教國字第63518號",
+        "reg_date": "1979\/08\/15",
+        "title": "新竹市東區三民國民小學附設幼兒園",
+        "owner": "陳進豐",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "公立",
+        "address": "[300]自由路66號",
+        "floor": "1樓、2樓",
+        "size": "3,199.29平方公尺",
+        "size_in": "1,900.29平方公尺",
+        "size_out": "1,299平方公尺",
+        "tel": "(03)5326345#324",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100066702727714&paipv=0&eav=AfaDgaRroQYQdWlPT_GH49_1hhZt-pXb",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "304435ed-c52e-4a4d-963f-8bbcd6336f3c",
+        "monthly": 3729
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.981334,
+            24.812821
+        ]
+    }
+}

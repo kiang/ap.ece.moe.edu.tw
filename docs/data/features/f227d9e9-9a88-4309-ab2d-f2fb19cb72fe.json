@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120068113號",
+        "reg_docno": "中市教幼字第1060073016號",
+        "reg_date": "2017\/08\/01",
+        "title": "臺中市大里區崇光國民小學附設幼兒園",
+        "owner": "劉名斐",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "公立",
+        "address": "[412]大明路181號",
+        "floor": "1樓",
+        "size": "1,258平方公尺",
+        "size_in": "1,048平方公尺",
+        "size_out": "210平方公尺",
+        "tel": "(04)24818836#5060",
+        "url": "http:\/\/kid.cgps.tc.edu.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f227d9e9-9a88-4309-ab2d-f2fb19cb72fe",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6845633,
+            24.1151411
+        ]
+    }
+}

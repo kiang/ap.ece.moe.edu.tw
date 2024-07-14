@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040040715號",
+        "reg_docno": "府社福字第237805號",
+        "reg_date": "1993\/12\/13",
+        "title": "桃園市私立清心幼兒園",
+        "owner": "歐陽麗雲",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]新嶺一街59巷9號1-2樓",
+        "floor": "1-2",
+        "size": "184.7平方公尺",
+        "size_in": "150.03平方公尺",
+        "size_out": "34.67平方公尺",
+        "tel": "(03)3294072",
+        "url": "http：\/\/ching-shin.blogkids.net",
+        "count_approved": "40",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "440f5a4c-6b93-4a5d-ade6-3cfcce547ac8",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.367885,
+            24.9998578
+        ]
+    }
+}

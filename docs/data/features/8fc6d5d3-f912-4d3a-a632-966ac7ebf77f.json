@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551352號",
+        "reg_docno": "府社婦幼字第0980008866號",
+        "reg_date": "2009\/06\/15",
+        "title": "台灣積體電路製造股份有限公司職工福利委員會附設新竹縣私立台積電幼兒園",
+        "owner": "何麗梅",
+        "city": "新竹縣",
+        "town": "寶山鄉",
+        "type": "私立",
+        "address": "[308]研新二路6號3樓",
+        "floor": "3樓",
+        "size": "1,307.42平方公尺",
+        "size_in": "831.2平方公尺",
+        "size_out": "",
+        "tel": "(03)5636688#7072313",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8fc6d5d3-f912-4d3a-a632-966ac7ebf77f",
+        "monthly": 16390
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.991812,
+            24.778677
+        ]
+    }
+}

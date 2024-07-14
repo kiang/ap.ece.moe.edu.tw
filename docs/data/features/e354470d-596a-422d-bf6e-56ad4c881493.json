@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680土城0038之1號",
+        "reg_docno": "90北府教幼字第280947號",
+        "reg_date": "2001\/07\/31",
+        "title": "新北市私立裕德幼兒園",
+        "owner": "廖裕德",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]中華路一段46-1、46-2號1至3樓",
+        "floor": "3",
+        "size": "3,421平方公尺",
+        "size_in": "2,261平方公尺",
+        "size_out": "1,160平方公尺",
+        "tel": "(02)82618181",
+        "url": "",
+        "count_approved": "600",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e354470d-596a-422d-bf6e-56ad4c881493",
+        "monthly": 13100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.445779,
+            24.989499
+        ]
+    }
+}

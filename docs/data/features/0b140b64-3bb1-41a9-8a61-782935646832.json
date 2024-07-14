@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1052429004號",
+        "reg_docno": "九一府教特字第9104003018號",
+        "reg_date": "2002\/06\/20",
+        "title": "雲林縣斗六市雲林國民小學附設幼兒園",
+        "owner": "魏國賢",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "公立",
+        "address": "[640]莊敬路111號",
+        "floor": "一樓至二樓",
+        "size": "789平方公尺",
+        "size_in": "591平方公尺",
+        "size_out": "198平方公尺",
+        "tel": "(05)5361112#724",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000229282",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0b140b64-3bb1-41a9-8a61-782935646832",
+        "monthly": 3935
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.547791,
+            23.703288
+        ]
+    }
+}

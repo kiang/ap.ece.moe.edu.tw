@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080061531號",
+        "reg_docno": "中市教幼字第1080061531號",
+        "reg_date": "2019\/07\/26",
+        "title": "臺中市私立頂尖圓通達幼兒園",
+        "owner": "王佳衛",
+        "city": "臺中市",
+        "town": "大雅區",
+        "type": "私立",
+        "address": "[428]神林南路639號",
+        "floor": "1樓、2樓",
+        "size": "1,758.35平方公尺",
+        "size_in": "979.96平方公尺",
+        "size_out": "778.39平方公尺",
+        "tel": "(04)25665666",
+        "url": "",
+        "count_approved": "256",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "72a5ec30-8f3c-43bf-b4a2-03106e0a570c",
+        "monthly": 21000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6516062,
+            24.2191492
+        ]
+    }
+}

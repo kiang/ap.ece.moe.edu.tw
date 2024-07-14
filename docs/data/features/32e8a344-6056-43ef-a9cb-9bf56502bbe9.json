@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110094623號",
+        "reg_docno": "中市教幼字第1110094623號",
+        "reg_date": "2022\/10\/28",
+        "title": "臺灣港務股份有限公司臺中港職場互助教保服務中心(委託財團法人星光教育基金會辦理)",
+        "owner": "林姍瑩",
+        "city": "臺中市",
+        "town": "梧棲區",
+        "type": "私立",
+        "address": "[435]中橫一路10號",
+        "floor": "1樓",
+        "size": "1,777.83平方公尺",
+        "size_in": "1,777.83平方公尺",
+        "size_out": "",
+        "tel": "(04)26580887",
+        "url": "台中市梧棲區中橫一路10號",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "32e8a344-6056-43ef-a9cb-9bf56502bbe9",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5233789,
+            24.2572761
+        ]
+    }
+}

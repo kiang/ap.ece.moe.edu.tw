@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學字第1010062697號",
+        "reg_docno": "府教學字第09101159860號",
+        "reg_date": "2002\/07\/03",
+        "title": "南投縣私立明德幼兒園",
+        "owner": "謝建成",
+        "city": "南投縣",
+        "town": "國姓鄉",
+        "type": "私立",
+        "address": "[544]成功街388號",
+        "floor": "1層樓",
+        "size": "922平方公尺",
+        "size_in": "422平方公尺",
+        "size_out": "500平方公尺",
+        "tel": "(049)2724828",
+        "url": "",
+        "count_approved": "98",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d76751cb-8281-401e-a8d1-a3f7f30b2cd5",
+        "monthly": 4300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.852881,
+            24.039819
+        ]
+    }
+}

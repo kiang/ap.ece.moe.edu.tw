@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120111646號",
+        "reg_docno": "府教特字第0983044320號",
+        "reg_date": "1995\/06\/12",
+        "title": "臺東縣卑南鄉初鹿國民小學附設幼兒園",
+        "owner": "何錦尚",
+        "city": "臺東縣",
+        "town": "卑南鄉",
+        "type": "公立",
+        "address": "[954]梅園路97號",
+        "floor": "1樓",
+        "size": "345.5平方公尺",
+        "size_in": "150.5平方公尺",
+        "size_out": "195平方公尺",
+        "tel": "(089)572261#17",
+        "url": "臺東縣卑南鄉初鹿村梅園路97號",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c12a9278-8d99-410d-bde0-6bafe8ea5842",
+        "monthly": 4056
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.092075,
+            22.860093
+        ]
+    }
+}

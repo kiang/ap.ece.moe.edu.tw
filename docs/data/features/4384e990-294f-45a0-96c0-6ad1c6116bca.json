@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10636239900號",
+        "reg_docno": "89府教學字第1613號",
+        "reg_date": "2000\/01\/06",
+        "title": "高雄市杉林區杉林國民小學附設幼兒園",
+        "owner": "陳淑惠",
+        "city": "高雄市",
+        "town": "杉林區",
+        "type": "公立",
+        "address": "[846]合森巷41號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6772658#50",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4384e990-294f-45a0-96c0-6ad1c6116bca",
+        "monthly": 3209
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.547877,
+            22.998027
+        ]
+    }
+}

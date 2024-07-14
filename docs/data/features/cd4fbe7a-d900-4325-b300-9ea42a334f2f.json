@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130066325號",
+        "reg_docno": "府教學字第09200788910號",
+        "reg_date": "2003\/04\/30",
+        "title": "南投縣私立山姆叔叔幼兒園",
+        "owner": "廖靜憶",
+        "city": "南投縣",
+        "town": "名間鄉",
+        "type": "私立",
+        "address": "[551]頂部巷2之37號",
+        "floor": "1樓",
+        "size": "1,339平方公尺",
+        "size_in": "334平方公尺",
+        "size_out": "605平方公尺",
+        "tel": "(049)2735373",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cd4fbe7a-d900-4325-b300-9ea42a334f2f",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.694513,
+            23.8410901
+        ]
+    }
+}

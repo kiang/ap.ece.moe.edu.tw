@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10680555200號",
+        "reg_docno": "屏府社福字第0990224565號",
+        "reg_date": "2010\/09\/14",
+        "title": "屏東縣私立快樂寶貝幼兒園",
+        "owner": "陳玫君",
+        "city": "屏東縣",
+        "town": "屏東市",
+        "type": "私立",
+        "address": "[900]順寶巷7號1、2樓",
+        "floor": "1-2樓",
+        "size": "349.8平方公尺",
+        "size_in": "159.69平方公尺",
+        "size_out": "102.18平方公尺",
+        "tel": "(08)7652481",
+        "url": "http:\/\/tw.myblog.yahoo.com\/v-preschool\/",
+        "count_approved": "34",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "57a8e792-29ef-4e2b-90a6-3b009d98bb0f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4941667,
+            22.6761111
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680號",
+        "reg_docno": "七六北府教二字第255689號",
+        "reg_date": "1987\/08\/11",
+        "title": "新北市三重區光興國民小學附設幼兒園",
+        "owner": "鄭秋嬋",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "公立",
+        "address": "[241]正義南路62號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,834平方公尺",
+        "size_in": "1,132平方公尺",
+        "size_out": "702平方公尺",
+        "tel": "(02)29755352#170",
+        "url": "http:\/\/guangxingkindergarten.tw.class.urlifelinks.com\/",
+        "count_approved": "226",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6e677694-9d84-4b8c-aa08-a894002d16e1",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.498868,
+            25.05898
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090065016號",
+        "reg_docno": "中市教幼字第1090065016號",
+        "reg_date": "2020\/07\/30",
+        "title": "臺中市育賢非營利幼兒園(委託財團法人台灣兒童暨家庭扶助基金會辦理)",
+        "owner": "趙犁民",
+        "city": "臺中市",
+        "town": "太平區",
+        "type": "非營利",
+        "address": "[411]立文街88號",
+        "floor": "1樓",
+        "size": "941.72平方公尺",
+        "size_in": "471.26平方公尺",
+        "size_out": "470.46平方公尺",
+        "tel": "(04)23936214",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0408575f-8be7-4c2d-bb2b-16e2ec4229ba",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7164025,
+            24.157939
+        ]
+    }
+}

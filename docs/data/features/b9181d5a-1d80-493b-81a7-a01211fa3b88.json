@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1110248225號",
+        "reg_docno": "基府教前貳字第1050227915號",
+        "reg_date": "2016\/07\/07",
+        "title": "基隆市百福非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+        "owner": "郭淑雅",
+        "city": "基隆市",
+        "town": "七堵區",
+        "type": "非營利",
+        "address": "[206]福五街1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24525331",
+        "url": "https:\/\/www.facebook.com\/BFchildcare\/",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b9181d5a-1d80-493b-81a7-a01211fa3b88",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6987486,
+            25.0834942
+        ]
+    }
+}

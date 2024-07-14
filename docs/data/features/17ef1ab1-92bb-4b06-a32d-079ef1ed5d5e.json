@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110110736號",
+        "reg_docno": "八五府教國字第12113號",
+        "reg_date": "1996\/02\/14",
+        "title": "新竹市私立天仁幼兒園",
+        "owner": "蔡俊儒",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]東大路三段467巷52號",
+        "floor": "1樓、2樓",
+        "size": "633.19平方公尺",
+        "size_in": "353.72平方公尺",
+        "size_out": "279.47平方公尺",
+        "tel": "(03)5367718",
+        "url": "ct5367141@gmail.com",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "17ef1ab1-92bb-4b06-a32d-079ef1ed5d5e",
+        "monthly": 12648
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.938325,
+            24.8385251
+        ]
+    }
+}

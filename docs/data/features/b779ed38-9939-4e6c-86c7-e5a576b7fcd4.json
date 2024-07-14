@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120203341號",
+        "reg_docno": "府教國字第65337號",
+        "reg_date": "1979\/09\/14",
+        "title": "嘉義縣東石鄉龍崗國民小學附設幼兒園",
+        "owner": "吳芊萱",
+        "city": "嘉義縣",
+        "town": "東石鄉",
+        "type": "公立",
+        "address": "[614]栗子崙131號",
+        "floor": "1",
+        "size": "754平方公尺",
+        "size_in": "160平方公尺",
+        "size_out": "594平方公尺",
+        "tel": "(05)3451070",
+        "url": "https:\/\/www.facebook.com\/%E5%98%89%E7%BE%A9%E7%B8%A3%E6%9D%B1%E7%9F%B3%E9%84%89%E9%BE%8D%E5%B4%97%E5",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b779ed38-9939-4e6c-86c7-e5a576b7fcd4",
+        "monthly": 3685
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.183284,
+            23.436085
+        ]
+    }
+}

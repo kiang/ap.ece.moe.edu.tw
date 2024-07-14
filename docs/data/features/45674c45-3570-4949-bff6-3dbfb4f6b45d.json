@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137823000號",
+        "reg_docno": "87府社福字第234893號",
+        "reg_date": "1998\/11\/27",
+        "title": "高雄市私立巧博士幼兒園",
+        "owner": "葉秀春",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]新強路37號1至2樓，39及41號1樓",
+        "floor": "1樓至2樓",
+        "size": "198.67平方公尺",
+        "size_in": "198.67平方公尺",
+        "size_out": "",
+        "tel": "(07)7660409",
+        "url": "http:\/\/",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "45674c45-3570-4949-bff6-3dbfb4f6b45d",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.343222,
+            22.610852
+        ]
+    }
+}

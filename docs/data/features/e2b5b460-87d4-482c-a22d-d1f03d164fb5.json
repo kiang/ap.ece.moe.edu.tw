@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070150251號",
+        "reg_docno": "府教幼字第1060193850號",
+        "reg_date": "2017\/08\/16",
+        "title": "桃園市私立四季幼兒園",
+        "owner": "鄔欣霖",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "私立",
+        "address": "[325]金龍路181-25號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4090693",
+        "url": "",
+        "count_approved": "170",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e2b5b460-87d4-482c-a22d-d1f03d164fb5",
+        "monthly": 12233
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2138395,
+            24.854372
+        ]
+    }
+}

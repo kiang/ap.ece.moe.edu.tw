@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119551580號",
+        "reg_docno": "八六府社福字第60955號",
+        "reg_date": "1997\/06\/11",
+        "title": "新竹縣私立亞瑟王幼兒園",
+        "owner": "劉曉薇",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "私立",
+        "address": "[310]工業一路207號",
+        "floor": "1樓、2樓",
+        "size": "505.97平方公尺",
+        "size_in": "232.46平方公尺",
+        "size_out": "134.03平方公尺",
+        "tel": "(03)5100045",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f788d5e2-1e18-4ff0-b3bf-f8b2f653c954",
+        "monthly": 14166
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.099006,
+            24.73032
+        ]
+    }
+}

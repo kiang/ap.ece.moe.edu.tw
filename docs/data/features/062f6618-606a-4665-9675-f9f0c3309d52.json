@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040046623號",
+        "reg_docno": "府教特字第0950316751號",
+        "reg_date": "2006\/10\/25",
+        "title": "桃園市私立溫德爾幼兒園",
+        "owner": "張春重",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]東勇街268號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)2188181",
+        "url": "http:\/\/ycks12.topschool.com.tw",
+        "count_approved": "238",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "062f6618-606a-4665-9675-f9f0c3309d52",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3082918,
+            24.9651136
+        ]
+    }
+}

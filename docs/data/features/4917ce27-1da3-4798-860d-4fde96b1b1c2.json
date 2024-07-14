@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11254655100號",
+        "reg_docno": "屏府教國字第44477號",
+        "reg_date": "1954\/08\/01",
+        "title": "屏東縣麟洛鄉麟洛國民小學附設幼兒園",
+        "owner": "黃素英",
+        "city": "屏東縣",
+        "town": "麟洛鄉",
+        "type": "公立",
+        "address": "[909]中華路86號",
+        "floor": "1樓",
+        "size": "650平方公尺",
+        "size_in": "420平方公尺",
+        "size_out": "230平方公尺",
+        "tel": "(08)7221670#16",
+        "url": "http:\/\/www.llps.ptc.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4917ce27-1da3-4798-860d-4fde96b1b1c2",
+        "monthly": 3443
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.523026,
+            22.648028
+        ]
+    }
+}

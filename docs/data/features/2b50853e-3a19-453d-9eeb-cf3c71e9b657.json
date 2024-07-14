@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080103212號",
+        "reg_docno": "中市府社婦字第9315號",
+        "reg_date": "2004\/07\/30",
+        "title": "臺中市私立吉立堡幼兒園",
+        "owner": "李音蒔",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]中華路二段195號1樓",
+        "floor": "1樓",
+        "size": "140.27平方公尺",
+        "size_in": "140.27平方公尺",
+        "size_out": "",
+        "tel": "(04)22068593",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2b50853e-3a19-453d-9eeb-cf3c71e9b657",
+        "monthly": 9388
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.682063,
+            24.1520459
+        ]
+    }
+}

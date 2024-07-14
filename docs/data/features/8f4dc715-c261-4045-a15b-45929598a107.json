@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0035之1號",
+        "reg_docno": "89北府社兒字第89304409號",
+        "reg_date": "2000\/08\/07",
+        "title": "新北市私立永錡板橋幼兒園",
+        "owner": "許耀堂",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]金門街358巷14號1樓、358巷16號1樓及2樓、372巷32號1樓及2樓、372巷34號1樓及2樓",
+        "floor": "2層",
+        "size": "559.44平方公尺",
+        "size_in": "559.44平方公尺",
+        "size_out": "",
+        "tel": "(02)26758622",
+        "url": "",
+        "count_approved": "135",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8f4dc715-c261-4045-a15b-45929598a107",
+        "monthly": 12500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.427537,
+            24.98481
+        ]
+    }
+}

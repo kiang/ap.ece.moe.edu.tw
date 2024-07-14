@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110001450號",
+        "reg_docno": "中市府社福字第8101號",
+        "reg_date": "1992\/02\/12",
+        "title": "明德學校財團法人臺中市明德高級中學附設臺中市私立明德幼兒園",
+        "owner": "",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[402]明德街84號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22803167",
+        "url": "https:\/\/www.mdhs.tc.edu.tw\/mdkg\/n.html",
+        "count_approved": "270",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c9b18ad6-60e8-4e6d-9e61-c2fc8b449e0d",
+        "monthly": 13480
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.68398,
+            24.1203729
+        ]
+    }
+}

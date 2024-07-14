@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010028338號",
+        "reg_docno": "府社幼字第0930285119號",
+        "reg_date": "2004\/10\/29",
+        "title": "臺中市私立大雅格瑞特幼兒園",
+        "owner": "廖光裕",
+        "city": "臺中市",
+        "town": "大雅區",
+        "type": "私立",
+        "address": "[428]神林南路673號",
+        "floor": "1樓至3樓",
+        "size": "806.74平方公尺",
+        "size_in": "606.08平方公尺",
+        "size_out": "200.66平方公尺",
+        "tel": "(04)25679977",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "642fc5a0-e4a7-45ae-9a11-6420f4ef40bd",
+        "monthly": 10102
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.650112,
+            24.218886
+        ]
+    }
+}

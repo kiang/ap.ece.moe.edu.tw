@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前貳字第1030226757號",
+        "reg_docno": "基府社福字第0920063893號",
+        "reg_date": "2003\/07\/04",
+        "title": "基隆市私立全美幼兒園",
+        "owner": "余秀鳳",
+        "city": "基隆市",
+        "town": "七堵區",
+        "type": "私立",
+        "address": "[206]東新街84號",
+        "floor": "1樓至2樓",
+        "size": "788.16平方公尺",
+        "size_in": "788.16平方公尺",
+        "size_out": "",
+        "tel": "(02)24555555",
+        "url": "www.1010may.com",
+        "count_approved": "160",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "08390bb9-9a9f-4d89-9065-17df9ba70447",
+        "monthly": 9767
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.719685,
+            25.09378
+        ]
+    }
+}

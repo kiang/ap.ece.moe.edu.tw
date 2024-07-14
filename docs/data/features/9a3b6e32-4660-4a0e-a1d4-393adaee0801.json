@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11036338200號",
+        "reg_docno": "高市教幼字第11034962200號",
+        "reg_date": "2021\/08\/02",
+        "title": "高雄市大義非營利幼兒園(委託社團法人高雄市社區美學教育發展協會辦理)",
+        "owner": "陳慧玟",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "非營利",
+        "address": "[813]東門路1號",
+        "floor": "1樓、2樓、3樓",
+        "size": "5,895.685平方公尺",
+        "size_in": "2,846.39平方公尺",
+        "size_out": "3,049.295平方公尺",
+        "tel": "(07)5887088",
+        "url": "評鑑情形：",
+        "count_approved": "304",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9a3b6e32-4660-4a0e-a1d4-393adaee0801",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2937389,
+            22.6722273
+        ]
+    }
+}

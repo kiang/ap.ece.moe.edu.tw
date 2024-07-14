@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0141號",
+        "reg_docno": "89北府社兒字第89103684號",
+        "reg_date": "2000\/03\/14",
+        "title": "新北市私立喬心幼兒園",
+        "owner": "林淑禎",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]龍泉街55巷38弄2號2樓及3樓、55巷36號1樓及2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22557988",
+        "url": "",
+        "count_approved": "98",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ac37636e-d1ee-49f9-8938-20d4ed688cbf",
+        "monthly": 15806
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.45756,
+            25.024776
+        ]
+    }
+}

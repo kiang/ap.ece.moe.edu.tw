@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教特字第10125415600號",
+        "reg_docno": "屏府社福字第75449號",
+        "reg_date": "1980\/08\/16",
+        "title": "屏東縣私立明蕙幼兒園",
+        "owner": "林芳宜",
+        "city": "屏東縣",
+        "town": "萬丹鄉",
+        "type": "私立",
+        "address": "[913]吉豐路90號",
+        "floor": "3",
+        "size": "714.93平方公尺",
+        "size_in": "219.07平方公尺",
+        "size_out": "495.86平方公尺",
+        "tel": "(08)7071732",
+        "url": "https:\/\/www.facebook.com\/o87071732",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8fc61333-60ac-44c6-a139-bd421a80871d",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4703258,
+            22.591522
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680石碇0002之3號",
+        "reg_docno": "北教幼字第0970938494號",
+        "reg_date": "1985\/12\/27",
+        "title": "新北市石碇區石碇國民小學附設幼兒園",
+        "owner": "魏千妮",
+        "city": "新北市",
+        "town": "石碇區",
+        "type": "公立",
+        "address": "[223]石碇西街15號",
+        "floor": "1樓",
+        "size": "2,363平方公尺",
+        "size_in": "97.52平方公尺",
+        "size_out": "135平方公尺",
+        "tel": "(02)26631244#21",
+        "url": "http:\/\/www.stes.ntpc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1ca62a1e-7925-4f51-98f2-e1f3e021f8ac",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.658451,
+            24.990687
+        ]
+    }
+}

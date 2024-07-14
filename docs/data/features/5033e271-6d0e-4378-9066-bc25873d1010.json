@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10935634900號",
+        "reg_docno": "高市教幼字第10935634900號",
+        "reg_date": "2020\/07\/20",
+        "title": "高雄市私立雨青幼兒園",
+        "owner": "梁志明",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "私立",
+        "address": "[812]廠橫路48號",
+        "floor": "1樓",
+        "size": "930.67平方公尺",
+        "size_in": "415.18平方公尺",
+        "size_out": "515.49平方公尺",
+        "tel": "(07)8019326",
+        "url": "",
+        "count_approved": "78",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5033e271-6d0e-4378-9066-bc25873d1010",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3552543,
+            22.571093
+        ]
+    }
+}

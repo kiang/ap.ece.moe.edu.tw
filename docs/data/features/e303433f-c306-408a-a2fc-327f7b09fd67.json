@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110217163號",
+        "reg_docno": "府教學字第09801748890號",
+        "reg_date": "2009\/08\/19",
+        "title": "南投縣國姓鄉北山國民小學附設幼兒園",
+        "owner": "陳鍾仁",
+        "city": "南投縣",
+        "town": "國姓鄉",
+        "type": "公立",
+        "address": "[544]中正路4段119之1號",
+        "floor": "1樓",
+        "size": "240平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "120平方公尺",
+        "tel": "(049)2451935#28",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e303433f-c306-408a-a2fc-327f7b09fd67",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.876645,
+            23.980824
+        ]
+    }
+}

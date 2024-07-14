@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620永和0042號",
+        "reg_docno": "八九北府社兒字第89173513號",
+        "reg_date": "2000\/05\/04",
+        "title": "新北市私立幼森幼兒園",
+        "owner": "黃金櫻",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]永和路一段18巷2號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)32338272",
+        "url": "http:\/\/you-sen.topschool.com.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "af8bbbfc-2c48-414c-b4f0-95daf37cad7c",
+        "monthly": 12000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.513085,
+            25.004645
+        ]
+    }
+}

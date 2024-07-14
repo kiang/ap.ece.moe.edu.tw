@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120338006號",
+        "reg_docno": "府教幼字第1080264234號",
+        "reg_date": "2019\/07\/30",
+        "title": "彰化縣民生非營利幼兒園（委託社團法人彰化縣全方位教育協會辦理）",
+        "owner": "梁嫣玲",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "非營利",
+        "address": "[500]民生路338號",
+        "floor": "1樓",
+        "size": "611.55平方公尺",
+        "size_in": "336.84平方公尺",
+        "size_out": "274.71平方公尺",
+        "tel": "(04)7288141",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "01284e24-3b9d-46f3-93c6-8d843428a0b5",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5422718,
+            24.0847288
+        ]
+    }
+}

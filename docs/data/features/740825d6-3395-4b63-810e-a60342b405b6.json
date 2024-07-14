@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120133429號",
+        "reg_docno": "府教特字第1120133429號",
+        "reg_date": "2023\/08\/28",
+        "title": "法務部滿竹園職場互助教保服務中心(委託社團法人新竹縣教保人員協會辦理)",
+        "owner": "葉桂娥",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]少年街20、22號",
+        "floor": "1樓",
+        "size": "172.08平方公尺",
+        "size_in": "172.08平方公尺",
+        "size_out": "",
+        "tel": "(03)5280611",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "740825d6-3395-4b63-810e-a60342b405b6",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9601746,
+            24.8058077
+        ]
+    }
+}

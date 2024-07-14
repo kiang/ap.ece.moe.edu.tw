@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1120535209號",
+        "reg_docno": "府教特字第0920124016號",
+        "reg_date": "2003\/07\/25",
+        "title": "南臺學校財團法人南臺科技大學附設臺南市私立南臺幼兒園",
+        "owner": "吳誠文",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]南台街1號",
+        "floor": "1樓",
+        "size": "1,552平方公尺",
+        "size_in": "774平方公尺",
+        "size_out": "778平方公尺",
+        "tel": "(06)2533131#6506",
+        "url": "http:\/\/kid.stust.edu.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1c88a49e-9415-46d7-bf70-9679c4ec76ff",
+        "monthly": 10567
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.225014,
+            23.0222741
+        ]
+    }
+}

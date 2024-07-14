@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620永和0032號",
+        "reg_docno": "八九北府社兒字第89188478號",
+        "reg_date": "2000\/05\/16",
+        "title": "新北市私立科見幼兒園",
+        "owner": "侯光玲",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]民權路53號3樓之1",
+        "floor": "3",
+        "size": "410.86平方公尺",
+        "size_in": "410.86平方公尺",
+        "size_out": "",
+        "tel": "(02)29491375",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "47f413c9-8223-43c3-980f-da40791fe8c8",
+        "monthly": 18200
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.519853,
+            24.996692
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110069524號",
+        "reg_docno": "中市教幼字第1020058506號",
+        "reg_date": "2013\/08\/01",
+        "title": "臺中市龍井區龍井國民小學附設幼兒園",
+        "owner": "張勇生",
+        "city": "臺中市",
+        "town": "龍井區",
+        "type": "公立",
+        "address": "[434]龍門路51號",
+        "floor": "1樓",
+        "size": "266.68平方公尺",
+        "size_in": "76.8平方公尺",
+        "size_out": "189.88平方公尺",
+        "tel": "(04)26397131#770",
+        "url": "臺中市龍井區龍西里龍門路51號",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a9f8f35f-fcdb-4dd9-a24c-cc5a5ec11f90",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5289817,
+            24.1799044
+        ]
+    }
+}

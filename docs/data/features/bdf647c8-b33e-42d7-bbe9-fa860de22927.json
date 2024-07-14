@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10937350400號",
+        "reg_docno": "84府教學字第48724號",
+        "reg_date": "1995\/03\/15",
+        "title": "高雄市鳳山區中山國民小學附設幼兒園",
+        "owner": "周淑蕙",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "公立",
+        "address": "[830]光復路一段120巷8號",
+        "floor": "1樓",
+        "size": "1,122.245平方公尺",
+        "size_in": "315平方公尺",
+        "size_out": "807.245平方公尺",
+        "tel": "(07)7469893#11",
+        "url": "",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bdf647c8-b33e-42d7-bbe9-fa860de22927",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3499663,
+            22.6303023
+        ]
+    }
+}

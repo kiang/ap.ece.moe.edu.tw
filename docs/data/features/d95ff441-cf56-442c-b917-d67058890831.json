@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "府教國字第112219號",
+        "reg_date": "1977\/10\/19",
+        "title": "臺南市柳營區重溪國民小學附設幼兒園",
+        "owner": "吳建邦",
+        "city": "臺南市",
+        "town": "柳營區",
+        "type": "公立",
+        "address": "[736]義士路二段2號",
+        "floor": "1樓",
+        "size": "511.7平方公尺",
+        "size_in": "259.7平方公尺",
+        "size_out": "252平方公尺",
+        "tel": "(06)6231760",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d95ff441-cf56-442c-b917-d67058890831",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.364631,
+            23.285863
+        ]
+    }
+}

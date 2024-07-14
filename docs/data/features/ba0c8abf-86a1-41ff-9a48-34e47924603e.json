@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110119276號",
+        "reg_docno": "六九府教國字第10770號",
+        "reg_date": "1980\/08\/16",
+        "title": "新竹市東區竹蓮國民小學附設幼兒園",
+        "owner": "劉向欣",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "公立",
+        "address": "[300]食品路226號",
+        "floor": "1樓",
+        "size": "1,399.65平方公尺",
+        "size_in": "233.65平方公尺",
+        "size_out": "1,166平方公尺",
+        "tel": "(03)5223066#234",
+        "url": "http:\/\/163.19.121.3",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ba0c8abf-86a1-41ff-9a48-34e47924603e",
+        "monthly": 3750
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.97382,
+            24.795975
+        ]
+    }
+}

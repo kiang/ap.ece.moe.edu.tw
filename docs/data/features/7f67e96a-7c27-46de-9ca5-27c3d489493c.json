@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110156719號",
+        "reg_docno": "府教特字第1110156719號",
+        "reg_date": "2022\/10\/14",
+        "title": "新竹市警察局職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+        "owner": "邱健凱",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]武陵路173號",
+        "floor": "1樓",
+        "size": "86.32平方公尺",
+        "size_in": "86.32平方公尺",
+        "size_out": "",
+        "tel": "(03)5453673",
+        "url": "https:\/\/www.facebook.com\/hsinchupolice",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7f67e96a-7c27-46de-9ca5-27c3d489493c",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9682652,
+            24.8211267
+        ]
+    }
+}

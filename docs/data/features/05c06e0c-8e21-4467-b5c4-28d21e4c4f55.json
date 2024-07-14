@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1090513949號",
+        "reg_docno": "府教國字第146653號",
+        "reg_date": "1989\/11\/10",
+        "title": "臺南市私立艾迪斯幼兒園",
+        "owner": "吳椿卿",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]鹽洲一街27號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2530325",
+        "url": "台南縣永康市鹽洲一街27號",
+        "count_approved": "146",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "05c06e0c-8e21-4467-b5c4-28d21e4c4f55",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.234364,
+            23.041341
+        ]
+    }
+}

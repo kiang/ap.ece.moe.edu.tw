@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090024752號",
+        "reg_docno": "府教特字第1060095545號",
+        "reg_date": "2017\/07\/03",
+        "title": "新竹市私立艾丁堡幼兒園",
+        "owner": "楊禮誌",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]延平路一段214巷74號1-2樓",
+        "floor": "1樓、2樓",
+        "size": "1,037.84平方公尺",
+        "size_in": "389.82平方公尺",
+        "size_out": "648.02平方公尺",
+        "tel": "(03)5251000",
+        "url": "",
+        "count_approved": "105",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3a82fff8-a5bf-4451-ad4b-1b853fe33b4f",
+        "monthly": 18300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9525999,
+            24.8058721
+        ]
+    }
+}

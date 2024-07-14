@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第30號",
+        "reg_docno": "北市教前字第11230010061號",
+        "reg_date": "2023\/03\/17",
+        "title": "臺北市奇地職場互助教保服務中心",
+        "owner": "張倍瑜",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]敬業一路132號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)85011706",
+        "url": "",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "13c2fb53-05bb-423a-91ec-afeb32399703",
+        "monthly": 37300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5525526,
+            25.0837089
+        ]
+    }
+}

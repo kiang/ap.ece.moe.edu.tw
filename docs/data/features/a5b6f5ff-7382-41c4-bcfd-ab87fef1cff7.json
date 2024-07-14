@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080072131號",
+        "reg_docno": "97府教特字第0970018156號",
+        "reg_date": "1974\/07\/30",
+        "title": "臺中市沙鹿區鹿峰國民小學附設幼兒園",
+        "owner": "黃美玲",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "公立",
+        "address": "[433]星河路209號",
+        "floor": "1樓",
+        "size": "870平方公尺",
+        "size_in": "470平方公尺",
+        "size_out": "400平方公尺",
+        "tel": "(04)26224210#630",
+        "url": "https:\/\/lfes.tc.edu.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a5b6f5ff-7382-41c4-bcfd-ab87fef1cff7",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.570016,
+            24.255608
+        ]
+    }
+}

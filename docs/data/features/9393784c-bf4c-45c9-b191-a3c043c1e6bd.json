@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129550381號",
+        "reg_docno": "府社婦幼字第1000007606J號",
+        "reg_date": "1985\/11\/02",
+        "title": "新竹縣竹北市立幼兒園",
+        "owner": "鄭朝方",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "公立",
+        "address": "[302]嘉興路399巷6弄9號",
+        "floor": "1樓",
+        "size": "1,184.71平方公尺",
+        "size_in": "240.72平方公尺",
+        "size_out": "943.99平方公尺",
+        "tel": "(03)5515919#335",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9393784c-bf4c-45c9-b191-a3c043c1e6bd",
+        "monthly": 4171
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.031131,
+            24.82184
+        ]
+    }
+}

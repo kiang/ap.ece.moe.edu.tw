@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680新莊0129之2號",
+        "reg_docno": "新北府教幼字第1071289539號",
+        "reg_date": "2018\/07\/05",
+        "title": "新北市中平非營利幼兒園(委託社團法人新北市中華國際嬰幼兒發展學會辦理)",
+        "owner": "林芷涵",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "非營利",
+        "address": "[242]中平路385號1樓",
+        "floor": "1樓",
+        "size": "938.74平方公尺",
+        "size_in": "450平方公尺",
+        "size_out": "488.74平方公尺",
+        "tel": "(02)89910098",
+        "url": "評鑑情形：",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0afcfc9f-3765-4071-b651-5eebd2cd45c3",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4434393,
+            25.0541244
+        ]
+    }
+}

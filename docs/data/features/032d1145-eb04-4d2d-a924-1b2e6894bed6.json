@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1030010422號",
+        "reg_docno": "中市社婦字第1000073204號",
+        "reg_date": "2011\/09\/22",
+        "title": "臺中市私立小熊多元智慧幼兒園",
+        "owner": "孫淑芬",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]臺灣大道三段556巷1弄14號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)36093058",
+        "url": "http:\/\/blog.yam.com\/coco27013933",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "032d1145-eb04-4d2d-a924-1b2e6894bed6",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.640456,
+            24.169297
+        ]
+    }
+}

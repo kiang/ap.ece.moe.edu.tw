@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11236840400號",
+        "reg_docno": "高市教幼字第10937689800號",
+        "reg_date": "2020\/08\/01",
+        "title": "高雄市燕巢區安招國民小學附設幼兒園",
+        "owner": "楊慧如",
+        "city": "高雄市",
+        "town": "燕巢區",
+        "type": "公立",
+        "address": "[824]安招路170號",
+        "floor": "1樓",
+        "size": "716.4平方公尺",
+        "size_in": "254.05平方公尺",
+        "size_out": "462.3平方公尺",
+        "tel": "(07)6162580",
+        "url": "www.azp.kh.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "eaa05f0e-4402-43b1-8fc9-1ad5f6385e48",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3380438,
+            22.7906883
+        ]
+    }
+}

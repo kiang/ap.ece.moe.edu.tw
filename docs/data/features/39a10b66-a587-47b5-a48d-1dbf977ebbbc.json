@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11237161400號",
+        "reg_docno": "70府教國字第78404號",
+        "reg_date": "1981\/08\/13",
+        "title": "高雄市大寮區忠義國民小學附設幼兒園",
+        "owner": "蔡翠萍",
+        "city": "高雄市",
+        "town": "大寮區",
+        "type": "公立",
+        "address": "[831]忠義路1號",
+        "floor": "1-2樓",
+        "size": "3,198.45平方公尺",
+        "size_in": "642.4平方公尺",
+        "size_out": "2,556.05平方公尺",
+        "tel": "(07)7812858#603",
+        "url": "",
+        "count_approved": "122",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "39a10b66-a587-47b5-a48d-1dbf977ebbbc",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.384367,
+            22.616612
+        ]
+    }
+}

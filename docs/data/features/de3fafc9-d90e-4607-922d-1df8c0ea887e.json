@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第142-1號",
+        "reg_docno": "北市社五字第8824190500號",
+        "reg_date": "1999\/07\/15",
+        "title": "臺北市私立幼馨幼兒園",
+        "owner": "劉曉芬",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]合江街180巷19號1樓",
+        "floor": "1樓",
+        "size": "84.17平方公尺",
+        "size_in": "84.17平方公尺",
+        "size_out": "",
+        "tel": "(02)25080977",
+        "url": "",
+        "count_approved": "19",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "de3fafc9-d90e-4607-922d-1df8c0ea887e",
+        "monthly": 11710
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.53828,
+            25.061149
+        ]
+    }
+}

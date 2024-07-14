@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130098376號",
+        "reg_docno": "府教幼字第1030280214號",
+        "reg_date": "2014\/11\/12",
+        "title": "桃園市私立衛理幼兒園",
+        "owner": "林麗容",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]樹仁二街255號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3711126",
+        "url": "",
+        "count_approved": "1034",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：90",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "effb00b8-2365-4bd6-ba3a-15365a0f8aa3",
+        "monthly": 18565
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3156571,
+            24.9776398
+        ]
+    }
+}

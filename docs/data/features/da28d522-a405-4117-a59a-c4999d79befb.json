@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680中和0115號",
+        "reg_docno": "新北府教幼字第1121866545號",
+        "reg_date": "2023\/09\/26",
+        "title": "新北市佳和非營利幼兒園(委託康寧學校財團法人康寧大學辦理)",
+        "owner": "陳清溪",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "非營利",
+        "address": "[235]中山路二段64巷9之1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22451106",
+        "url": "https:\/\/pse.is\/5bn585",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "da28d522-a405-4117-a59a-c4999d79befb",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.503575,
+            25.0050059
+        ]
+    }
+}

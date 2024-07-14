@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110005001號",
+        "reg_docno": "中市教幼字第1040098988號",
+        "reg_date": "2015\/12\/15",
+        "title": "臺中市三光非營利幼兒園(委託財團法人宏觀文教基金會辦理)",
+        "owner": "李効武",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "非營利",
+        "address": "[406]三光一街77號",
+        "floor": "1樓",
+        "size": "1,046.93平方公尺",
+        "size_in": "753.07平方公尺",
+        "size_out": "293.86平方公尺",
+        "tel": "(04)22372216",
+        "url": "http:\/\/www.2-6.org.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "df8e9043-c405-43db-a8ee-d074368577ba",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6984045,
+            24.1673539
+        ]
+    }
+}

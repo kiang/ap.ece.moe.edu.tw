@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第10700512211號",
+        "reg_docno": "府社幼字第0990236791號",
+        "reg_date": "1994\/09\/01",
+        "title": "臺中市立豐原幼兒園西湳分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "公立",
+        "address": "[420]三豐路二段135巷129弄46號",
+        "floor": "1樓",
+        "size": "562.05平方公尺",
+        "size_in": "422.05平方公尺",
+        "size_out": "140平方公尺",
+        "tel": "(04)25243752",
+        "url": "https:\/\/fykg.tc.edu.tw\/",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d8c05781-1ea8-4a9a-b7b1-6d9eb20324fa",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.71722,
+            24.268143
+        ]
+    }
+}

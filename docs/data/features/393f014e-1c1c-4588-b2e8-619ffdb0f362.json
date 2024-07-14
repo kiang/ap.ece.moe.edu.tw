@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010982166號",
+        "reg_docno": "南市社兒字第07862號",
+        "reg_date": "1987\/05\/13",
+        "title": "臺南市私立快樂幼兒園",
+        "owner": "張家富",
+        "city": "臺南市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[702]賢南街9號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,507.92平方公尺",
+        "size_in": "895.92平方公尺",
+        "size_out": "612平方公尺",
+        "tel": "(06)2637941",
+        "url": "https:\/\/www.happyschool.com.tw\/",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "393f014e-1c1c-4588-b2e8-619ffdb0f362",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.189781,
+            22.981296
+        ]
+    }
+}

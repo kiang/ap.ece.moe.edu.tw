@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080264611號",
+        "reg_docno": "府社婦字第0920238273號",
+        "reg_date": "2003\/10\/16",
+        "title": "桃園市私立貝多芬幼兒園",
+        "owner": "胡毓唐",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]福星六街8、10號1-2樓",
+        "floor": "1、2樓",
+        "size": "390.88平方公尺",
+        "size_in": "329.43平方公尺",
+        "size_out": "60.79平方公尺",
+        "tel": "(03)4629219",
+        "url": "",
+        "count_approved": "153",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "78821683-aec8-4747-b618-dc5a7a973b00",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.295529,
+            24.995799
+        ]
+    }
+}

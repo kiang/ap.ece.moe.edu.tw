@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字字第1090064458號",
+        "reg_docno": "中市教幼字字第1090064458號",
+        "reg_date": "2020\/07\/31",
+        "title": "臺中市陳平非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "非營利",
+        "address": "[406]陳平路58號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22930373",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "10e5c3ea-73ee-4e48-a855-cc24f1df9193",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6676042,
+            24.1852051
+        ]
+    }
+}

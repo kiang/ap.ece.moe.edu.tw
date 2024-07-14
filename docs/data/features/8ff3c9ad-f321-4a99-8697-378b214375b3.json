@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10132510800號",
+        "reg_docno": "七三府教國字第92707號",
+        "reg_date": "1984\/09\/01",
+        "title": "高雄市私立公館幼兒園",
+        "owner": "蘇惠秋",
+        "city": "高雄市",
+        "town": "湖內區",
+        "type": "私立",
+        "address": "[829]湖中路30號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6992268",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8ff3c9ad-f321-4a99-8697-378b214375b3",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2277918,
+            22.9055411
+        ]
+    }
+}

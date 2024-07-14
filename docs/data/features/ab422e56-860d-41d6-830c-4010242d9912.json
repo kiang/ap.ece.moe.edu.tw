@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場證字第10-1號",
+        "reg_docno": "北市教前字第11130112691號",
+        "reg_date": "2022\/08\/01",
+        "title": "國立中正紀念堂管理處職場互助教保服務中心（委託社團法人台北市教保人員協會辦理）",
+        "owner": "黃麗芳",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]中山南路21號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)23914659",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ab422e56-860d-41d6-830c-4010242d9912",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5226039,
+            25.0359751
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1139550208號",
+        "reg_docno": "府授教幼字第1139550208號",
+        "reg_date": "2024\/02\/02",
+        "title": "新竹縣私立鶴雅幼兒園",
+        "owner": "陳哲嘉",
+        "city": "新竹縣",
+        "town": "芎林鄉",
+        "type": "私立",
+        "address": "[307]中坑16-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5921500",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f76866a9-a8c5-41e4-a31d-17803036dab9",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1080244,
+            24.765792
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138959200號",
+        "reg_docno": "71府社福字第110609號",
+        "reg_date": "1982\/11\/08",
+        "title": "財團法人天主教會高雄教區附設高雄市私立道明幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "橋頭區",
+        "type": "私立",
+        "address": "[825]成功北路1號",
+        "floor": "1.2樓",
+        "size": "504.91平方公尺",
+        "size_in": "279.42平方公尺",
+        "size_out": "225.49平方公尺",
+        "tel": "(07)6113450",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e1c4c898-9393-4326-be25-5081ccb70ef5",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.308159,
+            22.761966
+        ]
+    }
+}

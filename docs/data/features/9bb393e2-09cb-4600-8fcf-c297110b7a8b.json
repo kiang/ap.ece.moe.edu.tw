@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551635號",
+        "reg_docno": "府授教幼字第1129551635號",
+        "reg_date": "2023\/08\/01",
+        "title": "新竹縣竹北市鳳岡國民小學附設幼兒園",
+        "owner": "吳柚",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "公立",
+        "address": "[302]鳳岡路三段200號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5561928#105",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100092986887814",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9bb393e2-09cb-4600-8fcf-c297110b7a8b",
+        "monthly": 3966
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9643393,
+            24.8613665
+        ]
+    }
+}

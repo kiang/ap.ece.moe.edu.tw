@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080061886號",
+        "reg_docno": "85府教國字第006699號",
+        "reg_date": "1996\/02\/06",
+        "title": "桃園市私立仟樺幼兒園",
+        "owner": "施逸嫻",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "私立",
+        "address": "[326]萬大路116巷57號",
+        "floor": "1-2樓",
+        "size": "2,079平方公尺",
+        "size_in": "1,031.46平方公尺",
+        "size_out": "1,047.46平方公尺",
+        "tel": "(03)4817031",
+        "url": "",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5bd27f7d-c363-48a9-b12a-9efd1cb2eb8c",
+        "monthly": 10317
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1767574,
+            24.9096961
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1080947585號",
+        "reg_docno": "府社福字第122541號",
+        "reg_date": "1978\/11\/04",
+        "title": "臺南市私立吉姆大秝荳幼兒園",
+        "owner": "張瑞蘭",
+        "city": "臺南市",
+        "town": "西港區",
+        "type": "私立",
+        "address": "[723]中山路352號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)7951607",
+        "url": "http:\/\/www.jimschool.woby.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c2d2cd33-6b1c-4539-b28c-63748fd3861f",
+        "monthly": 5800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.205504,
+            23.12228
+        ]
+    }
+}

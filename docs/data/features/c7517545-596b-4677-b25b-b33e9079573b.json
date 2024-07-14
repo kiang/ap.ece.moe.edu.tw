@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599中和0111號",
+        "reg_docno": "新北府教幼字第1101342309號",
+        "reg_date": "2021\/09\/10",
+        "title": "新北市私立慈祐幼兒園",
+        "owner": "陳喬麟",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]建三路12號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22227028",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c7517545-596b-4677-b25b-b33e9079573b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4860758,
+            25.003019
+        ]
+    }
+}

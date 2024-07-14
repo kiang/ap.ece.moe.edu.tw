@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第624號",
+        "reg_docno": "府社五字第8908839800號",
+        "reg_date": "2000\/09\/27",
+        "title": "臺北市私立資優兒童幼兒園",
+        "owner": "彭雪玉",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]中央北路一段179巷1號1樓",
+        "floor": "1樓",
+        "size": "68.99平方公尺",
+        "size_in": "68.99平方公尺",
+        "size_out": "",
+        "tel": "(02)28949838",
+        "url": "",
+        "count_approved": "16",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "a0cca768-6af7-4d7b-9a0c-85a8bca4fb7e",
+        "monthly": 11700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.497929,
+            25.135391
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1120187160號",
+        "reg_docno": "府教學前字第1120187160號",
+        "reg_date": "2023\/08\/01",
+        "title": "苗栗縣苑裡鎮蕉埔國民小學附設幼兒園",
+        "owner": "王美娟",
+        "city": "苗栗縣",
+        "town": "苑裡鎮",
+        "type": "公立",
+        "address": "[358]87之2號",
+        "floor": "1樓",
+        "size": "2,661.8平方公尺",
+        "size_in": "109平方公尺",
+        "size_out": "2,552.8平方公尺",
+        "tel": "(037)741574#22",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "94e5bae2-ab33-4f89-86f6-b73cb1696ad2",
+        "monthly": 3455
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6775054,
+            24.4098262
+        ]
+    }
+}

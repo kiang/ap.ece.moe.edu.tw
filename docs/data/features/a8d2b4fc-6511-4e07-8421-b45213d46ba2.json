@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110249263號",
+        "reg_docno": "府教學前字第1110249263號",
+        "reg_date": "2022\/12\/29",
+        "title": "臺灣苗栗地方檢察署職場互助教保服務中心（委託財團法人臺中市蒙特梭利教育基金會辦理）",
+        "owner": "陳素珍",
+        "city": "苗栗縣",
+        "town": "苗栗市",
+        "type": "私立",
+        "address": "[360]中正路1149-9號1樓之5",
+        "floor": "1樓",
+        "size": "107.12平方公尺",
+        "size_in": "82.51平方公尺",
+        "size_out": "24.61平方公尺",
+        "tel": "(04)24615129",
+        "url": "評鑑情形：",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a8d2b4fc-6511-4e07-8421-b45213d46ba2",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8164877,
+            24.5463934
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1101058403F號",
+        "reg_docno": "南市教國字第11623號",
+        "reg_date": "1994\/07\/01",
+        "title": "臺南市安南區安順國民小學附設幼兒園",
+        "owner": "蘇建銘",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "公立",
+        "address": "[709]安和路三段193號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)3559451#891",
+        "url": "http:\/\/spc.tn.edu.tw\/k076\/begin.htm",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "78b56574-7a0f-498d-8231-c835ed8680ea",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.218199,
+            23.048321
+        ]
+    }
+}

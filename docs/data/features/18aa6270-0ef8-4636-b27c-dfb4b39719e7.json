@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010034437號",
+        "reg_docno": "府社幼字第09126743800號",
+        "reg_date": "2002\/10\/02",
+        "title": "臺中市私立亞特藍幼兒園",
+        "owner": "王銘誠",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "私立",
+        "address": "[420]豐西街101號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25278289",
+        "url": "YATerLEN@yahoo.com.tw",
+        "count_approved": "140",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "18aa6270-0ef8-4636-b27c-dfb4b39719e7",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.711105,
+            24.251269
+        ]
+    }
+}

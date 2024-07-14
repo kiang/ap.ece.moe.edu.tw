@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010080231號",
+        "reg_docno": "府教特字第0950109898號",
+        "reg_date": "2006\/06\/19",
+        "title": "臺中市私立西屯四季藝術幼兒園",
+        "owner": "唐富美",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]上安路89號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)27068000",
+        "url": "",
+        "count_approved": "540",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "a342def5-06dc-4568-941b-935803612cca",
+        "monthly": 14993
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6402634,
+            24.1709008
+        ]
+    }
+}

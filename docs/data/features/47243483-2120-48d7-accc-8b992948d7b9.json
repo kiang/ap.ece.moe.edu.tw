@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三峽0020號",
+        "reg_docno": "北府社兒字第0920486631號",
+        "reg_date": "2003\/07\/30",
+        "title": "新北市私立快樂靜思園幼兒園",
+        "owner": "楊貴南",
+        "city": "新北市",
+        "town": "三峽區",
+        "type": "私立",
+        "address": "[237]中華路15巷5號1樓(含夾層)、7號1樓(含夾層)",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)86717127",
+        "url": "https:\/\/www.facebook.com\/HappyJingSiyuankindergarten\/",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "47243483-2120-48d7-accc-8b992948d7b9",
+        "monthly": 14606
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.374505,
+            24.932447
+        ]
+    }
+}

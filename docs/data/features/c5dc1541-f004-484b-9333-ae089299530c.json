@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1010112964號",
+        "reg_docno": "府社福字第0950015927號",
+        "reg_date": "2006\/02\/08",
+        "title": "苗栗縣私立後龍芝麻街幼兒園",
+        "owner": "何玉梅",
+        "city": "苗栗縣",
+        "town": "後龍鎮",
+        "type": "私立",
+        "address": "[356]大庄8-7號",
+        "floor": "1樓",
+        "size": "1,099.33平方公尺",
+        "size_in": "439.73平方公尺",
+        "size_out": "659.6平方公尺",
+        "tel": "(037)725588",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c5dc1541-f004-484b-9333-ae089299530c",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.79979,
+            24.616897
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040038077號",
+        "reg_docno": "府社兒字第0980297225號",
+        "reg_date": "2009\/08\/03",
+        "title": "桃園市私立昱誠幼兒園",
+        "owner": "黃瑋淨",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]長春二路80、82號1-2樓、86號2樓",
+        "floor": "1,2樓",
+        "size": "604.44平方公尺",
+        "size_in": "479平方公尺",
+        "size_out": "125.44平方公尺",
+        "tel": "(03)4334111",
+        "url": "",
+        "count_approved": "168",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3cc3fdbb-64ad-4e69-9a7c-a7fb05cf6668",
+        "monthly": 12000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2481661,
+            24.9787015
+        ]
+    }
+}

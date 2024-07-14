@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100061864號",
+        "reg_docno": "中市教幼字第1090069629號",
+        "reg_date": "2020\/08\/01",
+        "title": "臺中市霧峰區僑榮國民小學附設幼兒園",
+        "owner": "許坤富",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "公立",
+        "address": "[413]民生路156號",
+        "floor": "1樓",
+        "size": "579平方公尺",
+        "size_in": "399平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(04)23335553#800",
+        "url": "https:\/\/cres.tc.edu.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1090179d-8a58-4c17-8275-a6c0a2c0721c",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7028117,
+            24.0701972
+        ]
+    }
+}

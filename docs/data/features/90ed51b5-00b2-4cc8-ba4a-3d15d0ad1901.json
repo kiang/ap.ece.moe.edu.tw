@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0059號",
+        "reg_docno": "北府社兒字第0920023531號",
+        "reg_date": "2003\/01\/10",
+        "title": "新北市私立興南幼兒園",
+        "owner": "朱力新",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]景新街347號2樓",
+        "floor": "2",
+        "size": "302.9平方公尺",
+        "size_in": "302.9平方公尺",
+        "size_out": "",
+        "tel": "(02)89421996",
+        "url": "",
+        "count_approved": "65",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "90ed51b5-00b2-4cc8-ba4a-3d15d0ad1901",
+        "monthly": 16534
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5119947,
+            24.9910252
+        ]
+    }
+}

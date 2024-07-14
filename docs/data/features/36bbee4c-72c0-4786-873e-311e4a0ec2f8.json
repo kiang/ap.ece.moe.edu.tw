@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1050170647號",
+        "reg_docno": "府教特字第09400810730號",
+        "reg_date": "2005\/06\/09",
+        "title": "花蓮縣萬榮鄉西林國民小學附設幼兒園",
+        "owner": "胡永寶",
+        "city": "花蓮縣",
+        "town": "萬榮鄉",
+        "type": "公立",
+        "address": "[979]114號",
+        "floor": "1",
+        "size": "249.375平方公尺",
+        "size_in": "159.375平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)8771064#220",
+        "url": "http:\/\/slt.slps.hlc.edu.tw\/xoopsU\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "36bbee4c-72c0-4786-873e-311e4a0ec2f8",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.440559,
+            23.811614
+        ]
+    }
+}

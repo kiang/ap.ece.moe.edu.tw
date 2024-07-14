@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040035649號",
+        "reg_docno": "府社福字第17802號",
+        "reg_date": "1987\/03\/02",
+        "title": "財團法人台灣省天主教會新竹教區附設桃園市私立瑪利幼兒園",
+        "owner": "",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]成功路二段56號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3335409",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0116476f-8764-41cc-8c11-91ac4b58f591",
+        "monthly": 13767
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.315477,
+            24.993565
+        ]
+    }
+}

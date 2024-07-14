@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010028938號",
+        "reg_docno": "府社褔字第143206號",
+        "reg_date": "1996\/06\/10",
+        "title": "臺中市私立一心園幼兒園",
+        "owner": "劉俊孝",
+        "city": "臺中市",
+        "town": "東勢區",
+        "type": "私立",
+        "address": "[423]新寧街70號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25880116",
+        "url": "",
+        "count_approved": "113",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "68c7b149-784d-467c-b523-d5a0a7a1ae46",
+        "monthly": 9867
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.824803,
+            24.264316
+        ]
+    }
+}

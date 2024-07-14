@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100230369號",
+        "reg_docno": "府教幼字第1100230369號",
+        "reg_date": "2021\/09\/22",
+        "title": "桃園市私立風禾日光幼兒園",
+        "owner": "朱嘉俊",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]慈文路666號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)2161685",
+        "url": "桃園市桃園區慈文路666號",
+        "count_approved": "407",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "af01363c-c838-45cc-a84d-e46762630cff",
+        "monthly": 15930
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2933225,
+            25.001247
+        ]
+    }
+}

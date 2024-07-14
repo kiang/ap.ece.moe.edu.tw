@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110177291號",
+        "reg_docno": "府教特字第1110177291號",
+        "reg_date": "2022\/08\/01",
+        "title": "花蓮縣鳳林鎮北林國民小學附設幼兒園",
+        "owner": "朱天德",
+        "city": "花蓮縣",
+        "town": "鳳林鎮",
+        "type": "公立",
+        "address": "[975]平園路32號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8762554#20",
+        "url": "http:\/\/www.blps.hlc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f8bac98f-edcb-4355-b6d5-acdd5bccfcaa",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.468264,
+            23.771567
+        ]
+    }
+}

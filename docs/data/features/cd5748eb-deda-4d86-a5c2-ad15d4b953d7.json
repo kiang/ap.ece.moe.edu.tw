@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第806-2號",
+        "reg_docno": "北市教前字第11130150361號",
+        "reg_date": "2022\/09\/30",
+        "title": "臺北市東中非營利幼兒園（委託社團法人台北市幼兒園協會辦理）",
+        "owner": "梁偉莉",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "非營利",
+        "address": "[114]康樂街131號1樓(東湖國中內)",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)2631-1368",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cd5748eb-deda-4d86-a5c2-ad15d4b953d7",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6201035,
+            25.0725594
+        ]
+    }
+}

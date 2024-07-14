@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129550089號",
+        "reg_docno": "府社婦幼字第1000007606K號",
+        "reg_date": "1981\/07\/01",
+        "title": "新竹縣湖口鄉立幼兒園",
+        "owner": "吳淑君",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "公立",
+        "address": "[303]信義街59號",
+        "floor": "1樓、2樓、3樓",
+        "size": "603.86平方公尺",
+        "size_in": "469.3平方公尺",
+        "size_out": "134.56平方公尺",
+        "tel": "(03)5990514",
+        "url": "www.hukou.gov.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5cd3ed57-be70-4a46-b99d-4367bc35d6ec",
+        "monthly": 3300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0491719,
+            24.9064177
+        ]
+    }
+}

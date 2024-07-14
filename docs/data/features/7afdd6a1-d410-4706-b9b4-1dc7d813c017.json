@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1040166350號",
+        "reg_docno": "南市社福字第24071號",
+        "reg_date": "1999\/07\/23",
+        "title": "臺南市私立長春藤幼兒園",
+        "owner": "高文和",
+        "city": "臺南市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[702]新興路289、289之2號",
+        "floor": "1層",
+        "size": "2,043平方公尺",
+        "size_in": "774.9平方公尺",
+        "size_out": "1,268.1平方公尺",
+        "tel": "(06)2648377",
+        "url": "",
+        "count_approved": "110",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7afdd6a1-d410-4706-b9b4-1dc7d813c017",
+        "monthly": 7000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1922772,
+            22.9760475
+        ]
+    }
+}

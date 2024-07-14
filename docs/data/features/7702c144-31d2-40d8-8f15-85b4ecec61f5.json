@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680板橋0157之1號",
+        "reg_docno": "73北府教二字第126984號",
+        "reg_date": "1984\/05\/22",
+        "title": "新北市私立板橋天翔幼兒園",
+        "owner": "黃愛茱",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]南雅西路二段253之1號1樓及2樓",
+        "floor": "1-2樓",
+        "size": "721.27平方公尺",
+        "size_in": "62.09平方公尺",
+        "size_out": "659.18平方公尺",
+        "tel": "(02)29664630",
+        "url": "http:\/\/tianshiang2.urb.com.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7702c144-31d2-40d8-8f15-85b4ecec61f5",
+        "monthly": 5075
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.451708,
+            25.0147389
+        ]
+    }
+}

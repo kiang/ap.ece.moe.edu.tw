@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090029811號",
+        "reg_docno": "(65)坊文字第16758號",
+        "reg_date": "2004\/12\/15",
+        "title": "金門縣金湖鎮柏村國民小學附設幼兒園",
+        "owner": "許雪芳",
+        "city": "金門縣",
+        "town": "金湖鎮",
+        "type": "公立",
+        "address": "[891]新塘10號",
+        "floor": "1",
+        "size": "624平方公尺",
+        "size_in": "336平方公尺",
+        "size_out": "288平方公尺",
+        "tel": "(082)332465#18",
+        "url": "http:\/\/www.btps.km.edu.tw\/",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5be64a3e-6fd8-43ee-b654-b73f269bebe2",
+        "monthly": 1578
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.438341,
+            24.422779
+        ]
+    }
+}

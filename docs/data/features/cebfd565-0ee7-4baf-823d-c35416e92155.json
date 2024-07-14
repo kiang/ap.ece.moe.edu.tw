@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070112710號",
+        "reg_docno": "中市教幼字第1010054503號",
+        "reg_date": "2012\/08\/01",
+        "title": "臺中市烏日區旭光國民小學附設幼兒園",
+        "owner": "許慶昌",
+        "city": "臺中市",
+        "town": "烏日區",
+        "type": "公立",
+        "address": "[414]健行路501號",
+        "floor": "1樓",
+        "size": "919.44平方公尺",
+        "size_in": "328.51平方公尺",
+        "size_out": "590.93平方公尺",
+        "tel": "(04)23381847#750",
+        "url": "http:\/\/www.xkes.tc.edu.tw\/drupal\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cebfd565-0ee7-4baf-823d-c35416e92155",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.594394,
+            24.1104873
+        ]
+    }
+}

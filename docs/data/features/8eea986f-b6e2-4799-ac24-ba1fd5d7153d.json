@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010122374號",
+        "reg_docno": "府教國字第78116號",
+        "reg_date": "1985\/09\/17",
+        "title": "財團法人天主教會花蓮教區附設花蓮縣私立明德幼兒園",
+        "owner": "",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "私立",
+        "address": "[970]中美路168號",
+        "floor": "1",
+        "size": "3,423平方公尺",
+        "size_in": "293.48平方公尺",
+        "size_out": "3,129.52平方公尺",
+        "tel": "(03)8222670",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8eea986f-b6e2-4799-ac24-ba1fd5d7153d",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.625518,
+            23.990644
+        ]
+    }
+}

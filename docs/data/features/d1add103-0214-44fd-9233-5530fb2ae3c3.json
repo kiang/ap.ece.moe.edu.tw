@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010600665號",
+        "reg_docno": "府社福字第189122號",
+        "reg_date": "1995\/11\/22",
+        "title": "臺南市私立佳里崧安幼兒園",
+        "owner": "黃敏雪",
+        "city": "臺南市",
+        "town": "佳里區",
+        "type": "私立",
+        "address": "[722]佳西路392號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)7235691",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "d1add103-0214-44fd-9233-5530fb2ae3c3",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.168041,
+            23.166203
+        ]
+    }
+}

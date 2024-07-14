@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120201968號",
+        "reg_docno": "75府教學字第9038號",
+        "reg_date": "1986\/01\/28",
+        "title": "桃園市私立長青幼兒園",
+        "owner": "鄧仁春",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]湧光路2巷13弄19、21、23、25號1樓及27號1樓至3樓",
+        "floor": "1-2",
+        "size": "997.47平方公尺",
+        "size_in": "195.57平方公尺",
+        "size_out": "801.9平方公尺",
+        "tel": "(03)4696496",
+        "url": "http:\/\/www.kid-school.tw\/",
+        "count_approved": "187",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ad87d582-072d-4089-9b4e-8fa82f19407b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2100368,
+            24.8987466
+        ]
+    }
+}

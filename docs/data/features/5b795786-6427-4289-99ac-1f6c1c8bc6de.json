@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680土城0080號",
+        "reg_docno": "新北府教幼字第1111585488號",
+        "reg_date": "2022\/09\/30",
+        "title": "新北市私立有一天幼兒園",
+        "owner": "黃愛茱",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]廣福街2號1-3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,350.41平方公尺",
+        "size_in": "682.08平方公尺",
+        "size_out": "668.33平方公尺",
+        "tel": "(02)82603126",
+        "url": "",
+        "count_approved": "181",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "5b795786-6427-4289-99ac-1f6c1c8bc6de",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4575132,
+            24.9888254
+        ]
+    }
+}

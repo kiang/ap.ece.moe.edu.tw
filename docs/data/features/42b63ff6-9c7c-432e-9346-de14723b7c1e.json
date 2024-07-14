@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字字第1070080535號",
+        "reg_docno": "府教幼字第1020092887號",
+        "reg_date": "2013\/08\/01",
+        "title": "新竹縣新豐鄉松林國民小學附設幼兒園",
+        "owner": "陳智華",
+        "city": "新竹縣",
+        "town": "新豐鄉",
+        "type": "公立",
+        "address": "[304]松林街99號",
+        "floor": "1樓",
+        "size": "243平方公尺",
+        "size_in": "137平方公尺",
+        "size_out": "106平方公尺",
+        "tel": "(03)5573601#845",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "42b63ff6-9c7c-432e-9346-de14723b7c1e",
+        "monthly": 3566
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9914837,
+            24.8696101
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第780-1號",
+        "reg_docno": "北市教前字第10830639221號",
+        "reg_date": "2019\/08\/14",
+        "title": "臺北市雙中非營利幼兒園（委託財團法人台北市中華基督教青年會辦理）",
+        "owner": "賴允亮",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "非營利",
+        "address": "[108]興義街2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)2336-3258",
+        "url": "評鑑情形：",
+        "count_approved": "182",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "61d4933a-7b7a-4d48-9bc1-ad8d6d8954a6",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4926457,
+            25.0275539
+        ]
+    }
+}

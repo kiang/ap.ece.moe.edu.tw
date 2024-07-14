@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1062424856號",
+        "reg_docno": "府社幼字第0990604031號",
+        "reg_date": "2010\/03\/26",
+        "title": "雲林縣私立班米羅幼兒園",
+        "owner": "張博文",
+        "city": "雲林縣",
+        "town": "元長鄉",
+        "type": "私立",
+        "address": "[655]元西路74巷1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)7883388",
+        "url": "",
+        "count_approved": "138",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1fc4d173-8935-4fee-a6dc-badcc5cd7c38",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.31026,
+            23.651394
+        ]
+    }
+}

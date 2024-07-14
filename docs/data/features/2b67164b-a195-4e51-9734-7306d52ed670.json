@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "南市教國字第42895號",
+        "reg_date": "1977\/08\/20",
+        "title": "臺南市東區博愛國民小學附設幼兒園",
+        "owner": "曾千純",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "公立",
+        "address": "[701]前鋒路100號",
+        "floor": "1樓、2樓",
+        "size": "1,319平方公尺",
+        "size_in": "545平方公尺",
+        "size_out": "774平方公尺",
+        "tel": "(06)2361723",
+        "url": "https:\/\/schoolweb.tn.edu.tw\/~paes_kids\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2b67164b-a195-4e51-9734-7306d52ed670",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2131595,
+            22.993209
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080037645E號",
+        "reg_docno": "府社幼字第1000391305號",
+        "reg_date": "1994\/11\/25",
+        "title": "彰化縣員林市立幼兒園西東分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "員林市",
+        "type": "公立",
+        "address": "[510]浮圳路一段365巷56弄36號",
+        "floor": "1樓",
+        "size": "263.5平方公尺",
+        "size_in": "136平方公尺",
+        "size_out": "111.6平方公尺",
+        "tel": "(04)8314771",
+        "url": "https:\/\/www.ytp.gov.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "eb329ee3-a7d0-4f50-ba27-1a815561f303",
+        "monthly": 3813
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.589467,
+            23.967234
+        ]
+    }
+}

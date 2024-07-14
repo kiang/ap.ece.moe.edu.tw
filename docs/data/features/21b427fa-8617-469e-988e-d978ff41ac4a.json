@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120146755號",
+        "reg_docno": "76教四字第00944號",
+        "reg_date": "1987\/02\/07",
+        "title": "宜蘭縣三星鄉三星國民小學附設幼兒園",
+        "owner": "游育豪",
+        "city": "宜蘭縣",
+        "town": "三星鄉",
+        "type": "公立",
+        "address": "[266]三星路五段86號",
+        "floor": "1樓",
+        "size": "587.59平方公尺",
+        "size_in": "352.36平方公尺",
+        "size_out": "235.23平方公尺",
+        "tel": "(03)9892026#23",
+        "url": "140.111.158.1",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "21b427fa-8617-469e-988e-d978ff41ac4a",
+        "monthly": 2788
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.650732,
+            24.6661911
+        ]
+    }
+}

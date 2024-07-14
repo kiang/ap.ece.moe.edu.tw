@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080264729號",
+        "reg_docno": "府社婦字第0950074301號",
+        "reg_date": "2006\/03\/20",
+        "title": "桃園市私立大賞蒙特梭利幼兒園",
+        "owner": "莊惠如",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]中山路777號1樓之2、之3",
+        "floor": "1樓",
+        "size": "175.86平方公尺",
+        "size_in": "175.86平方公尺",
+        "size_out": "",
+        "tel": "(03)2201198",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2efb8128-3415-440a-a131-7a94d1a5a1ba",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.289813,
+            24.9902239
+        ]
+    }
+}

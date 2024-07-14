@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010035703號",
+        "reg_docno": "75府教國字第17744號",
+        "reg_date": "1986\/01\/27",
+        "title": "臺中市私立明典幼兒園",
+        "owner": "盧秀琴",
+        "city": "臺中市",
+        "town": "大甲區",
+        "type": "私立",
+        "address": "[437]經國路2122號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26813515",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e7b9e5fd-1971-4c7f-9920-6df9b09f378f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.652317,
+            24.384652
+        ]
+    }
+}

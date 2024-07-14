@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第11200168554號",
+        "reg_docno": "83府人一字第168773號",
+        "reg_date": "1994\/12\/30",
+        "title": "嘉義縣水上鄉立水上幼兒園",
+        "owner": "林緗亭",
+        "city": "嘉義縣",
+        "town": "水上鄉",
+        "type": "公立",
+        "address": "[608]2-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2601011",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cc96f9c8-05fa-4940-bd8e-ca1a2bfde7ba",
+        "monthly": 2743
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.425858,
+            23.418518
+        ]
+    }
+}

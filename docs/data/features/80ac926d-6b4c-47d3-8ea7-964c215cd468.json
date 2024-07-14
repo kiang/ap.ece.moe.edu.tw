@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1110239985號",
+        "reg_docno": "（七六）基府教國字第27530號",
+        "reg_date": "1987\/06\/08",
+        "title": "基隆市中正區和平國民小學附設幼兒園",
+        "owner": "莊士杰",
+        "city": "基隆市",
+        "town": "中正區",
+        "type": "公立",
+        "address": "[202]和一路84巷26號",
+        "floor": "1樓、1樓",
+        "size": "1,055平方公尺",
+        "size_in": "455平方公尺",
+        "size_out": "600平方公尺",
+        "tel": "(02)24622106#60",
+        "url": "http:\/\/www.hpps.kl.edu.tw",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "80ac926d-6b4c-47d3-8ea7-964c215cd468",
+        "monthly": 3111
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.765958,
+            25.155832
+        ]
+    }
+}

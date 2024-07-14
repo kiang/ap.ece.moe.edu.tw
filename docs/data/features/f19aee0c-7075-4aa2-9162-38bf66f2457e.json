@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第172號",
+        "reg_docno": "北市教三字第13109號",
+        "reg_date": "1967\/09\/22",
+        "title": "臺北市私立博愛幼兒園",
+        "owner": "林逸祥",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "私立",
+        "address": "[108]武成街28巷9弄2號",
+        "floor": "1樓、2樓",
+        "size": "727.26平方公尺",
+        "size_in": "495.86平方公尺",
+        "size_out": "231.4平方公尺",
+        "tel": "(02)23072749",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f19aee0c-7075-4aa2-9162-38bf66f2457e",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4953,
+            25.01913
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110224265號",
+        "reg_docno": "82府教國字第138777號",
+        "reg_date": "1993\/06\/25",
+        "title": "桃園市桃園區青溪國民小學附設幼兒園",
+        "owner": "徐衍正",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "公立",
+        "address": "[330]自強路80號1-3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3347883#817",
+        "url": "http:\/\/class.csps.tyc.edu.tw\/129\/main\/Default.asp",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "765968a2-a5d6-4dba-a101-9cc08067aba7",
+        "monthly": 4032
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.317692,
+            24.9996579
+        ]
+    }
+}

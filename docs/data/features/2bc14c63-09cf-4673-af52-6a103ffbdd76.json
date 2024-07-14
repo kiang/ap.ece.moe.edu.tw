@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080080315號",
+        "reg_docno": "府教幼字第1070217955號",
+        "reg_date": "2018\/08\/30",
+        "title": "桃園市私立丹妮幼兒園",
+        "owner": "林玉梅",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "私立",
+        "address": "[325]武中路269號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4890666",
+        "url": "",
+        "count_approved": "680",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：230",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2bc14c63-09cf-4673-af52-6a103ffbdd76",
+        "monthly": 14704
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.232659,
+            24.879395
+        ]
+    }
+}

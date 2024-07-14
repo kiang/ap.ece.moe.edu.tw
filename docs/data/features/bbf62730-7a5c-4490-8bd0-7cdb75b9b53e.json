@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100058376號",
+        "reg_docno": "中市教幼字第1100058376號",
+        "reg_date": "2021\/08\/01",
+        "title": "臺中市北屯區松竹國民小學附設幼兒園",
+        "owner": "黃永昆",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "公立",
+        "address": "[406]昌平路二段12號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22447043#717",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bbf62730-7a5c-4490-8bd0-7cdb75b9b53e",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6895564,
+            24.1808056
+        ]
+    }
+}

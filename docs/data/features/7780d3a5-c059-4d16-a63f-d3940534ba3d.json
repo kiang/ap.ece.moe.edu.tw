@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120226723號",
+        "reg_docno": "府社兒字第1000543003號",
+        "reg_date": "2002\/09\/01",
+        "title": "桃園市立中壢高鐵幼兒園",
+        "owner": "余佩玲",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "公立",
+        "address": "[320]民權路三段1488號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4220992",
+        "url": "",
+        "count_approved": "138",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7780d3a5-c059-4d16-a63f-d3940534ba3d",
+        "monthly": 3938
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2051364,
+            24.9996576
+        ]
+    }
+}

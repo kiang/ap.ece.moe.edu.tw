@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第10100742045號",
+        "reg_docno": "中市社婦字第1000098991號",
+        "reg_date": "1981\/09\/05",
+        "title": "臺中市立豐原幼兒園社皮分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "公立",
+        "address": "[420]社皮路123巷5弄2號",
+        "floor": "1樓、2樓",
+        "size": "321.56平方公尺",
+        "size_in": "321.56平方公尺",
+        "size_out": "",
+        "tel": "(04)25255055",
+        "url": "https:\/\/fykg.tc.edu.tw\/",
+        "count_approved": "44",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "53daf2fc-1963-4a40-95c0-486ed9baa8ea",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7003471,
+            24.2421029
+        ]
+    }
+}

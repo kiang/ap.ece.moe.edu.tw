@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010333422號",
+        "reg_docno": "府社福字第127993號",
+        "reg_date": "1992\/09\/22",
+        "title": "臺南市私立哈佛幼兒園",
+        "owner": "李仁君",
+        "city": "臺南市",
+        "town": "新營區",
+        "type": "私立",
+        "address": "[730]育德十一街37號",
+        "floor": "1樓至2樓",
+        "size": "826.86平方公尺",
+        "size_in": "458.77平方公尺",
+        "size_out": "368.09平方公尺",
+        "tel": "(06)6569481",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6c3efdb3-ddef-44ba-8b62-4e967367a17a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.310624,
+            23.314087
+        ]
+    }
+}

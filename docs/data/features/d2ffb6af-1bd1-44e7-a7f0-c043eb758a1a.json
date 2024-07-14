@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070088674號",
+        "reg_docno": "中市教幼字第1070088674號",
+        "reg_date": "2018\/10\/22",
+        "title": "臺中市星光教育發展協會附設臺中市私立星光國際幼兒園",
+        "owner": "林文寶",
+        "city": "臺中市",
+        "town": "神岡區",
+        "type": "私立",
+        "address": "[429]豐原大道七段567及569號",
+        "floor": "1樓",
+        "size": "1,562.87平方公尺",
+        "size_in": "863.03平方公尺",
+        "size_out": "699.84平方公尺",
+        "tel": "(04)25201465",
+        "url": "",
+        "count_approved": "195",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d2ffb6af-1bd1-44e7-a7f0-c043eb758a1a",
+        "monthly": 27867
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7102844,
+            24.2611614
+        ]
+    }
+}

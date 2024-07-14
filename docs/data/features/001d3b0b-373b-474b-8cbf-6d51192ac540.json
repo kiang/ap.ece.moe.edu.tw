@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1120156221號",
+        "reg_docno": "府教特字第99738號",
+        "reg_date": "2006\/07\/28",
+        "title": "苗栗縣私立名家幼兒園",
+        "owner": "吳雪嬌",
+        "city": "苗栗縣",
+        "town": "苑裡鎮",
+        "type": "私立",
+        "address": "[358]新復23-1號",
+        "floor": "1-2",
+        "size": "1,965平方公尺",
+        "size_in": "1,080平方公尺",
+        "size_out": "885平方公尺",
+        "tel": "(037)864283",
+        "url": "",
+        "count_approved": "200",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "001d3b0b-373b-474b-8cbf-6d51192ac540",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.648703,
+            24.418916
+        ]
+    }
+}

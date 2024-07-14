@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620中和0062號",
+        "reg_docno": "北府社兒字第0910513369號",
+        "reg_date": "2002\/08\/26",
+        "title": "新北市私立底格里思幼兒園",
+        "owner": "廖偉尊",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]中正路675號1~2樓",
+        "floor": "1.2(F)",
+        "size": "603.89平方公尺",
+        "size_in": "603.89平方公尺",
+        "size_out": "",
+        "tel": "(02)82266588",
+        "url": "",
+        "count_approved": "139",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "86ebbd61-434f-4835-8af6-38c171744d79",
+        "monthly": 17906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.484951,
+            24.996512
+        ]
+    }
+}

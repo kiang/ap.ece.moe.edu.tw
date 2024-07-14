@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第771-1號",
+        "reg_docno": "北市教前字第10760669981號",
+        "reg_date": "2018\/11\/15",
+        "title": "臺北市私立國際蒙特梭利北投幼兒園",
+        "owner": "黃郁雯",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]光明路226-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28949605",
+        "url": "http:\/\/www.elites.tw\/ch\/index.php",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9e5987e8-cb9e-4f1f-890b-8c9db44d460b",
+        "monthly": 28060
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.505455,
+            25.135975
+        ]
+    }
+}

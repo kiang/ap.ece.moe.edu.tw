@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10336258200號",
+        "reg_docno": "高市社局四字第24437號",
+        "reg_date": "1996\/10\/08",
+        "title": "高雄市私立友愛幼兒園",
+        "owner": "王俐文",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]大豐一路140號",
+        "floor": "1樓、2樓",
+        "size": "460.93平方公尺",
+        "size_in": "246平方公尺",
+        "size_out": "214.93平方公尺",
+        "tel": "(07)3800593",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7bc91859-4d82-4d43-9026-a8de3b82e6a0",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.331214,
+            22.657337
+        ]
+    }
+}

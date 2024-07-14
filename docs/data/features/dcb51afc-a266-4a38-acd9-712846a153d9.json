@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110235314號",
+        "reg_docno": "府教幼字第1060209892號",
+        "reg_date": "2017\/08\/31",
+        "title": "桃園市龍興非營利幼兒園（委託南亞科技學校財團法人設立之南亞技術學院辦理）",
+        "owner": "連信仲",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "非營利",
+        "address": "[320]龍勇路100號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4573641#20",
+        "url": "評鑑情形：",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dcb51afc-a266-4a38-acd9-712846a153d9",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.23608,
+            24.9379609
+        ]
+    }
+}

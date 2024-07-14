@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "府教國字第112219號",
+        "reg_date": "1977\/10\/19",
+        "title": "臺南市永康區復興國民小學附設幼兒園",
+        "owner": "張慧芬",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "公立",
+        "address": "[710]華興街2號",
+        "floor": "1樓",
+        "size": "3,521.95平方公尺",
+        "size_in": "499.28平方公尺",
+        "size_out": "3,022.67平方公尺",
+        "tel": "(06)3111569#610",
+        "url": "http:\/\/163.26.177.1\/index.htm",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "42165639-9f86-4b6e-aaed-e34823ef9efc",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.239391,
+            23.001268
+        ]
+    }
+}

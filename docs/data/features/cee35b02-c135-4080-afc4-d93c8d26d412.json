@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11230272300號",
+        "reg_docno": "75高市教育三字第19452號",
+        "reg_date": "1986\/07\/03",
+        "title": "高雄市煉油廠員工子女非營利幼兒園(財團法人台灣中油股份有限公司職工福利委員會申請辦理)",
+        "owner": "謝明政",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "非營利",
+        "address": "[811]宏毅二路78號",
+        "floor": "1樓",
+        "size": "6,170.14平方公尺",
+        "size_in": "2,319.14平方公尺",
+        "size_out": "2,056.79平方公尺",
+        "tel": "(07)5824141#6491",
+        "url": "https:\/\/reurl.cc\/OjAY7y",
+        "count_approved": "270",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cee35b02-c135-4080-afc4-d93c8d26d412",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.303916,
+            22.713934
+        ]
+    }
+}

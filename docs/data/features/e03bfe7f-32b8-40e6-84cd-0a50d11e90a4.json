@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680中和0114號",
+        "reg_docno": "新北府教幼字第1112481163號",
+        "reg_date": "2023\/02\/24",
+        "title": "新北市私立禾芮幼兒園",
+        "owner": "黃國沛",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]員山路320號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22225300",
+        "url": "",
+        "count_approved": "23",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e03bfe7f-32b8-40e6-84cd-0a50d11e90a4",
+        "monthly": 20120
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.481333,
+            25.003045
+        ]
+    }
+}

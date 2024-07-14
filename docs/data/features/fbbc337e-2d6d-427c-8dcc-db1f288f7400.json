@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1091207330號",
+        "reg_docno": "南市教特(一)字第1091207330號",
+        "reg_date": "2020\/10\/12",
+        "title": "臺南市私立大舜科技幼兒園",
+        "owner": "白賜春",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]工業二路152號",
+        "floor": "1樓",
+        "size": "760.89平方公尺",
+        "size_in": "421.67平方公尺",
+        "size_out": "339.22平方公尺",
+        "tel": "(06)3842501",
+        "url": "https:\/\/www.facebook.com\/Dashingkindergarten?locale=zh_TW",
+        "count_approved": "98",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fbbc337e-2d6d-427c-8dcc-db1f288f7400",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1449321,
+            23.0458717
+        ]
+    }
+}

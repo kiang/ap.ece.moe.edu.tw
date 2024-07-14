@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100219518號",
+        "reg_docno": "府教幼字第1040199461號",
+        "reg_date": "2015\/08\/01",
+        "title": "桃園市楊梅區上田國民小學附設幼兒園",
+        "owner": "吳烈洲",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "公立",
+        "address": "[326]和平路98號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4782544#100",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c86d0a01-c289-4079-9ad1-f9d12cb67860",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1260218,
+            24.937424
+        ]
+    }
+}

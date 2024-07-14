@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060434740號",
+        "reg_docno": "八八彰府社福字第149158號",
+        "reg_date": "1999\/08\/06",
+        "title": "彰化縣私立強森永靖幼兒園",
+        "owner": "侯綾珛",
+        "city": "彰化縣",
+        "town": "永靖鄉",
+        "type": "私立",
+        "address": "[512]永寧街46巷20號",
+        "floor": "1樓至3樓",
+        "size": "1,188.74平方公尺",
+        "size_in": "729.64平方公尺",
+        "size_out": "459.1平方公尺",
+        "tel": "(04)8220957",
+        "url": "http:\/\/無",
+        "count_approved": "133",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0e907628-8709-4e37-a9b7-a9025b6d53e1",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.547421,
+            23.92223
+        ]
+    }
+}

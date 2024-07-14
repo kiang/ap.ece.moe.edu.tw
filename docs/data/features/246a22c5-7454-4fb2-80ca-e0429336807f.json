@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第712-1號",
+        "reg_docno": "北市社四字第16939號",
+        "reg_date": "1991\/05\/14",
+        "title": "臺北市私立三暉幼兒園",
+        "owner": "孫秉煥",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]和平東路一段91號2樓及2樓之1、2樓之2",
+        "floor": "2樓",
+        "size": "425.88平方公尺",
+        "size_in": "425.88平方公尺",
+        "size_out": "",
+        "tel": "(02)23225491",
+        "url": "http:\/\/www.sunshinekindergarten.com.tw\/",
+        "count_approved": "99",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "246a22c5-7454-4fb2-80ca-e0429336807f",
+        "monthly": 13100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5257307,
+            25.0269883
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110207941號",
+        "reg_docno": "府教幼字第1110207941號",
+        "reg_date": "2022\/08\/01",
+        "title": "桃園市八德區廣興國民小學附設幼兒園",
+        "owner": "黃晃盟",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "公立",
+        "address": "[334]廣興路601巷25號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3666007",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "942091de-7925-4b70-a65a-369f95ad2e77",
+        "monthly": 5116
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2833942,
+            24.9452776
+        ]
+    }
+}

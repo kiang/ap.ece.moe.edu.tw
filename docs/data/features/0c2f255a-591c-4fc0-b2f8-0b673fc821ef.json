@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680板橋0099之2號",
+        "reg_docno": "北府社兒字第0990197015號",
+        "reg_date": "2010\/03\/18",
+        "title": "新北市私立捧馨園幼兒園",
+        "owner": "楊麗瓊",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]國慶路126巷1號及3號1樓",
+        "floor": "1",
+        "size": "138.91平方公尺",
+        "size_in": "114.68平方公尺",
+        "size_out": "",
+        "tel": "(02)29564720",
+        "url": "",
+        "count_approved": "32",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "0c2f255a-591c-4fc0-b2f8-0b673fc821ef",
+        "monthly": 13373
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.460908,
+            24.9957059
+        ]
+    }
+}

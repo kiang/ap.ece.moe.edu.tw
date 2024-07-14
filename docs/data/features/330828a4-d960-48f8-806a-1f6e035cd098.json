@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1021144262號",
+        "reg_docno": "南市社兒字第09413592270號",
+        "reg_date": "2005\/12\/06",
+        "title": "臺南市私立愛普樂斯幼兒園",
+        "owner": "陳懿貞",
+        "city": "臺南市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[704]海安路三段833、835、837、839號",
+        "floor": "1",
+        "size": "2,054.22平方公尺",
+        "size_in": "878.94平方公尺",
+        "size_out": "1,175.28平方公尺",
+        "tel": "(06)3504488",
+        "url": "",
+        "count_approved": "272",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "330828a4-d960-48f8-806a-1f6e035cd098",
+        "monthly": 16522
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.20006,
+            23.016538
+        ]
+    }
+}

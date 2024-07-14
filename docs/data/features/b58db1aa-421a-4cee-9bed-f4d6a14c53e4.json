@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010228451號",
+        "reg_docno": "九0彰府社幼字第021942號",
+        "reg_date": "2001\/01\/31",
+        "title": "彰化縣私立永靖安琪爾幼兒園",
+        "owner": "林惠英",
+        "city": "彰化縣",
+        "town": "永靖鄉",
+        "type": "私立",
+        "address": "[512]永興路二段159之4號",
+        "floor": "1-2",
+        "size": "219.92平方公尺",
+        "size_in": "84.22平方公尺",
+        "size_out": "85.02平方公尺",
+        "tel": "(04)8239493",
+        "url": "",
+        "count_approved": "48",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：8",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b58db1aa-421a-4cee-9bed-f4d6a14c53e4",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5621161,
+            23.9241629
+        ]
+    }
+}

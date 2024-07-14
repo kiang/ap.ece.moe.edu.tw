@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1121515101號",
+        "reg_docno": "89府教特字第64810號",
+        "reg_date": "2000\/09\/04",
+        "title": "嘉義市西區垂楊國民小學附設幼兒園",
+        "owner": "邱家偉",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "公立",
+        "address": "[600]垂楊路605號",
+        "floor": "1樓",
+        "size": "935平方公尺",
+        "size_in": "761平方公尺",
+        "size_out": "174平方公尺",
+        "tel": "(05)2853151#119",
+        "url": "https:\/\/eduweb.cy.edu.tw\/?home=chifu992",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c43018fd-d4fc-4960-9d85-b6923038df57",
+        "monthly": 3170
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.438751,
+            23.472548
+        ]
+    }
+}

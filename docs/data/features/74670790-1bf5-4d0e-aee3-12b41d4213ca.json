@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0050號",
+        "reg_docno": "北府社兒字第0910275715號",
+        "reg_date": "2002\/06\/05",
+        "title": "新北市私立嘉盛幼兒園",
+        "owner": "武榮財",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]實踐路76之1號2樓、76之2號3樓",
+        "floor": "2樓至3樓",
+        "size": "316.48平方公尺",
+        "size_in": "316.48平方公尺",
+        "size_out": "",
+        "tel": "(02)89533958",
+        "url": "",
+        "count_approved": "84",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "74670790-1bf5-4d0e-aee3-12b41d4213ca",
+        "monthly": 15758
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.463894,
+            25.005482
+        ]
+    }
+}

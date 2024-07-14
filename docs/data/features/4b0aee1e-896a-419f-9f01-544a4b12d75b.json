@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10134966900號",
+        "reg_docno": "高市教三字第32752號",
+        "reg_date": "1999\/10\/12",
+        "title": "高雄市私立明星幼兒園",
+        "owner": "簡光明",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "私立",
+        "address": "[812]桂華街345號",
+        "floor": "1~2樓",
+        "size": "1,526.14平方公尺",
+        "size_in": "825.64平方公尺",
+        "size_out": "700.5平方公尺",
+        "tel": "(07)7917468",
+        "url": "http:\/\/superstar.topschool.tw",
+        "count_approved": "196",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4b0aee1e-896a-419f-9f01-544a4b12d75b",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.35363,
+            22.583344
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第111673680板橋0005之1號",
+        "reg_docno": "88北府社兒字第88139793號",
+        "reg_date": "1999\/03\/22",
+        "title": "新北市私立省思幼兒園",
+        "owner": "潘才碩",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]篤行路三段玉平巷101號1樓",
+        "floor": "1",
+        "size": "140.06平方公尺",
+        "size_in": "140.06平方公尺",
+        "size_out": "",
+        "tel": "(02)26758864",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ec55349d-18ed-42de-9dbe-bf858bdcec96",
+        "monthly": 10682
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.427878,
+            24.985112
+        ]
+    }
+}

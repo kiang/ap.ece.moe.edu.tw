@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620樹林0019號",
+        "reg_docno": "北府社兒字第0910168452號",
+        "reg_date": "1972\/02\/01",
+        "title": "新北市立樹林幼兒園山佳分班",
+        "owner": "",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "公立",
+        "address": "[238]中山路三段40號",
+        "floor": "1樓",
+        "size": "258.32平方公尺",
+        "size_in": "166.8平方公尺",
+        "size_out": "91.52平方公尺",
+        "tel": "(02)26805142",
+        "url": "http:\/\/www.daycare-shulin.ntpc.gov.tw\/web\/Home?command=display&page=flash",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cd93bea7-d995-4bb6-8d6e-d7cb9ac49d02",
+        "monthly": 3706
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.394354,
+            24.972647
+        ]
+    }
+}

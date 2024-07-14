@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011707842三重0004號",
+        "reg_docno": "北府社兒字第0980471783號",
+        "reg_date": "2009\/06\/16",
+        "title": "新北市私立安尼爾幼兒園",
+        "owner": "林慧玟",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]仁政街111、113號1樓",
+        "floor": "1",
+        "size": "410.7平方公尺",
+        "size_in": "273.04平方公尺",
+        "size_out": "",
+        "tel": "(02)89817555",
+        "url": "gracea168@yahoo.com.tw",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "06097a7f-62a8-408a-b006-05b4a54330cf",
+        "monthly": 15133
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4918612,
+            25.0784695
+        ]
+    }
+}

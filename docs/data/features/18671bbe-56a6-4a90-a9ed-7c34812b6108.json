@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第396-1號",
+        "reg_docno": "北市社五字第09331982800號",
+        "reg_date": "2004\/03\/22",
+        "title": "臺北市私立勁寶兒文德幼兒園",
+        "owner": "徐世雲",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "私立",
+        "address": "[114]內湖路二段130號1樓",
+        "floor": "1樓",
+        "size": "140.23平方公尺",
+        "size_in": "140.23平方公尺",
+        "size_out": "",
+        "tel": "(02)26598109",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "18671bbe-56a6-4a90-a9ed-7c34812b6108",
+        "monthly": 12566
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.582367,
+            25.079453
+        ]
+    }
+}

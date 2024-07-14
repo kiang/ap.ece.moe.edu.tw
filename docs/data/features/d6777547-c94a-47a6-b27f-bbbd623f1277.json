@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129550155號",
+        "reg_docno": "府社婦幼字第1000007606I號",
+        "reg_date": "1980\/02\/01",
+        "title": "新竹縣竹東鎮立幼兒園",
+        "owner": "郭遠彰",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "公立",
+        "address": "[310]文林路33號",
+        "floor": "1樓、2樓、3樓、無",
+        "size": "1,834.86平方公尺",
+        "size_in": "835.8平方公尺",
+        "size_out": "259.01平方公尺",
+        "tel": "(03)5100884#11",
+        "url": "https:\/\/www.hcctt.gov.tw\/iframcontent_edit.php?menu=2649&typeid=2650",
+        "count_approved": "280",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d6777547-c94a-47a6-b27f-bbbd623f1277",
+        "monthly": 4900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.087019,
+            24.729182
+        ]
+    }
+}

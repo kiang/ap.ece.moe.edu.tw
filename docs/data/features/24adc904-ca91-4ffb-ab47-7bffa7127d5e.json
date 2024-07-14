@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110161780號",
+        "reg_docno": "府教學前字第1020154672號",
+        "reg_date": "2013\/08\/01",
+        "title": "苗栗縣通霄鎮南和國民小學附設幼兒園",
+        "owner": "劉興欽",
+        "city": "苗栗縣",
+        "town": "通霄鎮",
+        "type": "公立",
+        "address": "[357]117號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(037)782304#14",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "24adc904-ca91-4ffb-ab47-7bffa7127d5e",
+        "monthly": 3333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.720554,
+            24.447579
+        ]
+    }
+}

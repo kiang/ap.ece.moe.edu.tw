@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11044840800號",
+        "reg_docno": "屏府教國字第114561號",
+        "reg_date": "1999\/06\/30",
+        "title": "屏東縣里港鄉土庫國民小學附設幼兒園",
+        "owner": "施秀玉",
+        "city": "屏東縣",
+        "town": "里港鄉",
+        "type": "公立",
+        "address": "[905]中和路33號",
+        "floor": "1樓",
+        "size": "547.5平方公尺",
+        "size_in": "187.5平方公尺",
+        "size_out": "360平方公尺",
+        "tel": "(08)7731553#16",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2bdf439f-ad7a-4dc7-8f76-8f22e2e65ff5",
+        "monthly": 3846
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.492348,
+            22.807754
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120069297號",
+        "reg_docno": "府教特字第0990040987號",
+        "reg_date": "2010\/02\/12",
+        "title": "臺中市北區立人國民小學附設幼兒園",
+        "owner": "廖子成",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "公立",
+        "address": "[404]北平路一段60號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22956975#770",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8e4c3676-35f4-4cb4-915c-a21d1915ced8",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6694196,
+            24.1716656
+        ]
+    }
+}

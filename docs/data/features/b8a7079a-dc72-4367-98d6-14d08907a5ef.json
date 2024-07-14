@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040022842號",
+        "reg_docno": "府社兒字第1000484029號",
+        "reg_date": "1966\/07\/01",
+        "title": "桃園市立新屋幼兒園永安分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "新屋區",
+        "type": "公立",
+        "address": "[327]中山西路二段1309號1-2樓",
+        "floor": "1樓、2樓",
+        "size": "257.2平方公尺",
+        "size_in": "159.2平方公尺",
+        "size_out": "98平方公尺",
+        "tel": "(03)4861720",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b8a7079a-dc72-4367-98d6-14d08907a5ef",
+        "monthly": 3848
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.04643,
+            24.9865069
+        ]
+    }
+}

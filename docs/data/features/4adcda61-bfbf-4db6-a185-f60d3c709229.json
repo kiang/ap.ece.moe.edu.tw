@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040031793號",
+        "reg_docno": "府社福字第16896號",
+        "reg_date": "1995\/01\/27",
+        "title": "桃園市私立明子園幼兒園",
+        "owner": "謝函殷",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]文化街68巷6號1-3樓",
+        "floor": "3",
+        "size": "548.79平方公尺",
+        "size_in": "335.99平方公尺",
+        "size_out": "212.8平方公尺",
+        "tel": "(03)4945172",
+        "url": "http:\/\/means.urb.com.tw",
+        "count_approved": "100",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4adcda61-bfbf-4db6-a185-f60d3c709229",
+        "monthly": 11000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2029747,
+            24.9565392
+        ]
+    }
+}

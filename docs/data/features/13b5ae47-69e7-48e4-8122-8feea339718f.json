@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新莊0130之1號",
+        "reg_docno": "新北府教幼字第1071047169號",
+        "reg_date": "2018\/07\/27",
+        "title": "社團法人新竹市教保人員協會附設新北市私立新莊聯合幼兒園",
+        "owner": "許玉齡",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]中平路439號",
+        "floor": "1樓",
+        "size": "669.6平方公尺",
+        "size_in": "327.7平方公尺",
+        "size_out": "341.9平方公尺",
+        "tel": "(02)85218242",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100057629463740",
+        "count_approved": "105",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "13b5ae47-69e7-48e4-8122-8feea339718f",
+        "monthly": 14000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.443924,
+            25.056096
+        ]
+    }
+}

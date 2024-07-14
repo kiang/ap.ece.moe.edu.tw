@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1040698547號",
+        "reg_docno": "府教國字第138456號",
+        "reg_date": "1987\/11\/23",
+        "title": "臺南市私立大宗幼兒園",
+        "owner": "楊清和",
+        "city": "臺南市",
+        "town": "仁德區",
+        "type": "私立",
+        "address": "[717]中山路328巷11弄2號",
+        "floor": "1樓",
+        "size": "918.35平方公尺",
+        "size_in": "175.5平方公尺",
+        "size_out": "742.85平方公尺",
+        "tel": "(06)2704029",
+        "url": "",
+        "count_approved": "75",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4f566b23-904d-4983-a5e0-4edbabcd25e9",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.258115,
+            22.972132
+        ]
+    }
+}

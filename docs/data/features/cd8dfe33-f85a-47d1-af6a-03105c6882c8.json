@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字字第1120029546號",
+        "reg_docno": "府教幼字第1050255674號",
+        "reg_date": "2016\/07\/26",
+        "title": "彰化縣梧鳳非營利幼兒園（委託財團法人亞洲大學辦理）",
+        "owner": "蔡進發",
+        "city": "彰化縣",
+        "town": "埔心鄉",
+        "type": "非營利",
+        "address": "[513]大溪路三段175號",
+        "floor": "1樓",
+        "size": "984.81平方公尺",
+        "size_in": "629.94平方公尺",
+        "size_out": "354.87平方公尺",
+        "tel": "(04)8284291",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cd8dfe33-f85a-47d1-af6a-03105c6882c8",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5120926,
+            23.9695626
+        ]
+    }
+}

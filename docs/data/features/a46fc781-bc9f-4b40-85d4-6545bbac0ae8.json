@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第644號",
+        "reg_docno": "北市社婦幼字第10131565300號",
+        "reg_date": "2012\/02\/21",
+        "title": "臺北市私立立揚幼兒園",
+        "owner": "湯璦榕",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]景興路258號1樓及夾層",
+        "floor": "1樓",
+        "size": "171.14平方公尺",
+        "size_in": "171.14平方公尺",
+        "size_out": "",
+        "tel": "(02)29333238",
+        "url": "",
+        "count_approved": "39",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a46fc781-bc9f-4b40-85d4-6545bbac0ae8",
+        "monthly": 13667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.542728,
+            24.990238
+        ]
+    }
+}

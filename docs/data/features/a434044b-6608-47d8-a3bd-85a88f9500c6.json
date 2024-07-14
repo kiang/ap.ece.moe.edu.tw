@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1110682235號",
+        "reg_docno": "北府社兒字第0930193834號",
+        "reg_date": "2004\/04\/06",
+        "title": "新北市私立艾瑞克幼兒園",
+        "owner": "史政加",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]民權路37號1樓",
+        "floor": "1樓",
+        "size": "175平方公尺",
+        "size_in": "175平方公尺",
+        "size_out": "",
+        "tel": "(02)89413800",
+        "url": "",
+        "count_approved": "49",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a434044b-6608-47d8-a3bd-85a88f9500c6",
+        "monthly": 12917
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.520145,
+            24.9975829
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120135024號",
+        "reg_docno": "宜府教國字第54224號",
+        "reg_date": "1976\/08\/18",
+        "title": "宜蘭縣羅東鎮公正國民小學附設幼兒園",
+        "owner": "丁進添",
+        "city": "宜蘭縣",
+        "town": "羅東鎮",
+        "type": "公立",
+        "address": "[265]公正路199號",
+        "floor": "1樓",
+        "size": "1,408平方公尺",
+        "size_in": "981平方公尺",
+        "size_out": "427平方公尺",
+        "tel": "(03)9566659#7000",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a482f837-6b0b-4b66-be9e-7b77a801d3a7",
+        "monthly": 2766
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7670317,
+            24.6790816
+        ]
+    }
+}

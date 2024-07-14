@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10433817100號",
+        "reg_docno": "七九府教國字第94155號",
+        "reg_date": "1990\/07\/27",
+        "title": "高雄市私立偉生幼兒園",
+        "owner": "竇瑜芬",
+        "city": "高雄市",
+        "town": "彌陀區",
+        "type": "私立",
+        "address": "[827]中正南路2巷7號",
+        "floor": "1樓至2樓",
+        "size": "1,473.23平方公尺",
+        "size_in": "820.44平方公尺",
+        "size_out": "652.79平方公尺",
+        "tel": "(07)6102878",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8618a89e-2a2a-4789-8e58-40749bbb5857",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2500798,
+            22.7790214
+        ]
+    }
+}

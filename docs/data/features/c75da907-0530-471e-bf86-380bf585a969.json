@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010024458號",
+        "reg_docno": "八九府教前字第94817號",
+        "reg_date": "2000\/12\/28",
+        "title": "新竹市私立但以理幼兒園",
+        "owner": "周濟彥",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]中華路四段46號",
+        "floor": "1-3樓",
+        "size": "849.206平方公尺",
+        "size_in": "694.806平方公尺",
+        "size_out": "154.4平方公尺",
+        "tel": "(03)5400805",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c75da907-0530-471e-bf86-380bf585a969",
+        "monthly": 6000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.954025,
+            24.7966602
+        ]
+    }
+}

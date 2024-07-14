@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1020349455號",
+        "reg_docno": "(90)府社婦字第03224號",
+        "reg_date": "2001\/01\/12",
+        "title": "新竹市私立丹尼爾幼兒園",
+        "owner": "夏立廉",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]關東路60號1-3號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5782575",
+        "url": "",
+        "count_approved": "37",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f62525d6-efc8-42bc-97cc-23d76dcb346e",
+        "monthly": 15500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.022692,
+            24.78336
+        ]
+    }
+}

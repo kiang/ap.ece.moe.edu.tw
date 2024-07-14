@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090028028號",
+        "reg_docno": "74府教學字第66557號",
+        "reg_date": "1985\/05\/25",
+        "title": "桃園市私立民族幼兒園",
+        "owner": "黃啟才",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]建興街5號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3353109",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8ef648c6-717f-4009-8f2b-26b8c863355a",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.306752,
+            24.995004
+        ]
+    }
+}

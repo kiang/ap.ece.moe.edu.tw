@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120064872號",
+        "reg_docno": "府教幼字字第1120064872號",
+        "reg_date": "2023\/03\/15",
+        "title": "南投縣竹山鎮中州國民小學附設幼兒園",
+        "owner": "莊正平",
+        "city": "南投縣",
+        "town": "竹山鎮",
+        "type": "公立",
+        "address": "[557]集山路一段955號",
+        "floor": "1樓",
+        "size": "461.32平方公尺",
+        "size_in": "161.32平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(049)2622030#208",
+        "url": "https:\/\/cchps.ntct.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "344df482-6cfa-47d1-85c5-6bbc1883c35c",
+        "monthly": 3490
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7381344,
+            23.8121438
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第567號",
+        "reg_docno": "北市社婦幼字第09937726400號",
+        "reg_date": "2010\/06\/23",
+        "title": "臺北市私立長青蒙特梭利幼兒園",
+        "owner": "劉阿珠",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]基隆路二段232號3樓",
+        "floor": "3樓",
+        "size": "302.85平方公尺",
+        "size_in": "302.85平方公尺",
+        "size_out": "",
+        "tel": "(02)27327056",
+        "url": "",
+        "count_approved": "65",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d01bf1c0-76f3-4d38-825e-5d540447d64d",
+        "monthly": 23692
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.55096,
+            25.023234
+        ]
+    }
+}

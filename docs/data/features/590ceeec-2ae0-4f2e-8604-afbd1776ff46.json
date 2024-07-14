@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120096220號",
+        "reg_docno": "中市教幼字第1110064264號",
+        "reg_date": "2022\/08\/01",
+        "title": "內政部國土管理署中區都市基礎工程分署職場互助教保服務中心(委託財團法人彭婉如文教基金會辦理)",
+        "owner": "郭淑雅",
+        "city": "臺中市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[401]和平街121號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22230315",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "590ceeec-2ae0-4f2e-8604-afbd1776ff46",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6873028,
+            24.1348606
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第455-1號",
+        "reg_docno": "北市社五幼字第09134698500號",
+        "reg_date": "2002\/07\/02",
+        "title": "臺北市私立松迪幼兒園",
+        "owner": "呂玟蒨",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]東興路2巷10號1樓",
+        "floor": "1樓",
+        "size": "93.94平方公尺",
+        "size_in": "93.94平方公尺",
+        "size_out": "",
+        "tel": "(02)27615555",
+        "url": "",
+        "count_approved": "21",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "47f88066-220f-4c9a-a0db-179842b30807",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.564723,
+            25.0508409
+        ]
+    }
+}

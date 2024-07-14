@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599號",
+        "reg_docno": "75北府教二字第126496號",
+        "reg_date": "1986\/04\/23",
+        "title": "新北市板橋區莒光國民小學附設幼兒園",
+        "owner": "林義祥",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "公立",
+        "address": "[220]莒光路163號",
+        "floor": "1樓",
+        "size": "850平方公尺",
+        "size_in": "490平方公尺",
+        "size_out": "360平方公尺",
+        "tel": "(02)82597020",
+        "url": "http:\/\/www.jges.ntpc.edu.tw\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0c29f5ef-a1dc-4a2e-b4fb-69e88d7203a7",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.474231,
+            25.0250629
+        ]
+    }
+}

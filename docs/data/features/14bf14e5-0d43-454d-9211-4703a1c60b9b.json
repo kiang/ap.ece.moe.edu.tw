@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041058680中和0107號",
+        "reg_docno": "新北府教幼字第1061161055號",
+        "reg_date": "2017\/07\/24",
+        "title": "新北市私立實踐菁英幼兒園",
+        "owner": "莊吉田",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]中山路2段332巷76號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22475433",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "14bf14e5-0d43-454d-9211-4703a1c60b9b",
+        "monthly": 16367
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5036186,
+            25.004474
+        ]
+    }
+}

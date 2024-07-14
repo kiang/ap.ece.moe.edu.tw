@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110072961號",
+        "reg_docno": "中市教幼字第10300658537號",
+        "reg_date": "2014\/08\/01",
+        "title": "臺中市大里區草湖國民小學附設幼兒園",
+        "owner": "連忠誠",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "公立",
+        "address": "[412]西湖路32號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24953078#760",
+        "url": "臺中市大里區西湖路32號",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fa23b206-65cf-4425-80ee-dd30f5846a49",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.690052,
+            24.0782086
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1112436461號",
+        "reg_docno": "府教特一字第1112436461號",
+        "reg_date": "2022\/08\/01",
+        "title": "雲林縣大埤鄉仁和國民小學附設幼兒園",
+        "owner": "洪千惠",
+        "city": "雲林縣",
+        "town": "大埤鄉",
+        "type": "公立",
+        "address": "[631]仁和路4號",
+        "floor": "1樓",
+        "size": "202平方公尺",
+        "size_in": "63平方公尺",
+        "size_out": "139平方公尺",
+        "tel": "(05)5912454#34",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e9468555-12b0-46ee-81b5-b130a191eecc",
+        "monthly": 4035
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4227132,
+            23.6615845
+        ]
+    }
+}

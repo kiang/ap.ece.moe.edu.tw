@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11236560300號",
+        "reg_docno": "七八府教國字第116700號",
+        "reg_date": "1989\/11\/06",
+        "title": "高雄市私立幼一幼兒園",
+        "owner": "蘇德福",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]通校路160巷10號、12號",
+        "floor": "1-2",
+        "size": "1,365.51平方公尺",
+        "size_in": "683.93平方公尺",
+        "size_out": "681.58平方公尺",
+        "tel": "(07)6255139",
+        "url": "yui.woby.com.tw",
+        "count_approved": "225",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b754a46d-e602-4c07-b47a-b3c0d2b3ca18",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2817895,
+            22.7891131
+        ]
+    }
+}

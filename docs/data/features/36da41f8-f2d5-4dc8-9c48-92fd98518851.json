@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010317917號",
+        "reg_docno": "九0彰府社幼字第115495號",
+        "reg_date": "2001\/07\/04",
+        "title": "彰化縣私立耕新幼兒園",
+        "owner": "蔡金桂",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "私立",
+        "address": "[500]天祥路313號",
+        "floor": "1-3樓",
+        "size": "497.93平方公尺",
+        "size_in": "211.03平方公尺",
+        "size_out": "116.8平方公尺",
+        "tel": "(04)7638866",
+        "url": "",
+        "count_approved": "94",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "36da41f8-f2d5-4dc8-9c48-92fd98518851",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.533371,
+            24.062673
+        ]
+    }
+}

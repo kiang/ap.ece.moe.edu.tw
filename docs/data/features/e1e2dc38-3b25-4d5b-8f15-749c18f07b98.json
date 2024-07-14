@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110004999號",
+        "reg_docno": "中市教幼字第1090064216號",
+        "reg_date": "2020\/07\/30",
+        "title": "臺中市潭陽非營利幼兒園(委託財團法人宏觀文教基金會辦理)",
+        "owner": "李効武",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "非營利",
+        "address": "[427]潭陽路19號",
+        "floor": "1樓",
+        "size": "824.42平方公尺",
+        "size_in": "554.42平方公尺",
+        "size_out": "270平方公尺",
+        "tel": "(04)25360703",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100057238458430",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e1e2dc38-3b25-4d5b-8f15-749c18f07b98",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7101284,
+            24.2130417
+        ]
+    }
+}

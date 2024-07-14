@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "南市教特字第09102072010號",
+        "reg_date": "2002\/02\/27",
+        "title": "臺南市安南區土城國民小學附設幼兒園",
+        "owner": "李貞慧",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "公立",
+        "address": "[709]城北路195號",
+        "floor": "1樓",
+        "size": "426平方公尺",
+        "size_in": "155平方公尺",
+        "size_out": "271平方公尺",
+        "tel": "(06)2577645#880",
+        "url": "http:\/\/163.26.56.135\/dyna\/menu\/index.php?account=ching",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ee17a79a-7ddd-4199-bc05-42bd24ddc06a",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.129378,
+            23.065912
+        ]
+    }
+}

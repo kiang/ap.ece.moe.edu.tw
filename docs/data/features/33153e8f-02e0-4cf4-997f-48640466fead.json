@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11037224900號",
+        "reg_docno": "66府教國字第42829號",
+        "reg_date": "1977\/06\/24",
+        "title": "高雄市路竹區下坑國民小學附設幼兒園",
+        "owner": "張錦昌",
+        "city": "高雄市",
+        "town": "路竹區",
+        "type": "公立",
+        "address": "[821]太平路384號",
+        "floor": "1樓",
+        "size": "738平方公尺",
+        "size_in": "406.8平方公尺",
+        "size_out": "331.2平方公尺",
+        "tel": "(07)6951015#21",
+        "url": "www.xkp.ks.edu.tw",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "33153e8f-02e0-4cf4-997f-48640466fead",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.290556,
+            22.8693051
+        ]
+    }
+}

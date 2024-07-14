@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040050154號",
+        "reg_docno": "府社福字第243839號",
+        "reg_date": "2000\/12\/01",
+        "title": "桃園市私立集賢幼兒園",
+        "owner": "呂美梅",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]高城8街19巷10弄1號1-3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3709253",
+        "url": "",
+        "count_approved": "39",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0487539b-5c8f-4666-bc20-daab318d0f50",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2753375,
+            24.9772201
+        ]
+    }
+}

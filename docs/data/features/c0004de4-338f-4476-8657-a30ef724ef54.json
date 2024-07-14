@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120015845號",
+        "reg_docno": "府教特字第1120015845號",
+        "reg_date": "2023\/02\/01",
+        "title": "法務部臺東小藍鯨員工子女非營利幼兒園(委託社團法人金字塔幼兒教育研究學會辦理)",
+        "owner": "陳淑芳",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "非營利",
+        "address": "[950]中山路55號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(089)318055",
+        "url": "https:\/\/www.facebook.com\/kidsplace55\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c0004de4-338f-4476-8657-a30ef724ef54",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1567539,
+            22.7613478
+        ]
+    }
+}

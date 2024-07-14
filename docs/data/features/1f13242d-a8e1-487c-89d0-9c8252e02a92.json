@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110262304號",
+        "reg_docno": "府教幼字第1110262304號",
+        "reg_date": "2022\/09\/15",
+        "title": "臺灣桃園地方檢察署職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+        "owner": "邱健凱",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]仁愛路120號",
+        "floor": "1樓",
+        "size": "369.48平方公尺",
+        "size_in": "270平方公尺",
+        "size_out": "",
+        "tel": "(03)3703306",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1f13242d-a8e1-487c-89d0-9c8252e02a92",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2917492,
+            24.9948219
+        ]
+    }
+}

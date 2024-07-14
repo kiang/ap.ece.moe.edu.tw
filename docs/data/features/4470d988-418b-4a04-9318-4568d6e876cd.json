@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1090172475B號",
+        "reg_docno": "府教學前字第1010165223號",
+        "reg_date": "2012\/08\/01",
+        "title": "苗栗縣竹南鎮大埔國民小學附設幼兒園",
+        "owner": "徐臻輝",
+        "city": "苗栗縣",
+        "town": "竹南鎮",
+        "type": "公立",
+        "address": "[350]仁愛路1092號",
+        "floor": "1樓",
+        "size": "24,281平方公尺",
+        "size_in": "195.3平方公尺",
+        "size_out": "18,570平方公尺",
+        "tel": "(037)581976",
+        "url": "苗栗縣竹南鎮大埔里仁愛路1092號",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4470d988-418b-4a04-9318-4568d6e876cd",
+        "monthly": 3233
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.889798,
+            24.708428
+        ]
+    }
+}

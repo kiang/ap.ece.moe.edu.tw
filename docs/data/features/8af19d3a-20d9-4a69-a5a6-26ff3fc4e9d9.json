@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119550722號",
+        "reg_docno": "府教幼字第1093710280號",
+        "reg_date": "2020\/01\/14",
+        "title": "新竹縣私立綠菓藝術幼兒園",
+        "owner": "洪麗華",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]嘉豐五路二段51號",
+        "floor": "1樓",
+        "size": "2,025.8平方公尺",
+        "size_in": "293.04平方公尺",
+        "size_out": "1,293.91平方公尺",
+        "tel": "(03)6673059",
+        "url": "",
+        "count_approved": "105",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8af19d3a-20d9-4a69-a5a6-26ff3fc4e9d9",
+        "monthly": 25667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0262944,
+            24.8096756
+        ]
+    }
+}

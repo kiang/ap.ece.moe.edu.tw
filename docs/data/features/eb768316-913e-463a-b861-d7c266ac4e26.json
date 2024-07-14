@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620樹林0052號",
+        "reg_docno": "北府教幼字第1021455577號",
+        "reg_date": "2013\/03\/26",
+        "title": "新北市私立葳瑪藝術幼兒園",
+        "owner": "符景隆",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "私立",
+        "address": "[238]學士路20號",
+        "floor": "1~3",
+        "size": "163.32平方公尺",
+        "size_in": "119.59平方公尺",
+        "size_out": "",
+        "tel": "(02)35019031",
+        "url": "",
+        "count_approved": "28",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "c940ad5a-ff5f-4b48-83a5-70dc43d7d0c6",
+        "monthly": 12750
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.382623,
+            24.947482
+        ]
+    }
+}

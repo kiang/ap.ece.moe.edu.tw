@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1020095589號",
+        "reg_docno": "中市教幼字第1020095589號",
+        "reg_date": "2013\/12\/16",
+        "title": "臺中市私立全方位幼兒園",
+        "owner": "詹心孰",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]大墩四街169號",
+        "floor": "1,2樓",
+        "size": "473.33平方公尺",
+        "size_in": "473.33平方公尺",
+        "size_out": "",
+        "tel": "(04)24715966",
+        "url": "",
+        "count_approved": "43",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "adc04a50-ea52-4f05-8e65-6de3e9419c86",
+        "monthly": 13500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.651164,
+            24.14064
+        ]
+    }
+}

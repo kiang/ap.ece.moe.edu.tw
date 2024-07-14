@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138690700號",
+        "reg_docno": "府社福字第0920130282號",
+        "reg_date": "2003\/07\/28",
+        "title": "高雄市私立優等生幼兒園",
+        "owner": "李世昌",
+        "city": "高雄市",
+        "town": "大寮區",
+        "type": "私立",
+        "address": "[831]大寮路718、720、722號1至3樓",
+        "floor": "1-3樓",
+        "size": "419.04平方公尺",
+        "size_in": "419.04平方公尺",
+        "size_out": "",
+        "tel": "(07)7873353",
+        "url": "",
+        "count_approved": "78",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8aafb7f0-6825-440a-8e9e-4cc6a9470f3a",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4155341,
+            22.5914384
+        ]
+    }
+}

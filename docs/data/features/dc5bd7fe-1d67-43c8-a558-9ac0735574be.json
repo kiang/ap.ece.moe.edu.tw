@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680三重0058之2號",
+        "reg_docno": "北府社兒字第0980371701號",
+        "reg_date": "2009\/05\/19",
+        "title": "新北市私立肯妮斯幼兒園",
+        "owner": "張義雄",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]三信路7號1、2樓及9號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28579988",
+        "url": "",
+        "count_approved": "65",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dc5bd7fe-1d67-43c8-a558-9ac0735574be",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.488404,
+            25.086313
+        ]
+    }
+}

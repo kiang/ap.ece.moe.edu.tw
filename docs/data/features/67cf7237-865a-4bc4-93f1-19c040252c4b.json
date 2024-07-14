@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110205166號",
+        "reg_docno": "嘉府社福字第0137542號",
+        "reg_date": "2002\/11\/14",
+        "title": "嘉義縣私立伊貝兒幼兒園",
+        "owner": "巫春桂",
+        "city": "嘉義縣",
+        "town": "民雄鄉",
+        "type": "私立",
+        "address": "[621]建國路3段124巷3弄16號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2214862",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "67cf7237-865a-4bc4-93f1-19c040252c4b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.442114,
+            23.522869
+        ]
+    }
+}

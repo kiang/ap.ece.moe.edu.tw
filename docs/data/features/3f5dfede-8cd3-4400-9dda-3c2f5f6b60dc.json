@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121109422號",
+        "reg_docno": "府教辦字第77587號",
+        "reg_date": "1979\/07\/16",
+        "title": "臺南市白河區白河國民小學附設幼兒園",
+        "owner": "楊淑敏",
+        "city": "臺南市",
+        "town": "白河區",
+        "type": "公立",
+        "address": "[732]三民路448號",
+        "floor": "1樓",
+        "size": "1,319.5平方公尺",
+        "size_in": "485平方公尺",
+        "size_out": "834.5平方公尺",
+        "tel": "(06)6852177#2001",
+        "url": "http:\/\/www.bhes.tn.edu.tw",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3f5dfede-8cd3-4400-9dda-3c2f5f6b60dc",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.413859,
+            23.352221
+        ]
+    }
+}

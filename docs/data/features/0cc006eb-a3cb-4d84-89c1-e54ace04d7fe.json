@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市教前字第1123062144號",
+        "reg_docno": "北市教輝二字第10394號",
+        "reg_date": "1963\/08\/01",
+        "title": "臺北市私立奎山中學附設幼兒園",
+        "owner": "鄭鐳",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]明德路200號",
+        "floor": "1樓、2樓、3樓",
+        "size": "470平方公尺",
+        "size_in": "170平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(02)28212009#11",
+        "url": "www.kSS.tp.edu.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0cc006eb-a3cb-4d84-89c1-e54ace04d7fe",
+        "monthly": 17138
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.522813,
+            25.112835
+        ]
+    }
+}

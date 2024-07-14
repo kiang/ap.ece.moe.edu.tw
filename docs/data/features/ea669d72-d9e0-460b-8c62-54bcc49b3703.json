@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11034666400號",
+        "reg_docno": "高市教幼字第11034666400號",
+        "reg_date": "2021\/07\/06",
+        "title": "高雄市私立聰明幼兒園",
+        "owner": "汪慧盈",
+        "city": "高雄市",
+        "town": "大樹區",
+        "type": "私立",
+        "address": "[840]三和路33之33號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6561033",
+        "url": "",
+        "count_approved": "280",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ea669d72-d9e0-460b-8c62-54bcc49b3703",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4385892,
+            22.7184546
+        ]
+    }
+}

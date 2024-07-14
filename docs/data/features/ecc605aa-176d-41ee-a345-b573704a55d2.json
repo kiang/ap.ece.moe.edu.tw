@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11035862100號",
+        "reg_docno": "82府教學字第136912號",
+        "reg_date": "1993\/08\/12",
+        "title": "高雄市鳳山區瑞興國民小學附設幼兒園",
+        "owner": "李雲漳",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "公立",
+        "address": "[830]博愛路271號",
+        "floor": "1樓",
+        "size": "407.88平方公尺",
+        "size_in": "149.24平方公尺",
+        "size_out": "258.64平方公尺",
+        "tel": "(07)7435848",
+        "url": "https:\/\/www.rsp.kh.edu.tw\/index.php?WebID=4",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ecc605aa-176d-41ee-a345-b573704a55d2",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.369133,
+            22.629929
+        ]
+    }
+}

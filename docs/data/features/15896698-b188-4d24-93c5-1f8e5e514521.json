@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11154466300號",
+        "reg_docno": "屏府教特字第10305722700號",
+        "reg_date": "2014\/08\/01",
+        "title": "屏東縣潮州鎮四林國民小學附設幼兒園",
+        "owner": "李禮錦",
+        "city": "屏東縣",
+        "town": "潮州鎮",
+        "type": "公立",
+        "address": "[920]開元路2巷1號",
+        "floor": "1樓",
+        "size": "1,890.06平方公尺",
+        "size_in": "190.06平方公尺",
+        "size_out": "1,700平方公尺",
+        "tel": "(08)7897185",
+        "url": "http:\/\/web.sles.ptc.edu.tw\/index.php",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "15896698-b188-4d24-93c5-1f8e5e514521",
+        "monthly": 3716
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5693386,
+            22.5452512
+        ]
+    }
+}

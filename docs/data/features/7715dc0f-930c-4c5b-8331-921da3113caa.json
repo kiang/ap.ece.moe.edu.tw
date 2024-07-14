@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010871565號",
+        "reg_docno": "南市社兒字第1354981號",
+        "reg_date": "2003\/07\/07",
+        "title": "臺南市私立幼芽幼兒園",
+        "owner": "宋庭豪",
+        "city": "臺南市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[702]金華路一段66號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2913217",
+        "url": "https:\/\/www.facebook.com\/yoyafans123\/",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "7715dc0f-930c-4c5b-8331-921da3113caa",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.189576,
+            22.962804
+        ]
+    }
+}

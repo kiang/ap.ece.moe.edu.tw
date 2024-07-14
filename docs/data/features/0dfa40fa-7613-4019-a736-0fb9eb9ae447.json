@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060081668號",
+        "reg_docno": "府社幼字第0950107137號",
+        "reg_date": "2006\/04\/19",
+        "title": "臺中市私立米堤幼兒園",
+        "owner": "劉祥城",
+        "city": "臺中市",
+        "town": "東勢區",
+        "type": "私立",
+        "address": "[423]東關路七段115號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25870731",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0dfa40fa-7613-4019-a736-0fb9eb9ae447",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8419594,
+            24.1693751
+        ]
+    }
+}

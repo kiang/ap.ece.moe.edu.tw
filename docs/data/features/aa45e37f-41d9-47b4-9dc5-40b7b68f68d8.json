@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10833196200號",
+        "reg_docno": "府社福字第0910146759號",
+        "reg_date": "2002\/08\/26",
+        "title": "高雄市岡山區大後協社區發展協會附設高雄市私立幼兒園",
+        "owner": "楊明正",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]後協路75巷2號2樓",
+        "floor": "2樓",
+        "size": "187.6平方公尺",
+        "size_in": "187.6平方公尺",
+        "size_out": "",
+        "tel": "(07)6266975",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "aa45e37f-41d9-47b4-9dc5-40b7b68f68d8",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.284302,
+            22.784568
+        ]
+    }
+}

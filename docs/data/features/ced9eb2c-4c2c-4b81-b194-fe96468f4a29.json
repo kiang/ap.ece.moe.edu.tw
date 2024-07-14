@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1090130840號",
+        "reg_docno": "府社福字第0970176705號",
+        "reg_date": "2008\/11\/17",
+        "title": "苗栗縣新南非營利幼兒園（委託財團法人幼兒教育基金會辦理）",
+        "owner": "張碧娟",
+        "city": "苗栗縣",
+        "town": "竹南鎮",
+        "type": "非營利",
+        "address": "[350]五谷街2號",
+        "floor": "1樓",
+        "size": "1,718.65平方公尺",
+        "size_in": "718.65平方公尺",
+        "size_out": "566.25平方公尺",
+        "tel": "(037)622922",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ced9eb2c-4c2c-4b81-b194-fe96468f4a29",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.884862,
+            24.688299
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0074號",
+        "reg_docno": "73北府教二字第223830號",
+        "reg_date": "1984\/08\/23",
+        "title": "新北市私立大全幼兒園",
+        "owner": "李雪麗",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]重陽路一段26巷37號、39號1樓",
+        "floor": "1",
+        "size": "955平方公尺",
+        "size_in": "111平方公尺",
+        "size_out": "844平方公尺",
+        "tel": "(02)29862497",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f00580b7-fe1d-445f-9ffa-20553a172def",
+        "monthly": 12400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4849999,
+            25.05739
+        ]
+    }
+}

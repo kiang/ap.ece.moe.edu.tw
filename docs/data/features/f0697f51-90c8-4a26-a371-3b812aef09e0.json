@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010032368號",
+        "reg_docno": "府社褔字第316642號",
+        "reg_date": "1996\/12\/11",
+        "title": "臺中市私立孩子國幼兒園",
+        "owner": "陳月嬌",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "私立",
+        "address": "[427]勝利路253號",
+        "floor": "1樓、2樓",
+        "size": "1,313.7平方公尺",
+        "size_in": "800.7平方公尺",
+        "size_out": "513平方公尺",
+        "tel": "(04)25346680",
+        "url": "http:\/\/kid.topschool.com.tw\/",
+        "count_approved": "200",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f0697f51-90c8-4a26-a371-3b812aef09e0",
+        "monthly": 12624
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.700457,
+            24.212775
+        ]
+    }
+}

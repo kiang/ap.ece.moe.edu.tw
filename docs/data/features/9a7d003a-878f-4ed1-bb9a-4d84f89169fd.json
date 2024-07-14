@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第769-1號",
+        "reg_docno": "北市教前字第1076028533號",
+        "reg_date": "2018\/08\/31",
+        "title": "臺北市永建非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
+        "owner": "黃麗芳",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "非營利",
+        "address": "[116]木柵路一段311巷1號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,934.3平方公尺",
+        "size_in": "910.7平方公尺",
+        "size_out": "1,023.6平方公尺",
+        "tel": "(02)22347257",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9a7d003a-878f-4ed1-bb9a-4d84f89169fd",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.554632,
+            24.988543
+        ]
+    }
+}

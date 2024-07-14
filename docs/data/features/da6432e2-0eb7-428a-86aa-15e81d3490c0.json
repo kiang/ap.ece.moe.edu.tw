@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100016160號",
+        "reg_docno": "73府社福字第7303號",
+        "reg_date": "1984\/05\/31",
+        "title": "財團法人中華基督教水湳浸信會附設臺中市私立宏恩幼兒園",
+        "owner": "",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]中清路二段213號",
+        "floor": "1-3",
+        "size": "923.36平方公尺",
+        "size_in": "380.36平方公尺",
+        "size_out": "543平方公尺",
+        "tel": "(04)22977405",
+        "url": "",
+        "count_approved": "190",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "da6432e2-0eb7-428a-86aa-15e81d3490c0",
+        "monthly": 7300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.668754,
+            24.177895
+        ]
+    }
+}

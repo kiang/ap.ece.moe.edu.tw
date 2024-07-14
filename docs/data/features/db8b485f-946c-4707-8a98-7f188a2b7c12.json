@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11155142400號",
+        "reg_docno": "屏府教特字第0980070563號",
+        "reg_date": "2009\/04\/14",
+        "title": "屏東縣獅子鄉丹路國民小學附設幼兒園",
+        "owner": "吳明宗",
+        "city": "屏東縣",
+        "town": "獅子鄉",
+        "type": "公立",
+        "address": "[943]丹路一巷39號",
+        "floor": "1樓",
+        "size": "1,486.25平方公尺",
+        "size_in": "165平方公尺",
+        "size_out": "1,321.25平方公尺",
+        "tel": "(08)8771455#27",
+        "url": "http:\/\/web.dles.ptc.edu.tw\/",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "db8b485f-946c-4707-8a98-7f188a2b7c12",
+        "monthly": 2656
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.751307,
+            22.2034089
+        ]
+    }
+}

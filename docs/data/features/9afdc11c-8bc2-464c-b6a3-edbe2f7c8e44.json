@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10135122300號",
+        "reg_docno": "高市教三字第0910023311號",
+        "reg_date": "2002\/07\/31",
+        "title": "高雄市私立亞特蘭幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]皓東路68號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3836634",
+        "url": "http:\/\/atlant.blogkids.net\/",
+        "count_approved": "270",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9afdc11c-8bc2-464c-b6a3-edbe2f7c8e44",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.332672,
+            22.648054
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110062699號",
+        "reg_docno": "中市教幼字第1110062699號",
+        "reg_date": "2022\/08\/01",
+        "title": "經濟部標準檢驗局臺中分局職場互助教保服務中心(委託社團法人幼兒教保協會辦理)",
+        "owner": "林以凱",
+        "city": "臺中市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[402]工學路70號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22633665",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b24d70d5-fb35-4523-a53c-43fa961bdd58",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6647913,
+            24.117252
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070186416號",
+        "reg_docno": "府教學字第09200228940號",
+        "reg_date": "2003\/01\/27",
+        "title": "南投縣私立鹿谷幼兒園",
+        "owner": "黃益仁",
+        "city": "南投縣",
+        "town": "鹿谷鄉",
+        "type": "私立",
+        "address": "[558]中正路二段211巷1號",
+        "floor": "1樓",
+        "size": "2,972平方公尺",
+        "size_in": "435平方公尺",
+        "size_out": "2,537平方公尺",
+        "tel": "(049)2752555",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "82827c55-b5d4-4bca-be05-fa06ebe25c69",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.749737,
+            23.749439
+        ]
+    }
+}

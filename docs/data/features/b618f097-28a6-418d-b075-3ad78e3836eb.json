@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第561號",
+        "reg_docno": "北市教三字第61066號",
+        "reg_date": "1983\/01\/18",
+        "title": "臺北市私立華菂幼兒園",
+        "owner": "江聿",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]安和路二段217巷30、32號1樓",
+        "floor": "1樓",
+        "size": "543.88平方公尺",
+        "size_in": "182平方公尺",
+        "size_out": "361.88平方公尺",
+        "tel": "(02)27350267",
+        "url": "http:\/\/www.dalson.com.tw",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b618f097-28a6-418d-b075-3ad78e3836eb",
+        "monthly": 26010
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5512,
+            25.0257171
+        ]
+    }
+}

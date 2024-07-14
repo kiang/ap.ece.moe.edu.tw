@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第376-3號",
+        "reg_docno": "北市社婦幼字第09940896000號",
+        "reg_date": "2010\/08\/31",
+        "title": "臺北市私立微笑幼兒園",
+        "owner": "劉庭溱",
+        "city": "臺北市",
+        "town": "信義區",
+        "type": "私立",
+        "address": "[110]和平東路3段341巷12號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)87323560",
+        "url": "http:\/\/www.wecarebaby.com.tw\/nursery.php?ctype=15",
+        "count_approved": "35",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "549c5797-0f5b-4827-8e13-0278ff77aefc",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.55723,
+            25.021252
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010042768號",
+        "reg_docno": "府社福字第8814號",
+        "reg_date": "1999\/06\/08",
+        "title": "臺中市私立西屯向日葵幼兒園",
+        "owner": "張金峰",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]安和路59之2、之3號1,2樓",
+        "floor": "1樓至2樓",
+        "size": "507.31平方公尺",
+        "size_in": "190.09平方公尺",
+        "size_out": "317.22平方公尺",
+        "tel": "(04)23509688",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：40",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "966f50d3-b4cc-4cac-9bf1-d436bebddb3b",
+        "monthly": 8000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.619522,
+            24.16764
+        ]
+    }
+}

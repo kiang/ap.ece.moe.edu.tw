@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070143819號",
+        "reg_docno": "府社婦字第0970098077號",
+        "reg_date": "2008\/07\/01",
+        "title": "社團法人國際兒童教育協會中華民國總會附設花蓮縣私立立德非營利幼兒園(花蓮縣政府委託辦理)",
+        "owner": "李元成",
+        "city": "花蓮縣",
+        "town": "吉安鄉",
+        "type": "非營利",
+        "address": "[973]南埔13街162巷2號",
+        "floor": "1-3",
+        "size": "2,335.12平方公尺",
+        "size_in": "1,265.12平方公尺",
+        "size_out": "1,070平方公尺",
+        "tel": "(03)8545122",
+        "url": "評鑑情形：",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9529c033-cb81-4e72-bfaf-4cc8a5c3564e",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.589204,
+            23.9706449
+        ]
+    }
+}

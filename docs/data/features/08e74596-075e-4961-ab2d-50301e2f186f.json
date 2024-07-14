@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599板橋0134之6號",
+        "reg_docno": "北府社兒字第0920389100號",
+        "reg_date": "2003\/06\/10",
+        "title": "新北市政府板橋員工子女非營利幼兒園（委託財團法人台北基督教女青年會辦理）",
+        "owner": "王德頻",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "非營利",
+        "address": "[220]中山路一段161號2樓西側",
+        "floor": "2",
+        "size": "748.25平方公尺",
+        "size_in": "748.25平方公尺",
+        "size_out": "",
+        "tel": "(02)29603456#5207",
+        "url": "http:\/\/www.ywca-taipei.org.tw\/ntpckids\/",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "08e74596-075e-4961-ab2d-50301e2f186f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.465541,
+            25.0122349
+        ]
+    }
+}

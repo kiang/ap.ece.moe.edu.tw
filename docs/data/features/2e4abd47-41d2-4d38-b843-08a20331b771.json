@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11135553800號",
+        "reg_docno": "高市教幼字第11135553800號",
+        "reg_date": "2022\/07\/28",
+        "title": "高雄市前峰非營利幼兒園(委託社團法人高雄市碩苗社會教育關懷協會辦理)",
+        "owner": "林麗珠",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "非營利",
+        "address": "[820]育英路35-1號",
+        "floor": "1樓、2樓、3樓",
+        "size": "5,885.11平方公尺",
+        "size_in": "2,912.53平方公尺",
+        "size_out": "2,972.58平方公尺",
+        "tel": "(07)6256602",
+        "url": "高雄市岡山區仁壽里育英路35號之1",
+        "count_approved": "304",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2e4abd47-41d2-4d38-b843-08a20331b771",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2830817,
+            22.79245
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0031號",
+        "reg_docno": "北府社兒字第0940040166號",
+        "reg_date": "2005\/01\/17",
+        "title": "新北市私立榮欣幼兒園",
+        "owner": "陳怡伶",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]中和街191巷47號1樓、51號1樓",
+        "floor": "1",
+        "size": "117.2平方公尺",
+        "size_in": "117.2平方公尺",
+        "size_out": "",
+        "tel": "(02)29922174",
+        "url": "",
+        "count_approved": "33",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "14fb4d1a-738c-4c97-9829-2d98bb5bfe37",
+        "monthly": 9500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.447355,
+            25.050925
+        ]
+    }
+}

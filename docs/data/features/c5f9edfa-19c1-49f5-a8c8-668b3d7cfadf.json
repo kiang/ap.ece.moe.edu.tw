@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第804號",
+        "reg_docno": "北市教前字第11130110911號",
+        "reg_date": "2022\/08\/19",
+        "title": "國防部陸軍司令部精勤員工子女非營利幼兒園(委託社團法人臺灣兒童教育發展協會辦理)",
+        "owner": "劉昆彥",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "非營利",
+        "address": "[116]汀州路四段255、257、261、263號",
+        "floor": "1樓",
+        "size": "681.69平方公尺",
+        "size_in": "469.69平方公尺",
+        "size_out": "212平方公尺",
+        "tel": "(02)29339335",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c5f9edfa-19c1-49f5-a8c8-668b3d7cfadf",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5362978,
+            25.0018151
+        ]
+    }
+}

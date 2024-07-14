@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10132984800號",
+        "reg_docno": "八九府教國字第102058號",
+        "reg_date": "1990\/06\/14",
+        "title": "高雄市私立長榮幼兒園",
+        "owner": "高久媄",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]富貴西街20號",
+        "floor": "1樓至2樓",
+        "size": "1,063.39平方公尺",
+        "size_in": "499.84平方公尺",
+        "size_out": "563.55平方公尺",
+        "tel": "(07)6225958",
+        "url": "",
+        "count_approved": "114",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "26aac8fb-17ec-4cd8-9e71-c4c569f8845f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2992158,
+            22.8028979
+        ]
+    }
+}

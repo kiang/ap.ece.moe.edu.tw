@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138854500號",
+        "reg_docno": "高市社局五字第22876號",
+        "reg_date": "1998\/08\/20",
+        "title": "私立大榮高級中學附設高雄市幼兒園",
+        "owner": "李振登",
+        "city": "高雄市",
+        "town": "鼓山區",
+        "type": "私立",
+        "address": "[804]翠華路267號1至2樓",
+        "floor": "一樓至二樓",
+        "size": "545平方公尺",
+        "size_in": "240平方公尺",
+        "size_out": "305平方公尺",
+        "tel": "(07)5336746",
+        "url": "",
+        "count_approved": "72",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "aef57098-3488-4a25-b415-de21a8eed4a0",
+        "monthly": 7333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.281258,
+            22.654745
+        ]
+    }
+}

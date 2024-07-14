@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10139383800號",
+        "reg_docno": "府社福字第132261號",
+        "reg_date": "2000\/07\/21",
+        "title": "高雄市私立皇冠幼兒園",
+        "owner": "陳建國",
+        "city": "高雄市",
+        "town": "林園區",
+        "type": "私立",
+        "address": "[832]仁愛路317號",
+        "floor": "1樓至3樓",
+        "size": "1,778.32平方公尺",
+        "size_in": "1,361.52平方公尺",
+        "size_out": "416.8平方公尺",
+        "tel": "(07)6431822",
+        "url": "https:\/\/hwangguan.topschool.tw\/Home\/Main",
+        "count_approved": "270",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：60",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a8c9121d-7154-4b7a-8649-e58fbf26b657",
+        "monthly": 6250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3927161,
+            22.5120157
+        ]
+    }
+}

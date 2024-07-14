@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111489875號",
+        "reg_docno": "南市教特(一)字第1111489875號",
+        "reg_date": "2022\/11\/21",
+        "title": "臺南市私立光漢幼兒園",
+        "owner": "吳信漢",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]宜居二路217號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)3581528",
+        "url": "",
+        "count_approved": "302",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "06674216-4402-410c-a0e3-58b467f4a936",
+        "monthly": 5400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.180471,
+            23.0172664
+        ]
+    }
+}

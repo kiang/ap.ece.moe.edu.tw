@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10135039500號",
+        "reg_docno": "高市社局五字第0960002353號",
+        "reg_date": "2007\/01\/16",
+        "title": "高雄市私立禾苗幼兒園",
+        "owner": "林麗珠",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]建元路9巷1號",
+        "floor": "1.2樓",
+        "size": "183.5平方公尺",
+        "size_in": "183.5平方公尺",
+        "size_out": "",
+        "tel": "(07)3925071",
+        "url": "",
+        "count_approved": "37",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：18",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b881513d-aa17-4e9f-8618-21f381d77469",
+        "monthly": 8000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.317952,
+            22.64761
+        ]
+    }
+}

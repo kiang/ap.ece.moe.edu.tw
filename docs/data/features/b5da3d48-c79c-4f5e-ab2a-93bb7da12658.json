@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090231946號",
+        "reg_docno": "府教幼字第1090231946號",
+        "reg_date": "2020\/09\/17",
+        "title": "桃園市私立森林寶貝幼兒園",
+        "owner": "謝芳珮",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]大忠街88號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3660958",
+        "url": "",
+        "count_approved": "106",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b5da3d48-c79c-4f5e-ab2a-93bb7da12658",
+        "monthly": 16590
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3001536,
+            24.9591515
+        ]
+    }
+}

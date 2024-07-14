@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10936080100號",
+        "reg_docno": "高市教幼字第10936080100號",
+        "reg_date": "2020\/08\/31",
+        "title": "高雄市私立傑尼頓幼兒園",
+        "owner": "黃駿傑",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]重信路470號",
+        "floor": "1樓",
+        "size": "1,087.22平方公尺",
+        "size_in": "564.19平方公尺",
+        "size_out": "523.03平方公尺",
+        "tel": "(07)3500646",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2142ff0c-78dc-4ea8-815a-3238ffdbb8d4",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3104508,
+            22.6839861
+        ]
+    }
+}

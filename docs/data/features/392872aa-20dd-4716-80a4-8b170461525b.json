@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680板橋0067之3號",
+        "reg_docno": "89北府教幼字第268681號",
+        "reg_date": "2000\/07\/19",
+        "title": "新北市立江翠國民中學附設幼兒園",
+        "owner": "林裕國",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "公立",
+        "address": "[220]松江街63-2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22518007#280",
+        "url": "http:\/\/www.ctjh.ntpc.edu.tw",
+        "count_approved": "210",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "392872aa-20dd-4716-80a4-8b170461525b",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.468325,
+            25.0290699
+        ]
+    }
+}

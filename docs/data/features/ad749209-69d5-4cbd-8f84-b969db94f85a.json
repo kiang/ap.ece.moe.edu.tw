@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "府教國字第053799號",
+        "reg_date": "1997\/04\/02",
+        "title": "臺南市龍崎區龍崎國民小學附設幼兒園",
+        "owner": "陳賢璁",
+        "city": "臺南市",
+        "town": "龍崎區",
+        "type": "公立",
+        "address": "[719]新市子41號",
+        "floor": "1樓",
+        "size": "379.26平方公尺",
+        "size_in": "189.26平方公尺",
+        "size_out": "190平方公尺",
+        "tel": "(06)5941204#21",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ad749209-69d5-4cbd-8f84-b969db94f85a",
+        "monthly": 3599
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.359344,
+            22.964442
+        ]
+    }
+}

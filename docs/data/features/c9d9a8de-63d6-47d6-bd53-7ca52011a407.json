@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080299014號",
+        "reg_docno": "府教學字第09702315980號",
+        "reg_date": "2008\/12\/04",
+        "title": "南投縣私立大蘋果幼兒園",
+        "owner": "陳湘玲",
+        "city": "南投縣",
+        "town": "草屯鎮",
+        "type": "私立",
+        "address": "[542]碧山路1145-1號",
+        "floor": "1",
+        "size": "900.8平方公尺",
+        "size_in": "437.7平方公尺",
+        "size_out": "463.1平方公尺",
+        "tel": "(049)2323161",
+        "url": "http:\/\/bigapple.topschool.com.tw\/",
+        "count_approved": "97",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c9d9a8de-63d6-47d6-bd53-7ca52011a407",
+        "monthly": 9844
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.653639,
+            23.972742
+        ]
+    }
+}

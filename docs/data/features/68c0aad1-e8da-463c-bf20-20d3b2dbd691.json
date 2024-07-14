@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620永和0058號",
+        "reg_docno": "七二北府社三字第72013009號",
+        "reg_date": "1984\/01\/17",
+        "title": "新北市私立中中幼兒園",
+        "owner": "曾崇民",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]中山路一段191巷15弄8號、10號、12號",
+        "floor": "1樓及10號2樓",
+        "size": "249.81平方公尺",
+        "size_in": "249.81平方公尺",
+        "size_out": "",
+        "tel": "(02)29218093",
+        "url": "",
+        "count_approved": "71",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "68c0aad1-e8da-463c-bf20-20d3b2dbd691",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.509599,
+            25.0076429
+        ]
+    }
+}

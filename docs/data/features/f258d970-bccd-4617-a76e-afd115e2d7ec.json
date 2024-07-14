@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120002922號",
+        "reg_docno": "府教幼字第1070219971號",
+        "reg_date": "2018\/09\/27",
+        "title": "南投縣南投市僑建國民小學附設幼兒園",
+        "owner": "蔡國宏",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "公立",
+        "address": "[540]彰南路3段847號",
+        "floor": "2樓",
+        "size": "564.44平方公尺",
+        "size_in": "384.44平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(049)2253245#301",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f258d970-bccd-4617-a76e-afd115e2d7ec",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.668173,
+            23.940855
+        ]
+    }
+}

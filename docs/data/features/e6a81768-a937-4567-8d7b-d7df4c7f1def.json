@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010025709號",
+        "reg_docno": "府教國字第130376號",
+        "reg_date": "1997\/09\/22",
+        "title": "臺中市私立吉兒寶幼兒園",
+        "owner": "何玉寶",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]天津路四段219號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22380088",
+        "url": "http:\/\/joybear.tacomall.com.tw",
+        "count_approved": "240",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e6a81768-a937-4567-8d7b-d7df4c7f1def",
+        "monthly": 12035
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.691339,
+            24.168581
+        ]
+    }
+}

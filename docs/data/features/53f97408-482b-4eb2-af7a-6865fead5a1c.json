@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第11100166885C號",
+        "reg_docno": "府教特字第1110148675號",
+        "reg_date": "2022\/08\/01",
+        "title": "財政部國有財產署北區分署花蓮辦事處職場互助教保服務中心(委託社團法人台灣玩具圖書館協會辦理)",
+        "owner": "葉國芳",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "私立",
+        "address": "[970]明禮路131號右棟3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8310583",
+        "url": "評鑑情形：",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "53f97408-482b-4eb2-af7a-6865fead5a1c",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6062358,
+            23.9841731
+        ]
+    }
+}

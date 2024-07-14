@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070143819號",
+        "reg_docno": "府社婦字第09700162540號",
+        "reg_date": "2008\/01\/25",
+        "title": "社團法人國際兒童教育協會中華民國總會附設花蓮縣私立民勤非營利幼兒園(花蓮縣政府委託辦理)",
+        "owner": "李元成",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "非營利",
+        "address": "[970]縣府新村32號",
+        "floor": "1樓、2樓、3樓",
+        "size": "660.23平方公尺",
+        "size_in": "429.94平方公尺",
+        "size_out": "230.29平方公尺",
+        "tel": "(03)8225868",
+        "url": "評鑑情形：",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f926819c-f711-4247-8379-7c697737a443",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.617491,
+            23.991443
+        ]
+    }
+}

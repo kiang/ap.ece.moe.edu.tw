@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110086557號",
+        "reg_docno": "府社幼字第0980352091號",
+        "reg_date": "1984\/07\/01",
+        "title": "臺中市立神岡幼兒園三角分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "神岡區",
+        "type": "公立",
+        "address": "[429]三社路195號",
+        "floor": "1樓、2樓",
+        "size": "698.5平方公尺",
+        "size_in": "466.72平方公尺",
+        "size_out": "231.78平方公尺",
+        "tel": "(04)25351798",
+        "url": "sgkg.tc.edu.tw",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f313a65a-139b-4104-83e5-38991dda3bc7",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.689621,
+            24.238713
+        ]
+    }
+}

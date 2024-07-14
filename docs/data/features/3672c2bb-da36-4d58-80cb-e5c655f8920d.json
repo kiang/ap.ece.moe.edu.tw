@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120199761號",
+        "reg_docno": "府教學字第09800612330號",
+        "reg_date": "1977\/10\/08",
+        "title": "南投縣草屯鎮中原國民小學附設幼兒園",
+        "owner": "陳俊言",
+        "city": "南投縣",
+        "town": "草屯鎮",
+        "type": "公立",
+        "address": "[542]坪腳巷20號",
+        "floor": "1樓",
+        "size": "647.67平方公尺",
+        "size_in": "483.67平方公尺",
+        "size_out": "164平方公尺",
+        "tel": "(049)2554631#201",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3672c2bb-da36-4d58-80cb-e5c655f8920d",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.72089,
+            23.985155
+        ]
+    }
+}

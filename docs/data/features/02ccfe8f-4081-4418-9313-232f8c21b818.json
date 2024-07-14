@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10682021500號",
+        "reg_docno": "屏府社福字第0970179348號",
+        "reg_date": "2008\/09\/03",
+        "title": "財團法人福智文教基金會附設屏東縣私立妙慧幼兒園",
+        "owner": "盧克宙",
+        "city": "屏東縣",
+        "town": "屏東市",
+        "type": "私立",
+        "address": "[900]莊敬街2段100巷41號",
+        "floor": "1樓、2樓、3樓",
+        "size": "375.28平方公尺",
+        "size_in": "328.3平方公尺",
+        "size_out": "46.98平方公尺",
+        "tel": "(08)7373500",
+        "url": "",
+        "count_approved": "65",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "02ccfe8f-4081-4418-9313-232f8c21b818",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5023209,
+            22.6893275
+        ]
+    }
+}

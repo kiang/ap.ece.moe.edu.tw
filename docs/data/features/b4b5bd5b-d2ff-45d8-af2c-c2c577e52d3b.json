@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11236975000號",
+        "reg_docno": "高市教幼字第10336495100號",
+        "reg_date": "2014\/08\/01",
+        "title": "高雄市林園區王公國民小學附設幼兒園",
+        "owner": "許惟翔",
+        "city": "高雄市",
+        "town": "林園區",
+        "type": "公立",
+        "address": "[832]王公二路100號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6420503#88",
+        "url": "高雄市林園區廣應里王公二路100號",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b4b5bd5b-d2ff-45d8-af2c-c2c577e52d3b",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.388276,
+            22.504764
+        ]
+    }
+}

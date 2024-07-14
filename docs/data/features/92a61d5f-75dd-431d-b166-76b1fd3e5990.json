@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120103168號",
+        "reg_docno": "府社幼字第0176號",
+        "reg_date": "1999\/06\/10",
+        "title": "臺中市私立三育幼兒園",
+        "owner": "吳俊亞",
+        "city": "臺中市",
+        "town": "烏日區",
+        "type": "私立",
+        "address": "[414]長春街279號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23360031",
+        "url": "",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "92a61d5f-75dd-431d-b166-76b1fd3e5990",
+        "monthly": 4400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.638275,
+            24.109169
+        ]
+    }
+}

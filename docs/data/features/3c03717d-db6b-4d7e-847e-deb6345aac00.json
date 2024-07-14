@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10335750100號",
+        "reg_docno": "府社福字第033946號",
+        "reg_date": "1980\/04\/19",
+        "title": "高雄市私立光仁幼兒園",
+        "owner": "鄭明圓",
+        "city": "高雄市",
+        "town": "仁武區",
+        "type": "私立",
+        "address": "[814]安樂四街80號",
+        "floor": "1樓、2樓",
+        "size": "386.75平方公尺",
+        "size_in": "309.67平方公尺",
+        "size_out": "77.08平方公尺",
+        "tel": "(07)3753820",
+        "url": "",
+        "count_approved": "44",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3c03717d-db6b-4d7e-847e-deb6345aac00",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3468422,
+            22.7071508
+        ]
+    }
+}

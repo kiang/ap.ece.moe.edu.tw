@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111602049號",
+        "reg_docno": "府教特字第81495號",
+        "reg_date": "2001\/06\/05",
+        "title": "臺南市私立洧昇幼兒園",
+        "owner": "張淑伶",
+        "city": "臺南市",
+        "town": "仁德區",
+        "type": "私立",
+        "address": "[717]義林二街116號",
+        "floor": "1樓、2樓",
+        "size": "800.38平方公尺",
+        "size_in": "369.19平方公尺",
+        "size_out": "431.19平方公尺",
+        "tel": "(06)2706355",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b5fca3c7-c84a-44b3-9deb-b99fd1bc9efa",
+        "monthly": 5400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.260309,
+            22.971485
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040031475號",
+        "reg_docno": "府社婦字第0970007702號",
+        "reg_date": "2008\/01\/08",
+        "title": "桃園市私立愛麗絲幼兒園",
+        "owner": "陳明輝",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]大業路2段67、69號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3576000",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1c72cc0a-7ab9-499b-9901-50c66f143ce0",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3109552,
+            25.0177098
+        ]
+    }
+}

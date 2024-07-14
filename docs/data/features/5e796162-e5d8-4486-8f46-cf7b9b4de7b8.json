@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040171830號",
+        "reg_docno": "府教幼字第1020192809號",
+        "reg_date": "2013\/06\/27",
+        "title": "彰化縣私立彰化弘明幼兒園",
+        "owner": "羅光欣",
+        "city": "彰化縣",
+        "town": "和美鎮",
+        "type": "私立",
+        "address": "[508]彰新路三段122之1號",
+        "floor": "1樓、2樓",
+        "size": "1,119.99平方公尺",
+        "size_in": "740.79平方公尺",
+        "size_out": "379.2平方公尺",
+        "tel": "(04)7331058",
+        "url": "chhold.mean@msa.hinet.net",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5e796162-e5d8-4486-8f46-cf7b9b4de7b8",
+        "monthly": 10000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.530876,
+            24.106904
+        ]
+    }
+}

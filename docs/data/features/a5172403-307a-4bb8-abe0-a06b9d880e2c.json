@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010637102號",
+        "reg_docno": "府社福字第0910139203號",
+        "reg_date": "2002\/08\/27",
+        "title": "臺南市私立何嘉仁幼兒園",
+        "owner": "莊祝娥",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]中山南路119巷8號",
+        "floor": "一樓",
+        "size": "2,087.49平方公尺",
+        "size_in": "1,293.49平方公尺",
+        "size_out": "794平方公尺",
+        "tel": "(06)2019393",
+        "url": "http:\/\/www.hess.com.tw",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "2164a5eb-40bc-4b35-831f-7f781701a717",
+        "monthly": 16784
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.229326,
+            23.0133181
+        ]
+    }
+}

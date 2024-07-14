@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120067099號",
+        "reg_docno": "教國字第12245號",
+        "reg_date": "1986\/02\/22",
+        "title": "臺中市北屯區四張犁國民小學附設幼兒園",
+        "owner": "方玉玲",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "公立",
+        "address": "[406]后庄路910號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24227046#791",
+        "url": "www.jres.tc.edu.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c0c8aafe-a543-41f9-aabb-5765480c4874",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.678023,
+            24.193147
+        ]
+    }
+}

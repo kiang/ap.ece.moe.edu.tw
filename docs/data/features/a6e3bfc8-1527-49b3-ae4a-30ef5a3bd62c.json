@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第53-2號",
+        "reg_docno": "北市教三字第61375號",
+        "reg_date": "1982\/12\/06",
+        "title": "臺北市私立光華幼兒園",
+        "owner": "王姸凱",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]慶城街16巷3、5號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27154555",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a6e3bfc8-1527-49b3-ae4a-30ef5a3bd62c",
+        "monthly": 15417
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.545807,
+            25.0531949
+        ]
+    }
+}

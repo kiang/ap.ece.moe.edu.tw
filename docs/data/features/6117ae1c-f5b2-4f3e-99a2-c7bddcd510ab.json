@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680板橋0110之1號",
+        "reg_docno": "北府社兒字第0910034874號",
+        "reg_date": "2002\/01\/10",
+        "title": "新北市私立靜立幼兒園",
+        "owner": "史政加",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]四維路289巷38號、40號及42號",
+        "floor": "1",
+        "size": "146.64平方公尺",
+        "size_in": "146.64平方公尺",
+        "size_out": "",
+        "tel": "(02)22568628",
+        "url": "",
+        "count_approved": "41",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6117ae1c-f5b2-4f3e-99a2-c7bddcd510ab",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.461177,
+            25.0282159
+        ]
+    }
+}

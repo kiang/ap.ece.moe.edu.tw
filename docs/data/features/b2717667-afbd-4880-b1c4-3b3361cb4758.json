@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110132924號",
+        "reg_docno": "85府社福字第140461號",
+        "reg_date": "1996\/12\/02",
+        "title": "嘉義縣朴子市立朴子幼兒園",
+        "owner": "吳品叡",
+        "city": "嘉義縣",
+        "town": "朴子市",
+        "type": "公立",
+        "address": "[613]34號之3",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3694075",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b2717667-afbd-4880-b1c4-3b3361cb4758",
+        "monthly": 3244
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.277234,
+            23.455538
+        ]
+    }
+}

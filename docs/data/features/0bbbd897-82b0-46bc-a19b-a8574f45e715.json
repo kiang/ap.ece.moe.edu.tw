@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138715400號",
+        "reg_docno": "高市社局五字第13214號",
+        "reg_date": "2001\/05\/14",
+        "title": "高雄市私立小天使幼兒園",
+        "owner": "林古惠綠",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]文敬路66號",
+        "floor": "1樓",
+        "size": "797.58平方公尺",
+        "size_in": "377.61平方公尺",
+        "size_out": "419.97平方公尺",
+        "tel": "(07)3482443",
+        "url": "",
+        "count_approved": "135",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "0bbbd897-82b0-46bc-a19b-a8574f45e715",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3110512,
+            22.6778064
+        ]
+    }
+}

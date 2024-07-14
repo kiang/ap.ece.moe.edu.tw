@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010081302號",
+        "reg_docno": "89府社婦字第8923號",
+        "reg_date": "2000\/10\/11",
+        "title": "臺中市私立尤加利幼兒園",
+        "owner": "劉璧增",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]華富街20巷15號1,2樓",
+        "floor": "1樓、2樓",
+        "size": "123平方公尺",
+        "size_in": "72平方公尺",
+        "size_out": "51平方公尺",
+        "tel": "(04)22053822",
+        "url": "",
+        "count_approved": "36",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "314c26b7-46ae-4e7b-ba7d-e4d476765e3d",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.667654,
+            24.1599929
+        ]
+    }
+}

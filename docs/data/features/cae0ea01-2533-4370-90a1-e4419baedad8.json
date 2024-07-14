@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620淡水0055號",
+        "reg_docno": "八八北府社四字第88482371號",
+        "reg_date": "1999\/12\/22",
+        "title": "新北市私立歡樂寶貝熊幼兒園",
+        "owner": "劉寶琳",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "私立",
+        "address": "[251]民權路73號1樓(門牌合併含73號1樓、75號2樓)",
+        "floor": "1樓至2樓",
+        "size": "202.32平方公尺",
+        "size_in": "202.32平方公尺",
+        "size_out": "",
+        "tel": "(02)26241218",
+        "url": "",
+        "count_approved": "55",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cae0ea01-2533-4370-90a1-e4419baedad8",
+        "monthly": 6000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.459865,
+            25.13884
+        ]
+    }
+}

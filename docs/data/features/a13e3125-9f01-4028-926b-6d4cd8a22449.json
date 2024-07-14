@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040030055號",
+        "reg_docno": "府社福字第129359號",
+        "reg_date": "1993\/07\/09",
+        "title": "桃園市私立文馨幼兒園",
+        "owner": "孟曉蓉",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]中華街一段34巷4號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3290147",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a13e3125-9f01-4028-926b-6d4cd8a22449",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3361816,
+            24.9912265
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10136736400號",
+        "reg_docno": "高市社局四字第24777號",
+        "reg_date": "1997\/09\/27",
+        "title": "高雄市私立龍泉幼兒園",
+        "owner": "李謝清香",
+        "city": "高雄市",
+        "town": "鼓山區",
+        "type": "私立",
+        "address": "[804]鼓山三路92之2、92之3號",
+        "floor": "1~2樓",
+        "size": "1,094.11平方公尺",
+        "size_in": "739.49平方公尺",
+        "size_out": "354.62平方公尺",
+        "tel": "(07)5512086",
+        "url": "",
+        "count_approved": "160",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "bea77344-3d3e-4c07-8524-935866b2d10d",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.275845,
+            22.657945
+        ]
+    }
+}

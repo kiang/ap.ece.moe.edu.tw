@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040081947號",
+        "reg_docno": "府教特字第0950086132號",
+        "reg_date": "2003\/06\/09",
+        "title": "臺中市私立道兒頓幼兒園",
+        "owner": "張聖智",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]大墩十九街118號",
+        "floor": "3樓",
+        "size": "1,263.44平方公尺",
+        "size_in": "858.01平方公尺",
+        "size_out": "405.43平方公尺",
+        "tel": "(04)23207171",
+        "url": "",
+        "count_approved": "135",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "83b96a42-a6b4-488e-8e56-705cf46f6d26",
+        "monthly": 4350
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.651842,
+            24.158529
+        ]
+    }
+}

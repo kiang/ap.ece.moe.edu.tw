@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080156759號",
+        "reg_docno": "85府教國字第138021號",
+        "reg_date": "1996\/11\/23",
+        "title": "嘉義縣私立佳禾幼兒園",
+        "owner": "劉連招",
+        "city": "嘉義縣",
+        "town": "大林鎮",
+        "type": "私立",
+        "address": "[622]民族路106巷8號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2655919",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0e93ff69-a737-4851-973e-9f2c6ba111bc",
+        "monthly": 4700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.461663,
+            23.597628
+        ]
+    }
+}

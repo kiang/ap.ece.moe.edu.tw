@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府字第1010116241號",
+        "reg_docno": "府社婦字第0980060653號",
+        "reg_date": "2009\/06\/08",
+        "title": "新竹市私立孟格爾幼兒園",
+        "owner": "彭斯廉",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]武陵路179巷10號1樓",
+        "floor": "1",
+        "size": "103.89平方公尺",
+        "size_in": "95.63平方公尺",
+        "size_out": "8.26平方公尺",
+        "tel": "(03)5455599",
+        "url": "",
+        "count_approved": "24",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7ec5359b-821d-4103-8f5f-809386c7b4fb",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9679604,
+            24.8223703
+        ]
+    }
+}

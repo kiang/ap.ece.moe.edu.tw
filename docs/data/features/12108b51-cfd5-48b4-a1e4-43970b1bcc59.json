@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字字第1041548680板橋0170號",
+        "reg_docno": "新北府教幼字第1061345188號",
+        "reg_date": "2017\/07\/26",
+        "title": "新北市私立艾法貝爾幼兒園",
+        "owner": "魏汗青",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]區運路43號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29588860",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "12108b51-cfd5-48b4-a1e4-43970b1bcc59",
+        "monthly": 18000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.466892,
+            25.010635
+        ]
+    }
+}

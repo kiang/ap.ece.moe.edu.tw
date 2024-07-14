@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010025185號",
+        "reg_docno": "中市府社婦字第9219號",
+        "reg_date": "2003\/08\/29",
+        "title": "臺中市私立逢甲幼兒園",
+        "owner": "陳福爐",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]西安街78號1,2,3樓",
+        "floor": "1~3",
+        "size": "407.02平方公尺",
+        "size_in": "179.72平方公尺",
+        "size_out": "227.3平方公尺",
+        "tel": "(04)27018008",
+        "url": "http:\/\/www.fc-kid.com.tw",
+        "count_approved": "99",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cd733a7a-cd64-4ff4-aafc-1a8db67004ba",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.642345,
+            24.181461
+        ]
+    }
+}

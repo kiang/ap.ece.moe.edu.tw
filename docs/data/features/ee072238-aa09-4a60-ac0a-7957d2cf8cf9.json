@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010045732號",
+        "reg_docno": "府社幼字第0930201973號",
+        "reg_date": "2004\/08\/03",
+        "title": "臺中市私立立盈幼兒園",
+        "owner": "何邑萱",
+        "city": "臺中市",
+        "town": "豐原區",
+        "type": "私立",
+        "address": "[420]陽明街178號",
+        "floor": "1F.2F",
+        "size": "2,035.72平方公尺",
+        "size_in": "1,366.93平方公尺",
+        "size_out": "668.79平方公尺",
+        "tel": "(04)25263269",
+        "url": "",
+        "count_approved": "215",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ee072238-aa09-4a60-ac0a-7957d2cf8cf9",
+        "monthly": 14363
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7233208,
+            24.2454607
+        ]
+    }
+}

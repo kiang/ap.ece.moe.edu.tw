@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122406253A號",
+        "reg_docno": "八四考台組貳一字第02400號",
+        "reg_date": "1995\/04\/12",
+        "title": "雲林縣莿桐鄉立幼兒園",
+        "owner": "廖秋蓉",
+        "city": "雲林縣",
+        "town": "莿桐鄉",
+        "type": "公立",
+        "address": "[647]中正路163號",
+        "floor": "1樓、2樓、3樓",
+        "size": "4,267.6平方公尺",
+        "size_in": "2,051.4平方公尺",
+        "size_out": "2,216.2平方公尺",
+        "tel": "(05)5848930",
+        "url": "",
+        "count_approved": "540",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "eca6238e-dff9-409b-b23f-86e2f9313790",
+        "monthly": 3655
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.497253,
+            23.757475
+        ]
+    }
+}

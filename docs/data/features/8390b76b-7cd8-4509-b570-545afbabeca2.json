@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010404341號",
+        "reg_docno": "七二府教學字第80303號",
+        "reg_date": "1983\/08\/30",
+        "title": "雲林縣私立三民幼兒園",
+        "owner": "江麗英",
+        "city": "雲林縣",
+        "town": "虎尾鎮",
+        "type": "私立",
+        "address": "[632]正義路17號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)6334103",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8390b76b-7cd8-4509-b570-545afbabeca2",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.437125,
+            23.710848
+        ]
+    }
+}

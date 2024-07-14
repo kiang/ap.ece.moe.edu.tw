@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110375581號",
+        "reg_docno": "府教幼字第1060229552號",
+        "reg_date": "2017\/06\/30",
+        "title": "彰化縣育民非營利幼兒園（委託社團法人彰化縣友善教育公益協會辦理）",
+        "owner": "黃淑幸",
+        "city": "彰化縣",
+        "town": "秀水鄉",
+        "type": "非營利",
+        "address": "[504]民生街262號",
+        "floor": "1樓",
+        "size": "647.5平方公尺",
+        "size_in": "312.5平方公尺",
+        "size_out": "335平方公尺",
+        "tel": "(04)7687759",
+        "url": "https:\/\/www.facebook.com\/ymes.kindergarten.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2b80b53c-7b9f-4e9f-81bb-9f6507c4a5ab",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.505408,
+            24.0041548
+        ]
+    }
+}

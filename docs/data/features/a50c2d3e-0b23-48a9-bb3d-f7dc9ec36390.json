@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110070429號",
+        "reg_docno": "74府教國字第149620號",
+        "reg_date": "1985\/08\/12",
+        "title": "臺中市神岡區神岡國民小學附設幼兒園",
+        "owner": "王丕助",
+        "city": "臺中市",
+        "town": "神岡區",
+        "type": "公立",
+        "address": "[429]神圳路1號",
+        "floor": "1樓",
+        "size": "764.93平方公尺",
+        "size_in": "416.77平方公尺",
+        "size_out": "348.16平方公尺",
+        "tel": "(04)25614231",
+        "url": "https:\/\/sites.google.com\/site\/104skaeskid\/home",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a50c2d3e-0b23-48a9-bb3d-f7dc9ec36390",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.660911,
+            24.258343
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010027829號",
+        "reg_docno": "府教國字第157585號",
+        "reg_date": "1996\/11\/19",
+        "title": "財團法人愛彌兒教育基金會附設臺中市私立愛彌兒幼兒園",
+        "owner": "",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]永春東路185號",
+        "floor": "1-2樓",
+        "size": "2,173.23平方公尺",
+        "size_in": "1,356.56平方公尺",
+        "size_out": "816.67平方公尺",
+        "tel": "(04)24738623",
+        "url": "http:\/\/www.kidsemile.com.tw",
+        "count_approved": "330",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5a8a72bc-5b20-47f2-be1c-010adaebb706",
+        "monthly": 16600
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.651671,
+            24.134788
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090175771號",
+        "reg_docno": "府教幼字第1090175771號",
+        "reg_date": "2020\/07\/24",
+        "title": "南投縣營盤非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "非營利",
+        "address": "[540]營盤路136號",
+        "floor": "1樓",
+        "size": "794.73平方公尺",
+        "size_in": "470.34平方公尺",
+        "size_out": "324.39平方公尺",
+        "tel": "(049)2312899",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "49948c92-74ae-41fd-9686-7cf3a427c9ad",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6747888,
+            23.9446739
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070174515號",
+        "reg_docno": "府教國字第77875號",
+        "reg_date": "1994\/07\/25",
+        "title": "嘉義縣竹崎鄉中興國民小學附設幼兒園",
+        "owner": "莊新國",
+        "city": "嘉義縣",
+        "town": "竹崎鄉",
+        "type": "公立",
+        "address": "[604]石棹10號之1",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2561021",
+        "url": "www.cses.cyc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2e684740-5d55-4fc5-a3a3-f65d0dbe6144",
+        "monthly": 3869
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.67014,
+            23.472384
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11137688400號",
+        "reg_docno": "府教特字第0930072621號",
+        "reg_date": "2004\/04\/12",
+        "title": "高雄市永安區維新國民小學附設幼兒園",
+        "owner": "莊燿隆",
+        "city": "高雄市",
+        "town": "永安區",
+        "type": "公立",
+        "address": "[828]維新路光明9巷69之10號",
+        "floor": "1樓",
+        "size": "1,903.59平方公尺",
+        "size_in": "502.58平方公尺",
+        "size_out": "1,401.01平方公尺",
+        "tel": "(07)6913816#611",
+        "url": "http:\/\/www.loxa.edu.tw\/classweb.html?webId=22348",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "449c5cbd-aa33-4f99-b93f-7975dcb9d142",
+        "monthly": 2870
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.247145,
+            22.804332
+        ]
+    }
+}

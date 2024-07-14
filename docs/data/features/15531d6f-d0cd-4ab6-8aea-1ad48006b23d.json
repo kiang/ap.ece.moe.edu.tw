@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110177451號",
+        "reg_docno": "辰迴南府教國字第15836號",
+        "reg_date": "1950\/05\/24",
+        "title": "嘉義縣義竹鄉義竹國民小學附設幼兒園",
+        "owner": "闕裕清",
+        "city": "嘉義縣",
+        "town": "義竹鄉",
+        "type": "公立",
+        "address": "[624]義竹208號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3417748",
+        "url": "https:\/\/www.facebook.com\/icpskindergarden",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "15531d6f-d0cd-4ab6-8aea-1ad48006b23d",
+        "monthly": 3729
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.245626,
+            23.335547
+        ]
+    }
+}

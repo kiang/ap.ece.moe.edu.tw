@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10935550500號",
+        "reg_docno": "75府教國字第12595號",
+        "reg_date": "1986\/02\/06",
+        "title": "財團法人天主教奧思會附設高雄市私立理達幼兒園",
+        "owner": "錢盛義",
+        "city": "高雄市",
+        "town": "林園區",
+        "type": "私立",
+        "address": "[832]林園北路242號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6413380",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "63e5e3ac-419c-47c9-9593-6d1d91c4b2db",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.394691,
+            22.509026
+        ]
+    }
+}

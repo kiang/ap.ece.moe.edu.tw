@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551121號",
+        "reg_docno": "府教幼字第1070066329號",
+        "reg_date": "2018\/07\/31",
+        "title": "新竹縣私立康德幼兒園",
+        "owner": "徐俊輝",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]文信路226號1-3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,391.74平方公尺",
+        "size_in": "961.43平方公尺",
+        "size_out": "429.87平方公尺",
+        "tel": "(03)5589398",
+        "url": "http:\/\/kant.pieria.com.tw\/",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "750bc172-9453-4417-9a9a-52edf1030fd9",
+        "monthly": 30700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0156214,
+            24.8318175
+        ]
+    }
+}

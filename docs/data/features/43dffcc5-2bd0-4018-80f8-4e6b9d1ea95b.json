@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1091506300號",
+        "reg_docno": "府教特字第1091506300號",
+        "reg_date": "2020\/04\/22",
+        "title": "嘉義市私立華特幼兒園",
+        "owner": "王秋華",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]大雅路二段234巷27號",
+        "floor": "1樓、2樓",
+        "size": "1,454.62平方公尺",
+        "size_in": "624.68平方公尺",
+        "size_out": "621.69平方公尺",
+        "tel": "(05)2715229",
+        "url": "",
+        "count_approved": "145",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "43dffcc5-2bd0-4018-80f8-4e6b9d1ea95b",
+        "monthly": 12667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4768377,
+            23.4786314
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130040600號",
+        "reg_docno": "中市教幼字第1030080198號",
+        "reg_date": "2014\/09\/29",
+        "title": "臺中市私立聖約克幼兒園",
+        "owner": "賴惠君",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]九龍東街35號1樓",
+        "floor": "1樓",
+        "size": "336.68平方公尺",
+        "size_in": "123.25平方公尺",
+        "size_out": "213.43平方公尺",
+        "tel": "(04)22355505",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d1e9d872-edf5-448d-ba21-7989d4eefb34",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6968762,
+            24.1660626
+        ]
+    }
+}

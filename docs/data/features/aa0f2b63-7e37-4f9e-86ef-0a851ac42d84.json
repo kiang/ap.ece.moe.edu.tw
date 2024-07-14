@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教國字第1060908537號",
+        "reg_docno": "府教國字第09808009164號",
+        "reg_date": "1999\/07\/14",
+        "title": "澎湖縣湖西鄉沙港國民小學附設幼兒園",
+        "owner": "陳玉珍",
+        "city": "澎湖縣",
+        "town": "湖西鄉",
+        "type": "公立",
+        "address": "[885]75號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)9215761",
+        "url": "www.skps.phc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "aa0f2b63-7e37-4f9e-86ef-0a851ac42d84",
+        "monthly": 3763
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.616066,
+            23.594612
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120175401號",
+        "reg_docno": "府社兒字第0980024157號",
+        "reg_date": "2009\/01\/17",
+        "title": "桃園市私立和美幼兒園",
+        "owner": "謝子元",
+        "city": "桃園市",
+        "town": "觀音區",
+        "type": "私立",
+        "address": "[328]中山路二段239號1-3樓",
+        "floor": "3",
+        "size": "2,207.7平方公尺",
+        "size_in": "888.45平方公尺",
+        "size_out": "1,319.2平方公尺",
+        "tel": "(03)4987448",
+        "url": "",
+        "count_approved": "305",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：100",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bab08f6f-e460-4e67-9516-691b58b831a1",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.1302855,
+            25.0156865
+        ]
+    }
+}

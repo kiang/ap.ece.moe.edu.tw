@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070207221號",
+        "reg_docno": "府社兒字第1000532925號",
+        "reg_date": "1997\/07\/02",
+        "title": "桃園市立蘆竹幼兒園外社分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "公立",
+        "address": "[338]山林路二段530號1樓",
+        "floor": "1",
+        "size": "493.28平方公尺",
+        "size_in": "173.93平方公尺",
+        "size_out": "319.35平方公尺",
+        "tel": "(03)3243017",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "a20c4351-9e6d-4a3f-94fe-26886786b138",
+        "monthly": 3938
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3056202,
+            25.0824179
+        ]
+    }
+}

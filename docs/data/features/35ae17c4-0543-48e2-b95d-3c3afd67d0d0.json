@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130156614號",
+        "reg_docno": "府教幼字第1090307166號",
+        "reg_date": "2020\/08\/26",
+        "title": "彰化縣僑愛非營利幼兒園（委託社團法人彰化縣中華幼兒教保職涯發展協會辦理）",
+        "owner": "郭懿珊",
+        "city": "彰化縣",
+        "town": "花壇鄉",
+        "type": "非營利",
+        "address": "[503]中山路二段471號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,541.252平方公尺",
+        "size_in": "1,022.61平方公尺",
+        "size_out": "518.642平方公尺",
+        "tel": "(04)7865148",
+        "url": "https:\/\/www.facebook.com\/q7865148\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "35ae17c4-0543-48e2-b95d-3c3afd67d0d0",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5350521,
+            24.0383039
+        ]
+    }
+}

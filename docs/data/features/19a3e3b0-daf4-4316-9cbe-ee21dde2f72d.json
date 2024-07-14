@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10938367200號",
+        "reg_docno": "七五府教國字第25366號",
+        "reg_date": "1986\/03\/10",
+        "title": "高雄市私立晨光幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "燕巢區",
+        "type": "私立",
+        "address": "[824]瓊興路370之2、之3、之4號",
+        "floor": "1-2樓",
+        "size": "1,415.37平方公尺",
+        "size_in": "762平方公尺",
+        "size_out": "653.37平方公尺",
+        "tel": "(07)6166599",
+        "url": "",
+        "count_approved": "330",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "19a3e3b0-daf4-4316-9cbe-ee21dde2f72d",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3265377,
+            22.7944772
+        ]
+    }
+}

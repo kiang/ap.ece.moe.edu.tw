@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1103717490號",
+        "reg_docno": "府教幼字第1093710547號",
+        "reg_date": "2020\/02\/11",
+        "title": "財團法人至陽教育基金會附設新竹縣私立照海幼兒園",
+        "owner": "王馨慧",
+        "city": "新竹縣",
+        "town": "新埔鎮",
+        "type": "私立",
+        "address": "[305]福德街561號",
+        "floor": "1樓",
+        "size": "1,193.82平方公尺",
+        "size_in": "637.8平方公尺",
+        "size_out": "360.58平方公尺",
+        "tel": "(03)5881201",
+        "url": "",
+        "count_approved": "118",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "ae27dd1b-dc54-49d8-b475-fe203b1d5606",
+        "monthly": 18333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0727722,
+            24.8261639
+        ]
+    }
+}

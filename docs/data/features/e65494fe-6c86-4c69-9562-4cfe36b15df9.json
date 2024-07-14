@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080003857號",
+        "reg_docno": "中市教幼字第1080003857號",
+        "reg_date": "2019\/01\/23",
+        "title": "臺中市私立南屯大千幼兒園永春分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]永春東三路467號",
+        "floor": "1樓",
+        "size": "610.74平方公尺",
+        "size_in": "371.88平方公尺",
+        "size_out": "238.86平方公尺",
+        "tel": "(04)23690252",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e65494fe-6c86-4c69-9562-4cfe36b15df9",
+        "monthly": 13792
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6385018,
+            24.1344564
+        ]
+    }
+}

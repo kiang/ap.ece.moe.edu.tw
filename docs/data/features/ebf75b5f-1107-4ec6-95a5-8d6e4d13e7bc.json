@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680淡水0006之2號",
+        "reg_docno": "七九北府教二字第130295號",
+        "reg_date": "1990\/05\/10",
+        "title": "新北市淡水區興仁國民小學附設幼兒園",
+        "owner": "楊順宇",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "公立",
+        "address": "[251]興仁路101巷10號",
+        "floor": "1樓",
+        "size": "510平方公尺",
+        "size_in": "330平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(02)26262151#無",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ebf75b5f-1107-4ec6-95a5-8d6e4d13e7bc",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.45106,
+            25.216894
+        ]
+    }
+}

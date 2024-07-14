@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1111127459號",
+        "reg_docno": "南市教特字第09312520330號",
+        "reg_date": "2004\/05\/05",
+        "title": "臺南市東區德高國民小學附設幼兒園",
+        "owner": "劉裕承",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "公立",
+        "address": "[701]崇善路1155號",
+        "floor": "1樓",
+        "size": "1,451.93平方公尺",
+        "size_in": "514.69平方公尺",
+        "size_out": "937.24平方公尺",
+        "tel": "(06)2681891#108",
+        "url": "臺南市東區崇善路1155號",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b17d5a0a-3694-414f-9181-9cb74c9b3682",
+        "monthly": 3620
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.235894,
+            22.962919
+        ]
+    }
+}

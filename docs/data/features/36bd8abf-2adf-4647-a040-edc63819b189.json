@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599林口0054號",
+        "reg_docno": "新北府教幼字第1101500546號",
+        "reg_date": "2021\/08\/27",
+        "title": "新北市私立夏哲森幼兒園",
+        "owner": "楊傳蓮",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]忠孝路95號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26068936",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "36bd8abf-2adf-4647-a040-edc63819b189",
+        "monthly": 23417
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3663137,
+            25.0743531
+        ]
+    }
+}

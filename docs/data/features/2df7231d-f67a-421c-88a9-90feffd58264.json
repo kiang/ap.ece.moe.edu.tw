@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010014808號",
+        "reg_docno": "府教國字第18062號",
+        "reg_date": "1998\/12\/09",
+        "title": "臺中市私立狄仕耐幼兒園",
+        "owner": "朱瑞乾",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "私立",
+        "address": "[403]五權八街128號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23712396",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2df7231d-f67a-421c-88a9-90feffd58264",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.661378,
+            24.134347
+        ]
+    }
+}

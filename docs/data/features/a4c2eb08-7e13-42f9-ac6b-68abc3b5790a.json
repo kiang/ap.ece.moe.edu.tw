@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前貳字第1100218742B號",
+        "reg_docno": "基府教前貳字第1100218742B號",
+        "reg_date": "2021\/05\/01",
+        "title": "基隆市成長非營利幼兒園(委託財團法人成長文教基金會辦理)",
+        "owner": "許樊曼儂",
+        "city": "基隆市",
+        "town": "中正區",
+        "type": "非營利",
+        "address": "[202]正榮街88號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,296.27平方公尺",
+        "size_in": "1,623.86平方公尺",
+        "size_out": "672.41平方公尺",
+        "tel": "(02)24620830",
+        "url": "評鑑情形：",
+        "count_approved": "122",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a4c2eb08-7e13-42f9-ac6b-68abc3b5790a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7625337,
+            25.1469975
+        ]
+    }
+}

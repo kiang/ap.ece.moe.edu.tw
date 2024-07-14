@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11135317500號",
+        "reg_docno": "高市府教國字第101056號",
+        "reg_date": "1970\/10\/12",
+        "title": "財團法人中華基督教衛理公會附設高雄市私立衛理幼兒園",
+        "owner": "",
+        "city": "高雄市",
+        "town": "新興區",
+        "type": "私立",
+        "address": "[800]中山二路564號",
+        "floor": "1樓、2樓",
+        "size": "686.42平方公尺",
+        "size_in": "426.24平方公尺",
+        "size_out": "260.18平方公尺",
+        "tel": "(07)2314853",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "106b6915-68cd-4b99-81cd-aced6116ed5b",
+        "monthly": 10233
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3016738,
+            22.6215632
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010040991號",
+        "reg_docno": "府社幼字第0950023511號",
+        "reg_date": "2005\/01\/23",
+        "title": "臺中市私立愛迪克幼兒園",
+        "owner": "陳錫昌",
+        "city": "臺中市",
+        "town": "霧峰區",
+        "type": "私立",
+        "address": "[413]四德路482號",
+        "floor": "1F",
+        "size": "2,075.87平方公尺",
+        "size_in": "641.62平方公尺",
+        "size_out": "1,434.25平方公尺",
+        "tel": "(04)23321089",
+        "url": "",
+        "count_approved": "190",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：40",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2f5c82d4-4e13-4822-a661-6d9422caea37",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.670254,
+            24.061934
+        ]
+    }
+}

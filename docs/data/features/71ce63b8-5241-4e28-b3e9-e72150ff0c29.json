@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120225640號",
+        "reg_docno": "82府教國字第119090號",
+        "reg_date": "1980\/11\/22",
+        "title": "桃園市大溪區員樹林國民小學附設幼兒園",
+        "owner": "黃玉宏",
+        "city": "桃園市",
+        "town": "大溪區",
+        "type": "公立",
+        "address": "[335]員林路二段450號",
+        "floor": "1",
+        "size": "900平方公尺",
+        "size_in": "300平方公尺",
+        "size_out": "600平方公尺",
+        "tel": "(03)3906891",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100057388541879",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "71ce63b8-5241-4e28-b3e9-e72150ff0c29",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.266078,
+            24.8828019
+        ]
+    }
+}

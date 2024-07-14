@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1081825442號",
+        "reg_docno": "北府社兒字第0950832722號",
+        "reg_date": "2006\/11\/21",
+        "title": "新北市私立祐昇幼兒園",
+        "owner": "鍾開文",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]中興街177號1樓",
+        "floor": "1樓",
+        "size": "104.87平方公尺",
+        "size_in": "104.87平方公尺",
+        "size_out": "",
+        "tel": "(02)22853568",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "45a53079-154a-4a6f-b5f7-e64c1031a17f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.482144,
+            25.088235
+        ]
+    }
+}

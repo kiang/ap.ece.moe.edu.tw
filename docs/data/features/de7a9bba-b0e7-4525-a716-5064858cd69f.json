@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121390493號",
+        "reg_docno": "南市社兒字第222359號",
+        "reg_date": "2002\/06\/14",
+        "title": "臺南市私立德妮培安幼兒園",
+        "owner": "何明德",
+        "city": "臺南市",
+        "town": "安平區",
+        "type": "私立",
+        "address": "[708]怡平路390號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,668.85平方公尺",
+        "size_in": "1,256.49平方公尺",
+        "size_out": "412.36平方公尺",
+        "tel": "(06)2990559",
+        "url": "www.derni.com.tw",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "de7a9bba-b0e7-4525-a716-5064858cd69f",
+        "monthly": 9500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.177154,
+            22.993395
+        ]
+    }
+}

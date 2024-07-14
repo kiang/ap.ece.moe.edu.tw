@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1121508515號",
+        "reg_docno": "府教特字第1121508515號",
+        "reg_date": "2023\/05\/09",
+        "title": "嘉義市私立哈波特幼兒園",
+        "owner": "江明哲",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]崇文街33號",
+        "floor": "1樓、2樓",
+        "size": "2,308.02平方公尺",
+        "size_in": "1,365.17平方公尺",
+        "size_out": "942.85平方公尺",
+        "tel": "(05)2280610",
+        "url": "",
+        "count_approved": "308",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0b129310-466f-4dce-9c72-15234d25d5cc",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4559006,
+            23.4722991
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090070697號",
+        "reg_docno": "中市教幼字第1090070697號",
+        "reg_date": "2020\/08\/01",
+        "title": "臺中市新社區大南國民小學附設幼兒園",
+        "owner": "謝政隆",
+        "city": "臺中市",
+        "town": "新社區",
+        "type": "公立",
+        "address": "[426]興中街47號",
+        "floor": "1樓",
+        "size": "440.71平方公尺",
+        "size_in": "297.91平方公尺",
+        "size_out": "142.8平方公尺",
+        "tel": "(04)25811574#782",
+        "url": "www.dnps.tc.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3cad5eca-ca47-4b2b-86be-047d95a7a9ab",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8044347,
+            24.2270556
+        ]
+    }
+}

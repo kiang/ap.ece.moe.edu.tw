@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120134155號",
+        "reg_docno": "府教特字第0953009921號",
+        "reg_date": "2006\/04\/13",
+        "title": "臺東縣池上鄉萬安國民小學附設幼兒園",
+        "owner": "鄭漢文",
+        "city": "臺東縣",
+        "town": "池上鄉",
+        "type": "公立",
+        "address": "[958]5-2號",
+        "floor": "1樓",
+        "size": "229.04平方公尺",
+        "size_in": "131.04平方公尺",
+        "size_out": "98平方公尺",
+        "tel": "(089)862371#307",
+        "url": "www.waes.ttct.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "712cd4bc-48df-4a3a-837a-8489d9ea4945",
+        "monthly": 3611
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.218574,
+            23.095659
+        ]
+    }
+}

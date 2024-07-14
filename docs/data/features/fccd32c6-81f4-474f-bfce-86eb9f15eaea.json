@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129550048號",
+        "reg_docno": "府社婦幼字第1000007606L號",
+        "reg_date": "1981\/07\/01",
+        "title": "新竹縣新豐鄉立幼兒園",
+        "owner": "徐煒傑",
+        "city": "新竹縣",
+        "town": "新豐鄉",
+        "type": "公立",
+        "address": "[304]忠一街216號",
+        "floor": "1樓",
+        "size": "502.41平方公尺",
+        "size_in": "301.57平方公尺",
+        "size_out": "",
+        "tel": "(03)5574713",
+        "url": "http:\/\/www.hchfe.gov.tw",
+        "count_approved": "86",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fccd32c6-81f4-474f-bfce-86eb9f15eaea",
+        "monthly": 3400
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9977664,
+            24.8794236
+        ]
+    }
+}

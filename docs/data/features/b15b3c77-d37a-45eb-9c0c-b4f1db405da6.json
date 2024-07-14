@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137444800號",
+        "reg_docno": "高市社局五字第29259號",
+        "reg_date": "2003\/07\/14",
+        "title": "高雄市私立楠梓長春藤幼兒園",
+        "owner": "余瓊如",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "私立",
+        "address": "[811]德賢路380巷26號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3608539",
+        "url": "",
+        "count_approved": "85",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：40",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b15b3c77-d37a-45eb-9c0c-b4f1db405da6",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.30407,
+            22.727182
+        ]
+    }
+}

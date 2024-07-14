@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11237283200號",
+        "reg_docno": "77府教學字第056837號",
+        "reg_date": "1988\/05\/14",
+        "title": "高雄市湖內區文賢國民小學附設幼兒園",
+        "owner": "張國輝",
+        "city": "高雄市",
+        "town": "湖內區",
+        "type": "公立",
+        "address": "[829]中正路二段51巷30號",
+        "floor": "1至2樓",
+        "size": "1,865.52平方公尺",
+        "size_in": "383.41平方公尺",
+        "size_out": "1,482.11平方公尺",
+        "tel": "(07)6995251",
+        "url": "www.wxp.ks.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e230cb06-5a70-4883-8758-bf9ec4cfba77",
+        "monthly": 3892
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.213196,
+            22.908189
+        ]
+    }
+}

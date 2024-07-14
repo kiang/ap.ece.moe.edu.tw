@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10955362300號",
+        "reg_docno": "屏府教前字第10828449500號",
+        "reg_date": "2019\/07\/31",
+        "title": "屏東縣林邊非營利幼兒園(委託社團法人屏東縣宥薰教育協會辦理)",
+        "owner": "許靜芳",
+        "city": "屏東縣",
+        "town": "林邊鄉",
+        "type": "非營利",
+        "address": "[927]中山路68號",
+        "floor": "1樓、2樓",
+        "size": "493.6平方公尺",
+        "size_in": "273.6平方公尺",
+        "size_out": "220平方公尺",
+        "tel": "(08)8753820",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a5525295-8066-4c1a-921e-a7da12125549",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.517767,
+            22.4326938
+        ]
+    }
+}

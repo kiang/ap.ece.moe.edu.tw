@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10631622900號",
+        "reg_docno": "府社福字第32718號",
+        "reg_date": "2002\/03\/04",
+        "title": "高雄市私立新安心幼兒園",
+        "owner": "洪冬人",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]嘉峰路265號",
+        "floor": "3",
+        "size": "1,733.18平方公尺",
+        "size_in": "862.82平方公尺",
+        "size_out": "870.36平方公尺",
+        "tel": "(07)6283290",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1055978e-8b20-4867-ad4e-6c4b1377b7fc",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3141552,
+            22.8304905
+        ]
+    }
+}

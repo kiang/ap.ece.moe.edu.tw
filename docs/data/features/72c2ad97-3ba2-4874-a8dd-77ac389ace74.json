@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1093716989號",
+        "reg_docno": "八七府教國字第111982號",
+        "reg_date": "1998\/09\/29",
+        "title": "新竹縣私立丹佛幼兒園",
+        "owner": "劉士賢",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "私立",
+        "address": "[310]中央路19號、21號",
+        "floor": "1樓、2樓",
+        "size": "980.98平方公尺",
+        "size_in": "602.09平方公尺",
+        "size_out": "378.89平方公尺",
+        "tel": "(03)5826880",
+        "url": "",
+        "count_approved": "132",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "72c2ad97-3ba2-4874-a8dd-77ac389ace74",
+        "monthly": 14000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.055895,
+            24.768411
+        ]
+    }
+}

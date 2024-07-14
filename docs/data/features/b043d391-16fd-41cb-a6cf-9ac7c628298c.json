@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10139020300號",
+        "reg_docno": "府社福字第0980104769號",
+        "reg_date": "2009\/04\/22",
+        "title": "高雄市私立亮晶晶幼兒園",
+        "owner": "張寬敏",
+        "city": "高雄市",
+        "town": "林園區",
+        "type": "私立",
+        "address": "[832]仁愛路339號",
+        "floor": "1-3樓",
+        "size": "182.53平方公尺",
+        "size_in": "153.87平方公尺",
+        "size_out": "28.66平方公尺",
+        "tel": "(07)6431301",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b043d391-16fd-41cb-a6cf-9ac7c628298c",
+        "monthly": 6300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3927751,
+            22.5126012
+        ]
+    }
+}

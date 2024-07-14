@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11334700100號",
+        "reg_docno": "高市教幼字第11334700100號",
+        "reg_date": "2024\/06\/19",
+        "title": "高雄市私立貝思幼兒園",
+        "owner": "施哲立",
+        "city": "高雄市",
+        "town": "橋頭區",
+        "type": "私立",
+        "address": "[825]竹林街188號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,510.46平方公尺",
+        "size_in": "1,489.35平方公尺",
+        "size_out": "1,021.11平方公尺",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "330",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "51d55c18-85b5-4ada-8552-df2e7ab96727",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.306708,
+            22.757472
+        ]
+    }
+}

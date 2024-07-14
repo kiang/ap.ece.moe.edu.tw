@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010982171號",
+        "reg_docno": "南市社兒字第064457號",
+        "reg_date": "2000\/09\/14",
+        "title": "臺南市私立康德爾幼兒園",
+        "owner": "李淑鈴",
+        "city": "臺南市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[704]成功路252號",
+        "floor": "1.2樓",
+        "size": "241.09平方公尺",
+        "size_in": "179.51平方公尺",
+        "size_out": "61.58平方公尺",
+        "tel": "(06)2235155",
+        "url": "",
+        "count_approved": "36",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a033c38f-65da-406a-a48f-0929e57d36cf",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2026296,
+            22.9992227
+        ]
+    }
+}

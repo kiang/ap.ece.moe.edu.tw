@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120014267號",
+        "reg_docno": "府社福字第168629號",
+        "reg_date": "2000\/08\/29",
+        "title": "桃園市私立福星寶貝幼兒園",
+        "owner": "黃素鶯",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]福州一街99號1-2樓",
+        "floor": "一樓至二樓",
+        "size": "1,128.47平方公尺",
+        "size_in": "622.6平方公尺",
+        "size_out": "505.87平方公尺",
+        "tel": "(03)4521045",
+        "url": "",
+        "count_approved": "159",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "117d557d-4f3c-41e7-b082-01f21caaef95",
+        "monthly": 4625
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.232264,
+            24.965479
+        ]
+    }
+}

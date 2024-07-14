@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010087523號",
+        "reg_docno": "(90)府社婦字第18931號",
+        "reg_date": "2001\/03\/15",
+        "title": "新竹市私立果果幼兒園",
+        "owner": "溫詠竣",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]食品路260巷1號",
+        "floor": "1",
+        "size": "447.9平方公尺",
+        "size_in": "338.73平方公尺",
+        "size_out": "109.17平方公尺",
+        "tel": "(03)5627699",
+        "url": "http:\/\/guoguo.urb.com.tw\/",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "83590819-fa56-4920-93aa-6387f9b20c66",
+        "monthly": 9708
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.971913,
+            24.794592
+        ]
+    }
+}

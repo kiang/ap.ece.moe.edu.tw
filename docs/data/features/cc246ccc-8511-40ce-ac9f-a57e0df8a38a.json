@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第613號",
+        "reg_docno": "北市社婦幼字第09733489500號",
+        "reg_date": "2008\/04\/03",
+        "title": "臺北市私立海桔斯幼兒園",
+        "owner": "蔡莉莉",
+        "city": "臺北市",
+        "town": "大同區",
+        "type": "私立",
+        "address": "[103]延平北路二段286、286之1、286之2、286之3、286之4號1樓",
+        "floor": "1樓、1F",
+        "size": "152.67平方公尺",
+        "size_in": "152.67平方公尺",
+        "size_out": "",
+        "tel": "(02)25532687",
+        "url": "",
+        "count_approved": "39",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：18",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cc246ccc-8511-40ce-ac9f-a57e0df8a38a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5111583,
+            25.0624195
+        ]
+    }
+}

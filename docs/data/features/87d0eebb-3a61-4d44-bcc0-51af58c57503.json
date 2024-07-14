@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080190284號",
+        "reg_docno": "府社婦字第0960089194號",
+        "reg_date": "2007\/08\/29",
+        "title": "新竹市私立快樂地幼兒園",
+        "owner": "莊林錦泉",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]東大路三段402號1-3樓",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,412.22平方公尺",
+        "size_in": "1,109.16平方公尺",
+        "size_out": "303.06平方公尺",
+        "tel": "(03)5360019",
+        "url": "www.ck-kids.com.tw",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "87d0eebb-3a61-4d44-bcc0-51af58c57503",
+        "monthly": 11767
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.944573,
+            24.83586
+        ]
+    }
+}

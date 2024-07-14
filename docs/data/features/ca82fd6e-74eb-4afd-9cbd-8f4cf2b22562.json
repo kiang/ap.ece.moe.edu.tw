@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110186401號",
+        "reg_docno": "府教國字第67064號",
+        "reg_date": "1985\/08\/28",
+        "title": "嘉義縣民雄鄉秀林國民小學附設幼兒園",
+        "owner": "翁雅屏",
+        "city": "嘉義縣",
+        "town": "民雄鄉",
+        "type": "公立",
+        "address": "[621]北勢仔17號",
+        "floor": "1樓",
+        "size": "14,271.47平方公尺",
+        "size_in": "203.14平方公尺",
+        "size_out": "14,068.33平方公尺",
+        "tel": "(05)2215690",
+        "url": "http:\/\/css000000217862.tw.class.uschoolnet.com\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ca82fd6e-74eb-4afd-9cbd-8f4cf2b22562",
+        "monthly": 3685
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.456303,
+            23.533989
+        ]
+    }
+}

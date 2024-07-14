@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1120039475號",
+        "reg_docno": "86府教國字第41504號",
+        "reg_date": "1997\/04\/23",
+        "title": "新竹縣竹東鎮竹中國民小學附設幼兒園",
+        "owner": "范靜玉",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "公立",
+        "address": "[310]竹中路104巷14號",
+        "floor": "1樓、2樓",
+        "size": "510平方公尺",
+        "size_in": "390平方公尺",
+        "size_out": "120平方公尺",
+        "tel": "(03)5823822#719",
+        "url": "新竹縣竹東鎮頭重理竹中路104巷14號",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "851ac675-dfab-4e4a-a8d6-2fe6a74fbe24",
+        "monthly": 3900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.030008,
+            24.780496
+        ]
+    }
+}

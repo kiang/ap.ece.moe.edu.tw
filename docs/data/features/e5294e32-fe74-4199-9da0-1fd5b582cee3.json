@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第338-1號",
+        "reg_docno": "北市社五字第8924023300號",
+        "reg_date": "2000\/06\/16",
+        "title": "臺北市私立何嘉仁北投幼兒園",
+        "owner": "黃惠滿",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]中央北路二段335之2號1、2樓",
+        "floor": "1樓、2樓",
+        "size": "670.51平方公尺",
+        "size_in": "670.51平方公尺",
+        "size_out": "",
+        "tel": "(02)28943222",
+        "url": "",
+        "count_approved": "159",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e5294e32-fe74-4199-9da0-1fd5b582cee3",
+        "monthly": 18700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.488557,
+            25.1382529
+        ]
+    }
+}

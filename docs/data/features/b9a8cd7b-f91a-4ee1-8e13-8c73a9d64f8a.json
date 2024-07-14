@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130033710號",
+        "reg_docno": "87府教國字第59516號",
+        "reg_date": "1998\/04\/08",
+        "title": "桃園市私立愛心幼兒園",
+        "owner": "陳怡靜",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]平等路82號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4507358",
+        "url": "",
+        "count_approved": "86",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b9a8cd7b-f91a-4ee1-8e13-8c73a9d64f8a",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.252933,
+            24.918377
+        ]
+    }
+}

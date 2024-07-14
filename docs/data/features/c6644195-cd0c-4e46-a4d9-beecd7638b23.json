@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10334904700號",
+        "reg_docno": "高市社局五字第0990036046號",
+        "reg_date": "2010\/07\/26",
+        "title": "高雄市私立芝加哥建昌幼兒園",
+        "owner": "羅敬業",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]建昌路31號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3890771",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c6644195-cd0c-4e46-a4d9-beecd7638b23",
+        "monthly": 8289
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.323096,
+            22.647276
+        ]
+    }
+}

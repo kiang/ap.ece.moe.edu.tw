@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1093720064號",
+        "reg_docno": "府教幼字第1050127985號",
+        "reg_date": "2016\/12\/22",
+        "title": "新竹縣馬里光部落互助教保服務中心（財團法人至善社會福利基金會辦理）",
+        "owner": "",
+        "city": "新竹縣",
+        "town": "尖石鄉",
+        "type": "私立",
+        "address": "[313]宇抬41號",
+        "floor": "1樓",
+        "size": "150.46平方公尺",
+        "size_in": "125.18平方公尺",
+        "size_out": "25.28平方公尺",
+        "tel": "(03)5847135",
+        "url": "",
+        "count_approved": "10",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5f766121-42ea-479f-bca1-4bf737ea6c04",
+        "monthly": 2017
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.316413,
+            24.653624
+        ]
+    }
+}

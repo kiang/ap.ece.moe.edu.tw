@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1010180322號",
+        "reg_docno": "基府社福字第35548號",
+        "reg_date": "1994\/05\/24",
+        "title": "基隆市私立名將幼兒園",
+        "owner": "劉怡伶",
+        "city": "基隆市",
+        "town": "七堵區",
+        "type": "私立",
+        "address": "[206]百七街66、70號",
+        "floor": "1樓",
+        "size": "285.25平方公尺",
+        "size_in": "285.25平方公尺",
+        "size_out": "",
+        "tel": "(02)24512222",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "208982e8-ea47-4cd4-ba28-1ff27e97a6b9",
+        "monthly": 6000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6974716,
+            25.0869266
+        ]
+    }
+}

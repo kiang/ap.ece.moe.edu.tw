@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120208761號",
+        "reg_docno": "府教國字第48950號",
+        "reg_date": "1979\/07\/11",
+        "title": "嘉義縣東石鄉三江國民小學附設幼兒園",
+        "owner": "嚴春財",
+        "city": "嘉義縣",
+        "town": "東石鄉",
+        "type": "公立",
+        "address": "[614]三塊厝16號",
+        "floor": "1樓",
+        "size": "428平方公尺",
+        "size_in": "263平方公尺",
+        "size_out": "165平方公尺",
+        "tel": "(05)3730585",
+        "url": "http:\/\/tw.pre.uschoolnet.com\/school\/sjps-cyc",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1323cdc3-1f8c-4caf-b5bd-19d0d3b9cf17",
+        "monthly": 3685
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.173899,
+            23.471302
+        ]
+    }
+}

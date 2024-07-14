@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010025703號",
+        "reg_docno": "87府教國字第279192號",
+        "reg_date": "1998\/10\/22",
+        "title": "臺中市私立大豐幼兒園",
+        "owner": "黃健治",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "私立",
+        "address": "[427]潭富一街53號",
+        "floor": "1-2樓",
+        "size": "1,558.28平方公尺",
+        "size_in": "893.53平方公尺",
+        "size_out": "664.75平方公尺",
+        "tel": "(04)25319010",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e95182c2-6289-4e93-b662-5d895bf7c421",
+        "monthly": 10342
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.692543,
+            24.22248
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1095003338號",
+        "reg_docno": "嘉府炳教二字第65001號",
+        "reg_date": "1976\/08\/31",
+        "title": "嘉義市立幸福幼兒園",
+        "owner": "李鸝珍",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "公立",
+        "address": "[600]民生南路363號",
+        "floor": "1樓、2樓",
+        "size": "20,826.77平方公尺",
+        "size_in": "3,446.49平方公尺",
+        "size_out": "17,380.28平方公尺",
+        "tel": "(05)2858150#10",
+        "url": "www.ches.cy.edu.tw",
+        "count_approved": "334",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "37fc9298-168b-4e76-b5a6-1b8f99e664b2",
+        "monthly": 3170
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.443937,
+            23.460918
+        ]
+    }
+}

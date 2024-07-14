@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1020067543號",
+        "reg_docno": "府婦幼字第0930039888號",
+        "reg_date": "2004\/06\/04",
+        "title": "新竹縣私立優葆幼兒園",
+        "owner": "徐裕明",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]勝利七街一段336號1.3樓",
+        "floor": "1樓、3樓",
+        "size": "317.04平方公尺",
+        "size_in": "123.87平方公尺",
+        "size_out": "32.4平方公尺",
+        "tel": "(03)5505326",
+        "url": "",
+        "count_approved": "44",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b2c76aae-2b7c-4c52-959d-643746052b1a",
+        "monthly": 16933
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0290884,
+            24.8244157
+        ]
+    }
+}

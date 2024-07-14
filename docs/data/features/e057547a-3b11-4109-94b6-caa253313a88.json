@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620永和0033號",
+        "reg_docno": "北府教幼字第061378號",
+        "reg_date": "1976\/03\/23",
+        "title": "新北市私立永達幼兒園",
+        "owner": "張小田",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]永貞路39巷9弄7號、9號",
+        "floor": "1樓",
+        "size": "410.5平方公尺",
+        "size_in": "235.5平方公尺",
+        "size_out": "175平方公尺",
+        "tel": "(02)29228387",
+        "url": "http:\/\/www.yongda8387@gmail.com.tw",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "e057547a-3b11-4109-94b6-caa253313a88",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5222797,
+            25.0071455
+        ]
+    }
+}

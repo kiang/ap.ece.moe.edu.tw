@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1100190652號",
+        "reg_docno": "府教特字第1000012702號",
+        "reg_date": "2011\/01\/24",
+        "title": "桃園市平鎮區東安國民小學附設幼兒園",
+        "owner": "張瓊友",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "公立",
+        "address": "[324]平東路136號",
+        "floor": "1樓",
+        "size": "930平方公尺",
+        "size_in": "380平方公尺",
+        "size_out": "550平方公尺",
+        "tel": "(03)4509571#612",
+        "url": "https:\/\/reurl.cc\/lglNNA",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a4fc2758-e619-4a2f-8d8f-90f30293fbb8",
+        "monthly": 4027
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.250291,
+            24.91752
+        ]
+    }
+}

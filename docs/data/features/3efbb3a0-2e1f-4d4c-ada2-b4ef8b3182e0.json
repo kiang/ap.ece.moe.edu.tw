@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010059897號",
+        "reg_docno": "嘉府社福字第87927號",
+        "reg_date": "2000\/07\/28",
+        "title": "嘉義縣私立愛寶兒幼兒園",
+        "owner": "吳政達",
+        "city": "嘉義縣",
+        "town": "新港鄉",
+        "type": "私立",
+        "address": "[616]咬仔竹201號",
+        "floor": "2樓",
+        "size": "612.78平方公尺",
+        "size_in": "377.7平方公尺",
+        "size_out": "235.08平方公尺",
+        "tel": "(05)3748112",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "3efbb3a0-2e1f-4d4c-ada2-b4ef8b3182e0",
+        "monthly": 9200
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.359142,
+            23.534278
+        ]
+    }
+}

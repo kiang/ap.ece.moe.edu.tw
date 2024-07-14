@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第111319092號",
+        "reg_docno": "府社福字第175604號",
+        "reg_date": "1970\/01\/01",
+        "title": "臺南市立六甲幼兒園",
+        "owner": "郭銘眞",
+        "city": "臺南市",
+        "town": "六甲區",
+        "type": "公立",
+        "address": "[734]建工街266號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)6984863#35",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "750014fa-25b7-4769-8296-af7a1ed44f0c",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.346062,
+            23.228069
+        ]
+    }
+}

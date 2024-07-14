@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1130762053號",
+        "reg_docno": "南市教特(一)字第1110833626號",
+        "reg_date": "2022\/07\/18",
+        "title": "勞動部勞發署雲嘉南分署職場互助教保服務中心(委託財團法人臺南市私立天主教伯利恆社會福利基金會辦理)",
+        "owner": "黃敏正",
+        "city": "臺南市",
+        "town": "官田區",
+        "type": "私立",
+        "address": "[720]工業路40號1樓",
+        "floor": "1樓",
+        "size": "275.6平方公尺",
+        "size_in": "185.69平方公尺",
+        "size_out": "",
+        "tel": "(06)6935622",
+        "url": "評鑑情形：",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3dd6e859-2fd2-44fa-a2fd-858c9ba3e5f7",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3224773,
+            23.2141306
+        ]
+    }
+}

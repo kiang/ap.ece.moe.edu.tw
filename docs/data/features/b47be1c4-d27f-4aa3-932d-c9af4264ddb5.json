@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10938315400號",
+        "reg_docno": "高市教幼字第10835257900號",
+        "reg_date": "2019\/07\/31",
+        "title": "高雄市鹽埕非營利幼兒園",
+        "owner": "郭家妃",
+        "city": "高雄市",
+        "town": "鹽埕區",
+        "type": "非營利",
+        "address": "[803]五福四路183號",
+        "floor": "1樓、2樓",
+        "size": "1,286.81平方公尺",
+        "size_in": "902.4平方公尺",
+        "size_out": "384.41平方公尺",
+        "tel": "(07)5215199",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bf535818-0052-4c64-a3a3-cec387bb8256",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.282912,
+            22.623691
+        ]
+    }
+}

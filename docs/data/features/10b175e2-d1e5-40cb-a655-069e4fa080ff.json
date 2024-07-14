@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1030911589號",
+        "reg_docno": "府社福字第80170號",
+        "reg_date": "1995\/05\/20",
+        "title": "臺南市私立育智幼兒園",
+        "owner": "吳明宏",
+        "city": "臺南市",
+        "town": "永康區",
+        "type": "私立",
+        "address": "[710]大灣路1102巷17弄119號",
+        "floor": "1樓至2樓",
+        "size": "1,734.99平方公尺",
+        "size_in": "798.99平方公尺",
+        "size_out": "936平方公尺",
+        "tel": "(06)2732286",
+        "url": "",
+        "count_approved": "250",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：40",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "10b175e2-d1e5-40cb-a655-069e4fa080ff",
+        "monthly": 8780
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.251917,
+            23.0016671
+        ]
+    }
+}

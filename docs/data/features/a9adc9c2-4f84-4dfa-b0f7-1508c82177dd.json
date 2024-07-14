@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119550938號",
+        "reg_docno": "府授教幼字第1119550938號",
+        "reg_date": "2022\/08\/01",
+        "title": "新竹縣竹北市豐田國民小學附設幼兒園",
+        "owner": "余媛宜",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "公立",
+        "address": "[302]中正西路1377號",
+        "floor": "1樓",
+        "size": "303.57平方公尺",
+        "size_in": "183.57平方公尺",
+        "size_out": "120平方公尺",
+        "tel": "(03)5563900",
+        "url": "https:\/\/ftes.hcc.edu.tw\/",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a9adc9c2-4f84-4dfa-b0f7-1508c82177dd",
+        "monthly": 3966
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9645107,
+            24.842286
+        ]
+    }
+}

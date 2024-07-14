@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120233861號",
+        "reg_docno": "府教學字第09400837780號",
+        "reg_date": "2005\/04\/27",
+        "title": "南投縣信義鄉同富國民小學附設幼兒園",
+        "owner": "史強福",
+        "city": "南投縣",
+        "town": "信義鄉",
+        "type": "公立",
+        "address": "[556]同和巷4號",
+        "floor": "1樓",
+        "size": "548平方公尺",
+        "size_in": "363平方公尺",
+        "size_out": "185平方公尺",
+        "tel": "(049)2701503#15",
+        "url": "http:\/\/163.22.108.129",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f74bd759-a733-4c82-ad2a-22e247bff0dd",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.888235,
+            23.593794
+        ]
+    }
+}

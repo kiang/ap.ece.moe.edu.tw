@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070117997號",
+        "reg_docno": "府社兒字第1000543105號",
+        "reg_date": "2000\/03\/01",
+        "title": "桃園市立桃園幼兒園光興分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "公立",
+        "address": "[330]縣府路15號",
+        "floor": "1",
+        "size": "677.02平方公尺",
+        "size_in": "677.02平方公尺",
+        "size_out": "",
+        "tel": "(03)3362008",
+        "url": "http:\/\/kindergarten.taocity.gov.tw\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6c1352fc-06fd-4780-ad81-0afe0ea766e1",
+        "monthly": 3937
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3014997,
+            24.994404
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080254797號",
+        "reg_docno": "89府教特字第122200號",
+        "reg_date": "2000\/06\/23",
+        "title": "國立中央大學附設桃園市私立幼兒園",
+        "owner": "陳怡君",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]中大新村26號1樓",
+        "floor": "1樓",
+        "size": "811.6平方公尺",
+        "size_in": "430.6平方公尺",
+        "size_out": "381平方公尺",
+        "tel": "(03)4227151#58026",
+        "url": "http:\/\/in.ncu.edu.tw\/ncu8026\/",
+        "count_approved": "85",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e366e251-1138-4252-9eb1-a5b3a6ef7eee",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.191875,
+            24.966057
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第476-1號",
+        "reg_docno": "北市社五字第9028927900號",
+        "reg_date": "2001\/12\/19",
+        "title": "臺北市私立小天心幼兒園",
+        "owner": "謝雅芳",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]潮州街57號1樓",
+        "floor": "1樓",
+        "size": "136.73平方公尺",
+        "size_in": "136.73平方公尺",
+        "size_out": "",
+        "tel": "(02)23568960",
+        "url": "",
+        "count_approved": "25",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6feb9800-e181-4921-b7e1-e2d64bd47515",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5240935,
+            25.029366
+        ]
+    }
+}

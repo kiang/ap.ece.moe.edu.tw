@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120192637號",
+        "reg_docno": "府教特字第1090107507號",
+        "reg_date": "2020\/08\/01",
+        "title": "宜蘭縣壯圍非營利幼兒園(委託社團法人宜蘭縣蘭陽幼兒教保事業發展協會辦理)",
+        "owner": "王信雄",
+        "city": "宜蘭縣",
+        "town": "壯圍鄉",
+        "type": "非營利",
+        "address": "[263]壯五路55號",
+        "floor": "1樓、2樓",
+        "size": "2,069.81平方公尺",
+        "size_in": "981.43平方公尺",
+        "size_out": "1,088.38平方公尺",
+        "tel": "(03)9388506",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ae3c6f2c-a968-466c-b381-2914f80ddcc2",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7900382,
+            24.7443612
+        ]
+    }
+}

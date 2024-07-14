@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10136265000號",
+        "reg_docno": "高市府社五字第15100號",
+        "reg_date": "2002\/04\/03",
+        "title": "高雄市私立宏志幼兒園",
+        "owner": "林清煌",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "私立",
+        "address": "[806]天山路10巷9號",
+        "floor": "1樓至2樓",
+        "size": "173.51平方公尺",
+        "size_in": "173.51平方公尺",
+        "size_out": "",
+        "tel": "(07)3327789",
+        "url": "",
+        "count_approved": "42",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e2bf4e25-c65b-42b0-83dc-327b2e10aa20",
+        "monthly": 6333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.315694,
+            22.609648
+        ]
+    }
+}

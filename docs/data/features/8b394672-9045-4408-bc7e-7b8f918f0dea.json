@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620永和0064號",
+        "reg_docno": "北府社兒字第0930134658號",
+        "reg_date": "2004\/03\/09",
+        "title": "新北市私立傳動幼兒園",
+        "owner": "洪秋香",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]中正路344號1樓、2樓",
+        "floor": "1.2F",
+        "size": "106.8平方公尺",
+        "size_in": "106.8平方公尺",
+        "size_out": "",
+        "tel": "(02)89231566",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8b394672-9045-4408-bc7e-7b8f918f0dea",
+        "monthly": 9833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.517733,
+            25.000351
+        ]
+    }
+}

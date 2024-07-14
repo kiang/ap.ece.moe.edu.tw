@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第414-2號",
+        "reg_docno": "北市社人字第24910號",
+        "reg_date": "1983\/07\/01",
+        "title": "臺北市立信義幼兒園",
+        "owner": "林娟伶",
+        "city": "臺北市",
+        "town": "信義區",
+        "type": "公立",
+        "address": "[110]基隆路一段364巷20、24號",
+        "floor": "1樓",
+        "size": "1,953.84平方公尺",
+        "size_in": "1,121.94平方公尺",
+        "size_out": "831.9平方公尺",
+        "tel": "(02)27297527",
+        "url": "http:\/\/www.xydn.tp.edu.tw\/",
+        "count_approved": "240",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d50e2e8e-b473-4df3-b7bb-f2dc1f6f3152",
+        "monthly": 6797
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5592532,
+            25.0351573
+        ]
+    }
+}

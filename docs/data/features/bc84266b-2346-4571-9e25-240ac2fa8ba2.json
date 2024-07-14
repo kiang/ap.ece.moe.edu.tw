@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080254600號",
+        "reg_docno": "府教特字第1010046629號",
+        "reg_date": "2012\/02\/24",
+        "title": "桃園市私立明原蒙特梭利幼兒園",
+        "owner": "魏麗卿",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]民族路二段193巷15弄57(1樓)、59號(1-2樓)",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4911249",
+        "url": "324桃園縣平鎮市民族路二段193巷15弄57(1樓)、59號(1-2樓)",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bc84266b-2346-4571-9e25-240ac2fa8ba2",
+        "monthly": 11666
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.204154,
+            24.957133
+        ]
+    }
+}

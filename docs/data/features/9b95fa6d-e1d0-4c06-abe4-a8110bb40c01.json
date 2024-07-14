@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1120197388號",
+        "reg_docno": "府教特字第9100043720號",
+        "reg_date": "2002\/05\/14",
+        "title": "苗栗縣頭份市尖山國民小學附設幼兒園",
+        "owner": "彭鴻原",
+        "city": "苗栗縣",
+        "town": "頭份市",
+        "type": "公立",
+        "address": "[351]尖豐路305號",
+        "floor": "1樓",
+        "size": "24,125平方公尺",
+        "size_in": "216.18平方公尺",
+        "size_out": "23,908.82平方公尺",
+        "tel": "(037)624080",
+        "url": "http:\/\/pub.mlc.edu.tw\/index.jsp?unitid=002653",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9b95fa6d-e1d0-4c06-abe4-a8110bb40c01",
+        "monthly": 3655
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.883191,
+            24.65427
+        ]
+    }
+}

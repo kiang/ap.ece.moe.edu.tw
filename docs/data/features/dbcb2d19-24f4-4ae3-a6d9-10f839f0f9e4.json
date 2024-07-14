@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110237362號",
+        "reg_docno": "府教幼字第1090209153號",
+        "reg_date": "2020\/08\/26",
+        "title": "桃園市光峰非營利幼兒園（委託社團法人新北市巧湖溫馨關懷發展協會辦理）",
+        "owner": "張志誠",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "非營利",
+        "address": "[333]育英街1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3508111",
+        "url": "評鑑情形：",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dbcb2d19-24f4-4ae3-a6d9-10f839f0f9e4",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3391635,
+            24.9984688
+        ]
+    }
+}

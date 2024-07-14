@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620汐止0060號",
+        "reg_docno": "六八北府教二字第130651號",
+        "reg_date": "1979\/06\/18",
+        "title": "新北市私立新豐幼兒園",
+        "owner": "李冠賢",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]新昌路18號1樓",
+        "floor": "1-2樓",
+        "size": "439平方公尺",
+        "size_in": "239平方公尺",
+        "size_out": "200平方公尺",
+        "tel": "(02)26485110",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6c8bc868-9c54-479b-8a14-036867031795",
+        "monthly": 4820
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6630884,
+            25.0685645
+        ]
+    }
+}

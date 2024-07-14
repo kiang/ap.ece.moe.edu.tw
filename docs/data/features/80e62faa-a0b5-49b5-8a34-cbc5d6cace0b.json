@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010595874號",
+        "reg_docno": "南市社福字第37151號",
+        "reg_date": "1998\/11\/16",
+        "title": "臺南市私立佑佳幼兒園",
+        "owner": "吳麗雪",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]府安路五段223巷57-1號",
+        "floor": "一樓",
+        "size": "975.98平方公尺",
+        "size_in": "236.85平方公尺",
+        "size_out": "739.13平方公尺",
+        "tel": "(06)2501714",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "80e62faa-a0b5-49b5-8a34-cbc5d6cace0b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.19486,
+            23.023421
+        ]
+    }
+}

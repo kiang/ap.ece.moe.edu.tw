@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121658437號",
+        "reg_docno": "南市教特(一)字第1121658437號",
+        "reg_date": "2023\/12\/15",
+        "title": "臺南市私立家禾幼兒園",
+        "owner": "楊尚霈",
+        "city": "臺南市",
+        "town": "安平區",
+        "type": "私立",
+        "address": "[708]民權路四段665號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2229933",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "05afedf0-ff22-45b9-9459-3adf85a0cc1f",
+        "monthly": 13900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1701971,
+            23.0007668
+        ]
+    }
+}

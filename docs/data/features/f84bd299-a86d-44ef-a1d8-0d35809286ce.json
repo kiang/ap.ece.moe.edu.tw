@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110152931號",
+        "reg_docno": "府教特字第1110152931號",
+        "reg_date": "2022\/08\/01",
+        "title": "臺東縣賓茂部落互助教保服務中心（臺東縣巴然依然依部落永續發展協會辦理）",
+        "owner": "呂美琴",
+        "city": "臺東縣",
+        "town": "金峰鄉",
+        "type": "私立",
+        "address": "[964]3-2號",
+        "floor": "2樓",
+        "size": "225.4平方公尺",
+        "size_in": "77平方公尺",
+        "size_out": "120.15平方公尺",
+        "tel": "(089)771260",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f84bd299-a86d-44ef-a1d8-0d35809286ce",
+        "monthly": 5380
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8728615,
+            22.5604145
+        ]
+    }
+}

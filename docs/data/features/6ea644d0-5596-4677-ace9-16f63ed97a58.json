@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11333138800號",
+        "reg_docno": "高市教幼字第11134715000號",
+        "reg_date": "2022\/07\/15",
+        "title": "國防部海軍司令部海育員工子女非營利幼兒園（委託社團法人高雄市社區教育協會辦理）",
+        "owner": "郭貽婷",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "非營利",
+        "address": "[813]海功路52號",
+        "floor": "1樓、2樓",
+        "size": "2,777.33平方公尺",
+        "size_in": "2,048.63平方公尺",
+        "size_out": "728.7平方公尺",
+        "tel": "(07)5888600",
+        "url": "高雄市左營區永清里海功路52號",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6ea644d0-5596-4677-ace9-16f63ed97a58",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2960773,
+            22.6936097
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120307079號",
+        "reg_docno": "考台銓法四字第1327073號",
+        "reg_date": "1996\/07\/11",
+        "title": "嘉義縣民雄鄉立民雄幼兒園",
+        "owner": "林于玲",
+        "city": "嘉義縣",
+        "town": "民雄鄉",
+        "type": "公立",
+        "address": "[621]魚寮仔5-2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2062848",
+        "url": "",
+        "count_approved": "510",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "28e201c4-e2a6-4e4a-824b-f3bf3e3bdf82",
+        "monthly": 3836
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4588059,
+            23.5479954
+        ]
+    }
+}

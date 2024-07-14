@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680新莊0016之2號",
+        "reg_docno": "北府社兒字第0910213530號",
+        "reg_date": "2002\/05\/02",
+        "title": "建豐國際資產管理股份有限公司附設新北市私立卡爾維德幼兒園",
+        "owner": "陳柄武",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]復興路3段19號1.2.3樓",
+        "floor": "1.2.3樓",
+        "size": "412.91平方公尺",
+        "size_in": "412.91平方公尺",
+        "size_out": "",
+        "tel": "(02)89922195#11",
+        "url": "http:\/\/karl-witte.topschool.com.tw\/",
+        "count_approved": "117",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "35141b6f-91f4-43df-a419-3e90c29ff78b",
+        "monthly": 10917
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4617608,
+            25.0444939
+        ]
+    }
+}

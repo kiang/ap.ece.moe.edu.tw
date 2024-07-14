@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第475號",
+        "reg_docno": "北市社五字第8625048001號",
+        "reg_date": "1997\/10\/01",
+        "title": "臺北市私立巧而園幼兒園",
+        "owner": "曾含香",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]樂利路45巷6號第1、2層",
+        "floor": "1樓、2樓",
+        "size": "215.62平方公尺",
+        "size_in": "215.62平方公尺",
+        "size_out": "",
+        "tel": "(02)27362869",
+        "url": "",
+        "count_approved": "52",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c6997137-d0c0-449f-ac6b-c57c881d93c7",
+        "monthly": 23500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.55215,
+            25.0267
+        ]
+    }
+}

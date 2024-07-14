@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551489號",
+        "reg_docno": "府教特字第0930018245號",
+        "reg_date": "2004\/02\/25",
+        "title": "新竹縣寶山鄉寶山國民小學附設幼兒園",
+        "owner": "蔡政宏",
+        "city": "新竹縣",
+        "town": "寶山鄉",
+        "type": "公立",
+        "address": "[308]寶山路2段130號",
+        "floor": "1樓",
+        "size": "200平方公尺",
+        "size_in": "120平方公尺",
+        "size_out": "80平方公尺",
+        "tel": "(03)5761390#2004",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7f64a352-934a-4be5-9d23-ec7d939b19ba",
+        "monthly": 3664
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.021804,
+            24.739857
+        ]
+    }
+}

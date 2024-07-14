@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10137583000號",
+        "reg_docno": "高市府社五字第52328號",
+        "reg_date": "2001\/12\/27",
+        "title": "高雄市私立喬依斯幼兒園",
+        "owner": "鄭錦芸",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]明華一路57號1.2樓",
+        "floor": "1樓至2樓",
+        "size": "320.38平方公尺",
+        "size_in": "277.65平方公尺",
+        "size_out": "42.73平方公尺",
+        "tel": "(07)5566650",
+        "url": "",
+        "count_approved": "51",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7565ab39-a107-43e5-a8b7-f1be10b2ca97",
+        "monthly": 13833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3065222,
+            22.6629405
+        ]
+    }
+}

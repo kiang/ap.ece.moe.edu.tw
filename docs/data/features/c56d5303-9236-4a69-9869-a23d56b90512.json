@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070122341號",
+        "reg_docno": "六八府教國字第72209號",
+        "reg_date": "1979\/09\/01",
+        "title": "新竹市東區東園國民小學附設幼兒園",
+        "owner": "曾玉蓮",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "公立",
+        "address": "[300]園後街25號",
+        "floor": "1樓",
+        "size": "771.14平方公尺",
+        "size_in": "381.54平方公尺",
+        "size_out": "389.6平方公尺",
+        "tel": "(03)5716411",
+        "url": "http:\/\/tw.class.uschoolnet.com\/class\/?csid=css000000056429",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c56d5303-9236-4a69-9869-a23d56b90512",
+        "monthly": 3729
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.984045,
+            24.798583
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1111516431號",
+        "reg_docno": "府教特字第1111516431號",
+        "reg_date": "2022\/08\/26",
+        "title": "法務部嘉義維新職場互助教保服務中心(委託社團法人中華宏觀專業幼童教保福利學會辦理)",
+        "owner": "蕭芳華",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]維新路134巷26號",
+        "floor": "1樓、2樓",
+        "size": "165.2平方公尺",
+        "size_in": "96.04平方公尺",
+        "size_out": "",
+        "tel": "(05)2786618",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "15c41ac3-0227-45bc-a146-78759c943417",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4594134,
+            23.485424
+        ]
+    }
+}

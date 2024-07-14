@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1060101380號",
+        "reg_docno": "中市府社婦字第0940159756號",
+        "reg_date": "2005\/09\/02",
+        "title": "財團法人福智文教基金會附設臺中市私立妙慧幼兒園",
+        "owner": "盧克宙",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]何厝街6巷19號",
+        "floor": "1樓至3樓",
+        "size": "334.42平方公尺",
+        "size_in": "273.48平方公尺",
+        "size_out": "",
+        "tel": "(04)23116799",
+        "url": "",
+        "count_approved": "39",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ea3130e0-1d50-4cb4-9476-b47162c4a920",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.653801,
+            24.1613489
+        ]
+    }
+}

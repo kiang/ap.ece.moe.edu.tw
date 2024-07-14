@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第556號",
+        "reg_docno": "北市社婦幼字第09934862400號",
+        "reg_date": "2010\/04\/14",
+        "title": "臺北市私立名人幼兒園",
+        "owner": "李依霖",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "私立",
+        "address": "[108]西園路2段227之1號2樓",
+        "floor": "2樓",
+        "size": "121.68平方公尺",
+        "size_in": "121.68平方公尺",
+        "size_out": "",
+        "tel": "(02)23016998",
+        "url": "",
+        "count_approved": "29",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "782d76da-e2cb-4196-8a8f-865f3af07847",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.493888,
+            25.026846
+        ]
+    }
+}

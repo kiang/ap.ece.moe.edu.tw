@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599三重0056之1號",
+        "reg_docno": "56北府教二字第148947號",
+        "reg_date": "1967\/08\/28",
+        "title": "財團法人天主教會台北教區附設新北市私立母心幼兒園",
+        "owner": "鍾安住",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]大同北路115巷3號1樓",
+        "floor": "1樓",
+        "size": "461.16平方公尺",
+        "size_in": "273.82平方公尺",
+        "size_out": "187.34平方公尺",
+        "tel": "(02)29711193",
+        "url": "http:\/\/www.kjftw.org.tw\/school13\/school13-index.html",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7ae6df38-9d94-4821-9dac-c8b23da5a25a",
+        "monthly": 10773
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.494399,
+            25.064584
+        ]
+    }
+}

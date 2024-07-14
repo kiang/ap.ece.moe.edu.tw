@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138082800號",
+        "reg_docno": "85府社福字第173261號",
+        "reg_date": "1996\/09\/09",
+        "title": "高雄市私立鳳山仁愛幼兒園",
+        "owner": "陳素雲",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]龍成路151號",
+        "floor": "1樓",
+        "size": "726.3平方公尺",
+        "size_in": "303.5平方公尺",
+        "size_out": "422.8平方公尺",
+        "tel": "(07)8115187",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "c2f4ade3-fc7b-45ca-a56d-33000b20b8c3",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3298296,
+            22.598537
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110131622號",
+        "reg_docno": "府教特字第1110131622號",
+        "reg_date": "2022\/08\/26",
+        "title": "國防部全動署後備指揮部世紀鑫城職場互助教保服務中心(委託社團法人新竹市教保人員協會辦理)",
+        "owner": "許玉齡",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]金城一路50-2、50-3號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5730863",
+        "url": "www.facebook.com\/century.nt2022",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "eac55d21-00a6-4d38-a4db-48e106fde018",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0043995,
+            24.7951227
+        ]
+    }
+}

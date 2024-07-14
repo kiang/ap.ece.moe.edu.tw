@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第812-1號",
+        "reg_docno": "北市教前字第1123001034號",
+        "reg_date": "2023\/06\/17",
+        "title": "臺北市私立人川幼兒園",
+        "owner": "黃楨晰",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "私立",
+        "address": "[114]民權東路六段180巷6號1樓",
+        "floor": "1樓",
+        "size": "1,066.21平方公尺",
+        "size_in": "846.83平方公尺",
+        "size_out": "219.38平方公尺",
+        "tel": "(02)27926601",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d8b8233b-bd8f-425b-bff6-3905f687e439",
+        "monthly": 22200
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5922751,
+            25.0682977
+        ]
+    }
+}

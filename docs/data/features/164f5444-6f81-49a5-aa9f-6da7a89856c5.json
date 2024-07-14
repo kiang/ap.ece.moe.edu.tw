@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010018178號",
+        "reg_docno": "府婦幼字第0940015880號",
+        "reg_date": "2005\/02\/05",
+        "title": "新竹縣私立萬人幼兒園",
+        "owner": "劉玉蘋",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]光明3路184號",
+        "floor": "1樓、2樓",
+        "size": "421.77平方公尺",
+        "size_in": "271.42平方公尺",
+        "size_out": "50.89平方公尺",
+        "tel": "(03)5542128",
+        "url": "",
+        "count_approved": "92",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：46",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "164f5444-6f81-49a5-aa9f-6da7a89856c5",
+        "monthly": 6000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.006025,
+            24.831681
+        ]
+    }
+}

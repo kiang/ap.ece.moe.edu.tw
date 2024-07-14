@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121068089號",
+        "reg_docno": "南市社兒字第228014號",
+        "reg_date": "2001\/08\/29",
+        "title": "臺南市立第五幼兒園十二佃分班",
+        "owner": "",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "公立",
+        "address": "[709]公學路四段325號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2471233",
+        "url": "http:\/\/www.tncg.gov.tw\/age_section.asp?nsub=BEB400",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0845ccc8-0bb9-40f9-92e2-d33b90e833bc",
+        "monthly": 3484
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.174642,
+            23.065681
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120019018B號",
+        "reg_docno": "府社幼字第1000392759號",
+        "reg_date": "1995\/11\/29",
+        "title": "彰化縣大城鄉立幼兒園山腳分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "大城鄉",
+        "type": "公立",
+        "address": "[527]大山路47號",
+        "floor": "1樓、2樓",
+        "size": "300.01平方公尺",
+        "size_in": "90平方公尺",
+        "size_out": "157.63平方公尺",
+        "tel": "(04)8942980#212",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "27def912-4e7c-4251-b542-daa75db5853b",
+        "monthly": 3045
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3201484,
+            23.8406552
+        ]
+    }
+}

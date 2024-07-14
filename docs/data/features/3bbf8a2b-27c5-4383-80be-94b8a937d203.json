@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620新莊0028號",
+        "reg_docno": "北府社兒字第1001744720號",
+        "reg_date": "2012\/01\/20",
+        "title": "新北市私立勵輝國際幼兒園",
+        "owner": "張再發",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]頭前路26號2樓（2、3層）",
+        "floor": "2",
+        "size": "435.4平方公尺",
+        "size_in": "296.04平方公尺",
+        "size_out": "",
+        "tel": "(02)22768918",
+        "url": "",
+        "count_approved": "84",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3bbf8a2b-27c5-4383-80be-94b8a937d203",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.467805,
+            25.052479
+        ]
+    }
+}

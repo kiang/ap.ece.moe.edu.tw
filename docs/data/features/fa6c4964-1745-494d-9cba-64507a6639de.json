@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第454-2號",
+        "reg_docno": "北市社五字第09632403000號",
+        "reg_date": "2007\/03\/22",
+        "title": "臺北市私立國際蒙特梭利幼兒園",
+        "owner": "黃郁雯",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "私立",
+        "address": "[104]樂群二路128號1樓",
+        "floor": "1樓",
+        "size": "1,150.49平方公尺",
+        "size_in": "537.05平方公尺",
+        "size_out": "613.44平方公尺",
+        "tel": "(02)85021622",
+        "url": "www.elites.org.tw",
+        "count_approved": "161",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "fa6c4964-1745-494d-9cba-64507a6639de",
+        "monthly": 26380
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5559999,
+            25.0797
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11236949000號",
+        "reg_docno": "高市教三字第0970036449(補)號",
+        "reg_date": "1993\/08\/01",
+        "title": "高雄市苓雅區福康國民小學附設幼兒園",
+        "owner": "許忠信",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "公立",
+        "address": "[802]漢陽街17號",
+        "floor": "一樓",
+        "size": "1,844.67平方公尺",
+        "size_in": "687.45平方公尺",
+        "size_out": "1,157.22平方公尺",
+        "tel": "(07)7227134#717",
+        "url": "www.fkps.kh.edu.tw",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "18fd4233-ccac-4d32-8ee8-824a54b3e497",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.329079,
+            22.618859
+        ]
+    }
+}

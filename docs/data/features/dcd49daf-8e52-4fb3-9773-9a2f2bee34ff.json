@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110281002號",
+        "reg_docno": "府教國字第75457號",
+        "reg_date": "1987\/10\/15",
+        "title": "嘉義縣梅山鄉梅山國民小學附設幼兒園",
+        "owner": "林金枝",
+        "city": "嘉義縣",
+        "town": "梅山鄉",
+        "type": "公立",
+        "address": "[603]中山路28號之1",
+        "floor": "1樓",
+        "size": "1,260平方公尺",
+        "size_in": "260平方公尺",
+        "size_out": "1,000平方公尺",
+        "tel": "(05)2620220",
+        "url": "",
+        "count_approved": "68",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dcd49daf-8e52-4fb3-9773-9a2f2bee34ff",
+        "monthly": 3785
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.560427,
+            23.579725
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010151836號",
+        "reg_docno": "府社婦字第0930057437號",
+        "reg_date": "2004\/10\/07",
+        "title": "新竹市私立勁寶兒向日葵幼兒園",
+        "owner": "蔡玉琴",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]武陵路36-3號1-2樓、36-2號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5318726",
+        "url": "",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "30fd7bce-cecb-4a51-97a6-4ba38a3d3811",
+        "monthly": 17000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.963593,
+            24.816342
+        ]
+    }
+}

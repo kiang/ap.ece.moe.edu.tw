@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120023152號",
+        "reg_docno": "73府教學字第93639號",
+        "reg_date": "1984\/08\/01",
+        "title": "桃園市私立天韻幼兒園",
+        "owner": "陳思孝",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]中豐路341巷14弄6之1號",
+        "floor": "1樓平面",
+        "size": "180平方公尺",
+        "size_in": "60平方公尺",
+        "size_out": "120平方公尺",
+        "tel": "(03)4580475",
+        "url": "http:\/\/tianyun101-woby.com.tw\/",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "65050082-72b2-4e07-a525-ff29a05f2eaa",
+        "monthly": 5700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.217131,
+            24.94127
+        ]
+    }
+}

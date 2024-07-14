@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11331263500號",
+        "reg_docno": "85府教學字第97743號",
+        "reg_date": "1996\/05\/24",
+        "title": "高雄市內門區溝坪國民小學附設幼兒園",
+        "owner": "李建德",
+        "city": "高雄市",
+        "town": "內門區",
+        "type": "公立",
+        "address": "[845]廣褔巷47號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6601324",
+        "url": "https:\/\/class.kh.edu.tw\/4912",
+        "count_approved": "45",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "68317849-23f3-4f2d-8c4c-e3f2d8611664",
+        "monthly": 3259
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.501233,
+            22.993385
+        ]
+    }
+}

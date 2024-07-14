@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10735694400號",
+        "reg_docno": "高市教幼字第10735694400號",
+        "reg_date": "2018\/09\/05",
+        "title": "高雄市右昌非營利幼兒園（委託社團法人高雄市婦幼培訓關懷協會辦理）",
+        "owner": "張文強",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "非營利",
+        "address": "[811]盛昌街161號",
+        "floor": "1樓",
+        "size": "1,941.65平方公尺",
+        "size_in": "504.51平方公尺",
+        "size_out": "1,437.14平方公尺",
+        "tel": "(07)3602503",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0bda0e3e-73fd-4e8b-bdbf-a911d131c247",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.286649,
+            22.713852
+        ]
+    }
+}

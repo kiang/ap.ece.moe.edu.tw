@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11153433500號",
+        "reg_docno": "屏府教特字第0960168086號",
+        "reg_date": "2007\/08\/17",
+        "title": "屏東縣三地門鄉賽嘉國民小學附設幼兒園",
+        "owner": "潘正憲",
+        "city": "屏東縣",
+        "town": "三地門鄉",
+        "type": "公立",
+        "address": "[901]2號",
+        "floor": "1樓",
+        "size": "302.65平方公尺",
+        "size_in": "126.72平方公尺",
+        "size_out": "175.93平方公尺",
+        "tel": "(08)7992220",
+        "url": "http:\/\/css000000153980.tw.class.uschoolnet.com\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0c0e45b1-d2e8-4df7-b5c1-e7ac693cddaa",
+        "monthly": 3160
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.640059,
+            22.743904
+        ]
+    }
+}

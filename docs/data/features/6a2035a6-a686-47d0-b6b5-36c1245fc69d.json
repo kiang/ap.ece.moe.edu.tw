@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10332810900號",
+        "reg_docno": "高市教三字第17442號",
+        "reg_date": "1996\/07\/04",
+        "title": "高雄市私立康乃爾幼兒園",
+        "owner": "王華勇",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]大褔街168號",
+        "floor": "1",
+        "size": "1,324.14平方公尺",
+        "size_in": "828.4平方公尺",
+        "size_out": "",
+        "tel": "(07)3957975",
+        "url": "http:\/\/3957975.uschool.com.tw",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "6a2035a6-a686-47d0-b6b5-36c1245fc69d",
+        "monthly": 4800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.32631,
+            22.657581
+        ]
+    }
+}

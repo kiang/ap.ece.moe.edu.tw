@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11154465900號",
+        "reg_docno": "屏府教社字第0920073971號",
+        "reg_date": "2003\/04\/30",
+        "title": "屏東縣東港鎮東港國民小學附設幼兒園",
+        "owner": "簡麗玉",
+        "city": "屏東縣",
+        "town": "東港鎮",
+        "type": "公立",
+        "address": "[928]中正路一段10之1號",
+        "floor": "1樓、2樓",
+        "size": "13,196.66平方公尺",
+        "size_in": "453.07平方公尺",
+        "size_out": "12,743.59平方公尺",
+        "tel": "(08)8323486",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ce99cb49-4945-42d6-8811-acde1386020e",
+        "monthly": 3522
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.454877,
+            22.471088
+        ]
+    }
+}

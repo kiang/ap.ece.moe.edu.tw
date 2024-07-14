@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090033284號",
+        "reg_docno": "府教幼字第1080408189號",
+        "reg_date": "2019\/11\/18",
+        "title": "彰化縣私立和德幼兒園",
+        "owner": "黃耀傑",
+        "city": "彰化縣",
+        "town": "秀水鄉",
+        "type": "私立",
+        "address": "[504]蘇周巷211號",
+        "floor": "1樓、2樓",
+        "size": "1,277.9平方公尺",
+        "size_in": "976.24平方公尺",
+        "size_out": "301.66平方公尺",
+        "tel": "(04)7686708",
+        "url": "",
+        "count_approved": "98",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "58108cde-0b1c-42ac-9c16-e85e974f0f49",
+        "monthly": 10083
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4944408,
+            24.02408
+        ]
+    }
+}

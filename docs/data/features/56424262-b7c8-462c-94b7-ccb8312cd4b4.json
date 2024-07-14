@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010026481號",
+        "reg_docno": "府社幼字第0920150611號",
+        "reg_date": "2003\/06\/09",
+        "title": "臺中市私立巧雅幼兒園",
+        "owner": "張靜宜",
+        "city": "臺中市",
+        "town": "神岡區",
+        "type": "私立",
+        "address": "[429]社口街106巷56號",
+        "floor": "1樓至2樓",
+        "size": "2,465.96平方公尺",
+        "size_in": "1,182.68平方公尺",
+        "size_out": "1,283.28平方公尺",
+        "tel": "(04)25618687",
+        "url": "",
+        "count_approved": "247",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "56424262-b7c8-462c-94b7-ccb8312cd4b4",
+        "monthly": 9313
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.684071,
+            24.251261
+        ]
+    }
+}

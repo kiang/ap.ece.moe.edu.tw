@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680三重0066之2號",
+        "reg_docno": "73北府社三字第73088818號",
+        "reg_date": "1984\/04\/18",
+        "title": "新北市私立復國幼兒園",
+        "owner": "黃瓘惠",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]仁義街211巷3、5號",
+        "floor": "1",
+        "size": "199.9平方公尺",
+        "size_in": "153.56平方公尺",
+        "size_out": "21.4平方公尺",
+        "tel": "(02)29883299",
+        "url": "",
+        "count_approved": "36",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2754276d-1ff2-4e75-9f81-6695de738418",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.497085,
+            25.081805
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1070254016號",
+        "reg_docno": "府教特字第09400810730號",
+        "reg_date": "2005\/08\/01",
+        "title": "花蓮縣萬榮鄉見晴國民小學附設幼兒園",
+        "owner": "高金山",
+        "city": "花蓮縣",
+        "town": "萬榮鄉",
+        "type": "公立",
+        "address": "[979]見晴89號",
+        "floor": "1",
+        "size": "202.5平方公尺",
+        "size_in": "112.5平方公尺",
+        "size_out": "90平方公尺",
+        "tel": "(03)8772035",
+        "url": "花蓮縣萬榮鄉見晴村見晴89號",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f24c73df-7771-472d-9466-5104bb330eae",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.451955,
+            23.783281
+        ]
+    }
+}

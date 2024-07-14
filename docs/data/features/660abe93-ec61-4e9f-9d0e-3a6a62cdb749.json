@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120067088號",
+        "reg_docno": "教學字第50588號",
+        "reg_date": "1973\/10\/17",
+        "title": "臺中市北區太平國民小學附設幼兒園",
+        "owner": "曾娉妍",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "公立",
+        "address": "[404]太平路74號",
+        "floor": "1樓",
+        "size": "2,014.32平方公尺",
+        "size_in": "1,351.32平方公尺",
+        "size_out": "663平方公尺",
+        "tel": "(04)22248532#11",
+        "url": "http:\/\/www.tpes.tc.edu.tw\/",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "660abe93-ec61-4e9f-9d0e-3a6a62cdb749",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.681767,
+            24.149306
+        ]
+    }
+}

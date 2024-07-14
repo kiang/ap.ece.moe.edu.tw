@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新莊0041之4號",
+        "reg_docno": "八六北府教三字第343815號",
+        "reg_date": "1997\/08\/01",
+        "title": "新北市新莊區國泰國民小學附設幼兒園",
+        "owner": "蔡麗華",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "公立",
+        "address": "[242]中正路386號",
+        "floor": "1樓、2樓",
+        "size": "1,611.8平方公尺",
+        "size_in": "791平方公尺",
+        "size_out": "820.8平方公尺",
+        "tel": "(02)29043693#601",
+        "url": "http:\/\/163.20.117.140",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3d124323-b77e-4c6f-84d1-022b345007dd",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.441958,
+            25.0341759
+        ]
+    }
+}

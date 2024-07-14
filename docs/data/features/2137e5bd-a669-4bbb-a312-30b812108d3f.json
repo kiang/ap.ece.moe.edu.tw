@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110070897號",
+        "reg_docno": "府社幼字第0920321636號",
+        "reg_date": "2003\/11\/28",
+        "title": "臺中市弘光員工子女非營利幼兒園(財團法人弘光科技大學設立之弘光科技大學申請辦理)",
+        "owner": "黃月桂",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "非營利",
+        "address": "[433]臺灣大道六段1018號1~2樓",
+        "floor": "1-2樓",
+        "size": "1,462.08平方公尺",
+        "size_in": "1,007平方公尺",
+        "size_out": "455.08平方公尺",
+        "tel": "(04)26318652#5280",
+        "url": "http:\/\/web.hk.edu.tw\/~nursery\/",
+        "count_approved": "110",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2137e5bd-a669-4bbb-a312-30b812108d3f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5808091,
+            24.2173159
+        ]
+    }
+}

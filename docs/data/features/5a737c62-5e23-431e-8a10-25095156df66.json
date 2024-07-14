@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1035420496號",
+        "reg_docno": "八五府教國字第083233號",
+        "reg_date": "1996\/07\/02",
+        "title": "雲林縣私立中興幼兒園",
+        "owner": "黃德隆",
+        "city": "雲林縣",
+        "town": "斗南鎮",
+        "type": "私立",
+        "address": "[630]西昌路70號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5968128",
+        "url": "",
+        "count_approved": "210",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5a737c62-5e23-431e-8a10-25095156df66",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.471369,
+            23.676722
+        ]
+    }
+}

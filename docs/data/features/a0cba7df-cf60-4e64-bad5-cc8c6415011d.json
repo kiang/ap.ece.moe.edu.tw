@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110070709號",
+        "reg_docno": "府仁一字第63390號",
+        "reg_date": "1996\/05\/16",
+        "title": "臺中市立南屯幼兒園",
+        "owner": "陳議濃",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "公立",
+        "address": "[408]工業區十八路33號",
+        "floor": "1樓、2樓、3樓",
+        "size": "8,392平方公尺",
+        "size_in": "4,539平方公尺",
+        "size_out": "3,853平方公尺",
+        "tel": "(04)23580181",
+        "url": "http:\/\/www.tccg.gov.tw\/Template\/themes\/nursery\/index.htm",
+        "count_approved": "334",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a0cba7df-cf60-4e64-bad5-cc8c6415011d",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.608861,
+            24.154735
+        ]
+    }
+}

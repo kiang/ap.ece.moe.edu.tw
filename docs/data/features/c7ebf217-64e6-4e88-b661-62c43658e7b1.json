@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第108017382號",
+        "reg_docno": "府教學前字第1070064853C號",
+        "reg_date": "2018\/08\/01",
+        "title": "苗栗縣大湖鄉新開國民小學附設幼兒園",
+        "owner": "鄭惠鳳",
+        "city": "苗栗縣",
+        "town": "大湖鄉",
+        "type": "公立",
+        "address": "[364]25號",
+        "floor": "1樓",
+        "size": "2,600平方公尺",
+        "size_in": "100平方公尺",
+        "size_out": "2,500平方公尺",
+        "tel": "(037)951210",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c7ebf217-64e6-4e88-b661-62c43658e7b1",
+        "monthly": 3655
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8695543,
+            24.433397
+        ]
+    }
+}

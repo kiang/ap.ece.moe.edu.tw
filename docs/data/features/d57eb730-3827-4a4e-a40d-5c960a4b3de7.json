@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110163326號",
+        "reg_docno": "府教特字第1110163326號",
+        "reg_date": "2022\/08\/23",
+        "title": "花蓮縣卓溪鄉卓楓國民小學附設幼兒園",
+        "owner": "高玉樹",
+        "city": "花蓮縣",
+        "town": "卓溪鄉",
+        "type": "公立",
+        "address": "[982]古楓6號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8846027#20",
+        "url": "http:\/\/www.zfps.hlc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d57eb730-3827-4a4e-a40d-5c960a4b3de7",
+        "monthly": 2906
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2712106,
+            23.2433888
+        ]
+    }
+}

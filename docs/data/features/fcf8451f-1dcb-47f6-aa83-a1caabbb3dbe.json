@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第730-1號",
+        "reg_docno": "北市教三字第10194號",
+        "reg_date": "1974\/05\/04",
+        "title": "臺北市私立乖乖幼兒園",
+        "owner": "游金英",
+        "city": "臺北市",
+        "town": "中正區",
+        "type": "私立",
+        "address": "[100]南海路96之1及96之2號1至2樓",
+        "floor": "1樓、2樓",
+        "size": "231.8平方公尺",
+        "size_in": "231.8平方公尺",
+        "size_out": "",
+        "tel": "(02)23033807",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "fcf8451f-1dcb-47f6-aa83-a1caabbb3dbe",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.508408,
+            25.02848
+        ]
+    }
+}

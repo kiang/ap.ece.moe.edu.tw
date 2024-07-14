@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第636-1號",
+        "reg_docno": "北市社四字第37147號",
+        "reg_date": "1990\/11\/02",
+        "title": "臺北市私立來來幼兒園",
+        "owner": "周素芳",
+        "city": "臺北市",
+        "town": "內湖區",
+        "type": "私立",
+        "address": "[114]民權東路六段280巷50號1樓",
+        "floor": "1",
+        "size": "234.17平方公尺",
+        "size_in": "96.17平方公尺",
+        "size_out": "138平方公尺",
+        "tel": "(02)26325432",
+        "url": "",
+        "count_approved": "48",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e936a68f-43c5-4209-adcd-69a5676646e2",
+        "monthly": 12500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.607645,
+            25.070738
+        ]
+    }
+}

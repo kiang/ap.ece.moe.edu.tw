@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680板橋0162之2號",
+        "reg_docno": "73北府社三字第73073587號",
+        "reg_date": "1983\/04\/01",
+        "title": "新北市私立幼華幼兒園",
+        "owner": "梁鈺慧",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]大仁街68號",
+        "floor": "1樓至2樓",
+        "size": "136.87平方公尺",
+        "size_in": "136.87平方公尺",
+        "size_out": "",
+        "tel": "(02)22720200",
+        "url": "http:\/\/sunflower.blogkids.net\/",
+        "count_approved": "39",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "756f0b61-e9d3-4670-9d2c-178092a7e70d",
+        "monthly": 13000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.454526,
+            25.0165059
+        ]
+    }
+}

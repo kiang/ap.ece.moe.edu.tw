@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620樹林0005號",
+        "reg_docno": "八八北府社四字第88096446號",
+        "reg_date": "1999\/03\/12",
+        "title": "新北市私立冠軍幼兒園",
+        "owner": "呂聰海",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "私立",
+        "address": "[238]忠愛街15號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26890676",
+        "url": "",
+        "count_approved": "85",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "36eb695c-41ad-419c-8535-682995c67d8d",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4091237,
+            25.0157815
+        ]
+    }
+}

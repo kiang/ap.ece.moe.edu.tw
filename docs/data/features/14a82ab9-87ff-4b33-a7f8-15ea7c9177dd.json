@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010346835號",
+        "reg_docno": "府教國字第193932號",
+        "reg_date": "1997\/11\/05",
+        "title": "臺南市私立諾貝爾幼兒園",
+        "owner": "李錦庭",
+        "city": "臺南市",
+        "town": "學甲區",
+        "type": "私立",
+        "address": "[726]中華路二段283號",
+        "floor": "1樓",
+        "size": "2,900平方公尺",
+        "size_in": "409平方公尺",
+        "size_out": "2,491平方公尺",
+        "tel": "(06)7836622",
+        "url": "http:\/\/nobeltain.topschool.com.tw\/",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "14a82ab9-87ff-4b33-a7f8-15ea7c9177dd",
+        "monthly": 13320
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.185435,
+            23.23325
+        ]
+    }
+}

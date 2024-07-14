@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110105181號",
+        "reg_docno": "八九府教前字第28752號",
+        "reg_date": "2000\/05\/02",
+        "title": "新竹市私立荷蘭村幼兒園",
+        "owner": "程月影",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]武陵路175巷7號",
+        "floor": "1樓",
+        "size": "264.03平方公尺",
+        "size_in": "166.64平方公尺",
+        "size_out": "97.39平方公尺",
+        "tel": "(03)5453388",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "53e680aa-f0b8-49c3-add2-410b505607ff",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.967323,
+            24.821636
+        ]
+    }
+}

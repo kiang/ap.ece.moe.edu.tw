@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120068109號",
+        "reg_docno": "88府教國字第20594號",
+        "reg_date": "1999\/02\/10",
+        "title": "臺中市西屯區大鵬國民小學附設幼兒園",
+        "owner": "王慶祥",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "公立",
+        "address": "[407]中平路268號",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,110平方公尺",
+        "size_in": "810平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(04)22988451",
+        "url": "https:\/\/dpes.tc.edu.tw\/",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "03bd9648-7282-40ee-b730-c0c762fa7267",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6648227,
+            24.1769568
+        ]
+    }
+}

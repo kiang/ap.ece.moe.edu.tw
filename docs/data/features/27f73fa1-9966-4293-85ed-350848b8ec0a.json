@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1121645625號",
+        "reg_docno": "北府教幼字第1022388073號",
+        "reg_date": "2013\/08\/01",
+        "title": "新北市平溪區平溪國民小學附設幼兒園",
+        "owner": "黃珮琇",
+        "city": "新北市",
+        "town": "平溪區",
+        "type": "公立",
+        "address": "[226]平溪街56號",
+        "floor": "1樓",
+        "size": "209.53平方公尺",
+        "size_in": "100.23平方公尺",
+        "size_out": "109.3平方公尺",
+        "tel": "(02)24951038#208",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "27f73fa1-9966-4293-85ed-350848b8ec0a",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.7367231,
+            25.0287033
+        ]
+    }
+}

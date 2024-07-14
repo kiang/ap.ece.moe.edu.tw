@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010018151號",
+        "reg_docno": "府社婦幼字第100005995號",
+        "reg_date": "2011\/01\/05",
+        "title": "新竹縣私立小歌德幼兒園",
+        "owner": "李奇芬",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]六家七路40、42號",
+        "floor": "1樓",
+        "size": "164.79平方公尺",
+        "size_in": "121.8平方公尺",
+        "size_out": "",
+        "tel": "(03)5502028",
+        "url": "",
+        "count_approved": "34",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2d30cf0f-6f75-420e-b2c7-2080b686cc47",
+        "monthly": 16800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0249088,
+            24.8087324
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120175626號",
+        "reg_docno": "87府教學字第091613號",
+        "reg_date": "1998\/08\/06",
+        "title": "花蓮縣玉里鎮松浦國民小學附設幼兒園",
+        "owner": "古淑珍",
+        "city": "花蓮縣",
+        "town": "玉里鎮",
+        "type": "公立",
+        "address": "[981]212號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8851131#18",
+        "url": "http:\/\/210.240.46.10\/forum_subject_list.asp?id=62&forum_type=幼稚園",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a33404c1-0c64-4021-bf0b-eb632534268c",
+        "monthly": 2884
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.373431,
+            23.428606
+        ]
+    }
+}

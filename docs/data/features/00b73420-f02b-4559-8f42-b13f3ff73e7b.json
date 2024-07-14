@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120203205號",
+        "reg_docno": "府社婦字第0910104076號",
+        "reg_date": "2007\/11\/21",
+        "title": "桃園市私立慈霖幼兒園",
+        "owner": "鄭吉閔",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]榮華街64巷116號1-2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3660297",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：30",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "00b73420-f02b-4559-8f42-b13f3ff73e7b",
+        "monthly": 6025
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3214294,
+            24.9763011
+        ]
+    }
+}

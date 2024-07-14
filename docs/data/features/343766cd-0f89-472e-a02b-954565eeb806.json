@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080073530號",
+        "reg_docno": "中市教幼字第1020058517號",
+        "reg_date": "2013\/08\/01",
+        "title": "臺中市大肚區永順國民小學附設幼兒園",
+        "owner": "陳義郎",
+        "city": "臺中市",
+        "town": "大肚區",
+        "type": "公立",
+        "address": "[432]文昌路二段586號",
+        "floor": "1樓",
+        "size": "690.11平方公尺",
+        "size_in": "390.11平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(04)26992461#271",
+        "url": "臺中市大肚區文昌路二段586號",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "343766cd-0f89-472e-a02b-954565eeb806",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5322613,
+            24.1584882
+        ]
+    }
+}

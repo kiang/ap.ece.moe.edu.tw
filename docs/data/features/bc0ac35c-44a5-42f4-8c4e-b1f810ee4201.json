@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680蘆洲0072之2號",
+        "reg_docno": "新北府教幼字第1061203104號",
+        "reg_date": "2017\/07\/06",
+        "title": "新北市鷺江非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+        "owner": "郭淑雅",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "非營利",
+        "address": "[247]長樂路235號1樓",
+        "floor": "1樓",
+        "size": "1,457.37平方公尺",
+        "size_in": "717.13平方公尺",
+        "size_out": "740.24平方公尺",
+        "tel": "(02)82854336",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "bc0ac35c-44a5-42f4-8c4e-b1f810ee4201",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4620383,
+            25.0902502
+        ]
+    }
+}

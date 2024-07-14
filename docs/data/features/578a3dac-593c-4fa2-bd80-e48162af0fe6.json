@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110160911號",
+        "reg_docno": "府教特字第0940034165號",
+        "reg_date": "2005\/03\/28",
+        "title": "苗栗縣立泰安國民中小學附設幼兒園",
+        "owner": "廖藝芳",
+        "city": "苗栗縣",
+        "town": "泰安鄉",
+        "type": "公立",
+        "address": "[365]高熊卞32-1號",
+        "floor": "1樓",
+        "size": "2,523.3平方公尺",
+        "size_in": "113.3平方公尺",
+        "size_out": "2,410平方公尺",
+        "tel": "(037)993440",
+        "url": "",
+        "count_approved": "20",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "578a3dac-593c-4fa2-bd80-e48162af0fe6",
+        "monthly": 2933
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.910489,
+            24.422207
+        ]
+    }
+}

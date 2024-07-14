@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010117400號",
+        "reg_docno": "(89)府社婦字第62185號",
+        "reg_date": "2000\/08\/31",
+        "title": "新竹市私立鵝媽媽幼兒園",
+        "owner": "吳貞儀",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]經國路2段390號1-3樓",
+        "floor": "1~3樓",
+        "size": "571.88平方公尺",
+        "size_in": "571.88平方公尺",
+        "size_out": "",
+        "tel": "(03)5281580",
+        "url": "http:\/\/goose.topschool.com.tw\/",
+        "count_approved": "110",
+        "shuttle": "\t\t",
+        "pre_public": "110-112",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "bb3e105b-e5b8-4de0-8bf8-3c4ed64b5c0c",
+        "monthly": 12300
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.957,
+            24.8072324
+        ]
+    }
+}

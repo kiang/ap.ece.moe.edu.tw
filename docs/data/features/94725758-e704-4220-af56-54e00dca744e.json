@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第508號",
+        "reg_docno": "北市社五字第8725250500號",
+        "reg_date": "1998\/10\/07",
+        "title": "臺北市私立翰諾幼兒園",
+        "owner": "陳雅懿",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]德行東路61巷4號1、2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28362424",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "94725758-e704-4220-af56-54e00dca744e",
+        "monthly": 12356
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.527029,
+            25.107691
+        ]
+    }
+}

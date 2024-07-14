@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特（一）字第1090809126號",
+        "reg_docno": "府社兒字第1000679638號",
+        "reg_date": "2011\/09\/16",
+        "title": "臺南市私立大地暘光幼兒園",
+        "owner": "王睨閑",
+        "city": "臺南市",
+        "town": "麻豆區",
+        "type": "私立",
+        "address": "[721]客子寮293號",
+        "floor": "1樓、2樓",
+        "size": "869.73平方公尺",
+        "size_in": "475.25平方公尺",
+        "size_out": "394.48平方公尺",
+        "tel": "(06)5700657",
+        "url": "http:\/\/www.sunny.woby.tw",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "415bbc16-bd55-4d77-a0bd-6bcda6a4e078",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.25,
+            23.1833333
+        ]
+    }
+}

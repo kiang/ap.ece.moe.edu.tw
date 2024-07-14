@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11034594800號",
+        "reg_docno": "高市教幼字第11034594800號",
+        "reg_date": "2021\/07\/02",
+        "title": "高雄市鳳陽非營利幼兒園（委託社團法人高雄市關懷家庭教育發展協會辦理）",
+        "owner": "郭阿月",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "非營利",
+        "address": "[812]鳳陽街2號",
+        "floor": "1樓、2樓",
+        "size": "2,898.25平方公尺",
+        "size_in": "1,561.43平方公尺",
+        "size_out": "1,336.82平方公尺",
+        "tel": "(07)8070144",
+        "url": "評鑑情形：",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "76521163-2973-46d1-9110-2a69eec7d0ba",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3695887,
+            22.5615195
+        ]
+    }
+}

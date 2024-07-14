@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1112440068A號",
+        "reg_docno": "府教特一字第1112440068A號",
+        "reg_date": "2022\/08\/01",
+        "title": "雲林縣斗南鎮重光國民小學附設幼兒園",
+        "owner": "楊松田",
+        "city": "雲林縣",
+        "town": "斗南鎮",
+        "type": "公立",
+        "address": "[630]溫厝1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)6341131",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "aa0e9cc8-6db7-49b1-8ec0-5467d3e6ea22",
+        "monthly": 3835
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.509114,
+            23.658028
+        ]
+    }
+}

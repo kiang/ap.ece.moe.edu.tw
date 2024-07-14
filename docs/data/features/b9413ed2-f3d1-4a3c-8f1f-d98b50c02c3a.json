@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120225317號",
+        "reg_docno": "考台銓法四字第1395332號",
+        "reg_date": "1996\/11\/13",
+        "title": "花蓮縣秀林鄉立幼兒園",
+        "owner": "王玫瑰",
+        "city": "花蓮縣",
+        "town": "秀林鄉",
+        "type": "公立",
+        "address": "[972]133號",
+        "floor": "1樓",
+        "size": "217.5平方公尺",
+        "size_in": "157.5平方公尺",
+        "size_out": "60平方公尺",
+        "tel": "(03)8263213",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b9413ed2-f3d1-4a3c-8f1f-d98b50c02c3a",
+        "monthly": 1330
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.600311,
+            24.053858
+        ]
+    }
+}

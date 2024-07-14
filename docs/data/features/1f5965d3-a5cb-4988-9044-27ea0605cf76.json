@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599中和0037之4號",
+        "reg_docno": "七五北府教二字第126496號",
+        "reg_date": "1986\/04\/23",
+        "title": "新北市中和區興南國民小學附設幼兒園",
+        "owner": "曾長麗",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "公立",
+        "address": "[235]興南路1段135巷24號",
+        "floor": "1樓、2樓",
+        "size": "1,349.75平方公尺",
+        "size_in": "966.1平方公尺",
+        "size_out": "383.65平方公尺",
+        "tel": "(02)29422349#870",
+        "url": "",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1f5965d3-a5cb-4988-9044-27ea0605cf76",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.509004,
+            24.986778
+        ]
+    }
+}

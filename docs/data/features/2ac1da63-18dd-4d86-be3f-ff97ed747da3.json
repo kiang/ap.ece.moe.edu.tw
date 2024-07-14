@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110153417號",
+        "reg_docno": "府教特字第0960053255號",
+        "reg_date": "2007\/04\/11",
+        "title": "苗栗縣三灣鄉三灣國民小學附設幼兒園",
+        "owner": "陳美君",
+        "city": "苗栗縣",
+        "town": "三灣鄉",
+        "type": "公立",
+        "address": "[352]中山路49號",
+        "floor": "1樓",
+        "size": "344平方公尺",
+        "size_in": "125平方公尺",
+        "size_out": "219平方公尺",
+        "tel": "(037)831006#2016",
+        "url": "https:\/\/www.facebook.com\/sw831006",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2ac1da63-18dd-4d86-be3f-ff97ed747da3",
+        "monthly": 3433
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.955322,
+            24.655687
+        ]
+    }
+}

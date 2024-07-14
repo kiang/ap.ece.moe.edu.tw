@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1139550253號",
+        "reg_docno": "八八府教學字第145806號",
+        "reg_date": "1999\/12\/27",
+        "title": "新竹縣私立威佑幼兒園",
+        "owner": "陳惠琴",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "私立",
+        "address": "[303]安宅一街15號",
+        "floor": "1,2",
+        "size": "825平方公尺",
+        "size_in": "457.86平方公尺",
+        "size_out": "367.14平方公尺",
+        "tel": "(03)6960685",
+        "url": "",
+        "count_approved": "105",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ba2960c4-f79c-4e50-949a-4206004b492a",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.033635,
+            24.871214
+        ]
+    }
+}

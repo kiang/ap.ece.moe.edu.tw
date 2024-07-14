@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1041548680新莊0025之1號",
+        "reg_docno": "89北府社兒字第89220981號",
+        "reg_date": "2000\/06\/12",
+        "title": "新北市私立文笙幼兒園",
+        "owner": "陳彥臻",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]昌隆街86號1,2樓88號1,2樓",
+        "floor": "1,2",
+        "size": "362.33平方公尺",
+        "size_in": "283.38平方公尺",
+        "size_out": "",
+        "tel": "(02)29982553",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "543b91a6-3d80-4fe2-9273-d42ba92b43fe",
+        "monthly": 10873
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.455965,
+            25.050704
+        ]
+    }
+}

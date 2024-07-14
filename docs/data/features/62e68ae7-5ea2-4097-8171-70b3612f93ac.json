@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1129551055號",
+        "reg_docno": "95府婦幼字第0950010588號",
+        "reg_date": "2006\/01\/12",
+        "title": "新竹縣私立小太陽幼兒園",
+        "owner": "黃金昌",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "私立",
+        "address": "[303]湖中路16號、中正村11鄰中正路二段263巷13號",
+        "floor": "舊館1樓至3樓、新館1樓至2樓",
+        "size": "6,233.39平方公尺",
+        "size_in": "2,586.37平方公尺",
+        "size_out": "2,247.4平方公尺",
+        "tel": "(03)5691817",
+        "url": "www.sunnygarden.com.tw",
+        "count_approved": "546",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：128",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "62e68ae7-5ea2-4097-8171-70b3612f93ac",
+        "monthly": 5800
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.051955,
+            24.891264
+        ]
+    }
+}

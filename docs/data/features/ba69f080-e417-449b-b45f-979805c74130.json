@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010020212號",
+        "reg_docno": "中市府社婦字第8938號",
+        "reg_date": "2000\/02\/11",
+        "title": "臺中市私立丘尼兒幼兒園",
+        "owner": "張可欣",
+        "city": "臺中市",
+        "town": "北區",
+        "type": "私立",
+        "address": "[404]文昌東二街105號1,2樓",
+        "floor": "1.2F",
+        "size": "534.52平方公尺",
+        "size_in": "361.42平方公尺",
+        "size_out": "173.1平方公尺",
+        "tel": "(04)22994641#9",
+        "url": "http:\/\/joiner.myweb.hinet.net\/index.htm",
+        "count_approved": "100",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ba69f080-e417-449b-b45f-979805c74130",
+        "monthly": 11533
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6780705,
+            24.170155
+        ]
+    }
+}

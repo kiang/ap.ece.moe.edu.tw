@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1081513044號",
+        "reg_docno": "嘉市府社福字第70655號",
+        "reg_date": "1999\/09\/16",
+        "title": "嘉義市私立佳北幼兒園",
+        "owner": "王雪芬",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]忠孝路572之11號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2760111",
+        "url": "http:\/\/jarbay.topschool.com.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "edf3a2fd-b24a-48f2-9ee9-af202f67f27a",
+        "monthly": 6217
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.448528,
+            23.502352
+        ]
+    }
+}

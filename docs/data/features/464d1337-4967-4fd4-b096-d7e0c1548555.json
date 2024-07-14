@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1011512732號",
+        "reg_docno": "86府教國字第60897號",
+        "reg_date": "1997\/08\/01",
+        "title": "嘉義市私立雨果幼兒園",
+        "owner": "洪芬郁",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]博東路238號",
+        "floor": "1樓、2樓",
+        "size": "1,876.53平方公尺",
+        "size_in": "948.73平方公尺",
+        "size_out": "857.8484平方公尺",
+        "tel": "(05)2755595",
+        "url": "http:\/\/www.hugokids.com.tw",
+        "count_approved": "240",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "464d1337-4967-4fd4-b096-d7e0c1548555",
+        "monthly": 17017
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.457138,
+            23.490941
+        ]
+    }
+}

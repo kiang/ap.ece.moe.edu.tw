@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1072428728號",
+        "reg_docno": "七六府教國字第84889號",
+        "reg_date": "1987\/08\/25",
+        "title": "雲林縣口湖鄉文光國民小學附設幼兒園",
+        "owner": "蔡子平",
+        "city": "雲林縣",
+        "town": "口湖鄉",
+        "type": "公立",
+        "address": "[653]文光路100號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)7905498",
+        "url": "http:\/\/www.wgps.ylc.edu.tw\/school\/web\/index.php",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5720431d-c148-4122-8045-9032b763cbdf",
+        "monthly": 3526
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.188991,
+            23.542404
+        ]
+    }
+}

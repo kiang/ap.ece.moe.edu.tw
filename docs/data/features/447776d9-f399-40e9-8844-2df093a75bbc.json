@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11233210500號",
+        "reg_docno": "高市教三字第0990011695號",
+        "reg_date": "2010\/03\/25",
+        "title": "高雄市前鎮區紅毛港國民小學附設幼兒園",
+        "owner": "熊治剛",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "公立",
+        "address": "[806]明鳳七街1號",
+        "floor": "1樓",
+        "size": "1,015.87平方公尺",
+        "size_in": "155.07平方公尺",
+        "size_out": "860.8平方公尺",
+        "tel": "(07)7917608#216",
+        "url": "http:\/\/www.hsps.kh.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "447776d9-f399-40e9-8844-2df093a75bbc",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3347024,
+            22.58383
+        ]
+    }
+}

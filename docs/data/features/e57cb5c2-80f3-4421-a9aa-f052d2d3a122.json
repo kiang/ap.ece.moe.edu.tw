@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第1083542200號",
+        "reg_docno": "84府教學字第48724號",
+        "reg_date": "1995\/03\/15",
+        "title": "高雄市湖內區海埔國民小學附設幼兒園",
+        "owner": "吳庭育",
+        "city": "高雄市",
+        "town": "湖內區",
+        "type": "公立",
+        "address": "[829]忠孝街256號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6992346#80",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e57cb5c2-80f3-4421-a9aa-f052d2d3a122",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.225246,
+            22.895549
+        ]
+    }
+}

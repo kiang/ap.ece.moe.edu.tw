@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121169260號",
+        "reg_docno": "府教國字第133737號",
+        "reg_date": "1982\/12\/17",
+        "title": "臺南市私立佳佳幼兒園",
+        "owner": "楊燕雪",
+        "city": "臺南市",
+        "town": "佳里區",
+        "type": "私立",
+        "address": "[722]新生路628巷98號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)7221989",
+        "url": "http:\/\/gaga.woby.com.tw\/",
+        "count_approved": "242",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "fe9509f5-7663-479c-95d6-721f7dfa2b0c",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.155902,
+            23.161734
+        ]
+    }
+}

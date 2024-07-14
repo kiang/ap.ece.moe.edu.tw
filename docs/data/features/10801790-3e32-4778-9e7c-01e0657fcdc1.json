@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1100012495號",
+        "reg_docno": "教二字第26571號",
+        "reg_date": "1957\/11\/21",
+        "title": "財團法人中華基督教衛理公會附設臺中市私立衛理幼兒園",
+        "owner": "",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "私立",
+        "address": "[403]民生路137號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22225913",
+        "url": "http:www.wretch.cc\/blog\/WLkids",
+        "count_approved": "390",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "10801790-3e32-4778-9e7c-01e0657fcdc1",
+        "monthly": 12360
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.671848,
+            24.141917
+        ]
+    }
+}

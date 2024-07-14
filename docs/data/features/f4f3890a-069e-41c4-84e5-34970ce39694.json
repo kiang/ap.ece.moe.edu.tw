@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130026393號",
+        "reg_docno": "府教學字第09800612330號",
+        "reg_date": "1946\/06\/01",
+        "title": "南投縣集集鎮集集國民小學附設幼兒園",
+        "owner": "陳彥文",
+        "city": "南投縣",
+        "town": "集集鎮",
+        "type": "公立",
+        "address": "[552]育才街147號",
+        "floor": "1樓",
+        "size": "852.61平方公尺",
+        "size_in": "184.61平方公尺",
+        "size_out": "668平方公尺",
+        "tel": "(049)2761174",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f4f3890a-069e-41c4-84e5-34970ce39694",
+        "monthly": 2950
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.786585,
+            23.8278301
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第11200168554號",
+        "reg_docno": "83府人一字第168773號",
+        "reg_date": "1994\/12\/30",
+        "title": "嘉義縣水上鄉立水上幼兒園大崙分班",
+        "owner": "",
+        "city": "嘉義縣",
+        "town": "水上鄉",
+        "type": "公立",
+        "address": "[608]111號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)3717532",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2bbe5672-5839-4db7-8bc7-3b3100e4dc80",
+        "monthly": 2763
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.358501,
+            23.443717
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1112424883B號",
+        "reg_docno": "府教特一字第1112424883B號",
+        "reg_date": "2022\/05\/18",
+        "title": "雲林縣西螺鎮文興國民小學附設幼兒園",
+        "owner": "王淑霞",
+        "city": "雲林縣",
+        "town": "西螺鎮",
+        "type": "公立",
+        "address": "[648]新社路257號",
+        "floor": "1樓",
+        "size": "977平方公尺",
+        "size_in": "126平方公尺",
+        "size_out": "851平方公尺",
+        "tel": "(05)5863174#12",
+        "url": "https:\/\/www.facebook.com\/?locale=zh_TW",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fcacc01c-b88c-4a05-80c5-de4b65bd18e9",
+        "monthly": 3835
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4446361,
+            23.7880152
+        ]
+    }
+}

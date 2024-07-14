@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11135580900號",
+        "reg_docno": "高市教幼字第10734932400號",
+        "reg_date": "2018\/08\/01",
+        "title": "高雄市鳳山非營利幼兒園（委託財團法人輔英科技大學設立之輔英科技大學辦理）",
+        "owner": "林惠賢",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "非營利",
+        "address": "[830]中山路231號",
+        "floor": "1樓",
+        "size": "1,005.75平方公尺",
+        "size_in": "517.46平方公尺",
+        "size_out": "488.29平方公尺",
+        "tel": "07-7101902",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8e9fc794-4920-4615-9506-67428d529d0a",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3569249,
+            22.624433
+        ]
+    }
+}

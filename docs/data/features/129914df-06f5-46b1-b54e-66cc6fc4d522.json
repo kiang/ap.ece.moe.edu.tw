@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1010165219號",
+        "reg_docno": "府社婦字第0920002313號",
+        "reg_date": "1988\/05\/02",
+        "title": "臺東縣私立乖乖幼兒園",
+        "owner": "陳淑綿",
+        "city": "臺東縣",
+        "town": "臺東市",
+        "type": "私立",
+        "address": "[950]長安街19號",
+        "floor": "1-3樓",
+        "size": "1,105平方公尺",
+        "size_in": "498平方公尺",
+        "size_out": "607平方公尺",
+        "tel": "(089)318318",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "129914df-06f5-46b1-b54e-66cc6fc4d522",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.143461,
+            22.759062
+        ]
+    }
+}

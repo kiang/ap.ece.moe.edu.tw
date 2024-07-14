@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050061099號",
+        "reg_docno": "中市教幼字第1050061099號",
+        "reg_date": "2016\/08\/01",
+        "title": "臺中市外埔區馬鳴國民小學附設幼兒園",
+        "owner": "李勝億",
+        "city": "臺中市",
+        "town": "外埔區",
+        "type": "公立",
+        "address": "[438]東西巷13號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26834114#213",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "192a16d5-5ae7-4d49-aa42-03a79c2b60ac",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6641613,
+            24.3387282
+        ]
+    }
+}

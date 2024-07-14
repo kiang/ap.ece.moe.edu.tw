@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120014356號",
+        "reg_docno": "府教幼字第1120014356號",
+        "reg_date": "2023\/01\/30",
+        "title": "勞動部勞動力發展署桃竹苗分署職場互助教保服務中心(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "私立",
+        "address": "[326]幼獅路二段3號",
+        "floor": "1樓",
+        "size": "244.34平方公尺",
+        "size_in": "244.34平方公尺",
+        "size_out": "",
+        "tel": "(03)4641808",
+        "url": "評鑑情形：",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1156ba76-a3e1-4d81-85da-a8197a9d24a8",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.171985,
+            24.9307089
+        ]
+    }
+}

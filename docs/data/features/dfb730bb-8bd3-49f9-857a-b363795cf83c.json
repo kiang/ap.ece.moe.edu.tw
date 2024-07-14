@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040067842號",
+        "reg_docno": "中市教幼字第1040067842號",
+        "reg_date": "2015\/09\/25",
+        "title": "財團法人海聲人智學教育基金會附設臺中市私立海聲華德福幼兒園",
+        "owner": "",
+        "city": "臺中市",
+        "town": "梧棲區",
+        "type": "私立",
+        "address": "[435]文雅街127巷10號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26565711#14",
+        "url": "",
+        "count_approved": "83",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dfb730bb-8bd3-49f9-857a-b363795cf83c",
+        "monthly": 16100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5476867,
+            24.2429472
+        ]
+    }
+}

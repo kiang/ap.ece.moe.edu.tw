@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138788700號",
+        "reg_docno": "76府社福字第8138號",
+        "reg_date": "1987\/02\/03",
+        "title": "高雄市私立超群幼兒園",
+        "owner": "盧大旭",
+        "city": "高雄市",
+        "town": "旗山區",
+        "type": "私立",
+        "address": "[842]中華路650號",
+        "floor": "1樓至2樓",
+        "size": "172.32平方公尺",
+        "size_in": "128.1平方公尺",
+        "size_out": "44.22平方公尺",
+        "tel": "(07)6617755",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c4a80b69-cca7-42a5-8b82-a93ad64dd012",
+        "monthly": 7100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.485459,
+            22.884131
+        ]
+    }
+}

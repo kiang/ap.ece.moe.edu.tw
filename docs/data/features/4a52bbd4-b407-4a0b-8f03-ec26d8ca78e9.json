@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1112424653B號",
+        "reg_docno": "府教特一字第1112424653B號",
+        "reg_date": "2022\/05\/18",
+        "title": "雲林縣莿桐鄉僑和國民小學附設幼兒園",
+        "owner": "陳百雀",
+        "city": "雲林縣",
+        "town": "莿桐鄉",
+        "type": "公立",
+        "address": "[647]新庄1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5842230",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4a52bbd4-b407-4a0b-8f03-ec26d8ca78e9",
+        "monthly": 3978
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4927533,
+            23.763167
+        ]
+    }
+}

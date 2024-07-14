@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680新店0031之1號",
+        "reg_docno": "八五北府社四字第85449201號",
+        "reg_date": "1996\/12\/14",
+        "title": "新北市私立凱撒琳幼兒園",
+        "owner": "張敏慧",
+        "city": "新北市",
+        "town": "新店區",
+        "type": "私立",
+        "address": "[231]安德街57巷9號1樓、11號1樓、13號1樓、15號1樓、17號1樓",
+        "floor": "1樓",
+        "size": "532平方公尺",
+        "size_in": "349平方公尺",
+        "size_out": "183平方公尺",
+        "tel": "(02)22122588",
+        "url": "katharinekids@yahoo.com.tw",
+        "count_approved": "70",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2356b4d4-4a46-42be-b750-1be146d81325",
+        "monthly": 15790
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.511332,
+            24.961593
+        ]
+    }
+}

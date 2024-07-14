@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10131967400號",
+        "reg_docno": "高市教育三字第3782號",
+        "reg_date": "1984\/02\/20",
+        "title": "高雄市私立小群幼兒園",
+        "owner": "王義君",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "私立",
+        "address": "[802]武嶺街95號",
+        "floor": "1-2層樓",
+        "size": "899.1平方公尺",
+        "size_in": "606.7平方公尺",
+        "size_out": "292.4平方公尺",
+        "tel": "(07)7160921",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6e585786-188e-4fea-ba11-a2a0e0f4e503",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.333029,
+            22.622684
+        ]
+    }
+}

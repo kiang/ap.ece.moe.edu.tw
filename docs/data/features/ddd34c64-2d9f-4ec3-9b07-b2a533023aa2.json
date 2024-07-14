@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080106862號",
+        "reg_docno": "中市教幼字第1080106862號",
+        "reg_date": "2019\/12\/05",
+        "title": "臺中市私立快樂兒童幼兒園",
+        "owner": "林仁淯",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]龍富十五路35號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,195.21平方公尺",
+        "size_in": "1,292.7平方公尺",
+        "size_out": "902.51平方公尺",
+        "tel": "(04)23824199",
+        "url": "",
+        "count_approved": "300",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ddd34c64-2d9f-4ec3-9b07-b2a533023aa2",
+        "monthly": 18270
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6331896,
+            24.1426191
+        ]
+    }
+}

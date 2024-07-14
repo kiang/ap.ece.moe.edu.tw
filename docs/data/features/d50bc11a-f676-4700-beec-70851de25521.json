@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010034945號",
+        "reg_docno": "86府社褔字第232063號",
+        "reg_date": "1997\/08\/30",
+        "title": "臺中市私立新秀山幼兒園",
+        "owner": "王綠勤",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "私立",
+        "address": "[433]忠貞路6號",
+        "floor": "1-2樓",
+        "size": "396.84平方公尺",
+        "size_in": "311.32平方公尺",
+        "size_out": "85.52平方公尺",
+        "tel": "(04)26154699",
+        "url": "sinshowsun@yahoo.com.tw",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d50bc11a-f676-4700-beec-70851de25521",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.606934,
+            24.2459079
+        ]
+    }
+}

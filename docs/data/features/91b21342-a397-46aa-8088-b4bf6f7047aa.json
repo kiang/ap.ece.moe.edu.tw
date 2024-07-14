@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620板橋0140號",
+        "reg_docno": "北府社兒字第1001398858號",
+        "reg_date": "2011\/11\/02",
+        "title": "新北市私立悅欣幼兒園",
+        "owner": "傅麗娜",
+        "city": "新北市",
+        "town": "板橋區",
+        "type": "私立",
+        "address": "[220]東門街30之2號1樓之60、61、62、63",
+        "floor": "1",
+        "size": "149.12平方公尺",
+        "size_in": "149.12平方公尺",
+        "size_out": "",
+        "tel": "(02)29602160",
+        "url": "",
+        "count_approved": "42",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "91b21342-a397-46aa-8088-b4bf6f7047aa",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.458121,
+            25.008
+        ]
+    }
+}

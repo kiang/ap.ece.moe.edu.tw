@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010021322號",
+        "reg_docno": "中市府社婦字第9408號",
+        "reg_date": "2005\/04\/14",
+        "title": "臺中市私立東區劍橋幼兒園",
+        "owner": "楊錦秀",
+        "city": "臺中市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[401]東福二街9號1樓",
+        "floor": "1樓",
+        "size": "451.47平方公尺",
+        "size_in": "287.91平方公尺",
+        "size_out": "163.56平方公尺",
+        "tel": "(04)22816001",
+        "url": "",
+        "count_approved": "95",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "00df06a8-3aca-4e89-bcc9-8b0a46c6db20",
+        "monthly": 7733
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.700199,
+            24.1279756
+        ]
+    }
+}

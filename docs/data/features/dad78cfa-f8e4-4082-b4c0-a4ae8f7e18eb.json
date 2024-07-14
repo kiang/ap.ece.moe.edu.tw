@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090277097號",
+        "reg_docno": "府教幼字第1090200025號",
+        "reg_date": "2020\/08\/14",
+        "title": "桃園市凌雲非營利幼兒園(委託社團法人桃園市全能多元文教發展協會辦理)",
+        "owner": "戴兆庭",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "非營利",
+        "address": "[325]中豐路上林段418號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4805565",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dad78cfa-f8e4-4082-b4c0-a4ae8f7e18eb",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.202121,
+            24.8586703
+        ]
+    }
+}

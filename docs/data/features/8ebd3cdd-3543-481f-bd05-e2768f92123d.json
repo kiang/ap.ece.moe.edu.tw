@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1120810879號",
+        "reg_docno": "南市社兒字第930040744號",
+        "reg_date": "2004\/05\/12",
+        "title": "臺南市私立立家幼兒園",
+        "owner": "趙效怡",
+        "city": "臺南市",
+        "town": "安平區",
+        "type": "私立",
+        "address": "[708]永華路二段1061號",
+        "floor": "1樓",
+        "size": "688平方公尺",
+        "size_in": "138.05平方公尺",
+        "size_out": "445.3平方公尺",
+        "tel": "(06)2979450",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "8ebd3cdd-3543-481f-bd05-e2768f92123d",
+        "monthly": 7900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.164216,
+            22.991953
+        ]
+    }
+}

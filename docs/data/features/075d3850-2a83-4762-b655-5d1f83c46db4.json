@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11033737100號",
+        "reg_docno": "85府教國字第189042號",
+        "reg_date": "1996\/10\/01",
+        "title": "高雄市私立童的夢幼兒園",
+        "owner": "黃慶豐",
+        "city": "高雄市",
+        "town": "大寮區",
+        "type": "私立",
+        "address": "[831]萬丹路597號",
+        "floor": "1樓、2樓",
+        "size": "762.73平方公尺",
+        "size_in": "466.92平方公尺",
+        "size_out": "295.81平方公尺",
+        "tel": "(07)7862177",
+        "url": "",
+        "count_approved": "135",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "075d3850-2a83-4762-b655-5d1f83c46db4",
+        "monthly": 10467
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4073401,
+            22.613612
+        ]
+    }
+}

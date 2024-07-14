@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090450365號",
+        "reg_docno": "府教學字第1040224148號",
+        "reg_date": "2015\/11\/05",
+        "title": "南投縣私立新南投弘明幼兒園",
+        "owner": "雷雲霞",
+        "city": "南投縣",
+        "town": "南投市",
+        "type": "私立",
+        "address": "[540]嘉和一路120號",
+        "floor": "1樓",
+        "size": "600.33平方公尺",
+        "size_in": "154.6平方公尺",
+        "size_out": "445.73平方公尺",
+        "tel": "(049)2230732",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "df2211ca-7736-4a4d-aebc-ccb3dde165cf",
+        "monthly": 10033
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6882092,
+            23.8974196
+        ]
+    }
+}

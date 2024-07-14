@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第325-3號",
+        "reg_docno": "府人一字第26117號",
+        "reg_date": "1984\/07\/01",
+        "title": "臺北市立大安幼兒園",
+        "owner": "張紹盈",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "公立",
+        "address": "[106]四維路198巷31弄11號",
+        "floor": "1樓、2樓",
+        "size": "1,003.74平方公尺",
+        "size_in": "1,003.74平方公尺",
+        "size_out": "",
+        "tel": "(02)27551211",
+        "url": "http:\/\/www.dadn.tp.edu.tw",
+        "count_approved": "210",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b2148178-68ba-4d7e-9f9d-9a2909adda8e",
+        "monthly": 4797
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.54585,
+            25.027288
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第482-1號",
+        "reg_docno": "北市教三字第1061號",
+        "reg_date": "1969\/02\/20",
+        "title": "臺北市私立樹人幼兒園",
+        "owner": "許美玲",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]景華街121巷17弄9號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29310558",
+        "url": "台北市文山區景華街121巷17弄9號",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "6b3fcb55-3ecb-4219-b93d-1ff0fe28cf86",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.545701,
+            24.99683
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010080158號",
+        "reg_docno": "府教特字第0920107889號",
+        "reg_date": "2003\/07\/17",
+        "title": "臺中市私立北屯四季藝術幼兒園",
+        "owner": "唐富美",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]旅順路一段208號",
+        "floor": "1.2.3",
+        "size": "3,552.86平方公尺",
+        "size_in": "2,987.74平方公尺",
+        "size_out": "565.12平方公尺",
+        "tel": "(04)22433333#504",
+        "url": "http:\/\/www.seasonart.org\/",
+        "count_approved": "480",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "7ae01bd4-da29-4edc-a0e5-dfc5e50c8a53",
+        "monthly": 16093
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6836396,
+            24.1746785
+        ]
+    }
+}

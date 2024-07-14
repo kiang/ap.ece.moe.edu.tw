@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110070856號",
+        "reg_docno": "中市教幼字第1040016912號",
+        "reg_date": "2015\/04\/07",
+        "title": "臺中市弘光平等非營利幼兒園(財團法人弘光科技大學設立之弘光科技大學申請辦理)",
+        "owner": "黃月桂",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "非營利",
+        "address": "[433]平等二街226號1~3樓",
+        "floor": "1-3",
+        "size": "1,758平方公尺",
+        "size_in": "1,194平方公尺",
+        "size_out": "564平方公尺",
+        "tel": "(04)26326580",
+        "url": "評鑑情形：",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：74",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "46a6359d-daca-417b-beb1-0394df4b0725",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5715746,
+            24.2190193
+        ]
+    }
+}

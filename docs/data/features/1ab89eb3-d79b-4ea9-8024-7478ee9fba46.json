@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第685-3號",
+        "reg_docno": "北市社五字第8921649800號",
+        "reg_date": "2000\/03\/24",
+        "title": "臺北市私立親親幼兒園",
+        "owner": "黃耀湘",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]延吉街109號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27753636",
+        "url": "h03220322@yah00.com.tw",
+        "count_approved": "27",
+        "shuttle": "",
+        "pre_public": "110-112",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "cc342e14-bac5-48d0-b822-1b7f44889dc4",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5541705,
+            25.0430904
+        ]
+    }
+}

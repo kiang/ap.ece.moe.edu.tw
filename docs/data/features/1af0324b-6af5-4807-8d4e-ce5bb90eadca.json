@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11236658200號",
+        "reg_docno": "高市教三字第0970036449(補)號",
+        "reg_date": "1998\/08\/01",
+        "title": "高雄市小港區太平國民小學附設幼兒園",
+        "owner": "翁瑞美",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "公立",
+        "address": "[812]營口路1號",
+        "floor": "1至2樓",
+        "size": "1,409.54平方公尺",
+        "size_in": "385.2平方公尺",
+        "size_out": "1,024.34平方公尺",
+        "tel": "(07)8019006#770",
+        "url": "www.tpps.kh.edu.tw",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1af0324b-6af5-4807-8d4e-ce5bb90eadca",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.371267,
+            22.571937
+        ]
+    }
+}

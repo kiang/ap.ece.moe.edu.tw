@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119550984號",
+        "reg_docno": "府教特字第0940105513號",
+        "reg_date": "2005\/08\/10",
+        "title": "新竹縣尖石鄉梅花國民小學附設幼兒園",
+        "owner": "葉惠雯",
+        "city": "新竹縣",
+        "town": "尖石鄉",
+        "type": "公立",
+        "address": "[313]25號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5841501#19",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "39ed9536-769d-47cc-add8-ecdb32703254",
+        "monthly": 3654
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.208794,
+            24.677401
+        ]
+    }
+}

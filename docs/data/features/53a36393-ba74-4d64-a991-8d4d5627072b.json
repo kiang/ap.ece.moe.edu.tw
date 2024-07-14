@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040034227號",
+        "reg_docno": "86府教國字第215619號",
+        "reg_date": "1997\/11\/10",
+        "title": "桃園市私立日揚幼兒園",
+        "owner": "呂振益",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]平東路68巷10、12號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4505876",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "53a36393-ba74-4d64-a991-8d4d5627072b",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.253935,
+            24.918629
+        ]
+    }
+}

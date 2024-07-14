@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680泰山0002之5號",
+        "reg_docno": "七八北府教二字第268384號",
+        "reg_date": "1989\/08\/30",
+        "title": "新北市泰山區明志國民小學附設幼兒園",
+        "owner": "劉道德",
+        "city": "新北市",
+        "town": "泰山區",
+        "type": "公立",
+        "address": "[243]新生路2號",
+        "floor": "1樓、2樓",
+        "size": "1,540平方公尺",
+        "size_in": "910平方公尺",
+        "size_out": "630平方公尺",
+        "tel": "(02)29062588",
+        "url": "http:\/\/ostube.mjes.ntpc.edu.tw\/eweb\/mjesyoyo",
+        "count_approved": "196",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1380519e-c032-409f-b6e3-1cae67f0edc7",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.426917,
+            25.044684
+        ]
+    }
+}

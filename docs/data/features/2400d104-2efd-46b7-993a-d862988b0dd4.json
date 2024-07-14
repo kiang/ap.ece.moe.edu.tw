@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第136號",
+        "reg_docno": "北市教三字第35438號",
+        "reg_date": "2001\/09\/27",
+        "title": "臺北市私立仁和幼兒園",
+        "owner": "張淑貞",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]忠孝東路三段251巷9弄8號",
+        "floor": "1樓",
+        "size": "324平方公尺",
+        "size_in": "219平方公尺",
+        "size_out": "105平方公尺",
+        "tel": "(02)27111787",
+        "url": "http:\/\/jennylin104@gmail.com",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2400d104-2efd-46b7-993a-d862988b0dd4",
+        "monthly": 8850
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5420713,
+            25.0433238
+        ]
+    }
+}

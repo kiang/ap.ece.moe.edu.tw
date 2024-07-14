@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11131299500號",
+        "reg_docno": "高市教幼字第10930684600號",
+        "reg_date": "2020\/02\/07",
+        "title": "高雄市私立彼得魚幼兒園",
+        "owner": "廖約翰",
+        "city": "高雄市",
+        "town": "仁武區",
+        "type": "私立",
+        "address": "[814]高鐵路1070號",
+        "floor": "1樓",
+        "size": "2,415.11平方公尺",
+        "size_in": "890.16平方公尺",
+        "size_out": "1,524.95平方公尺",
+        "tel": "(07)3101119",
+        "url": "",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：15",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "fe6dc391-305a-4074-8f27-ff1a2d0bb66b",
+        "monthly": 4757
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3193097,
+            22.6942801
+        ]
+    }
+}

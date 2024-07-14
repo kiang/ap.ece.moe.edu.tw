@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10822019900號",
+        "reg_docno": "屏府社福字第14572號",
+        "reg_date": "2002\/01\/24",
+        "title": "屏東縣私立枋寮楊老師幼兒園",
+        "owner": "楊麗琴",
+        "city": "屏東縣",
+        "town": "枋寮鄉",
+        "type": "私立",
+        "address": "[940]中山路140之1號",
+        "floor": "2樓",
+        "size": "270.74平方公尺",
+        "size_in": "157.8平方公尺",
+        "size_out": "",
+        "tel": "(08)8781371",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5a264193-580c-46ab-b8aa-fddc27428c4c",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5979529,
+            22.3633679
+        ]
+    }
+}

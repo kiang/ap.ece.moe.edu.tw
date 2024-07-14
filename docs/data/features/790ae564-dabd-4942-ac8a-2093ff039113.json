@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1090015695號",
+        "reg_docno": "府教特字第1090015695號",
+        "reg_date": "2020\/02\/05",
+        "title": "花蓮縣私立親親智慧森林幼兒園",
+        "owner": "陳首帆",
+        "city": "花蓮縣",
+        "town": "花蓮市",
+        "type": "私立",
+        "address": "[970]建林街186號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)8356008#2225",
+        "url": "花蓮市建林街186號",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "790ae564-dabd-4942-ac8a-2093ff039113",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.6012625,
+            23.9830561
+        ]
+    }
+}

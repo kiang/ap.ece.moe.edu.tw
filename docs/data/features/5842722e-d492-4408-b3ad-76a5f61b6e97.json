@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1090161509號",
+        "reg_docno": "86府教國字第120842號",
+        "reg_date": "1997\/09\/24",
+        "title": "苗栗縣卓蘭鎮卓蘭國民小學附設幼兒園",
+        "owner": "李豪朕",
+        "city": "苗栗縣",
+        "town": "卓蘭鎮",
+        "type": "公立",
+        "address": "[369]中山路125號",
+        "floor": "1樓",
+        "size": "598.36平方公尺",
+        "size_in": "298.36平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(04)25892008#765",
+        "url": "http:\/\/163.19.238.201\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5842722e-d492-4408-b3ad-76a5f61b6e97",
+        "monthly": 3455
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.824825,
+            24.312768
+        ]
+    }
+}

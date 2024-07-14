@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120027743號",
+        "reg_docno": "中市教幼字第1120027743號",
+        "reg_date": "2023\/04\/28",
+        "title": "臺中市私立北屯語林幼兒園",
+        "owner": "黃政傑",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]山西路三段465號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23696222",
+        "url": "",
+        "count_approved": "375",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e8762d72-f830-4775-ba70-82684c46cf4f",
+        "monthly": 23633
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6894487,
+            24.1857423
+        ]
+    }
+}

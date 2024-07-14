@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學前字第1110158195號",
+        "reg_docno": "府教學前字第1110158195號",
+        "reg_date": "2022\/08\/01",
+        "title": "苗栗縣大湖鄉大南國民小學附設幼兒園",
+        "owner": "謝孫良",
+        "city": "苗栗縣",
+        "town": "大湖鄉",
+        "type": "公立",
+        "address": "[364]大南勢15號",
+        "floor": "1樓",
+        "size": "1,572.46平方公尺",
+        "size_in": "143.82平方公尺",
+        "size_out": "1,428.64平方公尺",
+        "tel": "(037)992813#21",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fee92ff6-23f8-4b9e-a622-c38e1072274a",
+        "monthly": 3655
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9026802,
+            24.4107916
+        ]
+    }
+}

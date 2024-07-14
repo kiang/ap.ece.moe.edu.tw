@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1060234717號",
+        "reg_docno": "88府教特字第129551號",
+        "reg_date": "1999\/06\/21",
+        "title": "桃園市私立豐田大郡幼兒園",
+        "owner": "謝月玲",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]莊敬路一段210巷59號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3176766",
+        "url": "http:\/\/www.feng-tlen.com.tw",
+        "count_approved": "180",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f1970792-63da-4927-bd7a-48a95e25bc2d",
+        "monthly": 16136
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.299017,
+            25.0257529
+        ]
+    }
+}

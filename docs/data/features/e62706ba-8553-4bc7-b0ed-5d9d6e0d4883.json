@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010018097號",
+        "reg_docno": "八六府教國字第30923號",
+        "reg_date": "1997\/03\/26",
+        "title": "新竹縣私立哈佛幼兒園",
+        "owner": "謝國弘",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]光明二街81巷1號",
+        "floor": "1樓、2樓",
+        "size": "1,650.47平方公尺",
+        "size_in": "983.44平方公尺",
+        "size_out": "493.2平方公尺",
+        "tel": "(03)5530088",
+        "url": "http:\/\/harvard.ieschool.com.tw",
+        "count_approved": "240",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "f1ab13e4-58e9-410b-944f-0393b7c77ca4",
+        "monthly": 11997
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.007291,
+            24.83139
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1040010443號",
+        "reg_docno": "府社幼字第0990253037號",
+        "reg_date": "1935\/08\/01",
+        "title": "臺中市立梧棲幼兒園",
+        "owner": "江惠雅",
+        "city": "臺中市",
+        "town": "梧棲區",
+        "type": "公立",
+        "address": "[435]建國北街287巷99號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)26562777",
+        "url": "sites.google.com\/view\/wuchischool",
+        "count_approved": "210",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d39add60-c213-4fbc-b27c-2d380f3d3edb",
+        "monthly": 4152
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5308296,
+            24.2494269
+        ]
+    }
+}

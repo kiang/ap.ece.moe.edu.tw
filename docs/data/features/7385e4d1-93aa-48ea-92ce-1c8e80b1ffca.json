@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1082426185號",
+        "reg_docno": "府教特字第0970401022號",
+        "reg_date": "2008\/02\/20",
+        "title": "雲林縣私立葳尼爾幼兒園",
+        "owner": "蔡宜靜",
+        "city": "雲林縣",
+        "town": "口湖鄉",
+        "type": "私立",
+        "address": "[653]漁港路115號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)7993300",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7385e4d1-93aa-48ea-92ce-1c8e80b1ffca",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.155398,
+            23.618968
+        ]
+    }
+}

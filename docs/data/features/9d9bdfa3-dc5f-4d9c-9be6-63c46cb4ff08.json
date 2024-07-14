@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1121036848號",
+        "reg_docno": "南市教特字第09412549040號",
+        "reg_date": "2005\/11\/08",
+        "title": "臺南市私立誠品園幼兒園",
+        "owner": "蔡朋洧",
+        "city": "臺南市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[702]西門路一段471巷26號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2215678",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9d9bdfa3-dc5f-4d9c-9be6-63c46cb4ff08",
+        "monthly": 4500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.196822,
+            22.9820691
+        ]
+    }
+}

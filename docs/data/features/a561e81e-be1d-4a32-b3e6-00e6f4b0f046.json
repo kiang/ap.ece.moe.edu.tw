@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10535517400號",
+        "reg_docno": "高市教三字第0970036449(補)號",
+        "reg_date": "1999\/08\/01",
+        "title": "高雄市楠梓區楠陽國民小學附設幼兒園",
+        "owner": "韋淑美",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "公立",
+        "address": "[811]楠陽路100號",
+        "floor": "1樓",
+        "size": "1,487.08平方公尺",
+        "size_in": "267.76平方公尺",
+        "size_out": "1,219.32平方公尺",
+        "tel": "(07)3520675#181",
+        "url": "http:\/\/www.nyps.kh.edu.tw\/office\/kds\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a561e81e-be1d-4a32-b3e6-00e6f4b0f046",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.330968,
+            22.72486
+        ]
+    }
+}

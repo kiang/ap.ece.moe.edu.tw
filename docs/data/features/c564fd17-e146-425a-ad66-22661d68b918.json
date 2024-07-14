@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110073225號",
+        "reg_docno": "府教特字第1080113828號",
+        "reg_date": "2019\/07\/19",
+        "title": "新竹市私立閑谷幼兒園",
+        "owner": "黃麗敏",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]閑谷二街2號",
+        "floor": "1樓、2樓",
+        "size": "981.79平方公尺",
+        "size_in": "711.79平方公尺",
+        "size_out": "270平方公尺",
+        "tel": "(03)5370327",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c564fd17-e146-425a-ad66-22661d68b918",
+        "monthly": 6100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9409942,
+            24.764525
+        ]
+    }
+}

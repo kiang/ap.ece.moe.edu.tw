@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1011505832號",
+        "reg_docno": "76府教國字第8160號",
+        "reg_date": "1987\/02\/19",
+        "title": "嘉義市私立愛兒幼兒園",
+        "owner": "李淑愛",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]重慶路307號",
+        "floor": "1",
+        "size": "555.27平方公尺",
+        "size_in": "129平方公尺",
+        "size_out": "426.27平方公尺",
+        "tel": "(05)2355814",
+        "url": "https:\/\/aier307loveschool.blogspot.com\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cef8d2aa-5c71-4638-ac27-488c22ed4ce0",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.432904,
+            23.463485
+        ]
+    }
+}

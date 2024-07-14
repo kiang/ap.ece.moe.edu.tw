@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第10872465600號",
+        "reg_docno": "屏府教前字第10511088600號",
+        "reg_date": "2016\/08\/16",
+        "title": "屏東縣新園鄉港西國民小學附設幼兒園",
+        "owner": "楊司維",
+        "city": "屏東縣",
+        "town": "新園鄉",
+        "type": "公立",
+        "address": "[932]中和路101號",
+        "floor": "1樓",
+        "size": "877.64平方公尺",
+        "size_in": "314.24平方公尺",
+        "size_out": "563.4平方公尺",
+        "tel": "(08)8681644#18",
+        "url": "https:\/\/www.ksps.ptc.edu.tw\/nss\/p\/index",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "147a0bc2-52a3-479b-9ac9-092bbc0d3195",
+        "monthly": 3700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4553696,
+            22.5088399
+        ]
+    }
+}

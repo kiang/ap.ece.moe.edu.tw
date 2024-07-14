@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第11200168554號",
+        "reg_docno": "83府人一字第168773號",
+        "reg_date": "1994\/12\/30",
+        "title": "嘉義縣水上鄉立水上幼兒園三界分班",
+        "owner": "",
+        "city": "嘉義縣",
+        "town": "水上鄉",
+        "type": "公立",
+        "address": "[608]153-1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2300469",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1bdd44c9-7989-4f29-b3c6-8b8e25a1de5c",
+        "monthly": 2823
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.47544,
+            23.432508
+        ]
+    }
+}

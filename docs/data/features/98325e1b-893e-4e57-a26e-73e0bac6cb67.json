@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10133098900號",
+        "reg_docno": "高市教三字第0940006060號",
+        "reg_date": "2005\/02\/25",
+        "title": "高雄市私立芝蔴街幼兒園",
+        "owner": "林義德",
+        "city": "高雄市",
+        "town": "左營區",
+        "type": "私立",
+        "address": "[813]自由四路125號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)5118086#214",
+        "url": "www.abc-school.com.tw",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "e52ba1d3-5d81-4dae-8f5d-3dc4b50ed192",
+        "monthly": 11134
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.313763,
+            22.682013
+        ]
+    }
+}

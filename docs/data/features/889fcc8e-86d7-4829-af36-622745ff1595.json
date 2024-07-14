@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110293949號",
+        "reg_docno": "府社兒字第0980381099號",
+        "reg_date": "2009\/09\/30",
+        "title": "桃園市立大園幼兒園三和分班",
+        "owner": "",
+        "city": "桃園市",
+        "town": "大園區",
+        "type": "公立",
+        "address": "[337]三和路1-1號1樓、地下1樓",
+        "floor": "1樓、地下1樓",
+        "size": "1,225平方公尺",
+        "size_in": "135平方公尺",
+        "size_out": "1,090平方公尺",
+        "tel": "(03)3831642",
+        "url": "http:\/\/www.dayuan.gov.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "889fcc8e-86d7-4829-af36-622745ff1595",
+        "monthly": 5212
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.25922,
+            25.0729389
+        ]
+    }
+}

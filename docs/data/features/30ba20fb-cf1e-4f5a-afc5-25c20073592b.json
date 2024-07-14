@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10135486300號",
+        "reg_docno": "府教特字第0970152241號",
+        "reg_date": "2008\/06\/26",
+        "title": "高雄市私立義大幼兒園",
+        "owner": "黃俊雄",
+        "city": "高雄市",
+        "town": "大樹區",
+        "type": "私立",
+        "address": "[840]義大七街2號",
+        "floor": "1+2+3",
+        "size": "1,591.88平方公尺",
+        "size_in": "965.04平方公尺",
+        "size_out": "",
+        "tel": "(07)6578009",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "30ba20fb-cf1e-4f5a-afc5-25c20073592b",
+        "monthly": 17333
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.402984,
+            22.729358
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680汐止0054之1號",
+        "reg_docno": "八七北府社四字第87105211號",
+        "reg_date": "1998\/06\/04",
+        "title": "新北市私立柏克力幼兒園",
+        "owner": "王心迪",
+        "city": "新北市",
+        "town": "汐止區",
+        "type": "私立",
+        "address": "[221]福德一路151號、153號1樓、2樓及159巷3號1樓",
+        "floor": "2",
+        "size": "236.38平方公尺",
+        "size_in": "236.38平方公尺",
+        "size_out": "",
+        "tel": "(02)26943373",
+        "url": "www.berkeleybkg.com",
+        "count_approved": "66",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4c7c0177-a2d0-4d4c-9e5f-61d3860e81d1",
+        "monthly": 9500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.63664,
+            25.066629
+        ]
+    }
+}

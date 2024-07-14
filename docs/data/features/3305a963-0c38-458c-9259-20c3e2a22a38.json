@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第25號",
+        "reg_docno": "北市教前字第11130126221號",
+        "reg_date": "2022\/09\/02",
+        "title": "國防部軍備局健安新城職場互助教保服務中心（委託社團法人新竹市教保人員協會辦理）",
+        "owner": "許玉齡",
+        "city": "臺北市",
+        "town": "松山區",
+        "type": "私立",
+        "address": "[105]健康路225巷6號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)2742-0262",
+        "url": "www.facebook.com\/jian.an2022",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3305a963-0c38-458c-9259-20c3e2a22a38",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5630142,
+            25.054423
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字字第11153835500號",
+        "reg_docno": "屏府教國字第052號",
+        "reg_date": "1956\/09\/10",
+        "title": "屏東縣鹽埔鄉新圍國民小學附設幼兒園",
+        "owner": "高珠鈴",
+        "city": "屏東縣",
+        "town": "鹽埔鄉",
+        "type": "公立",
+        "address": "[907]維新路67號",
+        "floor": "1樓",
+        "size": "3,469.157平方公尺",
+        "size_in": "341.157平方公尺",
+        "size_out": "3,128平方公尺",
+        "tel": "(08)7932269#121",
+        "url": "http:\/\/www.shwps.ptc.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7385123a-3dd4-4c2d-889a-728429eaa30d",
+        "monthly": 3656
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.55396,
+            22.738282
+        ]
+    }
+}

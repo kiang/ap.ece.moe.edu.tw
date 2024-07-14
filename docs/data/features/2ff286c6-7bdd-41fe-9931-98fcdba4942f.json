@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1120238996號",
+        "reg_docno": "府教幼字第1120238996號",
+        "reg_date": "2023\/08\/29",
+        "title": "桃園市私立百年正恩幼兒園",
+        "owner": "吳嫦娥",
+        "city": "桃園市",
+        "town": "龍潭區",
+        "type": "私立",
+        "address": "[325]百年三街29號1、2樓",
+        "floor": "1樓、2樓",
+        "size": "1,698.54平方公尺",
+        "size_in": "1,366.82平方公尺",
+        "size_out": "331.72平方公尺",
+        "tel": "(03)4801898",
+        "url": "",
+        "count_approved": "156",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "2ff286c6-7bdd-41fe-9931-98fcdba4942f",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2090319,
+            24.879469
+        ]
+    }
+}

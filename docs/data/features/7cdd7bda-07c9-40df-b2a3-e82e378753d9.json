@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122447631號",
+        "reg_docno": "府教特一字第1112435320號",
+        "reg_date": "2022\/08\/01",
+        "title": "經濟部雲林產業園區服務中心職場互助教保服務中心(委託社團法人雲林縣親子教育協會辦理)",
+        "owner": "張慈雯",
+        "city": "雲林縣",
+        "town": "斗六市",
+        "type": "私立",
+        "address": "[640]科工二路26號",
+        "floor": "3樓",
+        "size": "292.55平方公尺",
+        "size_in": "292.55平方公尺",
+        "size_out": "",
+        "tel": "(05)5518279",
+        "url": "評鑑情形：",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7cdd7bda-07c9-40df-b2a3-e82e378753d9",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5118262,
+            23.7261974
+        ]
+    }
+}

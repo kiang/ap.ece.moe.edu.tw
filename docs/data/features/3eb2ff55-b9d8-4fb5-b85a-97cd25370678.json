@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1010018134號",
+        "reg_docno": "府教國字第82978號",
+        "reg_date": "1982\/11\/15",
+        "title": "財團法人天主教耶穌會附設新竹縣私立東寧幼兒園",
+        "owner": "",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "私立",
+        "address": "[310]東寧路1段163號",
+        "floor": "2",
+        "size": "4,372平方公尺",
+        "size_in": "1,140.5平方公尺",
+        "size_out": "1,247平方公尺",
+        "tel": "(03)5962043",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3eb2ff55-b9d8-4fb5-b85a-97cd25370678",
+        "monthly": 8500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.094055,
+            24.725849
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080176525號",
+        "reg_docno": "府教特字第0078843號",
+        "reg_date": "2002\/06\/25",
+        "title": "嘉義縣鹿草鄉下潭國民小學附設幼兒園",
+        "owner": "闕菊",
+        "city": "嘉義縣",
+        "town": "鹿草鄉",
+        "type": "公立",
+        "address": "[611]下潭196號",
+        "floor": "1樓",
+        "size": "447平方公尺",
+        "size_in": "147平方公尺",
+        "size_out": "300平方公尺",
+        "tel": "(05)3650880",
+        "url": "http:\/\/www.htps.cyc.edu.tw\/",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c2b01b79-3f5c-42ab-9045-80ba0e090163",
+        "monthly": 3435
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.286061,
+            23.373659
+        ]
+    }
+}

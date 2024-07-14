@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11036812500號",
+        "reg_docno": "高市教三字第0970036449(補)號",
+        "reg_date": "1995\/08\/01",
+        "title": "高雄市三民區莊敬國民小學附設幼兒園",
+        "owner": "林文章",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "公立",
+        "address": "[807]大昌一路200號",
+        "floor": "1樓、2樓",
+        "size": "2,390.016平方公尺",
+        "size_in": "979.646平方公尺",
+        "size_out": "1,410.37平方公尺",
+        "tel": "(07)3813210#6010",
+        "url": "高雄市三民區大昌一路200號",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c0ebd963-1208-48c7-a9c4-e3d790e4054b",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.323187,
+            22.656199
+        ]
+    }
+}

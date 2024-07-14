@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11136034800號",
+        "reg_docno": "高市教國字第013821號",
+        "reg_date": "1974\/02\/23",
+        "title": "高雄市鹽埕區鹽埕國民小學附設幼兒園",
+        "owner": "方朝郁",
+        "city": "高雄市",
+        "town": "鹽埕區",
+        "type": "公立",
+        "address": "[803]五福四路183號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)5210626#702",
+        "url": "www.yacps.kh.edu.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "262fbf6f-883d-4fdd-9483-c811cca60fe2",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.282953,
+            22.623759
+        ]
+    }
+}

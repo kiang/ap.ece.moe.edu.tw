@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第703號",
+        "reg_docno": "北市社五字第8725372800號",
+        "reg_date": "1998\/10\/13",
+        "title": "臺北市私立享銘幼兒園",
+        "owner": "陳婉琳",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]信義路三段31巷11號1樓",
+        "floor": "1層",
+        "size": "154.487平方公尺",
+        "size_in": "154.487平方公尺",
+        "size_out": "",
+        "tel": "(02)27546816",
+        "url": "",
+        "count_approved": "31",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9c737909-d64d-4504-835c-d166b18ac1d5",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.534709,
+            25.03543
+        ]
+    }
+}

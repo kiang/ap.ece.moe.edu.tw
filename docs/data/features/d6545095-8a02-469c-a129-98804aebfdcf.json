@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0084號",
+        "reg_docno": "北府社兒字第0910469735號",
+        "reg_date": "2002\/07\/29",
+        "title": "新北市私立艾美樂幼兒園",
+        "owner": "胡張淑玲",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]集美街112巷9號1樓、2樓、11號1樓",
+        "floor": "1f2f",
+        "size": "204.2平方公尺",
+        "size_in": "179.95平方公尺",
+        "size_out": "",
+        "tel": "(02)29753317",
+        "url": "",
+        "count_approved": "51",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d6545095-8a02-469c-a129-98804aebfdcf",
+        "monthly": 11000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.489374,
+            25.053843
+        ]
+    }
+}

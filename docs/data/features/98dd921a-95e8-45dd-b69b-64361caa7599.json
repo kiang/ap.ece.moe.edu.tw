@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1080003599新莊0133號",
+        "reg_docno": "新北府教幼字第1110066171號",
+        "reg_date": "2022\/01\/13",
+        "title": "新北市新樂非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+        "owner": "吳文宗",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "非營利",
+        "address": "[242]中華路一段75號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29940575",
+        "url": "評鑑情形：",
+        "count_approved": "212",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "98dd921a-95e8-45dd-b69b-64361caa7599",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.451806,
+            25.0405446
+        ]
+    }
+}

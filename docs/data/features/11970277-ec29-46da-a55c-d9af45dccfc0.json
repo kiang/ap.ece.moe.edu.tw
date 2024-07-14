@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130250500號",
+        "reg_docno": "府社幼字第0930143695號",
+        "reg_date": "2004\/07\/28",
+        "title": "彰化縣私立陳姊姊幼兒園",
+        "owner": "陳來滿",
+        "city": "彰化縣",
+        "town": "田中鎮",
+        "type": "私立",
+        "address": "[520]福安路310巷31號",
+        "floor": "1樓至3樓",
+        "size": "417.89平方公尺",
+        "size_in": "281.38平方公尺",
+        "size_out": "60.92平方公尺",
+        "tel": "(04)8763090",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "11970277-ec29-46da-a55c-d9af45dccfc0",
+        "monthly": 8000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5877109,
+            23.8646022
+        ]
+    }
+}

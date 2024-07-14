@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第111000500號",
+        "reg_docno": "中市教幼字第1090065370號",
+        "reg_date": "2020\/07\/30",
+        "title": "臺中市東英非營利幼兒園(委託財團法人宏觀文教基金會辦理)",
+        "owner": "李効武",
+        "city": "臺中市",
+        "town": "東區",
+        "type": "非營利",
+        "address": "[401]旱溪街506號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22137807",
+        "url": "臺中市東區東英里17鄰旱溪街506號",
+        "count_approved": "332",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e1d100d7-9d03-433f-b320-dae2db2388db",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7094591,
+            24.140544
+        ]
+    }
+}

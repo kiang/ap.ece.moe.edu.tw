@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第751號",
+        "reg_docno": "北市幼兒園證字第751號",
+        "reg_date": "2017\/05\/01",
+        "title": "臺北市私立道思幼兒園",
+        "owner": "周慧芬",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]天母北路61號1樓、61之1號1樓及61之1號2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28731515",
+        "url": "",
+        "count_approved": "100",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "a07b8784-fc84-42a4-a883-ec3b76090523",
+        "monthly": 16700
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.5268787,
+            25.1214928
+        ]
+    }
+}

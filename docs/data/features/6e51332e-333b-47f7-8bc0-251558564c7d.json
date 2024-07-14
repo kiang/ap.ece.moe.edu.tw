@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130184014號",
+        "reg_docno": "府教幼字第1130184014號",
+        "reg_date": "2024\/07\/09",
+        "title": "桃園市私立唯妮蒙氏幼兒園",
+        "owner": "鍾美寶",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]白馬莊118號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4938338",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6e51332e-333b-47f7-8bc0-251558564c7d",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            "121.213285",
+            "24.962782"
+        ]
+    }
+}

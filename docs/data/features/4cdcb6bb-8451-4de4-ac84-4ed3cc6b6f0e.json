@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教特字第11132224500號",
+        "reg_docno": "高市教特字第11132224500號",
+        "reg_date": "2022\/08\/01",
+        "title": "高雄市立楠梓特殊學校幼兒部",
+        "owner": "黃國書",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "公立",
+        "address": "[811]德民路211號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)3642007",
+        "url": "",
+        "count_approved": "0",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4cdcb6bb-8451-4de4-ac84-4ed3cc6b6f0e",
+        "monthly": 1714
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.313224,
+            22.7283484
+        ]
+    }
+}

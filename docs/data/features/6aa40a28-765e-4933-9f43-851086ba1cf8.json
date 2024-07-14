@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1070066473號",
+        "reg_docno": "中市教幼字第1070066473號",
+        "reg_date": "2018\/07\/27",
+        "title": "臺中市溪南非營利幼兒園(委託社團法人彰化縣全方位教育協會辦理)",
+        "owner": "梁嫣玲",
+        "city": "臺中市",
+        "town": "烏日區",
+        "type": "非營利",
+        "address": "[414]溪南路一段731號",
+        "floor": "1樓、2樓",
+        "size": "932.9平方公尺",
+        "size_in": "582.9平方公尺",
+        "size_out": "350平方公尺",
+        "tel": "(04)23350336",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6aa40a28-765e-4933-9f43-851086ba1cf8",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.644765,
+            24.072053
+        ]
+    }
+}

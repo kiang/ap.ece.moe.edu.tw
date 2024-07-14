@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120083968號",
+        "reg_docno": "教二字第33966號",
+        "reg_date": "1975\/06\/13",
+        "title": "臺中市西區忠明國民小學附設幼兒園",
+        "owner": "陳光鑫",
+        "city": "臺中市",
+        "town": "西區",
+        "type": "公立",
+        "address": "[403]臺灣大道二段556號",
+        "floor": "1樓、2樓",
+        "size": "2,661.42平方公尺",
+        "size_in": "1,761.42平方公尺",
+        "size_out": "900平方公尺",
+        "tel": "(04)23172860#790",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100065270430959",
+        "count_approved": "196",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5204f487-871b-44d1-91af-ef2625b68623",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.65909,
+            24.158023
+        ]
+    }
+}

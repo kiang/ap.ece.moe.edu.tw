@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第10900980822號",
+        "reg_docno": "府社幼字第0980271128號",
+        "reg_date": "1979\/07\/01",
+        "title": "臺中市和平區立幼兒園雙崎分班",
+        "owner": "",
+        "city": "臺中市",
+        "town": "和平區",
+        "type": "公立",
+        "address": "[424]東崎路二段36號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25911130",
+        "url": "https:\/\/www.heping.taichung.gov.tw",
+        "count_approved": "40",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dde23588-6fcb-4b3f-bb15-43aa5d78a66a",
+        "monthly": 3852
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9109318,
+            24.2922946
+        ]
+    }
+}

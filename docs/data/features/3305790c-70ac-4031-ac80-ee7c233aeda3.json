@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1080045578A號",
+        "reg_docno": "府社幼字第1000396880號",
+        "reg_date": "1995\/07\/01",
+        "title": "彰化縣彰化市立幼兒園介壽分班",
+        "owner": "",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "公立",
+        "address": "[500]介壽新村241號",
+        "floor": "1樓、2樓",
+        "size": "529.83平方公尺",
+        "size_in": "194.8平方公尺",
+        "size_out": "121.14平方公尺",
+        "tel": "(04)7125706",
+        "url": "http:\/\/preschool.changhua.gov.tw\/",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3305790c-70ac-4031-ac80-ee7c233aeda3",
+        "monthly": 4667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.550277,
+            24.069281
+        ]
+    }
+}

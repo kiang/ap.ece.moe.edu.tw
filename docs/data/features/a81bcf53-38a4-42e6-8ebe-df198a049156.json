@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第401-2號",
+        "reg_docno": "北市社五字第09138943500號",
+        "reg_date": "2002\/10\/29",
+        "title": "臺北市私立雪拉比幼兒園",
+        "owner": "詹惠雯",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "私立",
+        "address": "[108]環河南路二段250巷1號2樓、252號2樓及254號2樓",
+        "floor": "2",
+        "size": "207.85平方公尺",
+        "size_in": "207.85平方公尺",
+        "size_out": "",
+        "tel": "(02)23065715",
+        "url": "",
+        "count_approved": "52",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a81bcf53-38a4-42e6-8ebe-df198a049156",
+        "monthly": 6833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.489908,
+            25.033908
+        ]
+    }
+}

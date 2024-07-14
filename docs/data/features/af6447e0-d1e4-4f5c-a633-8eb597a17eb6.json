@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110206952號",
+        "reg_docno": "府教國字第15693號",
+        "reg_date": "1985\/03\/11",
+        "title": "嘉義縣立大埔國民中小學附設幼兒園",
+        "owner": "陳育恬",
+        "city": "嘉義縣",
+        "town": "大埔鄉",
+        "type": "公立",
+        "address": "[607]大埔57號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2521014#350",
+        "url": "http:\/\/www.dpjes.cyc.edu.tw\/",
+        "count_approved": "84",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "af6447e0-d1e4-4f5c-a633-8eb597a17eb6",
+        "monthly": 3856
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.591599,
+            23.294383
+        ]
+    }
+}

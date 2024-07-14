@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1080078864號",
+        "reg_docno": "中市教幼字第1020058508號",
+        "reg_date": "2013\/08\/01",
+        "title": "臺中市大里區內新國民小學附設幼兒園",
+        "owner": "張文綺",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "公立",
+        "address": "[412]日新路8號",
+        "floor": "1樓",
+        "size": "1,283.17平方公尺",
+        "size_in": "437.17平方公尺",
+        "size_out": "846平方公尺",
+        "tel": "(04)24852863#770",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4d67184e-6b4b-4195-8b32-ab7db5fa10bf",
+        "monthly": 4205
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6948598,
+            24.1117531
+        ]
+    }
+}

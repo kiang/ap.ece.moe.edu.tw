@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教幼字第1010757051號",
+        "reg_docno": "南市社福字第20762號",
+        "reg_date": "1993\/07\/03",
+        "title": "臺南市私立光暉幼兒園",
+        "owner": "魏秀綿",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]海佃路一段95巷1號",
+        "floor": "2",
+        "size": "1,769.98平方公尺",
+        "size_in": "824.62平方公尺",
+        "size_out": "945.36平方公尺",
+        "tel": "(06)2591243",
+        "url": "http:\/\/kh2591243.topschool.com.tw\/",
+        "count_approved": "140",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：20",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "c644f1b3-068a-43a8-b1a3-11486839b1a2",
+        "monthly": 14000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.19188,
+            23.021992
+        ]
+    }
+}

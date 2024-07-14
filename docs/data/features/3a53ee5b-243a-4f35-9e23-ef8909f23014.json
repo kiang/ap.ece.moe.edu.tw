@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1070125479號",
+        "reg_docno": "府社婦字第0930237972號",
+        "reg_date": "2004\/09\/15",
+        "title": "桃園市私立國際長頸鹿幼兒園",
+        "owner": "陳燕輝",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]宏昌八街71、81號1~2樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3703123",
+        "url": "",
+        "count_approved": "239",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3a53ee5b-243a-4f35-9e23-ef8909f23014",
+        "monthly": 18576
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.2896034,
+            24.9856631
+        ]
+    }
+}

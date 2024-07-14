@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1090071150號",
+        "reg_docno": "中市教幼字第1010051120號",
+        "reg_date": "2012\/08\/01",
+        "title": "臺中市大肚區瑞井國民小學附設幼兒園",
+        "owner": "曾偉銘",
+        "city": "臺中市",
+        "town": "大肚區",
+        "type": "公立",
+        "address": "[432]華山路680號",
+        "floor": "1樓",
+        "size": "834平方公尺",
+        "size_in": "324平方公尺",
+        "size_out": "510平方公尺",
+        "tel": "(04)26912550#270",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "917c9bf8-f821-4297-a80b-4da00713bc14",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.5670954,
+            24.1594185
+        ]
+    }
+}

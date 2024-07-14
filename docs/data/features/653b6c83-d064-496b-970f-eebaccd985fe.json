@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120065195號",
+        "reg_docno": "府社褔字第169190號",
+        "reg_date": "1998\/07\/01",
+        "title": "臺中市私立愛恩堡幼兒園",
+        "owner": "吳宗康",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "私立",
+        "address": "[427]勝利5街41號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25342153",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "653b6c83-d064-496b-970f-eebaccd985fe",
+        "monthly": 5500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.701005,
+            24.209091
+        ]
+    }
+}

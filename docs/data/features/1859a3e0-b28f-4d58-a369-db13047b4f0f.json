@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字字第1111673680樹林0011之2號",
+        "reg_docno": "七九北府教二字第130295號",
+        "reg_date": "1990\/05\/10",
+        "title": "新北市樹林區育德國民小學附設幼兒園",
+        "owner": "蔡佩芳",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "公立",
+        "address": "[238]佳園路一段34號",
+        "floor": "1樓",
+        "size": "330平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "180平方公尺",
+        "tel": "(02)26805557#140",
+        "url": "http:\/\/163.20.84.7\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1859a3e0-b28f-4d58-a369-db13047b4f0f",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.392125,
+            24.971159
+        ]
+    }
+}

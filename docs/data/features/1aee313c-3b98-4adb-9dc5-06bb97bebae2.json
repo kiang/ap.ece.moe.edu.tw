@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11036469100號",
+        "reg_docno": "高市教幼字第11036469100號",
+        "reg_date": "2021\/08\/01",
+        "title": "高雄市前鎮區瑞祥國民小學附設幼兒園",
+        "owner": "呂炎玲",
+        "city": "高雄市",
+        "town": "前鎮區",
+        "type": "公立",
+        "address": "[806]班超路20號",
+        "floor": "1樓",
+        "size": "644.41平方公尺",
+        "size_in": "272平方公尺",
+        "size_out": "372.41平方公尺",
+        "tel": "(07)7221212",
+        "url": "affairs.kh.edu.tw\/5838",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1aee313c-3b98-4adb-9dc5-06bb97bebae2",
+        "monthly": 4014
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3271408,
+            22.6008554
+        ]
+    }
+}

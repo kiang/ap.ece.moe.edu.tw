@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1110238642A號",
+        "reg_docno": "（八八）基府教國字第071991號",
+        "reg_date": "1999\/07\/29",
+        "title": "基隆市安樂區隆聖國民小學附設幼兒園",
+        "owner": "王春奎",
+        "city": "基隆市",
+        "town": "安樂區",
+        "type": "公立",
+        "address": "[204]武隆街107號",
+        "floor": "1樓、2樓",
+        "size": "681.07平方公尺",
+        "size_in": "415.63平方公尺",
+        "size_out": "265.44平方公尺",
+        "tel": "(02)24311480#60",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100054228664347",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1e3a417c-5f16-4867-9d2e-218f0ac5d834",
+        "monthly": 3133
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.694494,
+            25.1561649
+        ]
+    }
+}

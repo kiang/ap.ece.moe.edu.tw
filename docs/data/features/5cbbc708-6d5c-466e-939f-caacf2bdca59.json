@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北府教幼字第1011259620三重0049之1號",
+        "reg_docno": "九十北府社兒字第90462336號",
+        "reg_date": "2001\/12\/05",
+        "title": "新北市私立勁寶兒喜星園幼兒園",
+        "owner": "魏楚軍",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]成功路28號1,2樓",
+        "floor": "1.2樓",
+        "size": "217.34平方公尺",
+        "size_in": "217.34平方公尺",
+        "size_out": "",
+        "tel": "(02)89729002",
+        "url": "",
+        "count_approved": "51",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "5cbbc708-6d5c-466e-939f-caacf2bdca59",
+        "monthly": 19000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.4896409,
+            25.0503885
+        ]
+    }
+}

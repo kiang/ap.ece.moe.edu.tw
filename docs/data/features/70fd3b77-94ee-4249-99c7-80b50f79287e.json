@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120080830號",
+        "reg_docno": "中市教幼字第1120080830號",
+        "reg_date": "2023\/10\/06",
+        "title": "臺中市私立童悅幼兒園",
+        "owner": "林耕平",
+        "city": "臺中市",
+        "town": "烏日區",
+        "type": "私立",
+        "address": "[414]興祥街23號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23378516",
+        "url": "joy88889000@gmail.com",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "70fd3b77-94ee-4249-99c7-80b50f79287e",
+        "monthly": 11750
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6385702,
+            24.105775
+        ]
+    }
+}

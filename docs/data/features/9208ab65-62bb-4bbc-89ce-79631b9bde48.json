@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第674號",
+        "reg_docno": "北市社五字第8721751900號",
+        "reg_date": "1998\/04\/22",
+        "title": "臺北市私立逸仙幼兒園",
+        "owner": "劉靜怡",
+        "city": "臺北市",
+        "town": "信義區",
+        "type": "私立",
+        "address": "[110]逸仙路42巷6號1樓",
+        "floor": "1樓",
+        "size": "170.5平方公尺",
+        "size_in": "170.5平方公尺",
+        "size_out": "",
+        "tel": "(02)27224144",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9208ab65-62bb-4bbc-89ce-79631b9bde48",
+        "monthly": 15833
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.562141,
+            25.040082
+        ]
+    }
+}

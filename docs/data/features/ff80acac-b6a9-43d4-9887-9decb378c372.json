@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1120068877號",
+        "reg_docno": "中市教幼字第1080070035號",
+        "reg_date": "2019\/08\/01",
+        "title": "臺中市東勢區東勢國民小學附設幼兒園",
+        "owner": "林方鈴",
+        "city": "臺中市",
+        "town": "東勢區",
+        "type": "公立",
+        "address": "[423]第五橫街1號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)25873442#219",
+        "url": "http:\/\/www.tses.tc.edu.tw\/web\/index.php",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ff80acac-b6a9-43d4-9887-9decb378c372",
+        "monthly": 4227
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.8307672,
+            24.2585133
+        ]
+    }
+}

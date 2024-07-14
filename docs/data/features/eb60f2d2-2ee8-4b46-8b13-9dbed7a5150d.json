@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1091434491號",
+        "reg_docno": "南市教特(一)字第1081364792號",
+        "reg_date": "2019\/11\/26",
+        "title": "臺南市私立福瑞斯特國際藝術幼兒園",
+        "owner": "江冠蓁",
+        "city": "臺南市",
+        "town": "安平區",
+        "type": "私立",
+        "address": "[708]府平路144巷58號",
+        "floor": "1樓、2樓",
+        "size": "4,020.88平方公尺",
+        "size_in": "2,178.85平方公尺",
+        "size_out": "1,842.03平方公尺",
+        "tel": "(06)2988292",
+        "url": "",
+        "count_approved": "438",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "eb60f2d2-2ee8-4b46-8b13-9dbed7a5150d",
+        "monthly": 18240
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.1691652,
+            22.9889201
+        ]
+    }
+}

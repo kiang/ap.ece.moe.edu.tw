@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680樹林0006之1號",
+        "reg_docno": "七0北府教二字第246620號",
+        "reg_date": "1981\/11\/17",
+        "title": "新北市私立劍聲樹林幼兒園",
+        "owner": "",
+        "city": "新北市",
+        "town": "樹林區",
+        "type": "私立",
+        "address": "[238]三福街47巷16、18、20、22號1樓",
+        "floor": "1",
+        "size": "750平方公尺",
+        "size_in": "375平方公尺",
+        "size_out": "375平方公尺",
+        "tel": "(02)26881538",
+        "url": "http:\/\/www.jskid.com.tw",
+        "count_approved": "90",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "57ca0fe9-f49d-4a17-af33-a68a45788c29",
+        "monthly": 3500
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.407546,
+            25.015511
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1020349470號",
+        "reg_docno": "府社婦字第0930080569號",
+        "reg_date": "2004\/07\/21",
+        "title": "新竹市私立安地卡幼兒園",
+        "owner": "陳鈺婷",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]建功一路59巷16號",
+        "floor": "1樓",
+        "size": "321.04平方公尺",
+        "size_in": "321.04平方公尺",
+        "size_out": "",
+        "tel": "(03)5749686",
+        "url": "http:\/\/antigua.topschool.com.tw\/",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "b1492d78-c17a-4559-a948-d6f5e3cae98e",
+        "monthly": 16117
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9956882,
+            24.80033
+        ]
+    }
+}

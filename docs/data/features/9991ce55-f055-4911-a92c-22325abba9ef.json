@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11234566500號",
+        "reg_docno": "高市教幼字第11234566500號",
+        "reg_date": "2023\/06\/27",
+        "title": "高雄市私立太陽花幼兒園",
+        "owner": "梁傑閔",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "私立",
+        "address": "[812]安美街118號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,094平方公尺",
+        "size_in": "1,246.63平方公尺",
+        "size_out": "847.37平方公尺",
+        "tel": "(07)7918255",
+        "url": "",
+        "count_approved": "301",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "9991ce55-f055-4911-a92c-22325abba9ef",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3652554,
+            22.5854245
+        ]
+    }
+}

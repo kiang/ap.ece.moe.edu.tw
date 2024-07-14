@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1110176692號",
+        "reg_docno": "府教特字第0953009921號",
+        "reg_date": "2006\/04\/13",
+        "title": "臺東縣延平鄉鸞山國民小學附設幼兒園",
+        "owner": "林素慧",
+        "city": "臺東縣",
+        "town": "延平鄉",
+        "type": "公立",
+        "address": "[953]14號",
+        "floor": "1樓",
+        "size": "283平方公尺",
+        "size_in": "129平方公尺",
+        "size_out": "154平方公尺",
+        "tel": "(089)568027#30",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8f8126d3-551f-4fd6-9745-0c1949032f86",
+        "monthly": 3656
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.063714,
+            22.893705
+        ]
+    }
+}

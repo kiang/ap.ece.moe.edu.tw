@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第10138073900號",
+        "reg_docno": "府社福字第71664號",
+        "reg_date": "1991\/05\/22",
+        "title": "高雄市私立家家幼兒園",
+        "owner": "劉姿蓉",
+        "city": "高雄市",
+        "town": "燕巢區",
+        "type": "私立",
+        "address": "[824]中民路433之2號",
+        "floor": "2",
+        "size": "296.12平方公尺",
+        "size_in": "170.4平方公尺",
+        "size_out": "125.72平方公尺",
+        "tel": "(07)6166800",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "41a0973d-b001-494b-983f-1eab6dc23bce",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.365355,
+            22.7933823
+        ]
+    }
+}

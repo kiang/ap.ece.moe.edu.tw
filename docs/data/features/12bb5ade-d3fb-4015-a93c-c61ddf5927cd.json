@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010019324號",
+        "reg_docno": "府教國字字第54148號",
+        "reg_date": "1985\/07\/19",
+        "title": "臺中市私立今日幼兒園",
+        "owner": "沈郭貴代",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]甘肅路一段209號",
+        "floor": "1樓至3樓",
+        "size": "3,471.21平方公尺",
+        "size_in": "2,386.64平方公尺",
+        "size_out": "1,084.57平方公尺",
+        "tel": "(04)23131055",
+        "url": "http:\/www.todayking.com",
+        "count_approved": "690",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "bf32fce1-e57d-4594-8f8d-8d3ef9b0879b",
+        "monthly": 9735
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.65641,
+            24.16878
+        ]
+    }
+}

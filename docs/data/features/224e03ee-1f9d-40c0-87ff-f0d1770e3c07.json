@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1050062636號",
+        "reg_docno": "中市府社婦字第9229號",
+        "reg_date": "2003\/12\/09",
+        "title": "臺中市私立貝登堡東英幼兒園",
+        "owner": "陳朝國",
+        "city": "臺中市",
+        "town": "東區",
+        "type": "私立",
+        "address": "[401]東英路456號1,2樓",
+        "floor": "1樓、2樓",
+        "size": "2,814.06平方公尺",
+        "size_in": "2,301.03平方公尺",
+        "size_out": "513.03平方公尺",
+        "tel": "(04)22139999",
+        "url": "",
+        "count_approved": "330",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "224e03ee-1f9d-40c0-87ff-f0d1770e3c07",
+        "monthly": 9135
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.7059995,
+            24.1406893
+        ]
+    }
+}

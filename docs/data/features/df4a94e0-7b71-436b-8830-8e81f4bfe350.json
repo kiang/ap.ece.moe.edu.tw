@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第11200168556號",
+        "reg_docno": "府人一字第43192號",
+        "reg_date": "1995\/04\/25",
+        "title": "嘉義縣番路鄉立番路幼兒園",
+        "owner": "蕭博勝",
+        "city": "嘉義縣",
+        "town": "番路鄉",
+        "type": "公立",
+        "address": "[602]菜公店101之5號",
+        "floor": "一樓至三樓",
+        "size": "2,231.04平方公尺",
+        "size_in": "950.77平方公尺",
+        "size_out": "1,280.27平方公尺",
+        "tel": "(05)2590728",
+        "url": "Http:\/\/www.fanlu.gov.tw",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "df4a94e0-7b71-436b-8830-8e81f4bfe350",
+        "monthly": 3766
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.55407,
+            23.464504
+        ]
+    }
+}

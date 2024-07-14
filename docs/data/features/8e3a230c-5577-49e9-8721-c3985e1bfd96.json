@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1102438021號",
+        "reg_docno": "府教特字第1035411433號",
+        "reg_date": "2014\/02\/01",
+        "title": "雲林縣古坑鄉草嶺生態地質國民小學附設幼兒園",
+        "owner": "蔡鳴哲",
+        "city": "雲林縣",
+        "town": "古坑鄉",
+        "type": "公立",
+        "address": "[646]草嶺56之8號",
+        "floor": "1樓",
+        "size": "11,281.78平方公尺",
+        "size_in": "1,750.81平方公尺",
+        "size_out": "9,530.97平方公尺",
+        "tel": "(05)5831010",
+        "url": "",
+        "count_approved": "20",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8e3a230c-5577-49e9-8721-c3985e1bfd96",
+        "monthly": 4005
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.694434,
+            23.58632
+        ]
+    }
+}

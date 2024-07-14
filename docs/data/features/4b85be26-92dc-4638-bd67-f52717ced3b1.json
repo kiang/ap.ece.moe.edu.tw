@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040031527號",
+        "reg_docno": "82府教國字第177457號",
+        "reg_date": "1993\/08\/26",
+        "title": "桃園市私立福華幼兒園",
+        "owner": "鄭簡秋香",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]坤成街57號",
+        "floor": "1樓",
+        "size": "1,110平方公尺",
+        "size_in": "360平方公尺",
+        "size_out": "720平方公尺",
+        "tel": "(03)3569218",
+        "url": "",
+        "count_approved": "180",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "4b85be26-92dc-4638-bd67-f52717ced3b1",
+        "monthly": 13393
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.3141802,
+            25.0139354
+        ]
+    }
+}

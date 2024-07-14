@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府社福字第09700069059號",
+        "reg_docno": "府社福字第09700069059號",
+        "reg_date": "2008\/11\/15",
+        "title": "金門縣私立肯利熊優質幼兒園",
+        "owner": "王怡人",
+        "city": "金門縣",
+        "town": "金湖鎮",
+        "type": "私立",
+        "address": "[891]塔后47-12號",
+        "floor": "1",
+        "size": "355.05平方公尺",
+        "size_in": "197.68平方公尺",
+        "size_out": "157.37平方公尺",
+        "tel": "(082)335570",
+        "url": "",
+        "count_approved": "70",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "30aa65b4-c4cf-4958-9154-e05be0844a70",
+        "monthly": 7667
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.407954,
+            24.437641
+        ]
+    }
+}

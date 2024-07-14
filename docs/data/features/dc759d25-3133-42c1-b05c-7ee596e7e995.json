@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第29號",
+        "reg_docno": "北市教前字第11131064191號",
+        "reg_date": "2023\/02\/08",
+        "title": "國防部資通電軍指揮部崇德隆盛職場互助教保服務中心（委託財團法人三之三生命教育基金會辦理）",
+        "owner": "吳文宗",
+        "city": "臺北市",
+        "town": "文山區",
+        "type": "私立",
+        "address": "[116]汀州路四段239及241號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29332241",
+        "url": "評鑑情形：",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "dc759d25-3133-42c1-b05c-7ee596e7e995",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.53563,
+            25.0019485
+        ]
+    }
+}

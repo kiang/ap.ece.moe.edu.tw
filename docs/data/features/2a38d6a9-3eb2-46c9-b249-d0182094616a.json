@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1119550148號",
+        "reg_docno": "府教幼字第1100070078號",
+        "reg_date": "2022\/01\/24",
+        "title": "新竹縣私立喬大幼兒園",
+        "owner": "巫祐辰",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "私立",
+        "address": "[303]中正二路18號一樓",
+        "floor": "1樓",
+        "size": "1,116.61平方公尺",
+        "size_in": "207.49平方公尺",
+        "size_out": "524.32平方公尺",
+        "tel": "(03)5902997",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "2a38d6a9-3eb2-46c9-b249-d0182094616a",
+        "monthly": 5000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0461668,
+            24.8960467
+        ]
+    }
+}

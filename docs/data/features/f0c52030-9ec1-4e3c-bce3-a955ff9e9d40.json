@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1110105152號",
+        "reg_docno": "中市教幼字第1110105152號",
+        "reg_date": "2022\/12\/09",
+        "title": "國防部陸軍司令部崑崙職場互助教保服務中心(委託社團法人幼兒教保協會辦理)",
+        "owner": "林以凱",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]皇城街90號",
+        "floor": "1樓",
+        "size": "202.75平方公尺",
+        "size_in": "202.75平方公尺",
+        "size_out": "",
+        "tel": "(04)22991258",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=100085505850344&locale=zh_TW",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f0c52030-9ec1-4e3c-bce3-a955ff9e9d40",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6618306,
+            24.1751127
+        ]
+    }
+}

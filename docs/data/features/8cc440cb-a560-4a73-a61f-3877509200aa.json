@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680瑞芳0006之2號",
+        "reg_docno": "八九北府教幼字第270345號",
+        "reg_date": "2000\/07\/19",
+        "title": "新北市立瑞芳國民中學附設幼兒園",
+        "owner": "許憶雯",
+        "city": "新北市",
+        "town": "瑞芳區",
+        "type": "公立",
+        "address": "[224]三爪子坑路1號",
+        "floor": "1樓",
+        "size": "660平方公尺",
+        "size_in": "300平方公尺",
+        "size_out": "360平方公尺",
+        "tel": "(02)24972145#234",
+        "url": "http:\/\/css000000132930.tw.class.uschoolnet.com\/",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8cc440cb-a560-4a73-a61f-3877509200aa",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.817515,
+            25.105562
+        ]
+    }
+}

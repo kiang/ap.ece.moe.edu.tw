@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1040074472號",
+        "reg_docno": "八三府教國字第93659號",
+        "reg_date": "1994\/08\/02",
+        "title": "桃園市私立慧兒園幼兒園",
+        "owner": "呂正諒",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]自強南路278巷2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3504553",
+        "url": "wherewen.woby.com.tw\/",
+        "count_approved": "210",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：31",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9d3a2bb6-b0a4-460e-bcdb-011d643007b4",
+        "monthly": 9900
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.335671,
+            24.9906789
+        ]
+    }
+}

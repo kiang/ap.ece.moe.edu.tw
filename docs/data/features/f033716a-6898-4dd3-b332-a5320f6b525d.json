@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1080074904號",
+        "reg_docno": "府教特字第1070033005號",
+        "reg_date": "2018\/03\/02",
+        "title": "新竹市私立聖奇幼兒園",
+        "owner": "吳貞儀",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]慈濟路268號",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,002.32平方公尺",
+        "size_in": "1,100.46平方公尺",
+        "size_out": "901.86平方公尺",
+        "tel": "(03)5785268",
+        "url": "",
+        "count_approved": "290",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f033716a-6898-4dd3-b332-a5320f6b525d",
+        "monthly": 23380
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0151625,
+            24.7925155
+        ]
+    }
+}

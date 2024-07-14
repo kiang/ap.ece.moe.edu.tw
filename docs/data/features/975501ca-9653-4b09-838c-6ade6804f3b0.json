@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11236510500號",
+        "reg_docno": "府教國字第0910011761號",
+        "reg_date": "2002\/01\/17",
+        "title": "高雄市私立鳥松大自然幼兒園",
+        "owner": "施燕雪",
+        "city": "高雄市",
+        "town": "鳥松區",
+        "type": "私立",
+        "address": "[833]美山路254巷35-2號",
+        "floor": "3",
+        "size": "582.57平方公尺",
+        "size_in": "252.42平方公尺",
+        "size_out": "330.15平方公尺",
+        "tel": "(07)7310757",
+        "url": "",
+        "count_approved": "88",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "975501ca-9653-4b09-838c-6ade6804f3b0",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.394602,
+            22.653487
+        ]
+    }
+}

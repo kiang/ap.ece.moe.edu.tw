@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1010160457號",
+        "reg_docno": "基府社福貳字第1000187611號",
+        "reg_date": "2011\/11\/23",
+        "title": "基隆市私立小象幼兒園",
+        "owner": "張秀宇",
+        "city": "基隆市",
+        "town": "七堵區",
+        "type": "私立",
+        "address": "[206]崇禮街28號1-3樓",
+        "floor": "1樓至3樓",
+        "size": "278.85平方公尺",
+        "size_in": "266.7平方公尺",
+        "size_out": "",
+        "tel": "(02)24557788",
+        "url": "",
+        "count_approved": "31",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8b493353-4b5d-4038-b2e3-c6c5fb847ee0",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.715378,
+            25.097971
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特二字第1122406869號",
+        "reg_docno": "八三府人一字第157809號",
+        "reg_date": "1994\/07\/27",
+        "title": "雲林縣西螺鎮立幼兒園",
+        "owner": "廖秋萍",
+        "city": "雲林縣",
+        "town": "西螺鎮",
+        "type": "公立",
+        "address": "[648]興農西路105巷21-1號",
+        "floor": "1樓、2樓、3樓",
+        "size": "3,462.84平方公尺",
+        "size_in": "2,544.73平方公尺",
+        "size_out": "918.11平方公尺",
+        "tel": "(05)5866221",
+        "url": "",
+        "count_approved": "550",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6f538584-4a88-4667-aa0b-f9fec5742a32",
+        "monthly": 4067
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.463404,
+            23.793377
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11037398200號",
+        "reg_docno": "高市教幼字第10835280700號",
+        "reg_date": "2019\/08\/07",
+        "title": "高雄市中山非營利幼兒園(委託社團法人高雄市婦幼培訓關懷協會辦理)",
+        "owner": "張文強",
+        "city": "高雄市",
+        "town": "鼓山區",
+        "type": "非營利",
+        "address": "[804]雄峰路18號",
+        "floor": "1樓、2樓、3樓",
+        "size": "5,383.13平方公尺",
+        "size_in": "2,848.39平方公尺",
+        "size_out": "2,534.74平方公尺",
+        "tel": "(07)5886090",
+        "url": "評鑑情形：",
+        "count_approved": "244",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "975c2b32-66c7-48ed-b18b-517b0312c433",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2850395,
+            22.6690948
+        ]
+    }
+}

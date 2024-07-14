@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11033981200號",
+        "reg_docno": "府社福字第0950273840號",
+        "reg_date": "2006\/11\/24",
+        "title": "高雄市私立欣容幼兒園",
+        "owner": "王雅玲",
+        "city": "高雄市",
+        "town": "岡山區",
+        "type": "私立",
+        "address": "[820]本洲一街75巷11號1樓",
+        "floor": "1樓",
+        "size": "847.33平方公尺",
+        "size_in": "451.82平方公尺",
+        "size_out": "395.51平方公尺",
+        "tel": "(07)6226777",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "687e0965-2482-4001-8c03-9c78fd637f80",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.2604078,
+            22.8086886
+        ]
+    }
+}

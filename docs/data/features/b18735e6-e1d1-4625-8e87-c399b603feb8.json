@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1101544849號",
+        "reg_docno": "八五北府教三字第311996號",
+        "reg_date": "1996\/09\/06",
+        "title": "新北市三峽區建安國民小學附設幼兒園",
+        "owner": "林美秀",
+        "city": "新北市",
+        "town": "三峽區",
+        "type": "公立",
+        "address": "[237]建安路67號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26726783#105",
+        "url": "http:\/\/sheepclass.blogspot.com\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "b18735e6-e1d1-4625-8e87-c399b603feb8",
+        "monthly": 3728
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.447118,
+            24.9263189
+        ]
+    }
+}

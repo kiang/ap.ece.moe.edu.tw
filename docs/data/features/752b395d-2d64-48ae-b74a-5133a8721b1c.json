@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1090205123號",
+        "reg_docno": "投府教學字第90190648號",
+        "reg_date": "2001\/11\/28",
+        "title": "南投縣水里鄉新興國民小學附設幼兒園",
+        "owner": "周進科",
+        "city": "南投縣",
+        "town": "水里鄉",
+        "type": "公立",
+        "address": "[553]新興巷15號",
+        "floor": "1",
+        "size": "550平方公尺",
+        "size_in": "150平方公尺",
+        "size_out": "310平方公尺",
+        "tel": "(049)2811080",
+        "url": "http:\/\/www.sseps.ntct.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "752b395d-2d64-48ae-b74a-5133a8721b1c",
+        "monthly": 3100
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.871187,
+            23.884033
+        ]
+    }
+}

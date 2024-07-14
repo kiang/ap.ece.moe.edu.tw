@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第423-3號",
+        "reg_docno": "北市教輝三字第7185號",
+        "reg_date": "1972\/03\/06",
+        "title": "臺北市私立育成幼兒園",
+        "owner": "張書語",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]承德路四段12巷10.12.14號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28858002",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "cef4de07-6bd7-4529-9136-1e20ef7cff15",
+        "monthly": 4000
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.521392,
+            25.079982
+        ]
+    }
+}

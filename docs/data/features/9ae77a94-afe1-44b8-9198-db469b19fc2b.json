@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1010032496號",
+        "reg_docno": "府社幼字第0940031235號",
+        "reg_date": "2005\/01\/28",
+        "title": "臺中市私立尚恩幼兒園",
+        "owner": "林君儀",
+        "city": "臺中市",
+        "town": "沙鹿區",
+        "type": "私立",
+        "address": "[433]北勢二街12號",
+        "floor": "1樓、2樓、3樓",
+        "size": "383.47平方公尺",
+        "size_in": "301.86平方公尺",
+        "size_out": "81.61平方公尺",
+        "tel": "(04)26315232",
+        "url": "www.sunsnursery.org.tw",
+        "count_approved": "70",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9ae77a94-afe1-44b8-9198-db469b19fc2b",
+        "monthly": 4250
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.570219,
+            24.230216
+        ]
+    }
+}

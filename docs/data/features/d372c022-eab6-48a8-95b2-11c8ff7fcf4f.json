@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教前字第11152694700號",
+        "reg_docno": "屏府教前字第11152694700號",
+        "reg_date": "2022\/08\/11",
+        "title": "台電公司屏東區營業處職場互助教保服務中心（委託社團法人中華幼兒教育改革研究會辦理）",
+        "owner": "陳淑琴",
+        "city": "屏東縣",
+        "town": "屏東市",
+        "type": "私立",
+        "address": "[900]忠孝路329號2樓",
+        "floor": "2樓",
+        "size": "167.62平方公尺",
+        "size_in": "133.05平方公尺",
+        "size_out": "",
+        "tel": "(08)7655029",
+        "url": "評鑑情形：",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d372c022-eab6-48a8-95b2-11c8ff7fcf4f",
+        "monthly": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4925584,
+            22.6952961
+        ]
+    }
+}

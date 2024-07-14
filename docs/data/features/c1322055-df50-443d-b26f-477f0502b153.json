@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教國字第1080900350號",
+        "reg_docno": "府社福字第0981002016號",
+        "reg_date": "2003\/05\/13",
+        "title": "澎湖縣白沙鄉立幼兒園吉貝分班",
+        "owner": "",
+        "city": "澎湖縣",
+        "town": "白沙鄉",
+        "type": "公立",
+        "address": "[884]2之5號",
+        "floor": "1樓",
+        "size": "178.6平方公尺",
+        "size_in": "88.2平方公尺",
+        "size_out": "90.4平方公尺",
+        "tel": "(06)9911478",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c1322055-df50-443d-b26f-477f0502b153",
+        "monthly": 3220
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.612963,
+            23.741779
+        ]
+    }
+}

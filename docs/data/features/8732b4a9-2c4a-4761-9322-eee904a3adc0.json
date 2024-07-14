@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1120167683號",
+        "reg_docno": "宜府教國字第30635號",
+        "reg_date": "1961\/07\/19",
+        "title": "財團法人天主教宜蘭救主修女會附設宜蘭縣私立汎米亞幼兒園",
+        "owner": "莊金若",
+        "city": "宜蘭縣",
+        "town": "宜蘭市",
+        "type": "私立",
+        "address": "[260]神農路二段72號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)9357927",
+        "url": "",
+        "count_approved": "255",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "8732b4a9-2c4a-4761-9322-eee904a3adc0",
+        "monthly": 9317
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.751275,
+            24.751559
+        ]
+    }
+}

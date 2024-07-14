@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11035687200號",
+        "reg_docno": "高市教國字第090836號",
+        "reg_date": "1973\/09\/01",
+        "title": "高雄市三民區十全國民小學附設幼兒園",
+        "owner": "李致誠",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "公立",
+        "address": "[807]十全二路162號",
+        "floor": "1樓至2樓",
+        "size": "1,308.22平方公尺",
+        "size_in": "344平方公尺",
+        "size_out": "964.22平方公尺",
+        "tel": "(07)3214366#115",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "38212522-879a-4388-9b03-74777e8edc43",
+        "monthly": 3992
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.298314,
+            22.646713
+        ]
+    }
+}

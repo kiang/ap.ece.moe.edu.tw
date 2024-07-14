@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教學字第1070036415號",
+        "reg_docno": "(74)連教字第05075號",
+        "reg_date": "1985\/06\/28",
+        "title": "連江縣莒光鄉東莒國民小學附設幼兒園",
+        "owner": "劉碧雲",
+        "city": "連江縣",
+        "town": "莒光鄉",
+        "type": "公立",
+        "address": "[211]4號",
+        "floor": "1樓",
+        "size": "4,952平方公尺",
+        "size_in": "127平方公尺",
+        "size_out": "4,825平方公尺",
+        "tel": "(0836)89043#507",
+        "url": "http:\/\/www.djps.matsu.edu.tw\/",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "84c0f41a-d6cf-4858-8c41-ba67edb9c763",
+        "monthly": 2806
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.980745,
+            25.958122
+        ]
+    }
+}
