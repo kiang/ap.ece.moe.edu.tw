@@ -23,8 +23,9 @@
         "is_after": "有，人數：11",
         "penalty": "無",
         "has_slip": "yes",
-        "id": "19631a6a-154b-43d3-9869-303a3a48c9f9",
-        "monthly": 4200
+        "id": "9e696fbf-4e7c-4830-8b94-019a267a03bf",
+        "monthly": 4200,
+        "is_active": 0
     },
     "geometry": {
         "type": "Point",
