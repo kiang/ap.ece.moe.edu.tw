@@ -33,7 +33,7 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
         if ($data['has_slip'] === 'no') {
             continue;
         }
-        $rawPath = $basePath . '/raw/slip112/' . $data['city'];
+        $rawPath = $basePath . '/raw/slip113/' . $data['city'];
         if (!file_exists($rawPath)) {
             mkdir($rawPath, 0777, true);
         }
