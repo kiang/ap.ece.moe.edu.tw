@@ -14,13 +14,13 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
     }
 }
 
-foreach (glob($basePath . '/raw/slip112/*/*.html') as $htmlFile) {
+foreach (glob($basePath . '/raw/slip113/*/*.html') as $htmlFile) {
     $p = pathinfo($htmlFile);
     $city = pathinfo($p['dirname'])['filename'];
     if(!isset($meta[$city][$p['filename']])) {
         continue;
     }
-    $targetPath = str_replace('raw/slip112', 'docs/data/slip112', $p['dirname']);
+    $targetPath = str_replace('raw/slip113', 'docs/data/slip113', $p['dirname']);
     if (!file_exists($targetPath)) {
         mkdir($targetPath, 0777, true);
     }

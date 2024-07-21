@@ -2,7 +2,7 @@
 $basePath = dirname(__DIR__);
 
 $fh = [];
-foreach (glob($basePath . '/docs/data/slip112/*/*.json') as $jsonFile) {
+foreach (glob($basePath . '/docs/data/slip113/*/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
     if(empty($json['meta'])) {
         unlink($jsonFile);
