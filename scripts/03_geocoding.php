@@ -1,6 +1,5 @@
 <?php
 $basePath = dirname(__DIR__);
-$config = require $basePath . '/config.php';
 $rawPath = $basePath . '/raw/geocoding';
 
 $monthlyPool = [];
