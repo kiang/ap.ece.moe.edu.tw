@@ -22,9 +22,9 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "no",
+        "has_slip": "yes",
         "id": "bf3d5323-2596-4608-8e5d-f8d7f13f48e2",
-        "monthly": 15000,
+        "monthly": 15888,
         "is_active": 1
     },
     "geometry": {
