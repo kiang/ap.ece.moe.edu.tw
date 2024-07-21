@@ -22,6 +22,17 @@ $client->setServerParameter('HTTP_USER_AGENT', 'Mozilla/5.0 (X11; Ubuntu; Linux 
 
 $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/pubSearch.aspx');
 
+if (!file_exists(__DIR__ . '/base')) {
+    mkdir(__DIR__ . '/base', 0777, true);
+}
+if (!file_exists(__DIR__ . '/failed')) {
+    mkdir(__DIR__ . '/failed', 0777, true);
+}
+
+if (!file_exists(__DIR__ . '/qq.txt')) {
+    file_put_contents(__DIR__ . '/qq.txt', '');
+}
+
 $form = $crawler->selectButton('搜尋')->form();
 $taskFound = false;
 $domDocument = new \DOMDocument;
