@@ -334,5 +334,13 @@
     "sid": "MQA4ADgAMQAyADAAMAAwADUANgA=",
     "name": "(私立)高雄市私立雨安幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.58339,
+    "lng": 120.367838,
+    "sid": "MQA4ADgAMQAyADAAMAAwADUANwA=",
+    "name": "(非營利)高雄市明義非營利幼兒園(委託社團法人高雄市幼童教育關懷協會辦理)",
+    "type": "spub2"
   }
 ]

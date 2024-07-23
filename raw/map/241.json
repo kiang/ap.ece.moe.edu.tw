@@ -702,5 +702,13 @@
     "sid": "MAAzADIANAAxADAAMAAwADkAOAA=",
     "name": "(私立)新北市私立富群幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.052494,
+    "lng": 121.484371,
+    "sid": "MAAzADIANAAxADAAMAAwADkAOQA=",
+    "name": "(私立)品哲文化股份有限公司附設新北市私立英群幼兒園",
+    "type": "spub1"
   }
 ]
