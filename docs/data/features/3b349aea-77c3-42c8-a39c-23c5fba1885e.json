@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11335327200號",
+        "reg_docno": "高市教幼字第11335327200號",
+        "reg_date": "2024\/07\/11",
+        "title": "高雄市凹子底非營利幼兒園(委託財團法人樹德科技大學設立之樹德科技大學辦理)",
+        "owner": "王昭雄",
+        "city": "高雄市",
+        "town": "鼓山區",
+        "type": "非營利",
+        "address": "[804]裕誠路1857號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "評鑑情形：",
+        "count_approved": "380",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3b349aea-77c3-42c8-a39c-23c5fba1885e",
+        "monthly": "",
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            "120.2942",
+            "22.656502"
+        ]
+    }
+}

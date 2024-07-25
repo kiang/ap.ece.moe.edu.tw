@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11335357900號",
+        "reg_docno": "高市教幼字第11335357900號",
+        "reg_date": "2024\/07\/12",
+        "title": "高雄市明義非營利幼兒園(委託社團法人高雄市幼童教育關懷協會辦理)",
+        "owner": "張文強",
+        "city": "高雄市",
+        "town": "小港區",
+        "type": "非營利",
+        "address": "[812]明義街77號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)5886090",
+        "url": "評鑑情形：",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9ea923b9-d9ef-4627-a6d3-2465b3d06aa1",
+        "monthly": "",
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.367838,
+            22.58339
+        ]
+    }
+}

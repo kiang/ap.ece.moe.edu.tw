@@ -14,7 +14,7 @@
         "size": "",
         "size_in": "",
         "size_out": "",
-        "tel": "申請中",
+        "tel": "(07)3744600",
         "url": "",
         "count_approved": "410",
         "shuttle": "",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            "120.33657",
-            "22.675336"
+            120.33657,
+            22.675337
         ]
     }
 }

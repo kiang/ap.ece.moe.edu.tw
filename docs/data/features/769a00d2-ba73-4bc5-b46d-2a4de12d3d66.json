@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11335169100號",
+        "reg_docno": "府教特字第0970206416號",
+        "reg_date": "2008\/08\/28",
+        "title": "高雄市私立麵包樹幼兒園",
+        "owner": "王旭華",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]文教路18號",
+        "floor": "1樓",
+        "size": "732.9平方公尺",
+        "size_in": "347.02平方公尺",
+        "size_out": "385.88平方公尺",
+        "tel": "(07)7195588",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "769a00d2-ba73-4bc5-b46d-2a4de12d3d66",
+        "monthly": "",
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.3490067,
+            22.6340266
+        ]
+    }
+}
