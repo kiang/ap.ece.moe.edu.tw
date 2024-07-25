@@ -11,7 +11,7 @@ foreach (glob($basePath . '/docs/data/summary1/*/*.csv') as $csvFile) {
         if ('準公共化' != $data['type']) {
             $monthly = $data['monthly1'] + $data['monthly2'];
         } else {
-            $monthly = 3500 + $data['monthly2'];
+            $monthly = 3000 + $data['monthly2'];
         }
 
         if (!isset($monthlyPool[$data['point']]) || $monthlyPool[$data['point']] > $monthly) {
@@ -44,6 +44,7 @@ $pool = [
     '苗栗縣后庄非營利幼兒園（委託社團法人幼兒教保協會辦理）' => [120.896318, 24.698128],
     '苗栗縣銅鑼鄉新隆國民小學附設幼兒園' => [120.809213, 24.430106],
     '嘉義縣竹崎鄉圓崇國民小學附設幼兒園' => [120.504025, 23.49023],
+    '南投縣私立光隆幼兒園' => [120.682517, 23.995032]
 ];
 foreach (glob($basePath . '/raw/map/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
