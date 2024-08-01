@@ -12,8 +12,8 @@
     "lat": 25.1152099,
     "lng": 121.509395,
     "sid": "MAAyADEAMQAyADAAMAAwADAAMgA=",
-    "name": "(私立)臺北市私立心幼文幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立心幼文幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -68,8 +68,8 @@
     "lat": 25.126901,
     "lng": 121.467808,
     "sid": "MAAyADEAMQAyADAAMAAwADEAMQA=",
-    "name": "(私立)臺北市私立采郁蒙特梭利幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立采郁蒙特梭利幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -460,8 +460,8 @@
     "lat": 25.131484,
     "lng": 121.502176,
     "sid": "MAAyADEAMQAyADAAMAAwADYANQA=",
-    "name": "(準公共)臺北市私立天華幼兒園",
-    "type": "spub3"
+    "name": "(私立)臺北市私立天華幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,

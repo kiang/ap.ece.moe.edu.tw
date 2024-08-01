@@ -60,8 +60,8 @@
     "lat": 24.099632,
     "lng": 120.687997,
     "sid": "MAA5ADQAMQAyADAAMAAwADEAMgA=",
-    "name": "(準公共)臺中市私立常愛幼兒園",
-    "type": "spub3"
+    "name": "(私立)臺中市私立常愛幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -108,8 +108,8 @@
     "lat": 24.114949,
     "lng": 120.672334,
     "sid": "MAA5ADQAMQAyADAAMAAwADIAMQA=",
-    "name": "(私立)臺中市私立喬治亞幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立喬治亞幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -140,8 +140,8 @@
     "lat": 24.10792,
     "lng": 120.710182,
     "sid": "MAA5ADQAMQAyADAAMAAwADIAOAA=",
-    "name": "(準公共)臺中市私立双葉幼兒園",
-    "type": "spub3"
+    "name": "(私立)臺中市私立双葉幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,

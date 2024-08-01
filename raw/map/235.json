@@ -68,8 +68,8 @@
     "lat": 24.9995649,
     "lng": 121.473928,
     "sid": "MAAzADIAMwA1ADAAMAAwADEAMQA=",
-    "name": "(私立)新北市私立中仁幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立中仁幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -140,8 +140,8 @@
     "lat": 25.0025829,
     "lng": 121.469636,
     "sid": "MAAzADIAMwA1ADAAMAAwADIANQA=",
-    "name": "(私立)新北市私立中和松柏幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立中和松柏幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -220,8 +220,8 @@
     "lat": 25.001145,
     "lng": 121.479251,
     "sid": "MAAzADIAMwA1ADAAMAAwADMAOQA=",
-    "name": "(私立)新北市私立佳南幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立佳南幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -556,8 +556,8 @@
     "lat": 24.99125,
     "lng": 121.5085394,
     "sid": "MAAzADIAMwA1ADAAMAAwADgANwA=",
-    "name": "(私立)新北市私立景平幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立景平幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -678,6 +678,14 @@
     "sid": "MAAzADIAMwA1ADAAMAAxADAANwA=",
     "name": "(準公共)新北市私立慈祐幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.9971308,
+    "lng": 121.501883,
+    "sid": "MAAzADIAMwA1ADAAMAAxADAAOAA=",
+    "name": "(私立)內政部國土管理署北區都市基礎工程分署職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+    "type": "spub1"
   },
   {
     "newsch": 1,

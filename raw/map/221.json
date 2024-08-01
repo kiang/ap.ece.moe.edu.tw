@@ -4,8 +4,8 @@
     "lat": 25.0666912,
     "lng": 121.6650358,
     "sid": "MAAzADIAMgAxADAAMAAwADAAMQA=",
-    "name": "(私立)新北市私立芝蔴城幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立芝蔴城幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -116,8 +116,8 @@
     "lat": 25.064993,
     "lng": 121.653467,
     "sid": "MAAzADIAMgAxADAAMAAwADEANgA=",
-    "name": "(私立)新北市私立大愛幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立大愛幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -148,8 +148,8 @@
     "lat": 25.04876,
     "lng": 121.618897,
     "sid": "MAAzADIAMgAxADAAMAAwADIAMQA=",
-    "name": "(私立)新北市私立安格幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立安格幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -324,8 +324,8 @@
     "lat": 25.0732893,
     "lng": 121.662199,
     "sid": "MAAzADIAMgAxADAAMAAwADQANwA=",
-    "name": "(私立)新北市私立新華德幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立新華德幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -468,7 +468,7 @@
     "lat": 25.061639,
     "lng": 121.647966,
     "sid": "MAAzADIAMgAxADAAMAAwADcAMwA=",
-    "name": "(私立)財團法人福智文教基金會附設新北市澄心職場互助教保服務中心",
-    "type": "spub1"
+    "name": "(準公共)財團法人福智文教基金會附設新北市澄心職場互助教保服務中心",
+    "type": "spub3"
   }
 ]

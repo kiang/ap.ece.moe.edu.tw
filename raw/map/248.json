@@ -12,8 +12,8 @@
     "lat": 25.1022173,
     "lng": 121.450889,
     "sid": "MAAzADIANAA4ADAAMAAwADAAMgA=",
-    "name": "(準公共)新北市私立良華幼兒園",
-    "type": "spub3"
+    "name": "(私立)新北市私立良華幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -44,8 +44,8 @@
     "lat": 25.073089,
     "lng": 121.434197,
     "sid": "MAAzADIANAA4ADAAMAAwADAANwA=",
-    "name": "(私立)新北市私立德寶幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立德寶幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -204,8 +204,8 @@
     "lat": 25.09837,
     "lng": 121.4492711,
     "sid": "MAAzADIANAA4ADAAMAAwADIANQA=",
-    "name": "(私立)新北市私立小百科幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立小百科幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

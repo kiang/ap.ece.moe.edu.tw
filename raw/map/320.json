@@ -92,8 +92,8 @@
     "lat": 24.943762,
     "lng": 121.259193,
     "sid": "MAA1ADMAMgAwADAAMAAwADEANwA=",
-    "name": "(私立)桃園市私立綠蒂幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立綠蒂幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -172,16 +172,16 @@
     "lat": 24.9375938,
     "lng": 121.2496065,
     "sid": "MAA1ADMAMgAwADAAMAAwADIAOQA=",
-    "name": "(私立)桃園市私立綠光長頸鹿幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立綠光長頸鹿幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.996307,
     "lng": 121.209873,
     "sid": "MAA1ADMAMgAwADAAMAAwADMAMAA=",
-    "name": "(私立)桃園市私立田園幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立田園幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -396,8 +396,8 @@
     "lat": 24.9517621,
     "lng": 121.2310048,
     "sid": "MAA1ADMAMgAwADAAMAAwADYANwA=",
-    "name": "(私立)桃園市私立百合精緻幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立百合精緻幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -444,8 +444,8 @@
     "lat": 24.9530479,
     "lng": 121.256065,
     "sid": "MAA1ADMAMgAwADAAMAAwADcANAA=",
-    "name": "(私立)桃園市私立星球幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立星球幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -660,8 +660,8 @@
     "lat": 24.9450342,
     "lng": 121.2569636,
     "sid": "MAA1ADMAMgAwADAAMAAxADAANwA=",
-    "name": "(私立)桃園市私立綠光幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立綠光幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -828,7 +828,7 @@
     "lat": 24.962783,
     "lng": 121.213285,
     "sid": "MAA1ADMAMgAwADAAMAAxADIANwA=",
-    "name": "(私立)桃園市私立唯妮蒙氏幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立唯妮蒙氏幼兒園",
+    "type": "spub3"
   }
 ]

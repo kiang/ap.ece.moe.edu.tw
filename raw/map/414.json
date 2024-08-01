@@ -220,23 +220,23 @@
     "lat": 24.1114779,
     "lng": 120.5930618,
     "sid": "MAA5ADQAMQA0ADAAMAAwADIANgA=",
-    "name": "(私立)臺中市私立森林熊幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立森林熊幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.1058934,
     "lng": 120.6233558,
     "sid": "MAA5ADQAMQA0ADAAMAAwADIANwA=",
-    "name": "(私立)臺中市私立精英幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立精英幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.105775,
     "lng": 120.6385702,
     "sid": "MAA5ADQAMQA0ADAAMAAwADIAOAA=",
-    "name": "(私立)臺中市私立童悅幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立童悅幼兒園",
+    "type": "spub3"
   }
 ]

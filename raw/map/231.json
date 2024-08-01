@@ -52,8 +52,8 @@
     "lat": 24.9806295,
     "lng": 121.5482208,
     "sid": "MAAzADIAMwAxADAAMAAwADAAOAA=",
-    "name": "(私立)新北市私立立大幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立立大幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -156,16 +156,16 @@
     "lat": 24.971733,
     "lng": 121.542263,
     "sid": "MAAzADIAMwAxADAAMAAwADIANAA=",
-    "name": "(私立)新北市私立佳欣中正幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立佳欣中正幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.972562,
     "lng": 121.542384,
     "sid": "MAAzADIAMwAxADAAMAAwADIANQA=",
-    "name": "(私立)新北市私立佳欣北新幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立佳欣北新幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -420,8 +420,8 @@
     "lat": 24.969354,
     "lng": 121.517079,
     "sid": "MAAzADIAMwAxADAAMAAwADUAOAA=",
-    "name": "(私立)新北市私立博安幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立博安幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

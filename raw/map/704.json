@@ -60,8 +60,8 @@
     "lat": 23.0119871,
     "lng": 120.195586,
     "sid": "MQA2ADcAMAA0ADAAMAAwADAAOAA=",
-    "name": "(私立)臺南市私立皇佳幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立皇佳幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -164,8 +164,8 @@
     "lat": 23.005668,
     "lng": 120.224912,
     "sid": "MQA2ADcAMAA0ADAAMAAwADIAMwA=",
-    "name": "(準公共)臺南市私立東松幼兒園",
-    "type": "spub3"
+    "name": "(私立)臺南市私立東松幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -284,7 +284,7 @@
     "lat": 23.0067,
     "lng": 120.2166536,
     "sid": "MQA2ADcAMAA0ADAAMAAwADQAMwA=",
-    "name": "(私立)臺南市私立哈波特幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立哈波特幼兒園",
+    "type": "spub3"
   }
 ]

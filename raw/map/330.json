@@ -204,8 +204,8 @@
     "lat": 24.9823396,
     "lng": 121.3172315,
     "sid": "MAA1ADMAMwAwADAAMAAwADMAMgA=",
-    "name": "(準公共)桃園市私立建興幼兒園",
-    "type": "spub3"
+    "name": "(私立)桃園市私立建興幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -428,8 +428,8 @@
     "lat": 24.9856631,
     "lng": 121.2896034,
     "sid": "MAA1ADMAMwAwADAAMAAwADYAMQA=",
-    "name": "(私立)桃園市私立國際長頸鹿幼兒園",
-    "type": "spub1"
+    "name": "(準公共)桃園市私立國際長頸鹿幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

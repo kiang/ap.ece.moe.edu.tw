@@ -76,16 +76,16 @@
     "lat": 22.741252,
     "lng": 120.324921,
     "sid": "MQA4ADgAMgA1ADAAMAAwADEAMwA=",
-    "name": "(私立)高雄市私立漂鳥森林幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立漂鳥森林幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.7416554,
     "lng": 120.3250011,
     "sid": "MQA4ADgAMgA1ADAAMAAwADEAMwAtADAAMQA=",
-    "name": "(私立)高雄市私立漂鳥森林幼兒園台糖花卉分班",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立漂鳥森林幼兒園台糖花卉分班",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -100,15 +100,15 @@
     "lat": 22.7521673,
     "lng": 120.3156106,
     "sid": "MQA4ADgAMgA1ADAAMAAwADEANQA=",
-    "name": "(私立)高雄市私立漂鳥糖廠森林幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立漂鳥糖廠森林幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.757472,
     "lng": 120.306708,
     "sid": "MQA4ADgAMgA1ADAAMAAwADEANgA=",
-    "name": "(私立)高雄市私立貝思幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立貝思幼兒園",
+    "type": "spub3"
   }
 ]

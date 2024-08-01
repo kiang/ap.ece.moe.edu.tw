@@ -68,16 +68,16 @@
     "lat": 23.006965,
     "lng": 120.255982,
     "sid": "MQA2ADcAMQAwADAAMAAwADEAMgA=",
-    "name": "(私立)臺南市私立永強繪本藝術幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立永強繪本藝術幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 23.028839,
     "lng": 120.257651,
     "sid": "MQA2ADcAMQAwADAAMAAwADEAMwA=",
-    "name": "(私立)臺南市私立幼華幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立幼華幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -324,8 +324,8 @@
     "lat": 23.015341,
     "lng": 120.268851,
     "sid": "MQA2ADcAMQAwADAAMAAwADQAOAA=",
-    "name": "(私立)臺南市私立上恩幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺南市私立上恩幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

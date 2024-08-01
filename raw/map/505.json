@@ -44,8 +44,8 @@
     "lat": 24.0607619,
     "lng": 120.444738,
     "sid": "MQAxADUAMAA1ADAAMAAwADAAOAA=",
-    "name": "(私立)彰化縣私立天真幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立天真幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -196,15 +196,15 @@
     "lat": 24.095947,
     "lng": 120.472635,
     "sid": "MQAxADUAMAA1ADAAMAAwADMAMQA=",
-    "name": "(私立)彰化縣私立鹿鳴村幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立鹿鳴村幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.05919,
     "lng": 120.442604,
     "sid": "MQAxADUAMAA1ADAAMAAwADMAMgA=",
-    "name": "(私立)彰化縣私立菁華幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立菁華幼兒園",
+    "type": "spub3"
   }
 ]

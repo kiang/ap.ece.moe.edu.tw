@@ -68,8 +68,8 @@
     "lat": 25.053706,
     "lng": 121.45353,
     "sid": "MAAzADIANAAyADAAMAAwADEAMAA=",
-    "name": "(私立)新北市私立和智幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立和智幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -84,8 +84,8 @@
     "lat": 25.040913,
     "lng": 121.458503,
     "sid": "MAAzADIANAAyADAAMAAwADEAMgA=",
-    "name": "(準公共)新北市私立親親袋鼠幼兒園",
-    "type": "spub3"
+    "name": "(私立)新北市私立親親袋鼠幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -828,8 +828,8 @@
     "lat": 25.056096,
     "lng": 121.443924,
     "sid": "MAAzADIANAAyADAAMAAxADIANgA=",
-    "name": "(私立)社團法人新竹市教保人員協會附設新北市私立新莊聯合幼兒園",
-    "type": "spub1"
+    "name": "(非營利)行政院新莊聯合辦公大樓各進駐機關員工子女非營利幼兒園(委託社團法人新竹市教保人員協會辦理)",
+    "type": "spub2"
   },
   {
     "newsch": 1,

@@ -28,8 +28,8 @@
     "lat": 23.961055,
     "lng": 120.56578,
     "sid": "MQAxADUAMQAwADAAMAAwADAANQA=",
-    "name": "(準公共)彰化縣私立一勤幼兒園",
-    "type": "spub3"
+    "name": "(私立)彰化縣私立一勤幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -116,8 +116,8 @@
     "lat": 23.9570023,
     "lng": 120.5819007,
     "sid": "MQAxADUAMQAwADAAMAAwADEANwA=",
-    "name": "(私立)彰化縣私立大衛營幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立大衛營幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -316,8 +316,8 @@
     "lat": 23.971315,
     "lng": 120.576676,
     "sid": "MQAxADUAMQAwADAAMAAwADQAMQA=",
-    "name": "(私立)彰化縣私立橙菓幼兒園",
-    "type": "spub1"
+    "name": "(準公共)彰化縣私立橙菓幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

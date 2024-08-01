@@ -196,8 +196,8 @@
     "lat": 25.0096215,
     "lng": 121.4620562,
     "sid": "MAAzADIAMgAwADAAMAAwADMAMwA=",
-    "name": "(準公共)新北市私立福音幼兒園",
-    "type": "spub3"
+    "name": "(私立)新北市私立福音幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -524,8 +524,8 @@
     "lat": 25.017207,
     "lng": 121.474205,
     "sid": "MAAzADIAMgAwADAAMAAwADcAOAA=",
-    "name": "(私立)新北市私立全能愛彌兒板橋幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立全能愛彌兒板橋幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -1132,8 +1132,8 @@
     "lat": 25.0165059,
     "lng": 121.454526,
     "sid": "MAAzADIAMgAwADAAMAAxADYAMAA=",
-    "name": "(準公共)新北市私立幼華幼兒園",
-    "type": "spub3"
+    "name": "(私立)新北市私立幼華幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,

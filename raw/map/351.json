@@ -84,8 +84,8 @@
     "lat": 24.6864131,
     "lng": 120.9116951,
     "sid": "MAA4ADMANQAxADAAMAAwADEANQA=",
-    "name": "(準公共)苗栗縣私立全人幼兒園",
-    "type": "spub3"
+    "name": "(私立)苗栗縣私立全人幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -244,7 +244,7 @@
     "lat": 24.693666,
     "lng": 120.904038,
     "sid": "MAA4ADMANQAxADAAMAAwADQAMAA=",
-    "name": "(私立)苗栗縣私立頭份名人幼兒園",
-    "type": "spub1"
+    "name": "(準公共)苗栗縣私立頭份名人幼兒園",
+    "type": "spub3"
   }
 ]

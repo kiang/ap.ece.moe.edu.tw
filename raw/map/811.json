@@ -4,8 +4,8 @@
     "lat": 22.711245,
     "lng": 120.291059,
     "sid": "MQA4ADgAMQAxADAAMAAwADAAMQA=",
-    "name": "(準公共)高雄市私立育志幼兒園",
-    "type": "spub3"
+    "name": "(私立)高雄市私立育志幼兒園",
+    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -68,8 +68,8 @@
     "lat": 22.717962,
     "lng": 120.285271,
     "sid": "MQA4ADgAMQAxADAAMAAwADEAMAA=",
-    "name": "(私立)高雄市私立達仁幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立達仁幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -356,15 +356,15 @@
     "lat": 22.726938,
     "lng": 120.28958,
     "sid": "MQA4ADgAMQAxADAAMAAwADUANQA=",
-    "name": "(私立)高雄市私立楠梓哈波特幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立楠梓哈波特幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.729305,
     "lng": 120.28755,
     "sid": "MQA4ADgAMQAxADAAMAAwADUANgA=",
-    "name": "(私立)高雄市私立保進菁華幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立保進菁華幼兒園",
+    "type": "spub3"
   }
 ]
