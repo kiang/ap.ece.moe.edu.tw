@@ -238,5 +238,13 @@
     "sid": "MQA4ADgAMAA0ADAAMAAwADQAMQA=",
     "name": "(準公共)高雄市私立麗澤幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.656511,
+    "lng": 120.294203,
+    "sid": "MQA4ADgAMAA0ADAAMAAwADQAMgA=",
+    "name": "(非營利)高雄市凹子底非營利幼兒園(委託財團法人樹德科技大學設立之樹德科技大學辦理)",
+    "type": "spub2"
   }
 ]
