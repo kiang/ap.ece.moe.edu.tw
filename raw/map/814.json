@@ -188,15 +188,15 @@
     "lat": 22.687932,
     "lng": 120.348112,
     "sid": "MQA4ADgAMQA0ADAAMAAwADMAMAA=",
-    "name": "(私立)高雄市私立維尼頓幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立維尼頓幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 22.704706,
     "lng": 120.350993,
     "sid": "MQA4ADgAMQA0ADAAMAAwADMAMQA=",
-    "name": "(私立)高雄市私立昕紀元幼兒園",
-    "type": "spub1"
+    "name": "(準公共)高雄市私立昕紀元幼兒園",
+    "type": "spub3"
   }
 ]
