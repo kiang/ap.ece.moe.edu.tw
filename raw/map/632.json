@@ -158,5 +158,13 @@
     "sid": "MQAzADYAMwAyADAAMAAwADIANAA=",
     "name": "(公立)雲林縣虎尾鎮大屯國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.70751,
+    "lng": 120.45125,
+    "sid": "MQAzADYAMwAyADAAMAAwADIANQA=",
+    "name": "(非營利)雲林縣平和非營利幼兒園(委託社團法人雲林縣幼兒教育發展協會辦理)",
+    "type": "spub2"
   }
 ]

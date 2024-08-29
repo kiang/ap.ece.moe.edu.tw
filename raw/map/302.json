@@ -321,14 +321,6 @@
   },
   {
     "newsch": 1,
-    "lat": 24.8051981,
-    "lng": 121.0498247,
-    "sid": "MAA3ADMAMAAyADAAMAAwADQAOQAtADAAMwA=",
-    "name": "(公立)新竹縣竹北市立幼兒園東海分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
     "lat": 24.868561,
     "lng": 120.9947,
     "sid": "MAA3ADMAMAAyADAAMAAwADQAOQAtADAAOAA=",
@@ -774,5 +766,13 @@
     "sid": "MAA3ADMAMAAyADAAMAAxADEANAA=",
     "name": "(私立)新竹縣私立千心幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.828326,
+    "lng": 121.024505,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEANQA=",
+    "name": "(公立)新竹縣立勝利國民中學附設幼兒園",
+    "type": "spub0"
   }
 ]

@@ -382,5 +382,13 @@
     "sid": "MAAzADIAMwA4ADAAMAAwADUANQA=",
     "name": "(私立)新北市私立珈和幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.950172,
+    "lng": 121.381598,
+    "sid": "MAAzADIAMwA4ADAAMAAwADUANgA=",
+    "name": "(非營利)新北市桃子腳非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+    "type": "spub2"
   }
 ]

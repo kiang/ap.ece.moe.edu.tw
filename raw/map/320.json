@@ -830,5 +830,13 @@
     "sid": "MAA1ADMAMgAwADAAMAAxADIANwA=",
     "name": "(準公共)桃園市私立唯妮蒙氏幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.937796,
+    "lng": 121.25659,
+    "sid": "MAA1ADMAMgAwADAAMAAxADIAOAA=",
+    "name": "(非營利)桃園市中堅非營利幼兒園(委託社團法人臺灣三之三生命教育學會辦理)",
+    "type": "spub2"
   }
 ]
