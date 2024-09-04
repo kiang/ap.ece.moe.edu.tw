@@ -9,10 +9,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]豐樂北一路30號1,2,3樓",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1~3",
+        "size": "1,801.87平方公尺",
+        "size_in": "1,214.91平方公尺",
+        "size_out": "586.96平方公尺",
         "tel": "(04)24229455",
         "url": "https:\/\/dingjian.topschool.tw\/Home\/Main",
         "count_approved": "205",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "no"
+        "has_slip": "yes"
     },
     "slip": {
         "5": {

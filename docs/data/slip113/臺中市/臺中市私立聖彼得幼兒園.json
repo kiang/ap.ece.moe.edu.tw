@@ -9,10 +9,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]和福路179號1,2,3樓",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1-3樓",
+        "size": "697.75平方公尺",
+        "size_in": "650.01平方公尺",
+        "size_out": "47.74平方公尺",
         "tel": "(04)24360770",
         "url": "",
         "count_approved": "130",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "no"
+        "has_slip": "yes"
     },
     "slip": {
         "5": {

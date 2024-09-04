@@ -9,10 +9,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]軍和街87號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1-3樓",
+        "size": "1,824.8平方公尺",
+        "size_in": "1,219.2平方公尺",
+        "size_out": "605.6平方公尺",
         "tel": "(04)24362355",
         "url": "",
         "count_approved": "316",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "有，人數：102",
         "penalty": "有",
-        "has_slip": "no"
+        "has_slip": "yes"
     },
     "slip": {
         "5": {

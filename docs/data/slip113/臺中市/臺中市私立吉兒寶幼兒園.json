@@ -9,10 +9,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]天津路四段219號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1.2.3",
+        "size": "1,904.55平方公尺",
+        "size_in": "1,460.25平方公尺",
+        "size_out": "444.3平方公尺",
         "tel": "(04)22380088",
         "url": "http:\/\/joybear.tacomall.com.tw",
         "count_approved": "240",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "no"
+        "has_slip": "yes"
     },
     "slip": {
         "5": {

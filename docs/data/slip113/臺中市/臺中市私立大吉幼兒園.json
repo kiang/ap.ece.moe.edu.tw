@@ -9,10 +9,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]敦化路一段616號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1-3",
+        "size": "2,813.89平方公尺",
+        "size_in": "2,167.78平方公尺",
+        "size_out": "646.11平方公尺",
         "tel": "(04)24258396",
         "url": "www.greenlandkids.com.tw",
         "count_approved": "300",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "no"
+        "has_slip": "yes"
     },
     "slip": {
         "5": {

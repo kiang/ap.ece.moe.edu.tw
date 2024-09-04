@@ -9,10 +9,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]景和街169、171號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1",
+        "size": "2,349.22平方公尺",
+        "size_in": "475.43平方公尺",
+        "size_out": "1,873.79平方公尺",
         "tel": "(04)24365032",
         "url": "",
         "count_approved": "210",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "no"
+        "has_slip": "yes"
     },
     "slip": {
         "5": {
