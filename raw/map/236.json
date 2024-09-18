@@ -502,5 +502,13 @@
     "sid": "MAAzADIAMwA2ADAAMAAwADgAMAA=",
     "name": "(私立)新北市私立維妮爾國際幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.982011,
+    "lng": 121.46531,
+    "sid": "MAAzADIAMwA2ADAAMAAwADgAMQA=",
+    "name": "(非營利)新北市清水高中非營利幼兒園(委託財團法人台北市中華基督教青年會辦理)",
+    "type": "spub2"
   }
 ]
