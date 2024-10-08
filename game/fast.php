@@ -92,7 +92,7 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
                      * 
                      * tessedit_char_whitelist abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
                      */
-                    exec('/snap/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq letters');
+                    exec('/usr/bin/tesseract ' . __DIR__ . '/qq.png ' . __DIR__ . '/qq letters');
                     $ans = file_get_contents(__DIR__ . '/qq.txt');
                     $ans = preg_replace('/[^0-9a-z]+/i', '', $ans);
                     if (strlen($ans) === 5) {
