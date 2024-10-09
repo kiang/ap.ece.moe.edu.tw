@@ -10,10 +10,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]青島路4段219號1F",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1",
+        "size": "518.13平方公尺",
+        "size_in": "389.5平方公尺",
+        "size_out": "128.63平方公尺",
         "tel": "(04)22330665",
         "url": "",
         "count_approved": "70",
@@ -24,7 +24,7 @@
         "penalty": "有",
         "has_slip": "yes",
         "id": "28fe409c-65da-4099-9993-38d0a9f96d19",
-        "monthly": 4100,
+        "monthly": 3750,
         "is_active": 1
     },
     "geometry": {

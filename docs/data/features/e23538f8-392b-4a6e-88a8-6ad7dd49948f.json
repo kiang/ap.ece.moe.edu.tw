@@ -10,10 +10,10 @@
         "town": "中壢區",
         "type": "私立",
         "address": "[320]新中北路558號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1-3樓",
+        "size": "2,472.43平方公尺",
+        "size_in": "1,469.23平方公尺",
+        "size_out": "1,003.2平方公尺",
         "tel": "(03)4355555",
         "url": "Http:\/\/reindeer.com.tw",
         "count_approved": "480",
@@ -24,7 +24,7 @@
         "penalty": "無",
         "has_slip": "yes",
         "id": "e23538f8-392b-4a6e-88a8-6ad7dd49948f",
-        "monthly": 12089,
+        "monthly": 12263,
         "is_active": 1
     },
     "geometry": {

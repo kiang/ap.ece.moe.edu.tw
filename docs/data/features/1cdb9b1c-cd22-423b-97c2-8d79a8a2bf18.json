@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130063632號",
+        "reg_docno": "中市教幼字第1120015385號",
+        "reg_date": "2023\/03\/20",
+        "title": "大都會文教事業有限公司附設臺中市私立大都會探索幼兒園",
+        "owner": "廖祿昇",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]龍富路五段199號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22559333#121",
+        "url": "",
+        "count_approved": "694",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "1cdb9b1c-cd22-423b-97c2-8d79a8a2bf18",
+        "monthly": 31137,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6282328,
+            24.1562321
+        ]
+    }
+}

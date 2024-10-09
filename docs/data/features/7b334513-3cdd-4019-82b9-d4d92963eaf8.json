@@ -14,7 +14,7 @@
         "size": "",
         "size_in": "",
         "size_out": "",
-        "tel": "(02)29703228",
+        "tel": "(02)29728080",
         "url": "",
         "count_approved": "270",
         "shuttle": "",
@@ -22,9 +22,9 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "no",
+        "has_slip": "yes",
         "id": "7b334513-3cdd-4019-82b9-d4d92963eaf8",
-        "monthly": "",
+        "monthly": 22115,
         "is_active": 1
     },
     "geometry": {

@@ -10,10 +10,10 @@
         "town": "梧棲區",
         "type": "私立",
         "address": "[435]中和街170巷18號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓至2樓",
+        "size": "742.56平方公尺",
+        "size_in": "330.67平方公尺",
+        "size_out": "411.89平方公尺",
         "tel": "(04)26581000",
         "url": "http:\/\/www.26581000.com\/",
         "count_approved": "228",
@@ -24,7 +24,7 @@
         "penalty": "有",
         "has_slip": "yes",
         "id": "bb41547f-fa12-4a9b-abfa-08f5b61a15c0",
-        "monthly": 13909,
+        "monthly": 14483,
         "is_active": 1
     },
     "geometry": {

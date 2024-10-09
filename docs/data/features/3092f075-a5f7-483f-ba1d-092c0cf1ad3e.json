@@ -14,24 +14,24 @@
         "size": "",
         "size_in": "",
         "size_out": "",
-        "tel": "申請中",
+        "tel": "(07)3745157",
         "url": "",
         "count_approved": "210",
         "shuttle": "",
-        "pre_public": "無",
+        "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "no",
+        "has_slip": "yes",
         "id": "3092f075-a5f7-483f-ba1d-092c0cf1ad3e",
-        "monthly": "",
+        "monthly": 3750,
         "is_active": 1
     },
     "geometry": {
         "type": "Point",
         "coordinates": [
-            "120.348112",
-            "22.687921"
+            120.348112,
+            22.687932
         ]
     }
 }

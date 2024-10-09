@@ -10,10 +10,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]太順東街60號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓、2樓、3樓",
+        "size": "1,878.27平方公尺",
+        "size_in": "1,270.76平方公尺",
+        "size_out": "607.51平方公尺",
         "tel": "(04)24370470",
         "url": "",
         "count_approved": "259",
@@ -24,7 +24,7 @@
         "penalty": "有",
         "has_slip": "yes",
         "id": "3f1208c2-9455-4195-9d48-74737b2b022f",
-        "monthly": 16500,
+        "monthly": 17658,
         "is_active": 1
     },
     "geometry": {

@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第10800003599中和0112之1號",
+        "reg_docno": "新北府教幼字第1111273788號",
+        "reg_date": "2022\/08\/05",
+        "title": "內政部國土管理署北區都市基礎工程分署職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+        "owner": "邱健凱",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]南山路60之2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22438282",
+        "url": "https:\/\/www.facebook.com\/cpaminorthedu",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "c8513495-6c41-4489-9a38-35c721e2fc03",
+        "monthly": "",
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.501757,
+            24.997119
+        ]
+    }
+}

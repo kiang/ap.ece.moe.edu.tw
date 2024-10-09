@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130213492號",
+        "reg_docno": "65桃府教國字第36394號",
+        "reg_date": "1976\/04\/21",
+        "title": "財團法人天主教德來會附設桃園市私立德來幼兒園",
+        "owner": "蔡宜芬",
+        "city": "桃園市",
+        "town": "桃園區",
+        "type": "私立",
+        "address": "[330]三民路一段2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3323351",
+        "url": "https:\/\/theresaedu.topschool.tw",
+        "count_approved": "300",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "ff16f98d-fd5a-4101-bf62-149499556d17",
+        "monthly": 10368,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.323295,
+            24.996354
+        ]
+    }
+}

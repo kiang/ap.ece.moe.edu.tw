@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1139551655號",
+        "reg_docno": "府授教幼字第1139551655號",
+        "reg_date": "2024\/08\/01",
+        "title": "新竹縣竹東鎮中山國民小學附設幼兒園",
+        "owner": "呂惠紅",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "公立",
+        "address": "[310]中山路70號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5962102",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "4d7ebf9c-c23b-4757-9145-1294dea0abd2",
+        "monthly": 4194,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.094271,
+            24.733723
+        ]
+    }
+}

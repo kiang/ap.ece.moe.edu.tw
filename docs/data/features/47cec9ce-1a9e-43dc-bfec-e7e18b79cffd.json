@@ -10,10 +10,10 @@
         "town": "梧棲區",
         "type": "私立",
         "address": "[435]中央路一段148號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "一樓",
+        "size": "1,517.66平方公尺",
+        "size_in": "613.74平方公尺",
+        "size_out": "903.92平方公尺",
         "tel": "(04)26301357",
         "url": "",
         "count_approved": "193",
@@ -24,7 +24,7 @@
         "penalty": "有",
         "has_slip": "yes",
         "id": "47cec9ce-1a9e-43dc-bfec-e7e18b79cffd",
-        "monthly": 12502,
+        "monthly": 12872,
         "is_active": 1
     },
     "geometry": {

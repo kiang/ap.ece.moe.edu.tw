@@ -10,10 +10,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]仁平街139號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓、2樓、3樓",
+        "size": "2,120.65平方公尺",
+        "size_in": "1,165.75平方公尺",
+        "size_out": "954.9平方公尺",
         "tel": "(04)24366707",
         "url": "",
         "count_approved": "301",
@@ -24,7 +24,7 @@
         "penalty": "無",
         "has_slip": "yes",
         "id": "0133d0d1-9771-4d51-a4e6-195aebe40f43",
-        "monthly": "",
+        "monthly": 3750,
         "is_active": 1
     },
     "geometry": {

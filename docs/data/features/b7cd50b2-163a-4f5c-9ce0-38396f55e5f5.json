@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "基府教前參字第1130235574號",
+        "reg_docno": "基府教前參字第1130235574號",
+        "reg_date": "2024\/08\/15",
+        "title": "基隆市私立飛揚幼兒園",
+        "owner": "徐孝芬",
+        "city": "基隆市",
+        "town": "仁愛區",
+        "type": "私立",
+        "address": "[200]仁一路299號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)24244714",
+        "url": "",
+        "count_approved": "136",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "b7cd50b2-163a-4f5c-9ce0-38396f55e5f5",
+        "monthly": 23795,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.746358,
+            25.128965
+        ]
+    }
+}

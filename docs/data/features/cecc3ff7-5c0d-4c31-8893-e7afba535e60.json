@@ -1,11 +1,11 @@
 {
     "type": "Feature",
     "properties": {
-        "reg_no": "高市教幼字第11134896300號",
+        "reg_no": "高市教幼字第11337490100號",
         "reg_docno": "高市教幼字第10635706400號",
         "reg_date": "2017\/09\/01",
         "title": "高雄市進學非營利幼兒園（委託中山學校財團法人辦理）",
-        "owner": "林昭億",
+        "owner": "陳國清",
         "city": "高雄市",
         "town": "大寮區",
         "type": "非營利",
@@ -21,7 +21,7 @@
         "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
-        "penalty": "無",
+        "penalty": "有",
         "has_slip": "no",
         "id": "cecc3ff7-5c0d-4c31-8893-e7afba535e60",
         "monthly": "",

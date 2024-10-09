@@ -10,10 +10,10 @@
         "town": "太平區",
         "type": "私立",
         "address": "[411]十甲路600號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "3",
+        "size": "1,588.94平方公尺",
+        "size_in": "1,403.45平方公尺",
+        "size_out": "185.49平方公尺",
         "tel": "(04)22734485",
         "url": "http:\/\/www.childworld.url.tw\/",
         "count_approved": "123",
@@ -24,7 +24,7 @@
         "penalty": "有",
         "has_slip": "yes",
         "id": "7970ef6d-5c4b-47a7-90e7-957c8864854b",
-        "monthly": 11533,
+        "monthly": 12583,
         "is_active": 1
     },
     "geometry": {

@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1131157759",
+        "reg_docno": "八七北府教三字第276456號",
+        "reg_date": "1998\/09\/03",
+        "title": "新北市立插角森林實驗小學附設幼兒園",
+        "owner": "宋宏璋",
+        "city": "新北市",
+        "town": "三峽區",
+        "type": "公立",
+        "address": "[237]39號",
+        "floor": "1",
+        "size": "1,337平方公尺",
+        "size_in": "19平方公尺",
+        "size_out": "1,299平方公尺",
+        "tel": "(02)26720230#840",
+        "url": "https:\/\/www.facebook.com\/a860602",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "35e531de-ac1c-45b1-af51-fe5cf845bbba",
+        "monthly": 3828,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.405562,
+            24.871666
+        ]
+    }
+}

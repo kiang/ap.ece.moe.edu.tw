@@ -10,10 +10,10 @@
         "town": "北屯區",
         "type": "私立",
         "address": "[406]旅順路一段208號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1至3樓",
+        "size": "3,050.92平方公尺",
+        "size_in": "2,485.8平方公尺",
+        "size_out": "565.12平方公尺",
         "tel": "(04)22433333#504",
         "url": "http:\/\/www.seasonart.org\/",
         "count_approved": "480",
@@ -24,7 +24,7 @@
         "penalty": "無",
         "has_slip": "yes",
         "id": "009af31e-d014-4bad-b556-31dc356ebb38",
-        "monthly": 17767,
+        "monthly": 18369,
         "is_active": 1
     },
     "geometry": {

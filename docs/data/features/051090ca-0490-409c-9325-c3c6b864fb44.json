@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1111673680土城0082號",
+        "reg_docno": "新北府教幼字第1131452663號",
+        "reg_date": "2024\/07\/31",
+        "title": "新北市私立維妮爾國際幼兒園",
+        "owner": "柯學璵",
+        "city": "新北市",
+        "town": "土城區",
+        "type": "私立",
+        "address": "[236]莊園街167、169號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)22613555",
+        "url": "",
+        "count_approved": "165",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "051090ca-0490-409c-9325-c3c6b864fb44",
+        "monthly": 22915,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.448393,
+            24.981113
+        ]
+    }
+}

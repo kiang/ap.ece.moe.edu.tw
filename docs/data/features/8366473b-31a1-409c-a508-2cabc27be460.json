@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1139551656號",
+        "reg_docno": "府授教幼字第1139551656號",
+        "reg_date": "2024\/08\/01",
+        "title": "新竹縣立勝利國民中學附設幼兒園",
+        "owner": "王淑蘭",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "公立",
+        "address": "[302]智慧一路101號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)6561113#681",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "8366473b-31a1-409c-a508-2cabc27be460",
+        "monthly": 4194,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.024505,
+            24.828326
+        ]
+    }
+}

@@ -10,10 +10,10 @@
         "town": "梧棲區",
         "type": "私立",
         "address": "[435]立德街105號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓至3樓",
+        "size": "3,344.67平方公尺",
+        "size_in": "2,544.65平方公尺",
+        "size_out": "800.02平方公尺",
         "tel": "(04)26565538",
         "url": "",
         "count_approved": "299",
@@ -24,7 +24,7 @@
         "penalty": "無",
         "has_slip": "yes",
         "id": "b250b7d5-1286-44a6-8d4b-8c353808c6b1",
-        "monthly": 12515,
+        "monthly": 13466,
         "is_active": 1
     },
     "geometry": {

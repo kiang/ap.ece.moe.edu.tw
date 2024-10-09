@@ -17,14 +17,14 @@
         "tel": "(037)669865",
         "url": "",
         "count_approved": "180",
-        "shuttle": "",
+        "shuttle": "\t\t",
         "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
         "has_slip": "yes",
         "id": "4269a871-1c58-4748-b05f-335b63f7c280",
-        "monthly": 4500,
+        "monthly": 3750,
         "is_active": 1
     },
     "geometry": {

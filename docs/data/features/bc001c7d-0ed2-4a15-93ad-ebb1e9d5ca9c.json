@@ -10,10 +10,10 @@
         "town": "清水區",
         "type": "私立",
         "address": "[436]信義路3號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓、2樓、3樓",
+        "size": "6,878平方公尺",
+        "size_in": "4,170平方公尺",
+        "size_out": "2,708平方公尺",
         "tel": "(04)26565366",
         "url": "http:\/\/www.jing-jing.com.tw\/",
         "count_approved": "390",
@@ -24,7 +24,7 @@
         "penalty": "無",
         "has_slip": "yes",
         "id": "bc001c7d-0ed2-4a15-93ad-ebb1e9d5ca9c",
-        "monthly": 11087,
+        "monthly": 11237,
         "is_active": 1
     },
     "geometry": {

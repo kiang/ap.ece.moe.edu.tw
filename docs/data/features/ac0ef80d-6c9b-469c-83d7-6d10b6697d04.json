@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130258680號",
+        "reg_docno": "府教幼字第1130258680號",
+        "reg_date": "2024\/09\/20",
+        "title": "桃園市私立復興岡幼兒園",
+        "owner": "張風文",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]仁和街248巷59號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)3670286",
+        "url": "",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ac0ef80d-6c9b-469c-83d7-6d10b6697d04",
+        "monthly": "",
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.318781,
+            24.971893
+        ]
+    }
+}

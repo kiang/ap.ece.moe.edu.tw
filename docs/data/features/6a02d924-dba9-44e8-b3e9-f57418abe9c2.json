@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130064374號",
+        "reg_docno": "中市教幼字第1130064374號",
+        "reg_date": "2024\/08\/01",
+        "title": "臺中市四張犁非營利幼兒園(委託財團法人朝陽科技大學設立之朝陽科技大學辦理)",
+        "owner": "鄭道明",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "非營利",
+        "address": "[406]豐樂路二段133號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24214449",
+        "url": "評鑑情形：",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "6a02d924-dba9-44e8-b3e9-f57418abe9c2",
+        "monthly": "",
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.676558,
+            24.194934
+        ]
+    }
+}

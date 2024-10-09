@@ -1,7 +1,7 @@
 {
     "type": "Feature",
     "properties": {
-        "reg_no": "高市教幼字第10735353600號",
+        "reg_no": "高市教幼字第11337335800號",
         "reg_docno": "高市教國字第073660號",
         "reg_date": "1973\/08\/30",
         "title": "高雄市鼓山區內惟國民小學附設幼兒園",
@@ -16,7 +16,7 @@
         "size_out": "651.04平方公尺",
         "tel": "(07)5515405#7013",
         "url": "http:\/\/school.kh.edu.tw\/index.php?WebID=77",
-        "count_approved": "60",
+        "count_approved": "76",
         "shuttle": "",
         "pre_public": "無",
         "is_free5": "",
@@ -24,7 +24,7 @@
         "penalty": "無",
         "has_slip": "yes",
         "id": "fe7347ea-824e-4be8-b035-29d6db1c36e9",
-        "monthly": 3992,
+        "monthly": 4014,
         "is_active": 1
     },
     "geometry": {

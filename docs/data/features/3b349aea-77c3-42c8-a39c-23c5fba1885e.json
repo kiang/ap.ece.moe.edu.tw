@@ -14,7 +14,7 @@
         "size": "",
         "size_in": "",
         "size_out": "",
-        "tel": "申請中",
+        "tel": "(09)11985513",
         "url": "評鑑情形：",
         "count_approved": "380",
         "shuttle": "",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            "120.2942",
-            "22.656502"
+            120.294203,
+            22.656511
         ]
     }
 }

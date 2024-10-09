@@ -14,7 +14,7 @@
         "size": "",
         "size_in": "",
         "size_out": "",
-        "tel": "(03)4590250",
+        "tel": "(03)4561818",
         "url": "",
         "count_approved": "392",
         "shuttle": "",
@@ -22,9 +22,9 @@
         "is_free5": "",
         "is_after": "有，人數：120",
         "penalty": "無",
-        "has_slip": "no",
+        "has_slip": "yes",
         "id": "79276525-fd4d-4c1c-b2f6-385c422ae35a",
-        "monthly": "",
+        "monthly": 16333,
         "is_active": 1
     },
     "geometry": {

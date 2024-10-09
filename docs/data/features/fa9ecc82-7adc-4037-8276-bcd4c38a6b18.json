@@ -1,11 +1,11 @@
 {
     "type": "Feature",
     "properties": {
-        "reg_no": "高市教幼字第10937271500號",
+        "reg_no": "高市教幼字第11337504200號",
         "reg_docno": "高市教國字第82439號",
         "reg_date": "1977\/08\/28",
         "title": "高雄市前鎮區明正國民小學附設幼兒園",
-        "owner": "張俊民",
+        "owner": "高玉山",
         "city": "高雄市",
         "town": "前鎮區",
         "type": "公立",
@@ -24,7 +24,7 @@
         "penalty": "無",
         "has_slip": "yes",
         "id": "fa9ecc82-7adc-4037-8276-bcd4c38a6b18",
-        "monthly": 3992,
+        "monthly": 4014,
         "is_active": 1
     },
     "geometry": {
