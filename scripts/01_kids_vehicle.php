@@ -9,9 +9,11 @@ include $basePath . '/vendor/autoload.php';
 use Goutte\Client;
 
 $client = new Client();
+$client->setServerParameter('HTTP_USER_AGENT', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36');
 $client->request('GET', 'https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=589&format=1');
 $csvFile = $basePath . '/raw/kids_vehicles.csv';
 file_put_contents($csvFile, $client->getResponse()->getContent());
+exit();
 
 $areas = json_decode(file_get_contents(__DIR__ . '/areas.json'), true);
 $codes = $pool = [];
