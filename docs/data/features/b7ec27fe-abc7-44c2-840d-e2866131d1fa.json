@@ -24,7 +24,7 @@
         "penalty": "無",
         "has_slip": "no",
         "id": "b7ec27fe-abc7-44c2-840d-e2866131d1fa",
-        "monthly": "",
+        "monthly": 2000,
         "is_active": 1
     },
     "geometry": {
