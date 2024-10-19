@@ -97,7 +97,7 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
         if (isset($monthlyPool[$data['title']])) {
             $data['monthly'] = $monthlyPool[$data['title']];
         } else {
-            $data['monthly'] = '';
+            $data['monthly'] = 2000; //非營利幼兒園 or 職場互助教保服務中心
         }
         $pointFound = false;
 
