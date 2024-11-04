@@ -766,5 +766,13 @@
     "sid": "MAA3ADMAMAAyADAAMAAxADEANQA=",
     "name": "(公立)新竹縣立勝利國民中學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.831033,
+    "lng": 121.005648,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEANgA=",
+    "name": "(非營利)新竹縣博愛非營利幼兒園(委託明新學校財團法人設立之明新科技大學辦理)",
+    "type": "spub2"
   }
 ]
