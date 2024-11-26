@@ -1,696 +1,696 @@
 [
   {
     "newsch": 1,
-    "lat": 24.806893,
-    "lng": 120.936174,
+    "lat": 24.806717,
+    "lng": 120.936254,
     "sid": "MAA2ADMAMAAwADAAMAAwADAAMQA=",
     "name": "(私立)新竹市私立延平幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.802155,
-    "lng": 120.997999,
+    "lat": 24.80242,
+    "lng": 120.99794,
     "sid": "MAA2ADMAMAAwADAAMAAwADAAMgA=",
     "name": "(私立)新竹市私立維也那書院幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.805695,
-    "lng": 120.953188,
+    "lat": 24.805568,
+    "lng": 120.95344,
     "sid": "MAA2ADMAMAAwADAAMAAwADAAMwA=",
     "name": "(私立)新竹市私立福曼莎幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.79521,
-    "lng": 120.960287,
+    "lat": 24.79583,
+    "lng": 120.960263,
     "sid": "MAA2ADMAMAAwADAAMAAwADAANAA=",
     "name": "(私立)新竹市私立同信蒙特梭利福曼莎幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.801962,
-    "lng": 120.9597011,
+    "lat": 24.802014,
+    "lng": 120.959525,
     "sid": "MAA2ADMAMAAwADAAMAAwADAANQA=",
     "name": "(私立)新竹市私立研田賦育幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.795983,
-    "lng": 120.980266,
+    "lat": 24.796013,
+    "lng": 120.980259,
     "sid": "MAA2ADMAMAAwADAAMAAwADAANgA=",
     "name": "(準公共)新竹市私立華興幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.818986,
-    "lng": 120.924336,
+    "lat": 24.819599,
+    "lng": 120.920512,
     "sid": "MAA2ADMAMAAwADAAMAAwADAANwA=",
     "name": "(私立)新竹市私立綠太陽幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.793652,
-    "lng": 120.921924,
+    "lat": 24.794119,
+    "lng": 120.92204,
     "sid": "MAA2ADMAMAAwADAAMAAwADAAOAA=",
     "name": "(準公共)新竹市私立東方幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.8055831,
-    "lng": 120.967265,
+    "lat": 24.806312,
+    "lng": 120.966682,
     "sid": "MAA2ADMAMAAwADAAMAAwADAAOQA=",
     "name": "(私立)新竹市私立研田幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8385251,
-    "lng": 120.938325,
+    "lat": 24.838033,
+    "lng": 120.938113,
     "sid": "MAA2ADMAMAAwADAAMAAwADEAMAA=",
     "name": "(私立)新竹市私立天仁幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.795559,
-    "lng": 120.944851,
+    "lat": 24.795145,
+    "lng": 120.945208,
     "sid": "MAA2ADMAMAAwADAAMAAwADEAMgA=",
     "name": "(準公共)新竹市私立菲曼伲藝術幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.798415,
-    "lng": 120.993853,
+    "lat": 24.798744,
+    "lng": 120.99304,
     "sid": "MAA2ADMAMAAwADAAMAAwADEANAA=",
     "name": "(私立)新竹市私立光復高級中學附設實驗幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.796216,
-    "lng": 120.959499,
+    "lat": 24.794636,
+    "lng": 120.96006,
     "sid": "MAA2ADMAMAAwADAAMAAwADEANQA=",
     "name": "(準公共)新竹市私立菲曼伲智兒館藝術幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7966602,
-    "lng": 120.954025,
+    "lat": 24.797009,
+    "lng": 120.954126,
     "sid": "MAA2ADMAMAAwADAAMAAwADEANgA=",
     "name": "(準公共)新竹市私立但以理幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.821636,
-    "lng": 120.967323,
+    "lat": 24.82193,
+    "lng": 120.967378,
     "sid": "MAA2ADMAMAAwADAAMAAwADEANwA=",
     "name": "(準公共)新竹市私立荷蘭村幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7936533,
-    "lng": 120.9245278,
+    "lat": 24.793248,
+    "lng": 120.923793,
     "sid": "MAA2ADMAMAAwADAAMAAwADEAOQA=",
     "name": "(準公共)新竹市私立同心園幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.762341,
-    "lng": 121.019951,
+    "lat": 24.762334,
+    "lng": 121.019478,
     "sid": "MAA2ADMAMAAwADAAMAAwADIAMAA=",
     "name": "(私立)台灣積體電路製造股份有限公司職工福利委員會附設新竹市私立台積電幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.778058,
-    "lng": 120.987804,
+    "lat": 24.777874,
+    "lng": 120.987891,
     "sid": "MAA2ADMAMAAwADAAMAAwADIAMQA=",
     "name": "(私立)智邦科技股份有限公司職工福利委員會附設新竹市私立智邦幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7802071,
-    "lng": 120.998043,
+    "lat": 24.7803,
+    "lng": 120.998153,
     "sid": "MAA2ADMAMAAwADAAMAAwADIAMgA=",
     "name": "(私立)智邦科技股份有限公司職工福利委員會附設新竹市私立智邦二廠幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.820162,
-    "lng": 120.978422,
+    "lat": 24.820289,
+    "lng": 120.978108,
     "sid": "MAA2ADMAMAAwADAAMAAwADIAMwA=",
     "name": "(準公共)新竹市私立美滿幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.782202,
-    "lng": 121.018931,
+    "lat": 24.783141,
+    "lng": 121.019378,
     "sid": "MAA2ADMAMAAwADAAMAAwADIANAA=",
     "name": "(私立)新竹市私立源順幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7962121,
-    "lng": 120.967566,
+    "lat": 24.795816,
+    "lng": 120.967472,
     "sid": "MAA2ADMAMAAwADAAMAAwADIANQA=",
     "name": "(準公共)新竹市私立新源興幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7991261,
-    "lng": 120.933939,
+    "lat": 24.799204,
+    "lng": 120.934334,
     "sid": "MAA2ADMAMAAwADAAMAAwADIANwA=",
     "name": "(私立)新竹市私立晨光幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.792713,
-    "lng": 120.973131,
+    "lat": 24.792609,
+    "lng": 120.973219,
     "sid": "MAA2ADMAMAAwADAAMAAwADIAOAA=",
     "name": "(私立)財團法人台灣基督長老教會聖經學院附設新竹市私立仁光幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8094291,
-    "lng": 120.967305,
+    "lat": 24.809617,
+    "lng": 120.967108,
     "sid": "MAA2ADMAMAAwADAAMAAwADIAOQA=",
     "name": "(私立)財團法人台灣省天主教會新竹教區附設新竹市私立德蘭幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.823585,
-    "lng": 120.964797,
+    "lat": 24.823259,
+    "lng": 120.964228,
     "sid": "MAA2ADMAMAAwADAAMAAwADMAMAA=",
     "name": "(私立)新竹市私立童欣幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8091431,
-    "lng": 120.957599,
+    "lat": 24.809149,
+    "lng": 120.957502,
     "sid": "MAA2ADMAMAAwADAAMAAwADMAMQA=",
     "name": "(私立)新竹市私立幼福幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.798888,
-    "lng": 120.954899,
+    "lat": 24.798936,
+    "lng": 120.954932,
     "sid": "MAA2ADMAMAAwADAAMAAwADMAMgA=",
     "name": "(私立)新竹市私立信義幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7884301,
-    "lng": 121.01824,
+    "lat": 24.788429,
+    "lng": 121.018229,
     "sid": "MAA2ADMAMAAwADAAMAAwADMANAA=",
     "name": "(私立)新竹市私立新莊幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8056081,
-    "lng": 120.948826,
+    "lat": 24.805534,
+    "lng": 120.948725,
     "sid": "MAA2ADMAMAAwADAAMAAwADMANgA=",
     "name": "(準公共)新竹市私立成功幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.811156,
-    "lng": 120.966819,
+    "lat": 24.811202,
+    "lng": 120.966854,
     "sid": "MAA2ADMAMAAwADAAMAAwADMANwA=",
     "name": "(準公共)新竹市私立文筑幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.8208361,
-    "lng": 120.968815,
+    "lat": 24.820987,
+    "lng": 120.968782,
     "sid": "MAA2ADMAMAAwADAAMAAwADMAOQA=",
     "name": "(私立)新竹市私立漢聲幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.817585,
-    "lng": 120.976128,
+    "lat": 24.817429,
+    "lng": 120.975986,
     "sid": "MAA2ADMAMAAwADAAMAAwADQAMAA=",
     "name": "(私立)新竹市私立華德幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.743182,
-    "lng": 120.905447,
+    "lat": 24.743058,
+    "lng": 120.905491,
     "sid": "MAA2ADMAMAAwADAAMAAwADQAMQA=",
     "name": "(準公共)新竹市私立鴻光幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.820795,
-    "lng": 120.967197,
+    "lat": 24.821586,
+    "lng": 120.966998,
     "sid": "MAA2ADMAMAAwADAAMAAwADQAMgA=",
     "name": "(準公共)新竹市私立慈恩幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.783167,
-    "lng": 121.020635,
+    "lat": 24.782669,
+    "lng": 121.020699,
     "sid": "MAA2ADMAMAAwADAAMAAwADQANAA=",
     "name": "(準公共)新竹市私立博玉幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.798237,
-    "lng": 120.976738,
+    "lat": 24.798212,
+    "lng": 120.976728,
     "sid": "MAA2ADMAMAAwADAAMAAwADQANQA=",
     "name": "(準公共)新竹市私立橙長幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.820955,
-    "lng": 120.974471,
+    "lat": 24.820906,
+    "lng": 120.97448,
     "sid": "MAA2ADMAMAAwADAAMAAwADQANwA=",
     "name": "(準公共)新竹市私立森林王國幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.81707,
-    "lng": 120.972545,
+    "lat": 24.817111,
+    "lng": 120.972573,
     "sid": "MAA2ADMAMAAwADAAMAAwADQAOAA=",
     "name": "(私立)新竹市私立茱蒂園幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8198811,
-    "lng": 120.976513,
+    "lat": 24.819826,
+    "lng": 120.976488,
     "sid": "MAA2ADMAMAAwADAAMAAwADQAOQA=",
     "name": "(準公共)新竹市私立文華幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.783532,
-    "lng": 121.009608,
+    "lat": 24.783545,
+    "lng": 121.009596,
     "sid": "MAA2ADMAMAAwADAAMAAwADUAMAA=",
     "name": "(私立)新竹市私立及幼幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.799219,
-    "lng": 120.963525,
+    "lat": 24.799303,
+    "lng": 120.963599,
     "sid": "MAA2ADMAMAAwADAAMAAwADUAMQA=",
     "name": "(私立)新竹市私立南瓜田幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7980631,
-    "lng": 120.977201,
+    "lat": 24.798021,
+    "lng": 120.977074,
     "sid": "MAA2ADMAMAAwADAAMAAwADUAMgA=",
     "name": "(準公共)新竹市私立德溫幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.78336,
-    "lng": 121.022692,
+    "lat": 24.783327,
+    "lng": 121.022721,
     "sid": "MAA2ADMAMAAwADAAMAAwADUAMwA=",
     "name": "(私立)新竹市私立丹尼爾幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7834351,
-    "lng": 121.02266,
+    "lat": 24.783434,
+    "lng": 121.022669,
     "sid": "MAA2ADMAMAAwADAAMAAwADUANAA=",
     "name": "(私立)新竹市私立丹尼爾關東幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8048513,
-    "lng": 121.0058436,
+    "lat": 24.804597,
+    "lng": 121.005001,
     "sid": "MAA2ADMAMAAwADAAMAAwADUANQA=",
     "name": "(私立)新竹市私立塏欣幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.81277,
-    "lng": 120.959113,
+    "lat": 24.813452,
+    "lng": 120.957988,
     "sid": "MAA2ADMAMAAwADAAMAAwADUANgA=",
     "name": "(私立)新竹市私立普利斯堡幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.788008,
-    "lng": 121.00346,
+    "lat": 24.787817,
+    "lng": 121.003409,
     "sid": "MAA2ADMAMAAwADAAMAAwADUANwA=",
     "name": "(準公共)新竹市私立貞彥幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7986691,
-    "lng": 120.941553,
+    "lat": 24.798688,
+    "lng": 120.941814,
     "sid": "MAA2ADMAMAAwADAAMAAwADUAOAA=",
     "name": "(私立)新竹市私立喬治叔叔幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.797994,
-    "lng": 120.944117,
+    "lat": 24.797926,
+    "lng": 120.944129,
     "sid": "MAA2ADMAMAAwADAAMAAwADUAOQA=",
     "name": "(準公共)新竹市私立奇德爾幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.809598,
-    "lng": 120.955427,
+    "lat": 24.809625,
+    "lng": 120.955477,
     "sid": "MAA2ADMAMAAwADAAMAAwADYAMAA=",
     "name": "(準公共)新竹市私立薇心幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.796041,
-    "lng": 120.98023,
+    "lat": 24.795624,
+    "lng": 120.980254,
     "sid": "MAA2ADMAMAAwADAAMAAwADYAMwA=",
     "name": "(準公共)新竹市私立新華興幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.779853,
-    "lng": 120.97823699999999,
+    "lat": 24.779672,
+    "lng": 120.978057,
     "sid": "MAA2ADMAMAAwADAAMAAwADYANAA=",
     "name": "(準公共)財團法人新竹市私立新竹仁愛兒童之家附設新竹市私立仁愛幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.796197,
-    "lng": 120.980309,
+    "lat": 24.7962,
+    "lng": 120.980836,
     "sid": "MAA2ADMAMAAwADAAMAAwADYANQA=",
     "name": "(準公共)新竹市私立新華興東區幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.809292,
-    "lng": 120.973223,
+    "lat": 24.809229,
+    "lng": 120.973216,
     "sid": "MAA2ADMAMAAwADAAMAAwADYANgA=",
     "name": "(私立)新竹市私立親仁實驗幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.813868,
-    "lng": 120.97905,
+    "lat": 24.813609,
+    "lng": 120.979014,
     "sid": "MAA2ADMAMAAwADAAMAAwADYAOQA=",
     "name": "(準公共)新竹市私立親親寶貝幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7841791,
-    "lng": 121.020661,
+    "lat": 24.784193,
+    "lng": 121.020759,
     "sid": "MAA2ADMAMAAwADAAMAAwADcAMAA=",
     "name": "(準公共)新竹市私立新儒林幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.78439,
-    "lng": 121.010979,
+    "lat": 24.784664,
+    "lng": 121.011476,
     "sid": "MAA2ADMAMAAwADAAMAAwADcAMQA=",
     "name": "(私立)新竹市私立研田科園幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.801664,
-    "lng": 120.957049,
+    "lat": 24.801696,
+    "lng": 120.957017,
     "sid": "MAA2ADMAMAAwADAAMAAwADcAMgA=",
     "name": "(準公共)新竹市私立森森幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.83586,
-    "lng": 120.944573,
+    "lat": 24.83606,
+    "lng": 120.944773,
     "sid": "MAA2ADMAMAAwADAAMAAwADcANQA=",
     "name": "(私立)新竹市私立快樂地幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.793112,
-    "lng": 120.968466,
+    "lat": 24.793084,
+    "lng": 120.968456,
     "sid": "MAA2ADMAMAAwADAAMAAwADcANwA=",
     "name": "(私立)新竹市私立天福幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.800383,
-    "lng": 120.995459,
+    "lat": 24.800477,
+    "lng": 120.995482,
     "sid": "MAA2ADMAMAAwADAAMAAwADcAOAA=",
     "name": "(準公共)新竹市私立蒲公英幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.783384,
-    "lng": 121.012234,
+    "lat": 24.783423,
+    "lng": 121.012106,
     "sid": "MAA2ADMAMAAwADAAMAAwADgAMAA=",
     "name": "(私立)新竹市私立理想圓幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.794592,
-    "lng": 120.971913,
+    "lat": 24.794612,
+    "lng": 120.971598,
     "sid": "MAA2ADMAMAAwADAAMAAwADgAMQA=",
     "name": "(私立)新竹市私立果果幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.794277,
-    "lng": 120.971361,
+    "lat": 24.794352,
+    "lng": 120.971354,
     "sid": "MAA2ADMAMAAwADAAMAAwADgAMgA=",
     "name": "(私立)新竹市私立育昇幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8031,
-    "lng": 120.996232,
+    "lat": 24.803052,
+    "lng": 120.996189,
     "sid": "MAA2ADMAMAAwADAAMAAwADgAMwA=",
     "name": "(私立)新竹市私立米羅幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.788179,
-    "lng": 121.018348,
+    "lat": 24.787498,
+    "lng": 121.018233,
     "sid": "MAA2ADMAMAAwADAAMAAwADgANAA=",
     "name": "(私立)新竹市私立黎明幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.819453,
-    "lng": 120.994131,
+    "lat": 24.819402,
+    "lng": 120.994146,
     "sid": "MAA2ADMAMAAwADAAMAAwADgANQA=",
     "name": "(準公共)新竹市私立安琪園幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.794368,
-    "lng": 121.006787,
+    "lat": 24.793984,
+    "lng": 121.005789,
     "sid": "MAA2ADMAMAAwADAAMAAwADgANgA=",
     "name": "(私立)新竹市私立嘉德琳幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.82005,
-    "lng": 120.976228,
+    "lat": 24.820033,
+    "lng": 120.976414,
     "sid": "MAA2ADMAMAAwADAAMAAwADgANwA=",
     "name": "(準公共)新竹市私立大樹幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.8162631,
-    "lng": 120.972481,
+    "lat": 24.81633,
+    "lng": 120.972489,
     "sid": "MAA2ADMAMAAwADAAMAAwADgAOAA=",
     "name": "(私立)新竹市私立意頓幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.815346,
-    "lng": 120.991396,
+    "lat": 24.813456,
+    "lng": 120.979877,
     "sid": "MAA2ADMAMAAwADAAMAAwADgAOQA=",
     "name": "(準公共)新竹市私立喬太幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.804987,
-    "lng": 120.942993,
+    "lat": 24.806696,
+    "lng": 120.940085,
     "sid": "MAA2ADMAMAAwADAAMAAwADkAMAA=",
     "name": "(準公共)新竹市私立陽光森林幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7807751,
-    "lng": 121.026483,
+    "lat": 24.781326,
+    "lng": 121.02597,
     "sid": "MAA2ADMAMAAwADAAMAAwADkAMQA=",
     "name": "(準公共)新竹市私立美加幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.755789,
-    "lng": 120.946092,
+    "lat": 24.755797,
+    "lng": 120.946725,
     "sid": "MAA2ADMAMAAwADAAMAAwADkAMgA=",
     "name": "(公立)新竹市香山區茄苳國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.7655351,
-    "lng": 120.91394,
+    "lat": 24.765372,
+    "lng": 120.91384,
     "sid": "MAA2ADMAMAAwADAAMAAwADkAMwA=",
     "name": "(公立)新竹市香山區朝山國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.7772241,
-    "lng": 121.017377,
+    "lat": 24.776612,
+    "lng": 121.016181,
     "sid": "MAA2ADMAMAAwADAAMAAwADkANAA=",
     "name": "(公立)國立新竹科學園區實驗高級中等學校附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.797225,
-    "lng": 120.942735,
+    "lat": 24.796586,
+    "lng": 120.944335,
     "sid": "MAA2ADMAMAAwADAAMAAwADkANQA=",
     "name": "(公立)新竹市香山區香山國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.8052291,
-    "lng": 120.972686,
+    "lat": 24.805296,
+    "lng": 120.972203,
     "sid": "MAA2ADMAMAAwADAAMAAwADkANgA=",
     "name": "(公立)新竹市東區東門國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.802482,
-    "lng": 120.959823,
+    "lat": 24.80299,
+    "lng": 120.95876,
     "sid": "MAA2ADMAMAAwADAAMAAwADkANwA=",
     "name": "(公立)新竹市北區西門國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.812139,
-    "lng": 121.00292,
+    "lat": 24.812585,
+    "lng": 121.002569,
     "sid": "MAA2ADMAMAAwADAAMAAwADkAOAA=",
     "name": "(公立)新竹市東區水源國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.79584,
-    "lng": 120.965989,
+    "lat": 24.796356,
+    "lng": 120.966442,
     "sid": "MAA2ADMAMAAwADAAMAAwADkAOQA=",
     "name": "(公立)新竹市東區新竹國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.795975,
-    "lng": 120.97382,
+    "lat": 24.796966,
+    "lng": 120.974386,
     "sid": "MAA2ADMAMAAwADAAMAAxADAAMAA=",
     "name": "(公立)新竹市東區竹蓮國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.742069,
-    "lng": 120.906422,
+    "lat": 24.742053,
+    "lng": 120.906338,
     "sid": "MAA2ADMAMAAwADAAMAAxADAAMQA=",
     "name": "(公立)新竹市香山區內湖國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.808068,
-    "lng": 120.960546,
+    "lat": 24.808521,
+    "lng": 120.95975,
     "sid": "MAA2ADMAMAAwADAAMAAxADAAMgA=",
     "name": "(公立)新竹市北區民富國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.812821,
-    "lng": 120.981334,
+    "lat": 24.812881,
+    "lng": 120.982593,
     "sid": "MAA2ADMAMAAwADAAMAAxADAAMwA=",
     "name": "(公立)新竹市東區三民國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.8051371,
-    "lng": 120.963482,
+    "lat": 24.82115,
+    "lng": 120.955649,
     "sid": "MAA2ADMAMAAwADAAMAAxADAANAA=",
     "name": "(公立)新竹市立新竹幼兒園",
     "type": "spub0"
@@ -705,632 +705,632 @@
   },
   {
     "newsch": 1,
-    "lat": 24.789465,
-    "lng": 121.007214,
+    "lat": 24.789274,
+    "lng": 121.007464,
     "sid": "MAA2ADMAMAAwADAAMAAxADAANQA=",
     "name": "(公立)新竹市東區龍山國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.8388283,
-    "lng": 120.9396243,
+    "lat": 24.838524,
+    "lng": 120.939399,
     "sid": "MAA2ADMAMAAwADAAMAAxADAANgA=",
     "name": "(公立)新竹市北區南寮國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.789452,
-    "lng": 120.927164,
+    "lat": 24.788836,
+    "lng": 120.927644,
     "sid": "MAA2ADMAMAAwADAAMAAxADAANwA=",
     "name": "(公立)新竹市香山區大庄國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.8052501,
-    "lng": 120.940968,
+    "lat": 24.806779,
+    "lng": 120.940583,
     "sid": "MAA2ADMAMAAwADAAMAAxADAAOAA=",
     "name": "(公立)新竹市香山區虎林國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.797847,
-    "lng": 120.949872,
+    "lat": 24.798067,
+    "lng": 120.949747,
     "sid": "MAA2ADMAMAAwADAAMAAxADAAOQA=",
     "name": "(公立)新竹市香山區頂埔國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.814329,
-    "lng": 120.922885,
+    "lat": 24.814589,
+    "lng": 120.923382,
     "sid": "MAA2ADMAMAAwADAAMAAxADEAMAA=",
     "name": "(公立)新竹市香山區港南國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.799244,
-    "lng": 120.999415,
+    "lat": 24.800329,
+    "lng": 120.999277,
     "sid": "MAA2ADMAMAAwADAAMAAxADEAMQA=",
     "name": "(公立)新竹市東區建功國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.726642,
-    "lng": 120.929633,
+    "lat": 24.726779,
+    "lng": 120.929115,
     "sid": "MAA2ADMAMAAwADAAMAAxADEAMgA=",
     "name": "(公立)新竹市香山區南隘國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.7841361,
-    "lng": 121.022061,
+    "lat": 24.784281,
+    "lng": 121.020942,
     "sid": "MAA2ADMAMAAwADAAMAAxADEAMwA=",
     "name": "(公立)新竹市東區關東國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.8229321,
-    "lng": 120.973598,
+    "lat": 24.823027,
+    "lng": 120.973268,
     "sid": "MAA2ADMAMAAwADAAMAAxADEANAA=",
     "name": "(公立)新竹市北區舊社國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.7797135,
-    "lng": 120.9835264,
+    "lat": 24.779932,
+    "lng": 120.983347,
     "sid": "MAA2ADMAMAAwADAAMAAxADEANQA=",
     "name": "(非營利)新竹市高峰非營利幼兒園(委託社團法人新竹市教保人員協會辦理)",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.790245,
-    "lng": 120.967557,
+    "lat": 24.790679,
+    "lng": 120.968253,
     "sid": "MAA2ADMAMAAwADAAMAAxADEANgA=",
     "name": "(非營利)新竹市陽光非營利幼兒園（委託社團法人新竹市教保人員協會辦理)",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.813708,
-    "lng": 120.965668,
+    "lat": 24.814577,
+    "lng": 120.966225,
     "sid": "MAA2ADMAMAAwADAAMAAxADEANwA=",
     "name": "(公立)新竹市北區北門國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.8194501,
-    "lng": 120.962553,
+    "lat": 24.819475,
+    "lng": 120.96284,
     "sid": "MAA2ADMAMAAwADAAMAAxADEAOAA=",
     "name": "(公立)新竹市北區載熙國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.798583,
-    "lng": 120.984045,
+    "lat": 24.799667,
+    "lng": 120.984506,
     "sid": "MAA2ADMAMAAwADAAMAAxADEAOQA=",
     "name": "(公立)新竹市東區東園國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.800336,
-    "lng": 120.99529,
+    "lat": 24.800448,
+    "lng": 120.995365,
     "sid": "MAA2ADMAMAAwADAAMAAxADIAMAA=",
     "name": "(準公共)新竹市私立丹帝萊恩幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.798732,
-    "lng": 120.949575,
+    "lat": 24.798222,
+    "lng": 120.951047,
     "sid": "MAA2ADMAMAAwADAAMAAxADIANQA=",
     "name": "(私立)新竹市私立園田嘉幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.778616,
-    "lng": 121.020232,
+    "lat": 24.77847,
+    "lng": 121.020406,
     "sid": "MAA2ADMAMAAwADAAMAAxADIANgA=",
     "name": "(私立)新竹市私立弋果幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.800741,
-    "lng": 120.962441,
+    "lat": 24.799846,
+    "lng": 120.962855,
     "sid": "MAA2ADMAMAAwADAAMAAxADIANwA=",
     "name": "(私立)財團法人天主教耶穌會附設新竹市私立震旦幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.813528,
-    "lng": 120.976687,
+    "lat": 24.813634,
+    "lng": 120.976851,
     "sid": "MAA2ADMAMAAwADAAMAAxADIAOAA=",
     "name": "(準公共)新竹市私立田心庄幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.77591,
-    "lng": 121.020914,
+    "lat": 24.776247,
+    "lng": 121.020999,
     "sid": "MAA2ADMAMAAwADAAMAAxADIAOQA=",
     "name": "(準公共)新竹市私立聖奧得幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.798893,
-    "lng": 120.960617,
+    "lat": 24.798757,
+    "lng": 120.961577,
     "sid": "MAA2ADMAMAAwADAAMAAxADMAMAA=",
     "name": "(公立)國立清華大學附設實驗國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.8223703,
-    "lng": 120.9679604,
+    "lat": 24.822472,
+    "lng": 120.967951,
     "sid": "MAA2ADMAMAAwADAAMAAxADMAMQA=",
     "name": "(準公共)新竹市私立孟格爾幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.8072324,
-    "lng": 120.957,
+    "lat": 24.807355,
+    "lng": 120.957033,
     "sid": "MAA2ADMAMAAwADAAMAAxADMAMwA=",
     "name": "(準公共)新竹市私立金愛幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7880351,
-    "lng": 121.019248,
+    "lat": 24.787345,
+    "lng": 121.01868,
     "sid": "MAA2ADMAMAAwADAAMAAxADMANwA=",
     "name": "(私立)新竹市私立親仁科園幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8027515,
-    "lng": 120.9575,
+    "lat": 24.802419,
+    "lng": 120.958235,
     "sid": "MAA2ADMAMAAwADAAMAAxADMAOAA=",
     "name": "(準公共)新竹市私立正大幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.80325,
-    "lng": 120.960834,
+    "lat": 24.803321,
+    "lng": 120.960731,
     "sid": "MAA2ADMAMAAwADAAMAAxADMAOQA=",
     "name": "(私立)新竹市私立聖保羅幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8162,
-    "lng": 120.9891581,
+    "lat": 24.816077,
+    "lng": 120.988889,
     "sid": "MAA2ADMAMAAwADAAMAAxADQAMQA=",
     "name": "(私立)新竹市私立史丹佛幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.82165,
-    "lng": 120.9723,
+    "lat": 24.817426,
+    "lng": 120.977529,
     "sid": "MAA2ADMAMAAwADAAMAAxADQAMgA=",
     "name": "(準公共)新竹市私立啓賦幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.783274,
-    "lng": 121.010741,
+    "lat": 24.783302,
+    "lng": 121.010778,
     "sid": "MAA2ADMAMAAwADAAMAAxADQANAA=",
     "name": "(私立)新竹市私立天天幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8038,
-    "lng": 120.9576,
+    "lat": 24.803834,
+    "lng": 120.957621,
     "sid": "MAA2ADMAMAAwADAAMAAxADQANgA=",
     "name": "(準公共)新竹市私立欣禾幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7879,
-    "lng": 121.002569,
+    "lat": 24.787529,
+    "lng": 121.003683,
     "sid": "MAA2ADMAMAAwADAAMAAxADQANwA=",
     "name": "(私立)新竹市私立史丹佛竹科幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.79689,
-    "lng": 120.9620002,
+    "lat": 24.796785,
+    "lng": 120.961974,
     "sid": "MAA2ADMAMAAwADAAMAAxADQAOAA=",
     "name": "(私立)新竹市私立檸檬樹幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7900712,
-    "lng": 120.9648749,
+    "lat": 24.789929,
+    "lng": 120.964976,
     "sid": "MAA2ADMAMAAwADAAMAAxADQAOQA=",
     "name": "(準公共)新竹市私立皇家幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.8063453,
-    "lng": 121.0081169,
+    "lat": 24.806239,
+    "lng": 121.008174,
     "sid": "MAA2ADMAMAAwADAAMAAxADUAMAA=",
     "name": "(私立)新竹市私立加米幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.785731,
-    "lng": 120.967433,
+    "lat": 24.785556,
+    "lng": 120.967458,
     "sid": "MAA2ADMAMAAwADAAMAAxADUAMQA=",
     "name": "(準公共)新竹市私立蒲公英精實幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.785425,
-    "lng": 121.012124,
+    "lat": 24.785672,
+    "lng": 121.011532,
     "sid": "MAA2ADMAMAAwADAAMAAxADUAMgA=",
     "name": "(私立)新竹市私立紐約幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.79471,
-    "lng": 121.0088319,
+    "lat": 24.795078,
+    "lng": 121.00877,
     "sid": "MAA2ADMAMAAwADAAMAAxADUAMwA=",
     "name": "(私立)新竹市私立傑恩幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7768706,
-    "lng": 120.9854,
+    "lat": 24.776902,
+    "lng": 120.985104,
     "sid": "MAA2ADMAMAAwADAAMAAxADUANQA=",
     "name": "(準公共)新竹市私立艾唯兒幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.818999,
-    "lng": 120.97,
+    "lat": 24.819653,
+    "lng": 120.969255,
     "sid": "MAA2ADMAMAAwADAAMAAxADUAOAA=",
     "name": "(私立)新竹市私立維肯幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.813253,
-    "lng": 120.972511,
+    "lat": 24.813273,
+    "lng": 120.972349,
     "sid": "MAA2ADMAMAAwADAAMAAxADYAMAA=",
     "name": "(準公共)新竹市私立新悅成幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.791036,
-    "lng": 120.996987,
+    "lat": 24.794137,
+    "lng": 120.997626,
     "sid": "MAA2ADMAMAAwADAAMAAxADYAMQA=",
     "name": "(私立)財團法人信誼基金會附設新竹市私立光明幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8150781,
-    "lng": 120.965923,
+    "lat": 24.815275,
+    "lng": 120.965755,
     "sid": "MAA2ADMAMAAwADAAMAAxADYAMgA=",
     "name": "(私立)新竹市私立諾貝兒幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.816342,
-    "lng": 120.963593,
+    "lat": 24.816424,
+    "lng": 120.963601,
     "sid": "MAA2ADMAMAAwADAAMAAxADYAMwA=",
     "name": "(私立)新竹市私立勁寶兒向日葵幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7454882,
-    "lng": 120.9225055,
+    "lat": 24.745003,
+    "lng": 120.918998,
     "sid": "MAA2ADMAMAAwADAAMAAxADYANwA=",
     "name": "(準公共)新竹市私立佳佳大自然幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7986828,
-    "lng": 120.9829546,
+    "lat": 24.798856,
+    "lng": 120.982859,
     "sid": "MAA2ADMAMAAwADAAMAAxADYAOAA=",
     "name": "(私立)新竹市私立何嘉仁東園幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7684531,
-    "lng": 120.9780116,
+    "lat": 24.768927,
+    "lng": 120.978777,
     "sid": "MAA2ADMAMAAwADAAMAAxADYAOQA=",
     "name": "(公立)新竹市東區青草湖國民小學附設幼兒園",
     "type": "spub0"
   },
   {
     "newsch": 1,
-    "lat": 24.786301,
-    "lng": 121.009629,
+    "lat": 24.78437,
+    "lng": 121.01139,
     "sid": "MAA2ADMAMAAwADAAMAAxADcAMQA=",
     "name": "(準公共)新竹市私立熊麻吉幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.818256,
-    "lng": 120.974856,
+    "lat": 24.818333,
+    "lng": 120.978054,
     "sid": "MAA2ADMAMAAwADAAMAAxADcAMgA=",
     "name": "(準公共)新竹市私立帝堡幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7802672,
-    "lng": 121.0241642,
+    "lat": 24.780048,
+    "lng": 121.023695,
     "sid": "MAA2ADMAMAAwADAAMAAxADcAMwA=",
     "name": "(非營利)新竹市新科非營利幼兒園（委託社團法人新竹市教保人員協會辦理)",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.7925352,
-    "lng": 121.0085866,
+    "lat": 24.792237,
+    "lng": 121.009348,
     "sid": "MAA2ADMAMAAwADAAMAAxADcANAA=",
     "name": "(私立)新竹市私立嘉德琳關埔幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7982382,
-    "lng": 120.9617601,
+    "lat": 24.798225,
+    "lng": 120.961765,
     "sid": "MAA2ADMAMAAwADAAMAAxADcANQA=",
     "name": "(私立)新竹市私立星安幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7939644,
-    "lng": 120.9767252,
+    "lat": 24.793307,
+    "lng": 120.977041,
     "sid": "MAA2ADMAMAAwADAAMAAxADcANgA=",
     "name": "(非營利)新竹市建華非營利幼兒園（委託社團法人新竹市教保人員協會辦理）",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.8142406,
-    "lng": 120.9823594,
+    "lat": 24.813938,
+    "lng": 120.976226,
     "sid": "MAA2ADMAMAAwADAAMAAxADcANwA=",
     "name": "(私立)新竹市私立南瓜田國際幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8058721,
-    "lng": 120.9525999,
+    "lat": 24.80593,
+    "lng": 120.952348,
     "sid": "MAA2ADMAMAAwADAAMAAxADcAOAA=",
     "name": "(私立)新竹市私立艾丁堡幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8000026,
-    "lng": 120.941497,
+    "lat": 24.799893,
+    "lng": 120.941511,
     "sid": "MAA2ADMAMAAwADAAMAAxADcAOQA=",
     "name": "(私立)新竹市私立夏綠蒂幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8412296,
-    "lng": 120.9275361,
+    "lat": 24.841271,
+    "lng": 120.927552,
     "sid": "MAA2ADMAMAAwADAAMAAxADgAMAA=",
     "name": "(非營利)新竹市南寮非營利幼兒園(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.7818331,
-    "lng": 121.0247999,
+    "lat": 24.785751,
+    "lng": 121.011283,
     "sid": "MAA2ADMAMAAwADAAMAAxADgAMQA=",
     "name": "(私立)新竹市私立紐約竹科幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7925155,
-    "lng": 121.0151625,
+    "lat": 24.792933,
+    "lng": 121.015753,
     "sid": "MAA2ADMAMAAwADAAMAAxADgAMgA=",
     "name": "(私立)新竹市私立聖奇幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.821217999999998,
-    "lng": 120.955139,
+    "lat": 24.821333,
+    "lng": 120.955372,
     "sid": "MAA2ADMAMAAwADAAMAAxADgAMwA=",
     "name": "(非營利)新竹市福林非營利幼兒園(委託社團法人新竹市教保人員協會辦理)",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.7805801,
-    "lng": 121.00482,
+    "lat": 24.779178,
+    "lng": 121.004621,
     "sid": "MAA2ADMAMAAwADAAMAAxADgANAA=",
     "name": "(私立)牧德科技股份有限公司職工福利委員會附設新竹市私立牧德幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.768817,
-    "lng": 120.966208,
+    "lat": 24.768644,
+    "lng": 120.96594,
     "sid": "MAA2ADMAMAAwADAAMAAxADgANQA=",
     "name": "(私立)康橋學校財團法人新竹市康橋國民中小學附設新竹市私立康橋幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.820777,
-    "lng": 120.9654414,
+    "lat": 24.820687,
+    "lng": 120.965484,
     "sid": "MAA2ADMAMAAwADAAMAAxADgANgA=",
     "name": "(準公共)新竹市私立禾果幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7880333,
-    "lng": 121.0134213,
+    "lat": 24.787767,
+    "lng": 121.013315,
     "sid": "MAA2ADMAMAAwADAAMAAxADgANwA=",
     "name": "(私立)新竹市私立紐約國際幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.764525,
-    "lng": 120.9409942,
+    "lat": 24.763846,
+    "lng": 120.940286,
     "sid": "MAA2ADMAMAAwADAAMAAxADgAOAA=",
     "name": "(準公共)新竹市私立閑谷幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.771309,
-    "lng": 121.0211373,
+    "lat": 24.772593,
+    "lng": 121.023245,
     "sid": "MAA2ADMAMAAwADAAMAAxADgAOQA=",
     "name": "(私立)聯發科技股份有限公司職工福利委員會附設新竹市私立聯發科技幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7865684,
-    "lng": 121.0105979,
+    "lat": 24.786541,
+    "lng": 121.010624,
     "sid": "MAA2ADMAMAAwADAAMAAxADkAMAA=",
     "name": "(私立)新竹市私立夏哲森幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8172949,
-    "lng": 120.9706383,
+    "lat": 24.817208,
+    "lng": 120.970832,
     "sid": "MAA2ADMAMAAwADAAMAAxADkAMQA=",
     "name": "(準公共)新竹市私立婕之寶幼兒園",
     "type": "spub3"
   },
   {
     "newsch": 1,
-    "lat": 24.7886433,
-    "lng": 121.0132677,
+    "lat": 24.788901,
+    "lng": 121.013547,
     "sid": "MAA2ADMAMAAwADAAMAAxADkAMgA=",
     "name": "(非營利)新竹市關埔非營利幼兒園(委託社團法人新竹市教保人員協會辦理)",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.7416234,
-    "lng": 120.9137002,
+    "lat": 24.750657,
+    "lng": 120.960375,
     "sid": "MAA2ADMAMAAwADAAMAAxADkAMwA=",
     "name": "(非營利)新竹市華德福非營利幼兒園(委託社團法人新竹人智哲學發展學會辦理)",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.8223318,
-    "lng": 120.9637424,
+    "lat": 24.822372,
+    "lng": 120.9639,
     "sid": "MAA2ADMAMAAwADAAMAAxADkANAA=",
     "name": "(私立)新竹市私立艾丁堡國際幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7910476,
-    "lng": 121.0163437,
+    "lat": 24.790957,
+    "lng": 121.016591,
     "sid": "MAA2ADMAMAAwADAAMAAxADkANQA=",
     "name": "(私立)新竹市私立米羅關埔幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7870443,
-    "lng": 121.0095652,
+    "lat": 24.786662,
+    "lng": 121.009392,
     "sid": "MAA2ADMAMAAwADAAMAAxADkANgA=",
     "name": "(私立)新竹市私立奇達國際幼兒園",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7699488,
-    "lng": 121.0253671,
+    "lat": 24.769949,
+    "lng": 121.025367,
     "sid": "MAA2ADMAMAAwADAAMAAxADkANwA=",
     "name": "(非營利)國家科學及技術委員會新竹科學園區管理局篤行員工子女非營利幼兒園(委託社團法人新竹市教保人員協會辦理)",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.7951227,
-    "lng": 121.0043995,
+    "lat": 24.794475,
+    "lng": 121.003785,
     "sid": "MAA2ADMAMAAwADAAMAAxADkAOAA=",
     "name": "(私立)國防部全動署後備指揮部世紀鑫城職場互助教保服務中心(委託社團法人新竹市教保人員協會辦理)",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.8211267,
-    "lng": 120.9682652,
+    "lat": 24.821027,
+    "lng": 120.968158,
     "sid": "MAA2ADMAMAAwADAAMAAxADkAOQA=",
     "name": "(私立)新竹市警察局職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.7954039,
-    "lng": 120.9974638,
+    "lat": 24.794332,
+    "lng": 120.998749,
     "sid": "MAA2ADMAMAAwADAAMAAyADAAMAA=",
     "name": "(非營利)國立清華大學員工子女非營利幼兒園(委託社團法人新竹市教保人員協會辦理)",
     "type": "spub2"
   },
   {
     "newsch": 1,
-    "lat": 24.8058077,
-    "lng": 120.9601746,
+    "lat": 24.805696,
+    "lng": 120.960107,
     "sid": "MAA2ADMAMAAwADAAMAAyADAAMQA=",
     "name": "(私立)法務部滿竹園職場互助教保服務中心(委託社團法人新竹縣教保人員協會辦理)",
     "type": "spub1"
   },
   {
     "newsch": 1,
-    "lat": 24.781958499999998,
-    "lng": 121.0118725,
+    "lat": 24.781862,
+    "lng": 121.012255,
     "sid": "MAA2ADMAMAAwADAAMAAyADAAMgA=",
     "name": "(公立)新竹市東區科園國民小學附設幼兒園",
     "type": "spub0"
