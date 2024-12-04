@@ -262,5 +262,13 @@
     "sid": "MAA3ADMAMAAzADAAMAAwADQAMQA=",
     "name": "(私立)新竹縣私立張遇心幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.891516,
+    "lng": 121.047322,
+    "sid": "MAA3ADMAMAAzADAAMAAwADQAMgA=",
+    "name": "(非營利)新竹縣王爺壟非營利幼兒園(委託社團法人臺灣亞洲學前教育培訓協會辦理)",
+    "type": "spub2"
   }
 ]
