@@ -1,18 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 22.835398,
-    "lng": 120.369858,
-    "sid": "MQA4ADgAMgAzADAAMAAwADAAMQA=",
-    "name": "(公立)高雄市田寮區新興國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.877965,
-    "lng": 120.379447,
-    "sid": "MQA4ADgAMgAzADAAMAAwADAAMgA=",
-    "name": "(公立)高雄市田寮區崇德國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

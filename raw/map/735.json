@@ -1,58 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.234369,
-    "lng": 120.266012,
-    "sid": "MQA2ADcAMwA1ADAAMAAwADAAMgA=",
-    "name": "(私立)臺南市私立欽智幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.236898,
-    "lng": 120.263737,
-    "sid": "MQA2ADcAMwA1ADAAMAAwADAAMwA=",
-    "name": "(準公共)臺南市私立小圓圓幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.230251,
-    "lng": 120.258396,
-    "sid": "MQA2ADcAMwA1ADAAMAAwADAANAA=",
-    "name": "(私立)臺南市私立群英幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.21359,
-    "lng": 120.276901,
-    "sid": "MQA2ADcAMwA1ADAAMAAwADAANQA=",
-    "name": "(公立)臺南市下營區中營國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.2547,
-    "lng": 120.296542,
-    "sid": "MQA2ADcAMwA1ADAAMAAwADAANgA=",
-    "name": "(公立)臺南市下營區賀建國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.239206,
-    "lng": 120.267647,
-    "sid": "MQA2ADcAMwA1ADAAMAAwADAANwA=",
-    "name": "(公立)臺南市下營區東興國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.231913,
-    "lng": 120.260912,
-    "sid": "MQA2ADcAMwA1ADAAMAAwADAAOAA=",
-    "name": "(公立)臺南市下營區下營國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

@@ -1,42 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 22.577213,
-    "lng": 120.294613,
-    "sid": "MQA4ADgAMAA1ADAAMAAwADAAMQA=",
-    "name": "(公立)高雄市旗津區中洲國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.608306,
-    "lng": 120.271101,
-    "sid": "MQA4ADgAMAA1ADAAMAAwADAAMgA=",
-    "name": "(公立)高雄市旗津區旗津國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.580292,
-    "lng": 120.292946,
-    "sid": "MQA4ADgAMAA1ADAAMAAwADAANAA=",
-    "name": "(準公共)高雄市私立平原幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.593169,
-    "lng": 120.283929,
-    "sid": "MQA4ADgAMAA1ADAAMAAwADAANQA=",
-    "name": "(準公共)財團法人天主教會高雄教區附設高雄市私立海星幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.585466,
-    "lng": 120.288583,
-    "sid": "MQA4ADgAMAA1ADAAMAAwADAANgA=",
-    "name": "(準公共)高雄市私立旗津小恐龍幼兒園",
-    "type": "spub3"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

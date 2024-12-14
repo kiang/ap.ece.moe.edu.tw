@@ -1,74 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 22.879851,
-    "lng": 120.333096,
-    "sid": "MQA4ADgAMgAyADAAMAAwADAAMQA=",
-    "name": "(準公共)高雄市私立培幼幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.872376,
-    "lng": 120.335352,
-    "sid": "MQA4ADgAMgAyADAAMAAwADAAMgA=",
-    "name": "(準公共)高雄市私立劍橋幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.877862,
-    "lng": 120.323303,
-    "sid": "MQA4ADgAMgAyADAAMAAwADAAMwA=",
-    "name": "(準公共)高雄市私立智慧星幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.88349,
-    "lng": 120.329688,
-    "sid": "MQA4ADgAMgAyADAAMAAwADAANAA=",
-    "name": "(公立)高雄市阿蓮區阿蓮國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.894692,
-    "lng": 120.298112,
-    "sid": "MQA4ADgAMgAyADAAMAAwADAANQA=",
-    "name": "(公立)高雄市阿蓮區中路國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.849001,
-    "lng": 120.323528,
-    "sid": "MQA4ADgAMgAyADAAMAAwADAANwA=",
-    "name": "(公立)高雄市阿蓮區復安國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.886445,
-    "lng": 120.324566,
-    "sid": "MQA4ADgAMgAyADAAMAAwADAAOAA=",
-    "name": "(準公共)高雄市私立小可愛幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.870953,
-    "lng": 120.328687,
-    "sid": "MQA4ADgAMgAyADAAMAAwADAAOQA=",
-    "name": "(準公共)高雄市私立童心藝術幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.885681,
-    "lng": 120.325101,
-    "sid": "MQA4ADgAMgAyADAAMAAwADEAMAA=",
-    "name": "(準公共)高雄市私立可愛幼兒園",
-    "type": "spub3"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

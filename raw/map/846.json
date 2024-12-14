@@ -1,50 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 22.976879,
-    "lng": 120.544438,
-    "sid": "MQA4ADgANAA2ADAAMAAwADAAMQA=",
-    "name": "(公立)高雄市杉林區上平國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.989044,
-    "lng": 120.559775,
-    "sid": "MQA4ADgANAA2ADAAMAAwADAAMgA=",
-    "name": "(公立)高雄市杉林區新庄國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.958229,
-    "lng": 120.53518,
-    "sid": "MQA4ADgANAA2ADAAMAAwADAAMwA=",
-    "name": "(公立)高雄市杉林區月美國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.998645,
-    "lng": 120.547671,
-    "sid": "MQA4ADgANAA2ADAAMAAwADAANQA=",
-    "name": "(公立)高雄市杉林區杉林國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.964852,
-    "lng": 120.539694,
-    "sid": "MQA4ADgANAA2ADAAMAAwADAANgA=",
-    "name": "(公立)高雄市立巴楠花部落國民中小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.963051,
-    "lng": 120.54064,
-    "sid": "MQA4ADgANAA2ADAAMAAwADAAOAA=",
-    "name": "(私立)高雄市岱克拉思部落互助教保服務中心(高雄市原住民族文教協會辦理)",
-    "type": "spub1"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

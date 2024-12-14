@@ -1,58 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.59243,
-    "lng": 120.178482,
-    "sid": "MQAzADYANQAzADAAMAAwADAAMQA=",
-    "name": "(準公共)雲林縣私立奇豐幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.625904,
-    "lng": 120.172291,
-    "sid": "MQAzADYANQAzADAAMAAwADAAMgA=",
-    "name": "(準公共)雲林縣私立聖文幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.618357,
-    "lng": 120.158414,
-    "sid": "MQAzADYANQAzADAAMAAwADAANAA=",
-    "name": "(準公共)雲林縣私立葳尼爾幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.547671,
-    "lng": 120.182941,
-    "sid": "MQAzADYANQAzADAAMAAwADAANQA=",
-    "name": "(公立)雲林縣口湖鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.541723,
-    "lng": 120.189581,
-    "sid": "MQAzADYANQAzADAAMAAwADAANgA=",
-    "name": "(公立)雲林縣口湖鄉文光國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.574167,
-    "lng": 120.154151,
-    "sid": "MQAzADYANQAzADAAMAAwADAANwA=",
-    "name": "(公立)雲林縣口湖鄉金湖國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.612727,
-    "lng": 120.158399,
-    "sid": "MQAzADYANQAzADAAMAAwADAAOAA=",
-    "name": "(公立)雲林縣口湖鄉下崙國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

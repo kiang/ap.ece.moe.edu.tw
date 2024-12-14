@@ -1,82 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.896195,
-    "lng": 120.9358,
-    "sid": "MQAyADUANQA1ADAAMAAwADAAMQA=",
-    "name": "(準公共)南投縣私立名仁幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.890426,
-    "lng": 120.967254,
-    "sid": "MQAyADUANQA1ADAAMAAwADAAMgA=",
-    "name": "(公立)南投縣魚池鄉東光國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.903986,
-    "lng": 120.924412,
-    "sid": "MQAyADUANQA1ADAAMAAwADAAMwA=",
-    "name": "(公立)南投縣魚池鄉新城國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.837162,
-    "lng": 120.903023,
-    "sid": "MQAyADUANQA1ADAAMAAwADAANAA=",
-    "name": "(公立)南投縣魚池鄉頭社國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.899799,
-    "lng": 120.937487,
-    "sid": "MQAyADUANQA1ADAAMAAwADAANQA=",
-    "name": "(公立)南投縣魚池鄉魚池國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.868525,
-    "lng": 120.910746,
-    "sid": "MQAyADUANQA1ADAAMAAwADAANgA=",
-    "name": "(公立)南投縣魚池鄉明潭國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.919135,
-    "lng": 120.96622,
-    "sid": "MQAyADUANQA1ADAAMAAwADAANwA=",
-    "name": "(公立)南投縣魚池鄉共和國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.890733,
-    "lng": 120.889377,
-    "sid": "MQAyADUANQA1ADAAMAAwADAAOAA=",
-    "name": "(公立)南投縣魚池鄉五城國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.848441,
-    "lng": 120.93572,
-    "sid": "MQAyADUANQA1ADAAMAAwADAAOQA=",
-    "name": "(公立)南投縣魚池鄉伊達邵國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.89086,
-    "lng": 120.939694,
-    "sid": "MQAyADUANQA1ADAAMAAwADEAMAA=",
-    "name": "(準公共)南投縣私立育智幼兒園",
-    "type": "spub3"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]
