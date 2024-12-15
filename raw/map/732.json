@@ -1,10 +1,82 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.344498,
+    "lng": 120.416179,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAAMgA=",
+    "name": "(準公共)臺南市私立舉人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.379351,
+    "lng": 120.416291,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAAMwA=",
+    "name": "(公立)臺南市白河區玉豐國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.344668,
+    "lng": 120.437985,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAANAA=",
+    "name": "(公立)臺南市白河區河東國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.368071,
+    "lng": 120.412608,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAANQA=",
+    "name": "(公立)臺南市白河區大竹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.352473,
+    "lng": 120.414071,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAANgA=",
+    "name": "(公立)臺南市白河區白河國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.39758,
+    "lng": 120.440978,
+    "sid": "MQA2ADcAMwAyADAAMAAwADAANwA=",
+    "name": "(公立)臺南市白河區內角國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.376998,
+    "lng": 120.445079,
+    "sid": "MQA2ADcAMwAyADAAMAAwADEAMAA=",
+    "name": "(公立)臺南市白河區竹門國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.358196,
+    "lng": 120.421032,
+    "sid": "MQA2ADcAMwAyADAAMAAwADEAMQA=",
+    "name": "(準公共)臺南市私立日光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.36102,
+    "lng": 120.424224,
+    "sid": "MQA2ADcAMwAyADAAMAAwADEAMgA=",
+    "name": "(準公共)臺南市私立金典幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.344223,
+    "lng": 120.474014,
+    "sid": "MQA2ADcAMwAyADAAMAAwADEAMwA=",
+    "name": "(公立)臺南市白河區仙草實驗小學附設幼兒園",
+    "type": "spub0"
   }
 ]

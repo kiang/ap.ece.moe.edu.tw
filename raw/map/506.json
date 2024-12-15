@@ -1,10 +1,66 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.034038,
+    "lng": 120.429674,
+    "sid": "MQAxADUAMAA2ADAAMAAwADAAMQA=",
+    "name": "(私立)彰化縣私立福興文開幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.028988,
+    "lng": 120.412672,
+    "sid": "MQAxADUAMAA2ADAAMAAwADAAMgA=",
+    "name": "(準公共)彰化縣私立安祈兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.036131,
+    "lng": 120.437515,
+    "sid": "MQAxADUAMAA2ADAAMAAwADAAMwA=",
+    "name": "(準公共)彰化縣私立幼安幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.041333,
+    "lng": 120.413056,
+    "sid": "MQAxADUAMAA2ADAAMAAwADAANQA=",
+    "name": "(公立)彰化縣福興鄉育新國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.028129,
+    "lng": 120.412817,
+    "sid": "MQAxADUAMAA2ADAAMAAwADAANgA=",
+    "name": "(公立)彰化縣福興鄉管嶼國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.045071,
+    "lng": 120.427217,
+    "sid": "MQAxADUAMAA2ADAAMAAwADAANwA=",
+    "name": "(公立)彰化縣福興鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.028791,
+    "lng": 120.474053,
+    "sid": "MQAxADUAMAA2ADAAMAAwADAAOAA=",
+    "name": "(公立)彰化縣福興鄉立幼兒園東區分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.047056,
+    "lng": 120.458957,
+    "sid": "MQAxADUAMAA2ADAAMAAwADEAMAA=",
+    "name": "(非營利)彰化縣日新非營利幼兒園（委託社團法人彰化縣芸生學前教保學會辦理）",
+    "type": "spub2"
   }
 ]

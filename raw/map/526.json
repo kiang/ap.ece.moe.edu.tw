@@ -1,10 +1,106 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "已超過連接逾時的設定。在取得集區連接之前超過逾時等待的時間，可能的原因為所有的共用連接已在使用中，並已達共用集區大小的最大值。",
-    "type": null
+    "newsch": 1,
+    "lat": 23.895572,
+    "lng": 120.384849,
+    "sid": "MQAxADUAMgA2ADAAMAAwADAAMQA=",
+    "name": "(準公共)彰化縣私立文揚幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.890575,
+    "lng": 120.361331,
+    "sid": "MQAxADUAMgA2ADAAMAAwADAAMgA=",
+    "name": "(準公共)彰化縣私立儒林幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.905038,
+    "lng": 120.364577,
+    "sid": "MQAxADUAMgA2ADAAMAAwADAAMwA=",
+    "name": "(準公共)彰化縣私立籃虹幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.955371,
+    "lng": 120.421171,
+    "sid": "MQAxADUAMgA2ADAAMAAwADAANgA=",
+    "name": "(準公共)彰化縣私立光華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.905236,
+    "lng": 120.367445,
+    "sid": "MQAxADUAMgA2ADAAMAAwADAANwA=",
+    "name": "(私立)彰化縣私立優格林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.904904,
+    "lng": 120.370058,
+    "sid": "MQAxADUAMgA2ADAAMAAwADAAOAA=",
+    "name": "(準公共)彰化縣私立永育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.896237,
+    "lng": 120.427053,
+    "sid": "MQAxADUAMgA2ADAAMAAwADEAMQA=",
+    "name": "(公立)彰化縣立原斗國民中小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.891519,
+    "lng": 120.395263,
+    "sid": "MQAxADUAMgA2ADAAMAAwADEAMgA=",
+    "name": "(公立)彰化縣二林鎮興華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.900445,
+    "lng": 120.375446,
+    "sid": "MQAxADUAMgA2ADAAMAAwADEAMwA=",
+    "name": "(公立)彰化縣二林鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.897469,
+    "lng": 120.360761,
+    "sid": "MQAxADUAMgA2ADAAMAAwADEANAA=",
+    "name": "(準公共)彰化縣私立芝麻街幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.955617,
+    "lng": 120.41571,
+    "sid": "MQAxADUAMgA2ADAAMAAwADEANgA=",
+    "name": "(非營利)彰化縣萬興非營利幼兒園（委託社團法人彰化縣劍橋社會關懷協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.876174,
+    "lng": 120.362689,
+    "sid": "MQAxADUAMgA2ADAAMAAwADEANwA=",
+    "name": "(非營利)彰化縣廣興非營利幼兒園（委託社團法人台灣嬰幼兒教保協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.937521,
+    "lng": 120.394881,
+    "sid": "MQAxADUAMgA2ADAAMAAwADEAOAA=",
+    "name": "(非營利)彰化縣新生非營利幼兒園（委託社團法人中華兒童教育發展協進會辦理）",
+    "type": "spub2"
   }
 ]

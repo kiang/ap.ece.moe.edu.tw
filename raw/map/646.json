@@ -1,10 +1,74 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.59529,
+    "lng": 120.596788,
+    "sid": "MQAzADYANAA2ADAAMAAwADAANAA=",
+    "name": "(公立)雲林縣古坑鄉華山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.637052,
+    "lng": 120.55754,
+    "sid": "MQAzADYANAA2ADAAMAAwADAANgA=",
+    "name": "(公立)雲林縣古坑鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.58623,
+    "lng": 120.694618,
+    "sid": "MQAzADYANAA2ADAAMAAwADAANwA=",
+    "name": "(公立)雲林縣古坑鄉草嶺生態地質國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.686416,
+    "lng": 120.603837,
+    "sid": "MQAzADYANAA2ADAAMAAwADAAOQA=",
+    "name": "(公立)雲林縣古坑鄉棋山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.630609,
+    "lng": 120.613856,
+    "sid": "MQAzADYANAA2ADAAMAAwADEAMAA=",
+    "name": "(公立)雲林縣山峰華德福教育實驗國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.634333,
+    "lng": 120.524088,
+    "sid": "MQAzADYANAA2ADAAMAAwADEAMQA=",
+    "name": "(準公共)福智學校財團法人雲林縣福智國民小學附設私立福智幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.684507,
+    "lng": 120.568481,
+    "sid": "MQAzADYANAA2ADAAMAAwADEAMgA=",
+    "name": "(公立)雲林縣古坑鄉東和國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.612137,
+    "lng": 120.607876,
+    "sid": "MQAzADYANAA2ADAAMAAwADEAMwA=",
+    "name": "(公立)雲林縣古坑鄉桂林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.626147,
+    "lng": 120.553975,
+    "sid": "MQAzADYANAA2ADAAMAAwADEANAA=",
+    "name": "(公立)雲林縣古坑鄉永光國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

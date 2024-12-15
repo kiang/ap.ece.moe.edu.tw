@@ -1,10 +1,74 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.647658,
+    "lng": 120.315185,
+    "sid": "MQAzADYANQA1ADAAMAAwADAAMQA=",
+    "name": "(準公共)雲林縣私立啟芳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.647047,
+    "lng": 120.310811,
+    "sid": "MQAzADYANQA1ADAAMAAwADAAMgA=",
+    "name": "(準公共)雲林縣私立宏祐幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.651715,
+    "lng": 120.310475,
+    "sid": "MQAzADYANQA1ADAAMAAwADAAMwA=",
+    "name": "(準公共)雲林縣私立班米羅幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.652498,
+    "lng": 120.309302,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.658442,
+    "lng": 120.33582,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAAMQA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園和平分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.628547,
+    "lng": 120.333841,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAAMgA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園客厝分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.656532,
+    "lng": 120.27988,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAANAA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園信義分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.620727,
+    "lng": 120.314648,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAANgA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園忠孝分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.637415,
+    "lng": 120.359456,
+    "sid": "MQAzADYANQA1ADAAMAAwADAANAAtADAAOAA=",
+    "name": "(公立)雲林縣元長鄉立幼兒園新生分班",
+    "type": "spub0"
   }
 ]

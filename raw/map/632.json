@@ -1,10 +1,170 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.704953,
+    "lng": 120.4498,
+    "sid": "MQAzADYAMwAyADAAMAAwADAAMQA=",
+    "name": "(私立)雲林縣私立春民幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.698465,
+    "lng": 120.410997,
+    "sid": "MQAzADYAMwAyADAAMAAwADAAMgA=",
+    "name": "(準公共)雲林縣私立童心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.710922,
+    "lng": 120.436942,
+    "sid": "MQAzADYAMwAyADAAMAAwADAAMwA=",
+    "name": "(準公共)雲林縣私立三民幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.703352,
+    "lng": 120.424497,
+    "sid": "MQAzADYAMwAyADAAMAAwADAANAA=",
+    "name": "(準公共)雲林縣私立上智幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.704139,
+    "lng": 120.450125,
+    "sid": "MQAzADYAMwAyADAAMAAwADAANQA=",
+    "name": "(私立)雲林縣私立丹尼兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.704118,
+    "lng": 120.449599,
+    "sid": "MQAzADYAMwAyADAAMAAwADAANgA=",
+    "name": "(私立)雲林縣私立春子幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.707088,
+    "lng": 120.426283,
+    "sid": "MQAzADYAMwAyADAAMAAwADAAOAA=",
+    "name": "(準公共)雲林縣私立新立仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.700864,
+    "lng": 120.427873,
+    "sid": "MQAzADYAMwAyADAAMAAwADAAOQA=",
+    "name": "(準公共)雲林縣私立姿善幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.707775,
+    "lng": 120.437667,
+    "sid": "MQAzADYAMwAyADAAMAAwADEAMgA=",
+    "name": "(準公共)財團法人天主教會嘉義教區附設雲林縣私立聖心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.705096,
+    "lng": 120.421956,
+    "sid": "MQAzADYAMwAyADAAMAAwADEAMwA=",
+    "name": "(準公共)雲林縣私立安安幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.710875,
+    "lng": 120.438468,
+    "sid": "MQAzADYAMwAyADAAMAAwADEANAA=",
+    "name": "(準公共)雲林縣私立宏慈幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.714363,
+    "lng": 120.433418,
+    "sid": "MQAzADYAMwAyADAAMAAwADEANQA=",
+    "name": "(公立)雲林縣虎尾鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.703296,
+    "lng": 120.385922,
+    "sid": "MQAzADYAMwAyADAAMAAwADEANwA=",
+    "name": "(準公共)雲林縣私立大屯幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.713913,
+    "lng": 120.428922,
+    "sid": "MQAzADYAMwAyADAAMAAwADEAOAA=",
+    "name": "(私立)雲林縣私立維也納幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.719006,
+    "lng": 120.441566,
+    "sid": "MQAzADYAMwAyADAAMAAwADEAOQA=",
+    "name": "(非營利)雲林縣中正非營利幼兒園(委託財團法人士心文教基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.726671,
+    "lng": 120.463235,
+    "sid": "MQAzADYAMwAyADAAMAAwADIAMAA=",
+    "name": "(公立)雲林縣虎尾鎮中溪國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.713309,
+    "lng": 120.4317,
+    "sid": "MQAzADYAMwAyADAAMAAwADIAMQA=",
+    "name": "(非營利)雲林縣虎尾非營利幼兒園(委託社團法人中華民國樂活產業發展協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.705975,
+    "lng": 120.428026,
+    "sid": "MQAzADYAMwAyADAAMAAwADIAMgA=",
+    "name": "(公立)雲林縣虎尾鎮立仁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.716786,
+    "lng": 120.420889,
+    "sid": "MQAzADYAMwAyADAAMAAwADIAMwA=",
+    "name": "(公立)雲林縣虎尾鎮廉使國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.701741,
+    "lng": 120.388424,
+    "sid": "MQAzADYAMwAyADAAMAAwADIANAA=",
+    "name": "(公立)雲林縣虎尾鎮大屯國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.70751,
+    "lng": 120.45125,
+    "sid": "MQAzADYAMwAyADAAMAAwADIANQA=",
+    "name": "(非營利)雲林縣平和非營利幼兒園(委託社團法人雲林縣幼兒教育發展協會辦理)",
+    "type": "spub2"
   }
 ]

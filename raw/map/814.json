@@ -1,10 +1,210 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.678688,
+    "lng": 120.343676,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADAAMQA=",
+    "name": "(準公共)高雄市私立日光森林幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.680725,
+    "lng": 120.337082,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADAAMgA=",
+    "name": "(準公共)高雄市私立優群幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.689696,
+    "lng": 120.332026,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADAAMwA=",
+    "name": "(公立)高雄市仁武區八卦國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.701446,
+    "lng": 120.35013,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADAANAA=",
+    "name": "(公立)高雄市仁武區仁武國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.709932,
+    "lng": 120.3346,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADAANQA=",
+    "name": "(公立)高雄市仁武區竹後國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.697919,
+    "lng": 120.373347,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADAANgA=",
+    "name": "(公立)高雄市仁武區烏林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.679226,
+    "lng": 120.353581,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADAANwA=",
+    "name": "(公立)高雄市仁武區登發國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.687097,
+    "lng": 120.347435,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADAAOAA=",
+    "name": "(公立)高雄市仁武區灣內國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.698691,
+    "lng": 120.356434,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADAAOQA=",
+    "name": "(私立)高雄市私立金貝兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.680101,
+    "lng": 120.339932,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADEAMQA=",
+    "name": "(準公共)高雄市私立天使幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.702039,
+    "lng": 120.347742,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADEAMwA=",
+    "name": "(準公共)高雄市私立仁武同心園幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.707091,
+    "lng": 120.346155,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADEANAA=",
+    "name": "(準公共)高雄市私立光仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.703807,
+    "lng": 120.354487,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADEANwA=",
+    "name": "(私立)高雄市私立亨利幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.685467,
+    "lng": 120.332856,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIAMAA=",
+    "name": "(準公共)高雄市私立新資優生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.683973,
+    "lng": 120.346127,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIAMQA=",
+    "name": "(公立)高雄市立仁武特殊教育學校幼兒部",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.691669,
+    "lng": 120.331398,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIAMgA=",
+    "name": "(準公共)高雄市私立及人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.685263,
+    "lng": 120.33305,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIAMwA=",
+    "name": "(準公共)高雄市私立新思維幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.686406,
+    "lng": 120.3386,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIANAA=",
+    "name": "(準公共)高雄市私立仁武保進國際藝術幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.694169,
+    "lng": 120.319272,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIANQA=",
+    "name": "(準公共)高雄市私立彼得魚幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.682562,
+    "lng": 120.341902,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIANgA=",
+    "name": "(私立)高雄市私立常春藤仁武幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.675694,
+    "lng": 120.355246,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIANwA=",
+    "name": "(準公共)高雄市私立帝伊幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.687393,
+    "lng": 120.331675,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIAOAA=",
+    "name": "(準公共)高雄市私立拍拍手幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.675337,
+    "lng": 120.33657,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADIAOQA=",
+    "name": "(私立)高雄市私立仁澄幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.687932,
+    "lng": 120.348112,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADMAMAA=",
+    "name": "(準公共)高雄市私立維尼頓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.704706,
+    "lng": 120.350993,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADMAMQA=",
+    "name": "(準公共)高雄市私立昕紀元幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.687161,
+    "lng": 120.347933,
+    "sid": "MQA4ADgAMQA0ADAAMAAwADMAMgA=",
+    "name": "(非營利)高雄市灣內非營利幼兒園 (委託社團法人高雄市碩苗社會教育關懷協會辦理)",
+    "type": "spub2"
   }
 ]

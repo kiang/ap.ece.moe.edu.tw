@@ -1,10 +1,82 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.791596,
+    "lng": 120.346307,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADAAMQA=",
+    "name": "(準公共)高雄市私立宏欣幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.795508,
+    "lng": 120.326064,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADAAMgA=",
+    "name": "(準公共)高雄市私立晨光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.791316,
+    "lng": 120.34637,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADAAMwA=",
+    "name": "(準公共)高雄市私立燕巢宏欣幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.768741,
+    "lng": 120.37986,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADAANAA=",
+    "name": "(公立)高雄市燕巢區橫山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.752926,
+    "lng": 120.358649,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADAANQA=",
+    "name": "(公立)高雄市燕巢區鳳雄國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.795023,
+    "lng": 120.365294,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADAANgA=",
+    "name": "(公立)高雄市燕巢區燕巢國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.792869,
+    "lng": 120.365737,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADAANwA=",
+    "name": "(準公共)高雄市私立家家幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.766913,
+    "lng": 120.361483,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADAAOQA=",
+    "name": "(私立)義大醫療財團法人附設高雄市私立義大醫療幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.791459,
+    "lng": 120.337529,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADEAMAA=",
+    "name": "(公立)高雄市燕巢區安招國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.758627,
+    "lng": 120.372531,
+    "sid": "MQA4ADgAMgA0ADAAMAAwADEAMQA=",
+    "name": "(私立)法務部高雄正德職場互助教保服務中心(委託社團法人高雄市佳欣幼兒發展學會辦理)",
+    "type": "spub1"
   }
 ]

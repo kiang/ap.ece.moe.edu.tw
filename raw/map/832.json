@@ -1,10 +1,130 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.510193,
+    "lng": 120.392119,
+    "sid": "MQA4ADgAMwAyADAAMAAwADAAMgA=",
+    "name": "(準公共)高雄市私立仁惠幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.511577,
+    "lng": 120.392481,
+    "sid": "MQA4ADgAMwAyADAAMAAwADAANAA=",
+    "name": "(私立)高雄市私立皇冠幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.512056,
+    "lng": 120.392575,
+    "sid": "MQA4ADgAMwAyADAAMAAwADAANQA=",
+    "name": "(私立)高雄市私立亮晶晶幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.528593,
+    "lng": 120.395823,
+    "sid": "MQA4ADgAMwAyADAAMAAwADAANgA=",
+    "name": "(公立)高雄市林園區金潭國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.487074,
+    "lng": 120.396676,
+    "sid": "MQA4ADgAMwAyADAAMAAwADAANwA=",
+    "name": "(公立)高雄市林園區中芸國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.478867,
+    "lng": 120.41108,
+    "sid": "MQA4ADgAMwAyADAAMAAwADAAOAA=",
+    "name": "(公立)高雄市林園區汕尾國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.504302,
+    "lng": 120.378561,
+    "sid": "MQA4ADgAMwAyADAAMAAwADAAOQA=",
+    "name": "(公立)高雄市林園區港埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.509072,
+    "lng": 120.395833,
+    "sid": "MQA4ADgAMwAyADAAMAAwADEAMAA=",
+    "name": "(準公共)財團法人天主教奧思會附設高雄市私立理達幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.518053,
+    "lng": 120.393277,
+    "sid": "MQA4ADgAMwAyADAAMAAwADEAMQA=",
+    "name": "(準公共)高雄市私立中華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.509871,
+    "lng": 120.392955,
+    "sid": "MQA4ADgAMwAyADAAMAAwADEAMgA=",
+    "name": "(私立)高雄市私立禾馨幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.488713,
+    "lng": 120.395093,
+    "sid": "MQA4ADgAMwAyADAAMAAwADEANAA=",
+    "name": "(私立)高雄市私立伯特利幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.509679,
+    "lng": 120.394363,
+    "sid": "MQA4ADgAMwAyADAAMAAwADEANgA=",
+    "name": "(準公共)高雄市私立橘子園幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.503177,
+    "lng": 120.391664,
+    "sid": "MQA4ADgAMwAyADAAMAAwADEANwA=",
+    "name": "(準公共)高雄市私立橘子園東林幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.504596,
+    "lng": 120.38826,
+    "sid": "MQA4ADgAMwAyADAAMAAwADEAOAA=",
+    "name": "(公立)高雄市林園區王公國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.508277,
+    "lng": 120.393408,
+    "sid": "MQA4ADgAMwAyADAAMAAwADEAOQA=",
+    "name": "(非營利)高雄市林園非營利幼兒園(委託社團法人高雄市愛與關懷教育發展協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.505903,
+    "lng": 120.397138,
+    "sid": "MQA4ADgAMwAyADAAMAAwADIAMAA=",
+    "name": "(私立)中華郵政公司林園郵局職場互助教保服務中心(委託社團法人高雄市愛與關懷教育發展協會辦理)",
+    "type": "spub1"
   }
 ]

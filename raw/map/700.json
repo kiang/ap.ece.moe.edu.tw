@@ -1,10 +1,162 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.992575,
+    "lng": 120.18975,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAAMQA=",
+    "name": "(準公共)臺南市私立佳恩幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.995175,
+    "lng": 120.202898,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAAMgA=",
+    "name": "(私立)臺南市私立興文齋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.004817,
+    "lng": 120.190441,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAANQA=",
+    "name": "(準公共)臺南市私立武聖幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.986812,
+    "lng": 120.207983,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAANwA=",
+    "name": "(私立)臺南市私立知多幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.996447,
+    "lng": 120.193532,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAAOAA=",
+    "name": "(私立)社團法人台南市基督教青年會附設臺南市私立青年會幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.006131,
+    "lng": 120.196334,
+    "sid": "MQA2ADcAMAAwADAAMAAwADAAOQA=",
+    "name": "(公立)臺南市中西區成功國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.997355,
+    "lng": 120.194005,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAMAA=",
+    "name": "(公立)臺南市中西區協進國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.984639,
+    "lng": 120.201108,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAMQA=",
+    "name": "(公立)臺南市中西區進學國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.987767,
+    "lng": 120.203814,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAMwA=",
+    "name": "(公立)臺南市立第一幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.989758,
+    "lng": 120.20321,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEANAA=",
+    "name": "(公立)臺南市中西區忠義國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.98556,
+    "lng": 120.21015,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEANQA=",
+    "name": "(公立)國立臺南大學附設實驗國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.999945,
+    "lng": 120.184829,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEANgA=",
+    "name": "(準公共)臺南市私立愛迪生資優幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.984119,
+    "lng": 120.198234,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEANwA=",
+    "name": "(準公共)臺南市私立新大華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.98646,
+    "lng": 120.200393,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAOAA=",
+    "name": "(私立)臺南市私立哈佛蒙特梭利幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.986058,
+    "lng": 120.200658,
+    "sid": "MQA2ADcAMAAwADAAMAAwADEAOAAtADAAMQA=",
+    "name": "(私立)臺南市私立哈佛蒙特梭利幼兒園小小分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.981578,
+    "lng": 120.199488,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIAMAA=",
+    "name": "(準公共)財團法人中華基督教衛理公會附設臺南市私立衛理幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.984059,
+    "lng": 120.203333,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIAMgA=",
+    "name": "(公立)臺南市立中山國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.993401,
+    "lng": 120.211368,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIAMwA=",
+    "name": "(公立)國立臺南大學附屬啟聰學校幼兒部",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.992046,
+    "lng": 120.187495,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIANAA=",
+    "name": "(私立)國立臺南生活美學館職場互助教保服務中心(委託財團法人彭婉如文教基金會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.992215,
+    "lng": 120.203391,
+    "sid": "MQA2ADcAMAAwADAAMAAwADIANQA=",
+    "name": "(私立)臺灣土地銀行臺南分行職場互助教保服務中心(委託社團法人中華育英社會教育關懷協會辦理)",
+    "type": "spub1"
   }
 ]

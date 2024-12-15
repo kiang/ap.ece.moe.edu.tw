@@ -1,10 +1,82 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.994489,
+    "lng": 120.545609,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAAMQA=",
+    "name": "(準公共)彰化縣私立日光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.989937,
+    "lng": 120.542836,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAAMwA=",
+    "name": "(準公共)彰化縣私立喬森幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.989874,
+    "lng": 120.537296,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAANAA=",
+    "name": "(準公共)彰化縣私立芝麻街大村幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.986685,
+    "lng": 120.566133,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立大村鵝媽媽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.994776,
+    "lng": 120.547383,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAANgA=",
+    "name": "(準公共)彰化縣私立快樂寶貝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.982927,
+    "lng": 120.534415,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAANwA=",
+    "name": "(準公共)彰化縣私立大村安麒兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.984523,
+    "lng": 120.564167,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAAOAA=",
+    "name": "(公立)彰化縣大村鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.995557,
+    "lng": 120.547744,
+    "sid": "MQAxADUAMQA1ADAAMAAwADAAOQA=",
+    "name": "(準公共)彰化縣私立快樂寶貝中正幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.984701,
+    "lng": 120.525388,
+    "sid": "MQAxADUAMQA1ADAAMAAwADEAMAA=",
+    "name": "(非營利)彰化縣大西非營利幼兒園（委託社團法人彰化縣樂說多元專業服務發展協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.99410908,
+    "lng": 120.58549181,
+    "sid": "MQAxADUAMQA1ADAAMAAwADEAMQA=",
+    "name": "(非營利)彰化縣村東非營利幼兒園（委託社團法人彰化縣親職福利服務協會辦理）",
+    "type": "spub2"
   }
 ]

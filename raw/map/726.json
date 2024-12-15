@@ -1,10 +1,74 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.237407,
+    "lng": 120.173907,
+    "sid": "MQA2ADcAMgA2ADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市立學甲幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.233758,
+    "lng": 120.187819,
+    "sid": "MQA2ADcAMgA2ADAAMAAwADAAMgA=",
+    "name": "(私立)臺南市私立諾貝爾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.236898,
+    "lng": 120.174947,
+    "sid": "MQA2ADcAMgA2ADAAMAAwADAAMwA=",
+    "name": "(公立)臺南市學甲區學甲國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.228094,
+    "lng": 120.183472,
+    "sid": "MQA2ADcAMgA2ADAAMAAwADAANQA=",
+    "name": "(公立)臺南市學甲區東陽國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.236372,
+    "lng": 120.18259,
+    "sid": "MQA2ADcAMgA2ADAAMAAwADAANgA=",
+    "name": "(非營利)臺南市慈母非營利幼兒園(財團法人臺南市私立天主教伯利恆社會福利基金會申請辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.236064,
+    "lng": 120.18395,
+    "sid": "MQA2ADcAMgA2ADAAMAAwADAAOAA=",
+    "name": "(準公共)臺南市私立法源幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.287525,
+    "lng": 120.201147,
+    "sid": "MQA2ADcAMgA2ADAAMAAwADAAOQA=",
+    "name": "(公立)臺南市學甲區頂洲國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.246115,
+    "lng": 120.159823,
+    "sid": "MQA2ADcAMgA2ADAAMAAwADEAMAA=",
+    "name": "(公立)臺南市學甲區中洲國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.257891,
+    "lng": 120.203864,
+    "sid": "MQA2ADcAMgA2ADAAMAAwADEAMQA=",
+    "name": "(公立)臺南市學甲區宅港國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

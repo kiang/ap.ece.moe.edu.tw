@@ -1,10 +1,50 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.16043,
+    "lng": 120.765652,
+    "sid": "MQA4ADgANAA4ADAAMAAwADAAMQA=",
+    "name": "(公立)高雄市桃源區桃源國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.105442,
+    "lng": 120.682689,
+    "sid": "MQA4ADgANAA4ADAAMAAwADAAMgA=",
+    "name": "(公立)高雄市桃源區建山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.252881,
+    "lng": 120.819355,
+    "sid": "MQA4ADgANAA4ADAAMAAwADAAMwA=",
+    "name": "(公立)高雄市桃源區樟山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.128821,
+    "lng": 120.719366,
+    "sid": "MQA4ADgANAA4ADAAMAAwADAANAA=",
+    "name": "(公立)高雄市桃源區興中國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.158592,
+    "lng": 120.765621,
+    "sid": "MQA4ADgANAA4ADAAMAAwADAANQA=",
+    "name": "(公立)高雄市桃源區立桃源幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.055383,
+    "lng": 120.722056,
+    "sid": "MQA4ADgANAA4ADAAMAAwADAANgA=",
+    "name": "(私立)高雄市寶山部落互助教保服務中心(高雄市桃源區寶山社區發展協會辦理)",
+    "type": "spub1"
   }
 ]

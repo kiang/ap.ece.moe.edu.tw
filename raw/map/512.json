@@ -1,10 +1,90 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.914692,
+    "lng": 120.542178,
+    "sid": "MQAxADUAMQAyADAAMAAwADAAMQA=",
+    "name": "(私立)彰化縣私立寶寶幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.923989,
+    "lng": 120.561945,
+    "sid": "MQAxADUAMQAyADAAMAAwADAANAA=",
+    "name": "(準公共)彰化縣私立永靖安琪爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.930778,
+    "lng": 120.544245,
+    "sid": "MQAxADUAMQAyADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立東森幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.92184,
+    "lng": 120.541887,
+    "sid": "MQAxADUAMQAyADAAMAAwADAANgA=",
+    "name": "(準公共)彰化縣私立望達福幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.925127,
+    "lng": 120.549617,
+    "sid": "MQAxADUAMQAyADAAMAAwADAANwA=",
+    "name": "(準公共)彰化縣私立溫徹斯特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.921264,
+    "lng": 120.548966,
+    "sid": "MQAxADUAMQAyADAAMAAwADAAOAA=",
+    "name": "(公立)彰化縣永靖鄉永靖國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.915082,
+    "lng": 120.545758,
+    "sid": "MQAxADUAMQAyADAAMAAwADAAOQA=",
+    "name": "(公立)彰化縣永靖鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.92247,
+    "lng": 120.548006,
+    "sid": "MQAxADUAMQAyADAAMAAwADEAMQA=",
+    "name": "(準公共)彰化縣私立強森永靖幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.914793,
+    "lng": 120.54142,
+    "sid": "MQAxADUAMQAyADAAMAAwADEAMwA=",
+    "name": "(非營利)彰化縣福德非營利幼兒園（委託社團法人彰化縣中華幼兒教保職涯發展協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.925891,
+    "lng": 120.566027,
+    "sid": "MQAxADUAMQAyADAAMAAwADEANAA=",
+    "name": "(非營利)彰化縣永興非營利幼兒園（委託社團法人彰化縣中華幼兒教保職涯發展協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.923825,
+    "lng": 120.544192,
+    "sid": "MQAxADUAMQAyADAAMAAwADEANQA=",
+    "name": "(準公共)彰化縣私立寶貝幼兒園",
+    "type": "spub3"
   }
 ]

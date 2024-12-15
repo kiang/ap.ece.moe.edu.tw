@@ -1,10 +1,50 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.905752,
+    "lng": 120.228004,
+    "sid": "MQA4ADgAMgA5ADAAMAAwADAAMQA=",
+    "name": "(準公共)高雄市私立公館幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.87882,
+    "lng": 120.249074,
+    "sid": "MQA4ADgAMgA5ADAAMAAwADAAMgA=",
+    "name": "(準公共)高雄市私立新佳欣幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.887711,
+    "lng": 120.244429,
+    "sid": "MQA4ADgAMgA5ADAAMAAwADAAMwA=",
+    "name": "(公立)高雄市湖內區大湖國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.907419,
+    "lng": 120.212568,
+    "sid": "MQA4ADgAMgA5ADAAMAAwADAANAA=",
+    "name": "(公立)高雄市湖內區文賢國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.896302,
+    "lng": 120.225252,
+    "sid": "MQA4ADgAMgA5ADAAMAAwADAANQA=",
+    "name": "(公立)高雄市湖內區海埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.90597,
+    "lng": 120.221117,
+    "sid": "MQA4ADgAMgA5ADAAMAAwADAANgA=",
+    "name": "(公立)高雄市湖內區明宗國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]
