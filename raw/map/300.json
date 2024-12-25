@@ -1334,5 +1334,13 @@
     "sid": "MAA2ADMAMAAwADAAMAAyADAAMgA=",
     "name": "(公立)新竹市東區科園國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.780171,
+    "lng": 120.998154,
+    "sid": "MAA2ADMAMAAwADAAMAAyADAAMwA=",
+    "name": "(私立)瑞昱半導體股份有限公司職工福利委員會附設新竹市私立瑞昱幼兒園",
+    "type": "spub1"
   }
 ]
