@@ -17,7 +17,7 @@
         "tel": "(07)5715670",
         "url": "",
         "count_approved": "88",
-        "shuttle": "\t\t",
+        "shuttle": "",
         "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.296431,
-            22.575801
+            120.292946,
+            22.580292
         ]
     }
 }

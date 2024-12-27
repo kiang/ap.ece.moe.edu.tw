@@ -10,10 +10,10 @@
         "town": "楊梅區",
         "type": "非營利",
         "address": "[326]瑞溪路一段88號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓、2樓",
+        "size": "72,067.7平方公尺",
+        "size_in": "1,042.15平方公尺",
+        "size_out": "32,685.51平方公尺",
         "tel": "(03)4810085",
         "url": "www.facebook.com\/profile.php?id=100064044040148",
         "count_approved": "90",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.1680588,
-            24.9071013
+            121.168628,
+            24.906434
         ]
     }
 }

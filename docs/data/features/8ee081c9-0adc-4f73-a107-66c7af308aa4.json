@@ -10,10 +10,10 @@
         "town": "蘆竹區",
         "type": "私立",
         "address": "[338]上竹路164巷9號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1~2",
+        "size": "3,189.84平方公尺",
+        "size_in": "1,472.94平方公尺",
+        "size_out": "876.67平方公尺",
         "tel": "(03)3232090",
         "url": "http:\/\/win.topschool.com.tw\/",
         "count_approved": "289",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.2646811,
-            25.0220546
+            121.265806,
+            25.021921
         ]
     }
 }

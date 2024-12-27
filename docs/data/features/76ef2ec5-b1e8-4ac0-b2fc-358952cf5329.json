@@ -17,7 +17,7 @@
         "tel": "(03)4506688",
         "url": "http:\/\/dafang.topschool.com.tw",
         "count_approved": "87",
-        "shuttle": "\t\t",
+        "shuttle": "",
         "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.25081,
-            24.9212849
+            121.250933,
+            24.919729
         ]
     }
 }

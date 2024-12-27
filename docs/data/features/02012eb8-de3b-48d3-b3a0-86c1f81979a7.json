@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1139552026號",
+        "reg_docno": "府授教幼字第1139552026號",
+        "reg_date": "2024\/10\/30",
+        "title": "新竹縣博愛非營利幼兒園(委託明新學校財團法人設立之明新科技大學辦理)",
+        "owner": "林啓瑞",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "非營利",
+        "address": "[302]光明六路72號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5557926",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "02012eb8-de3b-48d3-b3a0-86c1f81979a7",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.005648,
+            24.831033
+        ]
+    }
+}

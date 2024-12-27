@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1132572502號",
+        "reg_docno": "南市教特(一)字第1132572502號",
+        "reg_date": "2024\/12\/19",
+        "title": "國立臺灣文學館員工子女非營利幼兒園(委託社團法人台灣公共托育協會辦理)",
+        "owner": "呂佳旻",
+        "city": "臺南市",
+        "town": "東區",
+        "type": "非營利",
+        "address": "[701]北門路二段16號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2201239",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "599bc020-8fb6-4a01-a2a9-27bd2d3b3642",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.212738,
+            22.99913
+        ]
+    }
+}

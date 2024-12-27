@@ -10,10 +10,10 @@
         "town": "觀音區",
         "type": "公立",
         "address": "[328]文化路2號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓",
+        "size": "837平方公尺",
+        "size_in": "411平方公尺",
+        "size_out": "426平方公尺",
         "tel": "(03)4732009#613",
         "url": "",
         "count_approved": "61",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.0830839,
-            25.0354618
+            121.082834,
+            25.035081
         ]
     }
 }

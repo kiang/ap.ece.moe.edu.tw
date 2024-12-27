@@ -17,7 +17,7 @@
         "tel": "(06)2723287",
         "url": "",
         "count_approved": "200",
-        "shuttle": "\t\t",
+        "shuttle": "",
         "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.255982,
-            23.006965
+            120.255979,
+            23.006995
         ]
     }
 }

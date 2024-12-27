@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1130202385號",
+        "reg_docno": "府教特字第1130202385號",
+        "reg_date": "2024\/12\/16",
+        "title": "瑞昱半導體股份有限公司職工福利委員會附設新竹市私立瑞昱幼兒園",
+        "owner": "黃仙名",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]園區二路9-1號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5780211#11522",
+        "url": "",
+        "count_approved": "122",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "925b260b-f240-43c9-98b7-5991235373f5",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.998154,
+            24.780171
+        ]
+    }
+}

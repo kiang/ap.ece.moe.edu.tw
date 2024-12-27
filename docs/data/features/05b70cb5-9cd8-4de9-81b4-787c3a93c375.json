@@ -15,7 +15,7 @@
         "size_in": "1,449.85平方公尺",
         "size_out": "509.94平方公尺",
         "tel": "(07)7714315",
-        "url": "http:\/\/niantze.ieschool.com.tw",
+        "url": "",
         "count_approved": "110",
         "shuttle": "",
         "pre_public": "無",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.340899,
-            22.603698
+            120.341038,
+            22.603545
         ]
     }
 }

@@ -10,10 +10,10 @@
         "town": "桃園區",
         "type": "公立",
         "address": "[330]正康三街139號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓",
+        "size": "742平方公尺",
+        "size_in": "472平方公尺",
+        "size_out": "270平方公尺",
         "tel": "(03)3250959#615",
         "url": "",
         "count_approved": "90",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.307184,
-            25.007139
+            121.30703,
+            25.007159
         ]
     }
 }

@@ -14,7 +14,7 @@
         "size": "923.59平方公尺",
         "size_in": "272.55平方公尺",
         "size_out": "651.04平方公尺",
-        "tel": "(07)5515405#7013",
+        "tel": "(07)5515405#7010",
         "url": "http:\/\/school.kh.edu.tw\/index.php?WebID=77",
         "count_approved": "76",
         "shuttle": "",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.276431,
-            22.657032
+            120.275965,
+            22.656807
         ]
     }
 }

@@ -17,7 +17,7 @@
         "tel": "(07)7838398",
         "url": "",
         "count_approved": "210",
-        "shuttle": "",
+        "shuttle": "\t\t",
         "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.4013178,
-            22.5999912
+            120.40097797,
+            22.59965699
         ]
     }
 }

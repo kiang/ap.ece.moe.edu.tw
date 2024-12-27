@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130095894號",
+        "reg_docno": "府社福字第0079號",
+        "reg_date": "1981\/10\/21",
+        "title": "臺中市私立孩子國茁悅幼兒園",
+        "owner": "王諺程",
+        "city": "臺中市",
+        "town": "大里區",
+        "type": "私立",
+        "address": "[412]公教街201號",
+        "floor": "1-3樓",
+        "size": "1,227.6平方公尺",
+        "size_in": "699.6平方公尺",
+        "size_out": "528平方公尺",
+        "tel": "(04)22780342",
+        "url": "",
+        "count_approved": "208",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "c04cc0c7-a0f1-4706-92a2-e7b4f160ebf4",
+        "monthly": 8492,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.710116,
+            24.107923
+        ]
+    }
+}

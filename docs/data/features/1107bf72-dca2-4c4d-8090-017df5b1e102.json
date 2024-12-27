@@ -21,7 +21,7 @@
         "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
-        "penalty": "無",
+        "penalty": "有",
         "has_slip": "yes",
         "id": "1107bf72-dca2-4c4d-8090-017df5b1e102",
         "monthly": 3000,
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.5094399,
-            25.2584097
+            121.509353,
+            25.258369
         ]
     }
 }

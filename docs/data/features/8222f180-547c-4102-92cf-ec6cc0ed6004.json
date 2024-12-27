@@ -17,7 +17,7 @@
         "tel": "(06)5720359",
         "url": "angel.topschool.com.tw",
         "count_approved": "100",
-        "shuttle": "\t\t",
+        "shuttle": "",
         "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.248019,
-            23.175004
+            120.248114,
+            23.174905
         ]
     }
 }

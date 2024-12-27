@@ -17,7 +17,7 @@
         "tel": "(04)23397104",
         "url": "",
         "count_approved": "80",
-        "shuttle": "\t\t",
+        "shuttle": "",
         "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.70187,
-            24.067902
+            120.702033,
+            24.067739
         ]
     }
 }

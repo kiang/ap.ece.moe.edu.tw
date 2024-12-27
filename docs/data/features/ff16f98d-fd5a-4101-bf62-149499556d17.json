@@ -10,10 +10,10 @@
         "town": "桃園區",
         "type": "私立",
         "address": "[330]三民路一段2號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓、2樓、3樓",
+        "size": "3,701.1平方公尺",
+        "size_in": "1,668.3平方公尺",
+        "size_out": "2,032.8平方公尺",
         "tel": "(03)3323351",
         "url": "https:\/\/theresaedu.topschool.tw",
         "count_approved": "300",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.323295,
-            24.996354
+            121.323405,
+            24.996734
         ]
     }
 }

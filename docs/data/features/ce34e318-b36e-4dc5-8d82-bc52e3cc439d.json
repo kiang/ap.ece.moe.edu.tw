@@ -17,7 +17,7 @@
         "tel": "(03)4995221",
         "url": "",
         "count_approved": "180",
-        "shuttle": "\t\t",
+        "shuttle": "",
         "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.2178831,
-            24.865021
+            121.218093,
+            24.865254
         ]
     }
 }

@@ -10,10 +10,10 @@
         "town": "東區",
         "type": "私立",
         "address": "[701]東興路236號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓、2樓",
+        "size": "630.386平方公尺",
+        "size_in": "476.786平方公尺",
+        "size_out": "153.6平方公尺",
         "tel": "(06)2370639",
         "url": "http:\/\/tw.myblog.yahoo.com\/generation86-generation86",
         "count_approved": "100",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.229821,
-            22.994723
+            120.229766,
+            22.994657
         ]
     }
 }

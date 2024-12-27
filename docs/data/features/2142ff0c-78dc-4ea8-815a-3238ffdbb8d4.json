@@ -16,7 +16,7 @@
         "size_out": "523.03平方公尺",
         "tel": "(07)3500646",
         "url": "",
-        "count_approved": "174",
+        "count_approved": "180",
         "shuttle": "",
         "pre_public": "113-115",
         "is_free5": "",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.3104508,
-            22.6839861
+            120.310634,
+            22.683923
         ]
     }
 }
