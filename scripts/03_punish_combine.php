@@ -6,7 +6,7 @@ $preschools = json_decode(file_get_contents(__DIR__ . '/../docs/preschools.json'
 $preschoolLookup = [];
 foreach ($preschools['features'] as $feature) {
     $key = $feature['properties']['city'] . '/' . $feature['properties']['title'];
-    $preschoolLookup[$key] = $feature['properties']['id'];
+    $preschoolLookup[$key] = $feature['properties'];
 }
 
 // Initialize results array
@@ -36,7 +36,7 @@ foreach ($files as $file) {
             'date' => $punishment[0],
             'law' => $punishment[3],
             'punishment' => $punishment[5],
-            'id' => $preschoolLookup[$lookupKey],
+            'id' => $preschoolLookup[$lookupKey]['id'],
         ];
     }
 }
