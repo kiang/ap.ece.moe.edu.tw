@@ -158,5 +158,13 @@
     "sid": "MAA5ADQAMwA1ADAAMAAwADIAMgA=",
     "name": "(公立)臺中市梧棲區梧南國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.256209,
+    "lng": 120.551997,
+    "sid": "MAA5ADQAMwA1ADAAMAAwADIAMwA=",
+    "name": "(私立)臺中市私立善美真華德福幼兒園",
+    "type": "spub1"
   }
 ]

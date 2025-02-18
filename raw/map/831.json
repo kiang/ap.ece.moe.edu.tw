@@ -262,5 +262,13 @@
     "sid": "MQA4ADgAMwAxADAAMAAwADMAOQA=",
     "name": "(準公共)高雄市私立新國際幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.602084,
+    "lng": 120.402496,
+    "sid": "MQA4ADgAMwAxADAAMAAwADQAMAA=",
+    "name": "(私立)高雄市私立新創意幼兒園",
+    "type": "spub1"
   }
 ]
