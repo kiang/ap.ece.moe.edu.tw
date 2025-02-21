@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1130508203號",
+        "reg_docno": "八六彰府社福字第182849號",
+        "reg_date": "1997\/09\/26",
+        "title": "彰化縣私立冉冉小屋蒙特梭利幼兒園",
+        "owner": "陳宛琳",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "私立",
+        "address": "[500]大埔路219號",
+        "floor": "1樓至2樓",
+        "size": "225.36平方公尺",
+        "size_in": "75.36平方公尺",
+        "size_out": "150平方公尺",
+        "tel": "(04)7118904",
+        "url": "",
+        "count_approved": "40",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "5a17b80b-7daa-4f64-875f-dee7edf2f1e9",
+        "monthly": 9000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.544835,
+            24.058576
+        ]
+    }
+}

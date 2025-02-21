@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1130112469號",
+        "reg_docno": "中市教幼字第1130112469號",
+        "reg_date": "2025\/01\/06",
+        "title": "臺中市私立荳荳幼兒園",
+        "owner": "方佩蘭",
+        "city": "臺中市",
+        "town": "烏日區",
+        "type": "私立",
+        "address": "[414]溪南路一段263巷56號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)23355136",
+        "url": "",
+        "count_approved": "71",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "6b73cd31-3e94-4723-a827-936570b4e79b",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.644822,
+            24.082145
+        ]
+    }
+}
