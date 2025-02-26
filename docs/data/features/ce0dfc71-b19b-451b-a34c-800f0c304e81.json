@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1140071083號",
+        "reg_docno": "府教幼字第1130100851號",
+        "reg_date": "2024\/03\/18",
+        "title": "彰化縣二林鎮新生國民小學附設幼兒園",
+        "owner": "江明科",
+        "city": "彰化縣",
+        "town": "二林鎮",
+        "type": "公立",
+        "address": "[526]鎮平巷59號",
+        "floor": "1樓",
+        "size": "573.48平方公尺",
+        "size_in": "271.48平方公尺",
+        "size_out": "302平方公尺",
+        "tel": "(04)8650977",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "ce0dfc71-b19b-451b-a34c-800f0c304e81",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.394881,
+            23.937521
+        ]
+    }
+}
