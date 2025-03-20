@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1149550458號",
+        "reg_docno": "府授教幼字第1149550458號",
+        "reg_date": "2025\/03\/12",
+        "title": "新竹縣私立柏林影展幼兒園",
+        "owner": "張逸",
+        "city": "新竹縣",
+        "town": "湖口鄉",
+        "type": "私立",
+        "address": "[303]湖中路32號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "待申請",
+        "url": "",
+        "count_approved": "317",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fb0fd92f-3b0f-4ed5-8508-2223e9337f9c",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.064191,
+            24.888311
+        ]
+    }
+}
