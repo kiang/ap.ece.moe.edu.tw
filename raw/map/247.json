@@ -518,5 +518,13 @@
     "sid": "MAAzADIANAA3ADAAMAAwADcANQA=",
     "name": "(準公共)新北市私立日日安幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.087516,
+    "lng": 121.460706,
+    "sid": "MAAzADIANAA3ADAAMAAwADcANgA=",
+    "name": "(私立)新北市私立雄林國際幼兒園",
+    "type": "spub1"
   }
 ]
