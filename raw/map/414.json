@@ -1,0 +1,242 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.108958,
+    "lng": 120.638058,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADAAMQA=",
+    "name": "(準公共)臺中市私立三育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.105939,
+    "lng": 120.638218,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADAAMgA=",
+    "name": "(準公共)臺中市私立童話幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.106372,
+    "lng": 120.637714,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADAAMwA=",
+    "name": "(準公共)臺中市私立諾貝爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.080971,
+    "lng": 120.642771,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADAANAA=",
+    "name": "(準公共)臺中市私立和新儷園幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.108779,
+    "lng": 120.64554,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADAANQA=",
+    "name": "(準公共)臺中市私立快樂童年幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.063797,
+    "lng": 120.641832,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADAANgA=",
+    "name": "(準公共)臺中市私立祥愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.10897,
+    "lng": 120.595348,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADAAOAA=",
+    "name": "(私立)正和書院附設臺中市私立光明幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.107885,
+    "lng": 120.626967,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADAAOQA=",
+    "name": "(私立)臺中市私立愛森倫幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.111767,
+    "lng": 120.641075,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEAMQA=",
+    "name": "(準公共)臺中市私立亞士可幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.106691,
+    "lng": 120.622731,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEAMgA=",
+    "name": "(公立)臺中市烏日區烏日國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.109687,
+    "lng": 120.638506,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEAMwA=",
+    "name": "(公立)臺中市烏日區九德國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.107481,
+    "lng": 120.640274,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEANAA=",
+    "name": "(公立)臺中市烏日區僑仁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.109055,
+    "lng": 120.637473,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEANQA=",
+    "name": "(公立)臺中市立烏日幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.109456,
+    "lng": 120.592552,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEANQAtADAAMQA=",
+    "name": "(公立)臺中市立烏日幼兒園榮泉分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.098259,
+    "lng": 120.641634,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEANQAtADAAMwA=",
+    "name": "(公立)臺中市立烏日幼兒園光明分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.07692,
+    "lng": 120.641309,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEANQAtADAANAA=",
+    "name": "(公立)臺中市立烏日幼兒園溪埧分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.083705,
+    "lng": 120.639132,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEANQAtADAANQA=",
+    "name": "(公立)臺中市立烏日幼兒園東園分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.094359,
+    "lng": 120.646981,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEANgA=",
+    "name": "(公立)臺中市烏日區五光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.110397,
+    "lng": 120.594306,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEANwA=",
+    "name": "(公立)臺中市烏日區旭光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.10317,
+    "lng": 120.626567,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEAOAA=",
+    "name": "(私立)臺中市私立宏典幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.110793,
+    "lng": 120.596325,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADEAOQA=",
+    "name": "(私立)臺中市私立摩根幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.062495,
+    "lng": 120.642745,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIAMAA=",
+    "name": "(公立)臺中市烏日區喀哩國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.071705,
+    "lng": 120.644102,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIAMQA=",
+    "name": "(非營利)臺中市溪南非營利幼兒園(委託社團法人彰化縣全方位教育協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.084216,
+    "lng": 120.639217,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIAMgA=",
+    "name": "(公立)臺中市烏日區東園國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.112442,
+    "lng": 120.641204,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIAMwA=",
+    "name": "(私立)歐森烏日教育事業股份有限公司附設臺中市私立鷗森烏日幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.112196,
+    "lng": 120.641559,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIANAA=",
+    "name": "(準公共)臺中市私立書聖幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.111538,
+    "lng": 120.592994,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIANgA=",
+    "name": "(準公共)臺中市私立森林熊幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.105985,
+    "lng": 120.623027,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIANwA=",
+    "name": "(準公共)臺中市私立精英幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.105697,
+    "lng": 120.638567,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIAOAA=",
+    "name": "(準公共)臺中市私立童悅幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.082145,
+    "lng": 120.644822,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADIAOQA=",
+    "name": "(私立)臺中市私立荳荳幼兒園",
+    "type": "spub1"
+  }
+]

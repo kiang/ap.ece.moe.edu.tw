@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.332179,
+    "lng": 120.670271,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAAMgA=",
+    "name": "(準公共)臺中市私立欣達幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.326243,
+    "lng": 120.636363,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAANAA=",
+    "name": "(公立)臺中市外埔區水美國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.340586,
+    "lng": 120.64282,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAANQA=",
+    "name": "(公立)臺中市立外埔幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.332577,
+    "lng": 120.653255,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAANgA=",
+    "name": "(公立)臺中市外埔區外埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.337479,
+    "lng": 120.664266,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAANwA=",
+    "name": "(公立)臺中市外埔區馬鳴國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.345902,
+    "lng": 120.704827,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAAOAA=",
+    "name": "(公立)臺中市外埔區安定國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.349135,
+    "lng": 120.656525,
+    "sid": "MAA5ADQAMwA4ADAAMAAwADAAOQA=",
+    "name": "(公立)臺中市外埔區鐵山國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

@@ -17,7 +17,7 @@
         "tel": "(05)5337799",
         "url": "",
         "count_approved": "270",
-        "shuttle": "",
+        "shuttle": "\t\t",
         "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.539967,
-            23.713556
+            120.53999852,
+            23.71359652
         ]
     }
 }

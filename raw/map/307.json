@@ -1,0 +1,66 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.770323,
+    "lng": 121.087513,
+    "sid": "MAA3ADMAMAA3ADAAMAAwADAAMQA=",
+    "name": "(私立)新竹縣私立光明園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.781217,
+    "lng": 121.076335,
+    "sid": "MAA3ADMAMAA3ADAAMAAwADAAMgA=",
+    "name": "(準公共)新竹縣私立台大幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.776641,
+    "lng": 121.078617,
+    "sid": "MAA3ADMAMAA3ADAAMAAwADAAMwA=",
+    "name": "(準公共)財團法人天主教耶穌肋傷女修會附設新竹縣私立孝愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.77396,
+    "lng": 121.083858,
+    "sid": "MAA3ADMAMAA3ADAAMAAwADAANAA=",
+    "name": "(公立)新竹縣芎林鄉芎林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.74656,
+    "lng": 121.103583,
+    "sid": "MAA3ADMAMAA3ADAAMAAwADAANQA=",
+    "name": "(公立)新竹縣芎林鄉碧潭國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.774618,
+    "lng": 121.082388,
+    "sid": "MAA3ADMAMAA3ADAAMAAwADAANgA=",
+    "name": "(公立)新竹縣芎林鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.737562,
+    "lng": 121.123689,
+    "sid": "MAA3ADMAMAA3ADAAMAAwADAANgAtADAAMQA=",
+    "name": "(公立)新竹縣芎林鄉立幼兒園五華分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.775182,
+    "lng": 121.095692,
+    "sid": "MAA3ADMAMAA3ADAAMAAwADAAOAA=",
+    "name": "(私立)新竹縣私立鶴雅幼兒園",
+    "type": "spub1"
+  }
+]

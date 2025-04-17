@@ -22,7 +22,7 @@
         "is_free5": "",
         "is_after": "有，人數：90",
         "penalty": "無",
-        "has_slip": "no",
+        "has_slip": "yes",
         "id": "e7f3d804-8e1a-4fc6-984f-43ac636c8c7c",
         "monthly": 2000,
         "is_active": 1
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            "120.406848",
-            "22.607531"
+            120.406848,
+            22.607531
         ]
     }
 }

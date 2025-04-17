@@ -1,0 +1,106 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.758744,
+    "lng": 120.677794,
+    "sid": "MQAyADUANQA3ADAAMAAwADAAMQA=",
+    "name": "(準公共)南投縣私立保進東海幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.750017,
+    "lng": 120.67913,
+    "sid": "MQAyADUANQA3ADAAMAAwADAAMgA=",
+    "name": "(準公共)南投縣私立培真幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.762226,
+    "lng": 120.685634,
+    "sid": "MQAyADUANQA3ADAAMAAwADAANwA=",
+    "name": "(準公共)南投縣私立湯姆幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.761747,
+    "lng": 120.687592,
+    "sid": "MQAyADUANQA3ADAAMAAwADAAOAA=",
+    "name": "(公立)南投縣竹山鎮竹山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.663516,
+    "lng": 120.666505,
+    "sid": "MQAyADUANQA3ADAAMAAwADEAMAA=",
+    "name": "(公立)南投縣竹山鎮瑞竹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.767986,
+    "lng": 120.70735,
+    "sid": "MQAyADUANQA3ADAAMAAwADEAMQA=",
+    "name": "(公立)南投縣竹山鎮延平國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.756347,
+    "lng": 120.676884,
+    "sid": "MQAyADUANQA3ADAAMAAwADEAMgA=",
+    "name": "(公立)南投縣竹山鎮雲林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.761773,
+    "lng": 120.703432,
+    "sid": "MQAyADUANQA3ADAAMAAwADEANAA=",
+    "name": "(私立)南投縣私立竹山弘明幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.809938,
+    "lng": 120.721516,
+    "sid": "MQAyADUANQA3ADAAMAAwADEANQA=",
+    "name": "(公立)南投縣竹山鎮社寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.750945,
+    "lng": 120.677956,
+    "sid": "MQAyADUANQA3ADAAMAAwADEANgA=",
+    "name": "(非營利)南投縣前山非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.75429,
+    "lng": 120.689326,
+    "sid": "MQAyADUANQA3ADAAMAAwADEANwA=",
+    "name": "(準公共)南投縣私立優加幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.749018,
+    "lng": 120.682968,
+    "sid": "MQAyADUANQA3ADAAMAAwADEAOAA=",
+    "name": "(準公共)南投縣私立哈波特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.81145,
+    "lng": 120.738303,
+    "sid": "MQAyADUANQA3ADAAMAAwADEAOQA=",
+    "name": "(公立)南投縣竹山鎮中州國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

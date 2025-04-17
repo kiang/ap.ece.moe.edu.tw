@@ -1,0 +1,50 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.959156,
+    "lng": 120.542332,
+    "sid": "MQAxADUAMQAzADAAMAAwADAAMgA=",
+    "name": "(準公共)彰化縣私立永安幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.952473,
+    "lng": 120.542368,
+    "sid": "MQAxADUAMQAzADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立小牛津幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.938336,
+    "lng": 120.551412,
+    "sid": "MQAxADUAMQAzADAAMAAwADAANgA=",
+    "name": "(公立)彰化縣埔心鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.970099,
+    "lng": 120.512094,
+    "sid": "MQAxADUAMQAzADAAMAAwADAAOAA=",
+    "name": "(非營利)彰化縣梧鳳非營利幼兒園（委託財團法人亞洲大學辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.946884,
+    "lng": 120.523211,
+    "sid": "MQAxADUAMQAzADAAMAAwADAAOQA=",
+    "name": "(準公共)彰化縣私立天晴幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.948393,
+    "lng": 120.549845,
+    "sid": "MQAxADUAMQAzADAAMAAwADEAMAA=",
+    "name": "(私立)彰化縣私立亞瑟國際幼兒園",
+    "type": "spub1"
+  }
+]

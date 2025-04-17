@@ -1,0 +1,98 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.763349,
+    "lng": 120.268109,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADAAMgA=",
+    "name": "(準公共)高雄市私立迪斯耐幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.728418,
+    "lng": 120.252704,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADAAMwA=",
+    "name": "(準公共)高雄市私立心博愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.760943,
+    "lng": 120.267557,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADAANAA=",
+    "name": "(準公共)高雄市私立新迪斯耐幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.759367,
+    "lng": 120.265779,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADAANQA=",
+    "name": "(公立)高雄市梓官區梓官國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.733007,
+    "lng": 120.248019,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADAANgA=",
+    "name": "(公立)高雄市梓官區蚵寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.730913,
+    "lng": 120.252607,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADAANwA=",
+    "name": "(準公共)高雄市私立童心園地幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.72664,
+    "lng": 120.256669,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADAAOQA=",
+    "name": "(準公共)高雄市私立陽光寶貝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.758223,
+    "lng": 120.265484,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADEAMAA=",
+    "name": "(準公共)高雄市私立佳貝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.767364,
+    "lng": 120.263857,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADEAMQA=",
+    "name": "(準公共)高雄市私立加吉立幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.76108,
+    "lng": 120.268324,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADEAMgA=",
+    "name": "(準公共)財團法人天主教會高雄教區附設高雄市私立露庇幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.728665,
+    "lng": 120.258989,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADEAMwA=",
+    "name": "(非營利)高雄市蚵寮非營利幼兒園(委託社團法人高雄市婦幼同心會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.757513,
+    "lng": 120.264421,
+    "sid": "MQA4ADgAMgA2ADAAMAAwADEANAA=",
+    "name": "(準公共)高雄市私立陽光童心園幼兒園",
+    "type": "spub3"
+  }
+]

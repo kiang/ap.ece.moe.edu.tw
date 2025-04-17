@@ -1,0 +1,82 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.798846,
+    "lng": 120.45564,
+    "sid": "MQAzADYANAA4ADAAMAAwADAAMQA=",
+    "name": "(準公共)雲林縣私立大鳥幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.795962,
+    "lng": 120.461452,
+    "sid": "MQAzADYANAA4ADAAMAAwADAAMgA=",
+    "name": "(準公共)雲林縣私立喬大幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.793815,
+    "lng": 120.456171,
+    "sid": "MQAzADYANAA4ADAAMAAwADAAMwA=",
+    "name": "(準公共)雲林縣私立東昇幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.799176,
+    "lng": 120.453583,
+    "sid": "MQAzADYANAA4ADAAMAAwADAANAA=",
+    "name": "(準公共)財團法人天主教中華道明修女會附設雲林縣私立西光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.792883,
+    "lng": 120.463257,
+    "sid": "MQAzADYANAA4ADAAMAAwADAANQA=",
+    "name": "(公立)雲林縣西螺鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.752009,
+    "lng": 120.431973,
+    "sid": "MQAzADYANAA4ADAAMAAwADAANgA=",
+    "name": "(公立)雲林縣西螺鎮吳厝國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.798171,
+    "lng": 120.43931,
+    "sid": "MQAzADYANAA4ADAAMAAwADAANwA=",
+    "name": "(非營利)雲林縣安定非營利幼兒園(委託社團法人彰化縣中華幼兒教保職涯發展協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.795318,
+    "lng": 120.465269,
+    "sid": "MQAzADYANAA4ADAAMAAwADAAOAA=",
+    "name": "(公立)雲林縣西螺鎮中山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.76635,
+    "lng": 120.457799,
+    "sid": "MQAzADYANAA4ADAAMAAwADAAOQA=",
+    "name": "(公立)雲林縣西螺鎮廣興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.788223,
+    "lng": 120.444961,
+    "sid": "MQAzADYANAA4ADAAMAAwADEAMAA=",
+    "name": "(公立)雲林縣西螺鎮文興國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

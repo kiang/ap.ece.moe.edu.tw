@@ -1,0 +1,522 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.170664,
+    "lng": 120.688789,
+    "sid": "MAA5ADQAMAA0ADAAMAAwADAAOAA=",
+    "name": "(私立)臺中市私立麗園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.163298,
+    "lng": 120.694257,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADAAMgA=",
+    "name": "(私立)臺中市臺中地區農會附設臺中市私立北屯幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.157883,
+    "lng": 120.725706,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADAAMwA=",
+    "name": "(私立)臺中市私立育華幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.175205,
+    "lng": 120.719443,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADAANAA=",
+    "name": "(私立)臺中市私立葳肯幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.175618,
+    "lng": 120.683523,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADAANQA=",
+    "name": "(私立)臺中市私立華盛頓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.182737,
+    "lng": 120.717356,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADAANwA=",
+    "name": "(私立)臺中市私立貝登堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.169519,
+    "lng": 120.708826,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADAAOAA=",
+    "name": "(私立)臺中市私立北屯獅子王幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.190192,
+    "lng": 120.718215,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADEAMAA=",
+    "name": "(私立)臺中市私立一畝田幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.173194,
+    "lng": 120.722893,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADEAMgA=",
+    "name": "(私立)臺中市私立聖彼得幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.182074,
+    "lng": 120.695361,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADEANAA=",
+    "name": "(私立)臺中市私立史丹彿幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.177298,
+    "lng": 120.672447,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADEANQA=",
+    "name": "(私立)臺中市私立小飛鼠幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.180062,
+    "lng": 120.694642,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADEANwA=",
+    "name": "(私立)臺中市私立陽光城堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.185961,
+    "lng": 120.687148,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADEAOAA=",
+    "name": "(準公共)臺中市私立天堂鳥幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.182591,
+    "lng": 120.693165,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADIAMQA=",
+    "name": "(準公共)臺中市私立北屯吉貝兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.168766,
+    "lng": 120.691458,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADIAMgA=",
+    "name": "(私立)臺中市私立吉兒寶幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.186807,
+    "lng": 120.664942,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADIAMwA=",
+    "name": "(私立)臺中市私立大吉幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.17461,
+    "lng": 120.683848,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADIANAA=",
+    "name": "(私立)四季北屯教育事業股份有限公司附設臺中市私立北屯四季藝術幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.174038,
+    "lng": 120.688421,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADIANgA=",
+    "name": "(私立)臺中市私立小巨匠幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.196171,
+    "lng": 120.679938,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADIAOQA=",
+    "name": "(私立)臺中市私立頂尖幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.18563,
+    "lng": 120.695924,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADMAMgA=",
+    "name": "(私立)臺中市私立北屯格瑞特幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.163707,
+    "lng": 120.690222,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADMAMwA=",
+    "name": "(私立)臺中市私立親親幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.191323,
+    "lng": 120.684002,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADMANAA=",
+    "name": "(私立)臺中市私立昌平渥德福幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.175352,
+    "lng": 120.677217,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADMANQA=",
+    "name": "(私立)財團法人愛彌兒教育基金會附設臺中市私立旅順愛彌兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.176517,
+    "lng": 120.716955,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADMANwA=",
+    "name": "(私立)臺中市私立育仟幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.172438,
+    "lng": 120.691909,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADMAOAA=",
+    "name": "(私立)臺中市私立貝斯特幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.196121,
+    "lng": 120.678668,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADMAOQA=",
+    "name": "(準公共)臺中市私立悅心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.178648,
+    "lng": 120.692893,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADQAMQA=",
+    "name": "(準公共)臺中市私立文太幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.176247,
+    "lng": 120.723645,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADQAMgA=",
+    "name": "(私立)臺中市私立北屯快樂城堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.173765,
+    "lng": 120.682999,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADQAMwA=",
+    "name": "(私立)臺中市私立芝加哥幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.176105,
+    "lng": 120.712259,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADQANQA=",
+    "name": "(私立)臺中市私立娃得福幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.175898,
+    "lng": 120.683513,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADQANgA=",
+    "name": "(私立)臺中市私立華頓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.197126,
+    "lng": 120.748629,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADQANwA=",
+    "name": "(公立)臺中市北屯區大坑國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.173254,
+    "lng": 120.719298,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADQAOAA=",
+    "name": "(公立)臺中市北屯區軍功國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.173001,
+    "lng": 120.682925,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADQAOQA=",
+    "name": "(公立)臺中市北屯區文心國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.192637,
+    "lng": 120.678086,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUAMAA=",
+    "name": "(公立)臺中市北屯區四張犁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.163337,
+    "lng": 120.691273,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUAMQA=",
+    "name": "(公立)臺中市北屯區北屯國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.193202,
+    "lng": 120.676761,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUAMgA=",
+    "name": "(準公共)臺中市私立夏卡爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.173012,
+    "lng": 120.690138,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUAMwA=",
+    "name": "(準公共)臺中市私立愛兒園幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.166346,
+    "lng": 120.692196,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUANAA=",
+    "name": "(準公共)臺中市私立范德比幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.187679,
+    "lng": 120.682905,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUANQA=",
+    "name": "(私立)臺中市私立馬里蘭幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.180203,
+    "lng": 120.671529,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUANgA=",
+    "name": "(公立)臺中市北屯區仁愛國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.17181,
+    "lng": 120.701731,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUANwA=",
+    "name": "(公立)臺中市北屯區東光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.165762,
+    "lng": 120.69642,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUAOAA=",
+    "name": "(準公共)臺中市私立聖約克幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.167438,
+    "lng": 120.698142,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADUAOQA=",
+    "name": "(非營利)臺中市三光非營利幼兒園(委託財團法人宏觀文教基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.186729,
+    "lng": 120.682911,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYAMAA=",
+    "name": "(私立)臺中市私立崇德愛子幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.16034,
+    "lng": 120.722764,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYAMQA=",
+    "name": "(私立)臺中市私立春上樹幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.177668,
+    "lng": 120.699553,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYAMgA=",
+    "name": "(公立)臺中市北屯區僑孝國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.194705,
+    "lng": 120.662503,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYAMwA=",
+    "name": "(公立)臺中市北屯區新興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.165172,
+    "lng": 120.726452,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYANAA=",
+    "name": "(私立)臺中市私立太和幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.168218,
+    "lng": 120.691498,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYANQA=",
+    "name": "(非營利)臺中市文昌非營利幼兒園(委託財團法人星光教育基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.1748,
+    "lng": 120.707187,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYANgA=",
+    "name": "(私立)臺中市私立松竹葳肯幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.168355,
+    "lng": 120.722289,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYANwA=",
+    "name": "(非營利)臺中市廍子非營利幼兒園(委託財團法人中臺科技大學設立之中臺科技大學辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.184797,
+    "lng": 120.667478,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYAOAA=",
+    "name": "(非營利)臺中市陳平非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.170599,
+    "lng": 120.694947,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADYAOQA=",
+    "name": "(公立)臺中市北屯區四維國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.180889,
+    "lng": 120.689915,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcAMAA=",
+    "name": "(公立)臺中市北屯區松竹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.186384,
+    "lng": 120.683379,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcAMQA=",
+    "name": "(私立)臺中市私立仁美愛子幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.158892,
+    "lng": 120.722416,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcAMgA=",
+    "name": "(準公共)臺中市私立保進精英幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.180494,
+    "lng": 120.66881,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcAMwA=",
+    "name": "(非營利)臺中市大德非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.196844,
+    "lng": 120.677689,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcANAA=",
+    "name": "(準公共)臺中市私立滿天星幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.19761134,
+    "lng": 120.69257902,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcANQA=",
+    "name": "(私立)四季仁美教育事業股份有限公司附設臺中市私立仁美四季藝術幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.18572,
+    "lng": 120.691617,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcANgA=",
+    "name": "(私立)臺中市私立北屯語林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.19344,
+    "lng": 120.671963,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcANwA=",
+    "name": "(準公共)臺中市私立菁華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.181716,
+    "lng": 120.677752,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcAOAA=",
+    "name": "(準公共)臺中市私立哈波特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.19065,
+    "lng": 120.687364,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADcAOQA=",
+    "name": "(非營利)臺中市仁美非營利幼兒園(委託財團法人弘光科技大學設立之弘光科技大學辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.194934,
+    "lng": 120.676558,
+    "sid": "MAA5ADQAMAA2ADAAMAAwADgAMAA=",
+    "name": "(非營利)臺中市四張犁非營利幼兒園(委託財團法人朝陽科技大學設立之朝陽科技大學辦理)",
+    "type": "spub2"
+  }
+]

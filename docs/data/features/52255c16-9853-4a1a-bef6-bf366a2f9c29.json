@@ -21,7 +21,7 @@
         "pre_public": "無",
         "is_free5": "",
         "is_after": "有，人數：30",
-        "penalty": "無",
+        "penalty": "有",
         "has_slip": "yes",
         "id": "52255c16-9853-4a1a-bef6-bf366a2f9c29",
         "monthly": 10383,
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
             120.876451,
-            24.692903
+            24.692904
         ]
     }
 }
