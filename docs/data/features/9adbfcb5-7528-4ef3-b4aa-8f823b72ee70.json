@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1140033081號",
+        "reg_docno": "中市教幼字第1140033081號",
+        "reg_date": "2025\/04\/18",
+        "title": "臺中市私立益豐華盛頓幼兒園",
+        "owner": "羅琦",
+        "city": "臺中市",
+        "town": "南屯區",
+        "type": "私立",
+        "address": "[408]益豐路四段365號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)22335029",
+        "url": "",
+        "count_approved": "500",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9adbfcb5-7528-4ef3-b4aa-8f823b72ee70",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.6283,
+            24.146009
+        ]
+    }
+}
