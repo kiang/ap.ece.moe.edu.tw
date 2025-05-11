@@ -1,0 +1,42 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.044219,
+    "lng": 120.470108,
+    "sid": "MQA2ADcAMQA2ADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市南化區南化國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.076035,
+    "lng": 120.494632,
+    "sid": "MQA2ADcAMQA2ADAAMAAwADAAMgA=",
+    "name": "(公立)臺南市南化區北寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.173173,
+    "lng": 120.595267,
+    "sid": "MQA2ADcAMQA2ADAAMAAwADAAMwA=",
+    "name": "(公立)臺南市南化區瑞峰國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.074791,
+    "lng": 120.518927,
+    "sid": "MQA2ADcAMQA2ADAAMAAwADAANAA=",
+    "name": "(公立)臺南市南化區玉山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.044158,
+    "lng": 120.474806,
+    "sid": "MQA2ADcAMQA2ADAAMAAwADAANgA=",
+    "name": "(私立)臺南市私立寶貝熊幼兒園",
+    "type": "spub1"
+  }
+]
