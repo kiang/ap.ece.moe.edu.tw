@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1131157759林口0063號",
+        "reg_docno": "新北府教幼字第1140543138號",
+        "reg_date": "2025\/05\/12",
+        "title": "新北市私立貝爾花園幼兒園",
+        "owner": "魏汗青",
+        "city": "新北市",
+        "town": "林口區",
+        "type": "私立",
+        "address": "[244]中山路416號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "75",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ae2bbc0f-aa1e-4b89-b914-f20fd504ac9c",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.380872,
+            25.082173
+        ]
+    }
+}
