@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1149550912號",
+        "reg_docno": "府授教幼字第1149550912號",
+        "reg_date": "2025\/05\/28",
+        "title": "新竹縣私立新嘉德幼兒園",
+        "owner": "李珮恩",
+        "city": "新竹縣",
+        "town": "竹東鎮",
+        "type": "私立",
+        "address": "[310]民德路145號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0a9cc425-6f9d-42c3-ba05-8cc2e264c3d9",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.085884,
+            24.745089
+        ]
+    }
+}

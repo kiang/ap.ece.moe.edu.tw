@@ -270,5 +270,13 @@
     "sid": "MAA3ADMAMQAwADAAMAAwADMANwA=",
     "name": "(公立)新竹縣竹東鎮中山國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.745089,
+    "lng": 121.085884,
+    "sid": "MAA3ADMAMQAwADAAMAAwADMAOAA=",
+    "name": "(私立)新竹縣私立新嘉德幼兒園",
+    "type": "spub1"
   }
 ]
