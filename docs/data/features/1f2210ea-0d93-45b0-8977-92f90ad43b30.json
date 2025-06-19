@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教特字第1140163135號",
+        "reg_docno": "屏府教特字第1140163135號",
+        "reg_date": "2025\/06\/12",
+        "title": "屏東縣私立里港喬智幼兒園",
+        "owner": "蘇姿云",
+        "city": "屏東縣",
+        "town": "里港鄉",
+        "type": "私立",
+        "address": "[905]里中路31號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "312",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1f2210ea-0d93-45b0-8977-92f90ad43b30",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.495788,
+            22.771254
+        ]
+    }
+}
