@@ -24,14 +24,14 @@
         "penalty": "無",
         "has_slip": "yes",
         "id": "28dba618-caf0-4518-aea6-cb28a79abd2f",
-        "monthly": 24700,
-        "is_active": 0
+        "monthly": 2000,
+        "is_active": 1
     },
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.6994505,
-            24.0922302
+            120.704215,
+            24.091437
         ]
     }
 }
