@@ -8,7 +8,7 @@
         "owner": "施秋婷",
         "city": "彰化縣",
         "town": "二林鎮",
-        "type": "公立",
+        "type": "非營利",
         "address": "[526]鎮平巷59號",
         "floor": "1樓",
         "size": "573.48平方公尺",
@@ -22,7 +22,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes",
+        "has_slip": "no",
         "id": "7536adb0-67cc-4b33-bc84-d218fd279c12",
         "monthly": 2000,
         "is_active": 1
