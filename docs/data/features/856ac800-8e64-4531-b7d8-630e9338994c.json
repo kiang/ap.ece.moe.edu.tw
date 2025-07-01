@@ -21,8 +21,8 @@
         "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
-        "penalty": "無",
-        "has_slip": "yes",
+        "penalty": "有",
+        "has_slip": "no",
         "id": "856ac800-8e64-4531-b7d8-630e9338994c",
         "monthly": 20000,
         "is_active": 1

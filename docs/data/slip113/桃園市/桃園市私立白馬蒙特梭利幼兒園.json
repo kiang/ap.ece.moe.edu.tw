@@ -9,10 +9,10 @@
         "town": "中壢區",
         "type": "私立",
         "address": "[320]三光路158巷13號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓",
+        "size": "180平方公尺",
+        "size_in": "60平方公尺",
+        "size_out": "120平方公尺",
         "tel": "(03)4938338",
         "url": "",
         "count_approved": "30",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

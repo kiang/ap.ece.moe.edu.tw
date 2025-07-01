@@ -9,9 +9,9 @@
         "town": "龜山區",
         "type": "私立",
         "address": "[333]萬壽路二段958號1樓",
-        "floor": "",
-        "size": "",
-        "size_in": "",
+        "floor": "1樓",
+        "size": "58.5平方公尺",
+        "size_in": "58.5平方公尺",
         "size_out": "",
         "tel": "(03)3202386",
         "url": "www.wretch.cc\/blog\/mary51125",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

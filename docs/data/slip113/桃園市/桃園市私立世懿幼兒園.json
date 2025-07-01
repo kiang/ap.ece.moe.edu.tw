@@ -9,10 +9,10 @@
         "town": "中壢區",
         "type": "私立",
         "address": "[320]中園路121號1-2樓",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓、2樓",
+        "size": "833.31平方公尺",
+        "size_in": "642.65平方公尺",
+        "size_out": "190.66平方公尺",
         "tel": "(03)4511122",
         "url": "",
         "count_approved": "61",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {
