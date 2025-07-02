@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1140059616號",
+        "reg_docno": "府社幼字第09117851900號",
+        "reg_date": "2002\/07\/12",
+        "title": "臺中市私立文藻幼兒園",
+        "owner": "吳家芸",
+        "city": "臺中市",
+        "town": "大甲區",
+        "type": "私立",
+        "address": "[437]德興路205號",
+        "floor": "1樓",
+        "size": "779.22平方公尺",
+        "size_in": "401.1平方公尺",
+        "size_out": "378.12平方公尺",
+        "tel": "(04)26888438",
+        "url": "https:\/\/www.wentzao.com\/kindergarten",
+        "count_approved": "130",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "52bfb883-023d-406a-8564-ddbe0173743c",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.619029,
+            24.352084
+        ]
+    }
+}
