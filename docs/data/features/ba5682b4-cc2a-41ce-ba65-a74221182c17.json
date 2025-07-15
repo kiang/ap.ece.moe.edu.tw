@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11435414600號",
+        "reg_docno": "高市教幼字第11435414600號",
+        "reg_date": "2025\/07\/11",
+        "title": "高雄市中芸非營利幼兒園(委託社團法人高雄市愛與關懷教育發展協會辦理)",
+        "owner": "謝冰雁",
+        "city": "高雄市",
+        "town": "林園區",
+        "type": "非營利",
+        "address": "[832]中芸路3之101號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6412361",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ba5682b4-cc2a-41ce-ba65-a74221182c17",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.395311,
+            22.485875
+        ]
+    }
+}

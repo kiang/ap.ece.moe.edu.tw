@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1140958967號",
+        "reg_docno": "南市教特(一)字第1140958967號",
+        "reg_date": "2025\/07\/08",
+        "title": "臺南市鴻仁安平非營利幼兒園(委託社團法人台南市淨宗學會辦理)",
+        "owner": "王進文",
+        "city": "臺南市",
+        "town": "安平區",
+        "type": "非營利",
+        "address": "[708]建平八街500號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2820568",
+        "url": "評鑑情形：",
+        "count_approved": "274",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a616cf9d-b8a0-487d-a507-32c616e83d8e",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.170076,
+            22.99207
+        ]
+    }
+}
