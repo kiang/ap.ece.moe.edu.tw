@@ -182,5 +182,13 @@
     "sid": "MQA2ADcAMAA4ADAAMAAwADIAOAA=",
     "name": "(私立)臺南市私立家禾幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.99207,
+    "lng": 120.170076,
+    "sid": "MQA2ADcAMAA4ADAAMAAwADIAOQA=",
+    "name": "(非營利)臺南市鴻仁安平非營利幼兒園(委託社團法人台南市淨宗學會辦理)",
+    "type": "spub2"
   }
 ]
