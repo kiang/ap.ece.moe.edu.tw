@@ -8,4 +8,5 @@ game/base*
 game/cookies.json
 game/task.json
 game/failed
+game/training/
 git_preschools
