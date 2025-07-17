@@ -1,11 +1,11 @@
 {
     "type": "Feature",
     "properties": {
-        "reg_no": "屏府教特字第1130163652號",
+        "reg_no": "屏府教特字第1130133138號",
         "reg_docno": "屏府教特字第0960125037號",
         "reg_date": "2007\/06\/20",
         "title": "屏東縣三地門鄉青山國民小學附設幼兒園",
-        "owner": "曾昱山",
+        "owner": "陳宏圖",
         "city": "屏東縣",
         "town": "三地門鄉",
         "type": "公立",
@@ -22,7 +22,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "no",
+        "has_slip": "yes",
         "id": "6af5f35c-c538-4770-a607-918d233b6a2c",
         "monthly": 3140,
         "is_active": 1

@@ -22,9 +22,9 @@
         "is_free5": "",
         "is_after": "有，人數：20",
         "penalty": "有",
-        "has_slip": "no",
+        "has_slip": "yes",
         "id": "94646d12-30f4-459f-a903-62f6e673ed98",
-        "monthly": 11345,
+        "monthly": 12138,
         "is_active": 1
     },
     "geometry": {

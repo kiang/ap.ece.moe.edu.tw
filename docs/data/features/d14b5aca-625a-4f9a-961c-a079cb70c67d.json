@@ -22,7 +22,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "no",
+        "has_slip": "yes",
         "id": "d14b5aca-625a-4f9a-961c-a079cb70c67d",
         "monthly": 5000,
         "is_active": 1
