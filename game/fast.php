@@ -40,8 +40,12 @@ foreach (glob($basePath . '/docs/data/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {
+        // Skip empty lines or lines with wrong field count
+        if (empty($line) || count($head) !== count($line)) {
+            continue;
+        }
         $data = array_combine($head, $line);
-        if ($data['has_slip'] === 'no') {
+        if (!$data || !isset($data['has_slip']) || $data['has_slip'] === 'no') {
             continue;
         }
         $rawPath = $basePath . '/raw/slip114/' . $data['city'];
