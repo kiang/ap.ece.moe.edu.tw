@@ -281,10 +281,7 @@
                 document.getElementById('text').focus();
                 document.getElementById('text').select();
                 
-                // Auto-uppercase input
-                document.getElementById('text').addEventListener('input', function(e) {
-                    this.value = this.value.toUpperCase();
-                });
+                // Keep original case - no auto-uppercase
                 
                 // Keyboard shortcuts
                 document.addEventListener('keydown', function(e) {

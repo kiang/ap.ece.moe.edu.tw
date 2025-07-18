@@ -9,4 +9,6 @@ game/cookies.json
 game/task.json
 game/failed
 game/training/
+game/captcha_model_best.pth
+game/training_history.png
 git_preschools
