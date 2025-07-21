@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1141345010號",
+        "reg_docno": "新北府教幼字第1061142857號",
+        "reg_date": "2017\/06\/28",
+        "title": "新北市北大非營利幼兒園(委託明新學校財團法人明新科技大學辦理)",
+        "owner": "呂明峯",
+        "city": "新北市",
+        "town": "三峽區",
+        "type": "非營利",
+        "address": "[237]國光街100號A棟1樓至2樓",
+        "floor": "1樓、2樓",
+        "size": "2,857.67平方公尺",
+        "size_in": "1,757.67平方公尺",
+        "size_out": "1,100平方公尺",
+        "tel": "(02)86717373",
+        "url": "評鑑情形：",
+        "count_approved": "182",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "1bccb4da-f81d-4c79-b1ca-45d120d2d0be",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.372822,
+            24.93937
+        ]
+    }
+}

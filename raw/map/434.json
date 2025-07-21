@@ -142,5 +142,13 @@
     "sid": "MAA5ADQAMwA0ADAAMAAwADEANgA=",
     "name": "(準公共)臺中市私立欣東森幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.216702,
+    "lng": 120.526712,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEANwA=",
+    "name": "(非營利)臺中市龍海非營利幼兒園(委託財團法人弘光科技大學設立之弘光科技大學辦理)",
+    "type": "spub2"
   }
 ]
