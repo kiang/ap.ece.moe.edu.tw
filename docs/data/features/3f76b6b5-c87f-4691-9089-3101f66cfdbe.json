@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教特字第1140192279號",
+        "reg_docno": "屏府教特字第1140192279號",
+        "reg_date": "2025\/07\/24",
+        "title": "屏東縣私立中華幼兒園",
+        "owner": "邱吉興",
+        "city": "屏東縣",
+        "town": "屏東市",
+        "type": "私立",
+        "address": "[900]公裕街353巷82號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "396",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3f76b6b5-c87f-4691-9089-3101f66cfdbe",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.497446,
+            22.69268
+        ]
+    }
+}
