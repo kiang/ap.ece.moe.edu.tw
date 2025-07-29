@@ -572,7 +572,7 @@
     "lat": 24.979635,
     "lng": 121.515065,
     "sid": "MAAzADIAMwAxADAAMAAwADgANwA=",
-    "name": "(非營利)新北市安興非營利幼兒園(委託社團法人臺灣兒童教育發展協會辦理)",
+    "name": "(非營利)新北市安興非營利幼兒園(委託財團法人仁德醫護管理專科學校辦理)",
     "type": "spub2"
   },
   {
@@ -614,5 +614,13 @@
     "sid": "MAAzADIAMwAxADAAMAAwADkAMgA=",
     "name": "(準公共)新北市私立陽光聖谷幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.984312,
+    "lng": 121.528806,
+    "sid": "MAAzADIAMwAxADAAMAAwADkAMwA=",
+    "name": "(非營利)新北市政府新北捷運員工子女非營利幼兒園(委託康寧學校財團法人康寧大學辦理)",
+    "type": "spub2"
   }
 ]
