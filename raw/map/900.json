@@ -454,5 +454,13 @@
     "sid": "MgAwADkAMAAwADAAMAAwADcAMAA=",
     "name": "(私立)屏東縣私立中華幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.66417,
+    "lng": 120.4767,
+    "sid": "MgAwADkAMAAwADAAMAAwADcAMQA=",
+    "name": "(非營利)屏東榮民總醫院員工子女非營利幼兒園(委託社團法人中華育英社會教育關懷協會辦理)",
+    "type": "spub2"
   }
 ]

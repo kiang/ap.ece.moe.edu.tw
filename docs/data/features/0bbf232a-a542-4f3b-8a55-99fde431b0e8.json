@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1110235433號",
+        "reg_docno": "府社兒字第1000532921號",
+        "reg_date": "1993\/02\/17",
+        "title": "桃園市立蘆竹幼兒園新莊分班(舊)",
+        "owner": "",
+        "city": "桃園市",
+        "town": "蘆竹區",
+        "type": "公立",
+        "address": "[338]大新路417之5號",
+        "floor": "1樓",
+        "size": "396.8平方公尺",
+        "size_in": "217.2平方公尺",
+        "size_out": "179.6平方公尺",
+        "tel": "(03)3235792",
+        "url": "",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "0bbf232a-a542-4f3b-8a55-99fde431b0e8",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.248867,
+            25.024126
+        ]
+    }
+}
