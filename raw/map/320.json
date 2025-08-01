@@ -846,5 +846,13 @@
     "sid": "MAA1ADMAMgAwADAAMAAxADIAOQA=",
     "name": "(私立)桃園市私立企鵝家族國際幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.96863,
+    "lng": 121.226434,
+    "sid": "MAA1ADMAMgAwADAAMAAxADMAMAA=",
+    "name": "(非營利)桃園市興南非營利幼兒園(委託社團法人臺灣卓越幼兒教育發展協會辦理)",
+    "type": "spub2"
   }
 ]

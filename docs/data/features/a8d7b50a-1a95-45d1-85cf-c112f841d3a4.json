@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1142437325號",
+        "reg_docno": "府教特一字第1142437325號",
+        "reg_date": "2025\/07\/16",
+        "title": "雲林縣麥寮鄉立崙南幼兒園",
+        "owner": "許忠富",
+        "city": "雲林縣",
+        "town": "麥寮鄉",
+        "type": "公立",
+        "address": "[638]沙崙後19號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)6931785",
+        "url": "",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "a8d7b50a-1a95-45d1-85cf-c112f841d3a4",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.265877,
+            23.770489
+        ]
+    }
+}
