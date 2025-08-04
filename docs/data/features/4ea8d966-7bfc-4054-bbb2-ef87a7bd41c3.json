@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1140194883號",
+        "reg_docno": "府教幼字第1140194883號",
+        "reg_date": "2025\/07\/10",
+        "title": "桃園市私立芯苑幼兒園",
+        "owner": "戴兆庭",
+        "city": "桃園市",
+        "town": "楊梅區",
+        "type": "私立",
+        "address": "[326]雅典路36號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)2888215",
+        "url": "",
+        "count_approved": "166",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4ea8d966-7bfc-4054-bbb2-ef87a7bd41c3",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.115146,
+            24.907056
+        ]
+    }
+}
