@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1140071551號",
+        "reg_docno": "府社幼字第0168號",
+        "reg_date": "1999\/03\/09",
+        "title": "臺中市私立潭子綠竹幼兒園",
+        "owner": "高仁昌",
+        "city": "臺中市",
+        "town": "潭子區",
+        "type": "私立",
+        "address": "[427]圓通南路94巷42號",
+        "floor": "1樓、2樓、3樓",
+        "size": "493.69平方公尺",
+        "size_in": "289.69平方公尺",
+        "size_out": "204平方公尺",
+        "tel": "(04)25371911",
+        "url": "",
+        "count_approved": "93",
+        "shuttle": "\t\t",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "671b3a4b-2304-4746-a411-d3ab25711ee6",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.708304,
+            24.207919
+        ]
+    }
+}

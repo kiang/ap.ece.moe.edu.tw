@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1140210724號",
+        "reg_docno": "府教幼字第1140210724號",
+        "reg_date": "2025\/08\/04",
+        "title": "桃園市祥安非營利幼兒園(委託社團法人臺灣三之三生命教育學會辦理)",
+        "owner": "葛惠",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "非營利",
+        "address": "[324]麻園街6號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29306999",
+        "url": "評鑑情形：",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fe0094d5-c93c-4496-a23b-57f9caa0ef20",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.202354,
+            24.892894
+        ]
+    }
+}

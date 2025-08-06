@@ -478,5 +478,13 @@
     "sid": "MAA1ADMAMgA0ADAAMAAwADYAOAA=",
     "name": "(私立)桃園市私立妍榛幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.892894,
+    "lng": 121.202354,
+    "sid": "MAA1ADMAMgA0ADAAMAAwADYAOQA=",
+    "name": "(非營利)桃園市祥安非營利幼兒園(委託社團法人臺灣三之三生命教育學會辦理)",
+    "type": "spub2"
   }
 ]
