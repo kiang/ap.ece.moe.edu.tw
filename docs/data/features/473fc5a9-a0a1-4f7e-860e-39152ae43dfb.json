@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1131157759新店0087號",
+        "reg_docno": "新北府教幼字第1141303629號",
+        "reg_date": "2025\/08\/01",
+        "title": "新北市新店民安非營利幼兒園（委託康寧學校財團法人康寧大學辦理）",
+        "owner": "陳清溪",
+        "city": "新北市",
+        "town": "新店區",
+        "type": "非營利",
+        "address": "[231]安民街3巷10號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)86668077",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "473fc5a9-a0a1-4f7e-860e-39152ae43dfb",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.514776,
+            24.964456
+        ]
+    }
+}
