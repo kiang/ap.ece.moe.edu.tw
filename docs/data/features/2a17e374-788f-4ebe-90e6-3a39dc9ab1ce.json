@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1131157759新莊0063之2號",
+        "reg_docno": "北府社兒字第0991259204號",
+        "reg_date": "2011\/03\/03",
+        "title": "奇異莊股份有限公司附設新北市私立奇異鳥幼兒園",
+        "owner": "林秀姿",
+        "city": "新北市",
+        "town": "新莊區",
+        "type": "私立",
+        "address": "[242]四維路19號3樓",
+        "floor": "3樓",
+        "size": "512.96平方公尺",
+        "size_in": "512.96平方公尺",
+        "size_out": "",
+        "tel": "(02)22027090",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "2a17e374-788f-4ebe-90e6-3a39dc9ab1ce",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.423996,
+            25.023845
+        ]
+    }
+}
