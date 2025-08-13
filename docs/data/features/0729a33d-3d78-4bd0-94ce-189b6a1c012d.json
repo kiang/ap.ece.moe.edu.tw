@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1140133417號",
+        "reg_docno": "府教特字第1140133417號",
+        "reg_date": "2025\/08\/08",
+        "title": "新竹市私立小星星幼兒園",
+        "owner": "胡澤湘",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]天府路一段356號1-3樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)5363999",
+        "url": "",
+        "count_approved": "45",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0729a33d-3d78-4bd0-94ce-189b6a1c012d",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.937011,
+            24.837905
+        ]
+    }
+}
