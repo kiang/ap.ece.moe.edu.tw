@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第236-2號",
+        "reg_docno": "北市教三字第33401號",
+        "reg_date": "2001\/09\/27",
+        "title": "臺北市私立尼西國際幼兒園",
+        "owner": "王玉璽",
+        "city": "臺北市",
+        "town": "萬華區",
+        "type": "私立",
+        "address": "[108]寶興街140巷23號、27號1、2樓",
+        "floor": "1樓、2樓、1.2樓",
+        "size": "211.78平方公尺",
+        "size_in": "211.78平方公尺",
+        "size_out": "",
+        "tel": "(02)23078147",
+        "url": "joanna072247@gmail.com",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "87279ec5-2484-4289-b5ab-fa5fedb0b5f4",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.49386,
+            25.023972
+        ]
+    }
+}
