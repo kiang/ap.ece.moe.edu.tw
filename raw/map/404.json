@@ -17,14 +17,6 @@
   },
   {
     "newsch": 1,
-    "lat": 24.164074,
-    "lng": 120.683496,
-    "sid": "MAA5ADQAMAA0ADAAMAAwADAANAA=",
-    "name": "(私立)臺中市私立小孩的家幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
     "lat": 24.164927,
     "lng": 120.67589099999999,
     "sid": "MAA5ADQAMAA0ADAAMAAwADAANgA=",
@@ -140,16 +132,16 @@
     "lat": 24.169637,
     "lng": 120.668101,
     "sid": "MAA5ADQAMAA0ADAAMAAwADIAMwA=",
-    "name": "(私立)臺中市私立瑞比特幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立瑞比特幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.172278,
     "lng": 120.668367,
     "sid": "MAA5ADQAMAA0ADAAMAAwADIANAA=",
-    "name": "(私立)臺中市私立卡帕立人幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立卡帕立人幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

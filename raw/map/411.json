@@ -52,8 +52,8 @@
     "lat": 24.113174,
     "lng": 120.703948,
     "sid": "MAA5ADQAMQAxADAAMAAwADAANwA=",
-    "name": "(私立)臺中市私立全佑幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立全佑幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -158,14 +158,6 @@
     "sid": "MAA5ADQAMQAxADAAMAAwADIAMQA=",
     "name": "(準公共)臺中市私立美恩幼兒園",
     "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.126518,
-    "lng": 120.720901,
-    "sid": "MAA5ADQAMQAxADAAMAAwADIAMgA=",
-    "name": "(私立)臺中市私立英順幼兒園",
-    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -388,7 +380,7 @@
     "lat": 24.157234,
     "lng": 120.732079,
     "sid": "MAA5ADQAMQAxADAAMAAwADUANAA=",
-    "name": "(私立)臺中市私立葛蕾苨藝術人文幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立葛蕾苨藝術人文幼兒園",
+    "type": "spub3"
   }
 ]

@@ -12,16 +12,16 @@
     "lat": 24.97611,
     "lng": 121.52641,
     "sid": "MAAzADIAMwAxADAAMAAwADAANAA=",
-    "name": "(私立)新北市私立向日園幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立向日園幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.962432,
     "lng": 121.540975,
     "sid": "MAAzADIAMwAxADAAMAAwADAANQA=",
-    "name": "(私立)新北市私立童心圓幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立童心圓幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -92,8 +92,8 @@
     "lat": 24.976334,
     "lng": 121.543056,
     "sid": "MAAzADIAMwAxADAAMAAwADEANQA=",
-    "name": "(私立)新北市私立聯華幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立聯華幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -132,8 +132,8 @@
     "lat": 24.971821,
     "lng": 121.54236,
     "sid": "MAAzADIAMwAxADAAMAAwADIAMwA=",
-    "name": "(私立)新北市私立佳欣幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立佳欣幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

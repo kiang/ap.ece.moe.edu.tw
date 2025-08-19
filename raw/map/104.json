@@ -324,7 +324,7 @@
     "lat": 25.077925,
     "lng": 121.547912,
     "sid": "MAAyADEAMAA0ADAAMAAwADUAOAA=",
-    "name": "(私立)臺北市私立蒙特梭利花園幼兒園",
+    "name": "(私立)臺北市私立朋友蒙特梭利幼兒園",
     "type": "spub1"
   },
   {
@@ -348,8 +348,8 @@
     "lat": 25.052681,
     "lng": 121.531609,
     "sid": "MAAyADEAMAA0ADAAMAAwADYANgA=",
-    "name": "(私立)臺北市私立喬幼一江幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺北市私立喬幼一江幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

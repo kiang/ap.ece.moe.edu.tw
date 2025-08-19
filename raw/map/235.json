@@ -12,8 +12,8 @@
     "lat": 25.001984,
     "lng": 121.471446,
     "sid": "MAAzADIAMwA1ADAAMAAwADAAMgA=",
-    "name": "(私立)新北市私立新時代幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立新時代幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -76,8 +76,8 @@
     "lat": 24.998726,
     "lng": 121.468219,
     "sid": "MAAzADIAMwA1ADAAMAAwADEAMwA=",
-    "name": "(私立)新北市私立民德義泉幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立民德義泉幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -204,8 +204,8 @@
     "lat": 24.992616,
     "lng": 121.520474,
     "sid": "MAAzADIAMwA1ADAAMAAwADMAOAA=",
-    "name": "(私立)新北市私立華人幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立華人幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -596,16 +596,16 @@
     "lat": 25.002109,
     "lng": 121.4717,
     "sid": "MAAzADIAMwA1ADAAMAAwADkANgA=",
-    "name": "(私立)新北市私立時代幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立時代幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 25.002905,
     "lng": 121.495173,
     "sid": "MAAzADIAMwA1ADAAMAAxADAAMAA=",
-    "name": "(私立)新北市私立德明幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立德明幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,

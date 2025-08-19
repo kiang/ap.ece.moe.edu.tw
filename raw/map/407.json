@@ -500,8 +500,8 @@
     "lat": 24.186281,
     "lng": 120.639798,
     "sid": "MAA5ADQAMAA3ADAAMAAwADkAMgA=",
-    "name": "(私立)臺中市私立威之森幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立威之森幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -516,7 +516,7 @@
     "lat": 24.186564,
     "lng": 120.613871,
     "sid": "MAA5ADQAMAA3ADAAMAAwADkANAA=",
-    "name": "(私立)臺中市私立高山幼兒園",
-    "type": "spub1"
+    "name": "(準公共)臺中市私立高山幼兒園",
+    "type": "spub3"
   }
 ]
