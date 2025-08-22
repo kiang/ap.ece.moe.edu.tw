@@ -201,6 +201,14 @@
   },
   {
     "newsch": 1,
+    "lat": 23.065592,
+    "lng": 120.174576,
+    "sid": "MQA2ADcAMAA5ADAAMAAwADIAMwAtADAAMQA=",
+    "name": "(公立)臺南市立安南區安佃國民小學附設幼兒園十二佃分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
     "lat": 23.048586,
     "lng": 120.218005,
     "sid": "MQA2ADcAMAA5ADAAMAAwADIANAA=",
@@ -213,6 +221,14 @@
     "lng": 120.193095,
     "sid": "MQA2ADcAMAA5ADAAMAAwADIANQA=",
     "name": "(公立)臺南市安南區安慶國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.041493,
+    "lng": 120.185298,
+    "sid": "MQA2ADcAMAA5ADAAMAAwADIANQAtADAAMQA=",
+    "name": "(公立)臺南市安南區安慶國民小學附設幼兒園海尾分班",
     "type": "spub0"
   },
   {
@@ -253,6 +269,14 @@
     "lng": 120.174829,
     "sid": "MQA2ADcAMAA5ADAAMAAwADMAMAA=",
     "name": "(公立)臺南市安南區海東國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.051961,
+    "lng": 120.165023,
+    "sid": "MQA2ADcAMAA5ADAAMAAwADMAMAAtADAAMQA=",
+    "name": "(公立)臺南市立安南區海東國民小學附設幼兒園淵西分班",
     "type": "spub0"
   },
   {

@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1141138267B號",
+        "reg_docno": "南市教特(一)字第1141138267B號",
+        "reg_date": "2025\/08\/01",
+        "title": "臺南市立日新國民小學附設幼兒園明德分班",
+        "owner": "",
+        "city": "臺南市",
+        "town": "南區",
+        "type": "公立",
+        "address": "[702]大成路一段55號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2657334",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "8c3c698c-3806-4ebb-86f8-391ec98077e1",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.201332,
+            22.974862
+        ]
+    }
+}
