@@ -1,0 +1,66 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.439002,
+    "lng": 118.316595,
+    "sid": "MgA0ADgAOQAzADAAMAAwADAAMQA=",
+    "name": "(私立)金門縣私立小狀元幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.435016,
+    "lng": 118.320307,
+    "sid": "MgA0ADgAOQAzADAAMAAwADAAMgA=",
+    "name": "(準公共)金門縣私立寶貝園地幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.435484,
+    "lng": 118.319647,
+    "sid": "MgA0ADgAOQAzADAAMAAwADAAMwA=",
+    "name": "(公立)金門縣立金城幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.40175,
+    "lng": 118.312393,
+    "sid": "MgA0ADgAOQAzADAAMAAwADAANAA=",
+    "name": "(公立)金門縣金城鎮古城國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.409058,
+    "lng": 118.298411,
+    "sid": "MgA0ADgAOQAzADAAMAAwADAANAAtADAAMQA=",
+    "name": "(公立)金門縣金城鎮古城國民小學附設幼兒園金水分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.417832,
+    "lng": 118.318996,
+    "sid": "MgA0ADgAOQAzADAAMAAwADAANQA=",
+    "name": "(公立)金門縣金城鎮賢庵國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.438043,
+    "lng": 118.313666,
+    "sid": "MgA0ADgAOQAzADAAMAAwADAAOAA=",
+    "name": "(準公共)金門縣私立雅韻藝術學苑幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.440166,
+    "lng": 118.32469,
+    "sid": "MgA0ADgAOQAzADAAMAAwADAAOQA=",
+    "name": "(準公共)金門縣私立羅伊頓幼兒園",
+    "type": "spub3"
+  }
+]

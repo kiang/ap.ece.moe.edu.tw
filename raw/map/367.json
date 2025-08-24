@@ -1,0 +1,50 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.404056,
+    "lng": 120.762674,
+    "sid": "MAA4ADMANgA3ADAAMAAwADAAMgA=",
+    "name": "(準公共)苗栗縣私立三義名人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.412253,
+    "lng": 120.769091,
+    "sid": "MAA4ADMANgA3ADAAMAAwADAAMwA=",
+    "name": "(準公共)苗栗縣私立三義愛彌兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.40192,
+    "lng": 120.765295,
+    "sid": "MAA4ADMANgA3ADAAMAAwADAANAA=",
+    "name": "(公立)苗栗縣三義鄉僑成國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.343378,
+    "lng": 120.766737,
+    "sid": "MAA4ADMANgA3ADAAMAAwADAANQA=",
+    "name": "(公立)苗栗縣三義鄉鯉魚國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.413904,
+    "lng": 120.769943,
+    "sid": "MAA4ADMANgA3ADAAMAAwADAANgA=",
+    "name": "(公立)苗栗縣三義鄉建中國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.382572,
+    "lng": 120.759578,
+    "sid": "MAA4ADMANgA3ADAAMAAwADAANwA=",
+    "name": "(公立)苗栗縣三義鄉育英國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

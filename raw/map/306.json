@@ -1,0 +1,90 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.778858,
+    "lng": 121.177536,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAAMgA=",
+    "name": "(準公共)新竹縣私立愛加倍幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.796998,
+    "lng": 121.168834,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAAMwA=",
+    "name": "(準公共)新竹縣私立中國兒童幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.793054,
+    "lng": 121.174118,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAANAA=",
+    "name": "(準公共)新竹縣私立立人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.792686,
+    "lng": 121.174141,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAANQA=",
+    "name": "(公立)新竹縣關西鎮關西國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.790287,
+    "lng": 121.184376,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAANgA=",
+    "name": "(公立)新竹縣關西鎮東安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.757485,
+    "lng": 121.208962,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAANwA=",
+    "name": "(公立)新竹縣關西鎮玉山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.776363,
+    "lng": 121.175346,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAAOAA=",
+    "name": "(公立)新竹縣關西鎮東光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.813774,
+    "lng": 121.128937,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADAAOQA=",
+    "name": "(公立)新竹縣關西鎮石光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.801361,
+    "lng": 121.14009,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADEAMgA=",
+    "name": "(公立)新竹縣關西鎮坪林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.789753,
+    "lng": 121.185899,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADEAMwA=",
+    "name": "(準公共)新竹縣私立關高幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.768579,
+    "lng": 121.225182,
+    "sid": "MAA3ADMAMAA2ADAAMAAwADEANAA=",
+    "name": "(公立)新竹縣關西鎮錦山國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

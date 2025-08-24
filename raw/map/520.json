@@ -1,0 +1,90 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.844933,
+    "lng": 120.570512,
+    "sid": "MQAxADUAMgAwADAAMAAwADAAMwA=",
+    "name": "(準公共)彰化縣私立重愛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.859077,
+    "lng": 120.593074,
+    "sid": "MQAxADUAMgAwADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立田中成長幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.857132,
+    "lng": 120.593101,
+    "sid": "MQAxADUAMgAwADAAMAAwADAANwA=",
+    "name": "(準公共)彰化縣私立愛笛兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.861148,
+    "lng": 120.586728,
+    "sid": "MQAxADUAMgAwADAAMAAwADAAOAA=",
+    "name": "(準公共)彰化縣私立榮星幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.864361,
+    "lng": 120.587467,
+    "sid": "MQAxADUAMgAwADAAMAAwADAAOQA=",
+    "name": "(準公共)彰化縣私立陳姊姊幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.852995,
+    "lng": 120.592547,
+    "sid": "MQAxADUAMgAwADAAMAAwADEAMAA=",
+    "name": "(私立)彰化縣私立向上心幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.853338,
+    "lng": 120.592905,
+    "sid": "MQAxADUAMgAwADAAMAAwADEAMAAtADAAMQA=",
+    "name": "(私立)彰化縣私立向上心幼兒園向上分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.853054,
+    "lng": 120.585011,
+    "sid": "MQAxADUAMgAwADAAMAAwADEAMQA=",
+    "name": "(準公共)彰化縣私立嘉貝幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.857327,
+    "lng": 120.587507,
+    "sid": "MQAxADUAMgAwADAAMAAwADEAMgA=",
+    "name": "(公立)彰化縣田中鎮田中國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.854076,
+    "lng": 120.59881,
+    "sid": "MQAxADUAMgAwADAAMAAwADEANAA=",
+    "name": "(公立)彰化縣田中鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.866634,
+    "lng": 120.58509,
+    "sid": "MQAxADUAMgAwADAAMAAwADEANQA=",
+    "name": "(非營利)彰化縣三潭非營利幼兒園（委託社團法人彰化縣愛兒教育協會辦理）",
+    "type": "spub2"
+  }
+]

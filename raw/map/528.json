@@ -1,0 +1,50 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.901778,
+    "lng": 120.357157,
+    "sid": "MQAxADUAMgA4ADAAMAAwADAAMwA=",
+    "name": "(私立)彰化縣私立快樂學校幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.965044,
+    "lng": 120.342092,
+    "sid": "MQAxADUAMgA4ADAAMAAwADAANAA=",
+    "name": "(公立)彰化縣芳苑鄉王功國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.92559,
+    "lng": 120.318995,
+    "sid": "MQAxADUAMgA4ADAAMAAwADAANQA=",
+    "name": "(公立)彰化縣芳苑鄉芳苑國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.90786,
+    "lng": 120.347583,
+    "sid": "MQAxADUAMgA4ADAAMAAwADAANgA=",
+    "name": "(準公共)彰化縣私立芳苑鄉立示範幼兒園（彰化縣芳苑鄉公所委託彰化縣私立芝麻街幼兒園辦理）",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.007098,
+    "lng": 120.384189,
+    "sid": "MQAxADUAMgA4ADAAMAAwADAANwA=",
+    "name": "(公立)彰化縣芳苑鄉漢寶國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.955738,
+    "lng": 120.392418,
+    "sid": "MQAxADUAMgA4ADAAMAAwADAAOAA=",
+    "name": "(準公共)彰化縣私立聖愛幼兒園",
+    "type": "spub3"
+  }
+]

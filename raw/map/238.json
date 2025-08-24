@@ -1,0 +1,370 @@
+[
+  {
+    "newsch": 1,
+    "lat": 25.015915,
+    "lng": 121.406449,
+    "sid": "MAAzADIAMwA4ADAAMAAwADAAMQA=",
+    "name": "(私立)新北市私立建丞幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.996354,
+    "lng": 121.426446,
+    "sid": "MAAzADIAMwA4ADAAMAAwADAAMgA=",
+    "name": "(私立)新北市私立文林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.98175,
+    "lng": 121.42196,
+    "sid": "MAAzADIAMwA4ADAAMAAwADAAMwA=",
+    "name": "(私立)新北市私立澄品幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.988413,
+    "lng": 121.41634,
+    "sid": "MAAzADIAMwA4ADAAMAAwADAANAA=",
+    "name": "(私立)財團法人新北市私立張方大慈善事業基金會附設新北市私立士箱幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.015749,
+    "lng": 121.408227,
+    "sid": "MAAzADIAMwA4ADAAMAAwADAANQA=",
+    "name": "(準公共)新北市私立冠軍幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.015543,
+    "lng": 121.407747,
+    "sid": "MAAzADIAMwA4ADAAMAAwADAANwA=",
+    "name": "(準公共)新北市私立劍聲樹林幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.983356,
+    "lng": 121.416388,
+    "sid": "MAAzADIAMwA4ADAAMAAwADAAOAA=",
+    "name": "(準公共)新北市私立博智幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.983255,
+    "lng": 121.420526,
+    "sid": "MAAzADIAMwA4ADAAMAAwADEAMAA=",
+    "name": "(私立)新北市私立育安幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.987927,
+    "lng": 121.419138,
+    "sid": "MAAzADIAMwA4ADAAMAAwADEAMgA=",
+    "name": "(私立)新北市私立樹林育林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.980656,
+    "lng": 121.413703,
+    "sid": "MAAzADIAMwA4ADAAMAAwADEAMwA=",
+    "name": "(私立)新北市私立柏克萊幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.015742,
+    "lng": 121.412438,
+    "sid": "MAAzADIAMwA4ADAAMAAwADEANAA=",
+    "name": "(準公共)新北市私立迴龍幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.990881,
+    "lng": 121.419834,
+    "sid": "MAAzADIAMwA4ADAAMAAwADEANQA=",
+    "name": "(私立)新北市私立喬中幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.01061,
+    "lng": 121.425092,
+    "sid": "MAAzADIAMwA4ADAAMAAwADEANgA=",
+    "name": "(私立)新北市私立名欣幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.950017,
+    "lng": 121.381177,
+    "sid": "MAAzADIAMwA4ADAAMAAwADEANwA=",
+    "name": "(準公共)新北市私立艾維恩幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.97522,
+    "lng": 121.40254,
+    "sid": "MAAzADIAMwA4ADAAMAAwADEAOQA=",
+    "name": "(公立)新北市樹林區山佳國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.971468,
+    "lng": 121.392034,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIAMAA=",
+    "name": "(公立)新北市樹林區育德國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.001872,
+    "lng": 121.414192,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIAMQA=",
+    "name": "(公立)新北市樹林區武林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.998626,
+    "lng": 121.425284,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIAMgA=",
+    "name": "(公立)新北市樹林區文林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.990058,
+    "lng": 121.418226,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIAMwA=",
+    "name": "(公立)新北市樹林區樹林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.982358,
+    "lng": 121.417309,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIANAA=",
+    "name": "(公立)新北市樹林區大同國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.981663,
+    "lng": 121.423573,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIANQA=",
+    "name": "(公立)新北市樹林區彭福國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.016904,
+    "lng": 121.406148,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIANgA=",
+    "name": "(公立)新北市樹林區三多國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.98732,
+    "lng": 121.419629,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIANwA=",
+    "name": "(公立)新北市立樹林幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.972644,
+    "lng": 121.394653,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIANwAtADAAMQA=",
+    "name": "(公立)新北市立樹林幼兒園山佳分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.981284,
+    "lng": 121.417866,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIANwAtADAAMgA=",
+    "name": "(公立)新北市立樹林幼兒園彭厝分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.005112,
+    "lng": 121.42807,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIANwAtADAAMwA=",
+    "name": "(公立)新北市立樹林幼兒園圳安分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.984025,
+    "lng": 121.419957,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIAOAA=",
+    "name": "(私立)新北市私立育安園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.999016,
+    "lng": 121.416669,
+    "sid": "MAAzADIAMwA4ADAAMAAwADIAOQA=",
+    "name": "(準公共)新北市私立育全保安幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.016561,
+    "lng": 121.405261,
+    "sid": "MAAzADIAMwA4ADAAMAAwADMAMAA=",
+    "name": "(私立)新北市私立政達幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.016047,
+    "lng": 121.407167,
+    "sid": "MAAzADIAMwA4ADAAMAAwADMAMgA=",
+    "name": "(私立)新北市私立雅立福幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.987703,
+    "lng": 121.419536,
+    "sid": "MAAzADIAMwA4ADAAMAAwADMANgA=",
+    "name": "(私立)新北市私立企鵝家族幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.954407,
+    "lng": 121.383696,
+    "sid": "MAAzADIAMwA4ADAAMAAwADMAOAA=",
+    "name": "(公立)新北市立柑園國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.994372,
+    "lng": 121.424098,
+    "sid": "MAAzADIAMwA4ADAAMAAwADQAMAA=",
+    "name": "(私立)財團法人新北市樹林基督長老教會附設新北市私立牧人幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.971891,
+    "lng": 121.394274,
+    "sid": "MAAzADIAMwA4ADAAMAAwADQAMgA=",
+    "name": "(準公共)新北市私立富雅幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.993355,
+    "lng": 121.423002,
+    "sid": "MAAzADIAMwA4ADAAMAAwADQAMwA=",
+    "name": "(私立)新北市私立奇異鳥米蘭幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.979075,
+    "lng": 121.423922,
+    "sid": "MAAzADIAMwA4ADAAMAAwADQANAA=",
+    "name": "(準公共)新北市私立名人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.998006,
+    "lng": 121.427036,
+    "sid": "MAAzADIAMwA4ADAAMAAwADQANQA=",
+    "name": "(私立)新北市私立鑫立群幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.998227,
+    "lng": 121.426814,
+    "sid": "MAAzADIAMwA4ADAAMAAwADQANgA=",
+    "name": "(私立)新北市私立立群幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.979474,
+    "lng": 121.421098,
+    "sid": "MAAzADIAMwA4ADAAMAAwADQANwA=",
+    "name": "(私立)新北市私立快樂地幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.985577,
+    "lng": 121.41589,
+    "sid": "MAAzADIAMwA4ADAAMAAwADUAMAA=",
+    "name": "(公立)新北市樹林區育林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.99006,
+    "lng": 121.422104,
+    "sid": "MAAzADIAMwA4ADAAMAAwADUAMQA=",
+    "name": "(私立)財團法人天主教會台北教區附設新北市私立聖言幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.006518,
+    "lng": 121.412945,
+    "sid": "MAAzADIAMwA4ADAAMAAwADUAMgA=",
+    "name": "(非營利)新北市三多非營利幼兒園(委託廣亞學校財團法人設立之廣亞學校財團法人育達科技大學辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.016443,
+    "lng": 121.404753,
+    "sid": "MAAzADIAMwA4ADAAMAAwADUAMwA=",
+    "name": "(私立)中華郵政公司樹林三多郵局職場互助教保服務中心(委託社團法人臺灣兒童教育發展協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.947662,
+    "lng": 121.384119,
+    "sid": "MAAzADIAMwA4ADAAMAAwADUANAA=",
+    "name": "(私立)新北市私立福祿貝爾大有幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.94775,
+    "lng": 121.377434,
+    "sid": "MAAzADIAMwA4ADAAMAAwADUANQA=",
+    "name": "(私立)新北市私立珈和幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.950172,
+    "lng": 121.381598,
+    "sid": "MAAzADIAMwA4ADAAMAAwADUANgA=",
+    "name": "(非營利)新北市桃子腳非營利幼兒園(委託財團法人三之三生命教育基金會辦理)",
+    "type": "spub2"
+  }
+]

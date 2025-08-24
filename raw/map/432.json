@@ -1,0 +1,122 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.166035,
+    "lng": 120.576025,
+    "sid": "MAA5ADQAMwAyADAAMAAwADAAMgA=",
+    "name": "(準公共)臺中市私立明星幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.124647,
+    "lng": 120.564786,
+    "sid": "MAA5ADQAMwAyADAAMAAwADAAMwA=",
+    "name": "(私立)臺中市私立皇冠幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.174117,
+    "lng": 120.58086,
+    "sid": "MAA5ADQAMwAyADAAMAAwADAANAA=",
+    "name": "(準公共)臺中市私立愛德華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.161528,
+    "lng": 120.572565,
+    "sid": "MAA5ADQAMwAyADAAMAAwADAANQA=",
+    "name": "(準公共)臺中市私立賞識幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.164375,
+    "lng": 120.576646,
+    "sid": "MAA5ADQAMwAyADAAMAAwADAANgA=",
+    "name": "(準公共)臺中市私立龍鳳兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.135044,
+    "lng": 120.556738,
+    "sid": "MAA5ADQAMwAyADAAMAAwADAANwA=",
+    "name": "(私立)臺中市私立天祥幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.153447,
+    "lng": 120.536197,
+    "sid": "MAA5ADQAMwAyADAAMAAwADAAOQA=",
+    "name": "(私立)臺中市私立綠拇指幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.149237,
+    "lng": 120.547712,
+    "sid": "MAA5ADQAMwAyADAAMAAwADEAMQA=",
+    "name": "(準公共)臺中市私立育成幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.163462,
+    "lng": 120.545148,
+    "sid": "MAA5ADQAMwAyADAAMAAwADEAMgA=",
+    "name": "(公立)臺中市大肚區山陽國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.122563,
+    "lng": 120.569114,
+    "sid": "MAA5ADQAMwAyADAAMAAwADEAMwA=",
+    "name": "(公立)臺中市大肚區追分國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.159076,
+    "lng": 120.539247,
+    "sid": "MAA5ADQAMwAyADAAMAAwADEANAA=",
+    "name": "(公立)臺中市立大肚幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.134643,
+    "lng": 120.55639,
+    "sid": "MAA5ADQAMwAyADAAMAAwADEANQA=",
+    "name": "(公立)臺中市大肚區大忠國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.159007,
+    "lng": 120.56727,
+    "sid": "MAA5ADQAMwAyADAAMAAwADEANgA=",
+    "name": "(公立)臺中市大肚區瑞井國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.159241,
+    "lng": 120.532594,
+    "sid": "MAA5ADQAMwAyADAAMAAwADEANwA=",
+    "name": "(公立)臺中市大肚區永順國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.168443,
+    "lng": 120.574055,
+    "sid": "MAA5ADQAMwAyADAAMAAwADEAOAA=",
+    "name": "(公立)臺中市大肚區瑞峰國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]

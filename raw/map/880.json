@@ -1,0 +1,90 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.567592,
+    "lng": 119.568331,
+    "sid": "MgAzADgAOAAwADAAMAAwADAAMQA=",
+    "name": "(準公共)澎湖縣私立馬幼幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.578992,
+    "lng": 119.572145,
+    "sid": "MgAzADgAOAAwADAAMAAwADAAMgA=",
+    "name": "(私立)澎湖縣私立至美幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.576504,
+    "lng": 119.574402,
+    "sid": "MgAzADgAOAAwADAAMAAwADAAMwA=",
+    "name": "(私立)澎湖縣私立明穗幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.552299,
+    "lng": 119.588199,
+    "sid": "MgAzADgAOAAwADAAMAAwADAANAA=",
+    "name": "(準公共)澎湖縣私立明圓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.576103,
+    "lng": 119.578786,
+    "sid": "MgAzADgAOAAwADAAMAAwADAANQA=",
+    "name": "(準公共)澎湖縣私立耕讀幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.568017,
+    "lng": 119.565851,
+    "sid": "MgAzADgAOAAwADAAMAAwADAANgA=",
+    "name": "(公立)澎湖縣馬公市中正國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.566062,
+    "lng": 119.579531,
+    "sid": "MgAzADgAOAAwADAAMAAwADAANwA=",
+    "name": "(公立)澎湖縣馬公市立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.566809,
+    "lng": 119.603188,
+    "sid": "MgAzADgAOAAwADAAMAAwADAANwAtADAAMQA=",
+    "name": "(公立)澎湖縣馬公市立幼兒園東衛分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.53043,
+    "lng": 119.604433,
+    "sid": "MgAzADgAOAAwADAAMAAwADAANwAtADAAMgA=",
+    "name": "(公立)澎湖縣馬公市立幼兒園澎南分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.571613,
+    "lng": 119.569233,
+    "sid": "MgAzADgAOAAwADAAMAAwADAAOAA=",
+    "name": "(公立)澎湖縣馬公市馬公國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.574802,
+    "lng": 119.574859,
+    "sid": "MgAzADgAOAAwADAAMAAwADAAOQA=",
+    "name": "(公立)澎湖縣馬公市中興國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]
