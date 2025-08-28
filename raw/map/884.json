@@ -1,34 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.741411,
-    "lng": 119.614049,
-    "sid": "MgAzADgAOAA0ADAAMAAwADAAMQA=",
-    "name": "(公立)澎湖縣白沙鄉吉貝國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.666637,
-    "lng": 119.597516,
-    "sid": "MgAzADgAOAA0ADAAMAAwADAAMgA=",
-    "name": "(公立)澎湖縣白沙鄉赤崁國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.655449,
-    "lng": 119.591148,
-    "sid": "MgAzADgAOAA0ADAAMAAwADAAMwA=",
-    "name": "(公立)澎湖縣白沙鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.661927,
-    "lng": 119.659698,
-    "sid": "MgAzADgAOAA0ADAAMAAwADAANAA=",
-    "name": "(公立)澎湖縣白沙鄉鳥嶼國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

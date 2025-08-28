@@ -1,82 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.093287,
-    "lng": 120.242956,
-    "sid": "MQA2ADcANAA1ADAAMAAwADAAMQA=",
-    "name": "(準公共)臺南市私立倍幼安幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.087454,
-    "lng": 120.233345,
-    "sid": "MQA2ADcANAA1ADAAMAAwADAAMgA=",
-    "name": "(私立)臺南市私立米琪幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.129914,
-    "lng": 120.251549,
-    "sid": "MQA2ADcANAA1ADAAMAAwADAAMwA=",
-    "name": "(私立)臺南市私立筑園幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.102317,
-    "lng": 120.235326,
-    "sid": "MQA2ADcANAA1ADAAMAAwADAANAA=",
-    "name": "(準公共)臺南市私立活水幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.098769,
-    "lng": 120.224973,
-    "sid": "MQA2ADcANAA1ADAAMAAwADAANQA=",
-    "name": "(公立)臺南市安定區南安國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.123184,
-    "lng": 120.246307,
-    "sid": "MQA2ADcANAA1ADAAMAAwADAANgA=",
-    "name": "(公立)臺南市安定區安定國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.091492,
-    "lng": 120.229522,
-    "sid": "MQA2ADcANAA1ADAAMAAwADAAOAA=",
-    "name": "(私立)臺南市私立慈暉幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.104807,
-    "lng": 120.235075,
-    "sid": "MQA2ADcANAA1ADAAMAAwADEAMQA=",
-    "name": "(準公共)臺南市私立小博士幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.085652,
-    "lng": 120.222515,
-    "sid": "MQA2ADcANAA1ADAAMAAwADEAMgA=",
-    "name": "(非營利)臺南市直加弄非營利幼兒園(委託台南縣幼兒托育職業工會辦理)",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.080517,
-    "lng": 120.218793,
-    "sid": "MQA2ADcANAA1ADAAMAAwADEAMwA=",
-    "name": "(公立)臺南市安定區南興國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

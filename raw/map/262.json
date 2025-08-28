@@ -1,50 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 24.813554,
-    "lng": 121.760306,
-    "sid": "MAA0ADIANgAyADAAMAAwADAAMQA=",
-    "name": "(公立)宜蘭縣礁溪鄉三民國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.787214,
-    "lng": 121.759508,
-    "sid": "MAA0ADIANgAyADAAMAAwADAAMgA=",
-    "name": "(公立)宜蘭縣礁溪鄉四結國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.822538,
-    "lng": 121.767475,
-    "sid": "MAA0ADIANgAyADAAMAAwADAAMwA=",
-    "name": "(公立)宜蘭縣礁溪鄉礁溪國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.782883,
-    "lng": 121.767388,
-    "sid": "MAA0ADIANgAyADAAMAAwADAANAA=",
-    "name": "(公立)宜蘭縣礁溪鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.796468,
-    "lng": 121.790612,
-    "sid": "MAA0ADIANgAyADAAMAAwADAANgA=",
-    "name": "(公立)宜蘭縣礁溪鄉玉田國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.779284,
-    "lng": 121.744597,
-    "sid": "MAA0ADIANgAyADAAMAAwADAANwA=",
-    "name": "(公立)宜蘭縣礁溪鄉龍潭國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

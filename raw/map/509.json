@@ -1,74 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 24.146867,
-    "lng": 120.484511,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAAMgA=",
-    "name": "(私立)彰化縣私立台大幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.168434,
-    "lng": 120.48877,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAANQA=",
-    "name": "(準公共)彰化縣私立富樂比幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.159947,
-    "lng": 120.491373,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAANgA=",
-    "name": "(準公共)彰化縣私立伸港大同幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.14491,
-    "lng": 120.485722,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAANwA=",
-    "name": "(準公共)彰化縣私立亮亮幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.144524,
-    "lng": 120.486336,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAAOAA=",
-    "name": "(私立)彰化縣私立育苗幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.146133,
-    "lng": 120.482281,
-    "sid": "MQAxADUAMAA5ADAAMAAwADAAOQA=",
-    "name": "(私立)彰化縣私立梅花幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.14855,
-    "lng": 120.487522,
-    "sid": "MQAxADUAMAA5ADAAMAAwADEAMAA=",
-    "name": "(公立)彰化縣伸港鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.151084,
-    "lng": 120.49373,
-    "sid": "MQAxADUAMAA5ADAAMAAwADEAMQA=",
-    "name": "(準公共)彰化縣私立森田國際幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.147314,
-    "lng": 120.476436,
-    "sid": "MQAxADUAMAA5ADAAMAAwADEAMgA=",
-    "name": "(非營利)彰化縣伸仁非營利幼兒園（委託社團法人大中華社會企業創新策略發展協會辦理）",
-    "type": "spub2"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

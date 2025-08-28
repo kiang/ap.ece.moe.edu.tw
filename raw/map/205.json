@@ -1,90 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 25.101726,
-    "lng": 121.7379,
-    "sid": "MAAxADIAMAA1ADAAMAAwADAAMQA=",
-    "name": "(準公共)基隆市私立小象幼兒藝術幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.093052,
-    "lng": 121.736861,
-    "sid": "MAAxADIAMAA1ADAAMAAwADAAMgA=",
-    "name": "(準公共)基隆市私立童心幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.096389,
-    "lng": 121.75516,
-    "sid": "MAAxADIAMAA1ADAAMAAwADAAMwA=",
-    "name": "(準公共)基隆市私立幼新幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.097092,
-    "lng": 121.756503,
-    "sid": "MAAxADIAMAA1ADAAMAAwADAANgA=",
-    "name": "(準公共)基隆市私立吉貝兒幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.098671,
-    "lng": 121.734838,
-    "sid": "MAAxADIAMAA1ADAAMAAwADAANwA=",
-    "name": "(準公共)基隆市私立大華幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.092994,
-    "lng": 121.736567,
-    "sid": "MAAxADIAMAA1ADAAMAAwADAAOAA=",
-    "name": "(準公共)基隆市私立暖心幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.100481,
-    "lng": 121.737138,
-    "sid": "MAAxADIAMAA1ADAAMAAwADAAOQA=",
-    "name": "(公立)基隆市暖暖區暖暖國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.105086,
-    "lng": 121.738077,
-    "sid": "MAAxADIAMAA1ADAAMAAwADEAMAA=",
-    "name": "(公立)基隆市立過港幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.098135,
-    "lng": 121.754041,
-    "sid": "MAAxADIAMAA1ADAAMAAwADEAMQA=",
-    "name": "(公立)基隆市暖暖區碇內國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.105661,
-    "lng": 121.737989,
-    "sid": "MAAxADIAMAA1ADAAMAAwADEAMgA=",
-    "name": "(公立)基隆市暖暖區暖江國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.093893,
-    "lng": 121.734666,
-    "sid": "MAAxADIAMAA1ADAAMAAwADEAMwA=",
-    "name": "(非營利)基隆市暖西非營利幼兒園(委託社團法人台灣幼兒早期教育協會辦理)",
-    "type": "spub2"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

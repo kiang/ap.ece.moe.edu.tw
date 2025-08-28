@@ -17,7 +17,7 @@
         "tel": "(03)4639811",
         "url": "",
         "count_approved": "195",
-        "shuttle": "\t\t",
+        "shuttle": "",
         "pre_public": "113-115",
         "is_free5": "",
         "is_after": "無",
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
             121.257527,
-            24.966758
+            24.966757
         ]
     }
 }

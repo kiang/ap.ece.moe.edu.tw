@@ -1,74 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 22.591474,
-    "lng": 120.614327,
-    "sid": "MgAwADkAMgAzADAAMAAwADAAMgA=",
-    "name": "(公立)屏東縣萬巒鄉赤山國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.571638,
-    "lng": 120.595456,
-    "sid": "MgAwADkAMgAzADAAMAAwADAAMwA=",
-    "name": "(公立)屏東縣萬巒鄉佳佐國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.572786,
-    "lng": 120.572269,
-    "sid": "MgAwADkAMgAzADAAMAAwADAANQA=",
-    "name": "(公立)屏東縣萬巒鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.610324,
-    "lng": 120.604523,
-    "sid": "MgAwADkAMgAzADAAMAAwADAANQAtADAAMQA=",
-    "name": "(公立)屏東縣萬巒鄉立幼兒園成德分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.549294,
-    "lng": 120.61253,
-    "sid": "MgAwADkAMgAzADAAMAAwADAANQAtADAAMgA=",
-    "name": "(公立)屏東縣萬巒鄉立幼兒園中興分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.572369,
-    "lng": 120.594898,
-    "sid": "MgAwADkAMgAzADAAMAAwADAANQAtADAAMwA=",
-    "name": "(公立)屏東縣萬巒鄉立幼兒園佳和分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.587861,
-    "lng": 120.578912,
-    "sid": "MgAwADkAMgAzADAAMAAwADAANQAtADAANAA=",
-    "name": "(公立)屏東縣萬巒鄉立幼兒園泗溝分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.590886,
-    "lng": 120.593322,
-    "sid": "MgAwADkAMgAzADAAMAAwADAANQAtADAANQA=",
-    "name": "(公立)屏東縣萬巒鄉立幼兒園五溝分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.564013,
-    "lng": 120.555691,
-    "sid": "MgAwADkAMgAzADAAMAAwADAANwA=",
-    "name": "(準公共)屏東縣私立撒母耳幼兒園",
-    "type": "spub3"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

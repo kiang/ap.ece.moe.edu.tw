@@ -1,90 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.874458,
-    "lng": 120.518557,
-    "sid": "MQAxADUAMgAxADAAMAAwADAAMQA=",
-    "name": "(準公共)財團法人天主教會台中教區附設彰化縣私立聖神幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.863592,
-    "lng": 120.525863,
-    "sid": "MQAxADUAMgAxADAAMAAwADAAMgA=",
-    "name": "(準公共)彰化縣私立佳新幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.878022,
-    "lng": 120.519561,
-    "sid": "MQAxADUAMgAxADAAMAAwADAAMwA=",
-    "name": "(準公共)彰化縣私立貝比幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.870512,
-    "lng": 120.543732,
-    "sid": "MQAxADUAMgAxADAAMAAwADAANwA=",
-    "name": "(私立)彰化縣私立領袖幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.869273,
-    "lng": 120.524895,
-    "sid": "MQAxADUAMgAxADAAMAAwADAAOAA=",
-    "name": "(準公共)彰化縣私立北斗育心幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.875748,
-    "lng": 120.523382,
-    "sid": "MQAxADUAMgAxADAAMAAwADEAMQA=",
-    "name": "(公立)彰化縣北斗鎮北斗國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.876531,
-    "lng": 120.503556,
-    "sid": "MQAxADUAMgAxADAAMAAwADEAMgA=",
-    "name": "(準公共)彰化縣私立華桀幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.877834,
-    "lng": 120.523489,
-    "sid": "MQAxADUAMgAxADAAMAAwADEAMwA=",
-    "name": "(公立)彰化縣北斗鎮立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.866373,
-    "lng": 120.528155,
-    "sid": "MQAxADUAMgAxADAAMAAwADEANAA=",
-    "name": "(準公共)彰化縣私立強森幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.878131,
-    "lng": 120.504733,
-    "sid": "MQAxADUAMgAxADAAMAAwADEANQA=",
-    "name": "(準公共)彰化縣私立理想園幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.870127,
-    "lng": 120.522043,
-    "sid": "MQAxADUAMgAxADAAMAAwADEANgA=",
-    "name": "(非營利)彰化縣萬來非營利幼兒園（委託社團法人彰化縣友善教育公益協會辦理）",
-    "type": "spub2"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

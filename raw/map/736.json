@@ -1,82 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.284216,
-    "lng": 120.369039,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADAAMQA=",
-    "name": "(準公共)臺南市私立貝特幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.276851,
-    "lng": 120.303466,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADAAMwA=",
-    "name": "(準公共)臺南市私立華一幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.279207,
-    "lng": 120.31876,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADAANAA=",
-    "name": "(準公共)臺南市私立夏綠蒂幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.275186,
-    "lng": 120.312093,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADAANQA=",
-    "name": "(公立)臺南市柳營區柳營國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.286252,
-    "lng": 120.364229,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADAANgA=",
-    "name": "(公立)臺南市柳營區重溪國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.266361,
-    "lng": 120.387886,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADAANwA=",
-    "name": "(公立)臺南市柳營區新山國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.278324,
-    "lng": 120.312275,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADAAOAA=",
-    "name": "(準公共)臺南市私立小袋鼠幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.258,
-    "lng": 120.371919,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADAAOQA=",
-    "name": "(公立)臺南市柳營區果毅國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.290315,
-    "lng": 120.329738,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADEAMAA=",
-    "name": "(公立)臺南市柳營區太康國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.269882,
-    "lng": 120.316288,
-    "sid": "MQA2ADcAMwA2ADAAMAAwADEAMQA=",
-    "name": "(準公共)臺南市私立欣榮幼兒園",
-    "type": "spub3"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

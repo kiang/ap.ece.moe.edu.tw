@@ -1,58 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.749245,
-    "lng": 120.750362,
-    "sid": "MQAyADUANQA4ADAAMAAwADAAMQA=",
-    "name": "(準公共)南投縣私立鹿谷幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.739803,
-    "lng": 120.759565,
-    "sid": "MQAyADUANQA4ADAAMAAwADAAMgA=",
-    "name": "(準公共)南投縣私立佳和幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.736339,
-    "lng": 120.764623,
-    "sid": "MQAyADUANQA4ADAAMAAwADAAMwA=",
-    "name": "(公立)南投縣鹿谷鄉廣興國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.728225,
-    "lng": 120.754867,
-    "sid": "MQAyADUANQA4ADAAMAAwADAANAA=",
-    "name": "(公立)南投縣鹿谷鄉文昌國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.747322,
-    "lng": 120.752808,
-    "sid": "MQAyADUANQA4ADAAMAAwADAANQA=",
-    "name": "(公立)南投縣鹿谷鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.750741,
-    "lng": 120.777118,
-    "sid": "MQAyADUANQA4ADAAMAAwADAANQAtADAAMgA=",
-    "name": "(公立)南投縣鹿谷鄉立幼兒園永隆分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.783194,
-    "lng": 120.777779,
-    "sid": "MQAyADUANQA4ADAAMAAwADAANgA=",
-    "name": "(公立)南投縣鹿谷鄉秀峰國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

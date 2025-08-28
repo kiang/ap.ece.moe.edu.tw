@@ -1,66 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.846436,
-    "lng": 121.491791,
-    "sid": "MgAyADkANwA0ADAAMAAwADAAMQA=",
-    "name": "(公立)花蓮縣壽豐鄉豐山國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.904821,
-    "lng": 121.532057,
-    "sid": "MgAyADkANwA0ADAAMAAwADAAMgA=",
-    "name": "(公立)花蓮縣壽豐鄉志學國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.890981,
-    "lng": 121.538246,
-    "sid": "MgAyADkANwA0ADAAMAAwADAAMwA=",
-    "name": "(準公共)國立東華大學附設花蓮縣私立實驗幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.870325,
-    "lng": 121.507978,
-    "sid": "MgAyADkANwA0ADAAMAAwADAANAA=",
-    "name": "(公立)花蓮縣壽豐鄉壽豐國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.782958,
-    "lng": 121.563609,
-    "sid": "MgAyADkANwA0ADAAMAAwADAANQA=",
-    "name": "(公立)花蓮縣壽豐鄉水璉國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.880583,
-    "lng": 121.515205,
-    "sid": "MgAyADkANwA0ADAAMAAwADAANgA=",
-    "name": "(準公共)財團法人天主教會花蓮教區附設花蓮縣私立書樂幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.84428,
-    "lng": 121.50416,
-    "sid": "MgAyADkANwA0ADAAMAAwADAANwA=",
-    "name": "(公立)花蓮縣壽豐鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.883293,
-    "lng": 121.519129,
-    "sid": "MgAyADkANwA0ADAAMAAwADAANwAtADAAMQA=",
-    "name": "(公立)花蓮縣壽豐鄉立幼兒園北區分班",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

@@ -1,66 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.10099,
-    "lng": 121.371298,
-    "sid": "MgAxADkANgAxADAAMAAwADAAMQA=",
-    "name": "(公立)臺東縣成功鎮三民國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.075296,
-    "lng": 121.352273,
-    "sid": "MgAxADkANgAxADAAMAAwADAAMQAtADAAMQA=",
-    "name": "(公立)臺東縣成功鎮三民國民小學附設幼兒園和平分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.156786,
-    "lng": 121.399557,
-    "sid": "MgAxADkANgAxADAAMAAwADAAMgA=",
-    "name": "(公立)臺東縣成功鎮忠孝國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.102788,
-    "lng": 121.382786,
-    "sid": "MgAxADkANgAxADAAMAAwADAAMwA=",
-    "name": "(公立)臺東縣成功鎮成功國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.120255,
-    "lng": 121.393391,
-    "sid": "MgAxADkANgAxADAAMAAwADAANAA=",
-    "name": "(公立)臺東縣成功鎮三仙國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.0268,
-    "lng": 121.330968,
-    "sid": "MgAxADkANgAxADAAMAAwADAANgA=",
-    "name": "(公立)臺東縣成功鎮信義國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.104068,
-    "lng": 121.374095,
-    "sid": "MgAxADkANgAxADAAMAAwADAAOAA=",
-    "name": "(準公共)臺東縣私立博愛幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.101176,
-    "lng": 121.374854,
-    "sid": "MgAxADkANgAxADAAMAAwADAAOQA=",
-    "name": "(公立)臺東縣成功鎮立幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

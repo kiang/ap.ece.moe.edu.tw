@@ -1,50 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 22.903471,
-    "lng": 120.182929,
-    "sid": "MQA4ADgANQAyADAAMAAwADAAMQA=",
-    "name": "(私立)財團法人台灣聖公會附設高雄市私立聖公會幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.904068,
-    "lng": 120.182173,
-    "sid": "MQA4ADgANQAyADAAMAAwADAAMgA=",
-    "name": "(公立)高雄市茄萣區茄萣國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.912586,
-    "lng": 120.182623,
-    "sid": "MQA4ADgANQAyADAAMAAwADAAMwA=",
-    "name": "(公立)高雄市茄萣區砂崙國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.888736,
-    "lng": 120.185433,
-    "sid": "MQA4ADgANQAyADAAMAAwADAANAA=",
-    "name": "(公立)高雄市茄萣區成功國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.875912,
-    "lng": 120.196143,
-    "sid": "MQA4ADgANQAyADAAMAAwADAANQA=",
-    "name": "(公立)高雄市茄萣區興達國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 22.873172,
-    "lng": 120.195012,
-    "sid": "MQA4ADgANQAyADAAMAAwADAANgA=",
-    "name": "(私立)高雄市私立昱賢幼兒園",
-    "type": "spub1"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

@@ -1,26 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 24.863198,
-    "lng": 121.553978,
-    "sid": "MAAzADIAMwAzADAAMAAwADAAMQA=",
-    "name": "(公立)新北市立烏來國民中小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.777316,
-    "lng": 121.501979,
-    "sid": "MAAzADIAMwAzADAAMAAwADAAMgA=",
-    "name": "(公立)新北市立德拉楠民族實驗小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.863589,
-    "lng": 121.546953,
-    "sid": "MAAzADIAMwAzADAAMAAwADAAMwA=",
-    "name": "(公立)新北市立烏來幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

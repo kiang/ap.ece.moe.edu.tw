@@ -1,34 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 23.69747,
-    "lng": 120.196603,
-    "sid": "MQAzADYAMwA2ADAAMAAwADAAMQA=",
-    "name": "(準公共)財團法人天主教會嘉義教區附設雲林縣私立聖愛幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.720142,
-    "lng": 120.189757,
-    "sid": "MQAzADYAMwA2ADAAMAAwADAAMwA=",
-    "name": "(公立)雲林縣臺西鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.683147,
-    "lng": 120.189634,
-    "sid": "MQAzADYAMwA2ADAAMAAwADAANAA=",
-    "name": "(公立)雲林縣臺西鄉尚德國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.701963,
-    "lng": 120.199596,
-    "sid": "MQAzADYAMwA2ADAAMAAwADAANgA=",
-    "name": "(公立)雲林縣臺西鄉臺西國民小學附設幼兒園",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

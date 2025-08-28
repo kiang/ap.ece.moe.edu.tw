@@ -1,90 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 24.618535,
-    "lng": 121.28569,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAAMQA=",
-    "name": "(公立)新竹縣尖石鄉秀巒國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.641417,
-    "lng": 121.278525,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAAMQAtADAAMQA=",
-    "name": "(公立)新竹縣尖石鄉秀巒國民小學附設幼兒園田埔分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.731778,
-    "lng": 121.2506,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAAMgA=",
-    "name": "(公立)新竹縣尖石鄉新樂國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.677906,
-    "lng": 121.208506,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAAMwA=",
-    "name": "(公立)新竹縣尖石鄉梅花國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.680493,
-    "lng": 121.247747,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAANAA=",
-    "name": "(私立)財團法人台灣省天主教會新竹教區附設新竹縣私立方濟幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.655545,
-    "lng": 121.326417,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAANQA=",
-    "name": "(公立)新竹縣尖石鄉石磊國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.680245,
-    "lng": 121.246863,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAANgA=",
-    "name": "(公立)新竹縣尖石鄉錦屏國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.660027,
-    "lng": 121.301328,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAANwA=",
-    "name": "(公立)新竹縣尖石鄉玉峰國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.579837,
-    "lng": 121.303219,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAAOAA=",
-    "name": "(公立)新竹縣尖石鄉新光國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.704685,
-    "lng": 121.200944,
-    "sid": "MAA3ADMAMQAzADAAMAAwADAAOQA=",
-    "name": "(公立)新竹縣尖石鄉立幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.57936,
-    "lng": 121.333229,
-    "sid": "MAA3ADMAMQAzADAAMAAwADEAMQA=",
-    "name": "(私立)新竹縣司馬庫斯部落互助教保服務中心（新竹縣尖石鄉泰雅爾司馬庫斯部落發展協會辦理）",
-    "type": "spub1"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

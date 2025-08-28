@@ -1,42 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 24.439736,
-    "lng": 118.387866,
-    "sid": "MgA0ADgAOQAxADAAMAAwADAAMQA=",
-    "name": "(公立)金門縣金湖鎮正義國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.445549,
-    "lng": 118.37732,
-    "sid": "MgA0ADgAOQAxADAAMAAwADAAMgA=",
-    "name": "(公立)金門縣金湖鎮開瑄國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.421721,
-    "lng": 118.43848,
-    "sid": "MgA0ADgAOQAxADAAMAAwADAAMwA=",
-    "name": "(公立)金門縣金湖鎮柏村國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.442805,
-    "lng": 118.415554,
-    "sid": "MgA0ADgAOQAxADAAMAAwADAANAA=",
-    "name": "(公立)金門縣金湖鎮金湖國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.439884,
-    "lng": 118.40707,
-    "sid": "MgA0ADgAOQAxADAAMAAwADAANQA=",
-    "name": "(私立)金門縣私立肯利熊優質幼兒園",
-    "type": "spub1"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

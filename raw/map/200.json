@@ -1,98 +1,10 @@
 [
   {
-    "newsch": 1,
-    "lat": 25.128062,
-    "lng": 121.748554,
-    "sid": "MAAxADIAMAAwADAAMAAwADAAMQA=",
-    "name": "(準公共)基隆市私立人愛幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.125547,
-    "lng": 121.742597,
-    "sid": "MAAxADIAMAAwADAAMAAwADAAMwA=",
-    "name": "(準公共)基隆市私立維也納幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.118319,
-    "lng": 121.744599,
-    "sid": "MAAxADIAMAAwADAAMAAwADAANQA=",
-    "name": "(準公共)基隆市私立雙全幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.127251,
-    "lng": 121.746074,
-    "sid": "MAAxADIAMAAwADAAMAAwADAANgA=",
-    "name": "(公立)基隆市仁愛區仁愛國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.118852,
-    "lng": 121.744353,
-    "sid": "MAAxADIAMAAwADAAMAAwADAANwA=",
-    "name": "(公立)基隆市仁愛區南榮國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.126122,
-    "lng": 121.738579,
-    "sid": "MAAxADIAMAAwADAAMAAwADAAOAA=",
-    "name": "(公立)基隆市仁愛區成功國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.127029,
-    "lng": 121.74711,
-    "sid": "MAAxADIAMAAwADAAMAAwADEAMAA=",
-    "name": "(公立)基隆市信義區信義國民小學附設幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.129036,
-    "lng": 121.745034,
-    "sid": "MAAxADIAMAAwADAAMAAwADEAMQA=",
-    "name": "(準公共)基隆市私立筌勝幼兒園",
-    "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.120815,
-    "lng": 121.745498,
-    "sid": "MAAxADIAMAAwADAAMAAwADEAMgA=",
-    "name": "(非營利)基隆市南榮非營利幼兒園(委託財團法人伊甸社會福利基金會辦理)",
-    "type": "spub2"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.129232,
-    "lng": 121.74586,
-    "sid": "MAAxADIAMAAwADAAMAAwADEAMwA=",
-    "name": "(私立)台電公司基隆區營業處職場互助教保服務中心(委託德育學校財團法人德育護理健康學院辦理)",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.128965,
-    "lng": 121.746358,
-    "sid": "MAAxADIAMAAwADAAMAAwADEANAA=",
-    "name": "(私立)基隆市私立飛揚幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.12797,
-    "lng": 121.736356,
-    "sid": "MAAxADIAMAA0ADAAMAAwADEANwAtADAAOAA=",
-    "name": "(公立)基隆市立安心幼兒園光華分班",
-    "type": "spub0"
+    "newsch": null,
+    "lat": null,
+    "lng": null,
+    "sid": "Error",
+    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
+    "type": null
   }
 ]

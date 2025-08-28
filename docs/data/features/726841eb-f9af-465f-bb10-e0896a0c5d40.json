@@ -11,9 +11,9 @@
         "type": "公立",
         "address": "[247]中正路265號",
         "floor": "1樓、2樓、3樓",
-        "size": "5,641平方公尺",
-        "size_in": "1,332平方公尺",
-        "size_out": "4,309平方公尺",
+        "size": "2,050.13平方公尺",
+        "size_in": "1,391.6平方公尺",
+        "size_out": "658.53平方公尺",
         "tel": "(02)22811571#518",
         "url": "http:\/\/www.lcjh.ntpc.edu.tw\/office\/kids\/index.html",
         "count_approved": "286",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.466352,
-            25.087049
+            121.466382,
+            25.087088
         ]
     }
 }

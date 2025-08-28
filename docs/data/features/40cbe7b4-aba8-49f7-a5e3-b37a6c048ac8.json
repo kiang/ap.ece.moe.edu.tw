@@ -18,20 +18,20 @@
         "url": "",
         "count_approved": "49",
         "shuttle": "",
-        "pre_public": "113-115",
+        "pre_public": "無",
         "is_free5": "",
         "is_after": "有，人數：14",
         "penalty": "有",
         "has_slip": "yes",
         "id": "40cbe7b4-aba8-49f7-a5e3-b37a6c048ac8",
-        "monthly": 3750,
+        "monthly": 12598,
         "is_active": 1
     },
     "geometry": {
         "type": "Point",
         "coordinates": [
             121.505902,
-            25.040577
+            25.040576
         ]
     }
 }
