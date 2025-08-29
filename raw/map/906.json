@@ -1,10 +1,50 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.825329,
+    "lng": 120.58885,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAAMQA=",
+    "name": "(準公共)屏東縣私立鳳成幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.825737,
+    "lng": 120.59833,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAAMwA=",
+    "name": "(準公共)屏東縣私立小太陽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.787403,
+    "lng": 120.614532,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAANQA=",
+    "name": "(公立)屏東縣高樹鄉泰山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.82653,
+    "lng": 120.59872,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAANgA=",
+    "name": "(公立)屏東縣高樹鄉高樹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.804272,
+    "lng": 120.577505,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAANwA=",
+    "name": "(公立)屏東縣高樹鄉田子國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.801179,
+    "lng": 120.575218,
+    "sid": "MgAwADkAMAA2ADAAMAAwADAAOAA=",
+    "name": "(公立)屏東縣高樹鄉立幼兒園",
+    "type": "spub0"
   }
 ]

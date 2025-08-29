@@ -1,10 +1,50 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.645926,
+    "lng": 120.424322,
+    "sid": "MQAzADYAMwAxADAAMAAwADAAMQA=",
+    "name": "(準公共)雲林縣私立亞歷山大幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.646073,
+    "lng": 120.417044,
+    "sid": "MQAzADYAMwAxADAAMAAwADAAMgA=",
+    "name": "(準公共)雲林縣私立丹迪幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.661774,
+    "lng": 120.421849,
+    "sid": "MQAzADYAMwAxADAAMAAwADAAMwA=",
+    "name": "(公立)雲林縣大埤鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.644887,
+    "lng": 120.432122,
+    "sid": "MQAzADYAMwAxADAAMAAwADAANgA=",
+    "name": "(公立)雲林縣大埤鄉大埤國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.633672,
+    "lng": 120.401829,
+    "sid": "MQAzADYAMwAxADAAMAAwADAANwA=",
+    "name": "(公立)雲林縣大埤鄉舊庄國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.662041,
+    "lng": 120.422926,
+    "sid": "MQAzADYAMwAxADAAMAAwADAAOAA=",
+    "name": "(公立)雲林縣大埤鄉仁和國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

@@ -1,10 +1,98 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.483504,
+    "lng": 120.44287,
+    "sid": "MgAwADkAMwAyADAAMAAwADAAMgA=",
+    "name": "(準公共)屏東縣私立美美幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.525429,
+    "lng": 120.452508,
+    "sid": "MgAwADkAMwAyADAAMAAwADAAMwA=",
+    "name": "(準公共)屏東縣私立新怡光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.525151,
+    "lng": 120.45267,
+    "sid": "MgAwADkAMwAyADAAMAAwADAANAA=",
+    "name": "(準公共)屏東縣私立怡光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.545517,
+    "lng": 120.45731,
+    "sid": "MgAwADkAMwAyADAAMAAwADAANQA=",
+    "name": "(準公共)屏東縣私立育德幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.488583,
+    "lng": 120.440152,
+    "sid": "MgAwADkAMwAyADAAMAAwADAAOAA=",
+    "name": "(公立)屏東縣新園鄉鹽洲國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.527567,
+    "lng": 120.45393,
+    "sid": "MgAwADkAMwAyADAAMAAwADAAOQA=",
+    "name": "(私立)屏東縣私立新園欣欣幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.487815,
+    "lng": 120.458077,
+    "sid": "MgAwADkAMwAyADAAMAAwADEAMAA=",
+    "name": "(公立)屏東縣新園鄉烏龍國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.481035,
+    "lng": 120.439062,
+    "sid": "MgAwADkAMwAyADAAMAAwADEAMwA=",
+    "name": "(準公共)屏東縣私立金博士幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.54464,
+    "lng": 120.46197,
+    "sid": "MgAwADkAMwAyADAAMAAwADEANAA=",
+    "name": "(準公共)屏東縣私立嘉音幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.551477,
+    "lng": 120.474297,
+    "sid": "MgAwADkAMwAyADAAMAAwADEANgA=",
+    "name": "(公立)屏東縣新園鄉瓦磘國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.50827,
+    "lng": 120.455375,
+    "sid": "MgAwADkAMwAyADAAMAAwADEANwA=",
+    "name": "(公立)屏東縣新園鄉港西國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.544331,
+    "lng": 120.461061,
+    "sid": "MgAwADkAMwAyADAAMAAwADEAOAA=",
+    "name": "(非營利)屏東縣仙吉非營利幼兒園(委託財團法人輔英科技大學設立之輔英科技大學辦理)",
+    "type": "spub2"
   }
 ]

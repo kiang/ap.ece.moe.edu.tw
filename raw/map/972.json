@@ -1,10 +1,114 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.965616,
+    "lng": 121.493025,
+    "sid": "MgAyADkANwAyADAAMAAwADAAMQA=",
+    "name": "(公立)花蓮縣秀林鄉銅門國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.003319,
+    "lng": 121.556808,
+    "sid": "MgAyADkANwAyADAAMAAwADAAMgA=",
+    "name": "(公立)花蓮縣秀林鄉水源國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.922268,
+    "lng": 121.501611,
+    "sid": "MgAyADkANwAyADAAMAAwADAAMwA=",
+    "name": "(公立)花蓮縣秀林鄉文蘭國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.118007,
+    "lng": 121.624429,
+    "sid": "MgAyADkANwAyADAAMAAwADAANAA=",
+    "name": "(公立)花蓮縣秀林鄉秀林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.308395,
+    "lng": 121.749235,
+    "sid": "MgAyADkANwAyADAAMAAwADAANQA=",
+    "name": "(公立)花蓮縣秀林鄉和平國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.102909,
+    "lng": 121.606246,
+    "sid": "MgAyADkANwAyADAAMAAwADAANgA=",
+    "name": "(公立)花蓮縣秀林鄉三棧國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.162006,
+    "lng": 121.652371,
+    "sid": "MgAyADkANwAyADAAMAAwADAANwA=",
+    "name": "(公立)花蓮縣秀林鄉崇德國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.147499,
+    "lng": 121.629245,
+    "sid": "MgAyADkANwAyADAAMAAwADAAOAA=",
+    "name": "(公立)花蓮縣秀林鄉富世國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.053961,
+    "lng": 121.60032,
+    "sid": "MgAyADkANwAyADAAMAAwADAAOQA=",
+    "name": "(公立)花蓮縣秀林鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.14723,
+    "lng": 121.627711,
+    "sid": "MgAyADkANwAyADAAMAAwADAAOQAtADAAMQA=",
+    "name": "(公立)花蓮縣秀林鄉立幼兒園富世分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.964834,
+    "lng": 121.49434,
+    "sid": "MgAyADkANwAyADAAMAAwADAAOQAtADAAMgA=",
+    "name": "(公立)花蓮縣秀林鄉立幼兒園銅門分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.006241,
+    "lng": 121.546971,
+    "sid": "MgAyADkANwAyADAAMAAwADAAOQAtADAAMwA=",
+    "name": "(公立)花蓮縣秀林鄉立幼兒園水源分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.308959,
+    "lng": 121.748146,
+    "sid": "MgAyADkANwAyADAAMAAwADAAOQAtADAANAA=",
+    "name": "(公立)花蓮縣秀林鄉立幼兒園和平分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.083108,
+    "lng": 121.606759,
+    "sid": "MgAyADkANwAyADAAMAAwADEAMAA=",
+    "name": "(準公共)財團法人天主教會花蓮教區附設花蓮縣私立安德幼兒園",
+    "type": "spub3"
   }
 ]

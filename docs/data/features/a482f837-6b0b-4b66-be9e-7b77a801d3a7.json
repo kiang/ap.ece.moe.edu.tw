@@ -1,7 +1,7 @@
 {
     "type": "Feature",
     "properties": {
-        "reg_no": "府教特字第1120135024號",
+        "reg_no": "府教特字第1140134715號",
         "reg_docno": "宜府教國字第54224號",
         "reg_date": "1976\/08\/18",
         "title": "宜蘭縣羅東鎮公正國民小學附設幼兒園",
@@ -16,7 +16,7 @@
         "size_out": "427平方公尺",
         "tel": "(03)9566659#7000",
         "url": "",
-        "count_approved": "180",
+        "count_approved": "152",
         "shuttle": "",
         "pre_public": "無",
         "is_free5": "",
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            121.766364,
-            24.679607
+            121.765763,
+            24.678286
         ]
     }
 }

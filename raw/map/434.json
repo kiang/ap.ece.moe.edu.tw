@@ -1,10 +1,146 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.182711,
+    "lng": 120.530459,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADAAMQA=",
+    "name": "(準公共)臺中市私立科喬幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.214773,
+    "lng": 120.549299,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADAAMgA=",
+    "name": "(準公共)臺中市私立苗圃幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.205932,
+    "lng": 120.532014,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADAAMwA=",
+    "name": "(準公共)臺中市私立立佳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.18592,
+    "lng": 120.585185,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADAANAA=",
+    "name": "(準公共)臺中市私立嘉仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.194067,
+    "lng": 120.531351,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADAAOAA=",
+    "name": "(準公共)臺中市私立小太陽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.188698,
+    "lng": 120.589113,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADAAOQA=",
+    "name": "(準公共)臺中市私立娃娃國幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.183154,
+    "lng": 120.587082,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEAMAA=",
+    "name": "(準公共)臺中市私立紅博士幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.180822,
+    "lng": 120.576475,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEAMQA=",
+    "name": "(公立)臺中市龍井區龍峰國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.19619,
+    "lng": 120.547247,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEAMgA=",
+    "name": "(公立)臺中市龍井區龍泉國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.214789,
+    "lng": 120.524208,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEAMwA=",
+    "name": "(公立)臺中市立龍井幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.198368,
+    "lng": 120.521736,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEAMwAtADAAMQA=",
+    "name": "(公立)臺中市立龍井幼兒園龍津分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.21434,
+    "lng": 120.549382,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEAMwAtADAAMgA=",
+    "name": "(公立)臺中市立龍井幼兒園山腳分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.202833,
+    "lng": 120.501189,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEAMwAtADAANQA=",
+    "name": "(公立)臺中市立龍井幼兒園麗水分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.189434,
+    "lng": 120.548606,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEAMwAtADAANgA=",
+    "name": "(公立)臺中市立龍井幼兒園龍崗分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.184415,
+    "lng": 120.529628,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEANAA=",
+    "name": "(公立)臺中市龍井區龍井國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.201244,
+    "lng": 120.522359,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEANQA=",
+    "name": "(公立)臺中市龍井區龍津國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.180219,
+    "lng": 120.544218,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEANgA=",
+    "name": "(準公共)臺中市私立欣東森幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.216702,
+    "lng": 120.526712,
+    "sid": "MAA5ADQAMwA0ADAAMAAwADEANwA=",
+    "name": "(非營利)臺中市龍海非營利幼兒園(委託財團法人弘光科技大學設立之弘光科技大學辦理)",
+    "type": "spub2"
   }
 ]

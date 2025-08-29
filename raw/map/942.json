@@ -1,10 +1,42 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.370083,
+    "lng": 120.626732,
+    "sid": "MgAwADkANAAyADAAMAAwADAAMQA=",
+    "name": "(公立)屏東縣春日鄉春日國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.369104,
+    "lng": 120.6635,
+    "sid": "MgAwADkANAAyADAAMAAwADAAMgA=",
+    "name": "(公立)屏東縣春日鄉古華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.427598,
+    "lng": 120.628826,
+    "sid": "MgAwADkANAAyADAAMAAwADAAMwA=",
+    "name": "(公立)屏東縣春日鄉力里國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.427473,
+    "lng": 120.628489,
+    "sid": "MgAwADkANAAyADAAMAAwADAANAA=",
+    "name": "(公立)屏東縣春日鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.360374,
+    "lng": 120.626593,
+    "sid": "MgAwADkANAAyADAAMAAwADAANAAtADAAMQA=",
+    "name": "(公立)屏東縣春日鄉立幼兒園古華分班",
+    "type": "spub0"
   }
 ]

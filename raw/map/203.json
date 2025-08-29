@@ -1,10 +1,106 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 25.135548,
+    "lng": 121.733683,
+    "sid": "MAAxADIAMAAzADAAMAAwADAAMQA=",
+    "name": "(私立)輔仁大學學校財團法人基隆市輔大聖心高級中學附設私立幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.151007,
+    "lng": 121.724561,
+    "sid": "MAAxADIAMAAzADAAMAAwADAAMgA=",
+    "name": "(私立)基隆市私立蒙特梭利幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.147254,
+    "lng": 121.719523,
+    "sid": "MAAxADIAMAAzADAAMAAwADAAMwA=",
+    "name": "(準公共)基隆市私立愛米爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.147428,
+    "lng": 121.720319,
+    "sid": "MAAxADIAMAAzADAAMAAwADAANAA=",
+    "name": "(準公共)基隆市私立向日葵幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.150902,
+    "lng": 121.728987,
+    "sid": "MAAxADIAMAAzADAAMAAwADAANgA=",
+    "name": "(準公共)德育學校財團法人德育護理健康學院附設基隆市私立德育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.148273,
+    "lng": 121.727446,
+    "sid": "MAAxADIAMAAzADAAMAAwADAANwA=",
+    "name": "(準公共)基隆市私立自立幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.14731,
+    "lng": 121.746616,
+    "sid": "MAAxADIAMAAzADAAMAAwADAAOQA=",
+    "name": "(公立)基隆市中山區仙洞國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.136471,
+    "lng": 121.739706,
+    "sid": "MAAxADIAMAAzADAAMAAwADEAMAA=",
+    "name": "(公立)基隆市中山區港西國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.14665,
+    "lng": 121.736192,
+    "sid": "MAAxADIAMAAzADAAMAAwADEAMQA=",
+    "name": "(公立)基隆市中山區中山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.146724,
+    "lng": 121.720364,
+    "sid": "MAAxADIAMAAzADAAMAAwADEAMgA=",
+    "name": "(公立)基隆市中山區中和國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.155159,
+    "lng": 121.730706,
+    "sid": "MAAxADIAMAAzADAAMAAwADEAMwA=",
+    "name": "(公立)基隆市中山區德和國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.149233,
+    "lng": 121.738978,
+    "sid": "MAAxADIAMAAzADAAMAAwADEANQA=",
+    "name": "(公立)基隆市中山區中華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.146232,
+    "lng": 121.736921,
+    "sid": "MAAxADIAMAAzADAAMAAwADEANgA=",
+    "name": "(非營利)基隆市中山非營利幼兒園(委託財團法人伊甸社會福利基金會辦理)",
+    "type": "spub2"
   }
 ]

@@ -1,10 +1,450 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.984356,
+    "lng": 120.233692,
+    "sid": "MQA2ADcAMAAxADAAMAAwADAAMQA=",
+    "name": "(準公共)臺南市私立耶魯幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.996514,
+    "lng": 120.22592,
+    "sid": "MQA2ADcAMAAxADAAMAAwADAAMgA=",
+    "name": "(私立)臺南市私立維尼寶貝幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.966846,
+    "lng": 120.228933,
+    "sid": "MQA2ADcAMAAxADAAMAAwADAANAA=",
+    "name": "(準公共)臺南市私立童話世界幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.978236,
+    "lng": 120.22583,
+    "sid": "MQA2ADcAMAAxADAAMAAwADAANQA=",
+    "name": "(私立)臺南市私立智慧園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.978312,
+    "lng": 120.220773,
+    "sid": "MQA2ADcAMAAxADAAMAAwADAANgA=",
+    "name": "(準公共)臺南市私立德光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.99215,
+    "lng": 120.223459,
+    "sid": "MQA2ADcAMAAxADAAMAAwADAANwA=",
+    "name": "(非營利)國立成功大學員工子女非營利幼兒園(委託財團法人國立成功大學文教基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.975202,
+    "lng": 120.223123,
+    "sid": "MQA2ADcAMAAxADAAMAAwADAAOAA=",
+    "name": "(準公共)臺南市私立傑尼爾至善幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.971415,
+    "lng": 120.226455,
+    "sid": "MQA2ADcAMAAxADAAMAAwADEAMAA=",
+    "name": "(準公共)臺南市私立輔大幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.983506,
+    "lng": 120.24244,
+    "sid": "MQA2ADcAMAAxADAAMAAwADEAMQA=",
+    "name": "(私立)臺南市私立元喬幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.969824,
+    "lng": 120.22839,
+    "sid": "MQA2ADcAMAAxADAAMAAwADEAMgA=",
+    "name": "(私立)威爾森文教事業股份有限公司附設臺南市私立威爾森人文藝術幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.987406,
+    "lng": 120.239253,
+    "sid": "MQA2ADcAMAAxADAAMAAwADEANAA=",
+    "name": "(準公共)臺南市私立牧群幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.966371,
+    "lng": 120.229341,
+    "sid": "MQA2ADcAMAAxADAAMAAwADEANQA=",
+    "name": "(準公共)臺南市私立領袖學院崇德幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.983569,
+    "lng": 120.215175,
+    "sid": "MQA2ADcAMAAxADAAMAAwADEANwA=",
+    "name": "(準公共)臺南市私立小太陽幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.969007,
+    "lng": 120.232913,
+    "sid": "MQA2ADcAMAAxADAAMAAwADEAOAA=",
+    "name": "(私立)臺南市私立瑩青幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.989774,
+    "lng": 120.220701,
+    "sid": "MQA2ADcAMAAxADAAMAAwADEAOQA=",
+    "name": "(私立)社團法人台南市基督教青年會附設臺南市私立長榮幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.987482,
+    "lng": 120.219556,
+    "sid": "MQA2ADcAMAAxADAAMAAwADIAMAA=",
+    "name": "(私立)臺南市私立人上人幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.988914,
+    "lng": 120.230889,
+    "sid": "MQA2ADcAMAAxADAAMAAwADIAMQA=",
+    "name": "(私立)臺南市私立樂貝兒幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.99177,
+    "lng": 120.219001,
+    "sid": "MQA2ADcAMAAxADAAMAAwADIAMgA=",
+    "name": "(私立)臺南市私立長女幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.985929,
+    "lng": 120.235597,
+    "sid": "MQA2ADcAMAAxADAAMAAwADIANAA=",
+    "name": "(準公共)臺南市私立傑尼爾富農幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.996913,
+    "lng": 120.228156,
+    "sid": "MQA2ADcAMAAxADAAMAAwADIANQA=",
+    "name": "(準公共)臺南市私立文林幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.98153,
+    "lng": 120.220964,
+    "sid": "MQA2ADcAMAAxADAAMAAwADIANgA=",
+    "name": "(私立)財團法人福智文教基金會附設臺南市私立妙慧幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.985213,
+    "lng": 120.242124,
+    "sid": "MQA2ADcAMAAxADAAMAAwADIANwA=",
+    "name": "(私立)臺南市私立長欣幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.97352,
+    "lng": 120.215481,
+    "sid": "MQA2ADcAMAAxADAAMAAwADIAOAA=",
+    "name": "(公立)臺南市東區大同國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.991589,
+    "lng": 120.230573,
+    "sid": "MQA2ADcAMAAxADAAMAAwADIAOQA=",
+    "name": "(公立)臺南市東區東光國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.971252,
+    "lng": 120.225156,
+    "sid": "MQA2ADcAMAAxADAAMAAwADMAMAA=",
+    "name": "(公立)臺南市東區崇明國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.993194,
+    "lng": 120.2133,
+    "sid": "MQA2ADcAMAAxADAAMAAwADMAMQA=",
+    "name": "(公立)臺南市東區博愛國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.979367,
+    "lng": 120.223319,
+    "sid": "MQA2ADcAMAAxADAAMAAwADMAMgA=",
+    "name": "(公立)臺南市東區崇學國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.982409,
+    "lng": 120.238821,
+    "sid": "MQA2ADcAMAAxADAAMAAwADMAMwA=",
+    "name": "(公立)臺南市東區復興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.994657,
+    "lng": 120.229766,
+    "sid": "MQA2ADcAMAAxADAAMAAwADMANAA=",
+    "name": "(準公共)臺南市私立新世代人文藝術幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.981183,
+    "lng": 120.227826,
+    "sid": "MQA2ADcAMAAxADAAMAAwADMANQA=",
+    "name": "(準公共)臺南市私立德妮勁寶兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.972703,
+    "lng": 120.226512,
+    "sid": "MQA2ADcAMAAxADAAMAAwADMANgA=",
+    "name": "(私立)財團法人台灣聖公會附設臺南市私立聖公會幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.981048,
+    "lng": 120.225957,
+    "sid": "MQA2ADcAMAAxADAAMAAwADMAOAA=",
+    "name": "(準公共)臺南市私立仁和幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.963223,
+    "lng": 120.235971,
+    "sid": "MQA2ADcAMAAxADAAMAAwADMAOQA=",
+    "name": "(公立)臺南市東區德高國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.991217,
+    "lng": 120.227797,
+    "sid": "MQA2ADcAMAAxADAAMAAwADQAMAA=",
+    "name": "(私立)臺南市私立怡東幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.990317,
+    "lng": 120.219229,
+    "sid": "MQA2ADcAMAAxADAAMAAwADQAMQA=",
+    "name": "(私立)臺南市私立新園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.98839,
+    "lng": 120.232129,
+    "sid": "MQA2ADcAMAAxADAAMAAwADQAMgA=",
+    "name": "(準公共)臺南市私立愛麗兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.986958,
+    "lng": 120.236868,
+    "sid": "MQA2ADcAMAAxADAAMAAwADQANAA=",
+    "name": "(準公共)臺南市私立後甲幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.974699,
+    "lng": 120.217997,
+    "sid": "MQA2ADcAMAAxADAAMAAwADQANQA=",
+    "name": "(準公共)臺南市私立劍聲幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.975709,
+    "lng": 120.228548,
+    "sid": "MQA2ADcAMAAxADAAMAAwADQANwA=",
+    "name": "(準公共)臺南市私立威斯康辛幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.988734,
+    "lng": 120.238964,
+    "sid": "MQA2ADcAMAAxADAAMAAwADQAOQA=",
+    "name": "(私立)財團法人台南市私立母佑會社會福利慈善基金會附設臺南市私立母佑幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.991024,
+    "lng": 120.214948,
+    "sid": "MQA2ADcAMAAxADAAMAAwADUAMAA=",
+    "name": "(私立)臺南市私立新樓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.97799,
+    "lng": 120.218888,
+    "sid": "MQA2ADcAMAAxADAAMAAwADUAMQA=",
+    "name": "(準公共)臺南市私立維多利亞人文藝術幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.988413,
+    "lng": 120.217299,
+    "sid": "MQA2ADcAMAAxADAAMAAwADUAMgA=",
+    "name": "(私立)臺南光華學校財團法人臺南市光華高級中學附屬臺南市私立光華幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.988352,
+    "lng": 120.217937,
+    "sid": "MQA2ADcAMAAxADAAMAAwADUANQA=",
+    "name": "(公立)臺南市東區勝利國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.961014,
+    "lng": 120.235892,
+    "sid": "MQA2ADcAMAAxADAAMAAwADUANgA=",
+    "name": "(準公共)臺南市私立威爾森德高幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.981741,
+    "lng": 120.222277,
+    "sid": "MQA2ADcAMAAxADAAMAAwADUANwA=",
+    "name": "(公立)臺南市立忠孝國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.977717,
+    "lng": 120.232046,
+    "sid": "MQA2ADcAMAAxADAAMAAwADUAOAA=",
+    "name": "(私立)臺南市私立才子幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.991516,
+    "lng": 120.228715,
+    "sid": "MQA2ADcAMAAxADAAMAAwADUAOQA=",
+    "name": "(私立)臺南市私立日光小河馬幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.975122,
+    "lng": 120.218027,
+    "sid": "MQA2ADcAMAAxADAAMAAwADYAMAA=",
+    "name": "(準公共)臺南市私立劍聲國際幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.971214,
+    "lng": 120.22628,
+    "sid": "MQA2ADcAMAAxADAAMAAwADYAMQA=",
+    "name": "(準公共)臺南市私立伊凡卡幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.98684,
+    "lng": 120.243168,
+    "sid": "MQA2ADcAMAAxADAAMAAwADYAMgA=",
+    "name": "(私立)臺南市私立荷本藝術幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.998317,
+    "lng": 120.232476,
+    "sid": "MQA2ADcAMAAxADAAMAAwADYAMwA=",
+    "name": "(私立)臺南市中華電信小東職場互助教保服務中心(委託台南市教保產業工會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.974503,
+    "lng": 120.229002,
+    "sid": "MQA2ADcAMAAxADAAMAAwADYANAA=",
+    "name": "(私立)台糖公司職工福利委員會崇善職場互助教保服務中心(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.991166,
+    "lng": 120.239176,
+    "sid": "MQA2ADcAMAAxADAAMAAwADYANQA=",
+    "name": "(非營利)臺南市全人裕文非營利幼兒園 (委託社團法人台灣全人發展福利學會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.99913,
+    "lng": 120.212738,
+    "sid": "MQA2ADcAMAAxADAAMAAwADYANgA=",
+    "name": "(非營利)國立臺灣文學館員工子女非營利幼兒園(委託社團法人台灣公共托育協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.999396,
+    "lng": 120.226419,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADAAMQAtADAAMgA=",
+    "name": "(公立)臺南市立小康幼兒園小東分班",
+    "type": "spub0"
   }
 ]

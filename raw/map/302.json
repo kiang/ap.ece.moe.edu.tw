@@ -1,10 +1,786 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.834589,
+    "lng": 121.010033,
+    "sid": "MAA3ADMAMAAyADAAMAAwADAAMQA=",
+    "name": "(私立)新竹縣私立安安幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.838438,
+    "lng": 121.019444,
+    "sid": "MAA3ADMAMAAyADAAMAAwADAAMgA=",
+    "name": "(私立)新竹縣私立竹科蔓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.832755,
+    "lng": 121.010949,
+    "sid": "MAA3ADMAMAAyADAAMAAwADAANQA=",
+    "name": "(私立)新竹縣私立天聲幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.819443,
+    "lng": 121.025504,
+    "sid": "MAA3ADMAMAAyADAAMAAwADAANgA=",
+    "name": "(私立)新竹縣私立嘉德琳幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.819693,
+    "lng": 121.022976,
+    "sid": "MAA3ADMAMAAyADAAMAAwADAANwA=",
+    "name": "(私立)新竹縣私立薇格幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.830135,
+    "lng": 121.009499,
+    "sid": "MAA3ADMAMAAyADAAMAAwADAAOAA=",
+    "name": "(私立)新竹縣私立薇楓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.829458,
+    "lng": 121.004612,
+    "sid": "MAA3ADMAMAAyADAAMAAwADAAOQA=",
+    "name": "(私立)新竹縣私立聖安朵幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.83467,
+    "lng": 121.01259,
+    "sid": "MAA3ADMAMAAyADAAMAAwADEAMAA=",
+    "name": "(準公共)新竹縣私立郭淑惠幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.837432,
+    "lng": 121.017056,
+    "sid": "MAA3ADMAMAAyADAAMAAwADEAMgA=",
+    "name": "(私立)新竹縣私立慈暉幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.840182,
+    "lng": 121.004244,
+    "sid": "MAA3ADMAMAAyADAAMAAwADEAMwA=",
+    "name": "(私立)新竹縣私立千蕎幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.834383,
+    "lng": 121.01345,
+    "sid": "MAA3ADMAMAAyADAAMAAwADEANAA=",
+    "name": "(準公共)新竹縣私立金格幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.843457,
+    "lng": 120.994891,
+    "sid": "MAA3ADMAMAAyADAAMAAwADEANgA=",
+    "name": "(準公共)新竹縣私立美森堡幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.820046,
+    "lng": 121.013771,
+    "sid": "MAA3ADMAMAAyADAAMAAwADEAOAA=",
+    "name": "(私立)新竹縣私立康乃薾幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.87561506,
+    "lng": 120.95544242,
+    "sid": "MAA3ADMAMAAyADAAMAAwADEAOQA=",
+    "name": "(私立)新竹縣私立崇益幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.82689,
+    "lng": 121.008777,
+    "sid": "MAA3ADMAMAAyADAAMAAwADIAMQA=",
+    "name": "(私立)新竹縣私立奇果兒童森林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.815987,
+    "lng": 121.026351,
+    "sid": "MAA3ADMAMAAyADAAMAAwADIAMgA=",
+    "name": "(準公共)新竹縣私立喬米幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.830272,
+    "lng": 121.018123,
+    "sid": "MAA3ADMAMAAyADAAMAAwADIANAA=",
+    "name": "(私立)新竹縣私立童園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.824387,
+    "lng": 121.026293,
+    "sid": "MAA3ADMAMAAyADAAMAAwADIANQA=",
+    "name": "(私立)新竹縣私立萊恩幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.825633,
+    "lng": 121.008293,
+    "sid": "MAA3ADMAMAAyADAAMAAwADIANgA=",
+    "name": "(私立)新竹縣私立奇力果幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.816196,
+    "lng": 121.024502,
+    "sid": "MAA3ADMAMAAyADAAMAAwADIAOAA=",
+    "name": "(準公共)新竹縣私立聖堡登幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.812346,
+    "lng": 121.025551,
+    "sid": "MAA3ADMAMAAyADAAMAAwADIAOQA=",
+    "name": "(準公共)新竹縣私立倢德幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.804318,
+    "lng": 121.053164,
+    "sid": "MAA3ADMAMAAyADAAMAAwADMAMAA=",
+    "name": "(準公共)新竹縣私立源興貝多芬幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.823276,
+    "lng": 121.011085,
+    "sid": "MAA3ADMAMAAyADAAMAAwADMAMQA=",
+    "name": "(私立)新竹縣私立薇芯幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.812975,
+    "lng": 121.031531,
+    "sid": "MAA3ADMAMAAyADAAMAAwADMAMgA=",
+    "name": "(私立)新竹縣私立薇妮幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.826645,
+    "lng": 121.016994,
+    "sid": "MAA3ADMAMAAyADAAMAAwADMAMwA=",
+    "name": "(準公共)新竹縣私立祥安幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.807046,
+    "lng": 121.033424,
+    "sid": "MAA3ADMAMAAyADAAMAAwADMANAA=",
+    "name": "(私立)新竹縣私立薇恩幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.832935,
+    "lng": 121.009935,
+    "sid": "MAA3ADMAMAAyADAAMAAwADMANgA=",
+    "name": "(私立)新竹縣私立天韻幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.8152,
+    "lng": 121.025517,
+    "sid": "MAA3ADMAMAAyADAAMAAwADMANwA=",
+    "name": "(準公共)新竹縣私立迎希幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.842798,
+    "lng": 121.014022,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQAMAA=",
+    "name": "(準公共)新竹縣私立台元科技幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.831714,
+    "lng": 121.006056,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQAMQA=",
+    "name": "(準公共)新竹縣私立萬人幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.830956,
+    "lng": 121.013241,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQAMgA=",
+    "name": "(私立)新竹縣私立何嘉仁國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.828722,
+    "lng": 121.006292,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQAMwA=",
+    "name": "(準公共)新竹縣私立哈柏露塔幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.838382,
+    "lng": 121.002936,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQANQA=",
+    "name": "(公立)新竹縣竹北市竹北國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.836806,
+    "lng": 121.020503,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQANgA=",
+    "name": "(公立)新竹縣竹北市中正國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.822233,
+    "lng": 121.028138,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQANwA=",
+    "name": "(準公共)新竹縣私立夢想島幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.832148,
+    "lng": 121.016245,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQAOAA=",
+    "name": "(準公共)新竹縣私立名喬幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.821923,
+    "lng": 121.030969,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQAOQA=",
+    "name": "(公立)新竹縣竹北市立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.837316,
+    "lng": 121.014194,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQAOQAtADAAMQA=",
+    "name": "(公立)新竹縣竹北市立幼兒園中心分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.866061,
+    "lng": 120.967774,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQAOQAtADAAMgA=",
+    "name": "(公立)新竹縣竹北市立幼兒園尚義分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.846575,
+    "lng": 120.988246,
+    "sid": "MAA3ADMAMAAyADAAMAAwADQAOQAtADAAOAA=",
+    "name": "(公立)新竹縣竹北市立幼兒園聯興分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.808658,
+    "lng": 121.024946,
+    "sid": "MAA3ADMAMAAyADAAMAAwADUAMAA=",
+    "name": "(私立)新竹縣私立小歌德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.836056,
+    "lng": 121.019324,
+    "sid": "MAA3ADMAMAAyADAAMAAwADUAMgA=",
+    "name": "(準公共)新竹縣私立庫奇幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.805317,
+    "lng": 121.031177,
+    "sid": "MAA3ADMAMAAyADAAMAAwADUAMwA=",
+    "name": "(準公共)新竹縣私立米澤幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.854191,
+    "lng": 121.004571,
+    "sid": "MAA3ADMAMAAyADAAMAAwADUANQA=",
+    "name": "(準公共)新竹縣私立露德幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.822319,
+    "lng": 121.007271,
+    "sid": "MAA3ADMAMAAyADAAMAAwADUAOQA=",
+    "name": "(準公共)新竹縣私立劍橋幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.815854,
+    "lng": 121.022358,
+    "sid": "MAA3ADMAMAAyADAAMAAwADYAMAA=",
+    "name": "(私立)新竹縣私立向陽幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.824361,
+    "lng": 121.029099,
+    "sid": "MAA3ADMAMAAyADAAMAAwADYAMQA=",
+    "name": "(私立)新竹縣私立優葆幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.805159,
+    "lng": 121.041068,
+    "sid": "MAA3ADMAMAAyADAAMAAwADYANAA=",
+    "name": "(私立)新竹縣私立承山幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.810991,
+    "lng": 121.028235,
+    "sid": "MAA3ADMAMAAyADAAMAAwADYANQA=",
+    "name": "(私立)新竹縣私立童語幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.81804,
+    "lng": 121.015422,
+    "sid": "MAA3ADMAMAAyADAAMAAwADYANgA=",
+    "name": "(私立)新竹縣私立沛恩實驗幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.814805,
+    "lng": 121.02782,
+    "sid": "MAA3ADMAMAAyADAAMAAwADYANwA=",
+    "name": "(私立)新竹縣私立優尼肯幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.844262,
+    "lng": 120.998435,
+    "sid": "MAA3ADMAMAAyADAAMAAwADYAOAA=",
+    "name": "(公立)新竹縣竹北市新社國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.807228,
+    "lng": 121.031652,
+    "sid": "MAA3ADMAMAAyADAAMAAwADYAOQA=",
+    "name": "(私立)新竹縣私立康橋幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.80445,
+    "lng": 121.032392,
+    "sid": "MAA3ADMAMAAyADAAMAAwADcAMAA=",
+    "name": "(公立)新竹縣竹北市東興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.816717,
+    "lng": 121.015438,
+    "sid": "MAA3ADMAMAAyADAAMAAwADcAMQA=",
+    "name": "(公立)新竹縣竹北市興隆國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.825645,
+    "lng": 121.033455,
+    "sid": "MAA3ADMAMAAyADAAMAAwADcAMwA=",
+    "name": "(私立)新竹縣私立奇薇蒙特梭利幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.813877,
+    "lng": 121.032592,
+    "sid": "MAA3ADMAMAAyADAAMAAwADcANAA=",
+    "name": "(私立)新竹縣私立維育幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.824537,
+    "lng": 121.033087,
+    "sid": "MAA3ADMAMAAyADAAMAAwADcANQA=",
+    "name": "(私立)新竹縣私立愛默生幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.814856,
+    "lng": 121.0232,
+    "sid": "MAA3ADMAMAAyADAAMAAwADcANgA=",
+    "name": "(私立)新竹縣私立米羅幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.818934,
+    "lng": 121.019402,
+    "sid": "MAA3ADMAMAAyADAAMAAwADcANwA=",
+    "name": "(私立)新竹縣私立國際蒙特梭利竹北幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.836815,
+    "lng": 121.012907,
+    "sid": "MAA3ADMAMAAyADAAMAAwADcAOAA=",
+    "name": "(公立)新竹縣竹北市竹仁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.826536,
+    "lng": 121.029951,
+    "sid": "MAA3ADMAMAAyADAAMAAwADcAOQA=",
+    "name": "(私立)新竹縣私立禾麗幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.846713,
+    "lng": 120.977121,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgAMAA=",
+    "name": "(公立)新竹縣竹北市麻園國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.827069,
+    "lng": 121.032134,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgAMQA=",
+    "name": "(公立)新竹縣竹北市安興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.804984,
+    "lng": 121.034454,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgAMgA=",
+    "name": "(私立)新竹縣私立理想圓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.808851,
+    "lng": 121.026206,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgAMgAtADAAMQA=",
+    "name": "(私立)新竹縣私立理想圓幼兒園六家分班",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.806241,
+    "lng": 121.049955,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgAMwA=",
+    "name": "(公立)新竹縣竹北市東海國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.821805,
+    "lng": 121.008921,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgANAA=",
+    "name": "(私立)新竹縣私立愛林實驗幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.824386,
+    "lng": 121.035695,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgANQA=",
+    "name": "(私立)新竹縣私立薇朶幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.800215,
+    "lng": 121.052921,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgANgA=",
+    "name": "(準公共)新竹縣私立萌寶貝國際幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.820632,
+    "lng": 121.013314,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgANwA=",
+    "name": "(私立)新竹縣私立星苗國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.807849,
+    "lng": 121.0334,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgAOAA=",
+    "name": "(私立)新竹縣私立日光城堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.821156,
+    "lng": 121.014842,
+    "sid": "MAA3ADMAMAAyADAAMAAwADgAOQA=",
+    "name": "(私立)新竹縣私立田中橡樹幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.82728,
+    "lng": 121.025479,
+    "sid": "MAA3ADMAMAAyADAAMAAwADkAMAA=",
+    "name": "(私立)新竹縣私立華聖頓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.816031,
+    "lng": 121.019016,
+    "sid": "MAA3ADMAMAAyADAAMAAwADkAMQA=",
+    "name": "(私立)道禾國際文化事業股份有限公司附設新竹縣私立道禾親民幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.83687,
+    "lng": 120.998163,
+    "sid": "MAA3ADMAMAAyADAAMAAwADkAMgA=",
+    "name": "(私立)新竹縣私立杜威幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.831822,
+    "lng": 121.015688,
+    "sid": "MAA3ADMAMAAyADAAMAAwADkAMwA=",
+    "name": "(私立)新竹縣私立康德幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.824357,
+    "lng": 121.032338,
+    "sid": "MAA3ADMAMAAyADAAMAAwADkANgA=",
+    "name": "(私立)新竹縣私立史丹佛幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.823264,
+    "lng": 121.029369,
+    "sid": "MAA3ADMAMAAyADAAMAAwADkANwA=",
+    "name": "(準公共)新竹縣私立夏綠蒂幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.809584,
+    "lng": 121.026491,
+    "sid": "MAA3ADMAMAAyADAAMAAwADkAOAA=",
+    "name": "(私立)新竹縣私立綠菓藝術幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.813656,
+    "lng": 121.030165,
+    "sid": "MAA3ADMAMAAyADAAMAAwADkAOQA=",
+    "name": "(非營利)新竹縣嘉豐非營利幼兒園(委託社團法人新竹縣教保人員協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.803007,
+    "lng": 121.043289,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAAMAA=",
+    "name": "(非營利)新竹縣文興非營利幼兒園(委託社團法人臺灣亞洲學前教育培訓協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.828837,
+    "lng": 121.026576,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAAMQA=",
+    "name": "(私立)新竹縣私立國際蒙特梭利台大幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.806584,
+    "lng": 121.031894,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAAMgA=",
+    "name": "(私立)新竹縣私立星康國際幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.826499,
+    "lng": 121.030435,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAAMwA=",
+    "name": "(私立)新竹縣私立南瓜田幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.850843,
+    "lng": 120.955037,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAANAA=",
+    "name": "(公立)新竹縣竹北市新港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.830039,
+    "lng": 121.017855,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAANQA=",
+    "name": "(準公共)新竹縣私立芝麻村幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.837789,
+    "lng": 120.997166,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAANgA=",
+    "name": "(私立)新竹縣私立育弘幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.828768,
+    "lng": 121.010985,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAANwA=",
+    "name": "(私立)中華郵政公司竹北光明郵局職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.842194,
+    "lng": 120.964099,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAAOAA=",
+    "name": "(公立)新竹縣竹北市豐田國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.828209,
+    "lng": 121.014202,
+    "sid": "MAA3ADMAMAAyADAAMAAxADAAOQA=",
+    "name": "(私立)交通部中央氣象署新竹氣象站職場互助教保服務中心(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.83789908,
+    "lng": 120.99626804,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEAMAA=",
+    "name": "(私立)新竹縣私立薇森幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.86146253,
+    "lng": 120.96400208,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEAMQA=",
+    "name": "(公立)新竹縣竹北市鳳岡國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.84079281,
+    "lng": 120.9946607,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEAMgA=",
+    "name": "(非營利)新竹縣華興非營利幼兒園(委託明新學校財團法人設立之明新科技大學辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.808997,
+    "lng": 121.044457,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEAMwA=",
+    "name": "(私立)台欣生物科技研發股份有限公司職工福利委員會附設新竹縣私立毅宇蒙特梭利生醫園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.821387,
+    "lng": 121.010164,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEANAA=",
+    "name": "(私立)新竹縣私立千心幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.828326,
+    "lng": 121.024505,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEANQA=",
+    "name": "(公立)新竹縣立勝利國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.831033,
+    "lng": 121.005648,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEANgA=",
+    "name": "(非營利)新竹縣博愛非營利幼兒園(委託明新學校財團法人設立之明新科技大學辦理)",
+    "type": "spub2"
   }
 ]

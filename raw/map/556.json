@@ -1,10 +1,154 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.779746,
+    "lng": 120.897032,
+    "sid": "MQAyADUANQA2ADAAMAAwADAAMQA=",
+    "name": "(公立)南投縣信義鄉人和國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.821217999999998,
+    "lng": 120.940366,
+    "sid": "MQAyADUANQA2ADAAMAAwADAAMgA=",
+    "name": "(公立)南投縣信義鄉潭南國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.615748,
+    "lng": 120.884236,
+    "sid": "MQAyADUANQA2ADAAMAAwADAAMwA=",
+    "name": "(公立)南投縣信義鄉久美國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.794195,
+    "lng": 120.943373,
+    "sid": "MQAyADUANQA2ADAAMAAwADAANAA=",
+    "name": "(公立)南投縣信義鄉地利國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.628953,
+    "lng": 120.870267,
+    "sid": "MQAyADUANQA2ADAAMAAwADAANQA=",
+    "name": "(公立)南投縣信義鄉羅娜國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.785146,
+    "lng": 120.95029,
+    "sid": "MQAyADUANQA2ADAAMAAwADAANgA=",
+    "name": "(公立)南投縣信義鄉雙龍國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.670278,
+    "lng": 120.875103,
+    "sid": "MQAyADUANQA2ADAAMAAwADAANwA=",
+    "name": "(公立)南投縣信義鄉豐丘國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.693862,
+    "lng": 120.848624,
+    "sid": "MQAyADUANQA2ADAAMAAwADAAOAA=",
+    "name": "(公立)南投縣信義鄉愛國國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.697787,
+    "lng": 120.854757,
+    "sid": "MQAyADUANQA2ADAAMAAwADAAOQA=",
+    "name": "(公立)南投縣信義鄉信義國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.639739,
+    "lng": 120.869269,
+    "sid": "MQAyADUANQA2ADAAMAAwADEAMAA=",
+    "name": "(公立)南投縣信義鄉希娜巴嵐國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.560312,
+    "lng": 120.875065,
+    "sid": "MQAyADUANQA2ADAAMAAwADEAMQA=",
+    "name": "(公立)南投縣信義鄉桐林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.562017,
+    "lng": 120.927933,
+    "sid": "MQAyADUANQA2ADAAMAAwADEAMgA=",
+    "name": "(公立)南投縣信義鄉東埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.593762,
+    "lng": 120.887795,
+    "sid": "MQAyADUANQA2ADAAMAAwADEAMwA=",
+    "name": "(公立)南投縣信義鄉同富國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.563416,
+    "lng": 120.868049,
+    "sid": "MQAyADUANQA2ADAAMAAwADEANAA=",
+    "name": "(公立)南投縣信義鄉隆華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.693509,
+    "lng": 120.848576,
+    "sid": "MQAyADUANQA2ADAAMAAwADEANwA=",
+    "name": "(公立)南投縣信義鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.794084,
+    "lng": 120.942256,
+    "sid": "MQAyADUANQA2ADAAMAAwADEANwAtADAAMQA=",
+    "name": "(公立)南投縣信義鄉立幼兒園青雲分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.783893,
+    "lng": 120.94768,
+    "sid": "MQAyADUANQA2ADAAMAAwADEANwAtADAAMgA=",
+    "name": "(公立)南投縣信義鄉立幼兒園雙龍分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.628194,
+    "lng": 120.869246,
+    "sid": "MQAyADUANQA2ADAAMAAwADEANwAtADAAMwA=",
+    "name": "(公立)南投縣信義鄉立幼兒園羅娜分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.779163,
+    "lng": 120.896534,
+    "sid": "MQAyADUANQA2ADAAMAAwADEANwAtADAANQA=",
+    "name": "(公立)南投縣信義鄉立幼兒園人和分班",
+    "type": "spub0"
   }
 ]

@@ -1,10 +1,58 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.687224,
+    "lng": 121.79861,
+    "sid": "MAA0ADIANgA4ADAAMAAwADAANAA=",
+    "name": "(公立)宜蘭縣五結鄉五結國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.692432,
+    "lng": 121.77203,
+    "sid": "MAA0ADIANgA4ADAAMAAwADAANQA=",
+    "name": "(公立)宜蘭縣五結鄉中興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.706608,
+    "lng": 121.76959,
+    "sid": "MAA0ADIANgA4ADAAMAAwADAANgA=",
+    "name": "(公立)宜蘭縣五結鄉學進國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.690799,
+    "lng": 121.794788,
+    "sid": "MAA0ADIANgA4ADAAMAAwADAANwA=",
+    "name": "(公立)宜蘭縣五結鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.669191,
+    "lng": 121.823813,
+    "sid": "MAA0ADIANgA4ADAAMAAwADAANwAtADAAMQA=",
+    "name": "(公立)宜蘭縣五結鄉立幼兒園利澤分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.695647,
+    "lng": 121.76535,
+    "sid": "MAA0ADIANgA4ADAAMAAwADAAOQA=",
+    "name": "(準公共)宜蘭縣私立新華國幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.650812,
+    "lng": 121.83842,
+    "sid": "MAA0ADIANgA4ADAAMAAwADEAMAA=",
+    "name": "(私立)經濟部龍德（兼利澤）產業園區服務中心職場互助教保服務中心（委託社團法人宜蘭縣善集合教育文化學會辦理）",
+    "type": "spub1"
   }
 ]

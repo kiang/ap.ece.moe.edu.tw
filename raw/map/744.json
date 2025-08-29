@@ -1,10 +1,114 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.072278,
+    "lng": 120.289896,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市立新市幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.093199,
+    "lng": 120.309143,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMgA=",
+    "name": "(準公共)臺南市私立心之寶幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.079997,
+    "lng": 120.294286,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAAMwA=",
+    "name": "(私立)臺南市私立愛迪生幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.062794,
+    "lng": 120.292685,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAANAA=",
+    "name": "(準公共)臺南市私立蕃茄幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.079389,
+    "lng": 120.292536,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAANQA=",
+    "name": "(準公共)臺南市私立德林國學幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.086609,
+    "lng": 120.319189,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAANgA=",
+    "name": "(公立)臺南市新市區大社國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.07917,
+    "lng": 120.296015,
+    "sid": "MQA2ADcANAA0ADAAMAAwADAANwA=",
+    "name": "(公立)臺南市新市區新市國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.101899,
+    "lng": 120.288197,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEAMAA=",
+    "name": "(非營利)國家科學及技術委員會南部科學園區管理局社區中心員工子女非營利幼兒園(委託社團法人中華音樂舞蹈暨表演藝術教育協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.075826,
+    "lng": 120.31874,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEAMQA=",
+    "name": "(準公共)臺南市私立愛心幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.105073,
+    "lng": 120.262761,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEAMgA=",
+    "name": "(私立)臺南市私立活水樹谷幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.109785,
+    "lng": 120.307741,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEAMwA=",
+    "name": "(私立)臺南市私立曉信幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.082179,
+    "lng": 120.293192,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEANAA=",
+    "name": "(準公共)臺南市私立幼兒佳幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.098723,
+    "lng": 120.290569,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEANQA=",
+    "name": "(私立)臺南市私立樂芙幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.103252,
+    "lng": 120.290082,
+    "sid": "MQA2ADcANAA0ADAAMAAwADEANgA=",
+    "name": "(非營利)國家科學及技術委員會南部科學園區管理局聯苑員工子女非營利幼兒園(委託財團法人彭婉如文教基金會辦理)",
+    "type": "spub2"
   }
 ]

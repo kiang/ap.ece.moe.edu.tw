@@ -1,10 +1,18 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.05619,
+    "lng": 120.40397,
+    "sid": "MQA2ADcAMQAzADAAMAAwADAAMQA=",
+    "name": "(公立)臺南市左鎮區左鎮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.064316,
+    "lng": 120.389819,
+    "sid": "MQA2ADcAMQAzADAAMAAwADAAMgA=",
+    "name": "(公立)臺南市左鎮區光榮實驗小學附設幼兒園",
+    "type": "spub0"
   }
 ]

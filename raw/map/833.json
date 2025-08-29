@@ -1,10 +1,146 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.662506,
+    "lng": 120.360605,
+    "sid": "MQA4ADgAMwAzADAAMAAwADAAMQA=",
+    "name": "(私立)高雄市私立成就非凡澄湖幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.659174,
+    "lng": 120.367468,
+    "sid": "MQA4ADgAMwAzADAAMAAwADAAMwA=",
+    "name": "(準公共)高雄市私立維也納幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.647538,
+    "lng": 120.345863,
+    "sid": "MQA4ADgAMwAzADAAMAAwADAANAA=",
+    "name": "(私立)高雄市私立愛爾蘭幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.653573,
+    "lng": 120.394947,
+    "sid": "MQA4ADgAMwAzADAAMAAwADAANQA=",
+    "name": "(準公共)高雄市私立鳥松大自然幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.654389,
+    "lng": 120.339897,
+    "sid": "MQA4ADgAMwAzADAAMAAwADAANgA=",
+    "name": "(公立)高雄市鳥松區大華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.658551,
+    "lng": 120.393803,
+    "sid": "MQA4ADgAMwAzADAAMAAwADAANwA=",
+    "name": "(公立)高雄市鳥松區仁美國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.655329,
+    "lng": 120.383895,
+    "sid": "MQA4ADgAMwAzADAAMAAwADAAOAA=",
+    "name": "(公立)高雄市立鳥松幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.650979,
+    "lng": 120.339104,
+    "sid": "MQA4ADgAMwAzADAAMAAwADAAOQA=",
+    "name": "(準公共)高雄市私立菁華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.65138,
+    "lng": 120.350161,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEAMAA=",
+    "name": "(私立)正修學校財團法人正修科技大學附設高雄市私立正修幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.652548,
+    "lng": 120.339548,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEAMQA=",
+    "name": "(準公共)高雄市私立喬美幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.656948,
+    "lng": 120.336635,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEAMgA=",
+    "name": "(準公共)高雄市私立年潤幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.653761,
+    "lng": 120.395051,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEAMwA=",
+    "name": "(準公共)高雄市私立大自然幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.657019,
+    "lng": 120.394694,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEANAA=",
+    "name": "(私立)高雄市私立育生幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.662893,
+    "lng": 120.360079,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEANQA=",
+    "name": "(準公共)高雄市私立松立幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.653127,
+    "lng": 120.339395,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEANgA=",
+    "name": "(私立)高雄市私立啟蒙幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.654746,
+    "lng": 120.393303,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEANwA=",
+    "name": "(準公共)高雄市私立幸福幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.647622,
+    "lng": 120.35803,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEAOAA=",
+    "name": "(私立)長庚醫療財團法人高雄長庚紀念醫院附設高雄市私立長庚幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.656093,
+    "lng": 120.336194,
+    "sid": "MQA4ADgAMwAzADAAMAAwADEAOQA=",
+    "name": "(私立)高雄市私立常春藤國際幼兒園",
+    "type": "spub1"
   }
 ]

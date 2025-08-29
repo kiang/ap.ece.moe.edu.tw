@@ -1,10 +1,210 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.056118,
+    "lng": 120.442127,
+    "sid": "MQAxADUAMAA1ADAAMAAwADAAMgA=",
+    "name": "(私立)彰化縣私立嘉人幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.058529,
+    "lng": 120.44379,
+    "sid": "MQAxADUAMAA1ADAAMAAwADAAMwA=",
+    "name": "(準公共)彰化縣私立柏克萊幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.07329,
+    "lng": 120.440482,
+    "sid": "MQAxADUAMAA1ADAAMAAwADAANQA=",
+    "name": "(準公共)彰化縣私立皇家幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.059073,
+    "lng": 120.442894,
+    "sid": "MQAxADUAMAA1ADAAMAAwADAANgA=",
+    "name": "(準公共)彰化縣私立鹿港保進幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.058539,
+    "lng": 120.429614,
+    "sid": "MQAxADUAMAA1ADAAMAAwADAANwA=",
+    "name": "(私立)彰化縣私立安安廣學幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.06058,
+    "lng": 120.444689,
+    "sid": "MQAxADUAMAA1ADAAMAAwADAAOAA=",
+    "name": "(準公共)彰化縣私立天真幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.0616,
+    "lng": 120.438751,
+    "sid": "MQAxADUAMAA1ADAAMAAwADAAOQA=",
+    "name": "(準公共)彰化縣私立小天使幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.054236,
+    "lng": 120.439702,
+    "sid": "MQAxADUAMAA1ADAAMAAwADEAMQA=",
+    "name": "(準公共)彰化縣私立貝斯特幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.066296,
+    "lng": 120.430859,
+    "sid": "MQAxADUAMAA1ADAAMAAwADEAMgA=",
+    "name": "(私立)彰化縣私立安安幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.065061,
+    "lng": 120.41827,
+    "sid": "MQAxADUAMAA1ADAAMAAwADEAMwA=",
+    "name": "(私立)彰化縣私立耕心園幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.050986,
+    "lng": 120.438863,
+    "sid": "MQAxADUAMAA1ADAAMAAwADEANgA=",
+    "name": "(私立)彰化縣私立愛育幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.058104,
+    "lng": 120.475748,
+    "sid": "MQAxADUAMAA1ADAAMAAwADEAOQA=",
+    "name": "(公立)彰化縣鹿港鎮東興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.057191,
+    "lng": 120.430238,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIAMAA=",
+    "name": "(公立)彰化縣鹿港鎮文開國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.051212,
+    "lng": 120.433693,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIAMQA=",
+    "name": "(公立)彰化縣鹿港鎮鹿港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.05453,
+    "lng": 120.430645,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIAMgA=",
+    "name": "(公立)彰化縣鹿港鎮洛津國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.08795,
+    "lng": 120.480194,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIAMwA=",
+    "name": "(公立)彰化縣鹿港鎮頂番國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.083927,
+    "lng": 120.444282,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIANAA=",
+    "name": "(公立)彰化縣鹿港鎮海埔國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.058192,
+    "lng": 120.443043,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIANQA=",
+    "name": "(公立)彰化縣鹿港鎮鹿東國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.046896,
+    "lng": 120.437146,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIANgA=",
+    "name": "(公立)彰化縣鹿港鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.083783,
+    "lng": 120.477668,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIANwA=",
+    "name": "(私立)彰化縣私立普林斯頓幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.063191,
+    "lng": 120.442765,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIAOAA=",
+    "name": "(私立)彰化縣私立童林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.105977,
+    "lng": 120.462091,
+    "sid": "MQAxADUAMAA1ADAAMAAwADIAOQA=",
+    "name": "(非營利)彰化縣草港非營利幼兒園（委託社團法人南投縣手工藝發展協會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.091969,
+    "lng": 120.486014,
+    "sid": "MQAxADUAMAA1ADAAMAAwADMAMAA=",
+    "name": "(準公共)彰化縣私立日揚幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.095947,
+    "lng": 120.472635,
+    "sid": "MQAxADUAMAA1ADAAMAAwADMAMQA=",
+    "name": "(準公共)彰化縣私立鹿鳴村幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.05919,
+    "lng": 120.442604,
+    "sid": "MQAxADUAMAA1ADAAMAAwADMAMgA=",
+    "name": "(準公共)彰化縣私立菁華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.066437,
+    "lng": 120.428756,
+    "sid": "MQAxADUAMAA1ADAAMAAwADMAMwA=",
+    "name": "(私立)彰化縣私立安安經典幼兒園",
+    "type": "spub1"
   }
 ]

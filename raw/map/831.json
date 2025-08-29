@@ -1,10 +1,282 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.612751,
+    "lng": 120.395901,
+    "sid": "MQA4ADgAMwAxADAAMAAwADAAMwA=",
+    "name": "(準公共)高雄市私立卡爾頓幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.633851,
+    "lng": 120.397336,
+    "sid": "MQA4ADgAMwAxADAAMAAwADAANAA=",
+    "name": "(私立)高雄市私立大寮恆青幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.599598,
+    "lng": 120.391768,
+    "sid": "MQA4ADgAMwAxADAAMAAwADAANQA=",
+    "name": "(私立)中山學校財團法人高雄市中山高級工商職業學校附屬私立中山幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.604731,
+    "lng": 120.398275,
+    "sid": "MQA4ADgAMwAxADAAMAAwADAANgA=",
+    "name": "(準公共)高雄市私立新培育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.604766,
+    "lng": 120.398352,
+    "sid": "MQA4ADgAMwAxADAAMAAwADAANwA=",
+    "name": "(準公共)高雄市私立新幼幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.61186,
+    "lng": 120.391293,
+    "sid": "MQA4ADgAMwAxADAAMAAwADAAOQA=",
+    "name": "(準公共)高雄市私立加恩幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.542036,
+    "lng": 120.409601,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEAMAA=",
+    "name": "(準公共)高雄市私立龍婕幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.636483,
+    "lng": 120.391983,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEAMQA=",
+    "name": "(準公共)高雄市私立頌恩幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.623196,
+    "lng": 120.408671,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEAMgA=",
+    "name": "(公立)高雄市大寮區翁園國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.605729,
+    "lng": 120.395029,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEAMwA=",
+    "name": "(公立)高雄市大寮區永芳國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.630485,
+    "lng": 120.420434,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEANAA=",
+    "name": "(公立)高雄市大寮區溪寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.637826,
+    "lng": 120.38954,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEANQA=",
+    "name": "(公立)高雄市大寮區後庄國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.565012,
+    "lng": 120.424864,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEANgA=",
+    "name": "(公立)高雄市大寮區潮寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.541595,
+    "lng": 120.408008,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEANwA=",
+    "name": "(公立)高雄市大寮區昭明國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.616282,
+    "lng": 120.384138,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEAOAA=",
+    "name": "(公立)高雄市大寮區忠義國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.590582,
+    "lng": 120.416756,
+    "sid": "MQA4ADgAMwAxADAAMAAwADEAOQA=",
+    "name": "(公立)高雄市大寮區大寮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.602807,
+    "lng": 120.422135,
+    "sid": "MQA4ADgAMwAxADAAMAAwADIAMAA=",
+    "name": "(公立)高雄市立大寮幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.60171,
+    "lng": 120.398977,
+    "sid": "MQA4ADgAMwAxADAAMAAwADIAMQA=",
+    "name": "(準公共)高雄市私立天下幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.63528,
+    "lng": 120.396815,
+    "sid": "MQA4ADgAMwAxADAAMAAwADIAMgA=",
+    "name": "(公立)高雄市大寮區中庄國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.607599,
+    "lng": 120.389554,
+    "sid": "MQA4ADgAMwAxADAAMAAwADIAMwA=",
+    "name": "(公立)高雄市大寮區山頂國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.637966,
+    "lng": 120.387921,
+    "sid": "MQA4ADgAMwAxADAAMAAwADIANAA=",
+    "name": "(準公共)高雄市私立金妮幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.636338,
+    "lng": 120.393189,
+    "sid": "MQA4ADgAMwAxADAAMAAwADIANgA=",
+    "name": "(私立)高雄市私立愛迪生鳳屏幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.613774,
+    "lng": 120.407441,
+    "sid": "MQA4ADgAMwAxADAAMAAwADIANwA=",
+    "name": "(私立)高雄市私立童的夢幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.601308,
+    "lng": 120.390477,
+    "sid": "MQA4ADgAMwAxADAAMAAwADIAOAA=",
+    "name": "(準公共)私立輔英科技大學附設高雄市幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.591281,
+    "lng": 120.415581,
+    "sid": "MQA4ADgAMwAxADAAMAAwADMAMAA=",
+    "name": "(準公共)高雄市私立優等生幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.601722,
+    "lng": 120.395491,
+    "sid": "MQA4ADgAMwAxADAAMAAwADMAMQA=",
+    "name": "(準公共)高雄市私立玫瑰幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.637177,
+    "lng": 120.397922,
+    "sid": "MQA4ADgAMwAxADAAMAAwADMAMwA=",
+    "name": "(私立)高雄市私立勵志幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.617478,
+    "lng": 120.38666,
+    "sid": "MQA4ADgAMwAxADAAMAAwADMANAA=",
+    "name": "(準公共)財團法人天主教奧思會附設高雄市私立奧思幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.591792,
+    "lng": 120.400321,
+    "sid": "MQA4ADgAMwAxADAAMAAwADMANQA=",
+    "name": "(私立)高雄市私立諾貝爾鳳林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.612525,
+    "lng": 120.395163,
+    "sid": "MQA4ADgAMwAxADAAMAAwADMANgA=",
+    "name": "(準公共)高雄市私立喜愛爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.603798,
+    "lng": 120.391825,
+    "sid": "MQA4ADgAMwAxADAAMAAwADMANwA=",
+    "name": "(非營利)高雄市進學非營利幼兒園（委託中山學校財團法人辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.59965699,
+    "lng": 120.40097797,
+    "sid": "MQA4ADgAMwAxADAAMAAwADMAOAA=",
+    "name": "(準公共)高雄市私立圓得寶幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.600271,
+    "lng": 120.401931,
+    "sid": "MQA4ADgAMwAxADAAMAAwADMAOQA=",
+    "name": "(準公共)高雄市私立新國際幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.602084,
+    "lng": 120.402496,
+    "sid": "MQA4ADgAMwAxADAAMAAwADQAMAA=",
+    "name": "(私立)高雄市私立新創意幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.607531,
+    "lng": 120.406848,
+    "sid": "MQA4ADgAMwAxADAAMAAwADQAMQA=",
+    "name": "(私立)高雄市私立新藝術幼兒園",
+    "type": "spub1"
   }
 ]

@@ -1,10 +1,42 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.758907,
+    "lng": 121.79337,
+    "sid": "MAA0ADIANgAzADAAMAAwADAANAA=",
+    "name": "(私立)中道學校財團法人宜蘭縣中道高級中學附設宜蘭縣私立中道幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.77149,
+    "lng": 121.79784,
+    "sid": "MAA0ADIANgAzADAAMAAwADAANgA=",
+    "name": "(公立)宜蘭縣壯圍鄉古亭國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.770586,
+    "lng": 121.800402,
+    "sid": "MAA0ADIANgAzADAAMAAwADAANwA=",
+    "name": "(公立)宜蘭縣壯圍鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.722524,
+    "lng": 121.799957,
+    "sid": "MAA0ADIANgAzADAAMAAwADAAOAA=",
+    "name": "(公立)宜蘭縣壯圍鄉新南國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.743574,
+    "lng": 121.790037,
+    "sid": "MAA0ADIANgAzADAAMAAwADAAOQA=",
+    "name": "(非營利)宜蘭縣壯圍非營利幼兒園(委託社團法人宜蘭縣蘭陽幼兒教保事業發展協會辦理)",
+    "type": "spub2"
   }
 ]

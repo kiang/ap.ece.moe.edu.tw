@@ -1,10 +1,58 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.326685,
+    "lng": 120.400323,
+    "sid": "MQA2ADcAMwAzADAAMAAwADAAMQA=",
+    "name": "(私立)臺南市私立幸福幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.318973,
+    "lng": 120.423457,
+    "sid": "MQA2ADcAMwAzADAAMAAwADAAMgA=",
+    "name": "(準公共)臺南市私立領袖學院慈仁幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.323661,
+    "lng": 120.401406,
+    "sid": "MQA2ADcAMwAzADAAMAAwADAAMwA=",
+    "name": "(公立)臺南市東山區東山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.266587,
+    "lng": 120.446663,
+    "sid": "MQA2ADcAMwAzADAAMAAwADAANAA=",
+    "name": "(公立)臺南市東山區東原國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.294668,
+    "lng": 120.386447,
+    "sid": "MQA2ADcAMwAzADAAMAAwADAANQA=",
+    "name": "(公立)臺南市東山區吉貝耍國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.305898,
+    "lng": 120.362556,
+    "sid": "MQA2ADcAMwAzADAAMAAwADAANgA=",
+    "name": "(公立)臺南市東山區聖賢國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.280703,
+    "lng": 120.46745,
+    "sid": "MQA2ADcAMwAzADAAMAAwADAANwA=",
+    "name": "(公立)臺南市東山區青山國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

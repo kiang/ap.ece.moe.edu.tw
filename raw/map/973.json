@@ -1,10 +1,186 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.985787,
+    "lng": 121.579773,
+    "sid": "MgAyADkANwAzADAAMAAwADAAMgA=",
+    "name": "(準公共)花蓮縣私立貓頭鷹幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.982276,
+    "lng": 121.563078,
+    "sid": "MgAyADkANwAzADAAMAAwADAAMwA=",
+    "name": "(準公共)花蓮縣私立台大幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.968598,
+    "lng": 121.580744,
+    "sid": "MgAyADkANwAzADAAMAAwADAANAA=",
+    "name": "(準公共)花蓮縣私立丫丫幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.969867,
+    "lng": 121.584668,
+    "sid": "MgAyADkANwAzADAAMAAwADAANwA=",
+    "name": "(準公共)花蓮縣私立欣怡幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.98149,
+    "lng": 121.565979,
+    "sid": "MgAyADkANwAzADAAMAAwADAAOAA=",
+    "name": "(私立)花蓮縣私立健心幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.97059,
+    "lng": 121.58924,
+    "sid": "MgAyADkANwAzADAAMAAwADAAOQA=",
+    "name": "(非營利)花蓮縣立德非營利幼兒園(委託社團法人國際兒童教育協會中華民國總會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.988972,
+    "lng": 121.572499,
+    "sid": "MgAyADkANwAzADAAMAAwADEAMAA=",
+    "name": "(公立)花蓮縣吉安鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.9712,
+    "lng": 121.585683,
+    "sid": "MgAyADkANwAzADAAMAAwADEAMQA=",
+    "name": "(公立)花蓮縣吉安鄉宜昌國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.935681,
+    "lng": 121.578645,
+    "sid": "MgAyADkANwAzADAAMAAwADEAMwA=",
+    "name": "(公立)花蓮縣吉安鄉光華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.948415,
+    "lng": 121.547545,
+    "sid": "MgAyADkANwAzADAAMAAwADEANAA=",
+    "name": "(公立)花蓮縣吉安鄉南華國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.973433,
+    "lng": 121.582333,
+    "sid": "MgAyADkANwAzADAAMAAwADEANQA=",
+    "name": "(準公共)財團法人天主教會花蓮教區附設花蓮縣私立中和幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.963186,
+    "lng": 121.569059,
+    "sid": "MgAyADkANwAzADAAMAAwADEANgA=",
+    "name": "(公立)花蓮縣吉安鄉稻香國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.968554,
+    "lng": 121.580722,
+    "sid": "MgAyADkANwAzADAAMAAwADEANwA=",
+    "name": "(準公共)花蓮縣私立小丫幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.985292,
+    "lng": 121.590607,
+    "sid": "MgAyADkANwAzADAAMAAwADEAOAA=",
+    "name": "(準公共)花蓮縣私立芝蔴村幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.987686,
+    "lng": 121.591993,
+    "sid": "MgAyADkANwAzADAAMAAwADEAOQA=",
+    "name": "(公立)花蓮縣吉安鄉北昌國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.995002,
+    "lng": 121.56496,
+    "sid": "MgAyADkANwAzADAAMAAwADIAMAA=",
+    "name": "(公立)花蓮縣吉安鄉太昌國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.96295,
+    "lng": 121.595674,
+    "sid": "MgAyADkANwAzADAAMAAwADIAMQA=",
+    "name": "(公立)花蓮縣吉安鄉化仁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.971731,
+    "lng": 121.590213,
+    "sid": "MgAyADkANwAzADAAMAAwADIAMgA=",
+    "name": "(準公共)花蓮縣私立咪咪幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.983531,
+    "lng": 121.581256,
+    "sid": "MgAyADkANwAzADAAMAAwADIAMwA=",
+    "name": "(準公共)花蓮縣私立毛毛虫幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.973415,
+    "lng": 121.562813,
+    "sid": "MgAyADkANwAzADAAMAAwADIANAA=",
+    "name": "(公立)花蓮縣吉安鄉吉安國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.965937,
+    "lng": 121.588373,
+    "sid": "MgAyADkANwAzADAAMAAwADIANQA=",
+    "name": "(準公共)花蓮縣私立幼華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.965217,
+    "lng": 121.586453,
+    "sid": "MgAyADkANwAzADAAMAAwADIANgA=",
+    "name": "(準公共)花蓮縣私立森林幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.967475,
+    "lng": 121.592812,
+    "sid": "MgAyADkANwAzADAAMAAwADIANwA=",
+    "name": "(私立)中華郵政公司吉安仁里郵局職場互助教保服務中心(委託財團法人台灣省花蓮縣私立海星高級中學辦理)",
+    "type": "spub1"
   }
 ]

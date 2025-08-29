@@ -1,10 +1,242 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.205135,
+    "lng": 120.706327,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADAAMQA=",
+    "name": "(準公共)臺中市私立小天才幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.222417,
+    "lng": 120.692615,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADAAMgA=",
+    "name": "(私立)臺中市私立大豐幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.195886,
+    "lng": 120.70149,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADAAMwA=",
+    "name": "(私立)臺中市私立源兒堡幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.207176,
+    "lng": 120.680788,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADAANAA=",
+    "name": "(準公共)臺中市私立潭子小叮噹幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.213289,
+    "lng": 120.701425,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADAANQA=",
+    "name": "(私立)臺中市私立芸笙幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.204145,
+    "lng": 120.70959,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADAANgA=",
+    "name": "(準公共)臺中市私立文文幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.207919,
+    "lng": 120.708304,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADAAOAA=",
+    "name": "(準公共)臺中市私立潭子綠竹幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.213929,
+    "lng": 120.702324,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADAAOQA=",
+    "name": "(私立)臺中市私立孩子國幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.205284,
+    "lng": 120.707562,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADEAMAA=",
+    "name": "(私立)臺中市私立陽光森林幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.20659,
+    "lng": 120.709421,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADEAMgA=",
+    "name": "(私立)臺中市私立潭子一畝田幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.211083,
+    "lng": 120.699676,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADEANAA=",
+    "name": "(準公共)臺中市私立親日光幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.21135,
+    "lng": 120.710646,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADEANQA=",
+    "name": "(私立)臺中市私立欣冠鈞幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.210014,
+    "lng": 120.710147,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADEANgA=",
+    "name": "(準公共)臺中市私立孟昇幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.208781,
+    "lng": 120.700165,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADEANwA=",
+    "name": "(準公共)臺中市私立愛恩堡幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.206891,
+    "lng": 120.708331,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADEAOAA=",
+    "name": "(準公共)臺中市私立東育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.208851,
+    "lng": 120.7027,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIAMQA=",
+    "name": "(準公共)臺中市私立小貝貝興華幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.19739,
+    "lng": 120.701043,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIAMgA=",
+    "name": "(準公共)臺中市私立福祿貝爾幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.211513,
+    "lng": 120.701677,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIAMwA=",
+    "name": "(準公共)臺中市私立福祿貝爾潭子幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.204225,
+    "lng": 120.726516,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIANAA=",
+    "name": "(公立)臺中市潭子區新興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.214084,
+    "lng": 120.704023,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIANQA=",
+    "name": "(公立)臺中市潭子區潭子國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.202413,
+    "lng": 120.703339,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIANgA=",
+    "name": "(公立)臺中市潭子區僑忠國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.19526,
+    "lng": 120.698933,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIANwA=",
+    "name": "(公立)臺中市立潭子幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.214589,
+    "lng": 120.707639,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIANwAtADAAMQA=",
+    "name": "(公立)臺中市立潭子幼兒園潭北分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.20954,
+    "lng": 120.703474,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIANwAtADAAMwA=",
+    "name": "(公立)臺中市立潭子幼兒園潭陽分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.21719,
+    "lng": 120.685006,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIAOAA=",
+    "name": "(公立)臺中市潭子區東寶國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.21583,
+    "lng": 120.69941,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADIAOQA=",
+    "name": "(非營利)臺中市潭秀非營利幼兒園(委託財團法人中臺科技大學設立之中臺科技大學辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.209663,
+    "lng": 120.707775,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADMAMAA=",
+    "name": "(非營利)臺中市潭子非營利幼兒園(委託社團法人彰化縣全方位教育協會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.211817,
+    "lng": 120.709315,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADMAMQA=",
+    "name": "(非營利)臺中市潭陽非營利幼兒園(委託財團法人宏觀文教基金會辦理)",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.19261144,
+    "lng": 120.7232039,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADMAMgA=",
+    "name": "(私立)財團法人中華民國佛教慈濟慈善事業基金會附設臺中市私立臺中大愛幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.207485,
+    "lng": 120.680111,
+    "sid": "MAA5ADQAMgA3ADAAMAAwADMAMwA=",
+    "name": "(私立)臺中市私立艾法賀菈幼兒園",
+    "type": "spub1"
   }
 ]

@@ -1,10 +1,66 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 23.751407,
+    "lng": 121.450971,
+    "sid": "MgAyADkANwA1ADAAMAAwADAAMQA=",
+    "name": "(準公共)花蓮縣私立愛彌兒幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.745067,
+    "lng": 121.452038,
+    "sid": "MgAyADkANwA1ADAAMAAwADAAMgA=",
+    "name": "(公立)花蓮縣鳳林鎮立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.801236,
+    "lng": 121.452849,
+    "sid": "MgAyADkANwA1ADAAMAAwADAAMwA=",
+    "name": "(公立)花蓮縣鳳林鎮林榮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.709951,
+    "lng": 121.419959,
+    "sid": "MgAyADkANwA1ADAAMAAwADAANAA=",
+    "name": "(公立)花蓮縣鳳林鎮長橋國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.743276,
+    "lng": 121.446791,
+    "sid": "MgAyADkANwA1ADAAMAAwADAANQA=",
+    "name": "(公立)花蓮縣鳳林鎮鳳林國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.754316,
+    "lng": 121.468406,
+    "sid": "MgAyADkANwA1ADAAMAAwADAANwA=",
+    "name": "(公立)花蓮縣鳳林鎮大榮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.751338,
+    "lng": 121.451897,
+    "sid": "MgAyADkANwA1ADAAMAAwADAAOAA=",
+    "name": "(公立)花蓮縣鳳林鎮鳳仁國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.771639,
+    "lng": 121.468304,
+    "sid": "MgAyADkANwA1ADAAMAAwADAAOQA=",
+    "name": "(公立)花蓮縣鳳林鎮北林國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

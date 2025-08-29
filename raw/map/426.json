@@ -1,10 +1,50 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 24.234806,
+    "lng": 120.805425,
+    "sid": "MAA5ADQAMgA2ADAAMAAwADAAMQA=",
+    "name": "(準公共)臺中市私立愛苗幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.193916,
+    "lng": 120.812578,
+    "sid": "MAA5ADQAMgA2ADAAMAAwADAAMgA=",
+    "name": "(公立)臺中市新社區協成國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.241852,
+    "lng": 120.787502,
+    "sid": "MAA5ADQAMgA2ADAAMAAwADAAMwA=",
+    "name": "(公立)臺中市新社區崑山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.235689,
+    "lng": 120.809484,
+    "sid": "MAA5ADQAMgA2ADAAMAAwADAANAA=",
+    "name": "(公立)臺中市立新社幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.206662,
+    "lng": 120.819791,
+    "sid": "MAA5ADQAMgA2ADAAMAAwADAANQA=",
+    "name": "(公立)臺中市新社區東興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.226849,
+    "lng": 120.804455,
+    "sid": "MAA5ADQAMgA2ADAAMAAwADAANgA=",
+    "name": "(公立)臺中市新社區大南國民小學附設幼兒園",
+    "type": "spub0"
   }
 ]

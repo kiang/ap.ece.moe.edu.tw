@@ -1,10 +1,58 @@
 [
   {
-    "newsch": null,
-    "lat": null,
-    "lng": null,
-    "sid": "Error",
-    "name": "建立連接至 SQL Server 時，發生網路相關或執行個體特定的錯誤。找不到或無法存取伺服器。確認執行個名稱是否正確，以及 SQL Server 是否設定為允許遠端連線。 (provider: TCP Provider, error: 0 - 等候操作已逾時。)",
-    "type": null
+    "newsch": 1,
+    "lat": 22.176441,
+    "lng": 120.838095,
+    "sid": "MgAwADkANAA1ADAAMAAwADAAMQA=",
+    "name": "(公立)屏東縣牡丹鄉牡丹國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.125569,
+    "lng": 120.772275,
+    "sid": "MgAwADkANAA1ADAAMAAwADAAMgA=",
+    "name": "(公立)屏東縣牡丹鄉石門國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.125366,
+    "lng": 120.846267,
+    "sid": "MgAwADkANAA1ADAAMAAwADAAMwA=",
+    "name": "(公立)屏東縣牡丹鄉高士國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.073213,
+    "lng": 120.813896,
+    "sid": "MgAwADkANAA1ADAAMAAwADAAMwAtADAAMQA=",
+    "name": "(公立)屏東縣牡丹鄉高士國民小學附設幼兒園牡林分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.125833,
+    "lng": 120.771943,
+    "sid": "MgAwADkANAA1ADAAMAAwADAANAA=",
+    "name": "(公立)屏東縣牡丹鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.176637,
+    "lng": 120.83768,
+    "sid": "MgAwADkANAA1ADAAMAAwADAANAAtADAAMQA=",
+    "name": "(公立)屏東縣牡丹鄉立幼兒園牡丹分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.189217,
+    "lng": 120.87766,
+    "sid": "MgAwADkANAA1ADAAMAAwADAANQA=",
+    "name": "(私立)屏東縣牡丹鄉旭海社區互助教保服務中心(牡丹鄉旭海社區發展協會辦理)",
+    "type": "spub1"
   }
 ]
