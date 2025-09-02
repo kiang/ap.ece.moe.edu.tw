@@ -294,5 +294,13 @@
     "sid": "MAAyADEAMQA1ADAAMAAwADQANAA=",
     "name": "(私立)衛生福利部職場互助教保服務中心（委託社團法人金字塔幼兒教育研究學會辦理）",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.056377,
+    "lng": 121.610314,
+    "sid": "MAAyADEAMQA1ADAAMAAwADQANQA=",
+    "name": "(非營利)臺北市經貿非營利幼兒園（委託財團法人慈心兒童教育基金會辦理）",
+    "type": "spub2"
   }
 ]

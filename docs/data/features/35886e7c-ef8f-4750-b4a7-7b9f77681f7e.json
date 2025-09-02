@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1140244600號",
+        "reg_docno": "府教幼字第1140244600號",
+        "reg_date": "2025\/08\/29",
+        "title": "桃園市私立欣妍幼兒園",
+        "owner": "穆志誠",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "私立",
+        "address": "[334]東勇北路189號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "394",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "35886e7c-ef8f-4750-b4a7-7b9f77681f7e",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.307191,
+            24.968237
+        ]
+    }
+}
