@@ -1334,5 +1334,13 @@
     "sid": "MAA2ADMAMAAwADAAMAAyADAANAA=",
     "name": "(私立)新竹市私立小星星幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.79271,
+    "lng": 121.016151,
+    "sid": "MAA2ADMAMAAwADAAMAAyADAANQA=",
+    "name": "(私立)新竹市私立傑尼斯蒙特梭利幼兒園",
+    "type": "spub1"
   }
 ]
