@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "屏府教特字第1140209425號",
+        "reg_docno": "屏府教特字第1140209425號",
+        "reg_date": "2025\/08\/01",
+        "title": "屏東縣高樹鄉新豐國民小學附設幼兒園",
+        "owner": "李文欽",
+        "city": "屏東縣",
+        "town": "高樹鄉",
+        "type": "公立",
+        "address": "[906]泰和路26號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(08)7316486",
+        "url": "",
+        "count_approved": "15",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "dac58e88-c962-4687-a652-33105fddc52d",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.634276,
+            22.863382
+        ]
+    }
+}

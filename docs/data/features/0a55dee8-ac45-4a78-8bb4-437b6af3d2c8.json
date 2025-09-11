@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第819號",
+        "reg_docno": "北市教前字第11430151721號",
+        "reg_date": "2025\/09\/01",
+        "title": "臺北市私立花朵幼兒園",
+        "owner": "朱俐蓉",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]石牌路一段39巷36弄11號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "35",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0a55dee8-ac45-4a78-8bb4-437b6af3d2c8",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.510564,
+            25.114758
+        ]
+    }
+}
