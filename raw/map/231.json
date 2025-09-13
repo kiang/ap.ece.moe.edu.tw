@@ -630,5 +630,13 @@
     "sid": "MAAzADIAMwAxADAAMAAwADkANAA=",
     "name": "(非營利)新北市新店民安非營利幼兒園（委託康寧學校財團法人康寧大學辦理）",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.966285,
+    "lng": 121.514878,
+    "sid": "MAAzADIAMwAxADAAMAAwADkANQA=",
+    "name": "(私立)中信國際學校財團法人新北市私立中信高級中等學校附設幼兒園",
+    "type": "spub1"
   }
 ]
