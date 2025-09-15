@@ -41,14 +41,6 @@
   },
   {
     "newsch": 1,
-    "lat": 24.966758,
-    "lng": 121.257527,
-    "sid": "MAA1ADMAMgAwADAAMAAwADAAOQA=",
-    "name": "(私立)桃園市私立企鵝家族英國幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
     "lat": 24.962864,
     "lng": 121.21322,
     "sid": "MAA1ADMAMgAwADAAMAAwADEAMAA=",
@@ -406,14 +398,6 @@
     "sid": "MAA1ADMAMgAwADAAMAAwADYAOQA=",
     "name": "(準公共)桃園市私立瑞智蒙特梭利幼兒園",
     "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.97588279,
-    "lng": 121.24883106,
-    "sid": "MAA1ADMAMgAwADAAMAAwADYAOQAtADAAMQA=",
-    "name": "(私立)桃園市私立瑞智蒙特梭利幼兒園長樂分班",
-    "type": "spub1"
   },
   {
     "newsch": 1,
@@ -805,14 +789,6 @@
     "lng": 121.245362,
     "sid": "MAA1ADMAMgAwADAAMAAxADIANQA=",
     "name": "(私立)桃園市私立妍樂幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.957445,
-    "lng": 121.245252,
-    "sid": "MAA1ADMAMgAwADAAMAAxADIANQAtADAAMQA=",
-    "name": "(私立)桃園市私立妍樂幼兒園中原分班",
     "type": "spub1"
   },
   {
