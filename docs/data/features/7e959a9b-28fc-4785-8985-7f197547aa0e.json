@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1140262389號",
+        "reg_docno": "府教幼字第1140262389號",
+        "reg_date": "2025\/09\/16",
+        "title": "桃園市私立樂晨幼兒園",
+        "owner": "陳韻宇",
+        "city": "桃園市",
+        "town": "龜山區",
+        "type": "私立",
+        "address": "[333]文桃路363、341、339號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7e959a9b-28fc-4785-8985-7f197547aa0e",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.391579,
+            25.0467
+        ]
+    }
+}
