@@ -1222,5 +1222,13 @@
     "sid": "MAAzADIAMgAwADAAMAAxADcANAA=",
     "name": "(私立)新北市中華電信江翠職場互助教保服務中心（委託社團法人台灣幼兒早期教育協會辦理）",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.021032,
+    "lng": 121.450388,
+    "sid": "MAAzADIAMgAwADAAMAAxADcANQA=",
+    "name": "(非營利)新北市永翠非營利幼兒園（委託社團法人新北市多元教育協會辦理）",
+    "type": "spub2"
   }
 ]
