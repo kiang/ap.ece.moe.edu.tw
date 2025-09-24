@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1140273841號",
+        "reg_docno": "府教幼字第1130029053號",
+        "reg_date": "2024\/02\/01",
+        "title": "桃園市私立青禾貝比幼兒園",
+        "owner": "陳昱廷",
+        "city": "桃園市",
+        "town": "中壢區",
+        "type": "私立",
+        "address": "[320]新中北路508號",
+        "floor": "1樓",
+        "size": "788.38平方公尺",
+        "size_in": "350.62平方公尺",
+        "size_out": "392.76平方公尺",
+        "tel": "(03)4629375",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "6f3cba9b-60f2-46d5-ae3c-c1f96d5f59fa",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.245362,
+            24.95722
+        ]
+    }
+}
