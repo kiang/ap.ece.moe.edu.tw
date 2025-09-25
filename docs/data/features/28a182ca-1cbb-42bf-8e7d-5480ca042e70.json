@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1140086388號",
+        "reg_docno": "中市教幼字第1140086388號",
+        "reg_date": "2025\/09\/24",
+        "title": "宜寧學校財團法人臺中市宜寧高級中學附屬私立卡羅幼兒園",
+        "owner": "何財源",
+        "city": "臺中市",
+        "town": "西屯區",
+        "type": "私立",
+        "address": "[407]東大路一段557號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24608858",
+        "url": "",
+        "count_approved": "541",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "28a182ca-1cbb-42bf-8e7d-5480ca042e70",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.606853,
+            24.194516
+        ]
+    }
+}
