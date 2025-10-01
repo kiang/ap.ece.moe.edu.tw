@@ -382,5 +382,13 @@
     "sid": "MAA1ADMAMwA0ADAAMAAwADUAMgA=",
     "name": "(私立)桃園市私立欣妍幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.93417,
+    "lng": 121.290147,
+    "sid": "MAA1ADMAMwA0ADAAMAAwADUAMwA=",
+    "name": "(非營利)桃園市仁德非營利幼兒園（委託社團法人臺灣宛靜文教協會辦理）",
+    "type": "spub2"
   }
 ]

@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1140273778號",
+        "reg_docno": "府教幼字第1140273778號",
+        "reg_date": "2025\/09\/24",
+        "title": "桃園市仁德非營利幼兒園（委託社團法人臺灣宛靜文教協會辦理）",
+        "owner": "林佳靜",
+        "city": "桃園市",
+        "town": "八德區",
+        "type": "非營利",
+        "address": "[334]仁德路320號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "尚在申請中",
+        "url": "評鑑情形：",
+        "count_approved": "152",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "0e1b3b29-dfb3-4f4c-829a-49d6145a2294",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.290147,
+            24.93417
+        ]
+    }
+}
