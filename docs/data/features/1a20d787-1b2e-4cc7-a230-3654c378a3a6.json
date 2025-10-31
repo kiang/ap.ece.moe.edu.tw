@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1140100759號",
+        "reg_docno": "中市教幼字第1140100759號",
+        "reg_date": "2025\/10\/31",
+        "title": "臺中市私立愛子幼兒園",
+        "owner": "和田芽衣",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]南興路199號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "尚未申請",
+        "url": "",
+        "count_approved": "364",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1a20d787-1b2e-4cc7-a230-3654c378a3a6",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.703572,
+            24.176999
+        ]
+    }
+}

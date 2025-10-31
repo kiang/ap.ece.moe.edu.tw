@@ -33,14 +33,6 @@
   },
   {
     "newsch": 1,
-    "lat": 23.041457,
-    "lng": 120.185191,
-    "sid": "MQA2ADcAMAA5ADAAMAAwADAAMgA=",
-    "name": "(公立)臺南市立第五幼兒園",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
     "lat": 23.060397,
     "lng": 120.130247,
     "sid": "MQA2ADcAMAA5ADAAMAAwADAAMwA=",
@@ -53,22 +45,6 @@
     "lng": 120.126806,
     "sid": "MQA2ADcAMAA5ADAAMAAwADAAMwAtADAAMgA=",
     "name": "(公立)臺南市立第六幼兒園城南分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.079045,
-    "lng": 120.127488,
-    "sid": "MQA2ADcAMAA5ADAAMAAwADAAMwAtADAANAA=",
-    "name": "(公立)臺南市立第六幼兒園砂崙分班",
-    "type": "spub0"
-  },
-  {
-    "newsch": 1,
-    "lat": 23.038464,
-    "lng": 120.12478,
-    "sid": "MQA2ADcAMAA5ADAAMAAwADAAMwAtADAANQA=",
-    "name": "(公立)臺南市立第六幼兒園顯宮分班",
     "type": "spub0"
   },
   {
