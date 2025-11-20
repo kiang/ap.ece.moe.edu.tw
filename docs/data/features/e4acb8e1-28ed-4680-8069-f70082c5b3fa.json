@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1140885432蘆洲0078號",
+        "reg_docno": "新北府教幼字第1142000213號",
+        "reg_date": "2025\/11\/14",
+        "title": "新北市私立芯蒙園幼兒園",
+        "owner": "黃艶秋",
+        "city": "新北市",
+        "town": "蘆洲區",
+        "type": "私立",
+        "address": "[247]長興路188號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)28488082",
+        "url": "",
+        "count_approved": "120",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e4acb8e1-28ed-4680-8069-f70082c5b3fa",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.461314,
+            25.086348
+        ]
+    }
+}
