@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1141442828號",
+        "reg_docno": "南市社兒字第09513563990號",
+        "reg_date": "2006\/07\/25",
+        "title": "臺南市私立鵲樂幼兒園",
+        "owner": "陽雨玹",
+        "city": "臺南市",
+        "town": "安南區",
+        "type": "私立",
+        "address": "[709]安昌街322巷2弄1號",
+        "floor": "1樓",
+        "size": "300.72平方公尺",
+        "size_in": "173.82平方公尺",
+        "size_out": "126.9平方公尺",
+        "tel": "(06)3557817",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "a0b5fd3a-4987-41a9-9903-241e6fef1ff2",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.221761,
+            23.075333
+        ]
+    }
+}
