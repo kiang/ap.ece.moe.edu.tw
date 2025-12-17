@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11440042800號",
+        "reg_docno": "高市教幼字第11440042800號",
+        "reg_date": "2025\/12\/15",
+        "title": "財政部高雄國稅局三民分局職場互助教保服務中心(委託財團法人彭婉如文教基金會辦理)",
+        "owner": "郭淑雅",
+        "city": "高雄市",
+        "town": "三民區",
+        "type": "私立",
+        "address": "[807]民族一路505號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)7256600",
+        "url": "評鑑情形：",
+        "count_approved": "32",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "90eff5de-1a5b-48e6-adbe-bd3c75c77dd5",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.315683,
+            22.662022
+        ]
+    }
+}
