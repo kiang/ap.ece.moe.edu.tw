@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1140368402號",
+        "reg_docno": "府教幼字第1130028960號",
+        "reg_date": "2024\/02\/01",
+        "title": "桃園市私立新驛斑比尼幼兒園",
+        "owner": "施志恆",
+        "city": "桃園市",
+        "town": "平鎮區",
+        "type": "私立",
+        "address": "[324]金華街133、135、137號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)4583920",
+        "url": "",
+        "count_approved": "144",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "2a102aa4-da0f-4d1e-9f19-15d8ad197977",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.220128,
+            24.947711
+        ]
+    }
+}
