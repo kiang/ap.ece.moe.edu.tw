@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1140959497號",
+        "reg_docno": "府教特字第1140959497號",
+        "reg_date": "2025\/12\/01",
+        "title": "嘉義市私立朵恩幼兒園",
+        "owner": "王秋華",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "私立",
+        "address": "[600]健康十三路65號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2863799",
+        "url": "https:\/\/www.facebook.com\/profile.php?id=61584389681112&sk=mentions&locale=zh_TW",
+        "count_approved": "343",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3ec077df-b174-4b18-9dd9-685cd8e21a91",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.444841,
+            23.452316
+        ]
+    }
+}

@@ -590,5 +590,13 @@
     "sid": "MQA0ADYAMAAwADAAMAAwADkANwA=",
     "name": "(準公共)嘉義市私立哈波特幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.452316,
+    "lng": 120.444841,
+    "sid": "MQA0ADYAMAAwADAAMAAwADkAOAA=",
+    "name": "(私立)嘉義市私立朵恩幼兒園",
+    "type": "spub1"
   }
 ]
