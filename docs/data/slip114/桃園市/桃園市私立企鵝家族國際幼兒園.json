@@ -16,11 +16,11 @@
         "tel": "(03)4514723",
         "url": "",
         "count_approved": "105",
-        "shuttle": "",
+        "shuttle": "\t\t",
         "pre_public": "114-115",
         "is_free5": "",
         "is_after": "無",
-        "penalty": "無",
+        "penalty": "有",
         "has_slip": "yes"
     },
     "slip": {
