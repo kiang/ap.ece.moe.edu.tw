@@ -16,19 +16,21 @@ foreach (glob(dirname(__DIR__) . '/raw/punish/*/item_*.html') as $htmlFile) {
     if (file_exists($theFile)) {
         $punishments = json_decode(file_get_contents($theFile), true);
         foreach ($punishments as $punishment) {
-            $keyPool[$punishment[1]] = true;
+            $keyPool[$punishment[1] . $punishment[3]] = true;
         }
     }
     foreach ($lines as $line) {
         $cols = explode('</td>', $line);
-        if (count($cols) === 7) {
+        if (count($cols) === 8) {
             foreach ($cols as $k => $v) {
                 $cols[$k] = trim(strip_tags($v));
             }
             array_pop($cols);
-            if (!isset($keyPool[$cols[1]])) {
-                $punishments[] = $cols;
-                $keyPool[$cols[1]] = true;
+            // Reorder: date, case#, law, violation, person, penalty, school_name (for backward compatibility)
+            $record = [$cols[0], $cols[2], $cols[3], $cols[4], $cols[5], $cols[6], $cols[1]];
+            if (!isset($keyPool[$record[1] . $record[3]])) {
+                $punishments[] = $record;
+                $keyPool[$record[1] . $record[3]] = true;
             }
         }
     }

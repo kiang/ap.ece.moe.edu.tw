@@ -85,8 +85,8 @@ foreach ($cities as $code => $city) {
                     $cols[$k] = trim(strip_tags($v));
                 }
                 array_pop($cols);
-                // Skip column 1 (school name) - keep: date, case#, law, violation, person, penalty
-                $record = [$cols[0], $cols[2], $cols[3], $cols[4], $cols[5], $cols[6]];
+                // Reorder: date, case#, law, violation, person, penalty, school_name (for backward compatibility)
+                $record = [$cols[0], $cols[2], $cols[3], $cols[4], $cols[5], $cols[6], $cols[1]];
                 if (!isset($keyPool[$record[1] . $record[3]])) {
                     $punishments[] = $record;
                     $keyPool[$record[1] . $record[3]] = true;
@@ -141,8 +141,8 @@ foreach ($cities as $code => $city) {
                         $cols[$k] = trim(strip_tags($v));
                     }
                     array_pop($cols);
-                    // Skip column 1 (school name) - keep: date, case#, law, violation, person, penalty
-                    $record = [$cols[0], $cols[2], $cols[3], $cols[4], $cols[5], $cols[6]];
+                    // Reorder: date, case#, law, violation, person, penalty, school_name (for backward compatibility)
+                    $record = [$cols[0], $cols[2], $cols[3], $cols[4], $cols[5], $cols[6], $cols[1]];
                     if (!isset($keyPool[$record[1] . $record[3]])) {
                         $punishments[] = $record;
                         $keyPool[$record[1] . $record[3]] = true;
