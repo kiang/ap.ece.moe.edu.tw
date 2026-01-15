@@ -73,24 +73,27 @@ foreach ($cities as $code => $city) {
         if (file_exists($theFile)) {
             $punishments = json_decode(file_get_contents($theFile), true);
             foreach ($punishments as $punishment) {
-                $keyPool[$punishment[1]] = true;
+                $keyPool[$punishment[1] . $punishment[3]] = true;
             }
         } else {
             $punishments = [];
         }
         foreach ($lines as $line) {
             $cols = explode('</td>', $line);
-            if (count($cols) === 7) {
+            if (count($cols) === 8) {
                 foreach ($cols as $k => $v) {
                     $cols[$k] = trim(strip_tags($v));
                 }
                 array_pop($cols);
-                if (!isset($keyPool[$cols[1]])) {
-                    $punishments[] = $cols;
-                    $keyPool[$cols[1]] = true;
+                // Skip column 1 (school name) - keep: date, case#, law, violation, person, penalty
+                $record = [$cols[0], $cols[2], $cols[3], $cols[4], $cols[5], $cols[6]];
+                if (!isset($keyPool[$record[1] . $record[3]])) {
+                    $punishments[] = $record;
+                    $keyPool[$record[1] . $record[3]] = true;
                 }
             }
         }
+        usort($punishments, 'punishmentCmp');
         file_put_contents($theFile, json_encode($punishments, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
         $pos = strpos($pageContent, '<div class="kdCard-txt">', $nextPos);
@@ -133,14 +136,16 @@ foreach ($cities as $code => $city) {
             }
             foreach ($lines as $line) {
                 $cols = explode('</td>', $line);
-                if (count($cols) === 7) {
+                if (count($cols) === 8) {
                     foreach ($cols as $k => $v) {
                         $cols[$k] = trim(strip_tags($v));
                     }
                     array_pop($cols);
-                    if (!isset($keyPool[$cols[1] . $cols[3]])) {
-                        $punishments[] = $cols;
-                        $keyPool[$cols[1]] = true;
+                    // Skip column 1 (school name) - keep: date, case#, law, violation, person, penalty
+                    $record = [$cols[0], $cols[2], $cols[3], $cols[4], $cols[5], $cols[6]];
+                    if (!isset($keyPool[$record[1] . $record[3]])) {
+                        $punishments[] = $record;
+                        $keyPool[$record[1] . $record[3]] = true;
                     }
                 }
             }
