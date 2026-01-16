@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1150012146號",
+        "reg_docno": "府教特字第49168號",
+        "reg_date": "2006\/08\/01",
+        "title": "新竹市私立光明幼兒園",
+        "owner": "鄭惠文",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "私立",
+        "address": "[300]光明新村186號",
+        "floor": "1樓",
+        "size": "3,017.3平方公尺",
+        "size_in": "1,304.34平方公尺",
+        "size_out": "1,712.96平方公尺",
+        "tel": "(03)5726865",
+        "url": "https:\/\/preschool.hsin-yi.org.tw\/kuangming",
+        "count_approved": "480",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "558dcdf9-3393-48ce-b4fc-8a81da52551d",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.997626,
+            24.794137
+        ]
+    }
+}
