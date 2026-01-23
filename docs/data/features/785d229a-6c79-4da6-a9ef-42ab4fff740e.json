@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1150030302號",
+        "reg_docno": "府社幼字第09100220230號",
+        "reg_date": "2002\/01\/31",
+        "title": "彰化縣私立探索昀銛幼兒園",
+        "owner": "劉麗芬",
+        "city": "彰化縣",
+        "town": "彰化市",
+        "type": "私立",
+        "address": "[500]山中街114號",
+        "floor": "1樓",
+        "size": "414.82平方公尺",
+        "size_in": "127.9平方公尺",
+        "size_out": "228.11平方公尺",
+        "tel": "(04)7324272",
+        "url": "",
+        "count_approved": "85",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "785d229a-6c79-4da6-a9ef-42ab4fff740e",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.569848,
+            24.085374
+        ]
+    }
+}
