@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11530460600號",
+        "reg_docno": "87府教學字第230595號",
+        "reg_date": "2026\/01\/20",
+        "title": "高雄市美濃區廣興國民小學附設幼兒園新威分班",
+        "owner": "",
+        "city": "高雄市",
+        "town": "美濃區",
+        "type": "公立",
+        "address": "[843]廣興街124號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)6871580",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "yes",
+        "id": "3798e644-3259-4fc4-b35d-aa773c6b343c",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.567761,
+            22.917531
+        ]
+    }
+}
