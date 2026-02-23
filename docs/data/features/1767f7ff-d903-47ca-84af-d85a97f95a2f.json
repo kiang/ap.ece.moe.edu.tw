@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11531211800號",
+        "reg_docno": "高市教幼字第11531211800號",
+        "reg_date": "2026\/02\/13",
+        "title": "高雄市私立三多哈波特幼兒園",
+        "owner": "江保樺",
+        "city": "高雄市",
+        "town": "苓雅區",
+        "type": "私立",
+        "address": "[802]武智街98號、100號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)7217022",
+        "url": "",
+        "count_approved": "135",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "1767f7ff-d903-47ca-84af-d85a97f95a2f",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.332896,
+            22.621696
+        ]
+    }
+}
