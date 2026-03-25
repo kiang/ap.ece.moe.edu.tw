@@ -3,8 +3,9 @@ include dirname(__DIR__) . '/vendor/autoload.php';
 
 use Goutte\Client;
 use Symfony\Component\DomCrawler\Field\InputFormField;
+use Symfony\Component\HttpClient\HttpClient;
 
-$client = new Client();
+$client = new Client(HttpClient::create(['verify_peer' => false, 'verify_host' => false]));
 $client->setServerParameter('HTTP_USER_AGENT', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0');
 
 $crawler = $client->request('GET', 'https://ap.ece.moe.edu.tw/webecems/pubSearch.aspx');

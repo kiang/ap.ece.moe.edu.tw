@@ -1,0 +1,42 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.575524,
+    "lng": 121.10576,
+    "sid": "MAA3ADMAMQAxADAAMAAwADAAMQA=",
+    "name": "(公立)新竹縣五峰鄉桃山國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.631616,
+    "lng": 121.117934,
+    "sid": "MAA3ADMAMQAxADAAMAAwADAAMgA=",
+    "name": "(公立)新竹縣五峰鄉五峰國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.648243,
+    "lng": 121.151626,
+    "sid": "MAA3ADMAMQAxADAAMAAwADAAMwA=",
+    "name": "(公立)新竹縣五峰鄉花園國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.632341,
+    "lng": 121.119414,
+    "sid": "MAA3ADMAMQAxADAAMAAwADAANAA=",
+    "name": "(公立)新竹縣五峰鄉立幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.619016,
+    "lng": 121.101741,
+    "sid": "MAA3ADMAMQAxADAAMAAwADAANQA=",
+    "name": "(私立)財團法人台灣省天主教會新竹教區附設新竹縣私立聖心幼兒園",
+    "type": "spub1"
+  }
+]

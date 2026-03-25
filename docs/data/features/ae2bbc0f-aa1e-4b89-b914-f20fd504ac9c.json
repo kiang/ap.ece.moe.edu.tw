@@ -22,7 +22,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "no",
+        "has_slip": "yes",
         "id": "ae2bbc0f-aa1e-4b89-b914-f20fd504ac9c",
         "monthly": 2000,
         "is_active": 1
@@ -30,8 +30,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            "121.380872",
-            "25.082173"
+            121.380872,
+            25.082173
         ]
     }
 }

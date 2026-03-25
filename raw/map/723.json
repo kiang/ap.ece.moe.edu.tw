@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 23.126731,
+    "lng": 120.193439,
+    "sid": "MQA2ADcAMgAzADAAMAAwADAAMQA=",
+    "name": "(準公共)臺南市私立福祺幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.122648,
+    "lng": 120.199504,
+    "sid": "MQA2ADcAMgAzADAAMAAwADAANAA=",
+    "name": "(公立)臺南市西港區西港國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.121257,
+    "lng": 120.180471,
+    "sid": "MQA2ADcAMgAzADAAMAAwADAANQA=",
+    "name": "(公立)臺南市西港區成功國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.140716,
+    "lng": 120.214299,
+    "sid": "MQA2ADcAMgAzADAAMAAwADAANgA=",
+    "name": "(公立)臺南市西港區後營國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.122611,
+    "lng": 120.209325,
+    "sid": "MQA2ADcAMgAzADAAMAAwADAANwA=",
+    "name": "(公立)臺南市西港區港東國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.123877,
+    "lng": 120.199791,
+    "sid": "MQA2ADcAMgAzADAAMAAwADAAOQA=",
+    "name": "(準公共)臺南市私立哈佛人文藝術幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.122128,
+    "lng": 120.203385,
+    "sid": "MQA2ADcAMgAzADAAMAAwADEAMAA=",
+    "name": "(準公共)臺南市私立吉姆大秝荳幼兒園",
+    "type": "spub3"
+  }
+]

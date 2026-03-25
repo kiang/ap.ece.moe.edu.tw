@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 25.00139,
+    "lng": 121.620357,
+    "sid": "MAAzADIAMgAyADAAMAAwADAANAA=",
+    "name": "(準公共)新北市私立春福幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.000907,
+    "lng": 121.617234,
+    "sid": "MAAzADIAMgAyADAAMAAwADAANQA=",
+    "name": "(公立)新北市深坑區深坑國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.000187,
+    "lng": 121.618792,
+    "sid": "MAAzADIAMgAyADAAMAAwADAANgA=",
+    "name": "(公立)新北市立深坑國民中學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.001207,
+    "lng": 121.61605,
+    "sid": "MAAzADIAMgAyADAAMAAwADAANwA=",
+    "name": "(公立)新北市立深坑幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.010012,
+    "lng": 121.634629,
+    "sid": "MAAzADIAMgAyADAAMAAwADAANwAtADAAMQA=",
+    "name": "(公立)新北市立深坑幼兒園土庫分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.000902,
+    "lng": 121.616167,
+    "sid": "MAAzADIAMgAyADAAMAAwADAAOAA=",
+    "name": "(準公共)新北市私立深緣幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.003319,
+    "lng": 121.619946,
+    "sid": "MAAzADIAMgAyADAAMAAwADAAOQA=",
+    "name": "(私立)新北市私立新象幼兒園",
+    "type": "spub1"
+  }
+]

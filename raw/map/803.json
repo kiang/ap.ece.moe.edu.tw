@@ -1,0 +1,58 @@
+[
+  {
+    "newsch": 1,
+    "lat": 22.623304,
+    "lng": 120.286997,
+    "sid": "MQA4ADgAMAAzADAAMAAwADAAMQA=",
+    "name": "(公立)高雄市鹽埕區光榮國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.62164,
+    "lng": 120.285156,
+    "sid": "MQA4ADgAMAAzADAAMAAwADAAMgA=",
+    "name": "(公立)高雄市鹽埕區忠孝國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.623663,
+    "lng": 120.282041,
+    "sid": "MQA4ADgAMAAzADAAMAAwADAAMwA=",
+    "name": "(公立)高雄市鹽埕區鹽埕國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.62313,
+    "lng": 120.281501,
+    "sid": "MQA4ADgAMAAzADAAMAAwADAANAA=",
+    "name": "(私立)高雄市私立鹽光幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.622732,
+    "lng": 120.286249,
+    "sid": "MQA4ADgAMAAzADAAMAAwADAANQA=",
+    "name": "(準公共)高雄市私立可倈蒙幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.629435,
+    "lng": 120.282558,
+    "sid": "MQA4ADgAMAAzADAAMAAwADAANwA=",
+    "name": "(準公共)高雄市私立恆青幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.623041,
+    "lng": 120.282774,
+    "sid": "MQA4ADgAMAAzADAAMAAwADAAOAA=",
+    "name": "(非營利)高雄市鹽埕非營利幼兒園(委託社團法人高雄市婦幼同心會辦理)",
+    "type": "spub2"
+  }
+]

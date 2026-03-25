@@ -1,0 +1,210 @@
+[
+  {
+    "newsch": 1,
+    "lat": 24.072154,
+    "lng": 120.695859,
+    "sid": "MAA5ADQAMQAzADAAMAAwADAAMQA=",
+    "name": "(準公共)臺中市私立育群幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.066603,
+    "lng": 120.69752,
+    "sid": "MAA5ADQAMQAzADAAMAAwADAAMgA=",
+    "name": "(私立)臺中市私立竹恩幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.064973,
+    "lng": 120.696114,
+    "sid": "MAA5ADQAMQAzADAAMAAwADAAMwA=",
+    "name": "(私立)臺中市私立美斯特幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.067739,
+    "lng": 120.702033,
+    "sid": "MAA5ADQAMQAzADAAMAAwADAANAA=",
+    "name": "(準公共)臺中市私立康爾藝術幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.063763,
+    "lng": 120.696386,
+    "sid": "MAA5ADQAMQAzADAAMAAwADAANQA=",
+    "name": "(準公共)臺中市私立愛因斯坦幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.069147,
+    "lng": 120.715999,
+    "sid": "MAA5ADQAMQAzADAAMAAwADAANwA=",
+    "name": "(私立)私立朝陽科技大學附設臺中市幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.065541,
+    "lng": 120.686186,
+    "sid": "MAA5ADQAMQAzADAAMAAwADAAOAA=",
+    "name": "(準公共)臺中市私立新佳育幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.063231,
+    "lng": 120.673279,
+    "sid": "MAA5ADQAMQAzADAAMAAwADAAOQA=",
+    "name": "(準公共)臺中市私立愛迪克幼兒園",
+    "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.042263,
+    "lng": 120.698263,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMAA=",
+    "name": "(公立)臺中市霧峰區復興國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.073648,
+    "lng": 120.667656,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMQA=",
+    "name": "(公立)臺中市霧峰區五福國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.060866,
+    "lng": 120.700444,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMgA=",
+    "name": "(公立)臺中市立霧峰幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.067893,
+    "lng": 120.701211,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMgAtADAAMQA=",
+    "name": "(公立)臺中市立霧峰幼兒園甲寅分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.079847,
+    "lng": 120.712096,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMgAtADAAMgA=",
+    "name": "(公立)臺中市立霧峰幼兒園吉峰分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.060228,
+    "lng": 120.666801,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMgAtADAAMwA=",
+    "name": "(公立)臺中市立霧峰幼兒園四德分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.066717,
+    "lng": 120.700765,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMgAtADAANAA=",
+    "name": "(公立)臺中市立霧峰幼兒園本鄉分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.042345,
+    "lng": 120.702381,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMgAtADAANQA=",
+    "name": "(公立)臺中市立霧峰幼兒園坑口分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.043623,
+    "lng": 120.687746,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMgAtADAANwA=",
+    "name": "(公立)臺中市立霧峰幼兒園南柳分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.041638,
+    "lng": 120.694024,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMgAtADAAOAA=",
+    "name": "(公立)臺中市立霧峰幼兒園六股分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.025874,
+    "lng": 120.689489,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAMgAtADAAOQA=",
+    "name": "(公立)臺中市立霧峰幼兒園舊正分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.061455,
+    "lng": 120.700934,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEANAA=",
+    "name": "(私立)臺中市私立霧峰新弘明幼兒園",
+    "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.05776,
+    "lng": 120.698744,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEANQA=",
+    "name": "(公立)臺中市霧峰區霧峰國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.036581,
+    "lng": 120.669168,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEANgA=",
+    "name": "(公立)臺中市霧峰區光正國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.080199,
+    "lng": 120.71924,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEANwA=",
+    "name": "(公立)臺中市霧峰區吉峰國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.027293,
+    "lng": 120.697461,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAOAA=",
+    "name": "(公立)臺中市霧峰區萬豐國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.034632,
+    "lng": 120.725121,
+    "sid": "MAA5ADQAMQAzADAAMAAwADEAOQA=",
+    "name": "(公立)臺中市霧峰區峰谷國民小學附設幼兒園",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.070361,
+    "lng": 120.703187,
+    "sid": "MAA5ADQAMQAzADAAMAAwADIAMAA=",
+    "name": "(公立)臺中市霧峰區僑榮國民小學附設幼兒園",
+    "type": "spub0"
+  }
+]
