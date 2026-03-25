@@ -3,8 +3,9 @@ $basePath = dirname(__DIR__);
 include $basePath . '/vendor/autoload.php';
 
 use Goutte\Client;
+use Symfony\Component\HttpClient\HttpClient;
 
-$client = new Client();
+$client = new Client(HttpClient::create(['verify_peer' => false, 'verify_host' => false]));
 $client->setServerParameter('HTTP_USER_AGENT', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0');
 $cities = [
     '02' => '臺北市',
