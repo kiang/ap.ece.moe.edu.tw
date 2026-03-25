@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1152415719號",
+        "reg_docno": "府教特一字第1152414190號",
+        "reg_date": "2026\/03\/06",
+        "title": "雲林縣私立日初幼兒園",
+        "owner": "賴怡君",
+        "city": "雲林縣",
+        "town": "斗南鎮",
+        "type": "私立",
+        "address": "[630]建國南路99號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)5953366",
+        "url": "斗南鎮建國南路99號",
+        "count_approved": "562",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "210cf32e-a711-4041-8df7-a7967fb467f3",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.4722,
+            23.66537
+        ]
+    }
+}
