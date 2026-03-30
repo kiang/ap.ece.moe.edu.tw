@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第611-3號",
+        "reg_docno": "北市社四字第11297號",
+        "reg_date": "1990\/04\/18",
+        "title": "臺北市私立德森幼兒園",
+        "owner": "羅世淼",
+        "city": "臺北市",
+        "town": "士林區",
+        "type": "私立",
+        "address": "[111]中山北路七段224號1、2樓及224之1號1、2樓",
+        "floor": "1樓、2樓",
+        "size": "972.63平方公尺",
+        "size_in": "413.42平方公尺",
+        "size_out": "559.21平方公尺",
+        "tel": "(02)28730225",
+        "url": "",
+        "count_approved": "150",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "e47b28cb-3e62-4dc5-a105-7c9e1bf34d7c",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.53338,
+            25.126927
+        ]
+    }
+}
