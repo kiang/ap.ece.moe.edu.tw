@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第823號",
+        "reg_docno": "北市教前字第11530500561號",
+        "reg_date": "2026\/03\/30",
+        "title": "臺北市私立光禾森林幼兒園",
+        "owner": "陳宜珈",
+        "city": "臺北市",
+        "town": "大安區",
+        "type": "私立",
+        "address": "[106]瑞安街256巷18號及20號1樓",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)27069880",
+        "url": "",
+        "count_approved": "56",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "有，人數：11",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e6819b19-f0ad-4924-8cfb-539ac6168b69",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.538805,
+            25.027241
+        ]
+    }
+}
