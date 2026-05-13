@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11533259300號",
+        "reg_docno": "高市教幼字第11533259300號",
+        "reg_date": "2026\/04\/29",
+        "title": "高雄私立忠信寶貝幼兒園",
+        "owner": "李美雲",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "私立",
+        "address": "[830]鳳東路243號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)7024041",
+        "url": "www.jsk.com.tw",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "fb16b443-7237-4c4e-837d-d6670538d706",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.376952,
+            22.62432
+        ]
+    }
+}
