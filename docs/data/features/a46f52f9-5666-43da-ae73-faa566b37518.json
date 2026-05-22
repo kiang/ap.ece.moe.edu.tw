@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11533911500號",
+        "reg_docno": "高市教幼字第11531815900號",
+        "reg_date": "2026\/03\/13",
+        "title": "高雄市楠仔坑非營利幼兒園(委託社團法人高雄市社區美學教育發展協會辦理)",
+        "owner": "陳慧玟",
+        "city": "高雄市",
+        "town": "楠梓區",
+        "type": "非營利",
+        "address": "[811]楠陽路102號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)5887199",
+        "url": "評鑑情形：",
+        "count_approved": "304",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a46f52f9-5666-43da-ae73-faa566b37518",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.330383,
+            22.724641
+        ]
+    }
+}
