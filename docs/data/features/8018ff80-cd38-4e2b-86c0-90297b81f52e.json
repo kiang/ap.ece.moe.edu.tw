@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1140885432三峽0033之2號",
+        "reg_docno": "北府社兒字第0920052296號",
+        "reg_date": "2003\/01\/28",
+        "title": "新北市私立啟育藝術幼兒園",
+        "owner": "李韋德",
+        "city": "新北市",
+        "town": "三峽區",
+        "type": "私立",
+        "address": "[237]民生街59號1、2、3樓及民生街27巷14、16、18、20、22號各1樓",
+        "floor": "3",
+        "size": "1,677.98平方公尺",
+        "size_in": "1,677.98平方公尺",
+        "size_out": "",
+        "tel": "(02)26719995",
+        "url": "chiyu.topschool.com.tw",
+        "count_approved": "384",
+        "shuttle": "\t\t",
+        "pre_public": "114-115",
+        "is_free5": "",
+        "is_after": "有，人數：76",
+        "penalty": "有",
+        "has_slip": "yes",
+        "id": "8018ff80-cd38-4e2b-86c0-90297b81f52e",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.375338,
+            24.935975
+        ]
+    }
+}
