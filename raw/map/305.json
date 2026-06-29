@@ -118,5 +118,13 @@
     "sid": "MAA3ADMAMAA1ADAAMAAwADEAOAA=",
     "name": "(公立)新竹縣新埔鎮文山國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.854569,
+    "lng": 121.08175,
+    "sid": "MAA3ADMAMAA1ADAAMAAwADEAOQA=",
+    "name": "(私立)財團法人新竹縣三陽教育基金會附設新竹縣私立鹿兒島幼兒園",
+    "type": "spub1"
   }
 ]
