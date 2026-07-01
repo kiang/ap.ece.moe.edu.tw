@@ -9,10 +9,10 @@
         "town": "竹北市",
         "type": "私立",
         "address": "[302]環北路五段199號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "3樓",
+        "size": "1,425.02平方公尺",
+        "size_in": "1,140.37平方公尺",
+        "size_out": "284.65平方公尺",
         "tel": "(03)5533268",
         "url": "",
         "count_approved": "168",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

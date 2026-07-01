@@ -9,10 +9,10 @@
         "town": "新豐鄉",
         "type": "私立",
         "address": "[304]永寧街30號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓-2樓",
+        "size": "792.08平方公尺",
+        "size_in": "633平方公尺",
+        "size_out": "159.08平方公尺",
         "tel": "(03)5573073",
         "url": "",
         "count_approved": "120",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

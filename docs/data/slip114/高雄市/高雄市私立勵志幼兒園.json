@@ -9,10 +9,10 @@
         "town": "大寮區",
         "type": "私立",
         "address": "[831]四維路310號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1樓至2樓",
+        "size": "1,351.02平方公尺",
+        "size_in": "998.62平方公尺",
+        "size_out": "352.4平方公尺",
         "tel": "(07)7025766",
         "url": "",
         "count_approved": "198",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

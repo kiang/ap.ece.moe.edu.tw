@@ -9,9 +9,9 @@
         "town": "林園區",
         "type": "私立",
         "address": "[832]東林西路169巷之1號、東林西路163、165號",
-        "floor": "",
-        "size": "",
-        "size_in": "",
+        "floor": "1樓、2樓、3樓",
+        "size": "318.52平方公尺",
+        "size_in": "318.52平方公尺",
         "size_out": "",
         "tel": "(07)6411870",
         "url": "",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

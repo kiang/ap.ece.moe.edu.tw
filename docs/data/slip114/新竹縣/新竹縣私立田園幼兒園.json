@@ -9,10 +9,10 @@
         "town": "竹東鎮",
         "type": "私立",
         "address": "[310]科學路1號及2號",
-        "floor": "地上1層",
-        "size": "955.74平方公尺",
-        "size_in": "469.07平方公尺",
-        "size_out": "486.67平方公尺",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
         "tel": "(03)5827907",
         "url": "https:\/\/yoyokids.ebc.net.tw\/yoyo\/ety089\/",
         "count_approved": "180",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "無",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

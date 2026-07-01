@@ -9,10 +9,10 @@
         "town": "大寮區",
         "type": "私立",
         "address": "[831]鳳屏一路486號1至2樓",
-        "floor": "",
-        "size": "",
-        "size_in": "",
-        "size_out": "",
+        "floor": "1-2樓",
+        "size": "1,506.03平方公尺",
+        "size_in": "943.45平方公尺",
+        "size_out": "562.58平方公尺",
         "tel": "(07)7015011",
         "url": "http:\/\/tw.myblog.yahoo.com\/e7015011\/",
         "count_approved": "240",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "有，人數：30",
         "penalty": "有",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

@@ -18,13 +18,13 @@
         "url": "dermin.kidz.com.tw",
         "count_approved": "90",
         "shuttle": "",
-        "pre_public": "113-115",
+        "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "yes",
+        "has_slip": "no",
         "id": "98b3a461-fe61-40c6-b9b4-e36d71c8efff",
-        "monthly": 3000,
+        "monthly": 11398,
         "is_active": 1
     },
     "geometry": {

@@ -18,13 +18,13 @@
         "url": "",
         "count_approved": "42",
         "shuttle": "",
-        "pre_public": "113-115",
+        "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "yes",
+        "has_slip": "no",
         "id": "3b5ef12d-7d54-42ad-a6ee-5c462668e215",
-        "monthly": 3750,
+        "monthly": 10468,
         "is_active": 1
     },
     "geometry": {

@@ -16,12 +16,12 @@
         "tel": "(02)86611156",
         "url": "http:\/\/www.taipei-nz.com.tw",
         "count_approved": "339",
-        "shuttle": "",
+        "shuttle": "\t\t",
         "pre_public": "無",
         "is_free5": "",
         "is_after": "有，人數：101",
         "penalty": "有",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {

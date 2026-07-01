@@ -9,9 +9,9 @@
         "town": "北投區",
         "type": "私立",
         "address": "[112]致遠一路一段104巷19號1、2樓",
-        "floor": "1樓、2樓",
-        "size": "132.6平方公尺",
-        "size_in": "132.6平方公尺",
+        "floor": "",
+        "size": "",
+        "size_in": "",
         "size_out": "",
         "tel": "(02)28239652",
         "url": "",
@@ -21,7 +21,7 @@
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {
