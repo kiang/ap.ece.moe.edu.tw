@@ -1,6 +1,6 @@
 {
     "meta": {
-        "reg_no": "北府教幼字第1011259620永和0032號",
+        "reg_no": "新北府教幼字第1140885432永和0032之1號",
         "reg_docno": "八九北府社兒字第89188478號",
         "reg_date": "2000\/05\/16",
         "title": "新北市私立科見幼兒園",
@@ -16,12 +16,12 @@
         "tel": "(02)29491375",
         "url": "",
         "count_approved": "90",
-        "shuttle": "\t\t",
+        "shuttle": "",
         "pre_public": "無",
         "is_free5": "",
         "is_after": "無",
         "penalty": "有",
-        "has_slip": "yes"
+        "has_slip": "no"
     },
     "slip": {
         "5": {
