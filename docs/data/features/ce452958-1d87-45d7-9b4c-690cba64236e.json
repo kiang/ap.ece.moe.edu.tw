@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1150061362號",
+        "reg_docno": "中市教幼字第1150061362號",
+        "reg_date": "2026\/07\/21",
+        "title": "臺中市私立安格麗幼兒園",
+        "owner": "賴麗雯",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "私立",
+        "address": "[406]軍福十一路68號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "",
+        "count_approved": "113",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ce452958-1d87-45d7-9b4c-690cba64236e",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.726561,
+            24.17068
+        ]
+    }
+}
