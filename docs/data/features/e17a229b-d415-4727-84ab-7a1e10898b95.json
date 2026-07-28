@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "南市教特(一)字第1151022595號",
+        "reg_docno": "南市教特(一)字第1151022595號",
+        "reg_date": "2026\/07\/21",
+        "title": "臺南市私立快樂幼兒園郡南分班",
+        "owner": "",
+        "city": "臺南市",
+        "town": "南區",
+        "type": "私立",
+        "address": "[702]中華南路二段8號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(06)2896922",
+        "url": "",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "e17a229b-d415-4727-84ab-7a1e10898b95",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.195033,
+            22.962504
+        ]
+    }
+}
