@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1150158615號",
+        "reg_docno": "府教幼字第1150158615號",
+        "reg_date": "2026\/07\/20",
+        "title": "南投縣私立菁華幼兒園",
+        "owner": "江保樺",
+        "city": "南投縣",
+        "town": "竹山鎮",
+        "type": "私立",
+        "address": "[557]向學街27號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(049)2655258",
+        "url": "",
+        "count_approved": "193",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d0007eea-1ae6-496c-8551-172210cb575a",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.686923,
+            23.761181
+        ]
+    }
+}

@@ -2705,7 +2705,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "中市教幼字字第1060078504號",
+                "reg_no": "中市教幼字第1060078504號",
                 "reg_docno": "87府教國字第120308號",
                 "reg_date": "1998\/05\/13",
                 "title": "臺中市東勢區石城國民小學附設幼兒園",
@@ -28989,7 +28989,7 @@
                 "size_in": "385.21平方公尺",
                 "size_out": "",
                 "tel": "(02)86762565",
-                "url": "http:\/\/daycare.ntpc.edu.tw\/web\/sanxia\/",
+                "url": "https:\/\/sanxiaedu.blogspot.com\/",
                 "count_approved": "85",
                 "shuttle": "",
                 "pre_public": "無",
@@ -62961,7 +62961,7 @@
                 "pre_public": "無",
                 "is_free5": "",
                 "is_after": "無",
-                "penalty": "無",
+                "penalty": "有",
                 "has_slip": "no",
                 "id": "3723cd23-d050-4bba-9ab4-6dce31ec8cda",
                 "monthly": 15032,
@@ -92851,7 +92851,7 @@
                 "size_in": "",
                 "size_out": "",
                 "tel": "(06)2815947#19",
-                "url": "",
+                "url": "https:\/\/www.tykes.tn.edu.tw\/modules\/school\/index.php?department_id=8",
                 "count_approved": "60",
                 "shuttle": "",
                 "pre_public": "無",
@@ -104640,11 +104640,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "中市教幼字第1070075086號",
+                "reg_no": "中市教幼字第1150067553號",
                 "reg_docno": "89府教國字第82460號",
                 "reg_date": "2000\/03\/23",
                 "title": "臺中市太平區坪林國民小學附設幼兒園",
-                "owner": "林麗卿",
+                "owner": "黃子晏",
                 "city": "臺中市",
                 "town": "太平區",
                 "type": "公立",
@@ -118165,7 +118165,7 @@
                 "pre_public": "無",
                 "is_free5": "",
                 "is_after": "無",
-                "penalty": "無",
+                "penalty": "有",
                 "has_slip": "no",
                 "id": "69f59eac-9f16-45be-b62c-2ef1092b5da7",
                 "monthly": 9917,
@@ -122585,7 +122585,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "新北府教幼字第1131157759淡水0018之5號",
+                "reg_no": "新北府教幼字第1140885432淡水0018之6號",
                 "reg_docno": "北府社兒字第0920790513號",
                 "reg_date": "1970\/01\/01",
                 "title": "新北市立淡水幼兒園",
@@ -143749,6 +143749,43 @@
         {
             "type": "Feature",
             "properties": {
+                "reg_no": "新北府教幼字第1140885432三峽0053號",
+                "reg_docno": "新北府教幼字第1151251231號",
+                "reg_date": "2026\/07\/23",
+                "title": "新北市佳家非營利幼兒園(委託財團法人享翔葉克膜教育基金會辦理)",
+                "owner": "陳益川",
+                "city": "新北市",
+                "town": "三峽區",
+                "type": "非營利",
+                "address": "[237]國北街2號1樓",
+                "floor": "",
+                "size": "",
+                "size_in": "",
+                "size_out": "",
+                "tel": "(02)00000000",
+                "url": "評鑑情形：",
+                "count_approved": "90",
+                "shuttle": "",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "無",
+                "has_slip": "no",
+                "id": "81dc71b4-2059-42fc-93b4-5a350a78286d",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.372648,
+                    24.940133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "reg_no": "府教幼字字第1060000015號",
                 "reg_docno": "府教幼字字第1060000015號",
                 "reg_date": "2017\/04\/19",
@@ -161657,11 +161694,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "中市教幼字第1120083824號",
+                "reg_no": "中市教幼字第1150067571號",
                 "reg_docno": "89府教社字第340557號",
                 "reg_date": "2000\/12\/06",
                 "title": "臺中市太平區車籠埔國民小學附設幼兒園",
-                "owner": "王財隱",
+                "owner": "賴韋中",
                 "city": "臺中市",
                 "town": "太平區",
                 "type": "公立",
@@ -179935,6 +179972,43 @@
         {
             "type": "Feature",
             "properties": {
+                "reg_no": "高市教幼字第11535646500號",
+                "reg_docno": "高市教幼字第11535646500號",
+                "reg_date": "2026\/07\/21",
+                "title": "高雄市藍田非營利幼兒園(委託社團法人台灣玩具圖書館協會辦理)",
+                "owner": "余良玲",
+                "city": "高雄市",
+                "town": "楠梓區",
+                "type": "非營利",
+                "address": "[811]大學十一街500號",
+                "floor": "",
+                "size": "",
+                "size_in": "",
+                "size_out": "",
+                "tel": "申請中",
+                "url": "評鑑情形：",
+                "count_approved": "60",
+                "shuttle": "",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "無",
+                "has_slip": "no",
+                "id": "a2bf6899-01da-4449-af55-140269aa14e4",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287582,
+                    22.731283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "reg_no": "新北府教幼字第1041548680蘆洲0042之1號",
                 "reg_docno": "北府社兒字第0920631930號",
                 "reg_date": "2003\/10\/09",
@@ -191590,11 +191664,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "中市教幼字第1110070476號",
+                "reg_no": "中市教幼字第1150066922號",
                 "reg_docno": "教國字第25547號",
                 "reg_date": "1977\/05\/06",
                 "title": "臺中市南屯區春安國民小學附設幼兒園",
-                "owner": "陳貞蓉",
+                "owner": "黃維民",
                 "city": "臺中市",
                 "town": "南屯區",
                 "type": "公立",
@@ -210941,6 +211015,43 @@
         {
             "type": "Feature",
             "properties": {
+                "reg_no": "府教特字第1150127371號",
+                "reg_docno": "府教特字第1030175659號",
+                "reg_date": "2014\/09\/22",
+                "title": "新科非營利幼兒園(委託財團法人福智文教基金會辦理)",
+                "owner": "陳全成",
+                "city": "新竹市",
+                "town": "新竹市",
+                "type": "非營利",
+                "address": "[300]光復路一段89巷88號",
+                "floor": "1樓",
+                "size": "620.98平方公尺",
+                "size_in": "337.51平方公尺",
+                "size_out": "283.47平方公尺",
+                "tel": "(03)5770092",
+                "url": "www.facebook.com\/thinkkids2014\/reviews",
+                "count_approved": "106",
+                "shuttle": "",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "無",
+                "has_slip": "no",
+                "id": "bff1cda1-eabc-46c7-aab9-3664fee59f92",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.023695,
+                    24.780048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "reg_no": "府教特字第1150158577號",
                 "reg_docno": "府教特字第1120015845號",
                 "reg_date": "2023\/02\/01",
@@ -211163,7 +211274,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北府教幼字第1011259620永和0019號",
+                "reg_no": "新北府教幼字第1140885432永和0019之1號",
                 "reg_docno": "北府社兒字第0940791598號",
                 "reg_date": "1970\/01\/01",
                 "title": "新北市立永和幼兒園",
@@ -222078,7 +222189,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "新北府教幼字第1080003599蘆洲0073之2號",
+                "reg_no": "新北府教幼字第1140885432蘆洲0073之3號",
                 "reg_docno": "新北府教幼字第1061359026號",
                 "reg_date": "2017\/07\/31",
                 "title": "新北市私立集賢幼兒園",
@@ -230286,6 +230397,43 @@
                 "coordinates": [
                     120.971036,
                     24.542694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "reg_no": "府教幼字第1150158615號",
+                "reg_docno": "府教幼字第1150158615號",
+                "reg_date": "2026\/07\/20",
+                "title": "南投縣私立菁華幼兒園",
+                "owner": "江保樺",
+                "city": "南投縣",
+                "town": "竹山鎮",
+                "type": "私立",
+                "address": "[557]向學街27號",
+                "floor": "",
+                "size": "",
+                "size_in": "",
+                "size_out": "",
+                "tel": "(049)2655258",
+                "url": "",
+                "count_approved": "193",
+                "shuttle": "",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "無",
+                "has_slip": "no",
+                "id": "d0007eea-1ae6-496c-8551-172210cb575a",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686923,
+                    23.761181
                 ]
             }
         },
@@ -244981,7 +245129,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "中市教幼字第1060072940號",
+                "reg_no": "中市教幼字第1150066296號",
                 "reg_docno": "中市教幼字第1060072940號",
                 "reg_date": "2017\/08\/01",
                 "title": "臺中市東勢區中科國民小學附設幼兒園",
@@ -251691,7 +251839,7 @@
                 "size": "",
                 "size_in": "",
                 "size_out": "",
-                "tel": "(06)2309012",
+                "tel": "(06)3308278",
                 "url": "",
                 "count_approved": "90",
                 "shuttle": "",
@@ -259072,6 +259220,43 @@
                 "coordinates": [
                     121.526766,
                     25.029221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "reg_no": "北市幼兒園證字第601-4號",
+                "reg_docno": "北市社五字第09130158100號",
+                "reg_date": "2002\/01\/31",
+                "title": "臺北市港福非營利幼兒園（委託社團法人臺灣教育專業學會辦理）",
+                "owner": "黃意舒",
+                "city": "臺北市",
+                "town": "南港區",
+                "type": "非營利",
+                "address": "[115]福德街373巷43號1樓",
+                "floor": "1樓",
+                "size": "914.01平方公尺",
+                "size_in": "914.01平方公尺",
+                "size_out": "",
+                "tel": "(02)26543767",
+                "url": "https:\/\/www.facebook.com\/gangfu10781",
+                "count_approved": "136",
+                "shuttle": "",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "有",
+                "has_slip": "no",
+                "id": "e98ceefd-d281-4d8a-91dc-672bffe935fe",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.591764,
+                    25.03895
                 ]
             }
         },
@@ -269734,7 +269919,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "屏府教前字第10812024500號",
+                "reg_no": "屏府教特字第1150210964號",
                 "reg_docno": "屏府社福字第0940198954號",
                 "reg_date": "2005\/10\/14",
                 "title": "屏東縣私立屏東培正幼兒園",
@@ -269749,7 +269934,7 @@
                 "size_out": "3,249.73平方公尺",
                 "tel": "(08)7221311",
                 "url": "http:\/\/peizeng.woby.com.tw",
-                "count_approved": "305",
+                "count_approved": "425",
                 "shuttle": "\t\t",
                 "pre_public": "113-115",
                 "is_free5": "",
