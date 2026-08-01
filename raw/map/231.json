@@ -196,16 +196,16 @@
     "lat": 24.962661,
     "lng": 121.51139,
     "sid": "MAAzADIAMwAxADAAMAAwADMAMQA=",
-    "name": "(私立)新北市私立雅格幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立雅格幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
     "lat": 24.96464,
     "lng": 121.542741,
     "sid": "MAAzADIAMwAxADAAMAAwADMAMwA=",
-    "name": "(私立)新北市私立樂韻幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立樂韻幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -484,8 +484,8 @@
     "lat": 24.960986,
     "lng": 121.51175,
     "sid": "MAAzADIAMwAxADAAMAAwADcAMQA=",
-    "name": "(私立)新北市私立安康幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立安康幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
@@ -532,8 +532,8 @@
     "lat": 24.97847,
     "lng": 121.540098,
     "sid": "MAAzADIAMwAxADAAMAAwADgAMAA=",
-    "name": "(私立)新北市私立俏媽咪幼兒園",
-    "type": "spub1"
+    "name": "(準公共)新北市私立俏媽咪幼兒園",
+    "type": "spub3"
   },
   {
     "newsch": 1,
