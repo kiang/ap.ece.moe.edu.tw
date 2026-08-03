@@ -3186,11 +3186,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北市幼兒園證字第729-1號",
+                "reg_no": "北市幼兒園證字第792-2號",
                 "reg_docno": "北市教前字第11030009371號",
                 "reg_date": "2021\/01\/22",
                 "title": "臺北市明倫非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
-                "owner": "黃麗芳",
+                "owner": "陳靖中",
                 "city": "臺北市",
                 "town": "大同區",
                 "type": "非營利",
@@ -24326,7 +24326,7 @@
                 "size": "52,213.26平方公尺",
                 "size_in": "343.26平方公尺",
                 "size_out": "51,870平方公尺",
-                "tel": "(05)3417748",
+                "tel": "(05)3412203",
                 "url": "https:\/\/www.facebook.com\/icpskindergarden",
                 "count_approved": "68",
                 "shuttle": "",
@@ -39446,11 +39446,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北市職場證字第3-1號",
+                "reg_no": "北市職場教保證字第3-2號",
                 "reg_docno": "北市教前字第1103012307號",
                 "reg_date": "2021\/08\/01",
                 "title": "教育部忠孝大樓職場互助教保服務中心(委託社團法人台北市教保人員協會辦理)",
-                "owner": "黃麗芳",
+                "owner": "陳靖中",
                 "city": "臺北市",
                 "town": "中正區",
                 "type": "私立",
@@ -41000,11 +41000,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "府教幼字第1090181885號",
+                "reg_no": "府教幼字第1150206770號",
                 "reg_docno": "86府教國字第034678號",
                 "reg_date": "1997\/02\/24",
                 "title": "桃園市龜山區大坑國民小學附設幼兒園",
-                "owner": "林惠萍",
+                "owner": "王心怡",
                 "city": "桃園市",
                 "town": "龜山區",
                 "type": "公立",
@@ -41444,7 +41444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "府教幼字第1110207748號",
+                "reg_no": "府教幼字第1150214514號",
                 "reg_docno": "府教幼字第1110207748號",
                 "reg_date": "2022\/08\/01",
                 "title": "桃園市中壢區中原國民小學附設幼兒園",
@@ -41459,7 +41459,7 @@
                 "size_out": "160平方公尺",
                 "tel": "(03)4388200#7910",
                 "url": "https:\/\/www.cyes.tyc.edu.tw\/",
-                "count_approved": "30",
+                "count_approved": "46",
                 "shuttle": "",
                 "pre_public": "無",
                 "is_free5": "",
@@ -51598,7 +51598,7 @@
                 "tel": "(02)24520661",
                 "url": "",
                 "count_approved": "116",
-                "shuttle": "\t\t",
+                "shuttle": "",
                 "pre_public": "無",
                 "is_free5": "",
                 "is_after": "無",
@@ -52470,7 +52470,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "中市教幼字第1140074688號",
+                "reg_no": "中市教幼字第1150067923號",
                 "reg_docno": "中市教幼字第1060072938號",
                 "reg_date": "2017\/08\/01",
                 "title": "臺中市烏日區喀哩國民小學附設幼兒園",
@@ -59365,7 +59365,7 @@
                 "size": "538平方公尺",
                 "size_in": "207平方公尺",
                 "size_out": "331平方公尺",
-                "tel": "(049)2224087#106",
+                "tel": "(049)2224087#227",
                 "url": "163.22.60.2",
                 "count_approved": "60",
                 "shuttle": "",
@@ -61825,6 +61825,43 @@
                 "coordinates": [
                     120.293247,
                     22.684767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "reg_no": "中市教幼字第1150062537號",
+                "reg_docno": "中市府社福字第8818號",
+                "reg_date": "1999\/08\/12",
+                "title": "元太教育股份有限公司附設臺中市私立大地幼兒園",
+                "owner": "吳丞修",
+                "city": "臺中市",
+                "town": "南屯區",
+                "type": "私立",
+                "address": "[408]忠勇路160號",
+                "floor": "1樓、2樓",
+                "size": "3,164.14平方公尺",
+                "size_in": "1,482.14平方公尺",
+                "size_out": "1,682平方公尺",
+                "tel": "(04)23873577",
+                "url": "http:\/\/www.dadybaby.com",
+                "count_approved": "330",
+                "shuttle": "\t\t",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "有，人數：40",
+                "penalty": "有",
+                "has_slip": "no",
+                "id": "365369fe-3dc1-4b17-a08a-6a7a9d8a3edb",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.618354,
+                    24.158835
                 ]
             }
         },
@@ -67768,13 +67805,13 @@
                 "url": "joy.csh3311@gmail.com",
                 "count_approved": "60",
                 "shuttle": "",
-                "pre_public": "113-115",
+                "pre_public": "無",
                 "is_free5": "",
                 "is_after": "無",
                 "penalty": "有",
                 "has_slip": "no",
                 "id": "3b6f2a5a-88fa-4c4d-aae0-64d0ebc7c99d",
-                "monthly": 3750,
+                "monthly": 13550,
                 "is_active": 1
             },
             "geometry": {
@@ -79480,11 +79517,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北市職場證字第13-1號",
+                "reg_no": "北市職場教保證字第13-2號",
                 "reg_docno": "北市教前字第11130102731號",
                 "reg_date": "2022\/08\/01",
                 "title": "教育部徐州大樓職場互助教保服務中心（委託社團法人台北市教保人員協會辦理）",
-                "owner": "黃麗芳",
+                "owner": "陳靖中",
                 "city": "臺北市",
                 "town": "中正區",
                 "type": "私立",
@@ -83655,6 +83692,43 @@
                 "coordinates": [
                     120.535548,
                     23.847123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "reg_no": "府教幼字字第1150202792號",
+                "reg_docno": "府社福字第0920050454號",
+                "reg_date": "2003\/04\/14",
+                "title": "國立中正大學員工子女非營利幼兒園（委託社團法人嘉義市希望種子兒童暨青少年成長協會辦理）",
+                "owner": "林玉珠",
+                "city": "嘉義縣",
+                "town": "民雄鄉",
+                "type": "非營利",
+                "address": "[621]陳厝寮61-9號.61-10號",
+                "floor": "2-3樓",
+                "size": "2,787.932平方公尺",
+                "size_in": "1,713.152平方公尺",
+                "size_out": "1,074.78平方公尺",
+                "tel": "(05)2729135",
+                "url": "https:\/\/reurl.cc\/9p1QR8",
+                "count_approved": "122",
+                "shuttle": "\t\t",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "無",
+                "has_slip": "no",
+                "id": "4a0ff020-2e10-47f8-97d3-34d69e556e49",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.480425,
+                    23.562947
                 ]
             }
         },
@@ -103863,11 +103937,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北市幼兒園證字第808號",
+                "reg_no": "北市幼兒園證字第808-1號",
                 "reg_docno": "北市教前字第11130166911號",
                 "reg_date": "2022\/10\/07",
                 "title": "臺北市北溫非營利幼兒園(委託社團法人台北市教保人員協會辦理)",
-                "owner": "黃麗芳",
+                "owner": "陳靖中",
                 "city": "臺北市",
                 "town": "北投區",
                 "type": "非營利",
@@ -112441,6 +112515,43 @@
                 "coordinates": [
                     120.174829,
                     23.048818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "reg_no": "北市職場教保證字第23-2號",
+                "reg_docno": "北市教前字第1113067352號",
+                "reg_date": "2022\/08\/15",
+                "title": "臺北市中華電信北投職場互助教保服務中心（委託明新學校財團法人明新科技大學辦理）",
+                "owner": "呂明峯",
+                "city": "臺北市",
+                "town": "北投區",
+                "type": "私立",
+                "address": "[112]光明路176號3、4樓",
+                "floor": "3樓、4樓",
+                "size": "231.7平方公尺",
+                "size_in": "231.7平方公尺",
+                "size_out": "",
+                "tel": "(02)28910721",
+                "url": "https:\/\/www.facebook.com\/BT.TECEA",
+                "count_approved": "50",
+                "shuttle": "",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "無",
+                "has_slip": "no",
+                "id": "65267a92-cdc3-4fe0-a6ba-520f4c1fb4fa",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.503156,
+                    25.135527
                 ]
             }
         },
@@ -124525,7 +124636,7 @@
                 "tel": "(03)5242138",
                 "url": "",
                 "count_approved": "97",
-                "shuttle": "\t\t",
+                "shuttle": "",
                 "pre_public": "114-115",
                 "is_free5": "",
                 "is_after": "有，人數：11",
@@ -157452,7 +157563,7 @@
                 "size": "1,572.02平方公尺",
                 "size_in": "871.02平方公尺",
                 "size_out": "701平方公尺",
-                "tel": "(02)86480944#304",
+                "tel": "(02)86480944#303",
                 "url": "",
                 "count_approved": "136",
                 "shuttle": "",
@@ -161435,11 +161546,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北市幼兒園證字第767-1號",
+                "reg_no": "北市幼兒園證字第767-2號",
                 "reg_docno": "北市教前字第10760294661號",
                 "reg_date": "2018\/08\/31",
                 "title": "臺北市族中非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
-                "owner": "黃麗芳",
+                "owner": "陳靖中",
                 "city": "臺北市",
                 "town": "大安區",
                 "type": "非營利",
@@ -170870,11 +170981,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北市幼兒園證字第769-1號",
+                "reg_no": "北市幼兒園證字第769-2號",
                 "reg_docno": "北市教前字第1076028533號",
                 "reg_date": "2018\/08\/31",
                 "title": "臺北市永建非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
-                "owner": "黃麗芳",
+                "owner": "陳靖中",
                 "city": "臺北市",
                 "town": "文山區",
                 "type": "非營利",
@@ -171573,11 +171684,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北市幼兒園證字第748-2號",
+                "reg_no": "北市幼兒園證字第748-3號",
                 "reg_docno": "北市教幼字第10539499100號",
                 "reg_date": "2016\/11\/14",
                 "title": "臺北市濱江非營利幼兒園（委託社團法人台北市教保人員協會辦理）",
-                "owner": "黃麗芳",
+                "owner": "陳靖中",
                 "city": "臺北市",
                 "town": "中山區",
                 "type": "非營利",
@@ -176753,11 +176864,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北市職場教保證字第7-1號",
+                "reg_no": "北市職場教保證字第7-2號",
                 "reg_docno": "北市教前字第1113008429號",
                 "reg_date": "2022\/08\/01",
                 "title": "財政部臺北國稅局職場互助教保服務中心（委託社團法人台北市教保人員協會辦理）",
-                "owner": "黃麗芳",
+                "owner": "陳靖中",
                 "city": "臺北市",
                 "town": "萬華區",
                 "type": "私立",
@@ -181875,7 +181986,7 @@
                 "tel": "(06)7221537",
                 "url": "",
                 "count_approved": "60",
-                "shuttle": "\t\t",
+                "shuttle": "",
                 "pre_public": "無",
                 "is_free5": "",
                 "is_after": "有，人數：15",
@@ -185300,6 +185411,43 @@
         {
             "type": "Feature",
             "properties": {
+                "reg_no": "府教幼字第1150201786號",
+                "reg_docno": "府教幼字第1080200621號",
+                "reg_date": "2019\/08\/01",
+                "title": "嘉義縣大埔美非營利幼兒園（委託社團法人台灣幼教學術發展學會辦理）",
+                "owner": "吳光名",
+                "city": "嘉義縣",
+                "town": "大林鎮",
+                "type": "非營利",
+                "address": "[622]大智三街105號",
+                "floor": "1樓、2樓",
+                "size": "1,631.81平方公尺",
+                "size_in": "1,358.81平方公尺",
+                "size_out": "273平方公尺",
+                "tel": "(05)2956608",
+                "url": "評鑑情形：",
+                "count_approved": "91",
+                "shuttle": "",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "無",
+                "has_slip": "no",
+                "id": "a7fe1e22-7371-4e3a-ba38-cb7be37dbf71",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.503412,
+                    23.587301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "reg_no": "府教特字第1130174156號",
                 "reg_docno": "府教特字第09400923330號",
                 "reg_date": "2005\/08\/29",
@@ -188482,11 +188630,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "北市職場證字第10-1號",
+                "reg_no": "北市職場教保證字第10-2號",
                 "reg_docno": "北市教前字第11130112691號",
                 "reg_date": "2022\/08\/01",
                 "title": "國立中正紀念堂管理處職場互助教保服務中心（委託社團法人台北市教保人員協會辦理）",
-                "owner": "黃麗芳",
+                "owner": "陳靖中",
                 "city": "臺北市",
                 "town": "中正區",
                 "type": "私立",
@@ -211028,8 +211176,8 @@
                 "size": "620.98平方公尺",
                 "size_in": "337.51平方公尺",
                 "size_out": "283.47平方公尺",
-                "tel": "(03)5770092",
-                "url": "www.facebook.com\/thinkkids2014\/reviews",
+                "tel": "(03)5790071",
+                "url": "www.facebook.com\/share\/1DLoV1oioJ\/?mibextid=wwXlfr",
                 "count_approved": "106",
                 "shuttle": "",
                 "pre_public": "無",
@@ -233927,10 +234075,10 @@
                 "town": "溪湖鎮",
                 "type": "非營利",
                 "address": "[514]北聖路20號",
-                "floor": "1樓",
-                "size": "613.62平方公尺",
-                "size_in": "338.62平方公尺",
-                "size_out": "275平方公尺",
+                "floor": "",
+                "size": "",
+                "size_in": "",
+                "size_out": "",
                 "tel": "(04)8852691",
                 "url": "評鑑情形：",
                 "count_approved": "76",
@@ -253824,11 +253972,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "中市教幼字第1100044921號",
+                "reg_no": "中市教幼字第1150066855號",
                 "reg_docno": "85府教國字字第033662號",
                 "reg_date": "1996\/02\/08",
                 "title": "臺中市私立育成幼兒園",
-                "owner": "莊景霖",
+                "owner": "顏世貴",
                 "city": "臺中市",
                 "town": "大肚區",
                 "type": "私立",
@@ -254913,7 +255061,7 @@
                 "tel": "(07)3705788",
                 "url": "",
                 "count_approved": "136",
-                "shuttle": "\t\t",
+                "shuttle": "",
                 "pre_public": "無",
                 "is_free5": "",
                 "is_after": "無",
@@ -261090,7 +261238,7 @@
                 "size_in": "107.57平方公尺",
                 "size_out": "578.71平方公尺",
                 "tel": "(07)6960853",
-                "url": "http:\/\/affairs.kh.edu.tw\/3357",
+                "url": "",
                 "count_approved": "30",
                 "shuttle": "",
                 "pre_public": "無",
@@ -276875,11 +277023,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "中市教幼字第1110072961號",
+                "reg_no": "中市教幼字第1150067278號",
                 "reg_docno": "中市教幼字第10300658537號",
                 "reg_date": "2014\/08\/01",
                 "title": "臺中市大里區草湖國民小學附設幼兒園",
-                "owner": "連忠誠",
+                "owner": "林憶涵",
                 "city": "臺中市",
                 "town": "大里區",
                 "type": "公立",
@@ -281587,7 +281735,7 @@
                 "size": "701平方公尺",
                 "size_in": "139平方公尺",
                 "size_out": "562平方公尺",
-                "tel": "(049)2741325#127",
+                "tel": "(049)2741325#128",
                 "url": "http:\/\/www.sles.ntct.edu.tw",
                 "count_approved": "30",
                 "shuttle": "",

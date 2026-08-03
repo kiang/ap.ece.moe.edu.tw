@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市職場教保證字第23-2號",
+        "reg_docno": "北市教前字第1113067352號",
+        "reg_date": "2022\/08\/15",
+        "title": "臺北市中華電信北投職場互助教保服務中心（委託明新學校財團法人明新科技大學辦理）",
+        "owner": "呂明峯",
+        "city": "臺北市",
+        "town": "北投區",
+        "type": "私立",
+        "address": "[112]光明路176號3、4樓",
+        "floor": "3樓、4樓",
+        "size": "231.7平方公尺",
+        "size_in": "231.7平方公尺",
+        "size_out": "",
+        "tel": "(02)28910721",
+        "url": "https:\/\/www.facebook.com\/BT.TECEA",
+        "count_approved": "50",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "65267a92-cdc3-4fe0-a6ba-520f4c1fb4fa",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.503156,
+            25.135527
+        ]
+    }
+}

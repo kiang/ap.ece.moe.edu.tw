@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字字第1150202792號",
+        "reg_docno": "府社福字第0920050454號",
+        "reg_date": "2003\/04\/14",
+        "title": "國立中正大學員工子女非營利幼兒園（委託社團法人嘉義市希望種子兒童暨青少年成長協會辦理）",
+        "owner": "林玉珠",
+        "city": "嘉義縣",
+        "town": "民雄鄉",
+        "type": "非營利",
+        "address": "[621]陳厝寮61-9號.61-10號",
+        "floor": "2-3樓",
+        "size": "2,787.932平方公尺",
+        "size_in": "1,713.152平方公尺",
+        "size_out": "1,074.78平方公尺",
+        "tel": "(05)2729135",
+        "url": "https:\/\/reurl.cc\/9p1QR8",
+        "count_approved": "122",
+        "shuttle": "\t\t",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "4a0ff020-2e10-47f8-97d3-34d69e556e49",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.480425,
+            23.562947
+        ]
+    }
+}

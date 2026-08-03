@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教幼字第1150201786號",
+        "reg_docno": "府教幼字第1080200621號",
+        "reg_date": "2019\/08\/01",
+        "title": "嘉義縣大埔美非營利幼兒園（委託社團法人台灣幼教學術發展學會辦理）",
+        "owner": "吳光名",
+        "city": "嘉義縣",
+        "town": "大林鎮",
+        "type": "非營利",
+        "address": "[622]大智三街105號",
+        "floor": "1樓、2樓",
+        "size": "1,631.81平方公尺",
+        "size_in": "1,358.81平方公尺",
+        "size_out": "273平方公尺",
+        "tel": "(05)2956608",
+        "url": "評鑑情形：",
+        "count_approved": "91",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "a7fe1e22-7371-4e3a-ba38-cb7be37dbf71",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.503412,
+            23.587301
+        ]
+    }
+}
