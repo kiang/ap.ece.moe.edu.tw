@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1140885432新店0084之1號",
+        "reg_docno": "新北府教幼字第1111449384號",
+        "reg_date": "2022\/09\/16",
+        "title": "新北市文中非營利幼兒園（委託社團法人臺灣澄芽全人文教發展協會辦理）",
+        "owner": "詹孟婷",
+        "city": "新北市",
+        "town": "新店區",
+        "type": "非營利",
+        "address": "[231]文中路38號",
+        "floor": "1樓、2樓",
+        "size": "1,048平方公尺",
+        "size_in": "642平方公尺",
+        "size_out": "406平方公尺",
+        "tel": "(02)29120056",
+        "url": "wenshan33110@gmail.com",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "f7abc125-4419-446b-91bd-cfc594b79a67",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.53928,
+            24.956533
+        ]
+    }
+}

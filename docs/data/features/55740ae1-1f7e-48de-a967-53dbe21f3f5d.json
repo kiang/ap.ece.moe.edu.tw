@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1150127371號",
+        "reg_docno": "府教特字第1030175659號",
+        "reg_date": "2014\/09\/22",
+        "title": "新竹市新科非營利幼兒園(委託財團法人福智文教基金會辦理)",
+        "owner": "陳全成",
+        "city": "新竹市",
+        "town": "新竹市",
+        "type": "非營利",
+        "address": "[300]光復路一段89巷88號",
+        "floor": "1樓",
+        "size": "620.98平方公尺",
+        "size_in": "337.51平方公尺",
+        "size_out": "283.47平方公尺",
+        "tel": "(03)5790071",
+        "url": "www.facebook.com\/share\/1DLoV1oioJ\/?mibextid=wwXlfr",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "55740ae1-1f7e-48de-a967-53dbe21f3f5d",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.023695,
+            24.780048
+        ]
+    }
+}
