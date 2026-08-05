@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1140885432淡水0065號",
+        "reg_docno": "新北府教幼字第1151214146號",
+        "reg_date": "2026\/07\/31",
+        "title": "新北市私立蘋果苑藝術幼兒園",
+        "owner": "林意恩",
+        "city": "新北市",
+        "town": "淡水區",
+        "type": "私立",
+        "address": "[251]新興街116號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)26260025",
+        "url": "",
+        "count_approved": "60",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d34bfb97-3f91-48cb-9b84-a00e8b2d69f0",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.439341,
+            25.181056
+        ]
+    }
+}

@@ -9,6 +9,22 @@
   },
   {
     "newsch": 1,
+    "lat": 24.600303,
+    "lng": 121.529625,
+    "sid": "MAA0ADIANgA3ADAAMAAwADAAMQAtADAAMQA=",
+    "name": "(公立)宜蘭縣大同鄉大同國民小學附設幼兒園樂水分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.656085,
+    "lng": 121.578678,
+    "sid": "MAA0ADIANgA3ADAAMAAwADAAMQAtADAAMgA=",
+    "name": "(公立)宜蘭縣大同鄉大同國民小學附設幼兒園松羅分班",
+    "type": "spub0"
+  },
+  {
+    "newsch": 1,
     "lat": 24.609391,
     "lng": 121.686414,
     "sid": "MAA0ADIANgA3ADAAMAAwADAAMgA=",

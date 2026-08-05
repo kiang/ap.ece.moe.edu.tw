@@ -510,5 +510,13 @@
     "sid": "MAAyADEAMQAyADAAMAAwADcANgA=",
     "name": "(私立)臺北市私立花朵幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.102276,
+    "lng": 121.514426,
+    "sid": "MAAyADEAMQAyADAAMAAwADcANwA=",
+    "name": "(非營利)臺北市福國非營利幼兒園（委託明新學校財團法人明新科技大學辦理）",
+    "type": "spub2"
   }
 ]

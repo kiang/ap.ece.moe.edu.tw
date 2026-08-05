@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1140885432中和0042之1號",
+        "reg_docno": "九十北府社兒字第90181088號",
+        "reg_date": "2001\/04\/26",
+        "title": "新北市私立沐野幼兒園",
+        "owner": "葉智偉",
+        "city": "新北市",
+        "town": "中和區",
+        "type": "私立",
+        "address": "[235]復興路55號1樓、2樓",
+        "floor": "1樓、2樓",
+        "size": "122.43平方公尺",
+        "size_in": "122.43平方公尺",
+        "size_out": "",
+        "tel": "(02)29406245",
+        "url": "bubbledragon.urb.com.tw",
+        "count_approved": "30",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "cdc92d41-66fd-4c61-b720-a73e9fb6fdbc",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.504407,
+            24.989987
+        ]
+    }
+}

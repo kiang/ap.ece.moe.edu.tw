@@ -430,5 +430,13 @@
     "sid": "MAAzADIANQAxADAAMAAwADYAMQA=",
     "name": "(私立)新北市私立愛丁堡探索幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.181056,
+    "lng": 121.439341,
+    "sid": "MAAzADIANQAxADAAMAAwADYAMgA=",
+    "name": "(私立)新北市私立蘋果苑藝術幼兒園",
+    "type": "spub1"
   }
 ]

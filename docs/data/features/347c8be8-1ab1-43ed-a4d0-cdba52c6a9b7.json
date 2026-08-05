@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1140885432鶯歌0025之3號",
+        "reg_docno": "新北府教幼字第1071346269號",
+        "reg_date": "2018\/07\/20",
+        "title": "新北市昌福非營利幼兒園（委託明新學校財團法人明新科技大學辦理）",
+        "owner": "呂明峯",
+        "city": "新北市",
+        "town": "鶯歌區",
+        "type": "非營利",
+        "address": "[239]永明街22號1樓",
+        "floor": "1樓",
+        "size": "846.57平方公尺",
+        "size_in": "666.57平方公尺",
+        "size_out": "",
+        "tel": "(02)26708189",
+        "url": "評鑑情形：",
+        "count_approved": "90",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "347c8be8-1ab1-43ed-a4d0-cdba52c6a9b7",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.339495,
+            24.955338
+        ]
+    }
+}
