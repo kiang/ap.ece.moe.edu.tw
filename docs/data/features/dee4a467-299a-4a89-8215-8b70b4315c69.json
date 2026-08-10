@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1150659028號",
+        "reg_docno": "府社福字第1277號",
+        "reg_date": "1997\/01\/20",
+        "title": "新竹縣私立威育幼兒園",
+        "owner": "陳惠琴",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]中山路255.257號1-4樓",
+        "floor": "1樓至4樓",
+        "size": "642.5平方公尺",
+        "size_in": "465.74平方公尺",
+        "size_out": "176.76平方公尺",
+        "tel": "(03)5558088",
+        "url": "https:\/\/yoyokids.ebc.net.tw\/yoyo\/ety105",
+        "count_approved": "118",
+        "shuttle": "",
+        "pre_public": "113-115",
+        "is_free5": "",
+        "is_after": "有，人數：58",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "dee4a467-299a-4a89-8215-8b70b4315c69",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.019324,
+            24.836056
+        ]
+    }
+}
