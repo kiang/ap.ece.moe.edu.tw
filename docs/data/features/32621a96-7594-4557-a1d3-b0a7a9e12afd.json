@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1140885432三重0103號",
+        "reg_docno": "新北府教幼字第1151237073號",
+        "reg_date": "2026\/07\/31",
+        "title": "新北市私立華芯國際幼兒園",
+        "owner": "劉麗玲",
+        "city": "新北市",
+        "town": "三重區",
+        "type": "私立",
+        "address": "[241]光復路1段45號、45號之2",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(02)29958811",
+        "url": "",
+        "count_approved": "167",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "32621a96-7594-4557-a1d3-b0a7a9e12afd",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.472213,
+            25.048627
+        ]
+    }
+}
