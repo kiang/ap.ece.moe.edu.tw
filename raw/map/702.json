@@ -238,5 +238,13 @@
     "sid": "MQA2ADcAMAAyADAAMAAwADMANQA=",
     "name": "(公立)臺南市立新興國民中學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.967172,
+    "lng": 120.184888,
+    "sid": "MQA2ADcAMAAyADAAMAAwADMANgA=",
+    "name": "(私立)臺南市私立台南菁華幼兒園",
+    "type": "spub1"
   }
 ]
