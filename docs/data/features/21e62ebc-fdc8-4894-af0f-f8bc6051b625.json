@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "中市教幼字第1150071034號",
+        "reg_docno": "中市教幼字第1150071034號",
+        "reg_date": "2026\/08\/01",
+        "title": "臺中市北屯區建功國民小學附設幼兒園",
+        "owner": "黃永昆",
+        "city": "臺中市",
+        "town": "北屯區",
+        "type": "公立",
+        "address": "[406]軍和路43號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(04)24367042",
+        "url": "",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "21e62ebc-fdc8-4894-af0f-f8bc6051b625",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.715448,
+            24.17595
+        ]
+    }
+}
