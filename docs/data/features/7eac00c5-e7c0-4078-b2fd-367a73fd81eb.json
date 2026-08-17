@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特字第1150957216號",
+        "reg_docno": "府特教字第1155329690號",
+        "reg_date": "2026\/07\/28",
+        "title": "嘉義市白鷺鷥非營利幼兒園（委託吳鳳學校財團法人吳鳳科技大學辦理）",
+        "owner": "胡宗鑫",
+        "city": "嘉義市",
+        "town": "嘉義市",
+        "type": "非營利",
+        "address": "[600]健康十三路2號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)2850600",
+        "url": "https:\/\/www.facebook.com\/p\/%E5%98%89%E7%BE%A9%E5%B8%82%E7%99%BD%E9%B7%BA%E9%B7%A5%E9%9D%9E%E7%87%9F%",
+        "count_approved": "212",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "7eac00c5-e7c0-4078-b2fd-367a73fd81eb",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.442796,
+            23.452594
+        ]
+    }
+}

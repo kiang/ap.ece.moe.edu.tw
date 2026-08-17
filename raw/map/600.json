@@ -590,5 +590,13 @@
     "sid": "MQA0ADYAMAAwADAAMAAwADkAOAA=",
     "name": "(私立)嘉義市私立朵恩幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.452594,
+    "lng": 120.442796,
+    "sid": "MQA0ADYAMAAwADAAMAAwADkAOQA=",
+    "name": "(非營利)嘉義市白鷺鷥非營利幼兒園（委託吳鳳學校財團法人吳鳳科技大學辦理）",
+    "type": "spub2"
   }
 ]
