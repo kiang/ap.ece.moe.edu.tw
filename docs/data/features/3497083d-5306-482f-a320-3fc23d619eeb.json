@@ -1,20 +1,20 @@
 {
     "type": "Feature",
     "properties": {
-        "reg_no": "南市教特(一)字第1151129405R號",
-        "reg_docno": "南市教特(一)字第1111127405A號",
-        "reg_date": "2022\/08\/01",
-        "title": "臺南市將軍區苓和國民小學附設幼兒園",
-        "owner": "陳良圖",
+        "reg_no": "南市教特(一)字第1151129405A號",
+        "reg_docno": "南市教特(一)字第1151129405A號",
+        "reg_date": "2026\/08\/01",
+        "title": "臺南市南化區北寮國民小學附設幼兒園瑞峰分班",
+        "owner": "",
         "city": "臺南市",
-        "town": "將軍區",
+        "town": "南化區",
         "type": "公立",
-        "address": "[725]苓和132號",
+        "address": "[716]96號",
         "floor": "",
         "size": "",
         "size_in": "",
         "size_out": "",
-        "tel": "(06)7942031#31",
+        "tel": "(06)5770093#100",
         "url": "",
         "count_approved": "15",
         "shuttle": "",
@@ -23,15 +23,15 @@
         "is_after": "無",
         "penalty": "無",
         "has_slip": "no",
-        "id": "77c585ed-4005-435f-a27f-b64a20aca5f6",
-        "monthly": 3620,
+        "id": "3497083d-5306-482f-a320-3fc23d619eeb",
+        "monthly": 2000,
         "is_active": 1
     },
     "geometry": {
         "type": "Point",
         "coordinates": [
-            120.161625,
-            23.219398
+            120.476546,
+            23.042252
         ]
     }
 }

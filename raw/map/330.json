@@ -974,5 +974,21 @@
     "sid": "MAA1ADMAMwAwADAAMAAxADMANAA=",
     "name": "(非營利)桃園市政府員工子女非營利幼兒園(委託社團法人臺灣三之三生命教育學會辦理)",
     "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.002374,
+    "lng": 121.310879,
+    "sid": "MAA1ADMAMwAwADAAMAAxADMANQA=",
+    "name": "(非營利)桃園市日光非營利幼兒園（委託社團法人臺灣三之三生命教育學會辦理）",
+    "type": "spub2"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.998195,
+    "lng": 121.29109,
+    "sid": "MAA1ADMAMwAwADAAMAAxADMANgA=",
+    "name": "(非營利)桃園市文中非營利幼兒園（委託社團法人臺灣三之三生命教育學會辦理）",
+    "type": "spub2"
   }
 ]
