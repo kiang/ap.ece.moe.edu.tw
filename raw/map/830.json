@@ -598,5 +598,13 @@
     "sid": "MQA4ADgAMwAwADAAMAAwADkANgA=",
     "name": "(私立)高雄私立忠信寶貝幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 22.589794,
+    "lng": 120.34584,
+    "sid": "MQA4ADgAMwAwADAAMAAwADkANwA=",
+    "name": "(非營利)高雄市鳳林非營利幼兒園（委託社團法人高雄市碩苗社會教育關懷協會辦理）",
+    "type": "spub2"
   }
 ]
