@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1150659813號",
+        "reg_docno": "府授教幼字第1150659813號",
+        "reg_date": "2026\/08\/01",
+        "title": "新竹縣竹北市文興國民小學附設幼兒園",
+        "owner": "王映之",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "公立",
+        "address": "[302]高鐵九路88號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)6576608",
+        "url": "",
+        "count_approved": "38",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "d2167b9e-5150-4631-84b6-43f32f60bc18",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.041832,
+            24.802757
+        ]
+    }
+}
