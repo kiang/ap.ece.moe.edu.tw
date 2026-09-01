@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1150659354號",
+        "reg_docno": "府授教幼字第1150659354號",
+        "reg_date": "2026\/08\/13",
+        "title": "新竹縣私立同心圓幼兒園",
+        "owner": "王美月",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]六家五路一段176號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)6580836",
+        "url": "",
+        "count_approved": "26",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "f9797de3-6a17-47e6-865c-181d8f03a7b0",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.02621,
+            24.80885
+        ]
+    }
+}

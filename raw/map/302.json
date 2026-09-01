@@ -766,5 +766,13 @@
     "sid": "MAA3ADMAMAAyADAAMAAxADEANwA=",
     "name": "(公立)新竹縣竹北市文興國民小學附設幼兒園",
     "type": "spub0"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.80885,
+    "lng": 121.02621,
+    "sid": "MAA3ADMAMAAyADAAMAAxADEAOAA=",
+    "name": "(私立)新竹縣私立同心圓幼兒園",
+    "type": "spub1"
   }
 ]
