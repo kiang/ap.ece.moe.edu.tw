@@ -209,14 +209,6 @@
   },
   {
     "newsch": 1,
-    "lat": 23.015464,
-    "lng": 120.205222,
-    "sid": "MQA2ADcAMAA0ADAAMAAwADMANQA=",
-    "name": "(私立)臺南市私立愛麗絲幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
     "lat": 23.007231,
     "lng": 120.183918,
     "sid": "MQA2ADcAMAA0ADAAMAAwADMANwA=",
@@ -270,5 +262,13 @@
     "sid": "MQA2ADcAMAA0ADAAMAAwADQAMwA=",
     "name": "(準公共)臺南市私立哈波特幼兒園",
     "type": "spub3"
+  },
+  {
+    "newsch": 1,
+    "lat": 23.002242,
+    "lng": 120.213698,
+    "sid": "MQA2ADcAMAA0ADAAMAAwADQANAA=",
+    "name": "(非營利)臺南市崑山小東非營利幼兒園（委託財團法人崑山科技大學設立之崑山科技大學辦理）",
+    "type": "spub2"
   }
 ]
