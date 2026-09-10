@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "新北府教幼字第1151499839永和0032之2號",
+        "reg_docno": "八九北府社兒字第89188478號",
+        "reg_date": "2000\/05\/16",
+        "title": "新北市私立畝心屋沐和幼兒園",
+        "owner": "傅佩慈",
+        "city": "新北市",
+        "town": "永和區",
+        "type": "私立",
+        "address": "[234]民權路53號3樓之1",
+        "floor": "3",
+        "size": "410.86平方公尺",
+        "size_in": "410.86平方公尺",
+        "size_out": "",
+        "tel": "(02)29491375",
+        "url": "",
+        "count_approved": "80",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "有",
+        "has_slip": "no",
+        "id": "ff407725-8f17-4c82-86d2-98094d1e3046",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.520027,
+            24.996761
+        ]
+    }
+}

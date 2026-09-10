@@ -3533,7 +3533,7 @@
                 "size_in": "",
                 "size_out": "",
                 "tel": "(06)2220086",
-                "url": "評鑑情形：",
+                "url": "臺南市北區北門路二段118號",
                 "count_approved": "106",
                 "shuttle": "",
                 "pre_public": "無",
@@ -19105,10 +19105,10 @@
                 "town": "東港鎮",
                 "type": "私立",
                 "address": "[928]造福路122號",
-                "floor": "2F",
-                "size": "314平方公尺",
-                "size_in": "164平方公尺",
-                "size_out": "150平方公尺",
+                "floor": "",
+                "size": "",
+                "size_in": "",
+                "size_out": "",
                 "tel": "(08)8330336",
                 "url": "",
                 "count_approved": "70",
@@ -20650,11 +20650,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "高市教幼字第11440250200號",
+                "reg_no": "高市教幼字第11537152200號",
                 "reg_docno": "90府教學字第75029號",
                 "reg_date": "2001\/05\/07",
                 "title": "高雄市阿蓮區阿蓮國民小學附設幼兒園",
-                "owner": "簡靜慧",
+                "owner": "劉金旻",
                 "city": "高雄市",
                 "town": "阿蓮區",
                 "type": "公立",
@@ -95945,7 +95945,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "府教特字第1150127371號",
+                "reg_no": "府教特字第1150154295號",
                 "reg_docno": "府教特字第1030175659號",
                 "reg_date": "2014\/09\/22",
                 "title": "新竹市新科非營利幼兒園(委託財團法人福智文教基金會辦理)",
@@ -110597,11 +110597,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "高市教幼字第11136262200號",
+                "reg_no": "高市教幼字第11537151300號",
                 "reg_docno": "84府教學字第48724號",
                 "reg_date": "1995\/03\/15",
                 "title": "高雄市彌陀區壽齡國民小學附設幼兒園",
-                "owner": "蘇建洲",
+                "owner": "方朱衣絹",
                 "city": "高雄市",
                 "town": "彌陀區",
                 "type": "公立",
@@ -134536,7 +134536,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "府教幼字第1110133634號",
+                "reg_no": "府教幼字第1150347338號",
                 "reg_docno": "府教幼字第1090068347號",
                 "reg_date": "2020\/02\/26",
                 "title": "彰化縣私立森田國際幼兒園",
@@ -139551,7 +139551,7 @@
                 "pre_public": "114-115",
                 "is_free5": "",
                 "is_after": "無",
-                "penalty": "無",
+                "penalty": "有",
                 "has_slip": "no",
                 "id": "7d45c6ca-abf5-41ba-b28c-2726f1e78634",
                 "monthly": 3000,
@@ -208438,7 +208438,7 @@
                 "size": "410.59平方公尺",
                 "size_in": "158.44平方公尺",
                 "size_out": "252.15平方公尺",
-                "tel": "(02)24941274#51",
+                "tel": "(02)24941274#50",
                 "url": "http:\/\/tw.class.urlifelinks.com\/class\/?csid=css000000120269",
                 "count_approved": "30",
                 "shuttle": "",
@@ -221116,11 +221116,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "高市教幼字第10835803400號",
+                "reg_no": "高市教幼字第11537152300號",
                 "reg_docno": "86府教學字第6435號",
                 "reg_date": "1997\/01\/10",
                 "title": "高雄市茄萣區興達國民小學附設幼兒園",
-                "owner": "曾建勳",
+                "owner": "蘇建洲",
                 "city": "高雄市",
                 "town": "茄萣區",
                 "type": "公立",
@@ -236323,11 +236323,11 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "高市教幼字第11136212600號",
+                "reg_no": "高市教幼字第11537151800號",
                 "reg_docno": "高市教國字第01773號",
                 "reg_date": "1973\/09\/01",
                 "title": "高雄市新興區新興國民小學附設幼兒園",
-                "owner": "方文慧",
+                "owner": "馬惠祺",
                 "city": "高雄市",
                 "town": "新興區",
                 "type": "公立",
@@ -251095,10 +251095,10 @@
                 "town": "太平區",
                 "type": "公立",
                 "address": "[411]樹孝路336巷9號",
-                "floor": "1樓",
-                "size": "295平方公尺",
-                "size_in": "145平方公尺",
-                "size_out": "150平方公尺",
+                "floor": "",
+                "size": "",
+                "size_in": "",
+                "size_out": "",
                 "tel": "(04)23914533#770",
                 "url": "",
                 "count_approved": "30",
@@ -272227,7 +272227,7 @@
                 "size_in": "",
                 "size_out": "",
                 "tel": "(07)5522541#700",
-                "url": "http:\/\/tw.pre.urlifelinks.com\/school\/slps-kh",
+                "url": "",
                 "count_approved": "90",
                 "shuttle": "",
                 "pre_public": "無",
@@ -283418,6 +283418,43 @@
                 "coordinates": [
                     120.880401,
                     24.699421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "reg_no": "新北府教幼字第1151499839永和0032之2號",
+                "reg_docno": "八九北府社兒字第89188478號",
+                "reg_date": "2000\/05\/16",
+                "title": "新北市私立畝心屋沐和幼兒園",
+                "owner": "傅佩慈",
+                "city": "新北市",
+                "town": "永和區",
+                "type": "私立",
+                "address": "[234]民權路53號3樓之1",
+                "floor": "3",
+                "size": "410.86平方公尺",
+                "size_in": "410.86平方公尺",
+                "size_out": "",
+                "tel": "(02)29491375",
+                "url": "",
+                "count_approved": "80",
+                "shuttle": "",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "有",
+                "has_slip": "no",
+                "id": "ff407725-8f17-4c82-86d2-98094d1e3046",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520027,
+                    24.996761
                 ]
             }
         },
