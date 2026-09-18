@@ -686,5 +686,13 @@
     "sid": "MAAzADIANAAxADAAMAAxADAAMAA=",
     "name": "(私立)新北市私立華芯國際幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.065547,
+    "lng": 121.476546,
+    "sid": "MAAzADIANAAxADAAMAAxADAAMQA=",
+    "name": "(非營利)新北市童安非營利幼兒園（委託明新學校財團法人明新科技大學辦理）",
+    "type": "spub2"
   }
 ]
