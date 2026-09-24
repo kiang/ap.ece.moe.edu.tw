@@ -57,14 +57,6 @@
   },
   {
     "newsch": 1,
-    "lat": 25.019304,
-    "lng": 121.466289,
-    "sid": "MAAzADIAMgAwADAAMAAwADEAMQA=",
-    "name": "(私立)新北市私立光星幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
     "lat": 25.015574,
     "lng": 121.458361,
     "sid": "MAAzADIAMgAwADAAMAAwADEAMgA=",
@@ -237,14 +229,6 @@
     "lng": 121.461208,
     "sid": "MAAzADIAMgAwADAAMAAwADQAMAA=",
     "name": "(私立)新北市私立雨農幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.01917,
-    "lng": 121.466399,
-    "sid": "MAAzADIAMgAwADAAMAAwADQAMQA=",
-    "name": "(私立)新北市私立童心幼兒園",
     "type": "spub1"
   },
   {
@@ -573,14 +557,6 @@
     "lng": 121.461599,
     "sid": "MAAzADIAMgAwADAAMAAwADgANwA=",
     "name": "(私立)新北市私立雅森幼兒園",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.987399,
-    "lng": 121.429936,
-    "sid": "MAAzADIAMgAwADAAMAAwADgAOAA=",
-    "name": "(私立)新北市私立欣勵德幼兒園",
     "type": "spub1"
   },
   {
@@ -1102,14 +1078,6 @@
     "sid": "MAAzADIAMgAwADAAMAAxADYAMgA=",
     "name": "(準公共)新北市私立三元幼兒園",
     "type": "spub3"
-  },
-  {
-    "newsch": 1,
-    "lat": 25.006149,
-    "lng": 121.455791,
-    "sid": "MAAzADIAMgAwADAAMAAxADYAMwA=",
-    "name": "(私立)新北市私立吉的堡南雅幼兒園",
-    "type": "spub1"
   },
   {
     "newsch": 1,
