@@ -166,5 +166,13 @@
     "sid": "MAAzADIANAAzADAAMAAwADIANgA=",
     "name": "(私立)新北市私立夢不落幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.030174,
+    "lng": 121.41972,
+    "sid": "MAAzADIANAAzADAAMAAwADIANwA=",
+    "name": "(非營利)新北市泰好非營利幼兒園（委託社團法人新北市多元教育協會辦理）",
+    "type": "spub2"
   }
 ]

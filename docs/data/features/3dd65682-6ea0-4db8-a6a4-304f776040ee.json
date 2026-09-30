@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府教特一字第1152448500號",
+        "reg_docno": "府教特一字第1152448500號",
+        "reg_date": "2026\/09\/29",
+        "title": "雲林縣元長鄉新生國民小學附設幼兒園",
+        "owner": "陳文詠",
+        "city": "雲林縣",
+        "town": "元長鄉",
+        "type": "公立",
+        "address": "[655]新生路11號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(05)7983093",
+        "url": "",
+        "count_approved": "46",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "3dd65682-6ea0-4db8-a6a4-304f776040ee",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.358963,
+            23.63769
+        ]
+    }
+}
