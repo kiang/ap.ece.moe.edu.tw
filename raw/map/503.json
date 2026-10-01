@@ -9,14 +9,6 @@
   },
   {
     "newsch": 1,
-    "lat": 24.02764,
-    "lng": 120.540545,
-    "sid": "MQAxADUAMAAzADAAMAAwADAAMQAtADAAMQA=",
-    "name": "(私立)彰化縣私立長頸鹿幼兒園成功分班",
-    "type": "spub1"
-  },
-  {
-    "newsch": 1,
     "lat": 24.018177,
     "lng": 120.544977,
     "sid": "MQAxADUAMAAzADAAMAAwADAAMgA=",
@@ -126,13 +118,5 @@
     "sid": "MQAxADUAMAAzADAAMAAwADEANgA=",
     "name": "(非營利)彰化縣花壇非營利幼兒園（委託社團法人彰化縣中華幼兒教保職涯發展協會辦理）",
     "type": "spub2"
-  },
-  {
-    "newsch": 1,
-    "lat": 24.021608,
-    "lng": 120.535523,
-    "sid": "MQAxADUAMAAzADAAMAAwADEANwA=",
-    "name": "(私立)彰化縣私立士賢幼兒園",
-    "type": "spub1"
   }
 ]
