@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "北市幼兒園證字第827號",
+        "reg_docno": "北市教前字第1153103650號",
+        "reg_date": "2026\/09\/29",
+        "title": "臺北市培英非營利幼兒園（委託社團法人台灣社會發展推動協會辦理）",
+        "owner": "羅雪娥",
+        "city": "臺北市",
+        "town": "中山區",
+        "type": "非營利",
+        "address": "[104]北安路538巷1弄2號2樓(培英社會住宅內)",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "申請中",
+        "url": "評鑑情形：",
+        "count_approved": "106",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "9ec6e880-ac2c-4edd-a483-4c68554a514a",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.548316,
+            25.079798
+        ]
+    }
+}

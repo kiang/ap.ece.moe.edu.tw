@@ -398,5 +398,13 @@
     "sid": "MAAyADEAMAA0ADAAMAAwADcAMgA=",
     "name": "(私立)臺北市奇地職場互助教保服務中心",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 25.079798,
+    "lng": 121.548316,
+    "sid": "MAAyADEAMAA0ADAAMAAwADcAMwA=",
+    "name": "(非營利)臺北市培英非營利幼兒園（委託社團法人台灣社會發展推動協會辦理）",
+    "type": "spub2"
   }
 ]
