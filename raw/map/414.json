@@ -230,5 +230,13 @@
     "sid": "MAA5ADQAMQA0ADAAMAAwADMAMAA=",
     "name": "(私立)嶼和文創股份有限公司附設臺中市私立育采幼兒園",
     "type": "spub1"
+  },
+  {
+    "newsch": 1,
+    "lat": 24.107244,
+    "lng": 120.599588,
+    "sid": "MAA5ADQAMQA0ADAAMAAwADMAMQA=",
+    "name": "(非營利)臺中市榮泉非營利幼兒園（委託財團法人宏觀文教基金會辦理）",
+    "type": "spub2"
   }
 ]

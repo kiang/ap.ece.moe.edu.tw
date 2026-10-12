@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "高市教幼字第11537537900號",
+        "reg_docno": "高市教幼字第11536934300號",
+        "reg_date": "2026\/09\/03",
+        "title": "高雄市鳳松安居非營利幼兒園（委託社團法人高雄市婦幼亮晶晶促進協會辦理）",
+        "owner": "歐秋香",
+        "city": "高雄市",
+        "town": "鳳山區",
+        "type": "非營利",
+        "address": "[830]鳳松路468號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(07)7338667",
+        "url": "評鑑情形：",
+        "count_approved": "76",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "463a4c92-7f9d-4185-bef0-14e8f3ab4c35",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.364953,
+            22.642546
+        ]
+    }
+}
