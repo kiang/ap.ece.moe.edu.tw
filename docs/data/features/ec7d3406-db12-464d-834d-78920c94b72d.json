@@ -1,0 +1,37 @@
+{
+    "type": "Feature",
+    "properties": {
+        "reg_no": "府授教幼字第1150662271號",
+        "reg_docno": "府授教幼字第1150662271號",
+        "reg_date": "2026\/10\/12",
+        "title": "新竹縣私立暖心圓幼兒園",
+        "owner": "王思云",
+        "city": "新竹縣",
+        "town": "竹北市",
+        "type": "私立",
+        "address": "[302]嘉政九街81號",
+        "floor": "",
+        "size": "",
+        "size_in": "",
+        "size_out": "",
+        "tel": "(03)6587336",
+        "url": "",
+        "count_approved": "108",
+        "shuttle": "",
+        "pre_public": "無",
+        "is_free5": "",
+        "is_after": "無",
+        "penalty": "無",
+        "has_slip": "no",
+        "id": "ec7d3406-db12-464d-834d-78920c94b72d",
+        "monthly": 2000,
+        "is_active": 1
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.034454,
+            24.804984
+        ]
+    }
+}
