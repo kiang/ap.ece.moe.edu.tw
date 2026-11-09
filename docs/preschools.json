@@ -18874,7 +18874,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "新北府教幼字第1080581276號",
+                "reg_no": "新北府教幼字第1151499839土城0054之3號",
                 "reg_docno": "八九北府社兒字第89487526號",
                 "reg_date": "2000\/12\/15",
                 "title": "新北市私立常春藤幼兒園",
@@ -88602,7 +88602,7 @@
                 "pre_public": "113-115",
                 "is_free5": "",
                 "is_after": "有，人數：20",
-                "penalty": "無",
+                "penalty": "有",
                 "has_slip": "no",
                 "id": "4e6e77d4-dc82-4a64-831b-ada61c79095b",
                 "monthly": 3700,
@@ -104353,9 +104353,9 @@
                 "town": "大安區",
                 "type": "私立",
                 "address": "[106]金華街223之5號2樓及223之9號2樓",
-                "floor": "2",
-                "size": "162.0175平方公尺",
-                "size_in": "162.0175平方公尺",
+                "floor": "",
+                "size": "",
+                "size_in": "",
                 "size_out": "",
                 "tel": "(02)23914431",
                 "url": "http:\/\/www.gymbaby.com.tw\/",
@@ -158882,7 +158882,7 @@
         {
             "type": "Feature",
             "properties": {
-                "reg_no": "府教幼字第1140369925號",
+                "reg_no": "府教幼字第1150279886號",
                 "reg_docno": "府教幼字第1140369925號",
                 "reg_date": "2025\/12\/24",
                 "title": "桃園市私立聖堡登青埔幼兒園",
@@ -179319,7 +179319,7 @@
                 "size": "1,037.34平方公尺",
                 "size_in": "363.27平方公尺",
                 "size_out": "674.07平方公尺",
-                "tel": "(07)8036569#810",
+                "tel": "(07)8036569#771",
                 "url": "https:\/\/class.kh.edu.tw\/10214",
                 "count_approved": "90",
                 "shuttle": "",
@@ -214783,6 +214783,43 @@
                 "coordinates": [
                     121.179511,
                     24.906756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "reg_no": "府授教幼字第1150662411號",
+                "reg_docno": "府授教幼字第1150662411號",
+                "reg_date": "2026\/11\/04",
+                "title": "新竹縣私立萌芽幼兒園",
+                "owner": "",
+                "city": "新竹縣",
+                "town": "竹東鎮",
+                "type": "私立",
+                "address": "[310]和江街73巷36號",
+                "floor": "",
+                "size": "",
+                "size_in": "",
+                "size_out": "",
+                "tel": "(03)5102310",
+                "url": "",
+                "count_approved": "39",
+                "shuttle": "",
+                "pre_public": "無",
+                "is_free5": "",
+                "is_after": "無",
+                "penalty": "無",
+                "has_slip": "no",
+                "id": "c245c99a-eaa6-4afe-acb8-1071ce18ca34",
+                "monthly": 2000,
+                "is_active": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.0944",
+                    "24.719186"
                 ]
             }
         },
